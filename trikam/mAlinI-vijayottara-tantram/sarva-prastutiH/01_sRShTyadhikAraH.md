@@ -627,7 +627,7 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 
 इति श्रीमालिनीविजयोत्तरे प्रथमोऽधिकारः ॥ १ ॥
 
-<div class="js_include" newlevelforh1="2" title="मूलम्" unfilled url="/AgamaH/AryaH/hinduism/branches/shaivaH/trikam/mAlinI-vijayottara-tantram/mUlam/01_sRShTyadhikAraH.md">
+<div class="js_include" newlevelforh1="2" title="मूलम्" unfilled url="/AgamaH_shaivaH/trikam/mAlinI-vijayottara-tantram/mUlam/01_sRShTyadhikAraH.md">
 <details open><summary><h2>मूलम् ...{Loading}...</h2></summary>
 
 अथ मालिनीविजयोत्तरे तन्त्रे प्रथमोऽधिकारः ।
