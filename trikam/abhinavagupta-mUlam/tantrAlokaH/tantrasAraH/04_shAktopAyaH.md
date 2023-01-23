@@ -16,12 +16,12 @@ title = "04 शाक्तोपायः"
 सत्-तर्क--सद्-आगम--सद्-गुरूपदेश-पूर्वकस्य  
 **+अस्ति +उपयोगः** । 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 गुणान्तरोत्पादनं **संस्कारः**, स चाभ्यासातिशय-तारतम्येन भवति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Chapter Four
 
@@ -48,7 +48,7 @@ When, for the purpose of attaining one's own innate nature (sva-bhāva), thought
 संसार-हेतुं विकल्पं दलयति -  
 इत्य् **अभ्युदय-हेतुः** । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 It is because of the power of thought constructs (vikalpa) that living beings wrongly conceive of themselves[^34] as bound.  
 A firm conviction (abhimana) regarding one's own nature becomes the cause of freedom from samsāra.  
@@ -80,7 +80,7 @@ This new vikalpa becomes the cause of ascent (abhyudaya), enabling one to attain
 
 इति । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 This is as follows: 
 
@@ -98,7 +98,7 @@ This is as follows:
 न ऊर्ध्व-दर्शनेऽपि तद्-उन्मुखतां +++([क्: अप्युन्मुखतामिति पाठः ।])+++ भजन्ते। +++(5)+++  
 ततः सत्-तर्क--सद्-आगम--सद्-गुरूपदेश-द्वेषिण एव ।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 This kind of conviction, however, does not arise in those blinded by māyā, because they lack right reasoning (sat tarka), etc.  
 Vaisnavas and others are restricted to their own scriptures by the principle of attachment (rāga). For this very reason, they show no interest in studying superior agamas in spite of their being available.  
@@ -113,7 +113,7 @@ In this way, they show jealousy in regard to right reasoning, right scriptures (
 सर्वज्ञ-ज्ञान-वर्जिताः  
 +++([ख्: सर्वज्ञं सर्वशक्तिकम् इति पाठः ।])+++ ॥
  
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 As it is said in the Parameśvara Āgama:
 
@@ -128,7 +128,7 @@ only because they are devoid of knowledge emerging from omniscience.
 सद्-आगमादि-क्रमेण **विकल्पं संस्कृत्य**  
 **परं स्वरूपं प्रविशन्ति** ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 विकल्पसंस्कारो यथा -
 
@@ -142,7 +142,7 @@ only because they are devoid of knowledge emerging from omniscience.
 इत्यादि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Therefore, only those keenly touched by the energy of Śiva, after following the path of right āgama, etc., purify their vikalpas and enter the supreme reality.[^36]
 
@@ -160,7 +160,7 @@ Therefore, only those keenly touched by the energy of Śiva, after following the
 **परं तत्त्वं** तु सर्वत्र सर्वरूपतया **स्वप्रकाशम्** एव +इति -  
 न तत्र +++(परतत्त्वे)+++ विकल्पः कस्यैचिद् उपक्रियायै खण्डनायै वा ।+++(5)+++
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Here a question can be asked: If this is so, shouldn't the supreme reality also be a form of determinate knowledge (vikalpa)?  
 The answer to this question is, "certainly not,” because determinate knowledge fulfills its purpose simply by removing the impressions of duality.  
@@ -174,7 +174,7 @@ The forms of determinate knowledge are not capable of either lending any support
 स्वयम् एव सांसिद्धिकतया सत्तर्क उदेति।  
 योऽसौ **देवीभिर् दीक्षित** इति उच्यते । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Right reasoning (sattarka) spontaneously arises in a person keenly touched by Śakti. It is said that this kind of person is initiated by the Goddesses.
 
@@ -182,7 +182,7 @@ Right reasoning (sattarka) spontaneously arises in a person keenly touched by Ś
 
 **अन्यस्य +आगम-क्रमेण** +इत्यादि सविस्तरं शक्ति-पात-प्रकाशने वक्ष्यामः ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 In the case of others, the form of right reasoning arises by the study of scriptures, and so forth. This topic will be discussed at length in the section entitled śaktipātaprakāśana.
 </details>
@@ -193,7 +193,7 @@ In the case of others, the form of right reasoning arises by the study of script
 निःशङ्क--सजातीय--तत्-प्रबन्ध-प्रसव--निबन्धन-समुचित-**विकल्पोदये**  
 व्यापारः। +++(5)+++   
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 However, at this point it will suffice to say that the role of the teacher is to select an appropriate āgama text for a disciple to study.  
 The role of agama, on the other hand, is to give rise to the proper type of vikalpa (śuddha-vikalpa),  
@@ -207,7 +207,7 @@ free from doubt.
 अस्फुटत्वाद् भूतम् अप्य् अर्थम् अभूतम्+++(→वर्तमानम्)+++ इव  
 **स्फुटत्वापादनेन भाव्यते** यया इति ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 This series of homogeneous determinate thoughts is called right reasoning (sat tarka),  
 and this right reasoning is called meditation (bhāvanā).  
@@ -226,7 +226,7 @@ Through bhāvanā [^37] past objects (objects that have gone to rest in the past
 तपःप्रभृतेः नियम-वर्गस्य, अहिंसादेश् च यम-प्रकारस्य, पूरकादेः प्राणायाम-वर्गस्य।  
 वेद्य-मात्र-निष्ठत्वेन क इव संविदि व्यापारः ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 योगाङ्गानि च
 
@@ -243,7 +243,7 @@ Through bhāvanā [^37] past objects (objects that have gone to rest in the past
 इति यमाः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 In this context we can say that no other direct means but reasoning, which is the light of pure knowledge, can serve as the limb of yoga.  
 For example, tapas, etc., belonging to the niyama group, ahimsa, etc., belonging to the yama group,[^38] various types of prāṇāyāma, etc., all are finally based in objective existence.  
@@ -257,7 +257,7 @@ Therefore, what could be their role in regard to consciousness?
 ### अगृहीतोपायाः
 **प्रत्याहारो** ऽपि +++(ज्ञान-कर्मेन्द्रिय-रूप-)+++करण-भूमिम् एव सातिशयां कुर्यात्। 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Even pratyaharā [^39] only renders excellence on the level of senses, that is, the instruments of knowledge and action.
 
@@ -270,14 +270,14 @@ Even pratyaharā [^39] only renders excellence on the level of senses, that is, 
 यथोत्तरम् अभ्यास-क्रमेण निर्वर्त्यमाना  
 ध्येय-वस्तु-तादात्म्यं ध्यातुः वितरेयुः ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 In the same way, dhāraṇā, dhyāna, and samadhi, if practiced gradually and in this particular order, could grant to the medita tor the identification with the object of his meditation.
 </details>
 
 **अभ्यासश्** च परे तत्त्वे शिवात्मनि स्व-स्वभावे न सम्भवत्य् एव ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 However, meditation or practice on the supreme reality, which is identical with śiva and is one's own innate nature, is not at all possible.
 </details>
@@ -288,12 +288,12 @@ However, meditation or practice on the supreme reality, which is identical with 
 न +अपसरणीयम् इति  
 कथम् +++(चित्रो)+++ अभ्यासः?
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 संविद्-गतं हि प्राणादि-निष्ठं क्रियते इत्य् एतद्-रूपो **ऽभ्यासः** ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The practice of one who is established in consciousness is the process of steadily establishing prāṇa, intellect, and body in it.  
 This is not unike carrying a burden, studying the real meaning of śāstras, or practicing dance.  
@@ -310,7 +310,7 @@ In the case of consciousness, however, nothing can be added or taken away from i
 उक्तम् अत्र - द्वैताधिवास-निरास-प्रकार एव +अयं,  
 न तु +अन्यत् किञ्चिद् इति ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Now the question arises: "If this is so, then what can be accomplished by right reasoning?” We have already answered this ques tion by saying that the role of right reasoning is only to remove the impressions of duality and nothing else whatsoever.
 </details>
@@ -323,7 +323,7 @@ Now the question arises: "If this is so, then what can be accomplished by right 
 +इति +एष एव अभ्यासार्थः ।  
 +++(स्वातन्त्र्यान् नात्र हेयरूपाणि गृहीतानि।)+++
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 As every thing is of the nature of consciousness, the main purpose of even ordinary practice is to create the desired form in the body, prāṇa, etc., and put the undesired form in a subordinated place.
 </details>
@@ -333,7 +333,7 @@ As every thing is of the nature of consciousness, the main purpose of even ordin
 अपि तु **स्वरूपाख्याति-मात्रं** तत्।  
 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 However, it has already been explained that nothing can be taken away from the supreme reality.  
 Even the impression of duality is not something different from consciousness. It is merely ignorance of one's own essential nature. 
@@ -347,7 +347,7 @@ Even the impression of duality is not something different from consciousness. It
 अथ विकसितम्,  
 इत्यनेन क्रमेण **प्रकाशते**।+++(5)+++   
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Therefore, it was said that duality is removed by pure determinate thought (śuddha-vikalpa).  
 The supreme essential nature has an innermost nature (svabhāva) that is self-shining, which assumes the state of ignorance through its own freedom.  
@@ -359,14 +359,14 @@ Thus, by manifesting [literally 'shining'], following this sequential order, it 
 तथा प्रकाशनम् अपि परमेश्वरस्य स्वरूपम् एव।  
 तस्मान् **न** +अत्र +++(अभ्यासरूपाणि)+++ **योगाङ्गानि साक्षाद् उपायः** ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 This shining is the very nature of the Lord, and for that reason the limbs of yoga cannot be the direct means.
 </details>
 
 **सत्-तर्क** एव साक्षात् तत्र +उपायः। स एव च शुद्ध-विद्या।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 However, reasoning (tarka) is of great importance here, and right reasoning (sattarka) alone is the direct means.
 </details>
@@ -376,7 +376,7 @@ However, reasoning (tarka) is of great importance here, and right reasoning (sat
 स +++(सत्-तर्कः)+++ च **बहु-प्रकारतया संस्कृतो** भवति।  
 तद् यथा - यागो होमो जपो व्रतं योग इति +++(वक्ष्यमाण-विशेषार्थेषु)+++।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 This right reasoning is pure cognition (śuddha-vikalpa), which gets purified through different means, such as through oblation (yāga), offering of food into the fire (homa), repetition of mantra (japa), religious observances .(vrata), yoga, etc..
 </details>
@@ -385,7 +385,7 @@ This right reasoning is pure cognition (śuddha-vikalpa), which gets purified th
 
 "तत्र भावानां +++([क्: सर्वभावानामिति पाठः ।])+++  सर्वेषां परमेश्वर एव स्थितिः, नान्यद् व्यतिरिक्तम् अस्ति" +इति विकल्प-रूढि-सिद्धये परमेश्वर एव सर्व-भावार्पणं **यागः**।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Yāga is offering of all entities to the Lord for the purpose of attaining firm conviction in the form of the determinate knowledge: "All entities are firmly established in the Lord and there is nothing separate from him."
 </details>
@@ -398,7 +398,7 @@ Yāga is offering of all entities to the Lord for the purpose of attaining firm 
 इत्य् अभिप्रायेण  
 हृद्यानां कुसुम-तर्पण-गन्धादीनां बहिर्-उपयोग उक्तः ।+++(4)+++
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 यदुक्तम्
 
@@ -410,7 +410,7 @@ Yāga is offering of all entities to the Lord for the purpose of attaining firm 
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 For those who are spontaneously enjoyers of penetration into consciousness, it is easy to make this offering (yāga) to the Lord because it is pleasing to the heart.  
 It is with this purpose in mind that offerings such as beautiful flowers, sandal paste, etc., are prescribed to be offered externally. +++(नात्रानुवादकः साध्व् अवागच्छत्। )+++
@@ -421,7 +421,7 @@ It is with this purpose in mind that offerings such as beautiful flowers, sandal
 परमेश-संविद्-**अनल-तेजसि** समस्त-भाव-ग्रास-रसिकताऽभिमते   
 तत्+++(→संविदनल)+++-तेजो-मात्राऽवशेषत्व-सह--समस्त-भाव-विलापनं **होमः**।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 यदुक्तम्
 
@@ -441,7 +441,7 @@ It is with this purpose in mind that offerings such as beautiful flowers, sandal
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Offerings into consecrated fire (homa) is  
 dissolution of all entities into the fire of consciousness of the Lord,  
@@ -455,7 +455,7 @@ Homa is for the purpose of attaining this steady determinate conviction:
 +"एवं-विधं तत् परं तत्त्वं स्व-स्वभाव-भूतम्" इति  
 +अन्तः-परामर्शनं **जपः**।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 यदुक्तम्
 
@@ -467,7 +467,7 @@ Homa is for the purpose of attaining this steady determinate conviction:
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Repetition of a mantra (japa) is for the purpose of enlivening reflective cognitions, 
 but without being dependent on them existing as knowables either externally or internally,  
@@ -487,7 +487,7 @@ is called japa.
 
 इति ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Religious observance (vrata) is the perception with firm con viction that the body, a jar, etc., are in essence identical with the Lord.  
 This is for the purpose of attaining the supreme Self consciousness (abhimāna) of the Lord, which is not to be attained by any other means.  
@@ -499,7 +499,7 @@ As it is said in the Srinandisikhā, “The highest vow (vrata) is the harmony o
 तस्यैव सनातन-तथा-विध-प्रकाश-मात्रता-रूढये  
 तत्-स्वरूपानुसन्धानात्मा विकल्प-विशेषो **योगः** ।+++(4)+++
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 That supreme reality, which is independent from all forms of thought constructs, shines forth through various forms of determinate knowledge which possesses elements of pure knowledge (suddhavidyā).  
 Yoga, which is a particular type of determinate knowledge (vikalpa), and whose nature is the unification with one's own innate nature, exists for the purpose of establishing one firmly in that ever-shining light.
@@ -513,7 +513,7 @@ Yoga, which is a particular type of determinate knowledge (vikalpa), and whose n
 +इत्यादिभिः आगम-भाषाभिः तत्-तद्-अन्वर्थ-प्रवृत्ताभिः अभिधीयते -  
 तेन तेन रूपेण ध्यायिनां हृदि आस्ताम् इति ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 यदुक्तम्
 
@@ -537,7 +537,7 @@ Yoga, which is a particular type of determinate knowledge (vikalpa), and whose n
 अक्षरवर्णन-साम्याश् च **त्रिंशिकेत्य्** अपि गुरवः पठन्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The essential nature of the great Lord is the 'fullness of his consciousness' (purna-samvit-svābhava). This fullness of con sciousness is his śakti, [^41] which is known as body (kula), capacity (samarthya), wave (urmi), heart (hrdaya), essence (sāra), vibration (spanda), glory of power (vibhuti), the three-formed goddess (trisikā), the cause of kalana (kali), one who minimizes (karsini), dreadful (candi), speech (vāṇi), enjoyment (bhoga), knowledge (drk), and the superintending deity of lunar phases (nityā).  
 This Śakti is expressed by these and other appellations based on various grammatical derivations, which are technical terms used in the āgamas.  
@@ -558,7 +558,7 @@ Let this Śakti abide in any of these forms in the heart of ā meditator.
 सा च समग्र-शक्तिता-दर्शनेन **पूर्णता-संवित्** प्रकाशते ।  
 **शक्तयश्** च +अस्य असङ्ख्येयाः ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 If this śakti is viewed collectively, as consisting of the totality of all śaktis, the fullness of consciousness becomes manifest.  
 The Lord possesses innumerable dynamic energies (śaktis).
@@ -568,12 +568,12 @@ The Lord possesses innumerable dynamic energies (śaktis).
 ताः कथम् उपदेष्टुं शक्या इति-  
 तिसृषु तावत् विश्वं समाप्यते।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **अस्य** = पूर्ण-संवित्-स्वभावस्य
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 What more can we say? The entire universe is his śakti. Therefore, it is impossible to enumerate all of them in this instruction.  
 However, the whole universe can be summed up under three main Śaktis.
@@ -587,7 +587,7 @@ However, the whole universe can be summed up under three main Śaktis.
 सा अस्य **श्री-परा-शक्तिः**।  
 +++(सा च स्वसंवित्तिर् विमर्श इति वार्त्तिके । )+++
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The supreme energy (Śrīparāśakti) of the Lord is that śakti by means of which this universe, beginning with śiva and ending with earth principle (tattva), is born, seen, and manifested by the Lord in indeterminate consciousness.
 </details>
@@ -596,7 +596,7 @@ The supreme energy (Śrīparāśakti) of the Lord is that śakti by means of whi
 +++(शिवादि-धरण्य्-अन्तम् बिभर्ति च पश्यति च भासयति च)+++  
 सा अस्य **श्री-परापरा-शक्तिः**, +++(मानम् इति वार्त्तिक उक्ता च)+++।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Srīparāparāśakti of the Lord is that śakti by means of which he projects the universe just like the reflection of an elephant, etc., in a mirror +++(reflection being part of mirror, yet separate)+++: as different-cum nondifferent.
 </details>
@@ -606,7 +606,7 @@ Srīparāparāśakti of the Lord is that śakti by means of which he projects th
 सा अस्य **श्रीमद्-अपरा-शक्तिः** ।  
 +++(मेयात्मिकेयम् इति वार्त्तिकम्।)+++
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The glorious Aparāśakti is that śakti by means of which he manifests this differentiated universe, in which all these objects appear as different from one another.
 </details>
@@ -618,7 +618,7 @@ The glorious Aparāśakti is that śakti by means of which he manifests this dif
 सा +अस्य भगवती **श्रीपरैव**  
 श्रीमन्-मातृ-सद्-भाव--काल-कर्षिण्य्-आदि-शब्दान्तर-निरुक्ता +++(इति शक्तीनां चतुर्थः प्रकार इव)+++।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 That śakti, by means of which the triad of śaktis are born, that is, embraced (withdrawn) internally into the Lord through the process of unification (anusandhāna), is the glorious Parāśakti. That śakti (although remaining) Śrīparā is now called śrīmātrsadbhava,[^42] Kalakarsini,[^43] etc.
 
@@ -635,7 +635,7 @@ That śakti, by means of which the triad of śaktis are born, that is, embraced 
 
 ता एताश् चतस्रः शक्तयः स्वातन्त्र्यात् प्रत्येकं त्रिधैव वर्तन्ते - सृष्टौ स्थितौ संहारे च +इति **द्वादश भवन्ति** ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Each of those four śaktis, because of their freedom, shines in threefold manner; that is, creation, maintenance, and dissolution. In this way, the number increases to twelve.[^44]
 
@@ -700,7 +700,7 @@ Each of those four śaktis, because of their freedom, shines in threefold manner
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **शङ्का** हि शास्त्रानन्त्यात् कार्याकार्य-विभागस्य विपर्यय-दर्शनात् किङ्कर्तव्यता-मूढता-रूपा ।
 
@@ -724,7 +724,7 @@ Each of those four śaktis, because of their freedom, shines in threefold manner
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 This takes place in the following way:
 
@@ -748,7 +748,7 @@ This takes place in the following way:
 संविदः प्रमातॄन् एकं वापि +उद्दिश्य  
 युगपत् क्रमेण द्विशः त्रिश इत्य्-आदि-स्थित्या ऽपि उदय-भागिन्यः  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Thus, the 'twelve divine Goddesses of consciousness' (dvādaśa Bhagavatyah) manifest themselves, either to all subjects or only one, simultaneously or sequentially, either in two or three.
 </details>
@@ -759,7 +759,7 @@ Thus, the 'twelve divine Goddesses of consciousness' (dvādaśa Bhagavatyah) man
 अन्ततो वा +++(जीव-विकल्प-प्रमेयेषु)+++ घट-पटादि-क्रमेणाऽपि **भासमानाः**  
 चक्रेश्वरस्य **स्वातन्त्र्यं पुष्णत्यः** **श्रीकाली-शब्द-वाच्याः** । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 They move in the manner of a circle like a wheel, and also shine externally in the form of months, and other minute divisions of time, the signs of zodiac, and finally in the form of pot, cloth, etc.
 
@@ -771,7 +771,7 @@ In this way, they nourish the autonomy of the 'Lord of the Wheel (Cakreśvara) a
 **कलनं** च +++(धातुपाठम् अनुसृत्य)+++-  
 गतिः क्षेपो ज्ञानं गणनं भोगीकरणं शब्दनं स्वात्मलयीकरणं च ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 यदुक्तम्
 
@@ -783,7 +783,7 @@ In this way, they nourish the autonomy of the 'Lord of the Wheel (Cakreśvara) a
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The different meanings of the word kalana[^45] are: moving, throwing (projecting), knowledge, enumeration, causing all the objects to become objects of enjoyment, sounding, and withdrawing [assimilating] the objects into oneself.
 
@@ -806,7 +806,7 @@ The different meanings of the word kalana[^45] are: moving, throwing (projecting
   
 +इति ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 As it has been stated by the teacher Śrī Bhūtirāja: "She is known as Kālī on account of projecting, knowing, and enumerating.”
 </details>
@@ -818,7 +818,7 @@ As it has been stated by the teacher Śrī Bhūtirāja: "She is known as Kālī 
 +++(स्व-समीक्षा-स्फोरणाय शिष्येषु)+++ "न +अतिरहस्यम् एकत्र ख्याप्यं, न च सर्वथा गोप्यम्" इति हि अस्मद्-गुरवः ।+++(5)+++
 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The meaning of Kālī can be seen in detail in various places of my Parātrīśikā Vivarana and the monograms of my hymns.  
 It is the tradition of my teachers that esoteric secrets should not be disclosed in one place, nor is it proper to keep them totally hidden.
@@ -828,12 +828,12 @@ It is the tradition of my teachers that esoteric secrets should not be disclosed
 
 तद् एवम् यद्-उक्तं **याग-होमादि** तद् **एवं-विधे** +++([ख्: एवं विधमिति पाठः ।])+++ **महेश्वर** एव मन्तव्यम् ।  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 न तु मायागर्भाधिकारिणि अन्यस्मिन्निति भावः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 All that has been stated about yāga, homa, and so on, should be understood to be only for Maheśvara.[^46]
 
@@ -846,7 +846,7 @@ All that has been stated about yāga, homa, and so on, should be understood to b
 **विष्णुतः प्रभृति शिवान्तं परम-शिवतया** पश्यन्ति।  
 तच् च **मिथ्या-दर्शनम्** अवश्य-त्याज्यम् अनुत्तर-योगिभिर् इति। 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 All perceive those very things that are to be avoided as those that are to be accepted, and also perceive everything from Viṣnu to śiva as Paramaśiva.  
 This kind of view is wrong and it should be rejected by yogins following the path of the Absolute (anuttarayogins).
@@ -854,7 +854,7 @@ This kind of view is wrong and it should be rejected by yogins following the pat
 
 तदर्थम् एव विद्याधिपतेः +++(आचार्यविशेषस्य)+++ अनुभव-स्तोत्रे महान् संरम्भः।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 For this very purpose, Vidyādhipati has made great effort in his monograms entitled "Anubhāva Stotra."
 </details>
@@ -870,13 +870,13 @@ For this very purpose, Vidyādhipati has made great effort in his monograms enti
 
 इति उक्तं श्रीपूर्वादौ +++(=मालिनीविजयोत्तरे)+++।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **भक्ष्याभक्ष्यादि-विवेचनया** - वैदिक-क्रिया-मात्र-परत्वे ।  
 **आदिना** कार्याकार्यादि गृह्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Thus, in each of these five, beginning with yāga and ending with yoga, there are different levels of steadiness to be attained.[^47] One should act in such a way that one may attain a steady conviction in them.
 
@@ -906,7 +906,7 @@ This kind of yogin should not think, “This food is sanctioned and this food is
 सर्वज्ञानोत्तराद्य्-अनन्तागम-सिद्धं च  
 +इति वक्ष्यामः ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **चोदनान्तरे ऽपि** - शिवोदिते । क्रियायां प्रवर्तकं वचनं चोदनेति ।
 
@@ -918,7 +918,7 @@ This kind of yogin should not think, “This food is sanctioned and this food is
 
 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Purity is not the essential attribute of an object in the same way as the property of being blue, etc., is not the essential nature of an object,  
 for it has been started to be impure on other occasions.
@@ -940,7 +940,7 @@ We shall speak of it later in the sequel.
 इति सिद्धम् ।  
 तथैव च +उक्तं श्रीपूर्वादौ, वितत्य तन्त्रालोकात् अन्वेष्यम् ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Therefore, the rule which is enjoined, in the scriptures, as the precept to be followed and the thing that is to be prohibited,  
 beginning from the Vedas down to the Tantras of the Lord as understood by the Siddhāntins, such as Kulocchuṣma and others, serves no purpose in this context;  
@@ -957,7 +957,7 @@ One should seek a detailed account of it in the Tantrāloka and other texts.
 इत्य् एतद् अन्य-दृढ-निश्चय-लाभ-सिद्ध्या  
 सद्यः **पतिर् भवति** विश्व-वपुश् चिद्-आत्मा ॥ +++(4)+++
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 
 Bound souls possess a firm conviction of the following nature:  
@@ -973,12 +973,12 @@ the same bound soul immediately becomes the Lord (pati) with the immanent form o
 न वस्तु-याथात्म्य-विहीनया दृशा  
 विशङ्कितव्यं शिशु-देशना-गणैः +++(अनुत्तमागादिभिः)+++॥
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **शिशु-देशना-गणैः** = अ-परमार्थ-ज्ञोपदेशैर् मूर्खोपदेशैर् इत्य् अर्थः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The perfect yogin should always be mindful that a firm conviction of the aforesaid nature should be attained.  
 He should not endanger himself with doubts [arising from] notions lacking the true nature of things, or by the unsound precepts of dullards.

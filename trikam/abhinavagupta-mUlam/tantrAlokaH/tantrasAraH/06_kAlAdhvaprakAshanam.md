@@ -8,7 +8,7 @@ title = "06 कालाध्वप्रकाशनम्"
 
 अथ बाह्य-विधिः ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Chapter Six
 
@@ -22,7 +22,7 @@ External Practice
 स एव +++(बाह्य-विधिः)+++ स्थान-प्रकल्पन-शब्देन +++(स्पष्टीकरिष्यमाणेन)+++ उक्तः।  
 तत्र त्रिधा **स्थानं** - प्राण-वायुः, शरीरं, बाह्यं+++(=तीर्थादिकम्)+++ च।  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **प्राण** इति-   
 सामान्य-स्पन्दनात्मनि विशिष्टे पुनर्-वाचक-रूपस् त्रिविध एव यद् उक्तम् ।
@@ -33,7 +33,7 @@ External Practice
 प्राणे स्पष्टं प्रतिष्ठितः ॥ इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 This external practice is denoted by the term 'formation of the place' (sthānaprakalpana).  
 According to this system, the location (sthāna) is threefold, i.e., vital air (prāṇa),[^79] the body, and external objects.[^71]
@@ -54,13 +54,13 @@ According to this system, the location (sthāna) is threefold, i.e., vital air (
 तत्र **प्राणे** तावद् **विधिः** +++([क्: कथ्यते इति पाठः।])+++।  
 सर्वो ऽसौ वक्ष्यमाणो ऽध्वा **प्राणस्थः कल्यते**।  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **सर्वः** षड्विधः ।  
 **प्राणस्थः** - प्राणे सामान्य-स्पन्दात्मनि। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The procedure (vidhi) with regard to vital air (prāṇa)[^72] is as follows.  
 The entire sixfold path, which will be elaborated later, is conceived as abiding in the vital air.
@@ -75,7 +75,7 @@ The entire sixfold path, which will be elaborated later, is conceived as abiding
 
 तस्य क्रमाक्रम-कलनैव  **कालः**।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **क्रमेणाक्रमेण च कलना** भावानां परिच्छित्तिः। सैव **कालः**। तत्र **क्रमेण** कार्य-कारणादौ, **अक्रमेण** चित्र-ज्ञानादौ ।+++(5)+++ तथा चोक्तम्
 
@@ -87,7 +87,7 @@ The entire sixfold path, which will be elaborated later, is conceived as abiding
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Time (kāla) is the sequential and non-sequential unfoldment[^73] of mutative activity (kalana).
 
@@ -107,13 +107,13 @@ Time (kāla) is the sequential and non-sequential unfoldment[^73] of mutative ac
 स च +++(कालः)+++ **परमेश्वर** एव अन्तर्भाति।  
 +++(अस्मद्-अनुभवे)+++ तद्-भासनं च देवस्य **काली** नाम शक्तिः।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 "ननु भावाः संविल्-लग्ना एवावभासन्ते। तत् कथं तद्-अनुषक्तस्य भाव-वर्गस्य कालयोगः स्याद्" इत्य् आह - स च इत्यादि।  
 "यद्य् एवं, तर्हि परमेश्वरेऽपि काल-योगो भवेद्" इत्य् आशङ्क्याह - तद्-भासनम् इत्यादि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 However, it should be understood that time also exists within the Lord.  
 The manifestation of time is caused by that śakti belonging to God called Kālī.[^74]
@@ -125,14 +125,14 @@ The manifestation of time is caused by that śakti belonging to God called Kāl�
 
 भेदेन तु तद्-आभासनं क्रमाक्रमयोः **प्राण-वृत्तिः** । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 On the other hand, the manifestation of both sequence and non-sequence, which brings about external differentiation, is the modality of vital air (prāṇavstti).
 </details>
 
 **संविद्** एव हि **प्रमेयेभ्यो विभक्तं रूपं** गृह्णाति।+++(4)+++ 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 It is indeed consciousness alone which assumes this nature by isolating itself from the knowable.[^75]
 
@@ -153,7 +153,7 @@ It is indeed consciousness alone which assumes this nature by isolating itself f
 देहं यतः पूरयति,  
 ततोऽसौ **चेतन इव भाति** । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 As a result, consciousness assumes the form of void (nabha),  
 which because of the association with limitation assumes the nature of 'knowable object' (vedyatām).  
@@ -172,7 +172,7 @@ In this way it shines as a living being.
 उत्तरे तु मूर्ति-वैचित्र्य-रूपो **देशाध्वा**।  
 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The path of time (kālādhva) shines in the early portion of kriyāśakti,  
 while the path of space, characterized by a diversity of forms, shines in the later portion of kriyāśakti.
@@ -182,7 +182,7 @@ while the path of space, characterized by a diversity of forms, shines in the la
 तत्र **वर्ण-मन्त्र-पदाध्वनः** कालाध्वनि +++([ख्: पदाध्वानः कालाध्वस्थितिरिति पाठः ।])+++ स्थितिः - पर-सूक्ष्म-स्थूल-रूपत्वात् ।  
 देशाध्वस्थितिस् तु **तत्त्व-पुर-कलात्मना** इति भविष्यति स्वावसरे । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The states of varṇa, mantra, and pada abide in the path of time - because they are the supreme, subtle, and gross forms respectively.  
 The state of the path of space (deśādhva) that is ‘principles' (tattvas), the 'worlds' (bhuvanas), and 'subtle elements of the universe' (kalā) will be explained when the occasion for that arises.
@@ -193,7 +193,7 @@ The state of the path of space (deśādhva) that is ‘principles' (tattvas), th
 तथापि प्रस्फुट-संवेद्य-प्रयत्नो ऽसौ हृदयात् प्रभृति +इति +++(ध्याने)+++।  
 तत एव अयं निरूपणीयः ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **प्रयत्नः** प्राणस्पन्दः। स च द्वेधा - संवेद्यो ऽसंवेद्यश् च। तयोरपि स्फुटास्फुटतया द्वैविध्यम् ।
 
@@ -211,7 +211,7 @@ The state of the path of space (deśādhva) that is ‘principles' (tattvas), th
 स्वेच्छया हि चरितः प्राणस् तत् तत् सिद्धि-निमित्तम् इति हृदयात् प्रभृत्य् एव विभाग-कल्पना ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Although the vital air remains interwoven inside and outside of the body,  
 prāṇa moves from the heart by the perceptible effort of the knowable objects; (that is, taking prāṇa as the knowable object). 
@@ -221,7 +221,7 @@ prāṇa moves from the heart by the perceptible effort of the knowable objects;
 ## प्राणहेतुः
 तत्र **प्रभुशक्तिर्, आत्मशक्तिर्, यत्न** इति त्रितयं **प्राणेरणे हेतुर्** - गुण-मुख्य-भावात् । 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **आत्मशक्तिः** = मितप्रमातृशक्तिः। 
 
@@ -248,7 +248,7 @@ prāṇa moves from the heart by the perceptible effort of the knowable objects;
 
 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The three śaktis: 'belonging to the Lord' (prabhu śakti), ‘one's own śakti' (ātmā śakti), and 'effort' (yatna) are the causes of the movement of prāṇa. This is accomplished through their relative dominance and subordination.[^77]
 
@@ -268,14 +268,14 @@ The three śaktis: 'belonging to the Lord' (prabhu śakti), ‘one's own śakti'
 
 ## प्राणचारः कालश् च
 तत्र हृदयात् द्वादशान्तान्तं स्वाङ्गलैः सर्वस्य षट्त्रिंशदङ्गुलः **प्राणचारो** निर्गमे प्रवेशे च, स्वोचित-बल-यत्न-देहत्वात् सर्वस्य ।  
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **सर्वस्य** - ब्रह्मादेः कीटान्तस्य ।
 </details>
 
 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The length of the breath, both the inhalation and exhalation of all living beings, from Brahmā to an insect, is thirty-six digits (angulas) if measured by the length of their own fingers.[^78] This is because all living beings have the strength, effort, and body befitting them. 
 
@@ -288,7 +288,7 @@ The length of the breath, both the inhalation and exhalation of all living being
 तत्र +++(प्राणचारे)+++ घटिका तिथिः मासो वर्षं च वर्षसमूहात्मा, इति समस्तः **कालः** परिसमाप्यते ।+++(4)+++  
 तत्र स-पञ्चांशे+++(=१/५)+++ अङ्गुले चषक इति स्थित्या **घटिकोदयः** - घटिका हि षष्ट्या चषकैः। तस्मात् द्वसप्तत्य्-अङ्गुला भवति ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The entirety of time, that is, the lunar days, months, years, and number of years, is contained in the movement of the vital air.  
 One minute (caṣaka) is made up of one and one-fifth digits (angula). Following this line of measurement, one hour (ghatikā) arises. Therefore, counting the inhalation and exhalation of the breath, the total becomes seventy-two digits.
@@ -297,7 +297,7 @@ One minute (caṣaka) is made up of one and one-fifth digits (angula). Following
 ## तथ्य्-उदयः
 अथ तिथ्य्-उदयः ।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Next, the rising of the lunar day (tithi) will be described.
 </details>
@@ -306,7 +306,7 @@ Next, the rising of the lunar day (tithi) will be described.
 
 सपादम् अङ्गुल-द्वयं **तुटिर्** उच्यते।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 One tuti consists of two and a quarter digits.
 </details>
@@ -315,14 +315,14 @@ One tuti consists of two and a quarter digits.
 
 तासु चतसृषु **प्रहरः**।   
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Four tuṭis make three hours (prahara).
 </details>
 
 तुट्यर्धं तुट्यर्धं तत्र **सन्ध्या**।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The duration of both dawn and twilight is half of a tuti each.
 </details>
@@ -331,7 +331,7 @@ The duration of both dawn and twilight is half of a tuti each.
 
 एवं निर्गमे **दिनं**, प्रवेशे **रात्रिर्** इति तिथ्युदयः। 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 यदुक्तम्
 
@@ -343,7 +343,7 @@ The duration of both dawn and twilight is half of a tuti each.
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Thus the inhalation and exhalation of one breath is known as the day and night. This is the  way of the arising of the lunar day.
 </details>

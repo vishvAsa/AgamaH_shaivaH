@@ -6,7 +6,7 @@ title = "05 आणव-प्रकाशनम्"
 
 अथाणवोपायाः॥ 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 मूलम् [अत्र](https://archive.org/details/TantrasaraOfAbhinavaguptaH.N.Chakravarti/page/85/mode/2up?view=theater) । 
 </details>
@@ -24,7 +24,7 @@ title = "05 आणव-प्रकाशनम्"
 तद् एतच् च +++(शाक्तोपाय-ज्ञानम्)+++ निर्णीतम् अनन्तर+++(→पूर्व)+++ एव आह्निके । 
 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 When a discursive thought (vikalpa) is capable of purifying itself in itself without depending on other means, it loses the functionality which is commonly associated with bonded beings (pasu).[^49]   
 Then, by the grace of pure knowledge (Suddhavidyā), it (vikalpa) becomes transformed into the energy of the great Lord, and after taking recourse to it as the 'means' (upāya), it becomes capable of manifesting the knowledge belonging to śakti (śākta).  
@@ -49,7 +49,7 @@ This process was explained in the previous chapter.
 अणुत्वं प्राप्त  
 **आणवं ज्ञानम्** आविर् भावयति।+++(5)+++  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 When, for the purification of discursive thought (vikalpa), one needs to rely on the 'means' (upāya), then he or she can take recourse in the intellect (buddhi), prāṇa, body, jar, and other external objects of a limited nature.[^50] By doing this, one descends to the level of an atom (aṇu) and causes the 'knowledge of limited nature' (āṇava) to manifest in his soul.
 
@@ -72,7 +72,7 @@ When, for the purification of discursive thought (vikalpa), one needs to rely on
 **देहः** सन्निवेश-विशेषात्मा करण-शब्द-वाच्यः। +++(तन्त्रालोके ५-१२९ इत्यत्र करण-विश्लेषणम्।)+++  
 घटादयो **बाह्याः** कुम्भ-स्थण्डिल-लिङ्ग-पूजाद्य्-उपायतया कीर्तयिष्यमाणाः ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 On that level the buddhi possesses a meditative nature,
 
@@ -102,7 +102,7 @@ Jars and so forth are external objects, which will be described as the means for
 तत्र ध्यानं तावद् इह +उचितम् उपदेक्ष्यामः।  
 यद् एतत् स्वप्रकाशं सर्व-तत्त्वान्तर्-भूतं परं तत्त्वम् उक्तं, तद् एव निज-हृदय-बोधे ध्यात्वा, तत्र **प्रमातृ-प्रमाण-प्रमेय-रूपस्य वह्न्य्-अर्क-सोम-त्रितयस्य सङ्घट्टं ध्यायेत्**।+++(5)+++  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Among all of these means, it is appropriate to give instruction regarding meditation first.It has already been pointed out that the self-shining supreme reality exists externally in all the principles (tattvas).
 
@@ -128,7 +128,7 @@ Having meditated on that supreme reality in the heart of one's own consciousness
 
 +++(१२ शक्तिज्वालाः। इन्द्रियाण्य् अपि - ५ ज्ञानेन्द्रियाणि, ६ कर्मेन्द्रियाणि, बुद्धिः।)+++
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 One should meditate in this way as long as Bhairava's fire is not manifested by the fanning of the air in the form of meditation.
 
@@ -151,7 +151,7 @@ This fire is to be conceived as being encompassed by the aforesaid twelve flames
 ततोऽपि संहार-वह्नि-रूपतया **विलापितं**,  
 ततो ऽनुत्तरात्मताम् आपादितं **ध्यायेत्** ।+++(5)+++
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 While it is resting on the objective level,  
 one should first conceive of it as being externally replenished by the moon in the order of creation.  
@@ -170,13 +170,13 @@ Finally, it should be conceived of as being merged into transcendence in order t
 एवं तच् **चक्रं** समस्त-बाह्य-वस्त्व्-अभेद-**परिपूर्णं** सम्पद्यते ।  
 ततो **वासनाशेषान्** अपि भावान् तेन चक्रेण इत्थं +++([क्: तत्त्वान् इति पाठः ।])+++ **कृतान्** +++(अनुत्तरात्म-रूपान्)+++ **ध्यायेत्** ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 
 इत्थं कृतान् = अनुत्तरात्म-रूपान् इत्यर्थः । यदि कस्यचिद् भावस्य वासना शिष्यते तर्हि सापि नश्यतीति तात्पर्यम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 In this way, the "wheel" attains fullness with no difference from objective existence.  
 Then, one should meditate by means of that “wheel" on the residual traces that remain from the entities, and should dissolve them in a similar fashion.[^56]
@@ -192,7 +192,7 @@ Then, one should meditate by means of that “wheel" on the residual traces that
 सृष्ट्य्-आदि-**स्वातन्त्र्य-परमार्थत्वं** च स्वसंविदो **निश्चिन्वतः**  
 सद्य एव **भैरवी-भावः** ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **स्वसंविन्-मात्र-परमार्थान् सृष्टि-स्थिति-संहार-प्रबन्धान्** इति।  
 प्रमाता हि प्रथमम् अवभास्यमानतया ऽर्थं सृजति।  
@@ -201,7 +201,7 @@ Then, one should meditate by means of that “wheel" on the residual traces that
 अनन्तरम् अलं-ग्रास-युक्त्या पूर्णतापादनेन चिद्-अग्निसाद्-भावम् आपादयति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The person who persists with this practice of meditation attains the firm conviction that the series of creation, maintenance, and dissolution are in essence nothing but his own consciousness, which in reality is freedom (svātantrya), shining as creation belonging to one's own innate consciousness.  
 In this way, one realizes the state of Bhairava without delay.
@@ -216,7 +216,7 @@ However, it is only through practice that one attains all sorts of desired goals
 अन्तःकृत्य स्थितं **ध्यायेद्**  
 +हृदयानन्द-धामनि ॥  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 One should meditate in the blissful and luminous abode of one's heart as the self-manifest, integral unity of the Self consisting of three, that is, knower, knowledge, and object of knowledge,  
 having brought them into the core of his heart.
@@ -228,7 +228,7 @@ having brought them into the core of his heart.
 व्योमभिर्+++(=चक्षुरादि-सुषिरैः)+++ निःसरद् बाह्ये   
 **ध्यायेत्** सृष्ट्यादि-भावकम् ॥  
   
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 One should meditate on the Lord, the all-pervading One, the Lord of the “wheel" presiding over those : twelve powers of its rays, who is emerging outwardly through the outlets (voids, vyoma), and is the agent of creation, and so on.
 </details>
@@ -242,7 +242,7 @@ One should meditate on the Lord, the all-pervading One, the Lord of the “wheel
 इति ध्यानम् ।  
 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The yogin should meditate on the totality of entities, both external and internal, which have been dissolved into the Self and are going to take repose (viśrānti) therein. Thus, the light of the Self shines forth.
 </details>
@@ -257,13 +257,13 @@ The yogin should meditate on the totality of entities, both external and interna
 तत्र प्राणम् उच्चिचारयिषुः पूर्वं +++(प्रमात्रांशमात्रे)+++ **हृदय एव**  +++(निजानन्दाय)+++ **शून्ये** +++(रेचक-मध्ये प्रमाण-सूर्य-रूप-प्राण-वृत्त्या निरानन्दाय च)+++ विश्राम्यति,  
 ततो **बाह्ये**+++(→प्रमेये)+++ +++(सूर्य-तुल्य-)+++प्राणोदयात्+++(→रेचकात् परम्)+++।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 "अशून्यं शून्यम्" इत्य् उक्त-नीत्या निरूपिते **शून्ये** ।  
 **प्राणोदयात्** = "प्राक् संवित् प्राणे परिणता" इत्य् उक्त-लक्षणात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Now, the topic related to the 'upward movement' (uccārana) of the vital energy (prāṇa):
 
@@ -282,12 +282,12 @@ and then through the rising of prāṇa should have it rest in external objects.
 ततोऽपि बाह्यं प्रत्य् **अपान-चन्द्राऽऽपूरणेन** +++(→पूरकेण)+++ सर्वात्मतां पश्यति +++(परानन्दाय)+++।  
 ततो ऽन्य-निराकाङ्क्षो भवति।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **प्रत्य्-अपान-चन्द्रापूरणेन**। अपान एवाप्यायन-कारित्वाच् चन्द्रः, तेन कृतं पूरणं नैराकाङ्क्ष्यम्, तद्-दशायां हि प्रमातृ-गताः प्रमेयांशाः क्रोडीभूय तिष्ठन्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 prāṇa should rise there while being replenished by the moon of apāna, by means of which one experiences one's all-inclusive nature  
 and becomes indifferent to everything distinct from the Self.
@@ -295,36 +295,36 @@ and becomes indifferent to everything distinct from the Self.
 
 ततः +++(कुम्भकेन)+++ **समानोदयात्** +++(मेयांश-)+++सङ्घट्ट-विश्रान्तिम् अनुभवति +++(ब्रह्मानन्दाय)+++।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 विश्रान्तिम् = सर्वार्थानाम् अन्योन्य-मेलन-रूपाम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 With the rise of samāna, balanced energy, one experiences the state of unification of all objects, which then rest in a state of repose.
 </details>
 
 तत +++(कुम्भक एव?)+++ **उदान-वह्न्य्-उदये** मातृ-मेयादि-कलना+++(ः)+++ ग्रसते +++(महानन्दाय)+++।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 प्राणापानादीनां कलना "षट्-शतानि दिवारात्रौ सहस्राण्य् एकविंशतिः"+++(=२१६०० श्वासाः)+++ इत्युक्त्या निरूपित-स्वरूपा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Then, with the rise of the fire of udāna, the limiting distinction between subjectivity and objectivity is dissolved.
 </details>
 
 तद्-ग्रासक-वह्नि-प्रशमे **व्यानोदये** सर्वावच्छेद-वन्ध्यः स्फुरति +++(चिदानन्दाय)+++।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 सर्वावच्छेद-वन्ध्यः - व्यापकतया सर्वावच्छेद-वन्ध्यत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 With this consuming fire, which devours objects, knower, and knowledge, and with the subsiding and rising of vyāna, the highest knower, free from limitation, becomes manifest.
 </details>
@@ -342,7 +342,7 @@ With this consuming fire, which devours objects, knower, and knowledge, and with
 उदयास्तमय-विहीनः अन्तर्-विश्रान्ति-परमार्थ-रूपो **जगदानन्दः**।
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 निजानन्दो मातृ-भूमि-गः,  
 निरानन्दः प्रमातृ-पदान् निष्क्रान्तः,  
@@ -389,7 +389,7 @@ With this consuming fire, which devours objects, knower, and knowledge, and with
 जगदानन्दः = जगता निजानन्दादि-रूपेण इति तृतीयाकर्मधारयेण योज्यम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Thus, it is explained that all the 'stages of rest' (viśrānti) beginning with void (sūnya) and ending with vyāna, are all different stages of bliss. They are as follows: nijānanda, [^58] nirānanda, [^59] parānanda, [^60] brahmānanda, [^61] mahānanda, [^62] and cidānanda.[^63]
 
@@ -428,14 +428,14 @@ This universal bliss is free from rising and setting, and is repose in one's own
 प्रत्येकं द्व्य्-आदिशः सर्वशो वा **विश्राम्य**  
 अन्यत् तद्-देह-प्राणादि-व्यतिरिक्तं **विश्रान्ति-तत्त्वम् आसादयति** ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 One should take rest, either in two (different) ways or in every respect, on one of the five prāṇas in any of the stages of uccāraṇa. By doing this, one is able to attain the reality of the truth of repose' (viśrāntitattvam), which is different from body, prāṇa, and so on.
 </details>
 
 तद् एव सृष्टि-संहार-बीज+++(={स,ह})++++उच्चारण-रहस्यम् अनुसन्दधद् **विकल्पं संस्कुर्यात्**।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 This is indeed the secret of pronouncing the seed mantras of creation "sa" and dissolution "ha.” By continued unification of these two syllables one should purify discursive thoughts (vikalpa).
 </details>
@@ -446,7 +446,7 @@ This is indeed the secret of pronouncing the seed mantras of creation "sa" and d
 +++(चिति व्योम्नि प्राणे ऽन्तरङ्गे बहिरङ्गे च समावेशे भवन्तीमा इति तन्त्रालोके। )+++
 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The above-mentioned 'stages of rest' have five stages, each of which depends on the comparative proficiency of the practitioner in absorption.
 </details>
@@ -455,7 +455,7 @@ The above-mentioned 'stages of rest' have five stages, each of which depends on 
 
 तत्र **प्रागानन्दः** पूर्णतांश-स्पर्शात्।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **प्रागानन्दः** चमत्कार-विशेषः। तथा च
 
@@ -467,7 +467,7 @@ The above-mentioned 'stages of rest' have five stages, each of which depends on 
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 However, if one is well practiced in the above means, then the bliss comes in the beginning (pragānanda)[^64] because of the glimpse of the fullness of the Absolute.
 
@@ -488,24 +488,24 @@ However, if one is well practiced in the above means, then the bliss comes in th
 
 तत **उद्भवः** क्षणं - निः-शरीरतायां रूढेः।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **उद्भवः** अधस्तन-दशा-विशेषात् पर-धामाधिरोहात्मा। **निःशरीरतायां रूढेः** देहाहम्भावाभावे दार्ढ्यात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 As a result of this, an 'upsurge' (udbhava) takes place for a moment as one gains the firm conviction that he is free from the body.
 </details>
 
 ततः **कम्पः** - स्व-बलाक्रान्तौ देह-तादात्म्य-शैथिल्यात्। 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **कम्पः** तद्-दार्ढ्य-त्यागः - स्वबलस्याहन्ता-वीर्यस्येति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 After this, 'shaking' (kampa) follows - because the conviction that the Self is identical to the body has been loosened by the overpowering nature of one's 'potentiality' (bala).
 </details>
@@ -513,12 +513,12 @@ After this, 'shaking' (kampa) follows - because the conviction that the Self is 
 
 ततो **निद्रा** बहिर्-मुखत्व-विलयात् ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **बहिर्-मुखत्व-विलयात्** = बाह्य-वृत्त्य्-उपरमात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 This is followed by the 'void of sleep' (nidrā) as the tendency toward externality disappears.
 </details>
@@ -527,7 +527,7 @@ This is followed by the 'void of sleep' (nidrā) as the tendency toward external
 स्वात्मनः सर्व-मयत्वाद् आत्मन्य् अनात्म-भावो विलीयते +++(5)+++  
 इत्य् अतो **घूर्णिर्** - महा-व्याप्त्य्-उदयात् ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 दशावस्थाभ्युदासो घूर्णिः । तथा च
 
@@ -539,7 +539,7 @@ This is followed by the 'void of sleep' (nidrā) as the tendency toward external
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 In this way, the notion of the self dissolves in the nonself, and the notion of the nonself dissolves in the Self because the Self is of the nature of all
 
@@ -552,7 +552,7 @@ Then the yogin experiences 'great expansion' (mahāvyāpti), having 'firmly root
 +++(जागृत्, स्वप्नः, सुषुप्तिः, तुर्या, तुर्यातीता)+++  
 **जाग्रद्-आदि-भूमयः तुर्यातीतान्ताः** +++(अनुभूयन्त उच्चारे)+++।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 All of these are the stages of the states of consciousness, which begin with the 'waking state' (jāgrat),[^65] and end with the state 'beyond the fourth' (turyātīta).
 
@@ -563,7 +563,7 @@ All of these are the stages of the states of consciousness, which begin with the
 
 एताश् च भूमयः +++(मूलाधारस्थ-)+++त्रिकोण-कन्द-हृत्-तालू-+++(द्वादशान्तस्थ)+++ऊर्ध्व-कुण्डलिनी-चक्र-**प्रवेशे** भवन्ति ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 These stages become manifest when a yogin enters the triangle, i.e., the 'bulb' (kanda), the heart, and the palate cakras, and the higher 'coiled state' of śakti (ūrdhva-kundalini).
 </details>
@@ -578,7 +578,7 @@ These stages become manifest when a yogin enters the triangle, i.e., the 'bulb' 
 तद् एव **लिङ्ग-त्रयम्** +++(=अव्यक्तम्, व्यक्ताव्यक्तम्, व्यक्तम् इति)+++  
 इति वक्ष्यामः स्वावसरे ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 That state, where the 'moving upward' (uccāra) of the vital energy has its repose (viśrānti),  
 where the entity of knowables has dissolved into a 'transcendent vibration' (param-spandam),  
@@ -602,7 +602,7 @@ The nature of this three fold linga will be described when the occasion for that
 
 परं चात्र लिङ्गं **योगिनी-हृदयम्** +++(←संविद्-विकल्प-योगतः)+++।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The highest linga according to this system is called 'Heart of Yogini' (Yoginihydaya).
 </details>
@@ -613,7 +613,7 @@ The highest linga according to this system is called 'Heart of Yogini' (Yoginihy
 +++(विकल्प-रूप-)+++विसर्ग-कला-+++(शुद्ध-संविद्-रूप-)+++विश्रान्ति-लाभाद् +++([क्: विसर्गविश्रान्तीति कला-पदहीनः पाठः ।])+++ इत्य् अलम् ।  
 अ-प्रकाशो ऽत्र +++(→शास्त्रभागे)+++ +अनुप्रवेशः ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Of the above, the principal one is characterized by vibration. When this vibration expresses itself in the form of contraction and expansion with the nature of the 'unity of the two' (yāmala), it attains repose with the form of the 'subtle emission' (visargakalā).
 
@@ -630,7 +630,7 @@ The entrance into it (samāvesa), however, remains unrevealed.
 पूर्णेऽत्र विश्राम्यति, मातृ-मेय-  
 **विभागम्** आश्व् एव स **संहरेत** ॥
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 In the beginning, one remains steadily established in one's own innate consciousness;  
 then by 'repose in the object' (prameye viśrāmya), one fills the knowable.
@@ -644,7 +644,7 @@ Then he quickly dissolves the distinctions of subjectivity and objectivity, and 
 प्राणादयो व्यानन-पश्चिमास् तल्-  
 लीनश् च जाग्रत्-प्रभृति-प्रपञ्चः ॥
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Through expansion one experiences repose [(viśrānti)] on different levels.  
 These levels are six, along with the void (sūnya), and as such they serve as the means.  
@@ -660,7 +660,7 @@ beginning with prāṇa and ending with vyāna.
 
 इत्य् उच्चारणम् ।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 One well established in the above is able to ascend to (or become established in) the abode of the creation and dissolution of 'self-awareness' (vimarśa).
 </details>
@@ -672,7 +672,7 @@ One well established in the above is able to ascend to (or become established in
 
 अस्मिन्न् एव उच्चारे स्फुरन्न् अव्यक्तानुकृति-प्रायो ध्वनिर् **वर्णः**।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 यदुक्तम्
 
@@ -685,7 +685,7 @@ One well established in the above is able to ascend to (or become established in
 एवंविधो वर्णः क्वोपलभ्यते इत्य् आशङ्क्याह तस्येति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Now on the topic of 'syllabic sound' (varna), which is of the nature of subtle vital energy:   
 In that 'upward movement' (uccāra) of the vital energy, there is a sound (dhvani), which is continuously sounding as if it is imitating the unmanifest.[^67] This sound is called 'syllabic sound' (varṇa). 
@@ -703,7 +703,7 @@ In that 'upward movement' (uccāra) of the vital energy, there is a sound (dhvan
 
 तस्य सृष्टि-संहार-बीजे +++(=अहकारौ)+++ **मुख्यं रूपम्** ।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The most important characteristics of this syllable are the seed mantras of creation "sa”+++(→अ??)+++ and dissolution "ha.”
 </details>
@@ -716,13 +716,13 @@ The most important characteristics of this syllable are the seed mantras of crea
 
 +++(अर्थ-सूचक-कवि-)+++समयानपेक्षित्वात् **परिपूर्णः**। 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 उच्चारिते प्राणोपारोहेण।  
 स्मृते बुद्ध्युपारोहेण ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 One can attain supreme consciousness by the practice of these mantras.  
 For example, when letters beginning with "ka” and ending with "ma,"[^68] either with or without vowels,  
@@ -749,7 +749,7 @@ This is because the word, that is, mantra, is free from conventional relations (
 द्वादशान्त-द्वयं+++(=??)+++, हृदयं च  
 +एकी-कुर्याद् इति वर्ण-रहस्यम् ।   
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 "उत्तम-वृद्धादिना कल्पित इदम् अस्याभिधेयम्" इति **समयः**।  
 तद्-वन्तो घटादयः शब्दास्  
@@ -760,7 +760,7 @@ This is because the word, that is, mantra, is free from conventional relations (
 साक्षात् कुर्वन्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Even the words which depend on convention are also capable of conveying their respective meanings according to the imagination of one's mind.  
 After one has experienced supreme consciousness (in this way] he should bring together the heart, the throat, the lips, and the two 'ends of the twelve' (dvādaśānta). Then, one should unify all of them in the core of 'consciousness' (hrdayam). This is the esoteric secret of this syllable (varṇa).
@@ -775,7 +775,7 @@ After one has experienced supreme consciousness (in this way] he should bring to
 
 इति केचिद् +++(synesthetics??)+++ -
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Some explain that from the 'reflective consciousness' vibrating in the 'core of the heart' emerge white- and yellow-colored syllables. It is by this meditation that a yogin is able to realize consciousness.
 </details>
@@ -790,14 +790,14 @@ Some explain that from the 'reflective consciousness' vibrating in the 'core of 
 इति आन्तरश्लोकः ।  
 इति वर्णविधिः ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **वाच्य-विरहेणेति** व्यतिरिक्त-वाच्याभावात् ।  
 **गति-निरोधाभ्याम्** = बहिः-प्रसृत्य्--अन्तर्-मुख-विश्रान्तिभ्याम् ।  
 **पूर्णा** इति अनन्योन्मुखत्वान् निराकाङ्क्षा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 By the vibrating consciousness in absence of any object to be denoted,  
 and by restraining the movement of both moon (indu, that is, apāna) and sun (arka, that is, prāṇa),  
@@ -812,7 +812,7 @@ Here ends the elucidation of the way of the 'syllabic sound' (varṇa).
 
 करणं तु मुद्रा-प्रकाशने वक्ष्यामः ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Karaṇa will be explained in the mudrā section.
 </details>
@@ -823,7 +823,7 @@ Karaṇa will be explained in the mudrā section.
 धियि, प्राणे, देहे, तद्-अनु बहिर् इत्य् आणवतया  
 स निर्णीतो, नैषां पर-फल-विधौ कापि हि भिदा॥
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 कस्यापि शक्तिपातवतः पूर्णमयतामित्यत्र करोतीति शेषः उपासत् शाक्तात् ।
 तथा चोक्तं मालिनीविजये
@@ -844,7 +844,7 @@ Karaṇa will be explained in the mudrā section.
 शक्ति-पात-वैचित्र्याद् इति ब्रूमः - यथा शक्ति-पात-वैचित्र्यात् शाम्भव-शाक्ताणवानां वैचित्र्यं, तथा इहापि इत्य् अर्थः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 To some, discursive thought (vikalpa) attains fullness without resorting to any means, and to some it is purified by taking recourse to means.  
 The expediency in this system is manifold.
@@ -861,7 +861,7 @@ It is in the intellect (buddhi), the vital energy (prāṇa) in the body, and in
 उहि अच्छन्त-उ परमप-उ  
 पाव-इ अचिरे वीरु ॥
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 छायानुमाने सुहासः - 
 

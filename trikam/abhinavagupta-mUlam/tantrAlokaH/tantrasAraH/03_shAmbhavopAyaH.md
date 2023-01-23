@@ -5,7 +5,7 @@ title = "03 शाम्भवोपायः"
 
 अथ तृतीयमाह्निकम् ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Chapter Three
 </details>
@@ -19,12 +19,12 @@ Chapter Three
 तदा **स्वातन्त्र्य-शक्तिम्** एव **+अधिकां पश्यन्**  
 **निर्विकल्पम्** एव भैरव-समावेशम् **अनुभवति**। 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **अधिकां पश्यन्** = अधिकाम् इति कल्पनामात्रेण न हि वस्तुतो वस्तुनः स्वभावो ऽतिरिच्यत इति भावः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 One who is unable to enter the unbroken circle of light, [^12]  already explained as the reality of śiva,  
 who takes recourse to viewing the power of autonomy (svātantrya)[^13] as extraneous to him,  
@@ -47,7 +47,7 @@ experiences the indeterminate (nirvikalpa) absorption belonging to Bhairava.
 सर्वम् इदं भाव-जातं बोध-गगने प्रतिबिम्ब-मात्रं  
 +++(क्षिणिकत्व-परावलम्बित्वादि-)+++प्रतिबिम्ब-लक्षणोपेतत्वात्।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 What follows are the instructions leading to this type of absorption.
 
@@ -71,7 +71,7 @@ All these multitudes of beings (bhāvas) are merely reflections in the void of c
 प्रतिश्रुत्केव व्योम्नि ।  
 +++(एवं भाव-जातं बोध-गगने।)+++
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 यथोक्तम् ।
 
@@ -93,7 +93,7 @@ All these multitudes of beings (bhāvas) are merely reflections in the void of c
 स्पृशन्त्य् अपि न तृप्यति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 These are the characteristic marks of reflection.  
 That which cannot shine separately, but shines when merged with others, is known as reflection; 
@@ -110,7 +110,7 @@ or the reflection of an echo in the void.
 न हि स +++(विकल्प-गत-)+++रसो मुख्यस्,  
 तत्-कार्य--व्याधि-शमनाद्य्-अदृष्टेः ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 However, this taste is not the original,[^15] and being only the effect of that primary principle, it is not known to cure diseases, etc.
 
@@ -126,7 +126,7 @@ However, this taste is not the original,[^15] and being only the effect of that 
 तयोर् अयोगात्  
 कार्य-परम्परानारम्भाच् च ।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 In the same way, smell and touch are not considered original  
 because in the absence of the principal subject (guṇinah),  
@@ -136,7 +136,7 @@ and more so because they do not set in motion any series of effects or results.
 
 न च तौ +++(विकल्पगताव् अपि गन्धस्पर्शौ)+++ न स्तः - देहोद्धूलन-+++(रेतो)+++विसर्गादि-दर्शनात् ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 On the other hand, we cannot say that these two are non-existent, as shaking of the limbs and emission of semen can be seen.
 </details>
@@ -145,7 +145,7 @@ On the other hand, we cannot say that these two are non-existent, as shaking of 
 +++(तस्य विकल्पगतशब्दस्य)+++  
 कोऽपि वक्ति +इति आगच्छन्त्या इव प्रतिश्रुत्कायाः +++(वस्तु-रहित)+++श्रवणात् ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Even a sound is not original because someone utters it and the approaching of its echo can be heard.
 </details>
@@ -155,7 +155,7 @@ Even a sound is not original because someone utters it and the approaching of it
 एवं यथा +एतत्+++(→प्रतिश्रुत्का)+++ प्रतिबिम्बितं +++([क्: बिम्बप्रतिबिम्बेति पाठः ।])+++ भाति,  
 तथैव +++(विकल्पगतं)+++ विश्वं परमेश्वर-प्रकाशे +++([ख्: परमेश्वरस्वरूपं नाना स्पष्टमिति पाठः।])+++ ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Thus, just as an echo, etc., appears shining as a reflection, similarly the universe is reflected in the light of the Lord.
 </details>
@@ -166,12 +166,12 @@ Thus, just as an echo, etc., appears shining as a reflection, similarly the univ
 +++(इति चेत् - )+++ मा भूत् किञ्चित्।  
 +++(हेतुं संविन्मयम् ईश्वरम् प्रतिपादयितुं युक्तिर् इदम् उत्तरम्।)+++
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 बिम्बलक्षणं यथा - अव्यामिश्रं स्वतन्त्रं सद् - भासमानं मुखं यथा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Now, the question can be raised: What is the original image (bimba) of this reflection?  
 The answer is that there is none.
@@ -183,7 +183,7 @@ The answer is that there is none.
 तत् किं बिम्ब-वाचो-युक्त्या?  
 +++(साक्षाद् +हेतुम् एव पृच्छ।)+++
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Does this mean that the reflection of the universe is without cause?  
 Alas! Your query is then aimed at finding a cause.  
@@ -193,7 +193,7 @@ In that case, what would be the purpose of verbal reasoning?
 ### हेतुः स्वातन्त्र्यम्
 **हेतुश् च परमेश्वर-शक्तिर्** एव - स्वातन्त्र्यापर-पर्याया भविष्यति।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The cause will indeed be the śakti belonging to the Lord, whose other name is 'autonomy' (svātantrya).
 
@@ -205,7 +205,7 @@ This śakti is the immanence of the Lord because She is the bearer of the reflec
 तद् एव हि विश्वम् अत्र +++(अस्मद्-अन्तरङ्ग-संविद्य् अपि)+++ प्रतीपम् इति   
 **प्रतिबिम्ब-धारित्वम्** अस्य।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 This universe is permeated with consciousness, and this universe is the locus of the manifestation of that consciousness.  
 That consciousness indeed is this universe in which it is reflected in the reverse order.  
@@ -217,7 +217,7 @@ Therefore, the Lord is designated as the bearer of the reflection.
 न +अनामृष्टं भवति -  
 चित्-स्वभावस्य स्वरूपानामर्शनानुपपत्तेः ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Furthermore, the Lord's innate nature, which includes the totality of immanence, cannot be devoid of reflective awareness (āmarśa), because the one who is consciousness cannot be devoid of reflective awareness regarding his own Self.
 </details>
@@ -225,7 +225,7 @@ Furthermore, the Lord's innate nature, which includes the totality of immanence,
 
 स्वरूपानामर्शने हि वस्तुतो जडतैव +++([ख्: वस्तुनो जडता इति पाठः ।])+++ स्यात्।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 If, however, consciousness lacks self-awareness (awareness of its own innate nature), then it would condescend to the level of insentiency (jada).[^16]
 
@@ -240,7 +240,7 @@ If, however, consciousness lacks self-awareness (awareness of its own innate nat
 अपि तु चित्-स्वभावता-मात्र-नान्तरीयकः +++(समुद्र-वीचि-वत्)+++,  
 +++(प्रमातृ-परामर्श-चोदक-)+++पर-नाद--गर्भ उक्तः।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Further more, self-reflective awareness is not created by convention, but is experienced as being inseparable from the innate nature of consciousness, and impregnated with the 'supreme sound' (para nāda).[^17]
 
@@ -260,12 +260,12 @@ Further more, self-reflective awareness is not created by convention, but is exp
 परमेश्वरस्य शक्ति-कलापः,  
 तावन्तम् आमृशति ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 शक्तयोऽस्य जगत् सर्वम् इत्युक्त्या शक्तीनां विश्व-व्यवस्थापकत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 This supreme sound reflects all the multitudes of energies belonging to the Lord, which determine this universe.
 </details>
@@ -276,7 +276,7 @@ This supreme sound reflects all the multitudes of energies belonging to the Lord
 तद् एव **परामर्श-त्रयम् अ-इ-उ** इति।  
 एतस्माद् एव त्रितयात् सर्वः शक्ति-प्रपञ्चश् चर्च्यते।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The Lord possesses three principal powers, namely, the supreme (anuttara), will (icchā), and act of unfolding (unmesa). These threefold cognitive reflections (parāmarśa) are “a," "i," "u."[^18] Out of these three main powers, multitudes of power evolve.
 
@@ -290,7 +290,7 @@ The Lord possesses three principal powers, namely, the supreme (anuttara), will 
 ### अ इ उ → आ ई ऊ
 अनुत्तर एव हि विश्रान्तिर् **आनन्दः**।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Ānanda[^19] "ā" rests in anuttara "a"
 
@@ -307,14 +307,14 @@ The Lord possesses three principal powers, namely, the supreme (anuttara), will 
 
 इच्छायाम् एव विश्रान्तिर् **ईशनम्** ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 इच्छाशक्तेर् लक्षणं यथा
 
 > सङ्घट्टे ऽस्मिंश् चिदात्मत्वाद् यत् तत् प्रत्यवमर्शनम् - इच्छाशक्तिः ।॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 īsana "ī" rests in icchā,
 </details>
@@ -323,7 +323,7 @@ The Lord possesses three principal powers, namely, the supreme (anuttara), will 
 
 उन्मेष एव हि विश्रान्तिर् **ऊर्मिर्**, यः क्रिया-शक्तेः प्रारम्भः
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 यद् उक्तम्
 
@@ -333,7 +333,7 @@ The Lord possesses three principal powers, namely, the supreme (anuttara), will 
 > ज्ञानशक्तिः प्रकीर्त्यते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 while ūrmi “ū” rests in unmeṣa. This (ūrmi) is the initial stage of the evolution of the energy of activity (kriyā śakti).
 </details>
@@ -343,7 +343,7 @@ while ūrmi “ū” rests in unmeṣa. This (ūrmi) is the initial stage of the
 अत्र च प्राच्यं परामर्श-त्रयं +++(अ-इ-उ इति)+++ प्रकाश-भाग-सारत्वात् **सूर्यात्मकं**,  
 चरमं परामर्श-त्रयं विश्रान्ति-स्वभावाह्लाद-प्राधान्यात् **सोमात्मकम्**।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The first group of cognitive reflections (parāmarśa), that is, “a," "i," and "u," being essentially part of light, are identified with the sun.  
 The second group of reflective cognitions, that is, "ā," "ī,” and “u," being of the nature of repose and predominantly blissful by nature, are identified with the moon.
@@ -351,12 +351,12 @@ The second group of reflective cognitions, that is, "ā," "ī,” and “u," bei
 
 इयति यावत् **कर्मांशस्य अनुप्रवेशो नास्ति**।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 क्रियाशक्त्यंशस्य ज्ञानशक्तिप्राधान्यात् इत्यर्थः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Up to this point, even the slightest trace of activity has not entered into the process of manifestation).
 </details>
@@ -365,7 +365,7 @@ Up to this point, even the slightest trace of activity has not entered into the 
 यदा तु इच्छायाम् ईशने च  
 +++('कर्तुर् ईप्सिततमम्' इति)+++ **कर्म** +अनुप्रविशति - यत् तद् +++(कर्म)+++ इष्यमाणम् ईश्यमाणम् इति च +उच्यते,    
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 यदुक्तम्
 
@@ -375,7 +375,7 @@ Up to this point, even the slightest trace of activity has not entered into the 
 द्वैरूप्येणावभासयेत् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 When, however, in the power of will (icchā) and in the power of 'will to lord over' (īśāna), activity enters, then they are called 'the object of the power of will (iṣyamāṇa) and 'the subject of the power of will' (īśyamāna).
 </details>
@@ -387,13 +387,13 @@ When, however, in the power of will (icchā) and in the power of 'will to lord o
 
 र-लयोः प्रकाश-स्तम्भ-स्वभावत्वात्।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 स्तम्भः स्थैर्यम् इत्य् अर्थः ।
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 At that stage, activity (karman) divides itself into two: the semivowel "r̥" when light dominates, and the semivowel “l̥” when it is at rest.[^20] This is because semivowels "r̥” and “l̥" have the nature of +++(light and)+++ arresting the light.
 
@@ -408,7 +408,7 @@ TANTRASĀRA 63
 स्फुट-रूपत्वे तद् एव +++(स्वसकाशे कामपूरणया)+++ निर्माणं स्यात्।  
 न +++(अपूरितत्वाद्)+++ इच्छा ईशनं वा।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 However, (at that stage of manifestation) 'the object of the power of will' (isyamāṇa) is not discernable as an external object. If it were discernable it would be created like an external object would be.  
 However, neither will (icchā) nor the 'power to lord over' (isana) are clearly discernible.
@@ -418,12 +418,12 @@ However, neither will (icchā) nor the 'power to lord over' (isana) are clearly 
 अतो ऽस्फुटत्वाद् एव श्रुति-मात्रं रलयोः+++(→ऋऌयोः → विकल्पगत-कर्मणोः)+++,  
 न व्यञ्जनवत् स्थितिः ।  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 न साक्षाद् वर्णः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 For that very reason, "r̥" and “l̥” are only semivowels and not consonants like "r" and "l".
 </details>
@@ -434,13 +434,13 @@ For that very reason, "r̥" and “l̥” are only semivowels and not consonants
 उभय-च्छाया-धारित्वात् +नपुंसकम्  
 ऋ ॠ ऌ ॡ इति । 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 बीज-योनि-रूपत्वाद् उभयत्वम् ।  
 अत एव नरसिंह-वज्रास्यन्तरम् इति महाभाष्यकारः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Furthermore, this group of letters, “ऋ,” “ॠ," "ऌ" and "ॡ" are considered neuter because they bear shades of both consonants and vowels.
 </details>
@@ -450,14 +450,14 @@ Furthermore, this group of letters, “ऋ,” “ॠ," "ऌ" and "ॡ" are cons
 अनुत्तरानन्दयोर् इच्छादिषु यदा प्रसरस्  
 तदा वर्णद्वयम् **ए ओ** इति । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 When the expansion of anuttara "a" or ānanda "ā” in the direction of icchā “i,” etc., takes place, then the two syllables “e" and "o" come into existence.
 </details>
 
 तत्रापि पुनर् अनुत्तरानन्द-सङ्घट्टाद् वर्ण-द्वयम् **ऐ औ** इति । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Then again, when these two syllables, "e" and "o,” are closely united (samghatta) with anuttara "a" and ānanda "ā," then the syllables "ai" and "au" are born.
 </details>
@@ -466,7 +466,7 @@ Then again, when these two syllables, "e" and "o,” are closely united (samghat
 सा +इयं **क्रियाशक्तिः**।  
 तद् एव च वर्ण-चतुष्टयम् - ए ऐ ओ औ इति ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 
 This indeed is the play of the energy of activity (kriyā śakti),  
@@ -483,7 +483,7 @@ which shines in the manifestation of the four syllables, that is, "e," "ai," "o,
 सर्वं **कार्य-भूतं** यावद् **अनुत्तरे** प्रवेक्ष्यति,  
 तावद् एव पूर्वं संवेदन-सारतया पकाश-मात्रत्वेन बिन्दुतया ऽऽस्ते - **अम्** इति ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 तथा च मालिनीवार्तिके -
 
@@ -540,7 +540,7 @@ which shines in the manifestation of the four syllables, that is, "e," "ai," "o,
 अनुत्तरामाश्रयते सोहं भाव इहेष्यते ॥ इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Then, at the end of the development of the power of action (kriyā śakti), just before entering anuttara, all that which has been created up to this point takes repose and abides in the bindu[^22] (am), which is light alone and the very essence of knowledge.
 
@@ -553,14 +553,14 @@ Then, at the end of the development of the power of action (kriyā śakti), just
 ततस् तत्रैव अनुत्तरस्य **विसर्गो** जायते **अः** इति ।  
 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 At that very place where bindu rests in unsurpassed (anuttara), the "anuttara visarga" is born, which is "ah.”
 </details>
 
 एवं षोडशकं परामर्शानां बीज-स्वरूपम् उच्यते ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Thus, the aggregate of sixteen letters, which are seeds (bīja), are said to be the very nature of all reflective awarenesses (parāmarśa).
 </details>
@@ -570,7 +570,7 @@ Thus, the aggregate of sixteen letters, which are seeds (bīja), are said to be 
 +++(स्वर-शक्ति-स्वीकरणाद्)+++योनि-रूपम्   
 +++(अस्मत्-सण्वुत्-स्तरे विकल्प-वस्तु-भूतम्, विभु-संवित्-स्तरे बाह्य-सृष्टि-रूपम्)+++ ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The recipients (yoni), which are consonants, are born from that vi+sarga.
 </details>
@@ -582,7 +582,7 @@ The recipients (yoni), which are consonants, are born from that vi+sarga.
 
 उन्मेषात् **पवर्गः** +++(=मनोऽहङ्कार-बुद्धि-प्रकृति-पुरुषाख्यं पञ्चकम्)+++।  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 तथा हि
 
@@ -613,7 +613,7 @@ The recipients (yoni), which are consonants, are born from that vi+sarga.
 इति मालिनीवार्तिके एव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 From anuttara emerges the "ka" group of letters;  
 from 'will without an object' (icchā) the "ca" group of letters;  
@@ -624,7 +624,7 @@ and from unmesa the "pa" group of letters is born.
 
 शक्ति-पञ्चक+++(=??)+++-योगात् +++(प्रतिवर्गं)+++ पञ्चकत्वम् ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 It is because of being united with five śaktis that the five groups of letters are produced.
 </details>
@@ -635,7 +635,7 @@ It is because of being united with five śaktis that the five groups of letters 
 विसर्गात् **हकारः**,  
 योनि-संयोग-जः **क्षकारः** । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 It is from this threefold division of the will (icchā) that the semi vowels "ya," "ra," and "la" are born,  
 while the semivowel "va” is born from unmeṣa.
@@ -655,7 +655,7 @@ and the letter "kṣa" arises from the union of two consonants: "ha" and "sa."
 +++([क्: "प्रसृताः ककारादि" इति "कवर्गादि इति च" पाठः ।])+++  एव  
 बहिस्-तत्त्व-रूपतां +++(अस्मद्-संविदि च विकल्प-वस्तु-रूपताम्)+++ प्राप्ताः।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 अकारादि विसर्गान्तं शिवतत्त्वम्।  
 कादि-ङान्तं धरादि-नभोन्तं भूतपञ्चकम्  
@@ -667,7 +667,7 @@ and the letter "kṣa" arises from the union of two consonants: "ha" and "sa."
 धारणाख्यान्तराणि धारयन्ति पृथग्-भूततया ऽभिमानयन्तीति धारणानि इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Thus, the Lord who is supreme (anuttara) becomes the 'Lord of the group of letters' (Kuleśvara). It is this single kauliki visarga Śakti [^23] of the Lord, which as the flow of vibrating impulse in the form of reflective cognition (parāmarśa) such as groups of letters, etc., extends from ānanda to external manifestation and assumes the form of the external principles (tattvas).
 
@@ -685,7 +685,7 @@ Thus, the Lord who is supreme (anuttara) becomes the 'Lord of the group of lette
 शाम्भवः चित्त-प्रलय-रूपः +++(अस्मत्-संवित्-स्तरे विकल्पान्ते)+++  
 इति ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 यद् उक्तम्
 
@@ -695,7 +695,7 @@ Thus, the Lord who is supreme (anuttara) becomes the 'Lord of the group of lette
 > आणवः सम्प्रकीर्तितः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Visarga is threefold, [^24] that is,  
 āṇava, which is the restful state of citta;  
@@ -720,7 +720,7 @@ and sāmvabha, which is the dissolution of citta.
 तदा +एक एव **भगवान्**  
 बीज-योनितया भागशः **परामर्शे शक्तिमान् शक्तिश् च** ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Thus, visarga is the power belonging to the Lord capable of creating the universe.[^25]  
 When that reality is cognized as integrated reflective consciousness, then the Lord alone shines.  
@@ -736,12 +736,12 @@ On the other hand, if that reality is cognized as being divided into consonants 
 +++(पूर्वोक्तरीत्या - कुँ, चुँ, टुँ, तुँ, पुँ, य-र-लाः, शषसाः, व, ह इति)+++  
 पृथग् अष्टक-परामर्शे चक्रेश्वर+++(क्ष)+++-साहित्येन नव-वर्गः।  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 चक्रेश्वर-साहित्येन = क्षकारसाहित्येन इत्यर्थः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 When that reality is cognized as eightfold parāmarśa along with cakreśvara (the letter kṣa), then it is divided into nine groups.
 </details>
@@ -749,12 +749,12 @@ When that reality is cognized as eightfold parāmarśa along with cakreśvara (t
 एकैक-परामर्श-प्राधान्ये +++(अ-अः, व्यञ्जनानि, क्ष इति)+++  पञ्चाशद्-आत्मकता ।  
 तत्रापि सम्भवद्-भाग+++(={३३ अर्धमात्रा-व्यञ्जनानि} - {ह्,म्} अयोगवाहसादृश्यात् )+++-भेद-परामर्शने एकाशीति-रूपत्वम् ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 भागा अर्धमात्रारूपाः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Furthermore, if one cognizes that same reality placing the emphasis on each and every individual parāmarśa, then it is divided into fifty.  
 Finally, when that reality is cognized as existing with possible subtle divisions, then the number becomes eighty-one.
@@ -765,7 +765,7 @@ Finally, when that reality is cognized as existing with possible subtle division
 प्रसरण-प्रतिसञ्चरण-योगेन +++(ए-ऐ-ओ-औ-अं-अः इति)+++ द्वादश भवन्तः  
 परमेश्वरस्य **विश्व-शक्ति-पूर्णत्वं पुष्णन्ति** । 
   
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 यदा अनुत्तर आनन्देच्छादिरूपेण प्रसृतस्,  
 तदा षट्।  
@@ -773,7 +773,7 @@ Finally, when that reality is cognized as existing with possible subtle division
 अतः षण्ढ-स्वर-वर्जं द्वादश इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 In reality, reflective cognitions (parāmarśas) are only six.[^26]  
 However, on account of expansion and contraction they become twelve and thus nourish the fullness of the Lord, as the possessor of all the śaktis.
@@ -795,7 +795,7 @@ However, on account of expansion and contraction they become twelve and thus nou
 शक्तयो भगवत्यः **श्रीकालिका**  
 इति निरुक्ताः ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 All these śaktis of the Lord, being of the nature of reflecting cognitions, are known as Kālikās, [^27] divine goddesses. 
 
@@ -807,7 +807,7 @@ All these śaktis of the Lord, being of the nature of reflecting cognitions, are
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 कलयन्ति क्रमन्त इति कालिकाः । यद्-उक्तम्
 
@@ -826,7 +826,7 @@ All these śaktis of the Lord, being of the nature of reflecting cognitions, are
 मायोन्मेष-मात्र+++(→न ततोऽधिक)+++-सङ्कोचाद् +++(ईषद्-भाषात्वं विकल्पतां च प्राप्ताः)+++  
 **विद्या-विद्येश्वर-रूपतां भजन्ते** +++([क्: विद्येश्वरतारूपा मन्त्ररूपतामिति पाठः ।; ख्: विद्याविद्येश्वरबीजरूपा मन्त्ररूपतामिति पाठान्तरं च ।])+++ । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 These pure reflective cognitions are energies by nature, which on the level of pure knowledge (śuddhavidyā) appear as vidyā (mantra) and vidyesvara (mantreśvara), as supreme and nonsupreme[[66]] because of the limitation which was created by the slight emergence of māyā. 
 </details>
@@ -840,7 +840,7 @@ These pure reflective cognitions are energies by nature, which on the level of p
 +++([ख्: व्यवहारकारित्वमिति पाठः ।])+++  
 बही-रूप-तत्त्व-स्वभावतापत्ति-पर्यन्ताः।   
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 However, they appear divided into distinctive groups and function as letters belonging to māyā. 
 
@@ -860,7 +860,7 @@ When these syllables finally descend through the stages of pasyanti, madhyamā, 
 प्रत्युज्जीवनं क्रियते,   
 तदा ते **सवीर्या भवन्ति**।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Although on this level they are syllables belonging to māyā and are seen as bodies (that is, devoid of life),  
 when by means of the aforesaid ingenuity  
@@ -872,7 +872,7 @@ then they become invigorated.
     Even on the level of māyā these phonemes can possibly be enlivened by contact with pure knowledge (śuddhavidyā) through which they can be utilized to serve the purpose of both enjoyment and liberation.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 मायीया वर्णा जीवरहितं शरीरम् इव। तेषां तु   
 परामर्शो जीव इवास्ति अन्यथा तेऽकिञ्चित्करा इति भावः ।
@@ -885,7 +885,7 @@ then they become invigorated.
 प्रतिबिम्बित-समस्त-तत्त्व-भूत-भुवन-भेदम् **आत्मानं पश्यतो**  
 निर्विकल्पतया शाम्भवेन समावेशेन **जीवन्-मुक्तता** । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 [[65]]  
 If they become invigorated, then they are capable of giv ing liberation and/or enjoyment.  
@@ -905,7 +905,7 @@ which is free from determinate knowledge.
 
 अत्रापि पूर्ववत् न मन्त्रादि-यन्त्रणा काचिद् इति ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 For attaining this type of absorption, as in the case of anupāya,  
 there is no need whatsoever for adopting painful procedures such as the use of mantras, and other such practices.[^31] 
@@ -925,7 +925,7 @@ there is no need whatsoever for adopting painful procedures such as the use of m
 **विश्वं परामृशति** नो+++(=न)+++ मुकुरस् तथा तु ॥  
 +++(इति संविदो मुकुरस्य व्यतिरेकः)+++
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 
 The entire universe is shining on the clear inner core of the Self.  
@@ -941,7 +941,7 @@ by means of continuous flow of its own delight of self-consciousness, reflects t
 आमरिसण रस सरहस  
 विमट्टरू-अं स-इं भा-इ ॥
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 अत्रेयं छाया
 
@@ -959,7 +959,7 @@ by means of continuous flow of its own delight of self-consciousness, reflects t
 जो जो-अय सो परभैर-इ  
 बोव्व परणिव्व-इं लह-इ ॥
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 इति+++(→पूर्वपद्योक्तं)+++ **श्रुत्वा** विमलम् एनं  
 **निजात्मानं** समस्त-वस्तु-मयम् ।   

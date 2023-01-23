@@ -6,12 +6,12 @@ title = "02 अनुपाय-प्रकाशनम्"
 
 अथ अनुपायम् एव तावत् व्याख्यास्यामः ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 अत्र अनुदरा कन्या इतिवत् नञोऽल्पार्थत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Chapter Two In this chapter we will exclusively deal with anupāya.[^11]
 
@@ -28,12 +28,12 @@ Chapter Two In this chapter we will exclusively deal with anupāya.[^11]
 **उपाय-विरहितो** +++(ख्: तत्रानुपायमिति पाठः)+++ नित्योदितो  
 ऽस्य **समावेशः** । 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **उपाय-विरहितो** = वक्ष्यमाणोपायरहितः स्वयमेवेत्यर्थः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 When a person 'keenly touched by energy' (śaktipāta) discerns by himself thus,  
 after listening to the words of his teacher only once,  
@@ -44,7 +44,7 @@ then his permanently awakened absorption into the Lord has taken place without a
 
 अत्र च तर्क एव योगाङ्गम् इति कथं विवेचयति इति चेद् उच्यते - 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 In this instance, reasoning alone (tarka eva) is taken to be a limb of yoga. Otherwise, how could discernment be possible? If this is the question, we reply:
 </details>
@@ -53,7 +53,7 @@ In this instance, reasoning alone (tarka eva) is taken to be a limb of yoga. Oth
 योऽयं **परमेश्वरः** स्व-प्रकाश-रूपः **स्वात्मा**,  
 तत्र **किम् उपायेन** क्रियते?  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 What can be accomplished by means (upāya) regarding the supreme Lord who is self-manifest and one's own self?
 </details>
@@ -65,7 +65,7 @@ What can be accomplished by means (upāya) regarding the supreme Lord who is sel
 न आवरण-विगमः - आवरणस्य कस्यचिद् अपि +असम्भवात् +++(निर्विकल्पावस्थायाम्)+++।  
 न तद्-अनुप्रवेशः - अनुप्रवेष्टुर् +++(विकल्पाभावेन)+++ व्यति-रिक्तस्य अभावात् +++([ख्: अभावादिति पाठः])+++ । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 This cannot be the attainment of 'innate nature'(svabhāva), as innate nature is eternally present;  
 it cannot be the attainment of the recognition (jñapti) of Parameśvara, as Parameśvara is self illuminating;  
@@ -77,7 +77,7 @@ it cannot be the penetration of one into the other, as the one who is entering a
 
 कश् चात्र उपायः - तस्यापि व्यतिरिक्तस्य अनुपपत्तेः?  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Then, what could the role of upāya be, as the existence of anything separate from that reality cannot be proved? 
 </details>
@@ -96,7 +96,7 @@ Then, what could the role of upāya be, as the existence of anything separate fr
 तद् एव च +अहम्,  
 तत्रैव +अन्तर् मयि विश्वं प्रतिबिम्बितम् -
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Therefore, the entire universe is a unique consciousness alone,  
 beyond the mutation of time and limitation of space.  
@@ -118,12 +118,12 @@ In that innermost core of mine, the universe shines as a reflection.
 शश्वद् एव पारमेश्वरः **समावेशो निरुपायक** एव  
 तस्य च **न** मन्त्र-पूजा-ध्यान-चर्यादि-**नियन्त्रणा काचित्** ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 इदं कार्यम् इदं न कार्यम् इति नियमो नियन्त्रणा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The absorption related to the supreme Lord, [attained by] one who discerns with firm conviction in this way, is not dependent on any means.  
 This kind of person does not need to be restrained by dis ciplines, such as taking recourse to sacred syllables, rituals, meditation, and observance of spiritual practices.
@@ -136,7 +136,7 @@ This kind of person does not need to be restrained by dis ciplines, such as taki
 **विवेचयन्न् इत्थम्** उदार-दर्शनः   
 स्वयम्-प्रकाशं **शिवम् आविशेत् क्षणात्** ॥६॥+++(5)+++
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The multitude of means (upaya) does not reveal Śiva.  
 Could the thousand-rayed sun be illuminated by a jar?  
@@ -151,7 +151,7 @@ enters immediately into self-manifest Śiva.
 अत्ता नत सो श्चिव परमत्थिण   
 इ-अ जान-अ कज्ज परम् अत्थि ण ॥
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 छाया
 

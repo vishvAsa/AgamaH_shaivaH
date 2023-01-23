@@ -4,7 +4,7 @@ title = "22 कुल-याग-प्रकाशनम्"
 +++
 अथ द्वाविंशमाह्निकम् ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Chapter Twenty-Two  
 </details>
@@ -15,7 +15,7 @@ Chapter Twenty-Two
 समुन्मिषत्-तादृश-दृढ-वासना-रूढान् **अधिकारिणः प्रति**  
 श्रीमत्-कौलिक-प्रक्रियया **निरूप्यते**।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The entire worship of this character is now going to be ascertained according to the Kaula method.  
 This is meant for those who have attained the proper confidence and in whom the engrained desire for Kula yāga is going to develop.
@@ -35,12 +35,12 @@ This is meant for those who have attained the proper confidence and in whom the 
 > +++(त्रिषु)+++ द्वयेऽपि +++(प्रयुक्ते)+++ नरके घोरे,  
 > तस्माद् एनां स्थितिं भजेत् ॥+++(5)+++
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **त्रिधाद्यन्तव्यवस्थितम्** इति +अन्यत्र पाठः ।  **त्रिधा** इत्यस्य उपकारि-द्वयं, तत्र फलम् अन्यत् तद्-आत्मकम् । इत्य् एवम् अर्थेन च व्याख्यानम् अस्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Therefore, in texts such as the Yoga-saṁcāra, etc., it has been stated:
 
@@ -55,7 +55,7 @@ Therefore, one should follow the prescribed procedure.
 तद् अनया स्थित्या **कुलयागः**।  
 स च षोढा - **बाह्ये शक्तौ स्वदेहे यामले प्राणे संविदि** च +इति ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The Kula form of ritual is to be performed in the following way.  
 The ritual is sixfold: external, in the śakti, in one's own body, in the union of the two, in the vital air, and in consciousness.
@@ -66,7 +66,7 @@ The ritual is sixfold: external, in the śakti, in one's own body, in the union 
 +++(संविदीति कौलयागः)+++ षष्ठस्तु मुमुक्षोः मुख्यः।  
 तस्यापि द्वितीयाद्या नैमित्तिके यथा-सम्भवम् अनुष्ठेया, एव विधि-पूरणार्थं च ।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Among the six, each latter is more excellent than the former, but the performance of each former one is based on one's sweet will.  
 One who is desirous of attaining enjoyment should select the second, fourth, and fifth;  
@@ -77,7 +77,7 @@ Even this kind of person should perform the rituals beginning from the second, a
 
 तत्र बाह्यं - स्थण्डिलम्, आनन्द+++(=मद्य)+++-पूर्णं, वीर-पात्रम्, अरुणः पटः, पूर्वोक्तम् अपि वा +++(शिव)+++लिङ्गादि ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Now, in regard to performance of the external ritual, there is the altar; the vessel full of wine, called the vessel of the vīra; the red cloth; and the śiva linga, which was described earlier.
 </details>
@@ -87,7 +87,7 @@ Now, in regard to performance of the external ritual, there is the altar; the ve
 संविदश् च परम-शिव-रूपत्वात् **सप्त-विंशति-वारं मन्त्रम् उच्चार्य** मूर्ध-वक्त्र-हृद्-गुह्य-मूर्तिषु अनुलोम-विलोमाभ्यां +++(क्रमाभ्यां न्यस्यन्)+++  
 विश्वाध्व-परिपूर्णता परमेश्वरे अपरत्वे परापरत्वे परत्वेऽपि च ।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 In this ritual, without taking recourse to the ritual bath, etc., one attains purity by simply taking repose in the perfect blissful state.   
 Then, while meditating on the oneness of the vital energy, consciousness, and the body,  
@@ -100,7 +100,7 @@ In this way the fullness of identity with the great Lord in his āparā, parāpa
 तथाहि माया-पुम्-प्रकृति-गुण-धी-प्रभृति--धरान्तं **सप्त-विंशति-तत्त्वानि** - कलादीनां तत्रैव अन्तर्भावात्।  
 विद्याशक्ताव् अपि परापरत्वे, बह्म-पञ्चकस्य +++(ब्रह्म-विष्णू-रुद्र+ईश्वर-सदाशिवानां)+++ सद्यस्त्वाजातत्व-भवोद्भवत्वादीनां धर्माणां **सप्त-विंशति-रूपत्वम्** एव +उक्तं श्रीमल्-लकुलेशादि-पादैः ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The number of principles (tattvas) from māyā, puruṣa, guṇa, buddhi, to earth principle is twenty-seven.  The principles kalā, etc., are included in it.  
 The vidyāśaktis possess the nature of the higher-cum-lower aspects. The five Brahmas (Brahmā, Viṣṇu, Rudra, īśvara, and Sadāśiva), Sadyājāta, Bhavodbhavatva, and the others have twenty-seven aspects. This has been explained by the venerable, glorious Lakulesa as well as others.

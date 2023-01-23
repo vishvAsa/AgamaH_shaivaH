@@ -11,7 +11,7 @@ title = "01 विज्ञान-भेद-प्रकाशनम्"
 **हृदयम्** अनुत्तरामृत-कुलं+++(=शरीरं‌/अमाचन्द्रकला)+++ **मम संस्फुरतात्** ॥१॥
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 विमलेति - **मम** आत्मनो **हृदयं** जगदानन्दादिशब्दवाच्यं तथ्यं वस्तु **संस्फुरतात्** कालत्रयावच्छेद-शून्यत्वेन विकसतात्।
 
@@ -22,8 +22,8 @@ title = "01 विज्ञान-भेद-प्रकाशनम्"
 **जनकश्** च कीदृक्? **भरिततनुः** सर्वाकाङ्क्षाविरहात् पूर्णस्वभावः अनन्योन्मुखतया स्वतन्त्र इति यावत्। अत एव पद्मभिश् चिदादि-शक्त्यात्मकैर् **मुखैः** शक्तिभिर् **गुप्ता** प्रबन्धेनानुवर्तमाना **रुचिः** पञ्चकृत्य-विषयोऽभिलाषो यस्यासौ । अथ च ग्रन्थ-कर्तुर् अभिनव-गुप्तस्य विमलाभिधाना जननी नरसिंहगुप्ताख्यश् च जनक इति तयोर् अपि शिव-शक्ति-समावेश-मयत्वाद् विमर्शनम् ॥१॥
 
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>Hemendra</summary>
 
 
 May my heart (hrdaya) pulsate in the form of emission (visarga) embodying the nectar of supreme transcendence by the close union of the pair: Śiva and Śakti (yāmala). One of the pair is Vimalakalā, the mother who has taken within herself a new creation (Abhinava) in the form of light, and the other is the father, Pañcamukha Simhagupta, who is the embodiment of perfection and is intent on expressing himself in the fivefold activity.
@@ -47,13 +47,12 @@ In the Tantric doctrine, visarga is stated to be hārdhakalā, one-half of the s
 ऋजु-वचन-विरचितम्  
 इदं तु तन्त्रसारं ततः शुणुत ।।२।। 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **विगाहितुं** विवेक्तुम् इति यावत्। **सर्वैर्** इति अकृत-तीक्ष्ण-तर्क-शास्त्र-परिश्रमैः। **ऋजु**-वचनेति - ऋजुता चात्र तीक्ष्ण-तर्काभावात् ।
 </details>
-<details>
-<summary>English</summary>
 
+<details><summary>Hemendra</summary>
 
 As everyone is not capable of delving deep into the long text of the Tantrāloka, this Tantrasāra is composed in simple language. Therefore, please listen to it.
 </details>
@@ -63,11 +62,12 @@ As everyone is not capable of delving deep into the long text of the Tantrāloka
 अभिनव-गुप्त-हृद्-अम्बुजम्  
 एतद् विचिनुत महेश-पूजन+++(→स्वात्मतया प्रत्यभिज्ञानस्य)+++-हेतोः ॥३॥
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **श्रीशम्भुनाथो** हि ग्रन्थकर्तुस् त्रिक-शास्त्रोपदेष्टा गुरुः। स एव **भास्करः** परमात्मा सूर्यश् च। तस्य **चरणे** ज्ञान-क्रिये किरणाः पादाश् च। तेषां निपातेन **प्रभा**-स्फुरत्तया **अपगत-सङ्कोचं** स्व-स्वरूप-विकसत्तया विद्योतमानं **अभिनवगुप्तस्य हृद्-अम्बुजं**, यथा हि सूर्यकिरणनिपातेन अम्बुजं विकसति तथा श्रीशम्भुनाथ-चरण-प्रभया विकसितं हृदयं - लक्षणया तन्-निर्गतं शास्त्रं च । अनेनास्य _प्रकाशस्य_ स्वरूप-विमर्शात्मकत्वम् एव स्वरूपम् इति भङ्ग्या निरूपितम्। तद् एतत् विचिनुत **महेशस्य पूजनं** स्वात्मतया प्रत्यभिज्ञानं तद्-धेतोः एतद्-विवेचनं महेश्वर-प्रत्यभिज्ञान-फलम् इत्य् अर्थः । महेश्वरतालाभे हि किम् अन्येन फलेन इत्य् अभिप्रायः ।। ख्: प्रभावगतसङ्कोचम् इति पाठः।
 </details>
-<details><summary>English</summary>
+
+<details><summary>Hemendra</summary>
 
 By falling at the feet of the venerable sun-like śambhu-nātha, whose rays have removed all limitations from the lotus heart of Abhinavagupta, please collect this for the purpose of worshipping Maheśa.
 
@@ -79,7 +79,7 @@ By falling at the feet of the venerable sun-like śambhu-nātha, whose rays have
 
 इह +++(पूर्ण-प्रथा-रूपं)+++ ज्ञानं मोक्ष-कारणं बन्ध-निमित्तस्य अज्ञानस्य विरोधकत्वात्।  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 ज्ञानं पूर्णप्रथारूपम् ।
 
@@ -91,8 +91,8 @@ By falling at the feet of the venerable sun-like śambhu-nātha, whose rays have
 
 इति ।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>Hemendra</summary>
 
 
 According to this system, knowledge is the cause of liberation (moksa), because it opposes or contradicts ignorance, which is the cause of bondage.
@@ -107,13 +107,13 @@ According to this system, knowledge is the cause of liberation (moksa), because 
 तत्र **बुद्धि-गतम्** अनिश्चय-स्वभावं, विपरीत-निश्चयात्मकं च ।  
 **पौरुषं** तु विकल्प-स्वभावं, संकुचित-प्रथात्मकम्। तद् एव च मूल-कारणं संसारस्य +इति वक्ष्यामो मल-निर्णये ।+++(4)+++
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 तात्त्विक-स्वभावस्याज्ञानम् **अनिश्चयः** ।  
 अनात्मनि आत्माभिमानो **विपरीतनिश्चयः** ।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>Hemendra</summary>
 
 
 Ignorance is twofold. One abides in the intellect (buddhi-gata), and the other lies in the self (pauruṣa). The one which abides in the intellect is ignorance of the nature of reality (aniścayasvabhāva) and an erroneous conception of the Self as non-self (viparīta-niścaya).
@@ -131,7 +131,7 @@ On the other hand, the ignorance lying in the self (pauruṣa) is of the nature 
 किं तु **दीक्षापि बुद्धि-गते** अन्-अध्यवसायात्मके +++(निर्विकल्पे)+++ ऽज्ञाने सति **न सम्भवति** -  
 हेयोपादेय-निश्चय-पूर्वकत्वात् +++([ख्: हेयोपादेयविमर्शेति; ग्: विकल्पेति च पाठः])+++ +++(तेनानिश्चय-विपरीतनिश्चय-परिहारकत्वात्)+++ तत्त्व-शुद्धि--शिव-योजना--रूपाया दीक्षाया इति ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 > दीयते ज्ञान-सद्-भावः,  
 क्षीयते पशुवासना ।
@@ -139,8 +139,8 @@ On the other hand, the ignorance lying in the self (pauruṣa) is of the nature 
 इत्येवं लक्षणा दीक्षा।  
 आदिना शेषतया वर्तमानं सन्ध्योपासनादि ।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>Hemendra</summary>
 
 
 The ignorance abiding in the self (pauruṣa) can be removed by means of initiation and other similar procedures.
@@ -165,8 +165,7 @@ However, even initiation in the presence of the ignorance characterized by indet
 तद् एव च +अभ्यस्यमानं, पौरुषम् अपि अज्ञानं निहन्ति - विकल्प-संविद्-अभ्यासस्य +++(विकल्प-पर्व-भूत-)+++ अ-विकल्पान्तता-पर्यवसानात् +++([ख्: अविकल्पासङ्कुचितेति पाठः])+++ ।+++(4)+++  
 +++(ननु विकल्पा, तज्जनित-वेद्य-वेदकादि-भेदाः क्षणिकाः।)+++
 
-<details>
-<summary>English</summary>
+<details><summary>Hemendra</summary>
 
 
 Thus, the attainment of that determinative knowledge steadily abiding in the plane of the intellect is the principal factor. Indeed, this practice uproots the ignorance abiding in the self (pauruṣa), because when consciousness in the form of vikalpa is practiced, it ultimately terminates in consciousness free from vikalpa [^2].
@@ -181,8 +180,7 @@ Thus, the attainment of that determinative knowledge steadily abiding in the pla
 **विकल्पासङ्कुचित**-संवित्-प्रकाश-रूपो हि +आत्मा **शिव-स्वभाव** इति  
 सर्वथा समस्त-वस्तु-निष्ठं सम्यङ्-निश्चयात्मकं ज्ञानम् उपादेयम् ।  
 
-<details>
-<summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The Self (ātmā) is the light of consciousness (prakāśa) free from the limitation of thought-constructs (vikalpa), and is the very nature of śiva. Therefore, the attainment of the 'right knowledge of a determinate nature' (samyan-niścayātmakam jñānam) regarding all objects in every respect is desirable.
 </details>
@@ -193,12 +191,12 @@ The Self (ātmā) is the light of consciousness (prakāśa) free from the limita
 
 तच् च +++(सुज्ञानोपादानं)+++ शास्त्र-पूर्वकम् ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 न तु अनुमान-गम्यम् इति शेषः।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>Hemendra</summary>
 
 
 The attainment of this knowledge is preceded by study of the holy texts (sāstras).
@@ -212,7 +210,7 @@ The attainment of this knowledge is preceded by study of the holy texts (sāstra
 अपर-शास्त्रोक्तानाम् अर्थानां तत्र वैविक्त्येन +++(अस्माभिः शैवैर्)+++ +अभ्युपगमात्,  
 तद्-अर्थातिरिक्त-युक्ति-सिद्ध-निरूपणाच् च।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 अपर-शास्त्रोक्तानाम् अर्थानां = बौद्ध-वैष्णवादिभिः स्वस्वाम्नायेष्व् अनुशिष्टानाम् । ते च +अर्था अपरशास्त्रोक्ता बौद्ध-वैष्णवादि-शास्त्राभिहिताः।
 
@@ -220,8 +218,8 @@ The attainment of this knowledge is preceded by study of the holy texts (sāstra
 तन्निष्पन्नं यद् वस्तु विकल्पासङ्कुचित-पूर्ण-प्रथा-रूपं शिव-तत्त्वाख्यं,  
 तस्य निरूपणात् ।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>Hemendra</summary>
 
 
 
@@ -236,13 +234,13 @@ The holy texts are authoritative, as they are revealed by the highest Lord (Para
 तेन **अपरागमोक्तं** ज्ञानं तावत एव **बन्धात् विमोचकम्, न सर्वस्मात्**।   
 सर्वस्मात् तु विमोचकं परमेश्वर-शास्त्रं +++(आम्नायभेदेन)+++ पञ्च-स्रोतो(-मयम्), +++(नानाविध-क्रोडीकरणेन)+++ दशाष्टादश-वस्वष्ट+++(=१०, १८, ६४)+++-भेद-भिन्नम् ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 चिदानन्देच्छाज्ञानक्रिया-मय--ईश-तत्पुरुष-सद्योजात-वामदेवाऽघोर-रूपाणि पञ्च स्रोतांसि। तन्-मयं शास्त्रं, भेदाभिधायका दश शिव-भेदाः, भेदाभेदाभिधायका अष्टादश रुद्रभेदाः, अभेदाभिधायकाः वसुभिर् अष्टभिर् गुणिता अष्टौ = चतुःषष्टिः भैरवभेदाः ।
 
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>Hemendra</summary>
 
 
 Therefore, the knowledge taught in other holy texts (āgamas) is said to grant liberation only up to a certain extent, but not from all bondage.  
@@ -264,8 +262,7 @@ On the other hand, the holy texts revealed by the Lord Parameśvara bestow relea
 
 ततोऽपि सर्वस्मात् सारं षडर्ध+++(=त्रिक)+++-शास्त्राणि । तेभ्योऽपि मालिनीविजयम् ।+++(5)+++
 
-<details>
-<summary>English</summary>
+<details><summary>Hemendra</summary>
 
 
 The most perfect among them are the texts named Trika, the quintes sence of which is the Mālinīvijaya tantra.
@@ -281,8 +278,7 @@ The most perfect among them are the texts named Trika, the quintes sence of whic
 
 इति स्व्-अभ्यस्त-ज्ञान-मूलत्वात् पर-पुरुषार्थस्य+++(5)+++, तत्-सिद्धय इदम् आरभ्यते।
 
-<details>
-<summary>English</summary>
+<details><summary>Hemendra</summary>
 
 
 The subject matter contained therein is difficult to gather and properly elucidate. Without the proper ascertainment of the essence of reality, this knowledge neither possesses the property of liberation nor is instrumental in granting it. It is only unblemished knowledge that possesses such a nature.
@@ -300,7 +296,7 @@ The highest human end has its root in knowledge, which should be practiced in on
 ध्वस्ताशेष-मलात्म-संविद्-उदये मोक्षश् च तेनामुना   
 शास्त्रेण प्रकटी-करोमि निखिलं यज् ज्ञेय-तत्त्वं भवेत् ॥
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **किलेति** सर्व-वादि-+++(अ??)+++विप्रतिपत्तौ।  
 **अज्ञानं** स्व-स्वरूप-प्रच्युतिः।  
@@ -309,8 +305,8 @@ The highest human end has its root in knowledge, which should be practiced in on
 **तद्** इति अज्ञानम्, **अखिलम्** इति त्रिविधम्।  
 **निर्मूलतां** संस्कारस्यापि विरहम् तेनेति हेतुना ।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>Hemendra</summary>
 
 
 
@@ -329,7 +325,7 @@ For this reason, I shall, with the help of this text, reveal the real nature of 
 स च सर्वभावानां **प्रकाशरूप** एव  
 - अ-प्रकाशस्य स्वभावतानुपपत्तेः।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 उप इति आत्मनः समीपे टङ्कवद् ईश्वराभिज्ञानं हन्यते विश्रम्यते येन +इत्य् उपोद्घातः ।
 
@@ -337,8 +333,8 @@ For this reason, I shall, with the help of this text, reveal the real nature of 
 
 **स च सर्वभावानां प्रकाशरूप एव** - भावानां प्रकाश एव रूपं न तु नीलतादि इति भावः। यद् अप्रकाशरूपं तत्र प्रथते - अस्य तु स्वभावता कुत एव स्यात् ।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>Hemendra</summary>
 
 
 Introduction
@@ -357,12 +353,12 @@ In this world, 'innate nature' (svabhāva) is the highest aim to be attained[^4]
 तयोर् अपि तत्-प्रकाश-स्वभावत्वाद्  
 इत्य् **एक एव प्रकाशः**। 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 प्रकाशस्य यदि तद्-इतर-स्वरूपो ऽनुप्रविशेत्, तदा तस्य भेदः स्यात् - यथा घटाकारानुप्रवेशेन मृदाकारस्येति भावः ।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>Hemendra</summary>
 
 
 Furthermore, that light is only one [literally translated: ‘it is not more than one'], for there is an absence of existence of any other innate nature in that light which is different from it. This is because of the non-existence of differentiation in that light.
@@ -381,8 +377,7 @@ Time and space cannot bring or cause differentiation in it, for they possess tha
 स एव च **संवित्**।  
 **अर्थ-प्रकाशरूपा** हि संविद् इति सर्वेषाम् अत्र अविवाद एव ।
 
-<details>
-<summary>English</summary>
+<details><summary>Hemendra</summary>
 
 
 And that light alone is consciousness. The nature of consciousness is to bring illumination [manifestation] to all objects. In this regard there is no difference of opinion among scholars.
@@ -397,8 +392,7 @@ And that light alone is consciousness. The nature of consciousness is to bring i
 प्रकाश्यता च प्रकाशान्तरापेक्षितैव।  
 न च प्रकाशान्तरं किञ्चिद् अस्ति इति - **स्वतन्त्र एकः प्रकाशः**।
 
-<details>
-<summary>English</summary>
+<details><summary>Hemendra</summary>
 
 
 This shining of that light is not dependent on anything outside of itself. The state of being illuminated by another light should certainly be called dependence, as the state of being illuminated depends on others for its illumination. However, in the absence of any other light, there is only this single and 'autonomous' (svatantra) light.
@@ -411,8 +405,7 @@ This shining of that light is not dependent on anything outside of itself. The s
 स्वातन्त्र्याद् एव च, देश-कालाकारावच्छेद-विरहाद्,  
 **व्यापको नित्यः** सर्वाकार-निराकार-स्वभावः।
 
-<details>
-<summary>English</summary>
+<details><summary>Hemendra</summary>
 
 
 It is precisely because of this independence that this light is not limited by time, space, or form. Therefore, it is all pervasive, eternal, and it has characteristics of being omniform, and at the same time it is devoid of any definite or specific form.[^6]
@@ -435,8 +428,7 @@ It is precisely because of this independence that this light is not limited by t
 **निजानन्द-विश्रान्तः** शिव-रूपः। 
 
 
-<details>
-<summary>English</summary>
+<details><summary>Hemendra</summary>
 
 
 The freedom belonging to that light is its energy of bliss (ānanda),  
@@ -457,8 +449,7 @@ In this way, although associated with the above principal energies, this unlimit
 पुनर् अपि च स्वात्मानं स्वतन्त्रतया प्रकाशयति +++(क्षणिक-विकल्प-पर्वसु)+++  
 येन +++(मातृ-मेयादि-भेदैर्)+++ +अनवच्छिन्न-प्रकाश-शिव-रूपतयैव प्रकाशते ।
 
-<details>
-<summary>English</summary>
+<details><summary>Hemendra</summary>
 
 
 Being of this nature, he, in the process of unfolding or manifesting, takes on a limited form because of his freedom. Therefore, he is designated as atomic (anu).  
@@ -473,8 +464,7 @@ Then, he manifests himself as autonomous so that he again shines as that unlimit
 
 तत्रापि स्वातन्त्र्य-वशाद् **अनुपायम्** एव स्वात्मानं प्रकाशयति, **सोपायं** वा।
 
-<details>
-<summary>English</summary>
+<details><summary>Hemendra</summary>
 
 
 In this process, he manifests his own Self by the force of his own power of freedom either with or with out 'means' (upāya).
@@ -486,8 +476,7 @@ In this process, he manifests his own Self by the force of his own power of free
 
 सोपायत्वेऽपि - इच्छा वा, ज्ञानं वा, क्रिया वा अभ्युपाय इति - त्रैविध्यं शाम्भव-शाक्ताऽऽणव-भेदेन समावेशस्य तत्र चतुर्-विधम् अपि एतद्-रूपं क्रमेण अत्र उपदिश्यते ।
 
-<details>
-<summary>English</summary>
+<details><summary>Hemendra</summary>
 
 
 If he manifests himself with means, then the icchā, jñāna, and kriyāśaktis are used as the means. In this way, the means appear to be threefold, and the [state of]+++(rather - process)+++ absorption (samāveśa)[^8] is then divided into śāmbhava, śākta, and āṇava.
@@ -529,8 +518,7 @@ In this text, the salient features of the fourfold means (upāya)[^9] are gradua
 +++(विकल्पेषू)+++ **सञ्च्छाद्य**, यत् पुनर् अपि **प्रथयेत** पूर्णं -  
 तच् च क्रमाऽक्रम-वशाद्, अथवा +++(शाम्भव-शाक्ताणव+उपायानां)+++ त्रिभेदात् ॥५॥
 
-<details>
-<summary>English</summary>
+<details><summary>Hemendra</summary>
 
 
 The Self with the body of light is Śiva, [who is] free.  
@@ -547,7 +535,7 @@ He, by the delightful sport of his power of autonomy, veils his innate nature an
 एहत+++(=एष)+++ परमर्थिण शिवरसु ॥
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 (छाया)   
 एष प्रकाशरूप **आत्मा**  
@@ -555,4 +543,5 @@ He, by the delightful sport of his power of autonomy, veils his innate nature an
 पुनः **प्रकटयति झटिति** अथ क्रम-वशाद्,  
 एष परमार्थेन शिव-रसम् ।
 </details>
+
 <div class="js_include" newlevelforh1="2" title="Summary" unfilled url="/AgamaH_shaivaH/trikam/abhinavagupta-mUlam/tantrasAraH/00/Summary/01/"></div>
