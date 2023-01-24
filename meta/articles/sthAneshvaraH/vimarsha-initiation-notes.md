@@ -4,6 +4,9 @@ title = "vimarsha-initiation-notes"
 
 Source: [TW](https://www.vimarshafoundation.org/challenge-page/introtosarvamnaya)
 
+## About
+Sarvāmnāya, the “All-Transmissions” school, is a Krama tradition of Śaiva-Śākta Tantra that integrates all of the diverse streams of Āgamic revelation - deity forms, contemplative disciplines, and philosophies - into a single coherent and synthetic system of sequential initiation (krama). Sarvāmnāya does not constitute a formal organization. Instead it is a tradition of practice and approach to philosophy that has been handed down from teacher to student beginning in the XIIth Century but containing elements of much greater antiquity, some believed by modern scholars to be extinct, which have historically been kept alive in Nepal up to the present day.
+
 ## Initiation meaning
 The Meaning of Initiation
 
