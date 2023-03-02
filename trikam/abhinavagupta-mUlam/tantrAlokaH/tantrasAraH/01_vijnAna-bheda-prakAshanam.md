@@ -221,11 +221,7 @@ The attainment of this knowledge is preceded by study of the holy texts (sāstra
 
 <details><summary>Hemendra</summary>
 
-
-
 The holy texts are authoritative, as they are revealed by the highest Lord (Parameśvara). The subject matter as enunciated by other scriptures is accepted as distinct, not directly related to the totality of knowledge, and is proved by arguments not directly related to that subject matter.
-
-
 </details>
 
 
