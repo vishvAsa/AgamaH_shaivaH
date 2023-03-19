@@ -361,42 +361,153 @@ Thus the inhalation and exhalation of one breath is known as the day and night. 
 
 
 ## मासोदयः
-अथ मासोदयः ।  
-तत्र दिनं कृष्णपक्षः [दिनेऽपानचन्द्रस्व क्षयात् कृष्णपक्षत्वम् ।]  
-रात्रिः शुक्लः तत्र पूर्वं तुट्यर्धं अन्त्यं च   
-तुट्यर्धं विश्रान्तिः अकालकलिताः   
-[हार्दद्वादशान्तयोस्तुद्व्यर्धयोर्विश्रान्तिरूपत्वात्कालकलना नास्तीति ।] मध्यास्तु पञ्चदश तुटय एव तिथयः तत्र [तत्र प्रतितुटौ   
-तिथिरूपायाम् ।] प्रकाशो विश्रान्तिश्च इति एत एव दिननिशे [यदुक्तम्
+अथ मासोदयः ।   
+तत्र +++(पूर्वोक्तं श्वासनिर्गमात्मकं)+++ दिनं **कृष्णपक्षः**, रात्रिः शुक्लः।
 
-संवित्प्रतिक्षणं यस्मात्प्रकाशानन्दयोगिनी ।   
-तौ क्षिप्तौ यावति तथा तावत्येव दिनक्षपे ॥ इति ।] तत्र   
-वेद्यमयताप्रकाशो +++([ख्: वेद्यसमयतेति पाठः ।])+++ दिनं वेद्यस्य   
-विचारयितरि लयो रातिः ते च प्रकाशविश्रान्ती चिराचिरवैचित्र्यात् अनन्तभेदे   
-तत्साम्ये तु विषुवत् [यदुक्तम्
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-कदाचिद्वस्तुविश्रान्तिसाम्येनात्मनि चर्वणम् ।   
-वेद्यवेदकसाम्यं तत्सा रात्रिन्दिनतुल्यता ॥ इति । प्रमातृणां   
-वेद्यग्रहपरत्वादेस्तारतम्यात् संविदुदयः कस्यचित्क्षणः कस्यचित्कल्पः   
-कस्यचिन्निमेषश्च स्यात् इति प्रकाशे चिराचिरवैचित्र्यम् । तथैव विश्रान्तौ च
+दिनेऽपानचन्द्रस्व-क्षयात् कृष्णपक्षत्वम् ।
+</details>
 
-वेद्ये विश्रान्तिरधिका दिनदैर्घ्याय कल्पते ।   
-तथैव स्वात्मविश्रान्तिवृत्तिः स्याद्रात्रिविस्तरः ॥ इति ।]
+<details><summary>English</summary>
+
+Now the rising of the month will be explained. Here, the day is the dark fortnight and the night is the bright fortnight.[^79]
+</details>
+
+
+तत्र पूर्वं तुट्य्-अर्धं  
+अन्त्यं च तुट्य्-अर्धं **विश्रान्तिः** अकालकलिताः,     
+मध्यास् तु पञ्चदश तुटय एव **तिथयः**।  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+हार्द-द्वादशान्तयोस् तुट्य्-अर्धयोर् विश्रान्ति-रूपत्वात्  
+काल-कलना नास्तीति ।
+</details>
+
+
+<details><summary>English</summary>
+
+The first half and the last half of the truti is considered as 'rest' (visranti)[^80] because it is beyond the influence of time.  
+However, the intermediate fifteen tuṭis make up one fortnight.
+</details>
+
+### दिननिशे
+तत्र +++(वक्ष्यमाणरीत्या वेद्यस्य)+++ प्रकाशो विश्रान्तिश् च +इति +एत एव **दिननिशे** ।  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**तत्र** - प्रतितुटौ तिथिरूपायाम् ।  
+यद् उक्तम्
+
+> संवित् प्रतिक्षणं यस्मात्  
+प्रकाशानन्द-योगिनी ।   
+तौ क्षिप्तौ यावति तथा  
+तावत्य् एव दिनक्षपे ॥
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+There, in these tithis light and rest occur, which are known as day and night. 
+</details>
+
+
+तत्र वेद्यमयता-**प्रकाशो** +++([ख्: वेद्यसमयतेति पाठः ।])+++ **दिनं**  
+**वेद्यस्य** विचारयितरि **लयो रात्रिः**।  
+
+
+
+<details><summary>English</summary>
+
+Day is when the manifestation of the knowables takes place, and night is when they dissolve into the knowing subject. [^81]
+</details>
+
+
+ते च प्रकाश-विश्रान्ती चिराचिर-वैचित्र्यात् अनन्तभेदे,  
+तत्-साम्ये तु विषुवत्॥ 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यदुक्तम्
+
+> कदाचिद्वस्तु-विश्रान्ति-  
+> साम्येनात्मनि चर्वणम् ।  
+> वेद्य-वेदक-साम्यं तत्  
+> सा रात्रिन्-दिन-तुल्यता ॥ 
+
+इति । प्रमातृणां वेद्य-ग्रह-परत्वादेस् तारतम्यात्  
+संविद्-उदयः कस्यचित् क्षणः कस्यचित् कल्पः, कस्यचिन् निमेषश् च स्यात्  
+इति प्रकाशे चिरा-चिरवैचित्र्यम् । तथैव विश्रान्तौ च
+
+> वेद्ये विश्रान्तिर् अधिका  
+> दिनदैर्घ्याय कल्पते ।  
+> तथैव स्वात्म-विश्रान्ति-  
+> वृत्तिः स्याद् रात्रिविस्तरः ॥ 
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+Day and night have infinite divisions because of the variety of prolonged and temporary duration. The 'equinox' (viṣuvat) is the occurrence of the balance of both. 
+</details>
+
 
 ५०)
 
-तत्र कृष्णपक्षे प्राणार्के अपानचन्द्र आप्यायिकाम् एकामेकां कलाम्   
-अर्पयति यावत् पञ्चदश्यां तुटौ द्वादशान्तसमीपे   
-क्षीणपृथग्भूतकलाप्रसरः चन्द्रमाः प्राणार्क एव लीयते । तदनन्तरं   
-यत् तुट्यर्धं स पक्षसन्धिः । तस्य च तुट्यर्धस्य प्राच्यम् अर्धम्   
-[प्राणीयमर्धम् ।] आमावस्यं द्वितीयं [अपानीयम् ।]   
-प्रातिपदं । तत्र प्रातिपदे तस्मिन् भागे स आमावस्यो भागो यदा   
-कासप्रयत्नावधानादिकृतात् तिथिच्छेदात् विशति तदा तत्र ग्रहणम्   
-[तस्यास्तिथेः कासवशात् द्वादशान्ते उच्छेदः ततः
+### पक्ष-दृष्टिः
+तत्र कृष्णपक्षे  
+प्राणार्के +++(प्रमाणाक्रप्रतिनिधिः)+++ अपानचन्द्र +++(प्रमेयचन्द्र-प्रतिनिधिः)+++  
+आप्यायिकाम् एकाम् एकां कलाम् अर्पयति,  
+यावत् पञ्चदश्यां तुटौ, द्वादशान्त-समीपे   
+क्षीण-पृथग्-भूत-कला-प्रसरः चन्द्रमाः प्राणार्क एव लीयते ।  
 
-शक्तिगर्भादधः सृष्टिस्तस्माद्वृष्टिः प्रजायते ।
+<details><summary>English</summary>
 
-इति नीत्या निःश्वासवशादपानवाहस्य चिरेण प्रसरणात्तिथेरधिकीभावेन   
-पूर्णतया पौर्णमास्युदयः वृद्धिवशात् पूर्णिमाभागः प्रातिपदे   
+During the dark fortnight, the moon, which stands for vital energy (apāna),  
+offers replenishing lunar phases (kalā) one after the other to the sun (prāṇa),  
+until the fifteenth tuṭi is reached.  
+This fifteenth tuṭi iṣ adjacent to the end of twelve' (dvādaśānta),  
+the waning moon from which all the phases have been separated and thus has become emaciated, i.e., dissolved into prāṇa.  
+
+</details>
+
+
+तद्-अनन्तरं यत् तुट्य्-अर्धं स पक्ष-सन्धिः ।
+तस्य च तुट्य्-अर्धस्य प्राच्यम् अर्धम् [प्राणीयमर्धम् ।] आमावस्यं  
+द्वितीयं [अपानीयम् ।] प्रातिपदम् । 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्राच्यम् अर्धम् - प्राणीयमर्धम् ।  
+द्वितीयं प्रातिपदम् - अपानीयम् । 
+</details>
+
+<details><summary>English</summary>
+
+The tuṭi that follows is the conjunction of the half month (paksa).  
+The first half of that tuṭi is related to the night of new moon (amāvāsya) and the latter half to the first day of the lunar fortnight (pratipad). 
+</details>
+
+
+तत्र प्रातिपदे तस्मिन् भागे  
+स आमावस्यो भागो  
+यदा कास-प्रयत्नावधानादि-कृतात् तिथि-च्छेदात् विशति  
+तदा तत्र ग्रहणम्॥   
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तस्यास् तिथेः कासवशात् द्वादशान्ते उच्छेदः  
+ततः शक्तिगर्भाद् अधः सृष्टिस्  
+तस्माद् वृष्टिः प्रजायते ।
+
+इति नीत्या निःश्वास-वशाद्  
+अपानवाहस्य चिरेण प्रसरणात्  
+तिथेर् अधिकीभावेन   
+पूर्णतया पौर्णमास्य्-उदयः  
+वृद्धिवशात् पूर्णिमाभागः प्रातिपदे   
 भागे यदा विशति तदा चन्द्रग्रहणं केतुः सूर्ये विधौ राहुः इति नीत्या   
 सोमसहितो राहुः । यदुक्तम्
 
@@ -420,7 +531,12 @@ Thus the inhalation and exhalation of one breath is known as the day and night. 
 तदन्तरे भवेद्राहुरमृतार्थी वरानने ॥
 
 अमृतं स्रवते चन्द्रो राहुश्च ग्रसते तु तत् ।   
-पीत्वा त्यजति तद्बिम्बं तदा मुक्तः स उच्यते ॥ इति ।]
+पीत्वा त्यजति तद्बिम्बं तदा मुक्तः स उच्यते ॥ 
+
+इति ।
+</details>
+
+
 
 ५१)
 
@@ -440,9 +556,7 @@ Thus the inhalation and exhalation of one breath is known as the day and night. 
 
 
 
-Now the rising of the month will be explained. Here, the day is the dark fortnight and the night is the bright fortnight.[^79] The first half and the last half of the tuti is considered as 'rest' (visranti)[^80]
-
-because it is beyond the influence of time. However, the inter mediate fifteen tuṭis make up one fortnight. There, in these tithis light and rest occur, which are known as day and night. Day is when the manifestation of the knowables takes place, and night is when they dissolve into the knowing subject. [^81] Day and night have infinite divisions because of the variety of prolonged and temporary duration. The 'equinox' (viṣuvat) is the occurrence of the balance of both. During the dark fortnight, the moon, which stands for vital energy (apāna), offers replenishing lunar phases (kalā) one after the other to the sun (prāṇa), until the fifteenth tuṭi is reached. This fifteenth tuṭi iṣ adjacent to the end of twelve' (dvādaśānta), the waning moon from which all the phases have been separated and thus has become emaciated, i.e., dissolved into prāṇa. The tuṭi that follows is the conjunction of the half month (paksa). The first half of that tuṭi is related to the night of new moon (amāvāsya) and the latter half to the first day of the lunar fortnight (pratipad). When the portion related to (amāvāsya) enters into the portion related to pratipad as a result of a conscious effort of expelling air, such as a cough, it causes a break in the length (that is, the flow) of the vital air, usually one tithi in dura tion. This is known as an eclipse (specifically, a lunar eclipse). At that time, rāhu, the knowing subject of māyā, who is insepara bly associated with the object of knowledge and who is naturally incapable of obliterating, but only of veiling [the moon), drinks the nectar of the moon that abides in the sun (prāṇa). This is an auspicious time, capable of bestowing extraordinary results, because this is a moment in which indivisible unity of the knower, known, and knowledge takes place. When the prāṇa enters the realm of apāna, consciousness in the form of the sun fills up the apāna gradually in the form of the moon (offering to it) one lunar phase after the other. This process continues until the full moon (pūrnimā), which consists of fifteen tuṭis, develops. After this, the conjunction of the half moon and an eclipse takes place as described previously (solar eclipse). However, this
+When the portion related to (amāvāsya) enters into the portion related to pratipad as a result of a conscious effort of expelling air, such as a cough, it causes a break in the length (that is, the flow) of the vital air, usually one tithi in dura tion. This is known as an eclipse (specifically, a lunar eclipse). At that time, rāhu, the knowing subject of māyā, who is insepara bly associated with the object of knowledge and who is naturally incapable of obliterating, but only of veiling [the moon), drinks the nectar of the moon that abides in the sun (prāṇa). This is an auspicious time, capable of bestowing extraordinary results, because this is a moment in which indivisible unity of the knower, known, and knowledge takes place. When the prāṇa enters the realm of apāna, consciousness in the form of the sun fills up the apāna gradually in the form of the moon (offering to it) one lunar phase after the other. This process continues until the full moon (pūrnimā), which consists of fifteen tuṭis, develops. After this, the conjunction of the half moon and an eclipse takes place as described previously (solar eclipse). However, this
 eclipse bestows only mundane results. This is the rising of the month. 
 
 TANTRASĀRA 91 
