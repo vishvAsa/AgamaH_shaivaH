@@ -361,8 +361,9 @@ Thus the inhalation and exhalation of one breath is known as the day and night. 
 
 
 ## मासोदयः
+### पक्षौ
 अथ मासोदयः ।   
-तत्र +++(पूर्वोक्तं श्वासनिर्गमात्मकं)+++ दिनं **कृष्णपक्षः**, रात्रिः शुक्लः।
+तत्र +++(पूर्वोक्तं श्वासनिर्गमात्मकं)+++ दिनं **कृष्णपक्षः**, रात्रिः **शुक्लः**।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -457,12 +458,12 @@ Day and night have infinite divisions because of the variety of prolonged and te
 
 ५०)
 
-### पक्ष-दृष्टिः
+### कृष्णपक्षः
 तत्र कृष्णपक्षे  
 प्राणार्के +++(प्रमाणाक्रप्रतिनिधिः)+++ अपानचन्द्र +++(प्रमेयचन्द्र-प्रतिनिधिः)+++  
-आप्यायिकाम् एकाम् एकां कलाम् अर्पयति,  
+आप्यायिकाम् एकाम् एकां **कलाम् अर्पयति**,  
 यावत् पञ्चदश्यां तुटौ, द्वादशान्त-समीपे   
-क्षीण-पृथग्-भूत-कला-प्रसरः चन्द्रमाः प्राणार्क एव लीयते ।  
+क्षीण-पृथग्-भूत-कला-प्रसरः **चन्द्रमाः प्राणार्क एव लीयते** ।  
 
 <details><summary>English</summary>
 
@@ -491,11 +492,17 @@ The tuṭi that follows is the conjunction of the half month (paksa).
 The first half of that tuṭi is related to the night of new moon (amāvāsya) and the latter half to the first day of the lunar fortnight (pratipad). 
 </details>
 
-
+### ग्रहणम्
 तत्र प्रातिपदे तस्मिन् भागे  
 स आमावस्यो भागो  
 यदा कास-प्रयत्नावधानादि-कृतात् तिथि-च्छेदात् विशति  
-तदा तत्र ग्रहणम्॥   
+तदा तत्र **ग्रहणम्**॥   
+
+<details><summary>English</summary>
+
+When the portion related to (amāvāsya) enters into the portion related to pratipad as a result of a conscious effort of expelling air, such as a cough, it causes a break in the length (that is, the flow) of the vital air, usually one tithi in duration. This is known as an eclipse (specifically, a lunar eclipse). 
+</details>
+
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -540,56 +547,200 @@ The first half of that tuṭi is related to the night of new moon (amāvāsya) a
 
 ५१)
 
-तत्र च वेद्यरूपसोमसहभूतो मायाप्रमातृराहुः स्वभावतया   
-विलापनाशक्तः केवलम् आच्छादनमात्रसमर्थः सूर्यगतं चान्द्रं   
-अमृतं पिबति इति । प्रमातृप्रमाणप्रमेयत्रितयाविभागकारित्वात् स   
-पुण्यः कालः पारलौकिकफलप्रदः । ततः प्रविशति प्राणे चिदर्क एकैकया   
-कलया अपानचन्द्रम् आपूरयति [प्रतिपत्सा तु विज्ञेया चन्द्रश्चैककलो   
-भवेत् । इत्यादिक्रमेण चन्द्रपूरणम् ।] यावत् पञ्चदशी तुटिः पूर्णिमा   
-तदनन्तरं पक्षसन्धिः
+तत्र च वेद्य-रूप-सोम-सह-भूतो माया-प्रमातृ-राहुः  
+स्वभावतया विलापनाशक्तः  
+केवलम् आच्छादन-मात्र-समर्थः  
+सूर्य-गतं चान्द्रं अमृतं पिबति +इति । 
 
-५२)
+<details><summary>English</summary>
 
-ग्रहणं च इति प्राग्वत् एतत् तु ऐहिकफलप्रदम् [ऐहिकसृष्टिप्राधान्यात् ।  
-] इति मासोदयः ।
+At that time,  
+rāhu, the knowing subject of māyā,  
+who is inseparably associated with the object of knowledge  
+and who is naturally incapable of obliterating,  
+but only of veiling [the moon],  
+drinks the nectar of the moon that abides in the sun (prāṇa). 
+</details>
 
 
+प्रमातृ-प्रमाण-प्रमेय-त्रितयाविभागकारित्वात्  
+स पुण्यः कालः पार-लौकिक-फल-प्रदः । 
+
+<details><summary>English</summary>
+
+This is an auspicious time, capable of bestowing extraordinary results, because this is a moment in which indivisible unity of the knower, known, and knowledge takes place. 
+</details>
 
 
-When the portion related to (amāvāsya) enters into the portion related to pratipad as a result of a conscious effort of expelling air, such as a cough, it causes a break in the length (that is, the flow) of the vital air, usually one tithi in dura tion. This is known as an eclipse (specifically, a lunar eclipse). At that time, rāhu, the knowing subject of māyā, who is insepara bly associated with the object of knowledge and who is naturally incapable of obliterating, but only of veiling [the moon), drinks the nectar of the moon that abides in the sun (prāṇa). This is an auspicious time, capable of bestowing extraordinary results, because this is a moment in which indivisible unity of the knower, known, and knowledge takes place. When the prāṇa enters the realm of apāna, consciousness in the form of the sun fills up the apāna gradually in the form of the moon (offering to it) one lunar phase after the other. This process continues until the full moon (pūrnimā), which consists of fifteen tuṭis, develops. After this, the conjunction of the half moon and an eclipse takes place as described previously (solar eclipse). However, this
-eclipse bestows only mundane results. This is the rising of the month. 
+### शुक्लपक्षः
+
+ततः प्रविशति प्राणे चिद्-अर्क  
+एकैकया कलया अपान-चन्द्रम् आपूरयति,  
+यावत् पञ्चदशी तुटिः पूर्णिमा,   
+तद्-अनन्तरं पक्षसन्धिः [[५२]] ग्रहणं च +इति  
+प्राग्वत् एतत् तु ऐहिक-फल-प्रदम्।  
+इति मासोदयः ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**आपूरयति** - 
+
+> प्रतिपत् सा तु विज्ञेया  
+> चन्द्रश् चैककलो भवेत् ।  
+
+इत्यादिक्रमेण चन्द्रपूरणम् ।
+
+**ऐहिक-फल-प्रदम्** - ऐहिकसृष्टिप्राधान्यात् ।
+</details>
+
+<details><summary>English</summary>
+
+When the prāṇa enters the realm of apāna,  
+consciousness in the form of the sun fills up the apāna gradually  
+in the form of the moon (offering to it) one lunar phase after the other.  
+This process continues until the full moon (pūrnimā),  
+which consists of fifteen tuṭis, develops.  
+After this, the conjunction of the half moon and an eclipse takes place as described previously (solar eclipse).  
+However, this eclipse bestows only mundane results.  
+This is the rising of the month. 
 
 TANTRASĀRA 91 
+</details>
+
+
+
 
 ## वर्षोदयः
-अथ वर्षोदयः । तत्र कृष्णपक्ष एव उत्तरायणं षट्सु षट्सु अङ्गुलेषु   
-सङ्क्रान्तिः [प्राणार्कस्य ।] मकरात् मिथुनान्तं । तत्र   
-प्रत्यङ्गुलं पञ्च तिथयः तत्रापि दिनरात्रिविभागः एवं प्रवेशे   
-दक्षिणायनं +++([क्: प्रवेशो दक्षिणायनमिति पाठः ।])+++ गर्भत्वम्   
-उद्भवेच्छा उद्बुभूषुता उद्भविष्यत्वम् उद्भवारम्भः उद्भवत्ता   
-जन्मादिविकारषट्कं च इति क्रमात् मकरादिषु इति [प्राणार्कस्य ।] ।   
-तथैव उपासा अत्र [यदुक्तम्
+अथ वर्षोदयः ।  
 
-आधानमिच्छा संयोग आनन्दो घनता स्थितिः ।   
-जन्म सत्ता परिणतिर्वृद्धिर्ह्रासः क्षयः क्रमात् ॥
+<details><summary>English</summary>
 
-माघान्मासात्समारभ्य स्थितयः परिकीर्तिताः ।   
-साधकानां सिद्धिविधौ भावानां चापि सम्भवः ॥
+Now the rise of the year will be described.
+</details>
+
+
+### अयने
+तत्र कृष्णपक्ष एव उत्तरायणं,  
+षट्सु षट्सु +अङ्गुलेषु सङ्क्रान्तिः मकरात् मिथुनान्तं ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सङ्क्रान्तिः - प्राणार्कस्य ।
+</details>
+
+<details><summary>English</summary>
+
+The 'dark fortnight' (krsna paksa) is the passage of the sun to its 'northern course' (uttarāyana).  
+The passage of the sun from one side of the zodiac[^82] to the other (samkranti);  
+beginning with Capricorn (makara) and ending with Gemini (mithuna), is six digits (angula) in length.  
+</details>
+
+
+तत्र प्रत्यङ्गुलं पञ्च तिथयः।  
+तत्रापि दिनरात्रिविभागः।  
+
+<details><summary>English</summary>
+
+The five lunar phases (tithi) consist of one digit each. In these lunar phases there is also a division of days and nights. 
+</details>
+
+
+एवं प्रवेशे दक्षिणायनम्।   
++++([क्: प्रवेशो दक्षिणायनमिति पाठः ।])+++  
+
+<details><summary>English</summary>
+
+Thus, when inhalation occurs, that is known as the passage of the sun to its southern course (dakșināyana). 
+</details>
+
+
+### सङ्क्रान्तयः
++++(उत्तरायणे)+++ गर्भत्वम् उद्भवेच्छा +उद्बुभूषुता उद्भविष्यत्वम् उद्भवारम्भः उद्भवत्ता,   
++++(दक्षिणायने जन्म-स्थिति-वृद्धि-परिणति-जरा-मृत्य्व्-आत्मकं)+++  
+**जन्मादि-विकार-षट्कं**  च +इति क्रमात्  
+मकरादिषु +इति ।   
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+... मकरादिषु +इति प्राणार्कस्य। 
+</details>
+
+<details><summary>English</summary>
+
+The six changes found in living beings,  
+i.e., the state called insemination,  
+the will to become,  
+the desire to be born,  
+the state in which birth becomes imminent,  
+starting to arise,  
+and real appearance,  
+are all included in the signs of the zodiac beginning with Capricorn and ending with Gemini. 
+
+The other six human conditions,  
+i.e., birth, length of life (stithi), transformation (parinati), growth (vrddhi), decay, and death, are included in the last six signs of the zodiac. 
+</details>
+
+
+तथैव उपासा अत्र फलं समुचितं करोति ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यदुक्तम्
+
+> आधानमिच्छा संयोग  
+> आनन्दो घनता स्थितिः ।  
+> जन्म सत्ता परिणतिर्  
+> वृद्धिर् ह्रासः क्षयः क्रमात् ॥
+> 
+> माघान् मासात् समारभ्य  
+> स्थितयः परिकीर्तिताः ।  
+> साधकानां सिद्धिविधौ  
+> भावानां चापि सम्भवः ॥
 
 इति उद्भवनात्मकैषणीयसंयुक्तमिच्छामात्रमुद्भवेच्छा   
-स्वात्मन्युच्छलत्त्वेन अवस्थानमुद्भवनम् ।] फलं समुचितं करोति ।   
-अत्र च दक्षाद्याः पितामहान्ता रुद्राः [अत्र मासेषु ।] शक्तयश्च   
-द्वादशाधिपतय [यदुक्तम्
+स्वात्मन्युच्छलत्त्वेन अवस्थानमुद्भवनम् ।
+</details>
 
-दक्षश्चण्डो हरश्चण्डी प्रमथो भीममन्मथौ ।   
-शकुनिः सुमतिर्नन्द गोपालक पितामहाः ॥
+<details><summary>English</summary>
 
-इति सङ्क्रान्तिक्रमात् पतयः ।] इति वर्षोदयः ।
+For this reason,  
+rituals performed during this particular time (according to the zodiac) bestow the appropriate results.  
+</details>
 
 
-Now the rise of the year will be described. The 'dark fortnight' (krsna paksa) is the passage of the sun to its 'northern course' (uttarāyana). The passage of the sun from one side of the zodiac[^82] to the other (samkranti); beginning with Capricorn (makara) and 'ending with Gemini (mithuna), is six digits (angula) in length. The five lunar phases (tithi) consist of one digit each. In these lunar phases there is also a division of days and nights. . 
+अत्र च दक्षाद्याः पितामहान्ता  
+रुद्राः शक्तयश्च   
+द्वादशाधिपतय।
 
-Thus, when inhalation occurs, that is known as the passage of the sun to its southern course (dakșināyana). The six changes found in living beings, i.e., the state called insemination, the will to become, the desire to be born, the state in which birth becomes imminent, starting to arise, and real appearance, are all included in the signs of the zodiac beginning with Capricorn and ending with Gemini. The other six human conditions, i.e., birth, length of life (stithi), transformation (parinati), growth (vrddhi), decay, and death, are included in the last six signs of the zodiac. For this reason rituals performed during this particular time (according to the zodiac) bestow the appropriate results. The rudras, beginning with Daksa and ending with Pitāmahā, together with their śaktis are the superintending deities of the twelve signs of [the] zodiac. [^83] Here ends the description of the arising of the year. 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्र मासेषु ।  
+यदुक्तम्
+
+> दक्षश् चण्डो हरश् चण्डी  
+> प्रमथो भीममन्मथौ ।   
+> शकुनिः सुमतिर् नन्द-  
+> गोपालक-पितामहाः ॥
+
+इति सङ्क्रान्तिक्रमात् पतयः ।
+</details>
+
+<details><summary>English</summary>
+
+The rudras, beginning with Daksa and ending with Pitāmahā, together with their śaktis are the superintending deities of the twelve signs of [the] zodiac. [^83] 
+</details>
+
+
+इति वर्षोदयः ।
+
+<details><summary>English</summary>
+
+Here ends the description of the arising of the year. 
+</details>
+
+
+
+
 
 प्रत्यङ्गलं षष्टिः तिथय इति क्रमेण संक्रान्तौ वर्षम् इत्यनेन क्रमेण प्रवेशनिर्गमयोः द्वादशाब्दोदयः, प्रत्यङ्गुलं तिथीनां शतत्रयं, समञ्चांशेऽङ्गुले वर्ष, यत्र प्राक् चषकम् उक्तम् इति गणनया संक्रान्तौ पञ्च वर्षाणि, इति अनया परिपाट्या एकस्मिन् प्राणनिर्गमप्रवेशकाले षष्ट्यब्दोदयः, अत्र 
 
