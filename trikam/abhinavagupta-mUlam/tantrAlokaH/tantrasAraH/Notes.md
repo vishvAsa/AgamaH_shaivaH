@@ -5,75 +5,11 @@ title = "Notes"
 
 
 ## 06
-[^79]:
 
-    The day is the period when the sun shines and the moon, in the form of apāna, declines. For this reason, the day is conceived to be the period of the dark fortnight. Similarly, during the night, apāna, in the form of the moon, arises; therefore, the night is conceived as the bright fortnight. 
-
-[^80]:
-
-    There are two places of 'repose' (viśrānti), composed of half of a 
-
-tuṭi each. They are in the center of the heart and at the end of the twelve' (dvādaśānta), free from the changing effects of time. Both locations are the junctions of prāṇa and apāna. The time unit for 
-
-each of them is one tuṭi: 
-
-[^81]:
-
-    Here the concept of day and night is explained in a different way. 
-
-The day is the period when manifestation of objects occurs; the 
-
-night is that period when blissfulness becomes predominant. : 
-
-[^82]:
-
-    'The passage of a planet from one sign of the zodiac to another' 
-
-(samkrānti), occurs in six sections each along the path of the vital breath. They are: makara, kumbha, mina, meșa, vrṣa, and mit huna, while on the other half they are: karka, simha, kānyā, tulā, vrscika, and dhanu. Similarly, the sun's progress towards the north and towards the south, respectively, is also conceived of as occur ring in the breath. The period during which the sun moves to the north is considered to be the bestower of good results in the other world, while the period during which the sun proceeds towards the south is considered to be the bestower of good results in this mate 
-
-rial world. 
-
-[^83]:
-
-    The twelve superintending deities, one for each month, are called rudras and named Dakṣa, Canda, Hara, Caṇdī, Pramatha, Bhima, Manmatha, Sakuni, Sumati, Nanda, Gopālaka, and Pitāmahā. 
-
-[^84]:
-
-    If the movement of the vital breath covers one digit, only representing a season (two months), then the sun's movement occupies only the span of three digits. As a result, the span of one year will be six digits and in one single movement of the outgoing and ingoing vital breaths twelve years can be conceived. 
-
-234 NOTES 
-
-
-
-[^85]:
-
-    The normal period of the year with reference to human beings and the supposed year of the vital breath are different. 
-
-[^86]:
-
-    The span of a divine year is said to to consist of 12,000 human years. This period is divided into four divisions known as: ksta, consisting 4,000 years; tretā, consisting of 3,000 years; dvāpara, consisting of 2,000 years, and kali, whose duration is 1,000 years. Thus, the total comes to 10,000 years, while the remaining 2,000 years are considered to be junctions. The span of these junctions is 400, 300, 200, 100 years and counted in the following way: the last 100 years of the kali are added to the first 400 years of the krta; thus the span of the first junction is 500 years. Similarly, the duration of the junc - ture of the krta and tretā is 400 years plus 300, and thus 700 years; next, the duration of the juncture of the trētā and dvāpara is 300 years plus 200 and thus 500 years; finally, the juncture of dvāpara and kali is 200 years plus 100, yielding 300 years. Therefore, the accumulated duration of all the junctions is 2000 years. 
-
-[^87]:
-
-    Different Indras are said to be the rulers in different cycles of Manu. 
-
-During the period in which Brahmā remains active, fourteen cycles of Manu pass on. This long period is said to be a span of one day of 
-
-Brahmā's life. His night is of the same span. 
-
-[^88]:
-
-    The term "three worlds” refers to the nether world along with the 
-
-bhuḥ, bhuvaḥ, and svaḥ. 
 
 [^89]:
 
-    The night in avyakta is said to be a kind of dissolution. However, 
-
-this is a subsidiary dissolution (pralaya) and not a principal one 
-
-(mahāpralaya). 
+    The night in avyakta is said to be a kind of dissolution. However, this is a subsidiary dissolution (pralaya) and not a principal one (mahāpralaya). 
 
 [^90]:
 

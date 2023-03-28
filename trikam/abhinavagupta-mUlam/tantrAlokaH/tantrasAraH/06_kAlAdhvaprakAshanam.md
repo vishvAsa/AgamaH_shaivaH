@@ -36,7 +36,7 @@ External Practice
 <details><summary>Hemendra</summary>
 
 This external practice is denoted by the term 'formation of the place' (sthānaprakalpana).  
-According to this system, the location (sthāna) is threefold, i.e., vital air (prāṇa),[^79] the body, and external objects.[^71]
+According to this system, the location (sthāna) is threefold, i.e., vital air (prāṇa),[^70] the body, and external objects.[^71]
 
 [^70]:
 
@@ -45,7 +45,6 @@ According to this system, the location (sthāna) is threefold, i.e., vital air (
 [^71]:
 
     The external objects to which one could take recourse for the attainment of the highest reality are: a sacred diagram (mandala), an altar, vessels, rosary beads, scriptures, the symbolic form of śiva, a human skull (tūra), a form made of plaster or a painting, or an image or statue in the likeness of one's teacher, etc. They may be employed in any number and exhibit a wide variation in specific form, provided one recognizes the object's purpose is attaining the highest reality.
-
 </details>
 
 
@@ -373,6 +372,11 @@ Thus the inhalation and exhalation of one breath is known as the day and night. 
 <details><summary>English</summary>
 
 Now the rising of the month will be explained. Here, the day is the dark fortnight and the night is the bright fortnight.[^79]
+
+
+[^79]:
+
+    The day is the period when the sun shines and the moon, in the form of apāna, declines. For this reason, the day is conceived to be the period of the dark fortnight. Similarly, during the night, apāna, in the form of the moon, arises; therefore, the night is conceived as the bright fortnight. 
 </details>
 
 
@@ -391,6 +395,11 @@ Now the rising of the month will be explained. Here, the day is the dark fortnig
 
 The first half and the last half of the truti is considered as 'rest' (visranti)[^80] because it is beyond the influence of time.  
 However, the intermediate fifteen tuṭis make up one fortnight.
+
+
+[^80]:
+
+    There are two places of 'repose' (viśrānti), composed of half of a tuṭi each. They are in the center of the heart and at the end of the twelve' (dvādaśānta), free from the changing effects of time. Both locations are the junctions of prāṇa and apāna. The time unit for each of them is one tuṭi:
 </details>
 
 ### दिननिशे
@@ -423,6 +432,12 @@ There, in these tithis light and rest occur, which are known as day and night.
 <details><summary>English</summary>
 
 Day is when the manifestation of the knowables takes place, and night is when they dissolve into the knowing subject. [^81]
+
+
+[^81]:
+
+    Here the concept of day and night is explained in a different way. The day is the period when manifestation of objects occurs; the night is that period when blissfulness becomes predominant.
+
 </details>
 
 
@@ -633,6 +648,11 @@ Now the rise of the year will be described.
 The 'dark fortnight' (krsna paksa) is the passage of the sun to its 'northern course' (uttarāyana).  
 The passage of the sun from one side of the zodiac[^82] to the other (samkranti);  
 beginning with Capricorn (makara) and ending with Gemini (mithuna), is six digits (angula) in length.  
+
+[^82]:
+
+    'The passage of a planet from one sign of the zodiac to another' (samkrānti), occurs in six sections each along the path of the vital breath. They are: makara, kumbha, mina, meșa, vrṣa, and mit huna, while on the other half they are: karka, simha, kānyā, tulā, vrscika, and dhanu. Similarly, the sun's progress towards the north and towards the south, respectively, is also conceived of as occurring in the breath. The period during which the sun moves to the north is considered to be the bestower of good results in the other world, while the period during which the sun proceeds towards the south is considered to be the bestower of good results in this material world. 
+
 </details>
 
 
@@ -728,6 +748,10 @@ rituals performed during this particular time (according to the zodiac) bestow t
 <details><summary>English</summary>
 
 The rudras, beginning with Daksa and ending with Pitāmahā, together with their śaktis are the superintending deities of the twelve signs of [the] zodiac. [^83] 
+
+[^83]:
+
+    The twelve superintending deities, one for each month, are called rudras and named Dakṣa, Canda, Hara, Caṇdī, Pramatha, Bhima, Manmatha, Sakuni, Sumati, Nanda, Gopālaka, and Pitāmahā.
 </details>
 
 
@@ -749,6 +773,10 @@ Here ends the description of the arising of the year.
 
 If the sixty lunar phases (tithis) are conceived in the breadth .of each finger (angula), then following this method of calcula tion, one year is conceived in the passage of the sun from one sign of the zodiac to the other.  
 Counting in this way, in the in going and the outgoing breaths, the raising of twelve years takes place.[^84] 
+
+[^84]:
+
+    If the movement of the vital breath covers one digit, only representing a season (two months), then the sun's movement occupies only the span of three digits. As a result, the span of one year will be six digits and in one single movement of the outgoing and ingoing vital breaths twelve years can be conceived. 
 </details>
 
 
@@ -770,6 +798,10 @@ Counting in this way, in the in going and the outgoing breaths, the raising of t
 <details><summary>English</summary>
 
 When in one digit (angula) the number of lunar phases is conceived to be three hundred, then one-fifth of a digit makes one year.[^85] Following this method of calculation, what was previously described as one casaka, i.e., one and one-fifth digits, then the period of five years will place in one passage of the sun from one sign of the zodiac to another (samkrānti).
+
+[^85]:
+
+    The normal period of the year with reference to human beings and the supposed year of the vital breath are different. 
 </details>
 
 +++(३६०*६० = २१६०० इति)+++  
@@ -809,11 +841,95 @@ A number higher than sixty has not been examined because it borders on infinity.
 **अनेन** - पक्षमासायनवर्षादिकलनाक्रमेण ।
 </details>
 
+<details><summary>English</summary>
+
+Furthermore, one year for human beings is the lunar phase (tithi) of the gods.[^86] Following this procedure, 12,000 heavenly years composes the four yugas. 
+
+[^86]:
+
+    The span of a divine year is said to to consist of 12,000 human years. This period is divided into four divisions known as: ksta, consisting 4,000 years; tretā, consisting of 3,000 years; dvāpara, consisting of 2,000 years, and kali, whose duration is 1,000 years. Thus, the total comes to 10,000 years, while the remaining 2,000 years are considered to be junctions. The span of these junctions is 400, 300, 200, 100 years and counted in the following way: the last 100 years of the kali are added to the first 400 years of the krta; thus the span of the first junction is 500 years. Similarly, the duration of the junc - ture of the krta and tretā is 400 years plus 300, and thus 700 years; next, the duration of the juncture of the trētā and dvāpara is 300 years plus 200 and thus 500 years; finally, the juncture of dvāpara and kali is 200 years plus 100, yielding 300 years. Therefore, the accumulated duration of all the junctions is 2000 years. 
+
+</details>
 
 
++++(सहस्राणां)+++ चत्वारि त्रीणि द्वे एकम्  
+इति कृतात् प्रभृति (=१००००),  
+तावद्भिः [[५४]] शतैः +++(प्रतियुगम् आदाव् अन्ते चेति)+++ +अष्टौ +++(युग-)+++सन्ध्याः (=२०००)। 
+
+<details><summary>English</summary>
+
+The duration of these four yugas is 4000, 3000, 2000, and 1000 years, beginning with krtayuga. There are eight junctions between them, which are 400, 300, 200, and 100 years in length.  
+</details>
 
 
-चत्वारि त्रीणि द्वे एकम् इति कृतात् प्रभृति तावद्धिः शतैः अष्टौ संध्याः | चतुर्युगानाम् एकसप्तत्या मन्वन्तरम्, मन्वन्तरैः चतुर्दशभिः ब्राह्मं दिनं, ब्राह्मदिनान्ते कालाग्निदग्धे लोकत्रये अन्यत्र च लोकत्रये धूमप्रस्वापिते सर्वे जना वेगवदग्निप्रेरिता जनलोके प्रलयाकलीभूय तिष्ठन्ति । प्रबुद्धास्तु कूष्माण्डहाटकेशाद्या महोलोके क्रीडन्ति । ततो निशासमाप्तौ ब्राह्मी सृष्टिः | अनेन मानेन वर्षशतं ब्रह्मायुः । तत् विष्णोः दिनं तावती च रात्रिः, तस्यापि शतम् आयुः । तत् दिनं तदूधै रुद्रलोकप्रभो रुद्रस्य, तावती रात्रिः, प्राग्वत् वर्ष, तच्छतमपि च अवधिः । तत्र रुद्रस्य तंदवसितौ शिवत्वगतिः, रुद्रस्य उक्तधिकारावधिः, ब्रह्माण्डधारकाणां तत् दिनं शतरूद्राणां, निशा तावती, तेषामपि च शतमायुः । शतरुद्राक्षये ब्रह्माण्डविनाशः। एवं जलतत्त्वात् अव्यक्तान्तम् एतदेव क्रमेण रुद्राणाम् आयुः | पूर्वस्यायुरुत्तरस्य दिनम् इति । ततश्च ब्रह्मारुद्रश्च अबाद्यधिकारिणः अव्यक्ते तिष्ठन्ति इति । श्रीकण्ङ्गनाथश्च तदा संहर्ता । एषोऽवान्तरप्रलयः, तत्क्षये सृष्टिः । तत्र शास्त्रान्तरमुक्ता अपि सृज्यन्ते | यत्तु श्रीकण्ङ्गनाथस्य स्वम् आयुः तत् कञ्चुकवासिनां रुद्राणां दिनं, तावती रजनी, तेषां यदायुः तत् गहनेशदिनं, तावती एव क्षपा, तस्यां च समस्तमेव मायायां विलीयते । पुनः गहनेशः सृजति । एवं यः अव्यक्तकालः तं दशभिः परार्धेः गुणयित्वा मायादिनं कथयेत्, तावती रात्रिः । स एव प्रलयः | मायाकालः परार्धशतेन गुणित ऐश्वरतत्त्वे दिनम् । अत्र प्राणो जगत् सृजति, तावती रात्रिः, यत्र प्राणप्रशमः, प्राणे च ब्रह्मबिलाधाम्नि शान्तेऽपि या संवित्, तत्राप्यास्ति क्रमः | ऐश्वरे काले परार्धशतगुणिते या संख्या, तत् सादाशिवं दिनं, तावती निशा, स एव महाप्रलयः | सदाशिवः स्वकालपरिक्षये बिन्द्वर्धचन्द्रनिरोधिका आक्रम्य नादे लीयते, नादः शक्तितत्त्वे, तत् व्यापिन्यां, सा च अनाश्रिते । शक्तिकालेन परार्धकोटिगुणितेन अनाश्रितदिनं । अनाश्रितः सामनसे पदे, यत् तत् सामनस्यं साम्यं तत् ब्रह्म । अस्मात् सामनस्यात् अकल्यात् कालात् निमेषोन्मेषमात्रतया प्रोक्तशेषकालप्रसरप्रविलयचक्रभ्रमोदयः | एकं दश शतं सहस्रम् अयुतं लक्षं नियुतं कोटिः अर्बुदं वृन्दं खर्वं निखर्वं पद्मं शङ्कः समुद्रं 
+चतुर्युगानाम् एकसप्तत्या मन्वन्तरम्।  
+
+<details><summary>English</summary>
+
+One manvantara[^87] consists of 71 cycles of these four yugas.
+
+[^87]:
+
+    Different Indras are said to be the rulers in different cycles of Manu. During the period in which Brahmā remains active, fourteen cycles of Manu pass on. This long period is said to be a span of one day of Brahmā's life. His night is of the same span. 
+</details>
+
+
+मन्वन्तरैः चतुर्दशभिः ब्राह्मं दिनम्।   
+
+<details><summary>English</summary>
+
+Fourteen of these manvantaras make up one day of Brahmā.
+</details>
+
+
+ब्रह्म-दिनान्ते कालाग्नि-दग्धे लोकत्रये,  
++++(पृथिवीतत्त्व-वासिनां यद् आयुस्  
+तद् +जलतत्त्वस्थानां दिनम्  
+इति क्रमेण)+++  
+अन्यत्र +++(जलतत्त्वादौ)+++ च लोकत्रये धूम-प्रस्वापिते,  
+सर्वे जना वेगवद् अग्निप्रेरिता  
+जनलोके प्रलयाकलीभूय तिष्ठन्ति ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**लोकत्रये** - भूर्-भुवः-स्वर्लक्षणे ।  
+
+**अन्यत्र च लोकत्रये** -  
+जलतत्त्व-वासिनां यद् आयुस्  
+तद् अग्नितत्त्वस्थानां दिनम्  
+इति क्रम एकैक-वर्ष-शत-वृद्ध्या ।
+</details>
+
+<details><summary>English</summary>
+
+At the end of this day of Brahmā, the three worlds [[94]] are burned up by the 'fire of time' (kāla agni).  
+However, the upper three worlds[^88] are overpowered by sleep caused by smoke.  
+The creatures living there are propelled by the rapidly burning [cosmic] fire  
+to a world called Jana and remain there as pralayakala souls.
+
+[^88]:
+
+    The term "three worlds” refers to the nether world along with the bhuḥ, bhuvaḥ, and svaḥ. 
+</details>
+
+
++++(तत्त्वज्ञानेनापि)+++ प्रबुद्धास् तु कूष्माण्ड-हाटकेशाद्या महोलोके क्रीडन्ति ।  
+
+ततो निशा-समाप्तौ ब्राह्मी सृष्टिः ।  
+अनेन मानेन वर्ष-शतं ब्रह्मायुः ।  
+
+तद् विष्णोः दिनं,  
+तावती च रात्रिः,  
+तस्यापि शतम् आयुः । 
+
+तत् दिनं, तद्-ऊर्ध्वे  
+रुद्र-लोक-प्रभो रुद्रस्य  
+तावती रात्रिः।  
+प्राग्-वत् वर्षं,  
+तच्छतम् अपि च अवधिः ।
+
+
+प्रबुद्धास्तु कूष्माण्डहाटकेशाद्या महोलोके क्रीडन्ति । ततो निशासमाप्तौ ब्राह्मी सृष्टिः | अनेन मानेन वर्षशतं ब्रह्मायुः । तत् विष्णोः दिनं तावती च रात्रिः, तस्यापि शतम् आयुः । तत् दिनं तदूधै रुद्रलोकप्रभो रुद्रस्य, तावती रात्रिः, प्राग्वत् वर्ष, तच्छतमपि च अवधिः । तत्र रुद्रस्य तंदवसितौ शिवत्वगतिः, रुद्रस्य उक्तधिकारावधिः, ब्रह्माण्डधारकाणां तत् दिनं शतरूद्राणां, निशा तावती, तेषामपि च शतमायुः । शतरुद्राक्षये ब्रह्माण्डविनाशः। एवं जलतत्त्वात् अव्यक्तान्तम् एतदेव क्रमेण रुद्राणाम् आयुः | पूर्वस्यायुरुत्तरस्य दिनम् इति । ततश्च ब्रह्मारुद्रश्च अबाद्यधिकारिणः अव्यक्ते तिष्ठन्ति इति । श्रीकण्ङ्गनाथश्च तदा संहर्ता । एषोऽवान्तरप्रलयः, तत्क्षये सृष्टिः । तत्र शास्त्रान्तरमुक्ता अपि सृज्यन्ते | यत्तु श्रीकण्ङ्गनाथस्य स्वम् आयुः तत् कञ्चुकवासिनां रुद्राणां दिनं, तावती रजनी, तेषां यदायुः तत् गहनेशदिनं, तावती एव क्षपा, तस्यां च समस्तमेव मायायां विलीयते । पुनः गहनेशः सृजति । एवं यः अव्यक्तकालः तं दशभिः परार्धेः गुणयित्वा मायादिनं कथयेत्, तावती रात्रिः । स एव प्रलयः | मायाकालः परार्धशतेन गुणित ऐश्वरतत्त्वे दिनम् । अत्र प्राणो जगत् सृजति, तावती रात्रिः, यत्र प्राणप्रशमः, प्राणे च ब्रह्मबिलाधाम्नि शान्तेऽपि या संवित्, तत्राप्यास्ति क्रमः | ऐश्वरे काले परार्धशतगुणिते या संख्या, तत् सादाशिवं दिनं, तावती निशा, स एव महाप्रलयः | सदाशिवः स्वकालपरिक्षये बिन्द्वर्धचन्द्रनिरोधिका आक्रम्य नादे लीयते, नादः शक्तितत्त्वे, तत् व्यापिन्यां, सा च अनाश्रिते । शक्तिकालेन परार्धकोटिगुणितेन अनाश्रितदिनं । अनाश्रितः सामनसे पदे, यत् तत् सामनस्यं साम्यं तत् ब्रह्म । अस्मात् सामनस्यात् अकल्यात् कालात् निमेषोन्मेषमात्रतया प्रोक्तशेषकालप्रसरप्रविलयचक्रभ्रमोदयः | एकं दश शतं सहस्रम् अयुतं लक्षं नियुतं कोटिः अर्बुदं वृन्दं खर्वं निखर्वं पद्मं शङ्कः समुद्रं 
 
 TANTRASARA_93 
 
@@ -821,11 +937,7 @@ TANTRASARA_93
 
 
 
-Furthermore, one year for human beings is the lunar phase (tithi) of the gods.co Following this procedure, 12,000 heavenly years composes the four yugas. The duration of these four yugas is 4,000, 3,000,2,000, and 1,000 years, beginning with krtayuga. There are eight junctions between them, which are 400, 300, 200, and 100 years in length. One manvantara[^87] consists of 71 cycles of these four yugas. Fourteen of these manvantaras make up one day of Brahmā. At the end of this day of Brahmā, the three worlds 
-
-94 TANTRASĀRA 
-
-are burned up by the 'fire of time' (kāla agni). However, the upper three worlds[^88] are overpowered by sleep caused by smoke. The creatures living there are propelled by the rapidly burning [cos mic] fire to a world called Jana and remain there as pralayakala souls. But those creatures called Kuṣmaṇda, Hāṭaka, and others who are properly enlightened souls continue to play in a world called Mahas. When the period of that night of Brahmā is over, creation starts again. Following this system of measurement, the life span of Brahmā is one hundred years. This is the duration of one day and night of Viṣnu. His life span is also one hundred years. The life span of Viṣṇu is one day in the life of Rudra, the 
+But those creatures called Kuṣmaṇda, Hāṭaka, and others who are properly enlightened souls continue to play in a world called Mahas. When the period of that night of Brahmā is over, creation starts again. Following this system of measurement, the life span of Brahmā is one hundred years. This is the duration of one day and night of Viṣnu. His life span is also one hundred years. The life span of Viṣṇu is one day in the life of Rudra, the 
 
 · Lord of the Rudra world, which is above the world of Viṣṇu. The 
 
