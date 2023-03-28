@@ -881,7 +881,7 @@ One manvantara[^87] consists of 71 cycles of these four yugas.
 Fourteen of these manvantaras make up one day of Brahmā.
 </details>
 
-
+## पृथिवीतत्त्वे लोकायुः-क्रमः
 ब्रह्म-दिनान्ते कालाग्नि-दग्धे लोकत्रये,  
 +++(पृथिवीतत्त्व-वासिनां यद् आयुस्  
 तद् +जलतत्त्वस्थानां दिनम्  
@@ -915,21 +915,117 @@ to a world called Jana and remain there as pralayakala souls.
 
 +++(तत्त्वज्ञानेनापि)+++ प्रबुद्धास् तु कूष्माण्ड-हाटकेशाद्या महोलोके क्रीडन्ति ।+++(5)+++  
 
+<details><summary>English</summary>
+
+But those creatures called Kuṣmaṇda, Hāṭaka, and others who are properly enlightened souls continue to play in a world called Mahas. 
+</details>
+
+
 ततो निशा-समाप्तौ ब्राह्मी सृष्टिः ।  
 अनेन मानेन वर्ष-शतं ब्रह्मायुः ।  
+
+<details><summary>English</summary>
+
+When the period of that night of Brahmā is over, creation starts again. Following this system of measurement, the life span of Brahmā is one hundred years.  
+</details>
+
 
 तद् विष्णोः दिनं,  
 तावती च रात्रिः,  
 तस्यापि शतम् आयुः । 
 
-तत् दिनं, तद्-ऊर्ध्वे  
+<details><summary>English</summary>
+
+This is the duration of one day and night of Viṣnu. His life span is also one hundred years.
+</details>
+
+
+तत् दिनं, तद्-ऊर्ध्वे +++(लोके)+++  
 रुद्र-लोक-प्रभो रुद्रस्य  
 तावती रात्रिः।  
 प्राग्-वत् वर्षं,  
-तच्छतम् अपि च अवधिः ।
+तच्-छतम् अपि च +अवधिः +++(रुद्रजीवस्य)+++ ।
 
 
-प्रबुद्धास्तु कूष्माण्डहाटकेशाद्या महोलोके क्रीडन्ति । ततो निशासमाप्तौ ब्राह्मी सृष्टिः | अनेन मानेन वर्षशतं ब्रह्मायुः । तत् विष्णोः दिनं तावती च रात्रिः, तस्यापि शतम् आयुः । तत् दिनं तदूधै रुद्रलोकप्रभो रुद्रस्य, तावती रात्रिः, प्राग्वत् वर्ष, तच्छतमपि च अवधिः । तत्र रुद्रस्य तंदवसितौ शिवत्वगतिः, रुद्रस्य उक्तधिकारावधिः, ब्रह्माण्डधारकाणां तत् दिनं शतरूद्राणां, निशा तावती, तेषामपि च शतमायुः । शतरुद्राक्षये ब्रह्माण्डविनाशः। एवं जलतत्त्वात् अव्यक्तान्तम् एतदेव क्रमेण रुद्राणाम् आयुः | पूर्वस्यायुरुत्तरस्य दिनम् इति । ततश्च ब्रह्मारुद्रश्च अबाद्यधिकारिणः अव्यक्ते तिष्ठन्ति इति । श्रीकण्ङ्गनाथश्च तदा संहर्ता । एषोऽवान्तरप्रलयः, तत्क्षये सृष्टिः । तत्र शास्त्रान्तरमुक्ता अपि सृज्यन्ते | यत्तु श्रीकण्ङ्गनाथस्य स्वम् आयुः तत् कञ्चुकवासिनां रुद्राणां दिनं, तावती रजनी, तेषां यदायुः तत् गहनेशदिनं, तावती एव क्षपा, तस्यां च समस्तमेव मायायां विलीयते । पुनः गहनेशः सृजति । एवं यः अव्यक्तकालः तं दशभिः परार्धेः गुणयित्वा मायादिनं कथयेत्, तावती रात्रिः । स एव प्रलयः | मायाकालः परार्धशतेन गुणित ऐश्वरतत्त्वे दिनम् । अत्र प्राणो जगत् सृजति, तावती रात्रिः, यत्र प्राणप्रशमः, प्राणे च ब्रह्मबिलाधाम्नि शान्तेऽपि या संवित्, तत्राप्यास्ति क्रमः | ऐश्वरे काले परार्धशतगुणिते या संख्या, तत् सादाशिवं दिनं, तावती निशा, स एव महाप्रलयः | सदाशिवः स्वकालपरिक्षये बिन्द्वर्धचन्द्रनिरोधिका आक्रम्य नादे लीयते, नादः शक्तितत्त्वे, तत् व्यापिन्यां, सा च अनाश्रिते । शक्तिकालेन परार्धकोटिगुणितेन अनाश्रितदिनं । अनाश्रितः सामनसे पदे, यत् तत् सामनस्यं साम्यं तत् ब्रह्म । अस्मात् सामनस्यात् अकल्यात् कालात् निमेषोन्मेषमात्रतया प्रोक्तशेषकालप्रसरप्रविलयचक्रभ्रमोदयः | एकं दश शतं सहस्रम् अयुतं लक्षं नियुतं कोटिः अर्बुदं वृन्दं खर्वं निखर्वं पद्मं शङ्कः समुद्रं 
+<details><summary>English</summary>
+
+The life span of Viṣṇu is one day in the life of Rudra, the Lord of the Rudra world, which is above the world of Viṣṇu.
+
+The duration of his night is of the same length: one year is as described above. One hundred of these years is the limit of the life of Rudra. 
+</details>
+
+
+तत्र रुद्रस्य तद्-अवसितौ शिवत्वगतिः।  
+
+<details><summary>English</summary>
+
+At the end of one hundred years [of his life] he attains identity with Śiva.
+</details>
+
+
+रुद्रस्य +उक्ताधिकारावधिः  
+ब्रह्माण्ड-धारकाणां +++(शतरुद्राणां)+++ तत् दिनं, शतरुद्राणां निशा।    
+
+<details><summary>English</summary>
+
+ The functional period of Rudra is one day consisting of 'one hundred rudras' (satarudras), who support the sphere of Brahmā. Their night is of the same length.
+</details>
+
+
+तावती तेषामपि च शतमायुः ।  
+शतरुद्रक्षये ब्रह्माण्डविनाशः ।  
+
+<details><summary>English</summary>
+
+Their life span is also one hundred years long. At the time of the death of the satarudras, the destruction of Brahmā's reign takes place.  
+</details>
+
+
+एवं जलतत्त्वात् +अव्यक्तान्तम् एतद्-एव क्रमेण रुद्राणाम् आयुः ।  
+पूर्वस्यायुरुत्तरस्य [[५५]] दिनम् इति ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+जलतत्त्व-वासिनां यद् आयुस् तद्-अग्नि-तत्त्वस्थानां दिनम्  
+इति क्रम  
+एकैक-वर्ष-शत-वृद्ध्या ।
+</details>
+
+
+<details><summary>English</summary>
+
+Thus, the life span of the rudras abiding in the water principle to the end of the primordial nature principle (prakrti) is counted in the following way: The life span of the rudras, abiding in the lower principle, is a day in the life of those who live in the higher principle.
+</details>
+
+
+ततश् च +++(+आयुस्-समाप्ताव् अपि बुद्धि-तत्त्वस्थाः प्रलयकलया?)+++ ब्रह्मा रुद्राश् च  
++अब्-आद्य्-अधिकारिणः अव्यक्ते तिष्ठन्ति इति ।  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**ब्रह्मा** बुद्धितत्त्वस्थः ।
+</details>
+
+<details><summary>English</summary>
+
+Then Brahmā and Rudra (although their worlds are destroyed, Brahmā and Rudra are not), who are presiding over water, and the other tattvas, remain in an unmanifest (avyakta) state. 
+</details>
+
+
+श्रीकण्ठनाथश् च तदा संहर्ता ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**श्रीकण्ठनाथः** पुन्तत्त्वस्थः ।
+</details>
+
+<details><summary>English</summary>
+
+At that time, Lord Srikantha becomes the agent of destruction. 
+</details>
+
+
+एषोऽवान्तरप्रलयः, तत्क्षये सृष्टिः । तत्र शास्त्रान्तरमुक्ता अपि सृज्यन्ते | यत्तु श्रीकण्ङ्गनाथस्य स्वम् आयुः तत् कञ्चुकवासिनां रुद्राणां दिनं, तावती रजनी, तेषां यदायुः तत् गहनेशदिनं, तावती एव क्षपा, तस्यां च समस्तमेव मायायां विलीयते । पुनः गहनेशः सृजति । एवं यः अव्यक्तकालः तं दशभिः परार्धेः गुणयित्वा मायादिनं कथयेत्, तावती रात्रिः । स एव प्रलयः | मायाकालः परार्धशतेन गुणित ऐश्वरतत्त्वे दिनम् । अत्र प्राणो जगत् सृजति, तावती रात्रिः, यत्र प्राणप्रशमः, प्राणे च ब्रह्मबिलाधाम्नि शान्तेऽपि या संवित्, तत्राप्यास्ति क्रमः | ऐश्वरे काले परार्धशतगुणिते या संख्या, तत् सादाशिवं दिनं, तावती निशा, स एव महाप्रलयः | सदाशिवः स्वकालपरिक्षये बिन्द्वर्धचन्द्रनिरोधिका आक्रम्य नादे लीयते, नादः शक्तितत्त्वे, तत् व्यापिन्यां, सा च अनाश्रिते । शक्तिकालेन परार्धकोटिगुणितेन अनाश्रितदिनं । अनाश्रितः सामनसे पदे, यत् तत् सामनस्यं साम्यं तत् ब्रह्म । अस्मात् सामनस्यात् अकल्यात् कालात् निमेषोन्मेषमात्रतया प्रोक्तशेषकालप्रसरप्रविलयचक्रभ्रमोदयः | एकं दश शतं सहस्रम् अयुतं लक्षं नियुतं कोटिः अर्बुदं वृन्दं खर्वं निखर्वं पद्मं शङ्कः समुद्रं 
 
 TANTRASARA_93 
 
@@ -937,13 +1033,8 @@ TANTRASARA_93
 
 
 
-But those creatures called Kuṣmaṇda, Hāṭaka, and others who are properly enlightened souls continue to play in a world called Mahas. When the period of that night of Brahmā is over, creation starts again. Following this system of measurement, the life span of Brahmā is one hundred years. This is the duration of one day and night of Viṣnu. His life span is also one hundred years. The life span of Viṣṇu is one day in the life of Rudra, the 
 
-· Lord of the Rudra world, which is above the world of Viṣṇu. The 
-
-duration of his night is of the same length: one year is as described above. One hundred of these years is the limit of the life of Rudra. At the end of one hundred years [of his life] he attains identity with Śiva. The functional period of Rudra is one day consisting of 'one hundred rudras' (satarudras), who support the sphere of Brahmā. Their night is of the same length. Their life span is also one hundred years long. At the time of the death of the satarudras, the destruction of Brahmā's reign takes place. Thus, the life span of the rudras abiding in the water principle to the end of the pri mordial nature principle (prakrti) is counted in the following way: The life span of the rudras, abiding in the lower principle, is a day in the life of those who live in the higher principle. 
-
-Then Brahmā and Rudra (although their worlds are destroyed, Brahmā and Rudra are not), who are presiding over water, and the other tattvas, remain in an unmanifest (avyakta) state. At that time, Lord Srikantha becomes the agent of destruction. This is the intermediate state of dissolution[^89] which ends in avyakta. When the time of destruction is over, a new creation begins again. At that time, those who attained liberation by following other śāstras are also created.[^90] The span of life of Lord Srikantha is one day of those rudras who abide in the veils (kañcukas).[^91] The length of their night is the same. One day of Gahanesa is the life span of Rudra. The length of his night is the same. During the night of 
+This is the intermediate state of dissolution[^89] which ends in avyakta. When the time of destruction is over, a new creation begins again. At that time, those who attained liberation by following other śāstras are also created.[^90] The span of life of Lord Srikantha is one day of those rudras who abide in the veils (kañcukas).[^91] The length of their night is the same. One day of Gahanesa is the life span of Rudra. The length of his night is the same. During the night of 
 
 TANTRASĀRA 95 
 
