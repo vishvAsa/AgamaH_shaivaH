@@ -981,6 +981,7 @@ Their life span is also one hundred years long. At the time of the death of the 
 </details>
 
 
+## तत्त्वान्तरस्थायुः
 एवं जलतत्त्वात् +अव्यक्तान्तम् एतद्-एव क्रमेण रुद्राणाम् आयुः ।  
 पूर्वस्यायुरुत्तरस्य [[५५]] दिनम् इति ।
 
@@ -997,7 +998,7 @@ Their life span is also one hundred years long. At the time of the death of the 
 Thus, the life span of the rudras abiding in the water principle to the end of the primordial nature principle (prakrti) is counted in the following way: The life span of the rudras, abiding in the lower principle, is a day in the life of those who live in the higher principle.
 </details>
 
-
+### अवान्तर-प्रलयः
 ततश् च +++(+आयुस्-समाप्ताव् अपि बुद्धि-तत्त्वस्थाः प्रलयकलया?)+++ ब्रह्मा रुद्राश् च  
 +अब्-आद्य्-अधिकारिणः अव्यक्ते तिष्ठन्ति इति ।  
 
@@ -1024,8 +1025,118 @@ Then Brahmā and Rudra (although their worlds are destroyed, Brahmā and Rudra a
 At that time, Lord Srikantha becomes the agent of destruction. 
 </details>
 
+एषो ऽवान्तरप्रलयः।  
+तत्-क्षये सृष्टिः ।
 
-एषोऽवान्तरप्रलयः, तत्क्षये सृष्टिः । तत्र शास्त्रान्तरमुक्ता अपि सृज्यन्ते | यत्तु श्रीकण्ङ्गनाथस्य स्वम् आयुः तत् कञ्चुकवासिनां रुद्राणां दिनं, तावती रजनी, तेषां यदायुः तत् गहनेशदिनं, तावती एव क्षपा, तस्यां च समस्तमेव मायायां विलीयते । पुनः गहनेशः सृजति । एवं यः अव्यक्तकालः तं दशभिः परार्धेः गुणयित्वा मायादिनं कथयेत्, तावती रात्रिः । स एव प्रलयः | मायाकालः परार्धशतेन गुणित ऐश्वरतत्त्वे दिनम् । अत्र प्राणो जगत् सृजति, तावती रात्रिः, यत्र प्राणप्रशमः, प्राणे च ब्रह्मबिलाधाम्नि शान्तेऽपि या संवित्, तत्राप्यास्ति क्रमः | ऐश्वरे काले परार्धशतगुणिते या संख्या, तत् सादाशिवं दिनं, तावती निशा, स एव महाप्रलयः | सदाशिवः स्वकालपरिक्षये बिन्द्वर्धचन्द्रनिरोधिका आक्रम्य नादे लीयते, नादः शक्तितत्त्वे, तत् व्यापिन्यां, सा च अनाश्रिते । शक्तिकालेन परार्धकोटिगुणितेन अनाश्रितदिनं । अनाश्रितः सामनसे पदे, यत् तत् सामनस्यं साम्यं तत् ब्रह्म । अस्मात् सामनस्यात् अकल्यात् कालात् निमेषोन्मेषमात्रतया प्रोक्तशेषकालप्रसरप्रविलयचक्रभ्रमोदयः | एकं दश शतं सहस्रम् अयुतं लक्षं नियुतं कोटिः अर्बुदं वृन्दं खर्वं निखर्वं पद्मं शङ्कः समुद्रं 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अवान्तरप्रलयस्य उक्तत्वात् ।
+</details>
+
+<details><summary>English</summary>
+
+This is the intermediate state of dissolution[^89] which ends in avyakta.  
+When the time of destruction is over, a new creation begins again.  
+</details>
+
+
+
+तत्र शास्त्रान्तर-मुक्ता अपि सृज्यन्ते । 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+साङ्ख्य-वेदान्तादि-शास्त्र-भाषित-मुक्ताः ।
+</details>
+
+<details><summary>English</summary>
+
+At that time, those who attained liberation by following other śāstras are also created.[^90] 
+</details>
+
+
+### महाप्रलयः
+यत् तु श्री-कण्ठ-नाथस्य स्वम् आयुः,  
+तत् कञ्चुक-वासिनां रुद्राणां दिनं,  
+तावती रजनी।  
+
+<details><summary>English</summary>
+
+The span of life of Lord Srikantha is one day of those rudras who abide in the veils (kañcukas).[^91] The length of their night is the same. 
+</details>
+
+
+तेषां यद् आयुः,  
+तत् गहनेश-दिनं,  
+तावती +एव क्षपा।  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+गहनेशस्य मायागर्भाधिकारिणः ।
+</details>
+
+<details><summary>English</summary>
+
+One day of Gahanesa is the life span of Rudra.
+</details>
+
+
+तस्यां च समस्तम् एव मायायां विलीयते ।  
+पुनः गहनेशः सृजति ।
+
+एवं यः अव्यक्तकालः  
+तं दशभिः परार्धैः गुणयित्वा  
+माया-दिनं कथयेत्,  
+तावती रात्रिः ।  
+स एव प्रलयः ।
+
+मायाकालः परार्धशतेन गुणित  
+ऐश्वर-तत्त्वे दिनम् । 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्राणोदये कारण-क्रमस्य वक्ष्यमाणत्वात्  
+ईश्वरतत्त्वम् एव गर्भी-कृत-विद्यातत्त्वम् उक्तम्,  
+यः क्रिया-शक्ति-प्रधानः प्राणनारूप इति पूर्वम् उक्तः ।
+</details>
+
+
+अत्र प्राणो  
+जगत् सृजति।  
+तावती रात्रिः यत्र प्राणप्रशमः।  
+[[५६]]  
+
+प्राणे च ब्रह्मबिलधाम्नि शान्तेऽपि  
+या संवित्  
+तत्राप्यस्ति क्रमः ।
+
+ऐश्वरे काले परार्धशतगुणिते या सङ्ख्या  
+तत् सादाशिवं दिनं, तावती निशा।  
+स एव महाप्रलयः [शुद्धाध्वनोऽपि संहारात् ।] ।  
+सदाशिवः स्व-काल-परिक्षये  
+बिन्द्व्-अर्ध-चन्द्र-निरोधिका आक्रम्य  
+नादे लीयते,  
+नादः शक्तितत्त्वे तद्-व्यापिन्यां,  
+सा च अनाश्रिते । 
+
+शक्तिकालेन परार्ध-कोटि-गुणितेन अनाश्रितदिनं ।  
+अनाश्रितः सामनसे पदे यत्  
+तत् सामनस्यं+++(=??)+++ साम्यं,  
+तत् ब्रह्म । 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+विश्वसंहारे वृत्ते  
+सर्वोऽणुवर्गः समनायाम् एव सम्भूय आस्ते।   
+अनाश्रितान्तस्य विश्वस्याभेदेन अवस्थानात् साम्यम् ।
+</details>
+
+
+अस्मात्   
+सामनस्यात् अकल्यात् [कलयितुमशक्यादित्यर्थः ।] कालात्   
+निमेषोन्मेषमात्रतया प्रोक्ताशेषकालप्रसरप्रविलयचक्रभ्रमोदयः   
+[प्रोक्ताशेषकालस्य तुट्यादेः ।] ।
+
+ऐश्वरे काले परार्धशतगुणिते या संख्या, तत् सादाशिवं दिनं, तावती निशा, स एव महाप्रलयः | सदाशिवः स्वकालपरिक्षये बिन्द्वर्धचन्द्रनिरोधिका आक्रम्य नादे लीयते, नादः शक्तितत्त्वे, तत् व्यापिन्यां, सा च अनाश्रिते । शक्तिकालेन परार्धकोटिगुणितेन अनाश्रितदिनं । अनाश्रितः सामनसे पदे, यत् तत् सामनस्यं साम्यं तत् ब्रह्म । अस्मात् सामनस्यात् अकल्यात् कालात् निमेषोन्मेषमात्रतया प्रोक्तशेषकालप्रसरप्रविलयचक्रभ्रमोदयः | एकं दश शतं सहस्रम् अयुतं लक्षं नियुतं कोटिः अर्बुदं वृन्दं खर्वं निखर्वं पद्मं शङ्कः समुद्रं 
 
 TANTRASARA_93 
 
@@ -1034,11 +1145,7 @@ TANTRASARA_93
 
 
 
-This is the intermediate state of dissolution[^89] which ends in avyakta. When the time of destruction is over, a new creation begins again. At that time, those who attained liberation by following other śāstras are also created.[^90] The span of life of Lord Srikantha is one day of those rudras who abide in the veils (kañcukas).[^91] The length of their night is the same. One day of Gahanesa is the life span of Rudra. The length of his night is the same. During the night of 
-
-TANTRASĀRA 95 
-
-Gahanesa, everything that remains dissolves in māyā. After disso lution, Gahanesa creates again. When the life span of the unmani fest state (avyakta) is multiplied by ten parardhas (one parardha is 100,000 billion years), it is said to be the period of one day of māyā. The same is the case for the length of the night of māyā. The night of māyā is stated to be a dissolution (pralaya). The time span of māyā, when multiplied by one hundred parārdha, is one day of Isvara. There, the vital energy (prāṇa) creates the universe. The same is true for the length of one night, during which prāṇa takes rest. In the cavity called brahmabila, where the vital energy stops its function and although consciousness there remains in -a tranquil state, even there this sequence persists. When the life span of Isvara is multiplied by one hundred parārdhas, the number we arrive at amounts to one day of Sadāśiva. The same occurs in the length of his night. Sadāśiva's night is known as mahāpra laya.[^92] After the end of his period, Sadāśiva encloses bindu, ardhrachandra, and nirodhikā within himself and dissolves him self into nāda. Nāda dissolves into śakti, śakti into vyāpini, and vyāpinī into anāśritaśiva. One day of anāśritaśiva is equal to one day of śakti when multiplied by 10 million parārdhas. Anāśrita rests in the realm of samanā. This equilibrium of samanā is known as Brahmā. From this state of equilibrium (the most sub tle state of mind), which is beyond mutation, all these aforesaid ‘mutations of time and their dissolutions arise like the cyclic motion of the "wheel of time,' similar to the opening and closing of the eyelids. The procedure of counting is as follows: 1; 10; 10 x 10; 100 x 10; 1,000 x 10; 10,000 x 10; 100,000 x 10; 1,000,000 x 10; 10,000,000 x 10; 100,000,000 x 10; 1,000,000,000 x 10; 10,000,000,000 x 10; 100,000,000,000 x 10; 1,000,000,000,000 X 10; 10,000,000,000,000 x 10; 100,000,000,000,000 x 10; 1,000,000,000,000,000 x 10; 10,000,000,000,000,000 x 10. These are named eka, daśa, sata, sahasra, ayuta, lakṣa, niyuta, koṭi, arbuda, vrnda, kharva, nikharva, padma, sarku, samu dra, antya, madhya, parārdha. Thus, the number coming later is ten times higher than the former. The total of these numbers 
+The length of his night is the same. During the night of [[95]] Gahanesa, everything that remains dissolves in māyā. After dissolution, Gahanesa creates again. When the life span of the unmanifest state (avyakta) is multiplied by ten parardhas (one parardha is 100,000 billion years), it is said to be the period of one day of māyā. The same is the case for the length of the night of māyā. The night of māyā is stated to be a dissolution (pralaya). The time span of māyā, when multiplied by one hundred parārdha, is one day of Isvara. There, the vital energy (prāṇa) creates the universe. The same is true for the length of one night, during which prāṇa takes rest. In the cavity called brahmabila, where the vital energy stops its function and although consciousness there remains in -a tranquil state, even there this sequence persists. When the life span of Isvara is multiplied by one hundred parārdhas, the number we arrive at amounts to one day of Sadāśiva. The same occurs in the length of his night. Sadāśiva's night is known as mahāpra laya.[^92] After the end of his period, Sadāśiva encloses bindu, ardhrachandra, and nirodhikā within himself and dissolves him self into nāda. Nāda dissolves into śakti, śakti into vyāpini, and vyāpinī into anāśritaśiva. One day of anāśritaśiva is equal to one day of śakti when multiplied by 10 million parārdhas. Anāśrita rests in the realm of samanā. This equilibrium of samanā is known as Brahmā. From this state of equilibrium (the most sub tle state of mind), which is beyond mutation, all these aforesaid ‘mutations of time and their dissolutions arise like the cyclic motion of the "wheel of time,' similar to the opening and closing of the eyelids. The procedure of counting is as follows: 1; 10; 10 x 10; 100 x 10; 1,000 x 10; 10,000 x 10; 100,000 x 10; 1,000,000 x 10; 10,000,000 x 10; 100,000,000 x 10; 1,000,000,000 x 10; 10,000,000,000 x 10; 100,000,000,000 x 10; 1,000,000,000,000 X 10; 10,000,000,000,000 x 10; 100,000,000,000,000 x 10; 1,000,000,000,000,000 x 10; 10,000,000,000,000,000 x 10. These are named eka, daśa, sata, sahasra, ayuta, lakṣa, niyuta, koṭi, arbuda, vrnda, kharva, nikharva, padma, sarku, samu dra, antya, madhya, parārdha. Thus, the number coming later is ten times higher than the former. The total of these numbers 
 
 96 TANTRASARA 
 
