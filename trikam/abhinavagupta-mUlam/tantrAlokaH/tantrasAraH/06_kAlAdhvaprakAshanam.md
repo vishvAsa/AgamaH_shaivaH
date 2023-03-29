@@ -304,7 +304,7 @@ The entirety of time, that is, the lunar days, months, years, and number of year
 One minute (caṣaka) is made up of one and one-fifth digits (angula). Following this line of measurement, one hour (ghatikā) arises. Therefore, counting the inhalation and exhalation of the breath, the total becomes seventy-two digits.
 </details>
 
-## तथ्य्-उदयः
+## तिथ्य्-उदयः
 अथ तिथ्य्-उदयः ।  
 
 <details><summary>Hemendra</summary>
