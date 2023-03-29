@@ -1166,7 +1166,12 @@ In the cavity called brahmabila, where the vital energy stops its function and a
 <details><summary>English</summary>
 
 When the life span of Isvara is multiplied by one hundred parārdhas, the number we arrive at amounts to one day of Sadāśiva. The same occurs in the length of his night.  
-Sadāśiva's night is known as mahāpra laya.[^92] 
+Sadāśiva's night is known as mahāpralaya.[^92] 
+
+[^92]:
+
+    The night related to the principle of Sadāśiva is considered to be the great dissolution (mahāpralaya). During this period all the paths (adhvas) remain dissolved in the state of equilibrium. The super intending deity known as Sadāśiva is dissolved in the primal sound (nāda). This primal sound is in turn dissolved into śakti, śakti into vyāpini and vyāpinī into samanā. In samanā there is no trace of time. It is the eyerlasting state. It is from this state that time arises like the opening and closing of the eyelids. Though all the limited souls rest in this supreme state of equilibrium, they do not attain final liberation.
+
 </details>
 
 
@@ -1245,6 +1250,10 @@ The total of these numbers [[96]] is eighteen.
 <details><summary>English</summary>
 
 Thus, numerous creations and dissolutions occur in one breath,[^93] having the characteristic of the great creation. 
+
+[^93]:
+
+    The creations and dissolutions are highly extensive and varied and abide in the vital energy. The vital energy is essentially of the nature of vibrative energy (spanda). This energy, from which time and its divisions emerge, is ever-pulsating. Time is not at all absolute but relative, and it has its base in the will of the Lord. On account of the vibration of consciousness, the minute moment becomes varied and it is experienced as highly extensive.
 </details>
 
 
@@ -1286,16 +1295,20 @@ Just as the emergence of time occurs in the form of prāṇa, in the same way, i
 </details>
 
 
-यथा च हृत्-कण्ठ-तालु-ललाट-रन्ध्र-द्वादशान्तेषु  
+यथा च हृत्-कण्ठ-तालु-ललाट-+++(ब्रह्म-)+++रन्ध्र-+++(शिव-)+++द्वादशान्तेषु  
 ब्रह्म-विष्णु-रुद्र+ईश-सदाशिव+अनाश्रिताख्यं  
 कारण-षट्कम् +++(ऊर्ध्वं प्राण-गमने)+++,  
 तथैव +++(अधो)+++ अपानेऽपि   
-हृत्-कन्द+++(=मूलाधार??)++++आनन्द+++(=लिङ्ग)+++--सङ्कोच+++(=गुद??)+++-विकास-द्वादशन्तेषु।
+हृत्-कन्द+++(=मूलाधार??)++++आनन्द+++(=लिङ्ग)+++--सङ्कोच+++(=गुद??)+++-विकास-+++(शक्ति-)+++द्वादशन्तेषु।
 
 <details><summary>English</summary>
 
 As the six causal agents, that is, Brahmā, Viṣnu, Rudra, Isa, Sadāśiva, and Anāśritaśiva, who appear in the heart, throat, palate, forehead, randhra, and in the 'end of twelve' (dvādaśānta),[^94] operate in the upper region,  
 in the same way in apāna, these deities operate in the throat+++(??)+++, valve, generative organ, causing it to contract and expand, and in the ‘end of twelve' (dvādaśānta). 
+
+[^94]:
+
+    There are two 'ends of twelve' (dvādaśānta). One is above brahmārandhra and the other is in mūlādhāra. The first is known as śivadvādaśānta, the end of twelve related to śiva, and the other is known as the end of twelve related to śakti.
 </details>
 
 
@@ -1306,6 +1319,10 @@ in the same way in apāna, these deities operate in the throat+++(??)+++, valve,
 <details><summary>English</summary>
 
 They are the superintending deities of boyhood, youth, old age, death, rebirth, and liberation.[^95]
+
+[^95]:
+
+    The six causal deities (kāraṇaṣaṭka) each have six centers. They abide in those centers in the ascending and descending order. The superintending deities of the respective centers function in different stages of life and finally bestow release (mokṣa). 
 </details>
 
 

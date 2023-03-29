@@ -4,92 +4,29 @@ title = "Notes"
 +++
 
 
-## 06
-
-
-
-
-[^92]:
-
-    The night related to the principle of Sadāśiva is considered to be the 
-
-great dissolution (mahāpralaya). During this period all the paths (adhvas) remain dissolved in the state of equilibrium. The super intending deity known as Sadāśiva is dissolved in the primal sound (nāda). This primal sound is in turn dissolved into śakti, śakti into vyāpini and vyāpinī into samanā. In samanā there is no trace of time. It is the eyerlasting state. It is from this state that time arises like the opening and closing of the eyelids. Though all the limited souls rest in this supreme state of equilibrium, they do not attain 
-
-final liberation. 
-
-[^93]:
-
-    The creations and dissolutions are highly extensive and varied and 
-
-abide in the vital energy. The vital energy is essentially of the nature of vibrative energy (spanda). This energy, from which time and its divisions emerge, is ever-pulsating. Time is not at all abso lute but relative, and it has its base in the will of the Lord. On account of the vibration of consciousness, the minute moment 
-
-becomes varied and it is experienced as highly extensive. 
-
-[^94]:
-
-    There are two 'ends of twelve' (dvādaśānta). One is above brah 
-
-mārandhra and the other is in mūlādhāra. The first is known as śivadvādaśānta, the end of twelve related to śiva, and the other is 
-
-known as the end of twelve related to śakti. 
-
-[^95]:
-
-    The six causal deities (kāraṇaṣaṭka) each have six centers. They 
-
-abide in those centers in the ascending and descending order. The superintending deities of the respective centers function in differ 
-
-ent stages of life and finally bestow release (mokṣa). 
+## ०६ 
 
 [^96]:
 
-    The ten principal channels that prāṇa circulates through are idā, 
-
-pingalā, suṣumnā, gāndhari, hastiyjihvā, pūṣā, yaśā, alamhbusā, kuhū, and sankhini. Although all the channels have emerged from 
-
-the navel, they become manifest in the heart. 
+    The ten principal channels that prāṇa circulates through are idā, pingalā, suṣumnā, gāndhari, hastiyjihvā, pūṣā, yaśā, alamhbusā, kuhū, and sankhini. Although all the channels have emerged from the navel, they become manifest in the heart. 
 
 [^97]:
 
-    The superintending deities of directions are ten. They are Indra, 
-
-Vahni, Yama, and so on. They rotate in a cyclic order and as a 
-
-236 NOTES 
-
-result, limited souls act in accordance with the nature of these dei ties. Sometimes they are morbid, sometimes they are haughty, sad, 
-
-elated, happy, unhappy, etc. 
+    The superintending deities of directions are ten. They are Indra, Vahni, Yama, and so on. They rotate in a cyclic order and as a result, limited souls act in accordance with the nature of these dei ties. Sometimes they are morbid, sometimes they are haughty, sad, elated, happy, unhappy, etc. 
 
 [^98]:
 
-    The names of three principal channels are idā, pingalā, and sus 
-
-umnā. They are supposed to be located inside the spinal cord. Idā is placed at the left, pingalā to the right, and suṣumna in the mid dle of the spinal cord. Ida represents the moon, pingalā the sun, and suṣumnā the fire. While the vital air samāna moves along these three principal channels up and down, they assume the 
-
-nature of the sun, the moon, and fire. 
+    The names of three principal channels are idā, pingalā, and suṣumnā. They are supposed to be located inside the spinal cord. Idā is placed at the left, pingalā to the right, and suṣumna in the mid dle of the spinal cord. Ida represents the moon, pingalā the sun, and suṣumnā the fire. While the vital air samāna moves along these three principal channels up and down, they assume the nature of the sun, the moon, and fire. 
 
 [^99]:
 
-    All the Sanskrit syllables are divided into eight groups (varga). All 
-
-the vowels come under "a" group (varga). The number of vowels is sixteen. Then come the group of "ka," "ca,"" "ta," "ta," "pa,” 
-
-"sa," and the group of semi-vowels. 
+    All the Sanskrit syllables are divided into eight groups (varga). All the vowels come under "a" group (varga). The number of vowels is sixteen. Then come the group of "ka," "ca,"" "ta," "ta," "pa,” "sa," and the group of semi-vowels. 
 
 [^100]:
 
-    The number of half mātrās regarding "ka" and so on is thirty-three. 
+    The number of half mātrās regarding "ka" and so on is thirty-three. Half mātrās of long vowels are thirty-two. Phonemes known as pluta have six half mātrās. Therefore, the total of half mātrās is 
 
-Half mātrās of long vowels are thirty-two. Phonemes known as pluta have six half mātrās. Therefore, the total of half mātrās is 
-
-[^81]:
-
-    
-
-Chapter Seven 
-
-
+## ०७ 
 
 [^101]:
 
@@ -114,8 +51,6 @@ from the knowing subject, appears as if different from it.
 from the all-consuming fire (kālāgni) said to abide at the bottom of the earth, to the highest principle, i.e., anāśritaśiva, in ascending order and unifying them into the singularity of I-Consciousness. 
 
 NOTES 237 
-
-
 
 [^104]:
 
@@ -207,7 +142,7 @@ called nirrtti, pratisthā, vidyā, śāntā, and sāntātītā. The number of w
 
 NOTES 239 
 
-Chapter Eight 
+## ०८ 
 
 [^115]:
 
@@ -345,8 +280,6 @@ of agitation which is painful, while tamas is the state of agitation which lacks
 
 NOTES 243 
 
-
-
 [^133]:
 
     Above intellect (buddhi) and below the primordial matter (prakrti), 
@@ -362,8 +295,6 @@ system, agitation in praksti is caused by the.Lord Srikanthaṇātha.
 purusa is sentient but non-active either in bondage or in liberation. Therefore, some external agent of agitation is required. According to Saiva philosophy, agitation is created by the intervention of 
 
 īśvara. 
-
-
 
 [^135]:
 
@@ -387,7 +318,7 @@ the sense of hearing, etc.
 
 which sense organs are born of matter. 
 
-Chapter Nine 
+## ०९ 
 
 [^138]:
 
@@ -404,8 +335,6 @@ spheres along thirty-six principles.
 subjects indicates the existence of a great number of knowing sub jects belonging to each of these groups. 
 
 244 NOTES 
-
-
 
 [^140]:
 
@@ -438,8 +367,6 @@ energy nor the possessor of energy.
 non-transcendent (apara), transcendent-non-transcendent (parā para), and transcendent (para). In other words, reality is primarily conceived as possessing an objective side (nara), energy (śakti), and a possessor of the energy (śaktimān). However, Abhi navagupta points out that the thing in itself' (svarūpa) is the sphere of objectivity, the śākta is the sphere of perception, and the possessor of power is the perceiver or knowing subject. Therefore, all seven knowing subjects are śiva, who possesses different ener gies, that is, different powers in the different spheres in which they operate. The thing in itself is common to all of them, which pro vides a degree of objectivity. 
 
 NOTES 245 
-
-
 
 [^144]:
 
@@ -482,8 +409,6 @@ object, and others as an instrument.
 attempts to refute 'doctrine of perceptibility' advocated by the Mīmāṁsā school. According to the Mīmāṁsā theory, in order to be perceived, every object must possess a quality of perceptibility; any object devoid of this quality cannot be perceived. Abhi navagupta disagrees and attempts to prove that perceptibility is not the quality of an object, but a power possessed by the perceiver. All entities already exist within consciousness, and when a given entity appears within the organs of perception of a perceiver, then it becomes an object of perception. Everything is illuminated by consciousness, including defilement (mala), as well as non-exis tence, because for a thing to be non-existent, it must be included in consciousness. Therefore, objective existence depends on con sciousness, and is not perceptible independently from it. For Abhi navagupta, it is important to establish this position, because he needs to argue that the knowing subject must develop a higher level of subjectivity to be able to perceive the larger and subtler spheres of reality. 
 
 246 NOTES 
-
-
 
 [^149]:
 
@@ -546,8 +471,6 @@ of death, attain the state of pralayakevala.
 agitated (prakṣobha), they become intent on functioning in their respective fields. This agitation is known as a 'pulsation' or a 'change.' This brings about the appearance of the seven śaktis; there fore, the number of possessors of the śaktis (śaktimān) is also seven. 
 
 NOTES 247 
-
-
 
 [^157]:
 
@@ -621,7 +544,7 @@ These are the object of knowledge (rūpam), the instrumentality indicated in the
 
 Therefore, the subject knows the object by means of the instru ment, i.e., sight. However, the supreme subject (parā) permeates and remains above these three. 
 
-Chapter Ten 
+## १० 
 
 [^166]:
 
@@ -671,8 +594,6 @@ LV
 
 NOTES 249 
 
-
-
 [^172]:
 
     When the whole scheme of thirty-six tattvas is grouped into nine 
@@ -687,7 +608,7 @@ vidyā, īśvara, sadāśiva, and śiva.
 
 different forms of knowable objects. They are: kalā, tattva, and bhuvana. In the same way, when they rest in the subject, they are also threefold, i.e., varṇa, mantra, and pada. 
 
-Chapter Eleven 
+## ११ 
 
 [^174]:
 
@@ -718,8 +639,6 @@ balanced and their results neutralized.
     According to the teacher Khetapāla, that śakti whose nature is to 
 
 restrain (nirodhikā) arrests the mala. When impurities (mala) become perfectly ripened, the above śakti becomes inactive, and the proper manifestation of knowledge and action occurs. This cul minates in the decent of grace (śaktipāta) on a seeker.250 NOTES 
-
-
 
 [^178]:
 
@@ -771,7 +690,7 @@ equal to Bhairava. This is because he possesses the fullness of self realization
 
 different effects: as jyeșthā-śakti, it leads one to the ultimate goal; on the other hand, the ghorā and ghoratarā-śaktis, that is, the fearsome and the terrible, lead one toward worldly existence. 
 
-Chapter Twelve 
+## १२ 
 
 [^185]:
 
@@ -797,7 +716,7 @@ becomes pure and the cause of purification for others.”
 
 Īsana, Tatpuruṣa, etc. One is to first identify with these five faces of śiva, upon which one attains full absorption into śiva. 
 
-Chapter Thirteen 
+## १३ 
 
 [^188]:
 
@@ -867,8 +786,6 @@ in space.
 
 254 NOTES 
 
-
-
 [^196]:
 
     Here begins description of inner worship. In the course of this 
@@ -919,7 +836,7 @@ detailed description, see TĀ 15: 521-
 
     
 
-Chapter Fourteen 
+## १४ 
 
 [^202]:
 
@@ -963,7 +880,7 @@ and for the purpose of propitiating God.
 
     The nirbīja type of initiation is given to those judged incapable of following the set of rules of post-initiatory conduct (samayapāśa), as for example children, those who are dull, old people, women, those attached to their wealth, the sick, and so on. They attain liberation on account of their devotion to the teacher, deities, and scriptures. On the other hand, the sabīja type of initiation is given to those who have the gift of reason, are capable of tolerating toils and difficulties, and are therefore capable of following the set of rules of pre-initiatory conduct... 
 
-Chapter Fifteen 
+## १५ 
 
 [^208]:
 
@@ -976,8 +893,6 @@ Ordinarily, the initiation is not given to all, and one desirous of initiation n
     Marma is the place where the feeling of the connectedness with the body remains present. 
 
 256 NOTES 
-
-
 
 [^210]:
 
@@ -1033,8 +948,7 @@ a position to grant liberation also to vegetable life.
 
 weight of a disciple, Abhinavagupta connects with the five stages of repose, that is, pragānanda, udbhava, kampa, nidrā, and ghūrṇi described in Chapter Five of Tantrasāra. In TĀ 20: 14-15ab, he clarifies: “The leap (udbhava) is due to relief, caused by an eclips ing of the corporeal influence (dehagraha). The body is essentially constituted by the elements of earth. When the teacher, thanks to: the mantra of lightness, which will be explained later, meditates on the disciple rising into the air, he loses his earthly qualities." 
 
-Chapter Sixteen 
-
+## १६ 
 
 [^217]:
 
@@ -1056,7 +970,7 @@ great net' (mahājjāla prayoga) in some detail in TĀ 21: 25-
 
 258 NOTES 
 
-Chapter Seventeen 
+## १७ 
 
 [^219]:
 
@@ -1076,7 +990,7 @@ details, see Chapter 22 of the Tantrāloka.
 
     They are seven in number and their names are: prāṇava or mantra aum, mātskā, māyā, vyo mavyāpi, șadakṣara, bahurūpa, and the eye mantra (netra). According to TĀ 22: 15-17a, this is what a teacher says to one who is about to embrace Saivism and receive initiation: "This one was once a follower of other disciplines but is now inspired by your blessing; therefore bestow your grace (śaktipāta) upon him, so that this abandonment of other doctrines does not become a source of doubt for him, which will oblige him to practice rights of atone ment. And having attained identity with you, may he quickly achieve perfection and liberation." 
 
-Chapter Eighteen 
+## १८ 
 
 [^221]:
 
@@ -1104,7 +1018,7 @@ should spare no effort to attain identity with the mantras."
 
 yas, Vaisyas, eunuchs, women, Sudras, and any other kinds of per son desirous of initiation should be initiated without being asked their caste. However, the teacher should take this into consider ation at the time when knowledge is imparted to them. Further more, the teacher, who is the basis of knowledge, should set seven sessions. These sessions are: initiation, explanation, compassion, friendliness, contemplation of the śāstras, unification with śiva, and giving away of food, etc. See TĀ 23:20b/23a. 
 
-Chapter Nineteen 
+## १९ 
 
 [^224]:
 
@@ -1124,8 +1038,6 @@ or hell.” TĀ 24:20-
 
 that will be described in the following lines is performed to estab lish firm conviction on the side of the ignorant ones. The entire performance by the teacher, according to Abhinavagupta, is not helpful in any way in attaining liberation. See TĀ 24:15b-16a.260 NOTES 
 
-
-
 [^226]:
 
     Here begins description of śrāddhadiksā, or post-mortem initiation. 
@@ -1140,7 +1052,7 @@ in the first year. After that, it should be performed once every year.
 
 must take in hand, first of all, the offering (naivedyam), and after having meditated that in this offering abides śakti of the nature of food in the form of potency instrumental in nourishing, he must conceive that the dead person for whose sake this rite is performed is penetrated by it. The bound part in the form of enjoyable of this dead disciple must then be offered by a teacher to the enjoying sub- . ject in identity with him. In this way, the disciple becomes śiva." 
 
-Chapter Twenty 
+## २० 
 
 [^228]:
 
@@ -1226,7 +1138,7 @@ anger, or patience, etc." (TA 28: 391a-
 
 other sacrifices, but in all of these instances this worship is an accessory part of the sacrifice. On the other hand, this ritual is primarily devoted to satisfying or pleasing the teacher. 
 
-Chapter Twenty-One 
+## २१ 
 
 [^237]:
 
