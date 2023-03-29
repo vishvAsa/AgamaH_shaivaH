@@ -1000,7 +1000,7 @@ Their life span is also one hundred years long. At the time of the death of the 
 Thus, the life span of the rudras abiding in the water principle to the end of the primordial nature principle (prakrti) is counted in the following way: The life span of the rudras, abiding in the lower principle, is a day in the life of those who live in the higher principle.
 </details>
 
-### अवान्तर-प्रलयः श्रीकण्ठस्तरे
+### श्रीकण्ठस्तरः - अवान्तर-प्रलयः
 ततश् च +++(+आयुस्-समाप्ताव् अपि बुद्धि-तत्त्वस्थाः प्रलयकलया?)+++ ब्रह्मा रुद्राश् च  
 +अब्-आद्य्-अधिकारिणः अव्यक्ते तिष्ठन्ति इति ।  
 
@@ -1140,7 +1140,7 @@ There, the vital energy (prāṇa) creates the universe. The same is true for th
 In the cavity called brahmabila, where the vital energy stops its function and although consciousness there remains in -a tranquil state, even there this sequence persists.
 </details>
 
-### सदाशिव-स्तरः
+### सदाशिव-स्तरः - महाप्रलयः
 ऐश्वरे काले परार्धशतगुणिते या सङ्ख्या  
 तत् सादाशिवं दिनं, तावती निशा।  
 स+++(→निशा)+++ एव **महाप्रलयः** ।  
@@ -1199,7 +1199,101 @@ Anāśrita rests in the realm of samanā. This equilibrium of samanā is known a
 **प्रोक्ताशेषकालस्य** तुट्यादेः ।
 </details>
 
+<details><summary>English</summary>
 
+From this state of equilibrium (the most sub tle state of mind), which is beyond mutation, all these aforesaid ‘mutations of time and their dissolutions arise like the cyclic motion of the "wheel of time,' similar to the opening and closing of the eyelids. 
+</details>
+
+
+[[५७]]
+
+## प्राण-महत्त्वम्
+एकं दश शतं सहस्रम् अयुतं लक्षं नियुतं कोटिः अर्बुदं वृन्दं खर्वं निखर्वं पद्मं शङ्कुः समुद्रं अन्त्यं मध्यम् परार्धम्  
+इति क्रमेण दशगुणितानि अष्टादश इति गणितविधिः ।  
+
+<details><summary>English</summary>
+
+The procedure of counting is as follows: 1; 10; 10 x 10; 100 x 10; 1,000 x 10; 10,000 x 10; 100,000 x 10; 1,000,000 x 10; 10,000,000 x 10; 100,000,000 x 10; 1,000,000,000 x 10; 10,000,000,000 x 10; 100,000,000,000 x 10; 1,000,000,000,000 X 10; 10,000,000,000,000 x 10; 100,000,000,000,000 x 10; 1,000,000,000,000,000 x 10; 10,000,000,000,000,000 x 10. These are named eka, daśa, sata, sahasra, ayuta, lakṣa, niyuta, koṭi, arbuda, vrnda, kharva, nikharva, padma, sarku, samu dra, antya, madhya, parārdha.  
+Thus, the number coming later is ten times higher than the former.  
+The total of these numbers [[96]] is eighteen.
+</details>
+
+
+एवम् असङ्ख्याः सृष्टि-प्रलयाः  
+एकस्मिन् महासृष्टिरूपे प्राणे।  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> प्राक् संवित् प्राणे परिणता 
+
+इति प्राणो महासृष्टिरूपः ।
+</details>
+
+<details><summary>English</summary>
+
+Thus, numerous creations and dissolutions occur in one breath,[^93] having the characteristic of the great creation. 
+</details>
+
+
+## कालोदयः
+सो+++(→प्राणः)+++ ऽपि संविदि,  
+सा उपाधौ,  
+स चिन्मात्रे।   
+
+<details><summary>English</summary>
+
+That breath abides in consciousness, the consciousness in an accidental attribute (upādhi) (with the characteristics of forms, features, etc.), which accidental attributes go to rest in the singularity of consciousness.
+</details>
+
+
+चिन्मात्रस्यैव +अयं स्पन्दो यद् अयं **कालोदयो** नाम ।  
+
+<details><summary>English</summary>
+
+The vibration (spanda) is nothing but the mani festation of consciousness, which appears in the form of the emergence of time.
+</details>
+
+
+तत एव स्वप्न-सङ्कल्पादौ +++(कालमाने)+++ वैचित्र्यम्  
+अस्य न विरोधावहम् । +++(5)+++  
++++([क्: "वैचित्र्यस्य न" इति पाठान्तरं च ।])+++
+
+<details><summary>English</summary>
+
+Therefore, this diversity that occurs in dreams and imagination does not create any contradiction in regard to time.
+</details>
+
+
+एवं यथा प्राणे कालोदयः,  
+तथा अपानेऽपि हृदयात् मूल-पीठ-पर्यन्तम् ।  
+
+<details><summary>English</summary>
+
+Just as the emergence of time occurs in the form of prāṇa, in the same way, it occurs even in apāna, which proceeds from the heart to the end of mūlādhāra. 
+</details>
+
+
+यथा च हृत्-कण्ठ-तालु-ललाट-रन्ध्र-द्वादशान्तेषु  
+ब्रह्म-विष्णु-रुद्र+ईश-सदाशिव+अनाश्रिताख्यं  
+कारण-षट्कम्,  
+तथैव अपानेऽपि   
+हृत्-कन्द+आनन्द+++(→लिङ्ग)+++--सङ्कोच-विकास-द्वादशन्तेषु।
+
+<details><summary>English</summary>
+
+As the six causal agents, that is, Brahmā, Viṣnu, Rudra, Isa, Sadāśiva, and Anāśritaśiva, who appear in the heart, throat, palate, forehead, randhra, and in the 'end of twelve' (dvādaśānta),[^94] operate in the upper region,  
+in the same way in apāna, these deities operate in the throat+++(??)+++, valve, generative organ, causing it to contract and expand, and in the ‘end of twelve' (dvādaśānta). 
+</details>
+
+
+
+बाल्य-यौवन-वार्धक-निधन--पुनर्-भव--मुक्त्य्-अधिपतय  
+एते +++(ब्रह्म-विष्णु-रुद्र+ईश-सदाशिव+अनाश्रिताः)+++।
+
+<details><summary>English</summary>
+
+They are the superintending deities of boy hood, youth, old age, death, rebirth, and liberation.[^95]
+</details>
 
 
 एकं दश शतं सहस्रम् अयुतं लक्षं नियुतं कोटिः अर्बुदं वृन्दं खर्वं निखर्वं पद्मं शङ्कः समुद्रं 
@@ -1211,11 +1305,7 @@ TANTRASARA_93
 
 
 
-From this state of equilibrium (the most sub tle state of mind), which is beyond mutation, all these aforesaid ‘mutations of time and their dissolutions arise like the cyclic motion of the "wheel of time,' similar to the opening and closing of the eyelids. The procedure of counting is as follows: 1; 10; 10 x 10; 100 x 10; 1,000 x 10; 10,000 x 10; 100,000 x 10; 1,000,000 x 10; 10,000,000 x 10; 100,000,000 x 10; 1,000,000,000 x 10; 10,000,000,000 x 10; 100,000,000,000 x 10; 1,000,000,000,000 X 10; 10,000,000,000,000 x 10; 100,000,000,000,000 x 10; 1,000,000,000,000,000 x 10; 10,000,000,000,000,000 x 10. These are named eka, daśa, sata, sahasra, ayuta, lakṣa, niyuta, koṭi, arbuda, vrnda, kharva, nikharva, padma, sarku, samu dra, antya, madhya, parārdha. Thus, the number coming later is ten times higher than the former. The total of these numbers 
-
-96 TANTRASARA 
-
-is eighteen. Thus, numerous creations and dissolutions occur in one breath,[^93] having the characteristic of the great creation. That breath abides in consciousness, the consciousness in an acciden tal attribute (upādhi) (with the characteristics of forms, features, etc.), which accidental attributes go to rest in the singularity of consciousness. The vibration (spanda) is nothing but the mani festation of consciousness, which appears in the form of the emer gence of time. Therefore, this diversity that occurs in dreams and imagination does not create any contradiction in regard to time. Just as the emergence of time occurs in the form of prāṇa, in the same way, it occurs even in apāna, which proceeds from the heart to the end of mūlādhāra. As the six causal agents, that is, Brahmā, Viṣnu, Rudra, Isa, Sadāśiva, and Anāśritaśiva, who appear in the heart, throat, palate, forehead, randhra, and in the 'end of twelve' (dvādaśānta),[^94] operate in the upper region, in the same way in apāna, these deities operate in the throat, valve, genera tive organ, causing it to contract and expand, and in the ‘end of twelve' (dvādaśānta). They are the superintending deities of boy hood, youth, old age, death, rebirth, and liberation.[^95] 
+ 
 
 अथ समाने कालोदयः | समानो हार्दीषु दशसु नाडीषु संचरन् समस्ते देहे साम्येन रसादीन् वाहयति । तत्र दिगष्टके संचरन् तद्दिक्पतिचेष्टाम् इव प्रमातुः अनुकारयति । ऊर्ध्वाधस्तु संचरन् तिसृषु नाडीषु गतागतं करोति । तत्र विषुवद्दिने बाह्ये प्रभातेकाले सपादां घटिकां मध्यमार्गे वहति । ततो नवशतानि प्राणविक्षेपाणाम्, इति गणनया बहिः सार्धघटिकाद्वयं वामे दक्षिणे वामे दक्षिणे वामे इति पञ्च संक्रान्तयः । ततः संक्रान्तिपञ्चके वृत्ते पादोनासु चतुर्दशसु घटिकासु अतिक्रान्तासु दक्षिणं शारदं विषुवन्मध्याहे नव प्राणशतानि । ततोऽपि दक्षिणे वामे दक्षिणे वामे दक्षिणे इति संक्रान्तिपञ्चकं, प्रत्येकं नवशतानि इत्येवं रात्रावपि, इति । एवं विषुवद्दिवसे तद्रात्रौ च द्वादश द्वादश संक्रान्तयः | ततो दिनवृद्धिक्षयेषु संक्रान्तिवृद्धिक्षयः । एवम् एकस्मिन् समानमरुति वर्षद्वयं श्वासप्रश्वासयोगाभावात् । अत्रापि द्वादशाब्दोदयादि पूर्ववत् । उदाने तु द्वादशान्तावधिश्चारः स्पन्दमात्रात्मनः कालस्य । अत्रापि पूर्ववत् विधिः | व्याने तु व्यापकत्वात् अक्रमेऽपि सूक्ष्मोच्छलत्तायोगेन कालोदयः । 
 
