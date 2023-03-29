@@ -7,35 +7,7 @@ title = "Notes"
 ## 06
 
 
-[^89]:
 
-    The night in avyakta is said to be a kind of dissolution. However, this is a subsidiary dissolution (pralaya) and not a principal one (mahāpralaya). 
-
-[^90]:
-
-    According to the teachings of agamas, those who have attained lib 
-
-eration following the doctrine of Sāmkhya and other systems are certain to be created again at the start of new creation. This is because their liberation is of limited nature and does not elevate 
-
-them above maya. For details see Chapter Eight. 
-
-[^91]:
-
-    The sheaths (kañcukas) are five or six. They are niyati, kalā, rāga, 
-
-vidyā, kalā, and māyā. Māyā is the all-pervading principle. The day of kalā is the duration of 100 years of those who live in the principle niyati. In the same way, 100 years of kalā is the span of a day of those who live in the principle rāga. One hundred years of 
-
-NOTES 235 
-
-1 
-
-. 
-
-. 
-
-principle called rāga are only one day of the principle of vidyā. In the same way the day of the principle kalā comprises 100 years of the principle vidyā. Similarly, one day of māyā is made of 100 
-
-years of the principle kalā. 
 
 [^92]:
 
