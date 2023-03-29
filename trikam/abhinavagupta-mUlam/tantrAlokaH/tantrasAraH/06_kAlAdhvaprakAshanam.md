@@ -1326,46 +1326,224 @@ They are the superintending deities of boyhood, youth, old age, death, rebirth, 
 </details>
 
 
+## समाने कालोदयः
+अथ समाने कालोदयः ।  
 
-अथ समाने कालोदयः । समानो हार्दीषु दशसु [इडापिङ्गलासुषुम्ना   
-गान्धारि हस्तिजिह्वा पुपा यशा अलम्बुसाकुहूः शङ्खिनी इत्येवं रूपासु ।] दशसु नाडीषु सञ्चरन् समस्ते देहे साम्येन रसादीन् वाहयति । तत्र   
-दिगष्टके सञ्चरन्
+<details><summary>English</summary>
 
-[[५८]]
+Now the rising of time in samāna: 
+</details>
 
-तद्दिक्पतिचेष्टाम् इव प्रमातुः अनुकारयति । ऊर्ध्वाधस्तु सञ्चरन् तिसृषु   
-[इडापिङ्गलासुषम्नासु ।] नाडीषु गतागतं करोति । तत्र विषुवद्दिने   
-[मेषार्काख्ये ।] बाह्ये प्रभातकाले सपादां   
-[सार्धशतचतुष्टयप्राणचारात्मिकाम् । षष्टिचषकपरिमाणा   
-घटिकाचषकषष्टौ प्रतिचषकं षट्प्राणचारकलनया   
-षष्ट्यधिकशतत्रयं प्राणचाराः ।] घटिकां मध्यमार्गे वहति ।   
-ततो नवशतानि प्राणविक्षेपाणाम् इति गणनया बहिः सार्धघटिकाद्वयं   
-वामे दक्षिणे वामे दक्षिणे वामे इति पञ्च [वृषादि कन्यान्ताः ।]   
-सङ्क्रान्तयः । ततः सङ्क्रान्तिपञ्चके वृत्ते पादोनासु चतुर्दशसु   
-घटिकासु अतिक्रान्तासु दक्षिणं शारदं विषुवन्मध्याह्ने नव   
-प्राणशतानि । ततोऽपि दक्षिणे वामे दक्षिणे वामे दक्षिणे इति   
-सङ्क्रान्तिपञ्चकं [वृश्चिकादिकम् ।] प्रत्येकं नवशतानि   
-इत्येवं रात्रावपि [प्रत्येकं सार्धघटिकाद्वयम् । तत्र   
-सायंसन्ध्यायां मेषसङ्क्रान्तिसञ्ज्ञायां मध्यनाड्यां बाह्यां   
-सपादां घटिकां समानो वहति द्वितीया सपादा घटिका रात्रिमध्ये   
-प्रविष्टा ।] इति । एवं विषुवद्दिवसे तद्रात्रौ च द्वादश द्वादश   
-सङ्क्रान्तयः । ततो दिनवृद्धिक्षयेषु सङ्क्रान्तिवृद्धिक्षयः ।
+### सञ्चारः
+**समानो**  
+हार्दीषु दशसु दशसु नाडीषु **सञ्चरन्**  
+समस्ते देहे  
+साम्येन **रसादीन् वाहयति** । 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**नाडीषु** = इडा पिङ्गला सुषुम्ना गान्धारि हस्ति-जिह्वा पुपा यशा अलम्बुसा कुहूः शङ्खिनी इत्येवं रूपासु ।
+</details>
+
+<details><summary>English</summary>
+
+
+As breath in the form of samāna moves along the ten channels (nāļi) born in the heart, it causes fluids, etc., to flow throughout the entire body in a balanced way. 
+</details>
+
+
+तत्र दिग्-अष्टके सञ्चरन् [[५८]]  
+तद्-दिक्-पति-चेष्टाम् इव  
+प्रमातुः अनुकारयति । 
+
+<details><summary>English</summary>
+
+The samāna, while wandering along the eight different directions, causes the knowing subject to imitate the activities of the superintending deities of the quarters. [^97] 
+</details>
+
+
+ऊर्ध्वाधस् तु सञ्चरन् तिसृषु +++(इडा-पिङ्गला-सुषम्नासु)+++ नाडीषु **गतागतं करोति** । 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इडा-पिङ्गला-सुषम्नासु ।
+</details>
+
+<details><summary>English</summary>
+
+While moving upward and downward, it (samāna) goes on moving along the three channels. 
+</details>
+
+### सङ्क्रान्तयः
+तत्र **विषुवद्-दिने** बाह्ये प्रभातकाले  
+सपादां घटिकां  
+**मध्यमार्गे वहति** ।   
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+विषुवद्-दिने = मेषार्काख्ये ।
+
+**सपादां** = सार्ध-शत-चतुष्टय-प्राण-चारात्मिकाम् ।  
+षष्टि-चषक-परिमाणा  
+घटिका-चषक-षष्टौ प्रति-चषकं  
+षट्-प्राण-चार-कलनया   
+षष्ट्य्-अधिक-शत-त्रयं प्राणचाराः ।
+</details>
+
+<details><summary>English</summary>
+
+So it is that on the day of equinox (visuvat) it moves externally in the morning along the middle path for one and one-quarter ghatikās. 
+</details>
+
+
+ततो नव-शतानि प्राण-विक्षेपाणाम्  
+इति गणनया  
+बहिः सार्ध-घटिका-द्वयं   
+वामे, दक्षिणे, वामे, दक्षिणे, वामे  
+इति **पञ्च सङ्क्रान्तयः** +++(वृषादि कन्यान्ताः)+++। 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+पञ्च सङ्क्रान्तयः = वृषादि कन्यान्ताः ।
+</details>
+
+<details><summary>English</summary>
+
+Then, the number of movements of the breath being nine hundred, it moves externally for a period: of two and one-half ghatikās from left to right, again from left to right, and then from the left.
+</details>
+
+
+ततः सङ्क्रान्ति-पञ्चके वृत्ते  
+पादोनासु चतुर्-दशसु घटिकासु +अतिक्रान्तासु  
+दक्षिणं **शारदं विषुवत्**,  
+मध्याह्ने नव प्राणशतानि । 
+
+<details><summary>English</summary>
+
+Thus, five occurrences of the movement of the sun from one side of zodiac (samkrānti) to the other takes place. With the passage of the sun through five signs of the zodiac, and after a duration of thirteen and three-quarters ghaţikās, (its) being over the autumnal equinox takes place, and at mid-day, nine hundred movements of the breath occur. 
+</details>
+
+
+ततोऽपि  
+दक्षिणे वामे दक्षिणे वामे दक्षिणे  
+इति **सङ्क्रान्तिपञ्चकं** +++(वृश्चिकादिकम्)+++  
+प्रत्येकं नवशतानि।   
+इत्य् एवं रात्राव् अपि +इति । 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सङ्क्रान्तिपञ्चकं = वृश्चिकादिकम् ।
+
+प्रत्येकं सार्धघटिकाद्वयम् ।  
+तत्र सायं-सन्ध्यायां मेष-सङ्क्रान्ति-सञ्ज्ञायां  
+मध्यनाड्यां बाह्यां सपादां घटिकां समानो वहति,  
+द्वितीया सपादा घटिका रात्रिमध्ये प्रविष्टा ।
+</details>
+
+<details><summary>English</summary>
+
+Then, from there the breath moves from the right to the left, then from the right to the left, and then right.  
+In this way, the sun passes through another five signs of zodiac.  
+Thus, the number of breaths is nine hundred for each passage of the sun (samkrānti).  
+This also occurs during the night. 
+</details>
+
+
+एवं विषुवद्-दिवसे तद्-रात्रौ च  
+द्वादश द्वादश **सङ्क्रान्तयः** ।  
+ततो दिन-वृद्धि-क्षयेषु सङ्क्रान्ति-वृद्धि-क्षयः ।
+
+<details><summary>English</summary>
+
+Therefore, during the day and night of visuvat (equinox), there are twelve saṇkrāntis in each. With the increase and decrease of the duration of the day, the number of samkrāntis will increase or decrease. 
+</details>
+
 
 [[५९]]
 
-एवम् एकस्मिन् [न तु प्राणापानवत् द्वयरूपे ।] समानमरुति   
-वर्षद्वयं श्वासप्रश्वासयोगाभावात् । अत्रापि [एकचार एव ।]   
-द्वादशाब्दोदयादि पूर्ववत् । उदाने तु द्वादशान्तावधिश्चारः   
-[हृदयान्मूर्धन्यद्वादशान्तं तावत् ।] स्पन्दमात्रात्मनः   
-कालस्य । अत्रापि +++([क्: अत्रापि इत्यादि वाक्यं नास्ति ।])+++ पूर्ववत् विधिः ।   
-व्याने तु व्यापकत्वात् अक्रमेऽपि सूक्ष्मोच्छलत्तायोगेन कालोदयः ।
+एवम् एकस्मिन् समान-मरुति वर्ष-द्वयं - श्वास-प्रश्वास+++(=उच्छ्वास)+++-योगाभावात् । 
 
-अथ वर्णोदयः । तत्र अर्धप्रहरे [आन्तरे प्राणीये अर्धप्रहरे   
-प्रतिवर्गं सार्धचतुरङ्गुलोदयः । बाह्ये तु   
-सार्धशतत्रयोदशप्राणचारात्मा वर्गोदयः ।] अर्धप्रहरे वर्गोदयो   
-विषुवति समः वर्णस्य वर्णस्य द्वे शते षोडशाधिके प्राणानाम् बहिः   
-षट्त्रिंशत् चषकाणि इति उदयः अयम् अयत्नजो [स्वारसिकः ।]   
-वर्णोदयः । यत्नजस्तु मन्त्रोदयः अरघट्टघटीयन्त्रवाहनवत्   
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**एकस्मिन्** - न तु प्राणापानवत् द्वयरूपे ।
+</details>
+
+<details><summary>English</summary>
+
+Thus, in one breath of samāna the passage of two years occurs because of the absence of the meeting of the inhaled and exhaled breath.
+</details>
+
+
+अत्रापि द्वादशाब्दोदयादि पूर्ववत् । 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्रापि = एकचार एव ।
+</details>
+
+<details><summary>English</summary>
+
+In this manner, the passage of twelve years occurs as described before
+</details>
+
+
+## उदानः
+उदाने तु द्वादशान्तावधिश् चारः   
+स्पन्द-मात्रात्मनः कालस्य ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+द्वादशान्तावधिः = हृदयान् मूर्धन्य-द्वादशान्तं तावत् ।
+</details>
+
+<details><summary>English</summary>
+
+while in the breath known as udāna, the movement of breaths occurs up to the 'end of twelve' (dvādaśānta), where time is characterized as a vibration. 
+</details>
+
+
+
+अत्रापि पूर्ववत् विधिः ।  
++++([क्: अत्रापि इत्यादि वाक्यं नास्ति ।])+++
+
+<details><summary>English</summary>
+
+Here again, the same method of calculation should be followed. 
+</details>
+
+
+## व्यानः
+व्याने तु व्यापकत्वात्  
+अक्रमेऽपि सूक्ष्मोच्छलत्ता-योगेन कालोदयः ।
+
+<details><summary>English</summary>
+
+On the other hand, in the type of breath (called) vyāna,  
+which is all-pervasive and free from sequence,  
+the emergence of time is associated with a subtle surge. 
+</details>
+
+
+## वर्णोदयः
+अथ वर्णोदयः । 
+
+तत्र अर्धप्रहरे अर्धप्रहरे वर्गोदयो,   
+विषुवति समः।  
+वर्णस्य वर्णस्य द्वे शते षोडशाधिके प्राणानाम्,  
+बहिः षट्त्रिंशत् चषकाणि  
++इति उदयः।  
+अयम् अयत्नजो वर्णोदयः । 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अर्धप्रहरे = आन्तरे प्राणीये अर्धप्रहरे प्रतिवर्गं सार्ध-चतुर्-अङ्गुलोदयः ।  
+बाह्ये तु सार्ध-शत-त्रयोदश-प्राणचारात्मा वर्गोदयः ।
+
+अयत्नजः = स्वारसिकः ।
+</details>
+
+
+यत्नजस्तु मन्त्रोदयः अरघट्टघटीयन्त्रवाहनवत्   
 एकानुसन्धिबलात् चित्रं मन्त्रोदयं दिवानिशम् अनुसन्दधत्   
 मन्त्रदेवतया सह तादात्म्यम् एति । तत्र सदोदिते प्राणचारसङ्ख्ययैव   
 [षट्शताधिकैकविंशतिसहस्ररूपया ।]
@@ -1442,19 +1620,7 @@ They are the superintending deities of boyhood, youth, old age, death, rebirth, 
 
 TANTRASĀRA 97 
 
-Now the rising of time in samāna: 
 
-As breath in the form of samāna moves along the ten channels (nāļi) born in the heart," it causes fluids, etc., to flow throughout the entire body in a balanced way. The samāna, while wandering along the eight different directions, causes the knowing subject to imitate the activities of the superintending deities of the quarters. [^97] While moving upward and downward, it (samāna) goes on mov ing along the three channels.” So it is that on the day of equinox (visuvat) it moves externally in the morning along the middle path for one and one-quarter ghatikās. Then, the number of movements of the breath being nine hundred, it moves externally for a period: of two and one-half ghatikās from left to right, again from left to right, and then from the left. Thus, five occurrences of the movement of the sun from one side of zodiac (samkrānti) to the other takes place. With the passage of the sun through five signs of the zodiac, and after a duration of thirteen and three-quarters ghaţikās, (its) being over the autumnal equinox takes place, and at mid-day, nine hundred movements of the breath occur. Then, from there the breath moves from the right to the left, then from the right to the left, and then right. In this way, the sun passes through another) five signs of zodiac. Thus, the number of breaths is nine hundred for each passage of the sun (samkrānti). This also occurs during the night. Therefore, during the day and night of visuvat (equinox), there are twelve saṇkrāntis in each. With the increase and decrease of the duration of the day, the num ber of samkrāntis will increase or decrease. Thus, in one breath of samāna the passage of two years occurs because of the absence of the meeting of the inhaled and exhaled breath. In this manner, the passage of twelve years occurs as described before, while in the breath known as udāna, the movement of breaths occurs up to the 'end of twelve' (dvādaśānta), where time is characterized as a vibration. Here again, the same method of calculation should be followed. On the other hand, in the type of breath (called) vyāna, which is all-pervasive and free from sequence, the emergence of time is associated with a subtle surge. 
-
-98 TANTRASĀRA 
-
-अथ वर्णोदयः । तत्र अर्धप्रहरे अर्धप्रहरे वर्गोदयो विषुवति समः, वर्णस्य वर्णस्य द्वे शते षोडशाधिके प्राणानाम्, बहिः षट्त्रिंशत् चषकाणि इति उदयः, अयम् अयत्नजो वर्णोदयः | यत्नजस्तु मन्त्रोदयः अरघट्टघटीयन्त्रवाहनवत् एकानुसंधिबलात् चित्रं मन्त्रोदयं दिवानिशम् अनुसंदधत् मन्त्रदेवतया सह तादात्म्यम् एति । तत्र सदोदिते प्राणचारसंख्ययैव उदयसंख्या व्याख्याता, तद्दिवगुणिते तदर्धम् इत्यादिक्रमेण अष्टोत्तरशते चक्रे द्विशत उदयः, इति क्रमेण स्थूलसूक्ष्मे चारस्वरूपे विश्रान्तस्य, प्राणचारे क्षीणे, कालग्रासे वृत्ते सम्पूर्णम् एकमेवेदं संवेदनं चित्रशक्तिनिर्भरं भासते । कालभेद एव संवेदनभेदकः न वेद्यभेदः शिखरस्थज्ञानवत्, ज्ञानस्य यावान् अवस्थितिकालः स एव क्षणा, प्राणोदये च एकस्मिन् एकमेव ज्ञानम्, अवश्यं चैतत् - अन्यथा विकल्पज्ञानम् एकं न किंचित् स्यात् - क्रमिकशब्दारूपितत्वात् मात्राया अपि क्रमिकत्वात् । यदाह 'तस्यादित उदात्तमर्धहस्वम्' । (पा० व्या० १-२ ३२) इति । तस्मात् स्पन्दान्तरं यावत् न उदितं तावत् एकमेव ज्ञानं । अत एव एकाशीतिपदस्मरणसमये विविधधर्मानुप्रवेशमुखेन एक एव असौ परमेश्वरविषयो विकल्पः कालग्रासेन अविकल्पात्मा एव संपद्यते इति । एवम् अखिलं कालाध्वानं प्राणोदय एव पश्यन्, सृष्टिसंहारांश्च विचित्रान् निःसंख्यान् तत्रैव आकलयन्, आत्मन एव पारमेश्वर्यं प्रत्यभिजानन् मुक्त एव भवति इति ।। 
-
-संविद्रूपस्यात्मनः प्राणशक्तिं 
-
-पश्यनूपं तत्रगं चातिकालम् । साकं सृष्टिस्थेसंहारच - 
-
-नित्योद्युक्तो भैरवीभावमेति ।। इति श्रीमदभिनवगुप्ताचार्यविरचिते तन्त्रसारे कालाध्वप्रकाशनं नाम षष्ठमाह्निकम् ।।६।। 
 
 Now we will explain the rising of the source of phonemes (varna): ____During the period of balance in an equinox (visuvat), in the duration of two halves of prahara (one and a half hours) there arise the phonemes, [which emerge] in groups (kavarga, etc.).[^99] 
 
