@@ -1376,7 +1376,7 @@ While moving upward and downward, it (samāna) goes on moving along the three ch
 
 ### सङ्क्रान्तयः
 तत्र **विषुवद्-दिने** बाह्ये प्रभातकाले  
-सपादां घटिकां  
+सपादां घटिकां+++(=1.25*24m=30m)+++  
 **मध्यमार्गे वहति** ।   
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -1398,7 +1398,7 @@ So it is that on the day of equinox (visuvat) it moves externally in the morning
 
 ततो नव-शतानि प्राण-विक्षेपाणाम्  
 इति गणनया  
-बहिः सार्ध-घटिका-द्वयं   
+बहिः सार्ध-घटिका-द्वयं+++(=2.5*24m=1h)+++   
 वामे, दक्षिणे, वामे, दक्षिणे, वामे  
 इति **पञ्च सङ्क्रान्तयः** +++(वृषादि कन्यान्ताः)+++। 
 
@@ -1414,9 +1414,9 @@ Then, the number of movements of the breath being nine hundred, it moves externa
 
 
 ततः सङ्क्रान्ति-पञ्चके वृत्ते  
-पादोनासु चतुर्-दशसु घटिकासु +अतिक्रान्तासु  
+पादोनासु चतुर्-दशसु घटिकासु+++(=13.75*24m=5h30m)+++ +अतिक्रान्तासु  
 दक्षिणं **शारदं विषुवत्**,  
-मध्याह्ने नव प्राणशतानि । 
+मध्याह्ने नव प्राणशतानि +++(=1h)+++ । 
 
 <details><summary>English</summary>
 
@@ -1427,7 +1427,7 @@ Thus, five occurrences of the movement of the sun from one side of zodiac (samkr
 ततोऽपि  
 दक्षिणे वामे दक्षिणे वामे दक्षिणे  
 इति **सङ्क्रान्तिपञ्चकं** +++(वृश्चिकादिकम्)+++  
-प्रत्येकं नवशतानि।   
+प्रत्येकं नवशतानि +++(प्राणविक्षेपाणाम् =1h)+++।   
 इत्य् एवं रात्राव् अपि +इति । 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -1527,8 +1527,22 @@ the emergence of time is associated with a subtle surge.
 ## वर्णोदयः
 अथ वर्णोदयः । 
 
-तत्र अर्धप्रहरे अर्धप्रहरे वर्गोदयो,   
+<details><summary>English</summary>
+
+Now we will explain the rising of the source of phonemes (varna):
+</details>
+
+
+तत्र अर्धप्रहरे+++(=1.5h)+++ अर्धप्रहरे वर्गोदयो,   
 विषुवति समः।  
+
+<details><summary>English</summary>
+
+During the period of balance in an equinox (visuvat), in the duration of two halves of prahara (one and a half hours) there arise the phonemes, [which emerge] in groups (kavarga, etc.).[^99] 
+</details>
+
+
+
 वर्णस्य वर्णस्य द्वे शते षोडशाधिके प्राणानाम्,  
 बहिः षट्त्रिंशत् चषकाणि  
 +इति उदयः।  
@@ -1622,7 +1636,7 @@ TANTRASĀRA 97
 
 
 
-Now we will explain the rising of the source of phonemes (varna): ____During the period of balance in an equinox (visuvat), in the duration of two halves of prahara (one and a half hours) there arise the phonemes, [which emerge] in groups (kavarga, etc.).[^99] 
+
 
 TANTRASĀRA 99 
 
