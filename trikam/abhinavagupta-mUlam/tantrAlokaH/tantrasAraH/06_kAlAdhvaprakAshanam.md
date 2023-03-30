@@ -1586,7 +1586,7 @@ During the period of balance in an equinox (visuvat), in the duration of two hal
 **अयत्नजः** = स्वारसिकः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 When the breath for each phoneme becomes 216 internally, it occurs externally to the extent of thirty-six casakas. This is the rising of the phoneme automatically, all by itself, without any effort. 
 </details>
@@ -1598,7 +1598,7 @@ When the breath for each phoneme becomes 216 internally, it occurs externally to
 मन्त्रोदयं दिवानिशम् अनुसन्दधत्   
 मन्त्र-देवतया सह **तादात्म्यम् एति** । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 On the other hand, the rising of the mantra with effort is like applying the force of determination to a single effort.  
 Then a teacher, while continuing to think a mantra day and night with the thought of unification, becomes identified with the deity of the mantra. 
@@ -1610,14 +1610,14 @@ Then a teacher, while continuing to think a mantra day and night with the though
 तत्र सदोदिते+++(←वद् [मन्त्रे])+++  
 प्राण-चार-सङ्ख्ययैव +उदय+++(←इ गतौ)+++-सङ्ख्या +++(मन्त्रार्थस्य)+++ व्याख्याता।  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **प्राण-चार-सङ्ख्ययैव** - +++(नित्यं)+++ षट्शताधिकैकविंशतिसहस्र+++(=२४*९००=२१६००)+++-रूपया
 
 **उदयसङ्ख्या** - मन्त्रस्येति शेषः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The number of rising of mantras is interpreted by the rising of the movement of breath. 
 </details>
@@ -1628,7 +1628,7 @@ The number of rising of mantras is interpreted by the rising of the movement of 
 अष्टोत्तर-शते +++(जप-)+++चक्रे  
 द्विशत उदयः +++(प्राणस्य)+++। ‌…
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 When that breath is doubled,  
 the rising becomes half.  
@@ -1644,7 +1644,7 @@ the rising occurs with reference to the wheel consisting of 108 divisions, and t
 सम्पूर्णम् एकम् एवेदं **संवेदनं**   
 चित्र-शक्ति-निर्भरं **भासते** । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 According to this method,  
 one who is able to rest in the movement of the breath, 
@@ -1655,7 +1655,7 @@ for that one everything is experienced as one consciousness which is perfectly f
 काल-भेद एव संवेदन-भेदकः,  
 न वेद्य-भेदः शिखर-स्थ-ज्ञानवत्।+++(5)+++  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 > ननु कालजनितो भेदो मा भूत्,  
 ज्ञेय-जनितस् तु स्यात्  
@@ -1668,7 +1668,7 @@ for that one everything is experienced as one consciousness which is perfectly f
 एक एव नगरावभासः स्यात् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The difference of time is the cause of a distinction of knowl edge and not a distinction of a knowable object. It is like the knowledge of one standing on the mountaintop looking downward. 
 </details>
@@ -1676,7 +1676,7 @@ The difference of time is the cause of a distinction of knowl edge and not a dis
 
 ज्ञानस्य यावान् अवस्थिति-कालः, स एव **क्षणः**।  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **ज्ञानस्येति** - तस्मात्   
 वेद्यस्य काल एव भेदकः,  
@@ -1689,7 +1689,7 @@ The difference of time is the cause of a distinction of knowl edge and not a dis
 तस्य हि निर्वक्तुम् अशक्यत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 This knowledge, as long as it is existent, is known as 'subtle moment' (kṣana). 
 </details>
@@ -1697,13 +1697,13 @@ This knowledge, as long as it is existent, is known as 'subtle moment' (kṣana)
 
 प्राणोदये च एकस्मिन् एकम् एव ज्ञानम्।  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 ननु ज्ञानं कियत्कालं तिष्ठति  
 इत्य् आह - **प्राणोदये चे**ति।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 In the rising of one breath, one thought exists.
 </details>
@@ -1711,14 +1711,14 @@ In the rising of one breath, one thought exists.
 
 अवश्यं चैतत्।  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 प्राणस्य पूर्वोक्त-नीत्या तुट्य्-आदि-क्रमो ऽस्ति  
 इति कथम् उक्तं प्राणोदये एकमेव ज्ञानमिति ?  
 मैवम् इत्याह अवश्यमिति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 This is correct. 
 </details>
@@ -1730,7 +1730,7 @@ This is correct.
 मात्राया अपि क्रमिकत्वात् 
 [यद् आह "तस्यादित उदात्तम् अर्धह्रस्वम्" (पा० व्या० १-२-३२) इति] ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Otherwise, the knowledge of a thought-construct (vikalpa) cannot be considered to be one because of its gradual association with the element of a word. 
 
@@ -1752,7 +1752,7 @@ This is the case even with mātrās [^100] (dirgha, pluta), which are also gradu
 तस्मात् स्पन्दान्तरं यावत् न +उदितं  
 तावत् एकम् एव ज्ञानं । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Thus, so long as another vibration does not arise, there is a singularity of thought. 
 </details>
@@ -1764,7 +1764,7 @@ Thus, so long as another vibration does not arise, there is a singularity of tho
 एक एव +असौ परमेश्वर-विषयो विकल्पः   
 काल-ग्रासेन अ-विकल्पात्मा +एव सम्पद्यते +इति । 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **अत** इति  
 अनेकधर्म-परामर्शत्वे ऽपि एकत्व-लक्षणात् ।  
@@ -1785,7 +1785,7 @@ Thus, so long as another vibration does not arise, there is a singularity of tho
 **विकल्पः** शुद्धविद्यारूपः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 At the time of bringing the mantra consisting of eighty-one divisions into the realm of memory  
 and by means of entering different forms of attributes,  
@@ -1800,7 +1800,7 @@ it remains one with reference to the determinate thought (vikalpa) of Parameśva
 आत्मन एव पारमेश्वर्यं प्रत्यभिजानन्  
 मुक्त एव भवति इति ।+++(5)+++
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Thus, seeing the entire path of time in the arising of the breath, counting the diversity of creations and re-absorptions as innumerable and diverse, and cognizing oneself as the one pos sessing the great riches of the Lord, one experiences that he is already liberated. 
 </details>
@@ -1813,7 +1813,7 @@ Thus, seeing the entire path of time in the arising of the breath, counting the 
 
 [[६२]]
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Visualizing one's own power of breath, which is non-different from one's own consciousness,  
 which transcends time along with being ever engaged with the wheel of creation, maintenance and dissolution, one becomes one with Bhairava, the Lord. . 
@@ -1826,7 +1826,7 @@ which transcends time along with being ever engaged with the wheel of creation, 
 पाणब्भन्तरम्मि परिणिद्व-उ  
 स-अल-उ कालपसरु परि-आणु ॥
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 अत्रेयं छाया
 
@@ -1842,7 +1842,7 @@ which transcends time along with being ever engaged with the wheel of creation, 
 सिट्टिपल-अं दस-इ ज णिमज्ज-इ  
 सो अत्ता ण-उ चित्तहसा-अरु ॥
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 यथोल्लसति यथा विनिवर्तते  
 पवन-शक्तिस् तथैव महेश्वरः ।  
