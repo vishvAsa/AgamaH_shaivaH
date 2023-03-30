@@ -1,4 +1,6 @@
-+++ title = "Notes" +++
++++
+title = "Notes"
++++
 
 
 ## ०७ 
