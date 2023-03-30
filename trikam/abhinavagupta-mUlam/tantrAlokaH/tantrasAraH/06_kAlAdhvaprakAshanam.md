@@ -315,7 +315,7 @@ Next, the rising of the lunar day (tithi) will be described.
 
 
 
-सपादम् अङ्गुल-द्वयं **तुटिर्** उच्यते।  
+सपादम् अङ्गुल-द्वयं **तुटिर्**+++(→45m)+++ उच्यते।  
 
 <details><summary>Hemendra</summary>
 
@@ -324,14 +324,14 @@ One tuti consists of two and a quarter digits.
 
 
 
-तासु चतसृषु **प्रहरः**।   
+तासु चतसृषु **प्रहरः**+++(→3h)+++।   
 
 <details><summary>Hemendra</summary>
 
 Four tuṭis make three hours (prahara).
 </details>
 
-तुट्यर्धं तुट्यर्धं तत्र **सन्ध्या**।
+तुट्य्-अर्धं तुट्य्-अर्धं तत्र **सन्ध्या**।
 
 <details><summary>Hemendra</summary>
 
@@ -340,7 +340,7 @@ The duration of both dawn and twilight is half of a tuti each.
 
 
 
-एवं निर्गमे **दिनं**, प्रवेशे **रात्रिर्** इति तिथ्युदयः। 
+एवं निर्गमे **दिनं**, प्रवेशे **रात्रिर्** इति तिथ्य्-उदयः। 
 
 <details><summary>मुकुन्दरामः</summary>
 
@@ -365,12 +365,12 @@ Thus the inhalation and exhalation of one breath is known as the day and night. 
 अथ मासोदयः ।   
 तत्र +++(पूर्वोक्तं श्वासनिर्गमात्मकं)+++ दिनं **कृष्णपक्षः**, रात्रिः **शुक्लः**।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 दिनेऽपानचन्द्रस्व-क्षयात् कृष्णपक्षत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Now the rising of the month will be explained. Here, the day is the dark fortnight and the night is the bright fortnight.[^79]
 
@@ -385,14 +385,14 @@ Now the rising of the month will be explained. Here, the day is the dark fortnig
 अन्त्यं च तुट्य्-अर्धं **विश्रान्तिः** अकालकलिताः,     
 मध्यास् तु पञ्चदश तुटय एव **तिथयः**।  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 हार्द-द्वादशान्तयोस् तुट्य्-अर्धयोर् विश्रान्ति-रूपत्वात्  
 काल-कलना नास्तीति ।
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The first half and the last half of the truti is considered as 'rest' (visranti)[^80] because it is beyond the influence of time.  
 However, the intermediate fifteen tuṭis make up one fortnight.
@@ -406,7 +406,7 @@ However, the intermediate fifteen tuṭis make up one fortnight.
 ### दिननिशे
 तत्र +++(वक्ष्यमाणरीत्या वेद्यस्य)+++ प्रकाशो विश्रान्तिश् च +इति +एत एव **दिननिशे** ।  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **तत्र** - प्रतितुटौ तिथिरूपायाम् ।  
 यद् उक्तम्
@@ -419,7 +419,7 @@ However, the intermediate fifteen tuṭis make up one fortnight.
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 There, in these tithis light and rest occur, which are known as day and night. 
 </details>
@@ -430,7 +430,7 @@ There, in these tithis light and rest occur, which are known as day and night.
 
 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Day is when the manifestation of the knowables takes place, and night is when they dissolve into the knowing subject. [^81]
 
@@ -445,7 +445,7 @@ Day is when the manifestation of the knowables takes place, and night is when th
 ते च प्रकाश-विश्रान्ती चिराचिर-वैचित्र्यात् अनन्तभेदे,  
 तत्-साम्ये तु विषुवत्॥ 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 यदुक्तम्
 
@@ -466,7 +466,7 @@ Day is when the manifestation of the knowables takes place, and night is when th
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Day and night have infinite divisions because of the variety of prolonged and temporary duration. The 'equinox' (viṣuvat) is the occurrence of the balance of both. 
 </details>
@@ -481,7 +481,7 @@ Day and night have infinite divisions because of the variety of prolonged and te
 यावत् पञ्चदश्यां तुटौ, द्वादशान्त-समीपे   
 क्षीण-पृथग्-भूत-कला-प्रसरः **चन्द्रमाः प्राणार्क एव लीयते** ।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 During the dark fortnight, the moon, which stands for vital energy (apāna),  
 offers replenishing lunar phases (kalā) one after the other to the sun (prāṇa),  
@@ -496,13 +496,13 @@ the waning moon from which all the phases have been separated and thus has becom
 तस्य च तुट्य्-अर्धस्य प्राच्यम् अर्धम् [प्राणीयमर्धम् ।] आमावस्यं  
 द्वितीयं [अपानीयम् ।] प्रातिपदम् । 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 प्राच्यम् अर्धम् - प्राणीयमर्धम् ।  
 द्वितीयं प्रातिपदम् - अपानीयम् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The tuṭi that follows is the conjunction of the half month (paksa).  
 The first half of that tuṭi is related to the night of new moon (amāvāsya) and the latter half to the first day of the lunar fortnight (pratipad). 
@@ -514,13 +514,13 @@ The first half of that tuṭi is related to the night of new moon (amāvāsya) a
 यदा कास-प्रयत्नावधानादि-कृतात् तिथि-च्छेदात् विशति  
 तदा तत्र **ग्रहणम्**॥   
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 When the portion related to (amāvāsya) enters into the portion related to pratipad as a result of a conscious effort of expelling air, such as a cough, it causes a break in the length (that is, the flow) of the vital air, usually one tithi in duration. This is known as an eclipse (specifically, a lunar eclipse). 
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 तस्यास् तिथेः कासवशात् द्वादशान्ते उच्छेदः  
 ततः शक्तिगर्भाद् अधः सृष्टिस्  
@@ -568,7 +568,7 @@ When the portion related to (amāvāsya) enters into the portion related to prat
 केवलम् आच्छादन-मात्र-समर्थः  
 सूर्य-गतं चान्द्रं अमृतं पिबति +इति । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 At that time,  
 rāhu, the knowing subject of māyā,  
@@ -582,7 +582,7 @@ drinks the nectar of the moon that abides in the sun (prāṇa).
 प्रमातृ-प्रमाण-प्रमेय-त्रितयाविभागकारित्वात्  
 स पुण्यः कालः पार-लौकिक-फल-प्रदः । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 This is an auspicious time, capable of bestowing extraordinary results, because this is a moment in which indivisible unity of the knower, known, and knowledge takes place. 
 </details>
@@ -597,7 +597,7 @@ This is an auspicious time, capable of bestowing extraordinary results, because 
 प्राग्वत् एतत् तु ऐहिक-फल-प्रदम्।  
 इति मासोदयः ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **आपूरयति** - 
 
@@ -609,7 +609,7 @@ This is an auspicious time, capable of bestowing extraordinary results, because 
 **ऐहिक-फल-प्रदम्** - ऐहिकसृष्टिप्राधान्यात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 When the prāṇa enters the realm of apāna,  
 consciousness in the form of the sun fills up the apāna gradually  
@@ -629,7 +629,7 @@ TANTRASĀRA 91
 ## वर्षोदयः
 अथ वर्षोदयः ।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Now the rise of the year will be described.
 </details>
@@ -639,12 +639,12 @@ Now the rise of the year will be described.
 तत्र कृष्णपक्ष एव उत्तरायणं,  
 षट्सु षट्सु +अङ्गुलेषु सङ्क्रान्तिः मकरात् मिथुनान्तं ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 सङ्क्रान्तिः - प्राणार्कस्य ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The 'dark fortnight' (krsna paksa) is the passage of the sun to its 'northern course' (uttarāyana).  
 The passage of the sun from one side of the zodiac[^82] to the other (samkranti);  
@@ -660,7 +660,7 @@ beginning with Capricorn (makara) and ending with Gemini (mithuna), is six digit
 तत्र प्रत्यङ्गुलं पञ्च तिथयः।  
 तत्रापि दिनरात्रिविभागः।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The five lunar phases (tithi) consist of one digit each. In these lunar phases there is also a division of days and nights. 
 </details>
@@ -669,7 +669,7 @@ The five lunar phases (tithi) consist of one digit each. In these lunar phases t
 एवं प्रवेशे दक्षिणायनम्।   
 +++([क्: प्रवेशो दक्षिणायनमिति पाठः ।])+++  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Thus, when inhalation occurs, that is known as the passage of the sun to its southern course (dakșināyana). 
 </details>
@@ -681,12 +681,12 @@ Thus, when inhalation occurs, that is known as the passage of the sun to its sou
 **जन्मादि-विकार-षट्कं**  च +इति क्रमात्  
 मकरादिषु +इति ।   
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 ... मकरादिषु +इति प्राणार्कस्य। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The six changes found in living beings,  
 i.e., the state called insemination,  
@@ -704,7 +704,7 @@ i.e., birth, length of life (stithi), transformation (parinati), growth (vrddhi)
 
 तथैव उपासा अत्र फलं समुचितं करोति ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 यदुक्तम्
 
@@ -722,7 +722,7 @@ i.e., birth, length of life (stithi), transformation (parinati), growth (vrddhi)
 स्वात्मन्युच्छलत्त्वेन अवस्थानमुद्भवनम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 For this reason,  
 rituals performed during this particular time (according to the zodiac) bestow the appropriate results.  
@@ -733,7 +733,7 @@ rituals performed during this particular time (according to the zodiac) bestow t
 रुद्राः शक्तयश्च   
 द्वादशाधिपतय।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 अत्र मासेषु ।  
 यदुक्तम्
@@ -746,7 +746,7 @@ rituals performed during this particular time (according to the zodiac) bestow t
 इति सङ्क्रान्तिक्रमात् पतयः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The rudras, beginning with Daksa and ending with Pitāmahā, together with their śaktis are the superintending deities of the twelve signs of [the] zodiac. [^83] 
 
@@ -758,7 +758,7 @@ The rudras, beginning with Daksa and ending with Pitāmahā, together with their
 
 इति वर्षोदयः ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Here ends the description of the arising of the year. 
 </details>
@@ -770,7 +770,7 @@ Here ends the description of the arising of the year.
 इत्य्-अनेन क्रमेण  
 +++(षट्त्रिंशद्-अङ्गुलयोः)+++ प्रवेश-निर्गमयोः **द्वादशाब्दोदयः**।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 If the sixty lunar phases (tithis) are conceived in the breadth .of each finger (angula), then following this method of calcula tion, one year is conceived in the passage of the sun from one sign of the zodiac to the other.  
 Counting in this way, in the in going and the outgoing breaths, the raising of twelve years takes place.[^84] 
@@ -789,14 +789,14 @@ Counting in this way, in the in going and the outgoing breaths, the raising of t
 इति अनया परिपाट्या  
 एकस्मिन् +++(२*३६स्व् अङ्गुलेषु)+++ प्राण-निर्गम-प्रवेश-काले **षष्ट्य्-अब्दोदयः**।  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 प्रत्यङ्गुलं तिथि-शत-त्रये परिकल्पिते सति   
 अङ्गुल-पञ्चम-भागे तिथयः षष्टिर् भवन्ति।  
 अनया परिपाट्या **सपञ्चांशे अङ्गुले वर्षम्** ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 When in one digit (angula) the number of lunar phases is conceived to be three hundred, then one-fifth of a digit makes one year.[^85] Following this method of calculation, what was previously described as one casaka, i.e., one and one-fifth digits, then the period of five years will place in one passage of the sun from one sign of the zodiac to another (samkrānti).
 
@@ -809,7 +809,7 @@ When in one digit (angula) the number of lunar phases is conceived to be three h
 अत्र एक-विंशति-सहस्राणि  
 षट् शतानि इति तिथीनां सङ्ख्या । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Following this pro cedure, the rising of sixty years takes place in a single inhalation and exhalation of the breath. Therefore, the number of the lunar phases is 21,600, which is the number of inhalations and exhala tions of the breath in the course of one day and night.
 </details>
@@ -819,13 +819,13 @@ Following this pro cedure, the rising of sixty years takes place in a single inh
 **न** षष्ट्य्-अब्दोदयाद् अधिकं  
 **परीक्ष्यते +आनन्त्यात्** ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 +++(उक्त-कल्पनय्)+++ अन्तर् या षष्ट्य्-अब्दोदये तिथि-सङ्ख्या,   
 तद् बहिर् दिन-रात्रं +++(नाम)+++ प्राण-चार-कल्पनम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 A number higher than sixty has not been examined because it borders on infinity.
 </details>
@@ -836,13 +836,13 @@ A number higher than sixty has not been examined because it borders on infinity.
 अनेन क्रमेण  
 दिव्यानि द्वादश-वर्ष-सहस्राणि चतुर्-युगम् ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **तत्र** - बाह्य-समय-कल्पनायाम् ।  
 **अनेन** - पक्षमासायनवर्षादिकलनाक्रमेण ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Furthermore, one year for human beings is the lunar phase (tithi) of the gods.[^86] Following this procedure, 12,000 heavenly years composes the four yugas. 
 
@@ -857,7 +857,7 @@ Furthermore, one year for human beings is the lunar phase (tithi) of the gods.[^
 इति कृतात् प्रभृति (=१००००),  
 तावद्भिः [[५४]] शतैः +++(प्रतियुगम् आदाव् अन्ते चेति)+++ +अष्टौ +++(युग-)+++सन्ध्याः (=२०००)। 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The duration of these four yugas is 4000, 3000, 2000, and 1000 years, beginning with krtayuga. There are eight junctions between them, which are 400, 300, 200, and 100 years in length.  
 </details>
@@ -865,7 +865,7 @@ The duration of these four yugas is 4000, 3000, 2000, and 1000 years, beginning 
 
 चतुर्युगानाम् एकसप्तत्या मन्वन्तरम्।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 One manvantara[^87] consists of 71 cycles of these four yugas.
 
@@ -877,7 +877,7 @@ One manvantara[^87] consists of 71 cycles of these four yugas.
 
 मन्वन्तरैः चतुर्दशभिः ब्राह्मं दिनम्।   
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Fourteen of these manvantaras make up one day of Brahmā.
 </details>
@@ -892,7 +892,7 @@ Fourteen of these manvantaras make up one day of Brahmā.
 सर्वे जना वेगवद् अग्निप्रेरिता  
 जनलोके प्रलयाकलीभूय तिष्ठन्ति ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **लोकत्रये** - भूर्-भुवः-स्वर्लक्षणे ।  
 
@@ -902,7 +902,7 @@ Fourteen of these manvantaras make up one day of Brahmā.
 इति क्रम एकैक-वर्ष-शत-वृद्ध्या ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 At the end of this day of Brahmā, the three worlds [[94]] are burned up by the 'fire of time' (kāla agni).  
 However, the upper three worlds[^88] are overpowered by sleep caused by smoke.  
@@ -917,7 +917,7 @@ to a world called Jana and remain there as pralayakala souls.
 
 +++(तत्त्वज्ञानेनापि)+++ प्रबुद्धास् तु कूष्माण्ड-हाटकेशाद्या महोलोके क्रीडन्ति ।+++(5)+++  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 But those creatures called Kuṣmaṇda, Hāṭaka, and others who are properly enlightened souls continue to play in a world called Mahas. 
 </details>
@@ -926,7 +926,7 @@ But those creatures called Kuṣmaṇda, Hāṭaka, and others who are properly 
 ततो निशा-समाप्तौ ब्राह्मी सृष्टिः ।  
 अनेन मानेन वर्ष-शतं ब्रह्मायुः ।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 When the period of that night of Brahmā is over, creation starts again. Following this system of measurement, the life span of Brahmā is one hundred years.  
 </details>
@@ -936,7 +936,7 @@ When the period of that night of Brahmā is over, creation starts again. Followi
 तावती च रात्रिः,  
 तस्यापि शतम् आयुः । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 This is the duration of one day and night of Viṣnu. His life span is also one hundred years.
 </details>
@@ -949,7 +949,7 @@ This is the duration of one day and night of Viṣnu. His life span is also one 
 तच्-छतम् अपि च +अवधिः +++(रुद्रजीवस्य)+++ ।
 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The life span of Viṣṇu is one day in the life of Rudra, the Lord of the Rudra world, which is above the world of Viṣṇu.
 
@@ -959,7 +959,7 @@ The duration of his night is of the same length: one year is as described above.
 
 तत्र रुद्रस्य तद्-अवसितौ शिवत्वगतिः।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 At the end of one hundred years [of his life] he attains identity with Śiva.
 </details>
@@ -968,7 +968,7 @@ At the end of one hundred years [of his life] he attains identity with Śiva.
 रुद्रस्य +उक्ताधिकारावधिः  
 ब्रह्माण्ड-धारकाणां +++(शतरुद्राणां)+++ तत् दिनं, शतरुद्राणां निशा।    
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
  The functional period of Rudra is one day consisting of 'one hundred rudras' (satarudras), who support the sphere of Brahmā. Their night is of the same length.
 </details>
@@ -977,7 +977,7 @@ At the end of one hundred years [of his life] he attains identity with Śiva.
 तावती तेषामपि च शतमायुः ।  
 शतरुद्रक्षये ब्रह्माण्डविनाशः ।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Their life span is also one hundred years long. At the time of the death of the satarudras, the destruction of Brahmā's reign takes place.  
 </details>
@@ -988,7 +988,7 @@ Their life span is also one hundred years long. At the time of the death of the 
 एवं जलतत्त्वात् +अव्यक्तान्तम् एतद्-एव क्रमेण रुद्राणाम् आयुः ।  
 पूर्वस्यायुरुत्तरस्य [[५५]] दिनम् इति ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 जलतत्त्व-वासिनां यद् आयुस् तद्-अग्नि-तत्त्वस्थानां दिनम्  
 इति क्रम  
@@ -996,7 +996,7 @@ Their life span is also one hundred years long. At the time of the death of the 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Thus, the life span of the rudras abiding in the water principle to the end of the primordial nature principle (prakrti) is counted in the following way: The life span of the rudras, abiding in the lower principle, is a day in the life of those who live in the higher principle.
 </details>
@@ -1005,12 +1005,12 @@ Thus, the life span of the rudras abiding in the water principle to the end of t
 ततश् च +++(+आयुस्-समाप्ताव् अपि बुद्धि-तत्त्वस्थाः प्रलयकलया?)+++ ब्रह्मा रुद्राश् च  
 +अब्-आद्य्-अधिकारिणः अव्यक्ते तिष्ठन्ति इति ।  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **ब्रह्मा** बुद्धितत्त्वस्थः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Then Brahmā and Rudra (although their worlds are destroyed, Brahmā and Rudra are not), who are presiding over water, and the other tattvas, remain in an unmanifest (avyakta) state. 
 </details>
@@ -1018,12 +1018,12 @@ Then Brahmā and Rudra (although their worlds are destroyed, Brahmā and Rudra a
 
 श्रीकण्ठनाथश् च तदा संहर्ता ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **श्रीकण्ठनाथः** पुन्तत्त्वस्थः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 At that time, Lord Srikantha becomes the agent of destruction. 
 </details>
@@ -1031,12 +1031,12 @@ At that time, Lord Srikantha becomes the agent of destruction.
 एषो ऽवान्तरप्रलयः।  
 तत्-क्षये सृष्टिः ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 अवान्तरप्रलयस्य उक्तत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 This is the intermediate state of dissolution[^89] which ends in avyakta.  
 When the time of destruction is over, a new creation begins again.  
@@ -1050,12 +1050,12 @@ When the time of destruction is over, a new creation begins again.
 
 तत्र शास्त्रान्तर-मुक्ता अपि सृज्यन्ते । 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 साङ्ख्य-वेदान्तादि-शास्त्र-भाषित-मुक्ताः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 At that time, those who attained liberation by following other śāstras are also created.[^90] 
 
@@ -1070,7 +1070,7 @@ At that time, those who attained liberation by following other śāstras are als
 तत् +++(नियति-कला-राग-विद्या-कला-मायाख्य-)+++कञ्चुक-वासिनां रुद्राणां दिनं,  
 तावती रजनी।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The span of life of Lord Srikantha is one day of those rudras who abide in the veils (kañcukas).[^91] The length of their night is the same. 
 
@@ -1085,12 +1085,12 @@ The span of life of Lord Srikantha is one day of those rudras who abide in the v
 तत् गहनेश-दिनं,  
 तावती +एव क्षपा।  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 गहनेशस्य मायागर्भाधिकारिणः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 One day of Gahanesa is the life span of Rudra.
 The length of his night is the same.
@@ -1100,7 +1100,7 @@ The length of his night is the same.
 तस्यां च +++(क्षपायां)+++ समस्तम् एव मायायां विलीयते ।  
 पुनः गहनेशः सृजति ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
  During the night of [[95]] Gahanesa, everything that remains dissolves in māyā. After dissolution, Gahanesa creates again. 
 </details>
@@ -1112,7 +1112,7 @@ The length of his night is the same.
 तावती रात्रिः ।  
 स एव **प्रलयः** ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 When the life span of the unmanifest state (avyakta) is multiplied by ten parardhas (one parardha is 100,000 billion years), it is said to be the period of one day of māyā. The same is the case for the length of the night of māyā. The night of māyā is stated to be a dissolution (pralaya).
 </details>
@@ -1121,14 +1121,14 @@ When the life span of the unmanifest state (avyakta) is multiplied by ten parard
 मायाकालः परार्धशतेन गुणित  
 ऐश्वर-तत्त्वे दिनम् । 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 प्राणोदये कारण-क्रमस्य वक्ष्यमाणत्वात्  
 ईश्वरतत्त्वम् एव गर्भी-कृत-विद्यातत्त्वम् उक्तम्,  
 यः क्रिया-शक्ति-प्रधानः प्राणनारूप इति पूर्वम् उक्तः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The time span of māyā, when multiplied by one hundred parārdha, is one day of Isvara. 
 </details>
@@ -1139,7 +1139,7 @@ The time span of māyā, when multiplied by one hundred parārdha, is one day of
 तावती रात्रिः यत्र प्राणप्रशमः।  
 [[५६]]  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 There, the vital energy (prāṇa) creates the universe. The same is true for the length of one night, during which prāṇa takes rest. 
 </details>
@@ -1149,7 +1149,7 @@ There, the vital energy (prāṇa) creates the universe. The same is true for th
 या संवित्  
 तत्राप्य् अस्ति क्रमः ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 In the cavity called brahmabila, where the vital energy stops its function and although consciousness there remains in -a tranquil state, even there this sequence persists.
 </details>
@@ -1159,12 +1159,12 @@ In the cavity called brahmabila, where the vital energy stops its function and a
 तत् सादाशिवं दिनं, तावती निशा।  
 स+++(→निशा)+++ एव **महाप्रलयः** ।  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **महाप्रलयः** - शुद्धाध्वनोऽपि संहारात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 When the life span of Isvara is multiplied by one hundred parārdhas, the number we arrive at amounts to one day of Sadāśiva. The same occurs in the length of his night.  
 Sadāśiva's night is known as mahāpralaya.[^92] 
@@ -1183,7 +1183,7 @@ Sadāśiva's night is known as mahāpralaya.[^92]
 नादः शक्तितत्त्वे तद्-व्यापिन्यां,  
 सा च अनाश्रिते । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 After the end of his period, Sadāśiva encloses bindu, ardhrachandra, and nirodhikā within himself and dissolves him self into nāda. Nāda dissolves into śakti, śakti into vyāpini, and vyāpinī into anāśritaśiva. 
 </details>
@@ -1194,14 +1194,14 @@ After the end of his period, Sadāśiva encloses bindu, ardhrachandra, and nirod
 तत् सामनस्यं साम्यं,  
 तत् ब्रह्म । 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 विश्वसंहारे वृत्ते  
 सर्वोऽणुवर्गः समनायाम् एव सम्भूय आस्ते।   
 अनाश्रितान्तस्य विश्वस्याभेदेन अवस्थानात् साम्यम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 One day of anāśritaśiva is equal to one day of śakti when multiplied by 10 million parārdhas.  
 Anāśrita rests in the realm of samanā. This equilibrium of samanā is known as Brahmā. 
@@ -1212,13 +1212,13 @@ Anāśrita rests in the realm of samanā. This equilibrium of samanā is known a
 निमेषोन्मेष-मात्रतया  
 प्रोक्ताशेष+++(-तुट्यादि)+++-काल-प्रसर-प्रविलय-चक्र-भ्रमोदयः।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **अकल्यात् कालात्** - कलयितुमशक्यादित्यर्थः ।  
 **प्रोक्ताशेषकालस्य** तुट्यादेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 From this state of equilibrium (the most sub tle state of mind), which is beyond mutation, all these aforesaid ‘mutations of time and their dissolutions arise like the cyclic motion of the "wheel of time,' similar to the opening and closing of the eyelids. 
 </details>
@@ -1230,7 +1230,7 @@ From this state of equilibrium (the most sub tle state of mind), which is beyond
 एकं दश शतं सहस्रम् अयुतं लक्षं नियुतं कोटिः अर्बुदं वृन्दं खर्वं निखर्वं पद्मं शङ्कुः समुद्रं अन्त्यं मध्यम् परार्धम्  
 इति क्रमेण दशगुणितानि अष्टादश इति गणितविधिः ।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The procedure of counting is as follows: 1; 10; 10 x 10; 100 x 10; 1,000 x 10; 10,000 x 10; 100,000 x 10; 1,000,000 x 10; 10,000,000 x 10; 100,000,000 x 10; 1,000,000,000 x 10; 10,000,000,000 x 10; 100,000,000,000 x 10; 1,000,000,000,000 X 10; 10,000,000,000,000 x 10; 100,000,000,000,000 x 10; 1,000,000,000,000,000 x 10; 10,000,000,000,000,000 x 10. These are named eka, daśa, sata, sahasra, ayuta, lakṣa, niyuta, koṭi, arbuda, vrnda, kharva, nikharva, padma, sarku, samu dra, antya, madhya, parārdha.  
 Thus, the number coming later is ten times higher than the former.  
@@ -1241,14 +1241,14 @@ The total of these numbers [[96]] is eighteen.
 एवम् असङ्ख्याः सृष्टि-प्रलयाः  
 एकस्मिन् महासृष्टिरूपे प्राणे।  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 > प्राक् संवित् प्राणे परिणता 
 
 इति प्राणो महासृष्टिरूपः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Thus, numerous creations and dissolutions occur in one breath,[^93] having the characteristic of the great creation. 
 
@@ -1263,7 +1263,7 @@ Thus, numerous creations and dissolutions occur in one breath,[^93] having the c
 सा उपाधौ,  
 स चिन्मात्रे।   
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 That breath abides in consciousness, the consciousness in an accidental attribute (upādhi) (with the characteristics of forms, features, etc.), which accidental attributes go to rest in the singularity of consciousness.
 </details>
@@ -1271,7 +1271,7 @@ That breath abides in consciousness, the consciousness in an accidental attribut
 
 चिन्मात्रस्यैव +अयं स्पन्दो यद् अयं **कालोदयो** नाम ।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The vibration (spanda) is nothing but the mani festation of consciousness, which appears in the form of the emergence of time.
 </details>
@@ -1281,7 +1281,7 @@ The vibration (spanda) is nothing but the mani festation of consciousness, which
 अस्य न विरोधावहम् । +++(5)+++  
 +++([क्: "वैचित्र्यस्य न" इति पाठान्तरं च ।])+++
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Therefore, this diversity that occurs in dreams and imagination does not create any contradiction in regard to time.
 </details>
@@ -1290,7 +1290,7 @@ Therefore, this diversity that occurs in dreams and imagination does not create 
 एवं यथा प्राणे कालोदयः,  
 तथा अपानेऽपि हृदयात् मूल-पीठ-पर्यन्तम् ।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Just as the emergence of time occurs in the form of prāṇa, in the same way, it occurs even in apāna, which proceeds from the heart to the end of mūlādhāra. 
 </details>
@@ -1302,7 +1302,7 @@ Just as the emergence of time occurs in the form of prāṇa, in the same way, i
 तथैव +++(अधो)+++ अपानेऽपि   
 हृत्-कन्द+++(=मूलाधार??)++++आनन्द+++(=लिङ्ग)+++--सङ्कोच+++(=गुद??)+++-विकास-+++(शक्ति-)+++द्वादशन्तेषु।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 As the six causal agents, that is, Brahmā, Viṣnu, Rudra, Isa, Sadāśiva, and Anāśritaśiva, who appear in the heart, throat, palate, forehead, randhra, and in the 'end of twelve' (dvādaśānta),[^94] operate in the upper region,  
 in the same way in apāna, these deities operate in the throat+++(??)+++, valve, generative organ, causing it to contract and expand, and in the ‘end of twelve' (dvādaśānta). 
@@ -1317,7 +1317,7 @@ in the same way in apāna, these deities operate in the throat+++(??)+++, valve,
 बाल्य-यौवन-वार्धक-निधन--पुनर्-भव--मुक्त्य्-अधिपतय  
 एते +++(ब्रह्म-विष्णु-रुद्र+ईश-सदाशिव+अनाश्रिताः)+++।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 They are the superintending deities of boyhood, youth, old age, death, rebirth, and liberation.[^95]
 
@@ -1330,7 +1330,7 @@ They are the superintending deities of boyhood, youth, old age, death, rebirth, 
 ## समाने कालोदयः
 अथ समाने कालोदयः ।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Now the rising of time in samāna: 
 </details>
@@ -1341,12 +1341,12 @@ Now the rising of time in samāna:
 समस्ते देहे  
 साम्येन **रसादीन् वाहयति** । 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **नाडीषु** = इडा पिङ्गला सुषुम्ना गान्धारि हस्ति-जिह्वा पुपा यशा अलम्बुसा कुहूः शङ्खिनी इत्येवं रूपासु ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 
 As breath in the form of samāna moves along the ten channels (nāļi) born in the heart, it causes fluids, etc., to flow throughout the entire body in a balanced way. 
@@ -1357,7 +1357,7 @@ As breath in the form of samāna moves along the ten channels (nāļi) born in t
 तद्-दिक्-पति-चेष्टाम् इव  
 प्रमातुः अनुकारयति । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 The samāna, while wandering along the eight different directions, causes the knowing subject to imitate the activities of the superintending deities of the quarters. [^97] 
 </details>
@@ -1365,12 +1365,12 @@ The samāna, while wandering along the eight different directions, causes the kn
 
 ऊर्ध्वाधस् तु सञ्चरन् तिसृषु +++(इडा-पिङ्गला-सुषम्नासु)+++ नाडीषु **गतागतं करोति** । 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 इडा-पिङ्गला-सुषम्नासु ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 While moving upward and downward, it (samāna) goes on moving along the three channels. 
 </details>
@@ -1380,7 +1380,7 @@ While moving upward and downward, it (samāna) goes on moving along the three ch
 सपादां घटिकां+++(=1.25*24m=30m)+++  
 **मध्यमार्गे वहति** ।   
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 विषुवद्-दिने = मेषार्काख्ये ।
 
@@ -1391,7 +1391,7 @@ While moving upward and downward, it (samāna) goes on moving along the three ch
 षष्ट्य्-अधिक-शत-त्रयं प्राणचाराः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 So it is that on the day of equinox (visuvat) it moves externally in the morning along the middle path for one and one-quarter ghatikās. 
 </details>
@@ -1403,12 +1403,12 @@ So it is that on the day of equinox (visuvat) it moves externally in the morning
 वामे, दक्षिणे, वामे, दक्षिणे, वामे  
 इति **पञ्च सङ्क्रान्तयः** +++(वृषादि कन्यान्ताः)+++। 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 पञ्च सङ्क्रान्तयः = वृषादि कन्यान्ताः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Then, the number of movements of the breath being nine hundred, it moves externally for a period: of two and one-half ghatikās from left to right, again from left to right, and then from the left.
 </details>
@@ -1419,7 +1419,7 @@ Then, the number of movements of the breath being nine hundred, it moves externa
 दक्षिणं **शारदं विषुवत्**,  
 मध्याह्ने नव प्राणशतानि +++(=1h)+++ । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Thus, five occurrences of the movement of the sun from one side of zodiac (samkrānti) to the other takes place. With the passage of the sun through five signs of the zodiac, and after a duration of thirteen and three-quarters ghaţikās, (its) being over the autumnal equinox takes place, and at mid-day, nine hundred movements of the breath occur. 
 </details>
@@ -1431,7 +1431,7 @@ Thus, five occurrences of the movement of the sun from one side of zodiac (samkr
 प्रत्येकं नवशतानि +++(प्राणविक्षेपाणाम् =1h)+++।   
 इत्य् एवं रात्राव् अपि +इति । 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 सङ्क्रान्तिपञ्चकं = वृश्चिकादिकम् ।
 
@@ -1441,7 +1441,7 @@ Thus, five occurrences of the movement of the sun from one side of zodiac (samkr
 द्वितीया सपादा घटिका रात्रिमध्ये प्रविष्टा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Then, from there the breath moves from the right to the left, then from the right to the left, and then right.  
 In this way, the sun passes through another five signs of zodiac.  
@@ -1454,7 +1454,7 @@ This also occurs during the night.
 द्वादश द्वादश **सङ्क्रान्तयः** ।  
 ततो दिन-वृद्धि-क्षयेषु सङ्क्रान्ति-वृद्धि-क्षयः ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Therefore, during the day and night of visuvat (equinox), there are twelve saṇkrāntis in each. With the increase and decrease of the duration of the day, the number of samkrāntis will increase or decrease. 
 </details>
@@ -1464,12 +1464,12 @@ Therefore, during the day and night of visuvat (equinox), there are twelve saṇ
 
 एवम् एकस्मिन् समान-मरुति वर्ष-द्वयं - श्वास-प्रश्वास+++(=उच्छ्वास)+++-योगाभावात् । 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 **एकस्मिन्** - न तु प्राणापानवत् द्वयरूपे ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Thus, in one breath of samāna the passage of two years occurs because of the absence of the meeting of the inhaled and exhaled breath.
 </details>
@@ -1477,12 +1477,12 @@ Thus, in one breath of samāna the passage of two years occurs because of the ab
 
 अत्रापि द्वादशाब्दोदयादि पूर्ववत् । 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 अत्रापि = एकचार एव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 In this manner, the passage of twelve years occurs as described before
 </details>
@@ -1492,12 +1492,12 @@ In this manner, the passage of twelve years occurs as described before
 उदाने तु द्वादशान्तावधिश् चारः   
 स्पन्द-मात्रात्मनः कालस्य ।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>मुकुन्दरामः</summary>
 
 द्वादशान्तावधिः = हृदयान् मूर्धन्य-द्वादशान्तं तावत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 while in the breath known as udāna, the movement of breaths occurs up to the 'end of twelve' (dvādaśānta), where time is characterized as a vibration. 
 </details>
@@ -1507,7 +1507,7 @@ while in the breath known as udāna, the movement of breaths occurs up to the 'e
 अत्रापि पूर्ववत् विधिः ।  
 +++([क्: अत्रापि इत्यादि वाक्यं नास्ति ।])+++
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Here again, the same method of calculation should be followed. 
 </details>
@@ -1517,7 +1517,7 @@ Here again, the same method of calculation should be followed.
 व्याने तु व्यापकत्वात्  
 अक्रमेऽपि सूक्ष्मोच्छलत्ता-योगेन कालोदयः ।
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 On the other hand, in the type of breath (called) vyāna,  
 which is all-pervasive and free from sequence,  
@@ -1528,7 +1528,7 @@ the emergence of time is associated with a subtle surge.
 ## वर्णोदयः
 अथ वर्णोदयः । 
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 Now we will explain the rising of the source of phonemes (varna):
 </details>
@@ -1537,7 +1537,7 @@ Now we will explain the rising of the source of phonemes (varna):
 तत्र अर्धप्रहरे+++(=1.5h)+++ अर्धप्रहरे वर्गोदयो,   
 विषुवति समः।  
 
-<details><summary>English</summary>
+<details><summary>Hemendra</summary>
 
 During the period of balance in an equinox (visuvat), in the duration of two halves of prahara (one and a half hours) there arise the phonemes, [which emerge] in groups (kavarga, etc.).[^99] 
 </details>
@@ -1549,7 +1549,13 @@ During the period of balance in an equinox (visuvat), in the duration of two hal
 +इति उदयः।  
 अयम् अयत्नजो वर्णोदयः । 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>विश्वास-टिप्पनी</summary>
+
+एवं सति तु वर्गोदयाय ७२m इति सम्पद्यते, यच्च पूर्वोक्ताद् अर्धप्रहराद् १८m न्यूनः??।
+</details>
+
+
+<details><summary>मुकुन्दरामः</summary>
 
 **अर्धप्रहरे** = आन्तरे प्राणीये अर्धप्रहरे प्रतिवर्गं सार्ध-चतुर्-अङ्गुलोदयः ।  
 बाह्ये तु सार्ध-शत-त्रयोदश-प्राणचारात्मा वर्गोदयः ।
