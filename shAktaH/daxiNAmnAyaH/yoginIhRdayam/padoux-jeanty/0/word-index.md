@@ -1,5 +1,5 @@
 +++
-title = "Index"
+title = "Word Index"
 
 +++
 - Abhinavagupta*, 2–4, 7, 12–13, 88

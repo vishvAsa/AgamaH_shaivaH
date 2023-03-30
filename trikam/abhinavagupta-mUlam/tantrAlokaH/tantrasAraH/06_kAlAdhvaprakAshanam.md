@@ -1725,15 +1725,19 @@ This is correct.
 
 
 अन्यथा  
-विकल्पज्ञानम् एकं न किञ्चित् स्यात् -  
-क्रमिक-शब्दारूषितत्वात्,  
-मात्राया अपि क्रमिकत्वात् ।
+विकल्प-ज्ञानम् एकं न किञ्चित् स्यात् -  
++++(विकल्प-वाक्येषु)+++ क्रमिक-शब्दारूषितत्वात्,  
+मात्राया अपि क्रमिकत्वात् 
+[यद् आह "तस्यादित उदात्तम् अर्धह्रस्वम्" (पा० व्या० १-२-३२) इति] ।
 
 <details><summary>English</summary>
 
 Otherwise, the knowledge of a thought-construct (vikalpa) cannot be considered to be one because of its gradual association with the element of a word. 
 
-This is the case even with mātrās [^100] (dirgha, pluta), which are also gradual. 
+This is the case even with mātrās [^100] (dirgha, pluta), which are also gradual. As it is said in the Aștādhyāyi 1.2.32: 
+
+> “The first pada of the svarita vowel extending to one-half of the duration of the short vowel is udātta, while the remaining part is anudātta."
+
 
 
 [^100]:
@@ -1745,12 +1749,15 @@ This is the case even with mātrās [^100] (dirgha, pluta), which are also gradu
 
 [[६१]]
 
-यदाह
+तस्मात् स्पन्दान्तरं यावत् न उदितं तावत् एकमेव ज्ञानं । 
+
+<details><summary>English</summary>
+
+Thus, so long as another vibration does not arise, there is a singularity of thought. 
+</details>
 
 
-तस्यादित उदात्तमर्धह्रस्वम् । (पा० व्या० १-२-३२)
-
-इति । तस्मात् स्पन्दान्तरं यावत् न उदितं तावत् एकमेव ज्ञानं । अत [अत   
+अत [अत   
 इति अनेकधर्मपरामर्शत्वेऽपि एकत्वलक्षणात् । यदुक्तम्
 
 तथा तथा परामर्शशक्तिचक्रेश्वरो विभुः ।  
@@ -1801,13 +1808,9 @@ TANTRASĀRA 97
 
 
 
-TANTRASĀRA 99 
+TANTRASĀRA 99
 
 
-
-
-As it is said in the Aștādhyāyi 1.2.32: “The first pada of the svarita vowel extending to one-half of the duration of the short vowel is udātta, while the remaining part is anudātta." 
-
-Thus, so long as another vibration does not arise, there is a singularity of thought. At the time of bringing the mantra consisting of eighty-one divisions into the realm of memory and by means of entering different forms of attributes, it remains one with refer ence to the determinate thought (vikalpa) of Parameśvara, and the[^100] experience free from vikalpa takes place as a result of the absorption of time. Thus, seeing the entire path of time in the arising of the breath, counting the diversity of creations and re-absorptions as innumerable and diverse, and cognizing oneself as the one pos sessing the great riches of the Lord, one experiences that he is already liberated. 
+At the time of bringing the mantra consisting of eighty-one divisions into the realm of memory and by means of entering different forms of attributes, it remains one with refer ence to the determinate thought (vikalpa) of Parameśvara, and the[^100] experience free from vikalpa takes place as a result of the absorption of time. Thus, seeing the entire path of time in the arising of the breath, counting the diversity of creations and re-absorptions as innumerable and diverse, and cognizing oneself as the one pos sessing the great riches of the Lord, one experiences that he is already liberated. 
 
 Visualizing one's own power of breath, which is nondif ferent from one's own consciousness, which transcends time along with being ever engaged with the wheel of creation, maintenance and dissolution, one becomes one with Bhairava, the Lord. . 
