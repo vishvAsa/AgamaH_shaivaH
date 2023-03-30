@@ -1806,46 +1806,51 @@ Thus, seeing the entire path of time in the arising of the breath, counting the 
 </details>
 
 
-संविद्रूपस्यात्मनः प्राणशक्तिं   
-पश्यन्रूपं तत्रगं चातिकालम् ।  
-साकं सृष्टिस्थेमसंहारचक्रै-  
-र्नित्योद्युक्तो भैरवीभावमेति ॥
+संविद्-रूपस्यात्मनः प्राणशक्तिं   
+पश्यन् रूपं तत्र-गं चाति-कालम् ।  
+साकं सृष्टि-स्थेम-संहार-चक्रैर्  
+नित्योद्युक्तो भैरवी-भावम् एति ॥
 
 [[६२]]
 
-[अत्रेयं छाया
+<details><summary>English</summary>
 
-सकलप्रकाशरूपसंवेदन-  
-स्पन्दतरङ्गकलना तस्य प्राणः ।  
-प्राणाभ्यन्तरे परिनिष्ठितं  
-सकलं कालप्रसरं परिज्ञाय ॥
+Visualizing one's own power of breath, which is non-different from one's own consciousness,  
+which transcends time along with being ever engaged with the wheel of creation, maintenance and dissolution, one becomes one with Bhairava, the Lord. . 
+</details>
 
-यथोल्लसति यथा विनिवर्तते  
-पवनशक्तिस्तथैव महेश्वरः ।  
-सृष्टिप्रलयं दर्शयित्वा च निमज्जयति  
-स आत्मा नित्यचित्तत्त्वसागरः ॥]  
+
+
 स-अल प्र-आस रू-उ संवे-अण  
 फन्दतरङ्गकलण तहु पाणुर ।  
 पाणब्भन्तरम्मि परिणिद्व-उ  
 स-अल-उ कालपसरु परि-आणु ॥
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्रेयं छाया
+
+सकल-प्रकाश-रूप-संवेदन-  
+स्पन्द-तरङ्ग-कलना तस्य प्राणः ।  
+प्राणाभ्यन्तरे परि-निष्ठितं  
+सकलं काल-प्रसरं परिज्ञाय ॥
+</details>
+
 
 जह उल्लस-इ जह विण्णिरुज्ज-इ  
 पवनसत्ति तह एहु महेसरु ।  
 सिट्टिपल-अं दस-इ ज णिमज्ज-इ  
 सो अत्ता ण-उ चित्तहसा-अरु ॥
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यथोल्लसति यथा विनिवर्तते  
+पवन-शक्तिस् तथैव महेश्वरः ।  
+सृष्टि-प्रलयं दर्शयित्वा च निमज्जयति  
+स आत्मा नित्य-चित्तत्त्व-सागरः ॥
+</details>
+
+
 इति श्रीमदभिनवगुप्ताचार्यविरचिते तन्त्रसारे कालाध्वप्रकाशनं नाम   
 षष्ठमाह्निकम् ॥६॥
 
-TANTRASĀRA 97 
-
-
-
-
-
-TANTRASĀRA 99
-
-
-
-
-Visualizing one's own power of breath, which is nondif ferent from one's own consciousness, which transcends time along with being ever engaged with the wheel of creation, maintenance and dissolution, one becomes one with Bhairava, the Lord. . 
