@@ -806,8 +806,8 @@ When in one digit (angula) the number of lunar phases is conceived to be three h
 </details>
 
 +++(३६०x६० = २१६०० इति)+++  
-अत्र एक-विंशति-सहस्राणि  
-षट् शतानि इति तिथीनां सङ्ख्या । 
+अत्र एक-विंशति-सहस्राणि षट् शतानि  
+इति तिथीनां सङ्ख्या । 
 
 <details><summary>Hemendra</summary>
 
@@ -1349,7 +1349,12 @@ Now the rising of time in samāna:
 <details><summary>Hemendra</summary>
 
 
-As breath in the form of samāna moves along the ten channels (nāļi) born in the heart, it causes fluids, etc., to flow throughout the entire body in a balanced way. 
+As breath in the form of samāna moves along the ten channels (nāḍi)[^96] born in the heart, it causes fluids, etc., to flow throughout the entire body in a balanced way. 
+
+[^96]:
+
+    The ten principal channels that prāṇa circulates through are idā, pingalā, suṣumnā, gāndhari, hastiyjihvā, pūṣā, yaśā, alamhbusā, kuhū, and sankhini. Although all the channels have emerged from the navel, they become manifest in the heart. 
+
 </details>
 
 
@@ -1360,6 +1365,10 @@ As breath in the form of samāna moves along the ten channels (nāļi) born in t
 <details><summary>Hemendra</summary>
 
 The samāna, while wandering along the eight different directions, causes the knowing subject to imitate the activities of the superintending deities of the quarters. [^97] 
+
+[^97]:
+
+    The superintending deities of directions are ten. They are Indra, Vahni, Yama, and so on. They rotate in a cyclic order and as a result, limited souls act in accordance with the nature of these deities. Sometimes they are morbid, sometimes they are haughty, sad, elated, happy, unhappy, etc.+++(5)+++ 
 </details>
 
 
@@ -1372,7 +1381,11 @@ The samāna, while wandering along the eight different directions, causes the kn
 
 <details><summary>Hemendra</summary>
 
-While moving upward and downward, it (samāna) goes on moving along the three channels. 
+While moving upward and downward, it (samāna) goes on moving along the three channels.[^98] 
+
+[^98]:
+
+    The names of three principal channels are idā, pingalā, and suṣumnā. They are supposed to be located inside the spinal cord. Idā is placed at the left, pingalā to the right, and suṣumna in the middle of the spinal cord. Ida represents the moon, pingalā the sun, and suṣumnā the fire. While the vital air samāna moves along these three principal channels up and down, they assume the nature of the sun, the moon, and fire.
 </details>
 
 ### सङ्क्रान्तयः
@@ -1533,9 +1546,9 @@ the emergence of time is associated with a subtle surge.
 Now we will explain the rising of the source of phonemes (varna):
 </details>
 
-
-तत्र +++(आङ्गरे सार्ध-चतुर्-अङ्गुलोदये)+++ अर्धप्रहरे अर्धप्रहरे वर्गोदयो,   
-विषुवति समः।  
+### वर्गोदयः
+तत्र +++(आन्तरे सार्ध-चतुर्-अङ्गुलोदये)+++ अर्धप्रहरे अर्धप्रहरे **वर्गोदयो**,   
+विषुवति +++(दिने)+++ समः।  
 
 <details><summary>मुकुन्दरामः</summary>
 
@@ -1547,10 +1560,15 @@ Now we will explain the rising of the source of phonemes (varna):
 <details><summary>Hemendra</summary>
 
 During the period of balance in an equinox (visuvat), in the duration of two halves of prahara (one and a half hours) there arise the phonemes, [which emerge] in groups (kavarga, etc.).[^99] 
+
+
+[^99]:
+
+    All the Sanskrit syllables are divided into eight groups (varga). All the vowels come under "a" group (varga). The number of vowels is sixteen. Then come the group of "ka," "ca,"" "ta," "ta," "pa,” "sa," and the group of semi-vowels. 
 </details>
 
 
-
+### वर्णोदयः
 वर्णस्य वर्णस्य द्वे शते षोडशाधिके प्राणानाम् +++(=216/900x60=14.4m)+++,  
 बहिः षट्त्रिंशत् चषकाणि +++(=36x24/60=14.4m)+++  
 +इति उदयः।  
@@ -1558,7 +1576,8 @@ During the period of balance in an equinox (visuvat), in the duration of two hal
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-एवं सति तु वर्गोदयाय ७२m इति सम्पद्यते, यच्च पूर्वोक्ताद् अर्धप्रहराद् १८m न्यूनः??।
+एवं सति तु वर्गोदयाय ७२m इति सम्पद्यते, यच्च पूर्वोक्ताद् अर्धप्रहराद् १८m न्यूनः??।  
+अथवा वर्गे वर्गे 90/14.4 = ६.२५ वर्णास् स्युः।  (कण्ठ्यवर्गे अकार-हकार-विसर्गान् संयोज्य?)
 </details>
 
 
@@ -1567,34 +1586,167 @@ During the period of balance in an equinox (visuvat), in the duration of two hal
 **अयत्नजः** = स्वारसिकः ।
 </details>
 
+<details><summary>English</summary>
 
-यत्नजस्तु मन्त्रोदयः अरघट्टघटीयन्त्रवाहनवत्   
-एकानुसन्धिबलात् चित्रं मन्त्रोदयं दिवानिशम् अनुसन्दधत्   
-मन्त्रदेवतया सह तादात्म्यम् एति । तत्र सदोदिते प्राणचारसङ्ख्ययैव   
-[षट्शताधिकैकविंशतिसहस्ररूपया ।]
+When the breath for each phoneme becomes 216 internally, it occurs externally to the extent of thirty-six casakas. This is the rising of the phoneme automatically, all by itself, without any effort. 
+</details>
+
+
+### मन्त्रोदयः
+यत्न-जस् तु **मन्त्रोदयः**  
++अर-घट्ट+++(=pulley)+++-घटी-यन्त्र-वाहनवत् एकानुसन्धि-बलात् चित्रम्।  
+मन्त्रोदयं दिवानिशम् अनुसन्दधत्   
+मन्त्र-देवतया सह **तादात्म्यम् एति** । 
+
+<details><summary>English</summary>
+
+On the other hand, the rising of the mantra with effort is like applying the force of determination to a single effort.  
+Then a teacher, while continuing to think a mantra day and night with the thought of unification, becomes identified with the deity of the mantra. 
+</details>
+
 
 [[६०]]
 
-उदयसङ्ख्या [मन्त्रस्येति शेषः ।] व्याख्याता तद्द्विगुणिते [ख्:   
-तद्विगुणिते इति पाठः ।] तदर्धम् इत्यादिक्रमेण अष्टोत्तरशते चक्रे   
-द्विशत उदयः इति क्रमेण स्थूलसूक्ष्मे चारस्वरूपे विश्रान्तस्य प्राणचारे   
-क्षीणे कालग्रासे वृत्ते सम्पूर्णम् एकमेवेदं संवेदनं   
-चित्रशक्तिनिर्भरं भासते । कालभेद एव संवेदनभेदकः न वेद्यभेदः   
-[ननु कालजनितो भेदो मा भूत् ज्ञेयजनितस्तु स्यात् इदं नीलज्ञानम्   
-इत्यादिक्रमेण इत्याशङ्क्याह वेद्यभेद इति । शिखरस्थेति शिखरस्थस्य हि   
-सत्यपि गृहादिवेद्यभेदे एक एव नगरावभासः स्यात् । ज्ञानस्येति तस्मात्   
-वेद्यस्य काल एव भेदकः स च अतिसूक्ष्मक्षणात्मा अभिमतः येन   
-ज्ञानस्य उत्पादानन्तरं निरोधो भवेत् । ननु सूक्ष्मस्य क्षणस्य किं   
-लक्षणमुच्यते यावत् ज्ञानं तिष्ठति स क्षणः इति न तु अवेद्यो निरंशः   
-काललवक्षण इति तस्य हि निर्वक्तुमशक्यत्वात् ।] शिखरस्थज्ञानवत्   
-ज्ञानस्य यावान् अवस्थितिकालः स एव क्षणः प्राणोदये [ननु ज्ञानं   
-कियत्कालं तिष्ठति इत्याह प्राणोदये चेति प्राणस्य पूर्वोक्तनीत्या   
-तुट्यादिक्रमोऽस्ति इति कथमुक्तं प्राणोदये एकमेव ज्ञानमिति ? मैवम्   
-इत्याह अवश्यमिति ।] च एकस्मिन् एकमेव ज्ञानम् अवश्यं चैतत् अन्यथा   
-विकल्पज्ञानम् एकं न किञ्चित् स्यात् क्रमिकशब्दारूषितत्वात् मात्राया अपि   
-क्रमिकत्वात् । यदाह
+तत्र सदोदिते+++(←वद् [मन्त्रे])+++  
+प्राण-चार-सङ्ख्ययैव +उदय+++(←इ गतौ)+++-सङ्ख्या +++(मन्त्रार्थस्य)+++ व्याख्याता।  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**प्राण-चार-सङ्ख्ययैव** - +++(नित्यं)+++ षट्शताधिकैकविंशतिसहस्र+++(=२४*९००=२१६००)+++-रूपया
+
+**उदयसङ्ख्या** - मन्त्रस्येति शेषः ।
+</details>
+
+<details><summary>English</summary>
+
+The number of rising of mantras is interpreted by the rising of the movement of breath. 
+</details>
+
+
+तद्+++(→प्राणसङ्ख्या)+++-द्वि-गुणिते तद्-अर्धम् +++(मन्त्रोदयः)+++  +++([ख्: तद्विगुणिते इति पाठः ।])+++  
+इत्य्-आदि-क्रमेण  
+अष्टोत्तर-शते +++(जप-)+++चक्रे  
+द्विशत उदयः +++(प्राणस्य)+++। ‌…
+
+<details><summary>English</summary>
+
+When that breath is doubled,  
+the rising becomes half.  
+Therefore, following the same method;  
+the rising occurs with reference to the wheel consisting of 108 divisions, and the rising of the breath becomes 200. 
+</details>
+
+## विश्रान्तिः
+‌… इति क्रमेण  
+स्थूल-सूक्ष्मे चार-स्वरूपे +++(सति)+++,  
+**विश्रान्तस्य**  
+प्राणचारे क्षीणे, काल-ग्रासे वृत्ते,  
+सम्पूर्णम् एकम् एवेदं **संवेदनं**   
+चित्र-शक्ति-निर्भरं **भासते** । 
+
+<details><summary>English</summary>
+
+According to this method,  
+one who is able to rest in the movement of the breath, 
+either gross or subtle, while the movement of breath becomes attenuated and when time is consumed in this manner,  
+for that one everything is experienced as one consciousness which is perfectly full with the variegated śaktis. 
+</details>
+
+काल-भेद एव संवेदन-भेदकः,  
+न वेद्य-भेदः शिखर-स्थ-ज्ञानवत्।+++(5)+++  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ननु कालजनितो भेदो मा भूत्,  
+ज्ञेय-जनितस् तु स्यात्  
+इदं नीलज्ञानम् इत्यादिक्रमेण  
+
+इत्याशङ्क्याह **वेद्यभेद** इति ।
+
+**शिखरस्थे**ति - शिखरस्थस्य हि  
+सत्य् अपि गृहादि-वेद्य-भेदे  
+एक एव नगरावभासः स्यात् ।  
+</details>
+
+<details><summary>English</summary>
+
+The difference of time is the cause of a distinction of knowl edge and not a distinction of a knowable object. It is like the knowledge of one standing on the mountaintop looking downward. 
+</details>
+
+
+ज्ञानस्य यावान् अवस्थिति-कालः, स एव **क्षणः**।  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**ज्ञानस्येति** - तस्मात्   
+वेद्यस्य काल एव भेदकः,  
+स च अति-सूक्ष्म-क्षणात्मा +अभिमतः,  
+येन ज्ञानस्य उत्पादानन्तरं निरोधो भवेत् । 
+
+ननु सूक्ष्मस्य क्षणस्य किं लक्षणम् उच्यते?  
+यावत् ज्ञानं तिष्ठति स क्षणः इति,  
+न तु अवेद्यो निरंशः काल-लव-क्षण इति।  
+तस्य हि निर्वक्तुम् अशक्यत्वात् ।
+</details>
+
+<details><summary>English</summary>
+
+This knowledge, as long as it is existent, is known as 'subtle moment' (kṣana). 
+</details>
+
+
+प्राणोदये च एकस्मिन् एकम् एव ज्ञानम्।  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ननु ज्ञानं कियत्कालं तिष्ठति  
+इत्य् आह - **प्राणोदये चे**ति।  
+</details>
+
+<details><summary>English</summary>
+
+In the rising of one breath, one thought exists.
+</details>
+
+
+अवश्यं चैतत्।  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्राणस्य पूर्वोक्त-नीत्या तुट्य्-आदि-क्रमो ऽस्ति  
+इति कथम् उक्तं प्राणोदये एकमेव ज्ञानमिति ?  
+मैवम् इत्याह अवश्यमिति ।
+</details>
+
+<details><summary>English</summary>
+
+This is correct. 
+</details>
+
+
+अन्यथा  
+विकल्पज्ञानम् एकं न किञ्चित् स्यात् -  
+क्रमिक-शब्दारूषितत्वात्,  
+मात्राया अपि क्रमिकत्वात् ।
+
+<details><summary>English</summary>
+
+Otherwise, the knowledge of a thought-construct (vikalpa) cannot be considered to be one because of its gradual association with the element of a word. 
+
+This is the case even with mātrās [^100] (dirgha, pluta), which are also gradual. 
+
+
+[^100]:
+
+    The number of half mātrās regarding "ka" and so on is thirty-three. Half mātrās of long vowels are thirty-two. Phonemes known as pluta have six half mātrās. Therefore, the total of half mātrās is
+</details>
+
+
 
 [[६१]]
+
+यदाह
+
 
 तस्यादित उदात्तमर्धह्रस्वम् । (पा० व्या० १-२-३२)
 
@@ -1651,14 +1803,11 @@ TANTRASĀRA 97
 
 TANTRASĀRA 99 
 
-When the breath for each phoneme becomes 216 internally, it occurs externally to the extent of thirty-six casakas. This is the rising of the phoneme automatically, all by itself, without any effort. On the other hand, the rising of the mantra with effort is like applying the force of determination to a single effort. Then a teacher, while continuing to think a mantra day and night with the thought of unification, becomes identified with the deity of the mantra. 
 
-The number of rising of mantras is interpreted by the rising of the movement of breath. When that breath is doubled, the rising becomes half. Therefore, following the same method; the rising. occurs with reference to the wheel consisting of 108 divisions, and the rising of the breath becomes 200. According to this method, one who is able to rest in the movement of the breath, either gross or subtle, while the movement of breath becomes attenuated and when time is consumed in this manner, for that one everything is experienced as one consciousness which is perfectly full with the variegated śaktis. 
 
-The difference of time is the cause of a distinction of knowl edge and not a distinction of a knowable object. It is like the knowledge of one standing on the mountaintop looking down ward. This knowledge, as long as it is existent, is known as 'subtle moment' (kṣana). In the rising of one breath, one thought exists. This is correct. Otherwise, the knowledge of a thought-construct (vikalpa) cannot be considered to be one because of its gradual association with the element of a word. This is the case even with mātrās 100 (dirgha, pluta), which are also gradual. As it is said in the Aștādhyāyi 1.2.32: “The first pada of the svarita vowel extending to one-half of the duration of the short vowel is udātta, while the remaining part is anudātta." 
 
-Thus, so long as another vibration does not arise, there is a sin gularity of thought. At the time of bringing the mantra consisting of eighty-one divisions into the realm of memory and by means of entering different forms of attributes, it remains one with refer ence to the determinate thought (vikalpa) of Parameśvara, and the100 TANTRASĀRA 
+As it is said in the Aștādhyāyi 1.2.32: “The first pada of the svarita vowel extending to one-half of the duration of the short vowel is udātta, while the remaining part is anudātta." 
 
-experience free from vikalpa takes place as a result of the absorp tion of time. Thus, seeing the entire path of time in the arising of the breath, counting the diversity of creations and re-absorptions as innumerable and diverse, and cognizing oneself as the one pos sessing the great riches of the Lord, one experiences that he is already liberated. 
+Thus, so long as another vibration does not arise, there is a singularity of thought. At the time of bringing the mantra consisting of eighty-one divisions into the realm of memory and by means of entering different forms of attributes, it remains one with refer ence to the determinate thought (vikalpa) of Parameśvara, and the[^100] experience free from vikalpa takes place as a result of the absorption of time. Thus, seeing the entire path of time in the arising of the breath, counting the diversity of creations and re-absorptions as innumerable and diverse, and cognizing oneself as the one pos sessing the great riches of the Lord, one experiences that he is already liberated. 
 
 Visualizing one's own power of breath, which is nondif ferent from one's own consciousness, which transcends time along with being ever engaged with the wheel of creation, maintenance and dissolution, one becomes one with Bhairava, the Lord. . 
