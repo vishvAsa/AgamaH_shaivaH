@@ -1749,7 +1749,8 @@ This is the case even with mātrās [^100] (dirgha, pluta), which are also gradu
 
 [[६१]]
 
-तस्मात् स्पन्दान्तरं यावत् न उदितं तावत् एकमेव ज्ञानं । 
+तस्मात् स्पन्दान्तरं यावत् न +उदितं  
+तावत् एकम् एव ज्ञानं । 
 
 <details><summary>English</summary>
 
@@ -1757,19 +1758,53 @@ Thus, so long as another vibration does not arise, there is a singularity of tho
 </details>
 
 
-अत [अत   
-इति अनेकधर्मपरामर्शत्वेऽपि एकत्वलक्षणात् । यदुक्तम्
+अत एव   
+एकाशीति-पद-स्मरण-समये  
+विविध-धर्मानु-प्रवेश-मुखेन  
+एक एव +असौ परमेश्वर-विषयो विकल्पः   
+काल-ग्रासेन अ-विकल्पात्मा +एव सम्पद्यते +इति । 
 
-तथा तथा परामर्शशक्तिचक्रेश्वरो विभुः ।  
-स्थूलैकाशीतिपदजपरामर्शैर्विभाव्यते ॥
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-तत एव परामर्शो यावत्येव समाप्यते ।  
-तावत्तत्पदमुक्तं नो सुप्तिङ्नियमयन्त्रितम् ॥इति ।] एव   
-एकाशीतिपदस्मरणसमये विविधधर्मानुप्रवेशमुखेन एक एव असौ   
-परमेश्वरविषयो विकल्पः [विकल्पः शुद्धविद्यारूपः ।]   
-कालग्रासेन अविकल्पात्मा एव सम्पद्यते इति । एवम् अखिलं कालाध्वानं   
-प्राणोदय एव पश्यन् सृष्टिसंहारांश्च विचित्रान् निःसङ्ख्यान् तत्रैव   
-आकलयन् आत्मन एव पारमेश्वर्यं प्रत्यभिजानन् मुक्त एव भवति इति ।
+**अत** इति  
+अनेकधर्म-परामर्शत्वे ऽपि एकत्व-लक्षणात् ।  
+यदुक्तम्
+
+> तथा तथा परामर्श-  
+> शक्ति-चक्रेश्वरो विभुः ।  
+> स्थूलैकाशीति-पद-ज-  
+> परामर्शैर् विभाव्यते ॥
+> 
+> तत एव परामर्शो  
+> यावत्य् एव समाप्यते ।  
+> तावत् तत्-पद-मुक्तं नो  
+> सुप्-तिङ्-नियम-यन्त्रितम् ॥
+
+इति ।
+
+**विकल्पः** शुद्धविद्यारूपः ।
+</details>
+
+<details><summary>English</summary>
+
+At the time of bringing the mantra consisting of eighty-one divisions into the realm of memory  
+and by means of entering different forms of attributes,  
+it remains one with reference to the determinate thought (vikalpa) of Parameśvara, and the [[100]] experience free from vikalpa takes place as a result of the absorption of time. 
+</details>
+
+
+एवम् अखिलं कालाध्वानं   
+प्राणोदय एव पश्यन्  
+सृष्टिसंहारांश् च विचित्रान् निःसङ्ख्यान्  
+तत्रैव आकलयन्  
+आत्मन एव पारमेश्वर्यं प्रत्यभिजानन्  
+मुक्त एव भवति इति ।+++(5)+++
+
+<details><summary>English</summary>
+
+Thus, seeing the entire path of time in the arising of the breath, counting the diversity of creations and re-absorptions as innumerable and diverse, and cognizing oneself as the one pos sessing the great riches of the Lord, one experiences that he is already liberated. 
+</details>
+
 
 संविद्रूपस्यात्मनः प्राणशक्तिं   
 पश्यन्रूपं तत्रगं चातिकालम् ।  
@@ -1811,6 +1846,6 @@ TANTRASĀRA 97
 TANTRASĀRA 99
 
 
-At the time of bringing the mantra consisting of eighty-one divisions into the realm of memory and by means of entering different forms of attributes, it remains one with refer ence to the determinate thought (vikalpa) of Parameśvara, and the[^100] experience free from vikalpa takes place as a result of the absorption of time. Thus, seeing the entire path of time in the arising of the breath, counting the diversity of creations and re-absorptions as innumerable and diverse, and cognizing oneself as the one pos sessing the great riches of the Lord, one experiences that he is already liberated. 
+
 
 Visualizing one's own power of breath, which is nondif ferent from one's own consciousness, which transcends time along with being ever engaged with the wheel of creation, maintenance and dissolution, one becomes one with Bhairava, the Lord. . 
