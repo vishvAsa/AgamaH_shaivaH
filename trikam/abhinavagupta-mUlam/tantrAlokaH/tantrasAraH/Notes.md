@@ -5,10 +5,6 @@ title = "Notes"
 
 ## ०७ 
 
-[^105]:
-
-    According to this system, there are ten 'guardians of the quarters' in accordance with the number of directions. The guardians of each direction are composed of a group of ten, consisting of a superintending deity and nine subordinates. Taken as ten groups of ten guardians, the total number becomes 100 deities; therefore, they are known as the “Hundred Rudras" (Satarudras). 
-
 [^106]:
 
     This system envisions a limitless number of 'worlds' made from and dominated by each principle. These worlds exist so that souls which have not received the Saiva form of initiation, but have attained a lower form of perfection through a continuous practice of concentration, receive a body and sense organs best suited for experiencing pleasure and pain in a particular world, and may finally attain identity with the Lord. Every world has superintend ing deities who are called the Lords of that world. 

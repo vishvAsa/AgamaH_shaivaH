@@ -129,20 +129,11 @@ In this way, one should become well acquainted with the knowledge of prakriyā. 
 </details>
 
 
+## तत्त्वानि
 {{< figure src="/AgamaH_shaivaH/images/Tattvas36.gif" title="" class="thumbnail">}}
 
 तत्र **पृथिवी-तत्त्वं** शत-कोटि-प्रविस्तीर्णं,  
 ब्रह्माण्ड-गोलक-रूपम्।    
-
-<details><summary>English</summary>
-
-The following is the scheme of prakriyā:   
-in the path of space, the expansion of the earth principle (prthivītattva) extends one hundred crores in length. It is spherical like the egg of Brahmā (Brahmānda).[^104]
-
-[^104]:
-
-    Worlds of a variegated nature are included under the principle of earth. The sphere under which they shine is called the sphere of Brahmā. Similarly, other spheres, e.g., the sphere of prakr̥ti, the sphere of māyā, and the sphere of śakti, are wider than the preceding one. All the principles from water to prakr̥ti come under the sphere of prakr̥ti. All the principles from puruṣa to māyā come under the sphere of māyā. The extent of the sphere of śakti extends up to the Sadāśiva principle. Thus, the number of spheres (andas) is four. The spheres are the masses of substance which have fallen from the state of energy.
-</details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -159,16 +150,53 @@ _वस्तूनां_ तन्व्-अक्षादीनां _प�
 इत्य्-एवम्-आदीन्य् अण्डानि ।
 </details>
 
+<details><summary>English</summary>
+
+The following is the scheme of prakriyā:   
+in the path of space, the expansion of the earth principle (prthivītattva) extends one hundred crores in length. It is spherical like the egg of Brahmā (Brahmānda).[^104]
+
+[^104]:
+
+    Worlds of a variegated nature are included under the principle of earth. The sphere under which they shine is called the sphere of Brahmā. Similarly, other spheres, e.g., the sphere of prakr̥ti, the sphere of māyā, and the sphere of śakti, are wider than the preceding one. All the principles from water to prakr̥ti come under the sphere of prakr̥ti. All the principles from puruṣa to māyā come under the sphere of māyā. The extent of the sphere of śakti extends up to the Sadāśiva principle. Thus, the number of spheres (andas) is four. The spheres are the masses of substance which have fallen from the state of energy.
+</details>
 
 तस्य +अन्तः  
 कालाग्निर्, नरकाः, पातालानि, पृथिवी, स्वर्गो यावद् ब्रह्मलोक  
 इति ।  
+
+<details><summary>English</summary>
+
+[[102]]
+At the lower end of that Brahmānda is  
+the 'fire of time' (kālāgni),  
+followed by hell, the nether worlds, earth, and heaven, which extend to the world of Brahmā.
+</details>
+
+
 ब्रह्माण्ड-बाह्ये रुद्राणां शतम् ।  
 **न** च ब्रह्माण्डानां **सङ्ख्या** विद्यते ।  
 
+<details><summary>English</summary>
+
+Outside the egg of Brahmā are the worlds of the hundred rudras (satarudras).[^105] There is no fixed number of Brahmā's worlds. 
+
+[^105]:
+
+    According to this system, there are ten 'guardians of the quarters' in accordance with the number of directions. The guardians of each direction are composed of a group of ten, consisting of a superintending deity and nine subordinates. Taken as ten groups of ten guardians, the total number becomes 100 deities; therefore, they are known as the “Hundred Rudras" (Satarudras).
+</details>
+
 
 ततो धरा-तत्त्वात् दश-गुणं **जलतत्त्वम्** ।   
-तत उत्तरोत्तरं दश-गुणम् अहङ्कारान्तम् ।  
+तत उत्तरोत्तरं दश-गुणम् अहङ्कारान्तम् +++(प्रत्येकं तत्त्वम्)+++ ।  
+
+<details><summary>English</summary>
+
+The principle called water (jala) is ten times the size of the earth. In this way, each subsequent principle ending with egoity (ahamkāra) is ten times the size of the previous tattva.[^106]
+
+
+</details>
+
+
 तद् यथा -  
 जलं, तेजो, वायुर्, नभः,  
 तन्-मात्र-पञ्चक+अक्षैकादश+++(←ज्ञान-कर्मेन्द्रिय-मनांसि)+++-गर्भो **ऽहङ्कारश्** चेति । 
@@ -185,95 +213,153 @@ _वस्तूनां_ तन्व्-अक्षादीनां _प�
 इति ।
 </details>
 
+<details><summary>English</summary>
+
+These tattvas are: water, fire, air, ākāśa, the five subtle elements (tanmātras), the five motor organs, the five sense organs, the mind (manas), and finally the ego (ahamkāra).
+</details>
+
+
 अहङ्कारात् शतगुणं **बुद्धितत्त्वम्**।  
+
+<details><summary>English</summary>
+
+The principle of intellect or buddhi tattva[^107] is one hundred times the size of 'egoity' (ahaṁkāra). 
+</details>
+
 
 [[६५]]  
 ततः सहस्रधा **प्रकृति-तत्त्वम्**।  
 एतावत् **प्रकृत्य्-अण्डम्** ।  
 तच् च ब्रह्माण्डवत् **असङ्ख्यम्** ।     
 
+<details><summary>English</summary>
+
+The principle of primodial nature, or prakr̥ti, is one thousand times more extensive than the buddhi. This is the extent of the sphere of praksti (praksti anda).[^108]. The spheres of praksti are also innumerable, just like the spheres of Brahmā. 
+</details>
+
+
 प्रकृतितत्त्वात् **पुरुषतत्त्वं** च दशसहस्रधा ।  
 पुरुषात् **नियतिः** लक्षधा ।   
 
-नियतेर् उत्तरोत्तरं दश-लक्ष-धा **कला-तत्त्वान्तम्** ।  
+<details><summary>English</summary>
+
+The puruṣa principle is ten thousand times larger than the principle of praksti. The principle of 'natural law,' or niyati, is one hundred thousand times larger than that of puruṣa. 
+</details>
+
+
+नियतेर् उत्तरोत्तरं **दश-लक्ष-धा** +++(प्रति-तत्त्वम्)+++ कला-तत्त्वान्तम् ।  
 तद् यथा -  
-नियतिः, रागः, अशुद्ध-विद्या, कालः, कला चेति । 
+**नियतिः, रागः, अशुद्ध-विद्या, कालः, कला** चेति । 
+
+<details><summary>English</summary>
+
+From niyati up to the principle of limited doership, or kalā, each subsequent principle is one hundred thousand times larger than the preceding one.  
+These principles are 'natural law' (niyati), 'attachment' (rāga). 'impure knowledge' (aśuddhavidyā), 'time' (kāla), and 'limited doership’ (kalā). 
+</details>
+
 
 कला-तत्त्वात् कोटिधा **माया**।  
 एतावत् **मायाण्डम्** ।   
 
+<details><summary>English</summary>
+
+The māyā principle is ten million times larger than kalā. This makes up the 'sphere of māyā' (māyānda). 
+</details>
+
+
 मायातत्त्वात् **शुद्ध-विद्या** दश-कोटि-गुणिता ।  
 विद्या-तत्त्वात् **ईश्वरतत्त्वं** शत-कोटि-धा ।
 
+<details><summary>English</summary>
+
+The principle of 'pure knowledge' (śuddhavidyā) is ten million times larger than māyā. The īśvara principle is ten million times the size of śuddhavidyā, 
+</details>
+
+
 ईश्वरतत्त्वात् **सादाख्यं** सहस्रकोटिधा।  
 +++([क्: सादाशिवाख्यं सहस्रकोटिधा सादाशिवाख्यादिति पाठः ।])+++
+
+<details><summary>English</summary>
+
+while the sadāśiva principle is one billion times the size of the iśvara principle. The śakti tattva is one billion times larger than sadāśiva.
+</details>
 
 
 सादाख्यात् वृन्द-गुणितं **शक्ति-तत्त्वम्**।   
 इति **शक्त्य्-अण्डम्** । 
 
+<details><summary>English</summary>
+
+This is known as the 'sphere of śakti' (śaktianda). 
+</details>
+
+
 सा शक्तिर् **व्याप्य** यतो विश्वम् अध्वानम् अन्तर् बहिर् **आस्ते**  
 तस्मात् **व्यापिनी** । 
+
+<details><summary>English</summary>
+
+As this śakti exists pervading all paths externally and internally, it is called vyāpini. 
+</details>
+
 
 एवम् एतानि +उत्तरोत्तरम् आवरणतया वर्तमानानि तत्त्वानि  
 उत्तरं **व्यापकं**, पूर्वं **व्याप्यम्**  
 इति स्थित्या वर्तन्ते । 
 
+<details><summary>English</summary>
+
+All these subsequent principles exist as the sheaths of the prior one. [[103]]
+The subsequent one is pervasive and the prior one is pervaded. 
+</details>
+
+
 यावद् अशेष-शक्ति-तत्वान्तो ऽध्वा  
 **शिवतत्त्वेन** व्याप्तः ।   
-शिवतत्त्वं पुनर् अप्रमेयं सर्वाध्वोत्तीर्णं, सर्वाध्वव्यापकं च ।   
+शिवतत्त्वं पुनर् अप्रमेयं **सर्वाध्वोत्तीर्णं**, सर्वाध्वव्यापकं च ।   
+
+<details><summary>English</summary>
+
+However, all of the paths, ending with śakti, are pervaded by śiva.  
+Furthermore, śivatattva, being immeasurable, transcends and pervades all six paths. 
+</details>
+
+## तत्त्वपतयः
 
 एतत् तत्त्वान्तराल-वर्तीनि यानि भुवनानि,  
 **तत्-पतय** एव  
 अत्र **पृथिव्यां स्थिता** इति ।
 
-[[102]]
-At the lower end of that Brahmānda is the 'fire of time' (kālāgni), followed by hell, the nether worlds, earth, and heaven, which extend to the world of Brahmā. Outside the egg of Brahmā are the worlds of the hundred rudras (satarudras).105 There is no fixed number of Brah mā's worlds. The principle called water (jala) is ten times the size of the earth. In this way, each subsequent principle ending with egoity (ahamkāra) is ten times the size of the previous tattva.106 These tattvas are: water, fire, air, ākāśa, the five subtle elements (tanmātras), the five motor organs, the five sense organs, the mind (manas), and finally the ego (ahamkāra): The principle of intel lect or buddhi tattva107 is one hundred times the size of 'egoity' (ahaṁkāra). The principle of primodial nature, or prakr̥ti, is one thousand times more extensive than the buddhi. This is the extent of the sphere of praksti (praksti anda).108. The spheres of praksti are also innumerable, just like the spheres of Brahmā. 
+<details><summary>English</summary>
 
-The puruṣa principle is ten thousand times larger than the prin ciple of praksti. The principle of 'natural law,' or niyati, is one hundred thousand times larger than that of puruṣa. From niyati up to the principle of limited doership, or kalā, each subsequent prin ciple is one hundred thousand times larger than the preceding one. These principles are 'natural law' (niyati), 'attachment' (rāga). 'impure knowledge' (aśuddhavidyā), 'time' (kāla), and 'limited doership’ (kalā). The māyā principle is ten million times larger than kalā. This makes up the 'sphere of māyā' (māyānda). The principle of 'pure knowledge' (śuddhavidyā) is ten million times larger than māyā. The īśvara principle is ten million times the size of śuddhavidyā, while the sadāśiva principle is one billion times the size of the iśvara principle. The śakti tattva is one billion times larger than sadāśiva. This is known as the 'sphere of śakti' (śaktianda). As this śakti exists pervading all paths externally and internally, it is called vyāpini. All these subsequent principles exist as the sheaths of the prior one. The subsequent one is per 
+The Lords of the worlds who exist in the intervening regions of each principle also have their abode on this earth. 
+</details>
 
-TANTRASĀRA 103 
 
-vasive and the prior one is pervaded. However, all of the paths, ending with śakti, are pervaded by śiva. Furthermore, śivatattva, being immeasurable, transcends and pervades all six paths. The Lords of the worlds who exist in the intervening regions of each principle also have their abode on this earth. Those who died in these places are offered respective places by the Lords. Then they lead them from one lower region to the upper one by means of the procedure of initiation. 
-
-तद्यथा 
-
-कालाग्निः कूष्माण्डो - नरकेशो हाटकोऽथ भूतलपः। ब्रह्मा मुनिलोकेशो 
-
-रुद्रः पञ्चाण्डमध्यगतः ।। अधरेऽनन्तः प्राच्याः 
-
-कपालिवयन्तनिर्ऋतिबालाख्याः।। लघुनिधिपतिविद्याधिप ___ शम्भूर्ध्वान्तं स वीरभद्रपतिः ।। इति षोडशपुरमेतत् - 
-
-पार्थिवमण्डं निवृत्तिकला। लकुलीशभारभूति 
-
-र्दिण्ड्याषाढी च पुष्करनिमेषौ ।। प्रभाससुरेशाविति 
-
-सलिले प्रत्यात्मकाष्टकं प्रोक्तम् | भैरवकेदारमहा 
-
-कालामध्याम्रजल्पाख्याः || श्रीशैलहरिश्चन्द्रा 
-
-विति गुह्याष्टकमिदं महसि । भीमेन्द्राट्टाः सविमल 
-
-कनखलनाखलकुरुस्थितिगयाख्याः ।। 
-
-104 TANTRASĀRA 
-
-The fire of time, Kuṣumānda, the Lord of the nether world, Hataka, the cauldron of the earth, Brahma, Muni, Lokesa, and Rudras reside in the intermediate regions of five spheres (andas). Below Ananta exists 
-
-Kapalin, Agni, Yama, Nirrti, Bala, Sigra, Nidhisvara, the Lord of vidyās-śambhu, and at the end of the head is Vīrabhadra. These sixteen worlds are included in the sphere of the earth, and kalā is nivrtti (which is the ele ment that gives birth to the sphere). These eight are called the Lords of water: Lakulīśa, Bhārabhuti, Dindi, Asadhi, Puskara, Nimesa, Prabhāsa, 
-
-· and Sureśa. Bhairava, Kedāra, Mahākāla, Madhyāmra, Jalpa, SriSaila, and Hariscandra are called Guhyāstaka, the eight secret gods who exist in the principle of fire. 
 
 [[६६]]
-तेषु आयतनेषु ये म्रियन्ते  
-तेषां तत्र तत्र गतिं ते वितरन्ति ।  
-क्रमाच् च +ऊर्ध्वोर्ध्वं प्रेरयन्ति दीक्षाक्रमेण ।  
+तेषु आयतनेषु **ये म्रियन्ते**  
+**तेषां** तत्र तत्र **गतिं** ते **वितरन्ति** ।  
+क्रमाच् च +ऊर्ध्वोर्ध्वं **प्रेरयन्ति दीक्षाक्रमेण** ।
+
+<details><summary>English</summary>
+
+Those who died in these places are offered respective places by the Lords. Then they lead them from one lower region to the upper one by means of the procedure of initiation.
+</details>
+
+
 तद् यथा
 
 कालाग्निः कूष्माण्डो  
-**नरकेशो** हाटकोऽथ **भूतलपः** ।  
-ब्रह्मा **मुनिलोकेशो**  
+नरकेशो हाटकोऽथ भूतलपः ।  
+ब्रह्मा मुनिलोकेशो  
 रुद्रः **पञ्चाण्ड-मध्यगतः** ॥
+
+<details><summary>English</summary>
+
+The fire of time, Kuṣumānda, the Lord of the nether world, Hataka, the cauldron of the earth, Brahma, Muni, Lokesa, and Rudras reside in the intermediate regions of five spheres (andas). 
+</details>
+
 
 **अधरे** ऽनन्तः प्राच्या   
 कपालि-वह्न्य्-अन्त-निर्ऋति-बालाख्याः ।  
@@ -284,6 +370,11 @@ Kapalin, Agni, Yama, Nirrti, Bala, Sigra, Nidhisvara, the Lord of vidyās-śambh
 पार्थिवम् अण्डं निवृत्ति-कला ।  
 लकुलीश-भार-भूतिर्  
 दिण्ड्य् आषाढी च पुष्कर-निमेषौ ॥
+
+Below Ananta exists Kapalin, Agni, Yama, Nirrti, Bala, Sigra, Nidhisvara, the Lord of vidyās-śambhu, and at the end of the head is Vīrabhadra. These sixteen worlds are included in the sphere of the earth, and kalā is nivrtti (which is the ele ment that gives birth to the sphere). These eight are called the Lords of water: Lakulīśa, Bhārabhuti, Dindi, Asadhi, Puskara, Nimesa, Prabhāsa, and Sureśa. Bhairava, Kedāra, Mahākāla, Madhyāmra, Jalpa, SriSaila, and Hariscandra are called Guhyāstaka, the eight secret gods who exist in the principle of fire.
+
+
+Sthūla, Shūleśvara, Sankukarṇa, Kālañjara, Mandala bhịt, Mākoṭa, Duranda and Chagalanda, [these eight] remain in the principle called ego (ahamkāra). According to the view of some, however, the subtle ele ments and sense organs have their location in the prin ciple of ego (ahamkāra). In the principle called intellect, the group of eight heav enly born beings is located, while in prakr̥ti the group of eight yogas beginning with aksta, etc., is found. [^109] These 'worlds of seven groups of eight beings' resting in the kalā named pratiṣthā are located in the water principle and are pervaded up to prakr̥ti. In the puruṣa principle are located[^110] the worlds of the eleven rudras called vāma and so on. The principles of impure vidyā, kalā, and niyati have two worlds each,[^111] while the principle kala has three, and the principle māyā has eight worlds. [^112] Thus, from puruṣa to māyā the num ber of worlds is twenty-eight. In pure vidyā there are five worlds, [^113] and in the iśvara principle the number [of worlds] belonging to the Lords of vidyās is eight. In the principle called sadākhya there are five worlds, while in the kalā сalled sāntā there are eighteen worlds.[^114] Conceiving all these paths (adhvas) either in the body, or in the vital energy, or in the intellect, or in the great void of consciousness as the highest, one attains the fullness of Bhairava.  
 
 प्रभास-सुरेशाव् इति  
 **सलिले** प्रत्यात्मकाष्टकं प्रोक्तम् ।  
@@ -337,27 +428,32 @@ Kapalin, Agni, Yama, Nirrti, Bala, Sigra, Nidhisvara, the Lord of vidyās-śambh
 </details>
 
 
-सादाख्ये पञ्चकमिति  
-अष्टादशभुवनिका शान्ता ।  
-अध्वानमिमं सकलं  
-देहे प्राणेऽथ धियि महानभसि ॥
+**सादाख्ये** पञ्चकम् इति  
+अष्टादश-भुवनिका शान्ता ।  
+अध्वानम् इमं सकलं  
+देहे प्राणेऽथ धियि महा-नभसि ॥
 
-संविदि च परं पश्यन्-  
-पूर्णत्वाद्भैरवीभवति ॥
+**संविदि** च परं **पश्यन्**-  
+पूर्णत्वाद् **भैरवी भवति** ॥
 
 [[६८]]
+ 
 
-[छाया
-
-परमेश्वरशासनसुनिरूपित-  
-सुविमलसकलाध्वानम् ।  
-धियि नभसि शरीरे प्राणे  
-संविदि निरीक्ष्य पश्यति परमेशम् ॥]  
-
-परमेसरसासणसुणिरु-इ-उ  
-सुणिविम-अल-अद्धाण-उ ।  
-झहुज्झतिसरीरिपवणि  
+परमेसर-सासण-सुणिरुइउ  
+सुणिविमअल-अद्धाणउ ।  
+झहुज्झति-सरीरि-पवणि  
 संवे-अ णि-अपेक्खन्त-उ पहुर-इ परि-उण्णु ॥
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+छाया
+
+परमेश्वर-शासन-सु-निरूपित-  
+सुविमल-सकलाध्वानम् ।  
+धियि नभसि शरीरे प्राणे  
+संविदि **निरीक्ष्य पश्यति** परमेशम् ॥
+</details>
+
 
 इति श्रिमदभिनवगुप्ताचार्यविरचिते तन्त्रसारे देशाध्वप्रकाशनं नाम   
 सप्तममाह्निकम् ॥७॥
@@ -366,7 +462,7 @@ The group of eight highly secret gods is situated in the principle of air in the
 
 106 TANTRASĀRA 
 
-Sthūla, Shūleśvara, Sankukarṇa, Kālañjara, Mandala bhịt, Mākoṭa, Duranda and Chagalanda, [these eight] remain in the principle called ego (ahamkāra). According to the view of some, however, the subtle ele ments and sense organs have their location in the prin ciple of ego (ahamkāra). In the principle called intellect, the group of eight heav enly born beings is located, while in prakr̥ti the group of eight yogas beginning with aksta, etc., is found. 109 These 'worlds of seven groups of eight beings' resting in the kalā named pratiṣthā are located in the water principle and are pervaded up to prakr̥ti. In the puruṣa principle are located110 the worlds of the eleven rudras called vāma and so on. The principles of impure vidyā, kalā, and niyati have two worlds each,111 while the principle kala has three, and the principle māyā has eight worlds. 112 Thus, from puruṣa to māyā the num ber of worlds is twenty-eight. In pure vidyā there are five worlds, 113 and in the iśvara principle the number [of worlds] belonging to the Lords of vidyās is eight. In the principle called sadākhya there are five worlds, while in the kalā сalled sāntā there are eighteen worlds.114 Conceiving all these paths (adhvas) either in the body, or in the vital energy, or in the intellect, or in the great void of consciousness as the highest, one attains the fullness of Bhairava.  
+
 
 <details><summary>English</summary>
 
