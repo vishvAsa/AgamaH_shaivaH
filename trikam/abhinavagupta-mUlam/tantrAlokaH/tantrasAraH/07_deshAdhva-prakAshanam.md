@@ -2,9 +2,150 @@
 title = "07  देशाध्व-प्रकाशनम्"
 
 +++
-' अथ सप्तममाह्निकम् । 
+अथ सप्तममाह्निकम् । 
 
-- अथ देशाध्वा । तत्र समस्त एव अयं मूर्तिवैचित्र्याभासनशक्तिजो देशाध्वा संविदि विश्रान्तः, तंदद्वारेण शून्ये बुद्धौ प्राणे नाडीचक्रानुचक्रेषु बहिः शरीरे यावल्लिङ्गस्थण्डिल प्रतिमादौ समस्तोऽध्वा परिनिष्ठितः, तं समस्तम् अध्वानं देहे विलाप्य, देहं च प्राणे, तं धियि, तां शून्ये, तत्संवेदने, निर्भरपरिपूर्णसंवित् संपद्यते षत्रिंशत्तत्त्वस्वरूपज्ञः, तदुत्तीर्णां संविदं परमशिवरूपां पश्यन् विश्वमयीमपि संवेदयेत्, अपरथा वेद्यभागमेव कंचित् परत्वेन गृह्णीयात् मायागर्भाधिकारिणं विष्णुब्रह्मादिकं वा, तस्मात अवश्यं प्रक्रियाज्ञानपरेण भवितव्यम् । तदुक्तं 'न प्रक्रियापरं ज्ञानम् .. . .. .. I' इति । तत्र पृथिवीतत्त्वं शतकोटिप्रविस्तीर्ण ब्रह्माण्डगोलकरूपम् । तस्य अन्तः कालाग्निर्नरकाः पातालानि पृथिवी स्वर्गो यावद्ब्रह्मलोक इति । ब्रह्माण्डबाह्ये रुद्राणां शतं । न च ब्रह्माण्डानां संख्या विद्यते । ततो धरातत्त्वात् दशगुणं जलतत्त्वं । तत उत्तरोत्तरं दशगुणम् 
+<details><summary>English</summary>
+
+Chapter Seven .... 
+</details>
+
+
+अथ देशाध्वा ।
+
+<details><summary>English</summary>
+
+The Path of Space 
+</details>
+
+## परं संवेदनम्
+तत्र समस्त एव अयं मूर्ति-वैचित्र्याभासन-शक्ति-जो देशाध्वा  
+**संविदि विश्रान्तः**। 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्राच्यभागे कालाध्वा उत्तरे तु देशाध्वा इति कालाध्वानमुक्त्वा   
+देशाध्वानं वक्तुम् उपक्रमते **तत्रे**ति ।
+
+पदार्थस्य स्वं रूपं **मूर्तिः** ।
+</details>
+
+<details><summary>English</summary>
+
+The entire 'path of space' (desādhva) [^101] born of śakti, which creates diverse forms, rests in consciousness. 
+
+[^101]:
+
+    According to this system, the Lord's power of action (kriyāśakti) manifests time and space as 'paths' (adhvas). The path of space is a means of unifying and traversing insubstantial and substantial forms such as the intellect, the altar or image, the void. Despite this diversity, all these forms abide in consciousness and have their place of repose (viśrānti) in consciousness.
+</details>
+
+
+तद्+++(→संविद्)+++-द्वारेण  
++++(तत्सृष्टे)+++ शून्ये बुद्धौ, प्राणे,  
+नाडी-चक्रानुचक्रेषु, बहिः शरीरे यावल् लिङ्ग-स्थण्डिल-प्रतिमादौ  
+समस्तो ऽध्वा **परिनिष्ठितः**।  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**तद्द्वारेण** -  संविद्द्वारेण  
+तत्सृष्टे शून्यादाव् अध्वा स्थितः । यदुक्तम्
+
+> अध्वा समस्त एवायं  
+> चिन्मात्रे संव्यवस्थितः ।  
+> यत् तत्र नहि विश्रान्तं  
+> तन् नभः-कुसुमायते ॥  
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+This entire path, through the outlet of consciousness, [^102] attains its extreme external limit in the void (sūnya), intellect, prāṇa, and the groups of chan nels and subchannels. Then it expands externally in the body and (all the way) to the extent of the linga, altar, and even the image of deity, etc.
+
+[^102]:
+
+    On the path, all forms shine internally and externally through the outlets of consciousness; this is how they are created and manifested. Consciousness, in its autonomy, shines as both the knowing subject and its object. The variety of objects, though not different from the knowing subject, appears as if different from it.
+</details>
+
+
+
+तं समस्तम् अध्वानं  
+**देहे विलाप्य**,  
+देहं च प्राणे,  
+तं धियि,  
+तां शून्ये,  
+तत्-संवेदने निर्भर-परिपूर्ण-संवित् **सम्पद्यते**।    
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यदुक्तम्
+
+>> पृथिवी कठिनत्वेन  
+>> द्रव्यत्वेऽम्भः प्रकीर्तितम् ।  
+> 
+> इत्यादि नीत्या समस्तोऽध्वा देहलीन 
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+~~The knower of the truth of the real nature of the thirty-six tattvas~~  first dissolves all these paths into the body, [then from] the body into prāṇa, prāṇa into intellect, intellect into void, and finally void into consciousness.
+In this way, this kind of yogin becomes permeated with consciousness not dependent on any thing external.
+</details>
+
+
+
+षट्-त्रिंशत्-तत्त्व-स्वरूप-**ज्ञः**  
+तद्-उत्तीर्णां **संविदं** परम-शिव-रूपां **पश्यन्**  
+विश्वमयीम् अपि **संवेदयेत**।  
+
+<details><summary>English</summary>
+
+The knower of the truth of the real nature of the thirty-six tattvas. Then he experiences consciousness as Paramaśiva, and transcending even that state, he experiences himself as being immanent as well.[^103]
+
+[^103]:
+
+    The aspirant attains the nature of Bhairava by perceiving everything, from the all-consuming fire (kālāgni) said to abide at the bottom of the earth, to the highest principle, i.e., anāśritaśiva, in ascending order and unifying them into the singularity of I-Consciousness. [[237]] 
+</details>
+
+## अपरमार्गः
+अपरथा वेद्य-भागम् एव कञ्चित्  
+परत्वेन **गृह्णीयात्**,  
+माया-गर्भाधिकारिणं विष्णु-ब्रह्मादिकं वा।   
+
+<details><summary>English</summary>
+
+However, in a lesser way (if one is unable to experience the fullness of consciousness), one may take up a portion of know ables such as Brahmā or Viṣnu, the superintending deities of the sphere of māyā, as the highest. 
+</details>
+
+## प्रक्रिया
+
+तस्माद् अवश्यं प्रक्रिया-ज्ञान-परेण भवितव्यम् ।  
+तदुक्तं "न प्रक्रियापरं ज्ञानम्" इति ।  
+
+<details><summary>English</summary>
+
+In this way, one should become well acquainted with the knowledge of prakriyā. As it is said: “There is no knowledge superior to prakriyā." 
+</details>
+
+
+तत्र **पृथिवी-तत्त्वं** शत-कोटि-प्रविस्तीर्णं,  
+ब्रह्माण्ड-गोलक-रूपम्।    
+
+<details><summary>English</summary>
+
+in the path of space, the expansion of the earth principle (prthivītattva) extends one hundred crores in length. It is spherical like the egg of Brahmā (Brahmānda).[^104]
+
+[^104]:
+
+    Worlds of a variegated nature are included under the principle of earth. The sphere under which they shine is called the sphere of Brahmā. Similarly, other spheres, e.g., the sphere of prakr̥ti, the sphere of māyā, and the sphere of śakti, are wider than the preceding one. All the principles from water to prakr̥ti come under the sphere of prakr̥ti. All the principles from puruṣa to māyā come under the sphere of māyā. The extent of the sphere of śakti extends up to the Sadāśiva principle. Thus, the number of spheres (andas) is four. The spheres are the masses of substance which have fallen from the state of energy.
+</details>
+
+
+
+
+
+तस्य अन्तः कालाग्निर्नरकाः पातालानि पृथिवी स्वर्गो यावद्ब्रह्मलोक इति । ब्रह्माण्डबाह्ये रुद्राणां शतं । न च ब्रह्माण्डानां संख्या विद्यते । ततो धरातत्त्वात् दशगुणं जलतत्त्वं । तत उत्तरोत्तरं दशगुणम् 
 
 अहंकारान्तं । तद्यथा जलं तेजो वायुर्नभः तन्मात्रपञ्चकाक्षैकादशगर्भोऽहंकारश्ची ति । अहंकारात् शतगुणं बुद्धितत्त्वं । ततः सहस्रधा प्रकृतित्त्वं, एतावत्प्रकृत्यण्डम् | तच्च ब्रह्माण्डवत् असंख्यम्। प्रकृतितत्त्वात् पुरुषतत्त्वं च दशसहस्रधा । पुरुषात् नियतिः लक्षधा । नियतेरुत्तरोत्तरं दशलक्षधा कलातत्त्वान्तम् । तद्यथा नियतिः रागः अशुद्धविद्या कालः कला चेति। कलातत्त्वात् कोटिधा माया, एतावत् मायाण्डम् । मायातत्त्वात् शुद्धविद्या दशकोटिगुणिता । विद्यातत्त्वात् 
 
@@ -14,17 +155,8 @@ TANTRASĀRA 101
 
 : 
 
-Chapter Seven .... 
-
-The Path of Space The entire 'path of space' (desādhva) 101 born of śakti, which creates diverse forms, rests in consciousness. This entire path, through the outlet of consciousness, 102 attains its extreme external limit in the void (sūnya), intellect, prāṇa, and the groups of chan nels and subchannels. Then it expands externally in the body and (all the way) to the extent of the linga, altar, and even the image of deity, etc. 
-
-The knower of the truth of the real nature of the thirty-six tattvas first dissolves all these paths into the body, [then from] the body into prāṇa, prāṇa into intellect, intellect into void, and finally void into consciousness. In this way, this kind of yogin becomes permeated with consciousness not dependent on any thing external. Then he experiences consciousness as Paramaśiva, and transcending even that state, he experiences himself as being immanent as well.103 
-
-However, in a lesser way (if one is unable to experience the fullness of consciousness), one may take up a portion of know ables such as Brahmā or Viṣnu, the superintending deities of the sphere of māyā, as the highest. In this way, one should become well acquainted with the knowledge of prakriyā. As it is said: “There is no knowledge superior to prakriyā." The following is 
-
-102 TANTRASĀRA 
-
-the scheme of prakriyā: in the path of space, the expansion of the earth principle (prthivītattva) extends one hundred krors in length. It is spherical like the egg of Brahmā (Brahmānda).104 At the lower end of that Brahmānda is the 'fire of time' (kālāgni), followed by hell, the nether worlds, earth, and heaven, which extend to the world of Brahmā. Outside the egg of Brahmā are the worlds of the hundred rudras (satarudras).105 There is no fixed number of Brah mā's worlds. The principle called water (jala) is ten times the size of the earth. In this way, each subsequent principle ending with egoity (ahamkāra) is ten times the size of the previous tattva.106 These tattvas are: water, fire, air, ākāśa, the five subtle elements (tanmātras), the five motor organs, the five sense organs, the mind (manas), and finally the ego (ahamkāra): The principle of intel lect or buddhi tattva107 is one hundred times the size of 'egoity' (ahaṁkāra). The principle of primodial nature, or prakrti, is one thousand times more extensive than the buddhi. This is the extent of the sphere of praksti (praksti anda).108. The spheres of praksti are also innumerable, just like the spheres of Brahmā. 
+[[102]]
+The following is the scheme of prakriyā:  At the lower end of that Brahmānda is the 'fire of time' (kālāgni), followed by hell, the nether worlds, earth, and heaven, which extend to the world of Brahmā. Outside the egg of Brahmā are the worlds of the hundred rudras (satarudras).105 There is no fixed number of Brah mā's worlds. The principle called water (jala) is ten times the size of the earth. In this way, each subsequent principle ending with egoity (ahamkāra) is ten times the size of the previous tattva.106 These tattvas are: water, fire, air, ākāśa, the five subtle elements (tanmātras), the five motor organs, the five sense organs, the mind (manas), and finally the ego (ahamkāra): The principle of intel lect or buddhi tattva107 is one hundred times the size of 'egoity' (ahaṁkāra). The principle of primodial nature, or prakr̥ti, is one thousand times more extensive than the buddhi. This is the extent of the sphere of praksti (praksti anda).108. The spheres of praksti are also innumerable, just like the spheres of Brahmā. 
 
 The puruṣa principle is ten thousand times larger than the prin ciple of praksti. The principle of 'natural law,' or niyati, is one hundred thousand times larger than that of puruṣa. From niyati up to the principle of limited doership, or kalā, each subsequent prin ciple is one hundred thousand times larger than the preceding one. These principles are 'natural law' (niyati), 'attachment' (rāga). 'impure knowledge' (aśuddhavidyā), 'time' (kāla), and 'limited doership’ (kalā). The māyā principle is ten million times larger than kalā. This makes up the 'sphere of māyā' (māyānda). The principle of 'pure knowledge' (śuddhavidyā) is ten million times larger than māyā. The īśvara principle is ten million times the size of śuddhavidyā, while the sadāśiva principle is one billion times the size of the iśvara principle. The śakti tattva is one billion times larger than sadāśiva. This is known as the 'sphere of śakti' (śaktianda). As this śakti exists pervading all paths externally and internally, it is called vyāpini. All these subsequent principles exist as the sheaths of the prior one. The subsequent one is per 
 
@@ -98,6 +230,6 @@ The group of eight highly secret gods is situated in the principle of air in the
 
 106 TANTRASĀRA 
 
-Sthūla, Shūleśvara, Sankukarṇa, Kālañjara, Mandala bhịt, Mākoṭa, Duranda and Chagalanda, [these eight] remain in the principle called ego (ahamkāra). According to the view of some, however, the subtle ele ments and sense organs have their location in the prin ciple of ego (ahamkāra). In the principle called intellect, the group of eight heav enly born beings is located, while in prakrti the group of eight yogas beginning with aksta, etc., is found. 109 These 'worlds of seven groups of eight beings' resting in the kalā named pratiṣthā are located in the water principle and are pervaded up to prakrti. In the puruṣa principle are located110 the worlds of the eleven rudras called vāma and so on. The principles of impure vidyā, kalā, and niyati have two worlds each,111 while the principle kala has three, and the principle māyā has eight worlds. 112 Thus, from puruṣa to māyā the num ber of worlds is twenty-eight. In pure vidyā there are five worlds, 113 and in the iśvara principle the number [of worlds] belonging to the Lords of vidyās is eight. In the principle called sadākhya there are five worlds, while in the kalā сalled sāntā there are eighteen worlds.114 Conceiving all these paths (adhvas) either in the body, or in the vital energy, or in the intellect, or in the great void of consciousness as the highest, one attains the 
+Sthūla, Shūleśvara, Sankukarṇa, Kālañjara, Mandala bhịt, Mākoṭa, Duranda and Chagalanda, [these eight] remain in the principle called ego (ahamkāra). According to the view of some, however, the subtle ele ments and sense organs have their location in the prin ciple of ego (ahamkāra). In the principle called intellect, the group of eight heav enly born beings is located, while in prakr̥ti the group of eight yogas beginning with aksta, etc., is found. 109 These 'worlds of seven groups of eight beings' resting in the kalā named pratiṣthā are located in the water principle and are pervaded up to prakr̥ti. In the puruṣa principle are located110 the worlds of the eleven rudras called vāma and so on. The principles of impure vidyā, kalā, and niyati have two worlds each,111 while the principle kala has three, and the principle māyā has eight worlds. 112 Thus, from puruṣa to māyā the num ber of worlds is twenty-eight. In pure vidyā there are five worlds, 113 and in the iśvara principle the number [of worlds] belonging to the Lords of vidyās is eight. In the principle called sadākhya there are five worlds, while in the kalā сalled sāntā there are eighteen worlds.114 Conceiving all these paths (adhvas) either in the body, or in the vital energy, or in the intellect, or in the great void of consciousness as the highest, one attains the 
 
 fullness of Bhairava. Here ends Chapter Seven of the Tantrasāra of Abhinavagupta revealing the nature of the path of space. 

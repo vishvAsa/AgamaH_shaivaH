@@ -998,7 +998,7 @@ Their life span is also one hundred years long. At the time of the death of the 
 
 <details><summary>Hemendra</summary>
 
-Thus, the life span of the rudras abiding in the water principle to the end of the primordial nature principle (prakrti) is counted in the following way: The life span of the rudras, abiding in the lower principle, is a day in the life of those who live in the higher principle.
+Thus, the life span of the rudras abiding in the water principle to the end of the primordial nature principle (prakr̥ti) is counted in the following way: The life span of the rudras, abiding in the lower principle, is a day in the life of those who live in the higher principle.
 </details>
 
 ### श्रीकण्ठस्तरः - अवान्तर-प्रलयः
@@ -1793,10 +1793,10 @@ it remains one with reference to the determinate thought (vikalpa) of Parameśva
 </details>
 
 
-एवम् अखिलं कालाध्वानं   
-प्राणोदय एव पश्यन्  
+एवम् अखिलं **कालाध्वानं**   
+**प्राणोदय** एव **पश्यन्**  
 सृष्टिसंहारांश् च विचित्रान् निःसङ्ख्यान्  
-तत्रैव आकलयन्  
+तत्रैव **आकलयन्**  
 आत्मन एव पारमेश्वर्यं प्रत्यभिजानन्  
 मुक्त एव भवति इति ।+++(5)+++
 

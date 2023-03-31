@@ -5,22 +5,6 @@ title = "Notes"
 
 ## ०७ 
 
-[^101]:
-
-    According to this system, the Lord's power of action (kriyāśakti) manifests time and space as 'paths' (adhvas). The path of space is a means of unifying and traversing insubstantial and substantial forms such as the intellect, the altar or image, the void. Despite this diversity, all these forms abide in consciousness and have their place of repose (viśrānti) in consciousness. 
-
-[^102]:
-
-    On the path, all forms shine internally and externally through the outlets of consciousness; this is how they are created and mani fested. Consciousness, in its autonomy, shines as both the knowing subject and its object. The variety of objects, though not different from the knowing subject, appears as if different from it. 
-
-[^103]:
-
-    The aspirant attains the nature of Bhairava by perceiving everything, from the all-consuming fire (kālāgni) said to abide at the bottom of the earth, to the highest principle, i.e., anāśritaśiva, in ascending order and unifying them into the singularity of I-Consciousness. NOTES 237 
-
-[^104]:
-
-    Worlds of a variegated nature are included under the principle of earth. The sphere under which they shine is called the sphere of Brahmā. Similarly, other spheres, e.g., the sphere of praksti, the sphere of māyā, and the sphere of śakti, are wider than the preced ing one. All the principles from water to prakrti come under the sphere of prakrti. All the principles from puruṣa to māyā come under the sphere of māyā. The extent of the sphere of śakti extends up to the Sadāśiva principle. Thus, the number of spheres (andas) is four. The spheres are the masses of substance which have fallen from the state of energy. 
-
 [^105]:
 
     According to this system, there are ten 'guardians of the quarters' in accordance with the number of directions. The guardians of each direction are composed of a group of ten, consisting of a superintending deity and nine subordinates. Taken as ten groups of ten guardians, the total number becomes 100 deities; therefore, they are known as the “Hundred Rudras" (Satarudras). 
@@ -35,11 +19,11 @@ title = "Notes"
 
 [^108]:
 
-    According to the Svacchanda Tantra, the names of the worlds under prakrti are: Akrta, Krta, Vaibhava, Brahma, Vaiṣnava, Kaumara, 'belonging to Uma' (Auma), and 'belonging to Srikant ha.' Kṣemarāja explains that those who have practiced yoga with renunciation attain the 'world' (bhuvana) named Akrta, while those who practiced karmayoga reach the bhuvana named Krta. Similarly, those who practiced nirmanayoga go to the world of [[238]] sbhus. The abode of Brahmā is attainable to those who practice yoga with conviction that puruṣa is one universal soul. The abode of Viṣnu is the final resort for those who strictly practiced yoga according to Vaiṣṇava tradition. Those who practice yoga main taining celibacy (brahmacarya) go to the abode of Kaumara world. The abodes above this, named Auma and Sraikantha, are the abodes of those who practice yoga according to the Saiva doctrine. 
+    According to the Svacchanda Tantra, the names of the worlds under prakr̥ti are: Akrta, Krta, Vaibhava, Brahma, Vaiṣnava, Kaumara, 'belonging to Uma' (Auma), and 'belonging to Srikant ha.' Kṣemarāja explains that those who have practiced yoga with renunciation attain the 'world' (bhuvana) named Akrta, while those who practiced karmayoga reach the bhuvana named Krta. Similarly, those who practiced nirmanayoga go to the world of [[238]] sbhus. The abode of Brahmā is attainable to those who practice yoga with conviction that puruṣa is one universal soul. The abode of Viṣnu is the final resort for those who strictly practiced yoga according to Vaiṣṇava tradition. Those who practice yoga main taining celibacy (brahmacarya) go to the abode of Kaumara world. The abodes above this, named Auma and Sraikantha, are the abodes of those who practice yoga according to the Saiva doctrine. 
 
 [^109]:
 
-    There are seven groups of eight deities who preside over different principles. The first is called patysttaka, the group of eight Lords beginning with Lakulisa and ending with Amaresa. The second is called Guhyaṣtaka who are the Lords of fire; the first of them is Bhairava. The third group is Atiguhyașttaka, which rules over the principle named wind (vayu). The fourth group of eight is called Pavitrāstaka, with Sthānu, etc., who rule over the principle called ākāśa. The fifth group of eight, beginning with Sthūla and ending with Chagalāṇda, rules over ahamkāra. The sixth group of eight divinities called Yonyaṣtaka rules over the intellect. The seventh group of eight is called Yogaṣtaka which rules over prakrti. 
+    There are seven groups of eight deities who preside over different principles. The first is called patysttaka, the group of eight Lords beginning with Lakulisa and ending with Amaresa. The second is called Guhyaṣtaka who are the Lords of fire; the first of them is Bhairava. The third group is Atiguhyașttaka, which rules over the principle named wind (vayu). The fourth group of eight is called Pavitrāstaka, with Sthānu, etc., who rule over the principle called ākāśa. The fifth group of eight, beginning with Sthūla and ending with Chagalāṇda, rules over ahamkāra. The sixth group of eight divinities called Yonyaṣtaka rules over the intellect. The seventh group of eight is called Yogaṣtaka which rules over prakr̥ti. 
 
 [^110]:
 
@@ -137,7 +121,7 @@ title = "Notes"
 
 [^133]:
 
-    Above intellect (buddhi) and below the primordial matter (prakrti), a guna principle (tattva) is supposed to exist. It is only an aspect of praksti, the balanced state of three guṇas. Therefore, the balanced state of guṇas is called prakrti and its agitated aspect is known as guṇa tattva. However, guṇa is not counted as a distinct principle from praksti. The impelling force that agitates or breaks the bal ance of prakrti is the superintending deity of the tattva. The agita tion in praksti occurs in relation to those who desire enjoyment, but in those in whom these desires of enjoyment have disappeared, this agitation does not create any effect. According to the Trika system, agitation in praksti is caused by the.Lord Srikanthaṇātha. 
+    Above intellect (buddhi) and below the primordial matter (prakr̥ti), a guna principle (tattva) is supposed to exist. It is only an aspect of praksti, the balanced state of three guṇas. Therefore, the balanced state of guṇas is called prakr̥ti and its agitated aspect is known as guṇa tattva. However, guṇa is not counted as a distinct principle from praksti. The impelling force that agitates or breaks the bal ance of prakr̥ti is the superintending deity of the tattva. The agita tion in praksti occurs in relation to those who desire enjoyment, but in those in whom these desires of enjoyment have disappeared, this agitation does not create any effect. According to the Trika system, agitation in praksti is caused by the.Lord Srikanthaṇātha. 
 
 [^134]:
 
@@ -631,7 +615,7 @@ title = "Notes"
 
 [^240]:
 
-    For Abhinavagupta, there is only one agama from which all the others emerge. This broad acceptance of all sastras requires him to attempt a reconciliation of their differences. In order to accom plish this, he points out that all of them bring about the promised fruit. In this way, Sāṁkhya gives to its follower the knowledge to discriminate between purusa and prakrti. Similarly, the follower of Buddhism attains the buddhi tattva, but only the Trika grants full and complete liberation to those who are entitled (adhikari). For Abhinavagupta, an adhikari is one who possesses firm faith in a given agama. Another question that arises here is: if it is true that all agamas emerge from one and the same source, then why is it necessary to perform a ritual of conversion, such as 'reclamation of linga' (lingouddhāra)? Abhinavagupta explains: In the body of one single doctrine, as for example, in the Vedas, it happens that its followers, in order to attain to superior degrees or ranks, must submit to special rites of purification. The same thing can be said in regard to our tradition, as for example, in the case of the reclama tion of the linga, etc. In other words, in the way in which one belonging to a lower āśrama cannot enjoy the fruits which come from the upper aśrama, in the same way, a follower of the Pāñcarātras, etc., cannot attain the iden tity with Śiva. (TĀ 35:28-29]) 
+    For Abhinavagupta, there is only one agama from which all the others emerge. This broad acceptance of all sastras requires him to attempt a reconciliation of their differences. In order to accom plish this, he points out that all of them bring about the promised fruit. In this way, Sāṁkhya gives to its follower the knowledge to discriminate between purusa and prakr̥ti. Similarly, the follower of Buddhism attains the buddhi tattva, but only the Trika grants full and complete liberation to those who are entitled (adhikari). For Abhinavagupta, an adhikari is one who possesses firm faith in a given agama. Another question that arises here is: if it is true that all agamas emerge from one and the same source, then why is it necessary to perform a ritual of conversion, such as 'reclamation of linga' (lingouddhāra)? Abhinavagupta explains: In the body of one single doctrine, as for example, in the Vedas, it happens that its followers, in order to attain to superior degrees or ranks, must submit to special rites of purification. The same thing can be said in regard to our tradition, as for example, in the case of the reclama tion of the linga, etc. In other words, in the way in which one belonging to a lower āśrama cannot enjoy the fruits which come from the upper aśrama, in the same way, a follower of the Pāñcarātras, etc., cannot attain the iden tity with Śiva. (TĀ 35:28-29]) 
 
 [^241]:
 
