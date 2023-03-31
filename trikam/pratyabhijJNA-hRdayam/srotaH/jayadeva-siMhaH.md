@@ -37,15 +37,15 @@ A dot placed above 'm' or 'n indicates astusra.INTRODUCTION
 
 Preliminary 
 
-The Saiva religion is perhaps the most ancient faith of the world. Sir John Marshall says in his 'Mohenjo daro and the Indus Civilization that excavations in Mohenjo daro and Harappa reveal an important fact, viz., that Saivism, has a history going back to the Chalcolithic Age or even further still, and that it thus takes its place as the most ancient living faith in the world. It had many off shoots and appeared in different forms in many parts of the world. In India, there are three main forms of this religio. philosophy, viz., the Vira-Saiva form in Deccan-Karnatak, the Saiva Siddhanta in Tamil Nad, and the Advaita Saiva form in Kashmir. There are some common features in all the three, but there are important differences also. Here we are concerned with the Advait Saiva Philosophy of Kashmir 
+The Śaiva religion is perhaps the most ancient faith of the world. Sir John Marshall says in his 'Mohenjo daro and the Indus Civilization that excavations in Mohenjo daro and Harappa reveal an important fact, viz., that Saivism, has a history going back to the Chalcolithic Age or even further still, and that it thus takes its place as the most ancient living faith in the world. It had many off shoots and appeared in different forms in many parts of the world. In India, there are three main forms of this religio. philosophy, viz., the Vira-Śaiva form in Deccan-Karnatak, the Śaiva Siddhanta in Tamil Nad, and the Advaita Śaiva form in Kashmir. There are some common features in all the three, but there are important differences also. Here we are concerned with the Advait Śaiva Philosophy of Kashmir 
 
 In India, there is no such thing as arm-chair philosophy. Philosophy is not only a way of thought, but also a way of life in this country. It is not born of idle curiosity, nor is it å mere intellectual game. Every philosophy here is a reli gion, and every religion has its philosophy. The philosopher here was not a tall and spectacled professor dictating his notes to the class or weaving cob-webs of theory in his study, but one who was moved by a deep inner urge to know the secrets of life, who lived laborious days of spiritual discipline and who saw the light by the transformation of his life. Moved by pity for his fellow-men, he tried to interpret the truth he had experienced to the logical reason of man. Thus arose philo sophy in this country. 
 
-The Advait Saiva Philosophy of Kashmir was of this type. For centuries, it was imparted as a secret doctrine to the aspirant who had to live it and test it in the laboratory of the Self. In course of time only the cult and the ritual remained; the philosophical background was forgotten. Perhaps, A 
+The Advait Śaiva Philosophy of Kashmir was of this type. For centuries, it was imparted as a secret doctrine to the aspirant who had to live it and test it in the laboratory of the Self. In course of time only the cult and the ritual remained; the philosophical background was forgotten. Perhaps, A 
 
 select few still know the philosophical doctrine by oral tradi tion, but the first thinker known to history, who reduced the main principles to writing was, Vasugupta. He is said to have lived towards the end of the 8th or the beginning of the 9th Century A.D. Since then, philosophical writing had been an active and continued process in Kashmir which went on for nearly four centuries. The literature on this systems has accumulated to such an extent that it would require almost a life-time to study it. Some works of the system have still not been published. 
 
-Saida Literature The literature of the Saiva or Trika system may be broadly divided into three : 
+Saida Literature The literature of the Śaiva or Trika system may be broadly divided into three : 
 
 (a) Agama Sastra (6) Spanda Sastra (c) Pratyabhijñā Sastra 
 
@@ -55,7 +55,7 @@ Malini Vijaya, Svacchanda, Vijilāna Bhairava, Mrgendra, Rudra-Yamala, Siva-Sūt
 
 (b) Spanda Sastra This lays down the important doctrines of the system. The main works under this heading are : 
 
-The Spanda Sütras or the Spanda Kärikäs. These elaborate the principles of the Saiva-Sūtras. On these, there are the following commentaries : 
+The Spanda Sütras or the Spanda Kärikäs. These elaborate the principles of the Śaiva-Sūtras. On these, there are the following commentaries : 
 
 Vivsti by Ramakantha, Pradipika by Utpala Vaišnava, Spanda Sandoha by Ksemaraja, and Spanda-nirnaya by Kemaraja. 
 
@@ -75,7 +75,7 @@ Pratyabhij Aa-ardayam As said above, this is a digest of the Pratyabhijñā syst
 
 Pratyabhijñáhrdayam, Spandasandoha, Spandani rņaya, Savacchandodyota, Netrodyota, Vijñānabhaira vodyota, Siva-Sūtra-vimarśinī, Stava-cintamani-tika Paraprāvesika, Tattvasandoha. 
 
-Very little is known of the life and parentage of Kemarāja. It has been very rightly said that his book, Pratyabhijña hrdayam occupies the same place in Saiva or Trika literature as Vedantāsāra does in Vedānta. It avoids all polemics and gives in a very succinct form the main tenets of the Pratyabhijnă system. He says at the very outset of his work : 
+Very little is known of the life and parentage of Kemarāja. It has been very rightly said that his book, Pratyabhijña hrdayam occupies the same place in Śaiva or Trika literature as Vedantāsāra does in Vedānta. It avoids all polemics and gives in a very succinct form the main tenets of the Pratyabhijnă system. He says at the very outset of his work : 
 
 "इह ये सुकुमारमतयोऋततीषणतर्कशास्त्रपरिश्रमाः शक्तिपातोन्मिषित पारमेश्वरसमावेशाभिलाषिणः कतिचित् भक्तिभाजः तेषामीश्वरमत्यभिज्ञोपदेश तत्वं मनाक् उन्मील्यते ।" 
 
@@ -97,7 +97,7 @@ The details of the teaching will be found in the body of the book. Here we may r
 
 into undivided unity of 'I' and 'This'. Perhaps, the word 'sciousness' may, to some extent, express the idea contained in Cit or Parasanivit. To use the verb contained in con sciousness, the Ultimate Reality or Supreme Self is the Self Seiring itself. In the words of Pratyabhijña Sastra, it is, prakasaimararny4. The Supreme Self is called Parama Siva. This is not only prakafa. The word "prakasa' again is untrans latable. Literally,it means light, illumination. Just as light makes every thing visible, even so that being there, every thing else is. In the words of Kathopanişad-Tamed Mäntan anubhari Jarun, tapi bisa garudam pibhati'. 'It shining, every thing happens to shine. By its light alone does all this appear'. Sänkara. Vedānta also calls Ultimate Reality 
 
-prakasa', but the sun is 'prakāfa; even a diamond is 'prakāla'. What is the difference between the two ? The Saiva philo sophy says, "Ultimate Reality is not simply prakara : it is also 
+prakasa', but the sun is 'prakāfa; even a diamond is 'prakāla'. What is the difference between the two ? The Śaiva philo sophy says, "Ultimate Reality is not simply prakara : it is also 
 
 ümarda" What is this ümarfa ? This word again is untransla table. Perhaps the word "Sciring may help. Ultimate Reality is not only Sciousness (prakīša), but . Sciousness that also stres itself (vimarśa). It is not simply pratara lying inert like a diamond, but streys itself. This Sciring or Surveying of itself by Ultimate Reality is called Vintarfa. As Ksemarāja has put it in his Parā-prāvesiká (P-2) it is "akstri māham iti visphuranamn"; it is the ori-relational, immediate awareness of I. What this "akstrima-aham" is, we shall see later on. If Ultimate Reality were merely prakala and not also bitarda, it would be powerless and inert. "Yadi wargümar fau gal anišbaro jadalca prasajyeta" (Park - prāvelika, p. 2) It is this pure I-consciousness or Vimarfa that is responsible for the manifestation, maintenance and reabsorption of the universe. 
 
@@ -109,7 +109,7 @@ It will thus be seen that the Ultimate Reality is not only Universal Consciousne
 
 be called higher-the Highest Reality, the Absolute. It is both transcendental (visvottirga) and immanent (visvamaya). 
 
-The Saiva philosophy has been called Realistic Idealism by some writers. I do not think this is a happy characteri zation of the Saiva philosophy. The approach of the Idealists of the West is entirely different from that of the thinkers of the Saiva philosophy. To characterize it in terms of the Western Idealists is only to create confusion. The word 'idea" has played havoc in Western philosophy, and it would not be right to import that havoc in Saiva philosophy. Ulti mate Reality is not a mere "idea whatever that may mean, but Self underlying all reality, the Changeless Principle of all manifestation. 
+The Śaiva philosophy has been called Realistic Idealism by some writers. I do not think this is a happy characteri zation of the Śaiva philosophy. The approach of the Idealists of the West is entirely different from that of the thinkers of the Śaiva philosophy. To characterize it in terms of the Western Idealists is only to create confusion. The word 'idea" has played havoc in Western philosophy, and it would not be right to import that havoc in Śaiva philosophy. Ulti mate Reality is not a mere "idea whatever that may mean, but Self underlying all reality, the Changeless Principle of all manifestation. 
 
 2. Manifestation-the Universe-or the World Process. 
 
@@ -187,7 +187,7 @@ At first (logically, not chronologically) there was only "Sat-all alone without 
 
 This Iesittea or Tipitakarın is parallel to Viwarfa or umukhatā but the implications of this Ikzitakarma have not been developed by Sarkara Vedanta. 
 
-The Saiva philosophy does not conceive of the Supreme as a logomachist but as an Artist. Just is an artist cannot contain his delight within himself, but pours it out into a song, a picture or a poem, even so the Supreme Artist pours out the delightful wonder of His splendour into manifestation or creation. Ksemarāja gives expression to the same idea in his commentary on Utpaladeva's Stotrāvali, 
+The Śaiva philosophy does not conceive of the Supreme as a logomachist but as an Artist. Just is an artist cannot contain his delight within himself, but pours it out into a song, a picture or a poem, even so the Supreme Artist pours out the delightful wonder of His splendour into manifestation or creation. Ksemarāja gives expression to the same idea in his commentary on Utpaladeva's Stotrāvali, 
 
 "आनन्दोच्छरिलता शक्तिः सुजल्यात्मानमारमना" 
 
@@ -1137,7 +1137,7 @@ Sutra, 10="Even in this condition (of the empirial self), he (the individual) do
 
 Commentary 
 
-Here, the distinction between the Isvarādvaya philosophy from that of) the Brahmavādinsat lies in this-that the divine whose essence is consciousness always retains his authorship of the five-fold act which is in accordance with what has been stated by the grand Svacchanda and other disciplines (of Saiva philosophy). viz., (Vide. Svacchanda Tantra Ist Patal, 3rd verse) "(I ww to the Divine who brings about (1) emanation (p), (a) re-absorption (abbra), (3) concealmtal 
+Here, the distinction between the Isvarādvaya philosophy from that of) the Brahmavādinsat lies in this-that the divine whose essence is consciousness always retains his authorship of the five-fold act which is in accordance with what has been stated by the grand Svacchanda and other disciplines (of Śaiva philosophy). viz., (Vide. Svacchanda Tantra Ist Patal, 3rd verse) "(I ww to the Divine who brings about (1) emanation (p), (a) re-absorption (abbra), (3) concealmtal 
 
 Ciditman do not mean it-like u Prof. Leidecker has tringlated it, but "whoactance incil or consciousness'. 
 
@@ -1877,13 +1877,13 @@ This instruction in the truth has been given for those to whom has accrued the d
 
 Concluded is this Pratyabhijñāhrdya (The Secret of Recognition). 
 
-This work [book] is by the glorious, teacher, Rajinaka Kșemaraja, dependent on the lotus-fect of the glorious Abhinavagupta, the best among the venerable, great Saiva teaehers. 
+This work [book] is by the glorious, teacher, Rajinaka Kșemaraja, dependent on the lotus-fect of the glorious Abhinavagupta, the best among the venerable, great Śaiva teaehers. 
 
 May there be welfare [for all] ! 
 
 NOTES 
 
-1. Recognition-This is the doctrine which teaches that the individual self (nara or jiva) is identical with the Universal Self (Siva). He has forgotten his Real Self owing to the limitations of his psycho-physical mechanism. The Saiva doctrine of Kashmir is called Pratyabhijña-darsana or the Philosophy of Recognition because it brings home to the individual the truth that once he recognises his Real Self, he will be free from his cgo-hood which is the product of his identification of himself with his psycho-physical mechanism, and will thus realize that his Real Self is identical with the Universal Self. 
+1. Recognition-This is the doctrine which teaches that the individual self (nara or jiva) is identical with the Universal Self (Siva). He has forgotten his Real Self owing to the limitations of his psycho-physical mechanism. The Śaiva doctrine of Kashmir is called Pratyabhijña-darsana or the Philosophy of Recognition because it brings home to the individual the truth that once he recognises his Real Self, he will be free from his cgo-hood which is the product of his identification of himself with his psycho-physical mechanism, and will thus realize that his Real Self is identical with the Universal Self. 
 
 This system is also known as Trika darlana i.e. the system of the triad., viz., (1) Nara, the bound Soul (2) Sakti the divine power and (3) Siva, the lord who releases the bound soul from his bondage. This is a mystic philosophy, describ ing all these three conditions. 
 
@@ -1891,17 +1891,17 @@ It is also called Spanda-Šāstra or the system of vibration, because it is to t
 
 2. Siva-This is derived from the root di (to lic), and from the root $vi (to cut asunder). Both these meanings arc implied in Siva. Siva is one 'in whom all things (viz., all objects and subjects) lie'. He is also one who cuts asunder (fyati papam illi Siwa) all sins. Siva is thus both the funda mental ground of all reality and the supreme Benevolence or Good who by His grace saves all. He is the supreme or Absolute both from the metaphysical and soteriological point of view. The name Siva for the Highest Reality is therefore, a very happy choice. Siva is the Highest Reality as well as the Highest Good. 
 
-In addition to Pratyabhijia, Trika, and Spanda, this system is also known as Saiva-darsana or Bhairava-darsana 
+In addition to Pratyabhijia, Trika, and Spanda, this system is also known as Śaiva-darsana or Bhairava-darsana 
 
 106 
 
-PRATYADINAHRDAYA i.c., the system positing Siva as the all-of-reality-and good. As this system is non-dual, it is sometimes called Kashmirian Saiva philosophy in order to distinguish it from the Saiva philosophy of the South which is dual. 
+PRATYADINAHRDAYA i.c., the system positing Siva as the all-of-reality-and good. As this system is non-dual, it is sometimes called Kashmirian Śaiva philosophy in order to distinguish it from the Śaiva philosophy of the South which is dual. 
 
 3. Satatam-enternally may be read with \#amah or with pancakralya-vidhayine. In the former case, it would mean 'my eternal adoration to Siva'. In the latter case it would mean "my adoration to Siva who eternally brings about the five processes'. The latter construction is better as it indicates that Siva's activity is incessant. 
 
 . 4. Pancakpty or the five acts brought about by Siva are - 
 
-(1) Sri-Letting go; casting out of oneself. The usual translation "creation' is misleading. Creation implies that the creator acts upon an external material, and thus brings about the world-process. This translation does not do justice to the Indian point of view, particularly to the point of view of Saiva philosophy. Srsti is derived from the root "sj" which means to let go', 'to pour forth', 'to cast out'. This implies that the world-process is already implicitly contai ned in Siva. He only lets it go or casts it out of himself. He has not to work on an external material in order to bring about the world-process. According to Saiva philosophy, the world is not a creation, but an emanation, it is a theophany. 
+(1) Sri-Letting go; casting out of oneself. The usual translation "creation' is misleading. Creation implies that the creator acts upon an external material, and thus brings about the world-process. This translation does not do justice to the Indian point of view, particularly to the point of view of Śaiva philosophy. Srsti is derived from the root "sj" which means to let go', 'to pour forth', 'to cast out'. This implies that the world-process is already implicitly contai ned in Siva. He only lets it go or casts it out of himself. He has not to work on an external material in order to bring about the world-process. According to Śaiva philosophy, the world is not a creation, but an emanation, it is a theophany. 
 
 (2) Sthiti-maintenance of the world-process). 
 
@@ -1933,7 +1933,7 @@ Sat eva bodha, bodha eva satta 1.6., Existence itself is cons ciousness, and con
 
 8. Upanisat-up-ni-sad (sit) i.e. sitting down near to or sitting down at the fect of another (i.c., the teacher) to listen to his words. It, therefore, has come to mean "rahasya' or secret knowledge obtained in this manner. It is equivalent to secret or esoteric doctrine. The word has also been inter preted by Sankara as "destruction (of ignorance) by reveal ing the knowledge of the supreme spirit'. Here the word has been used in the sense of 'secret or esoteric doctrine'. 
 
-• 9. Samkara-'Sam Karoti iti Samkarah' one who brings about happiness and welfare is Sarkara. This is another name of Siva. Samkaropanial, therefore, means the esoteric doctrine pertaining to Sarnkara or Siva i.e., the esoteric system known as Saiva philosophy. 
+• 9. Samkara-'Sam Karoti iti Samkarah' one who brings about happiness and welfare is Sarkara. This is another name of Siva. Samkaropanial, therefore, means the esoteric doctrine pertaining to Sarnkara or Siva i.e., the esoteric system known as Śaiva philosophy. 
 
 10. Samsara-Samsarati it sansärah i.c., that which is always on the move';that which is continuous "pro-cess'. The word 'world' or universe' can hardly do justice to this idea. Etymologically the word "samudra' also means 'wander ing through' (a succession of states) of the jioa or the individual soul. It is in this sense that 'sowadra' is called "pia" or poison here. It is not the world a world which is poison, but the "wandering through of the jiva as a being disintegrated from Reality, cut off from his Innermost Centre, which is poison. 'Visa' is derived from the root "pija' of the third conjugation (weer). meaning 'to pervade', hence anything actively pernicious i.c., poison. The root vis' in the fourth conjugation ( 
 
@@ -2227,7 +2227,7 @@ NOTES
 
 72-73. The philosophy of Vyakarana considers the Absolute or Highest Reality as Sabda-brahman." Sabda (word) is to them not something unconscious but consciousness itself where thought and word coalesce and are not yet dis tinguished. Brahman is the eternal word from which ema nates everything. According to the Trika system, the universe of objects and so also of thoughts and words is always in Parama Sivá potentially. This is the stage of the Parāvāc-tbe highest word which is yet unmanifest. The next stage is that of Pasyanti which is the divine view of the universe in its un differentiated form, far beyond human experience. Kshema raja means to say that the grammarians go only as far as payanti but not upto Parāvāc. After the payanti, there is the madhyamd, which marks the next stage of the mani. festation of the universe from undifferentiated mass to differentiated particulars. Madhyama, lit., the middle one is thus a link between Paśyanti, the vision of the undifferentiated universe, and Vaikhari, the stage of differentiated particular, the stage of empirical thought and speech. It is word in a subtle form in the mind or antahkarana. 
 
-74. The agamas (here, Saiva-Agamas) refer to a group of literature containing the doctrine of the Saivas. *Agama' means tradition, that which is handed down from generation to generation. 
+74. The agamas (here, Śaiva-Agamas) refer to a group of literature containing the doctrine of the Śaivas. *Agama' means tradition, that which is handed down from generation to generation. 
 
 75. By Arhatas (the deserving, the dignified) is here meant the Jains. They maintain that the universe consists of 
 
@@ -2275,7 +2275,7 @@ time. 5. Vyäpakatya or Svatantrya Niyati-limitation in respect
 
 - all pervasiveness or freedom of space and cause. 
 
-85. "Isvaradvaya-dardana" means the system of philosophy which does not belier in any other principle (adwaya) than Isvara, the Lord. This is the characterization of the Saiva philosophy of Kashmir which maintains that Siva is the whole and sole reality. There is 'no second' (advaya), i.e., no other principle than Siva. He appears both as the world or the field of experience and the experient. 
+85. "Isvaradvaya-dardana" means the system of philosophy which does not belier in any other principle (adwaya) than Isvara, the Lord. This is the characterization of the Śaiva philosophy of Kashmir which maintains that Siva is the whole and sole reality. There is 'no second' (advaya), i.e., no other principle than Siva. He appears both as the world or the field of experience and the experient. 
 
 86. Brahmavādins refers to the Vedantists. Literally, it means advocates of the Brahman doctrine. 
 
@@ -2305,7 +2305,7 @@ the point of view of the esoteric experience of the yogin. ,
 
 97. See notes 72-73. 
 
-98. '' to 'kşa'. These include all the letters of the Devanagari script. These letters according to the Saiva philosophy represent various faktis. 
+98. '' to 'kşa'. These include all the letters of the Devanagari script. These letters according to the Śaiva philosophy represent various faktis. 
 
 NOTES 
 
@@ -2973,7 +2973,7 @@ VĀCAKA-word or indicator. VACYA--oliject or the indicated. VĀHA--the prima flo
 
 Apāna flowing in the pingaldi on the left are together 
 
-known is Vaha (lit., flow). VAHNI-a technical word of Saiva-Yoga, meaning "entering 
+known is Vaha (lit., flow). VAHNI-a technical word of Śaiva-Yoga, meaning "entering 
 
 completely into the root and half of the middle of adha: 
 
@@ -3005,7 +3005,7 @@ ness of the Supreme, full of jana and kry which brings
 
 about the world-process. vimarśANA-intuitive awareness; esoteric meaning 
 
-Jathra-absorption. VIŞA-a technical word of Saiva Yoga, meaing "entering 
+Jathra-absorption. VIŞA-a technical word of Śaiva Yoga, meaing "entering 
 
 into the remaining half and wholly into the top of adus kundalinti right upto the position where Ardha-kundalini 
 
@@ -3255,7 +3255,7 @@ Vilcza 38 Win 80 Vilva 34, 36, 37, 38, 39, 2, 41, 43.
 
 Hi 45. 63, 77, 95, 96, 102 Vitya-grasan 75 Vilyamiya 43. 65 Viivifarira 43, 44 Vi vidhira 86 Vilva-vimnt 69 Visviltman 60 Vivimi-sikira 79 Vilvitmis-sikir-ripa 70 Vilva-vyapti ir 72 Vlivotira 4. 56 vi 33, 31 Vinaya-grima 93 Vipayu-pada 78 Viivaka 86 Visphalinga 5 Vispharama 85 Virya-bhimi 97 Ved-vid 55 Vodya 86 Vedaaltmak 97 Vaieltryit 40 Vailakjaya 38, Bg Vaiyakarta 55 Valintva 57 Vyavacchinna 70 Vyavatlihato 35 Vyavahara 67 Vykhyl 74 Vylpatalva 6a Vyamohizatva 66, 67 Vyamohilata 66, 71 Vyutthai ! Vyutihiina-dau 79 Vyutthita 50 
 
-Sünya-pada 69 Sünya-pramt 41 Sinyddi-primleri 49 Sünya-bhuva 54 Sunya-bhūmi 30 Sünyadi-länyitmataya 43 Saiva 57 Srl-spanda 45 Srulyanta-vid 54. 55 
+Sünya-pada 69 Sünya-pramt 41 Sinyddi-primleri 49 Sünya-bhuva 54 Sunya-bhūmi 30 Sünyadi-länyitmataya 43 Śaiva 57 Srl-spanda 45 Srulyanta-vid 54. 55 
 
 Şat-tribal-jatiya-maya 73 Supha-vaktra 87 
 

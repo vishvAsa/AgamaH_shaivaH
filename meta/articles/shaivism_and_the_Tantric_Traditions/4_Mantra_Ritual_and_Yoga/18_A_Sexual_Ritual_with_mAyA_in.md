@@ -714,7 +714,7 @@ a sexual ritual with māyā in matsyendrasaṃhitā 40 449
 
 Hatley, Shaman. 2007. “The Brahmayāmalatantra and Early Śaiva Cult of Yoginīs.” Ph.D. thesis, the University of Pennsylvania. 
 
-Hatley, Shaman. 2018. The Brahmayāmalatantra or Picumata. Volume I. Chapters 1–2, 39–40 & 83. Revelation, Ritual and Material Culture in an Early Saiva Tantra. Collec tionIndologie, no.133 (Early Tantra Series, no. 5).Institut Français d’Indologie/École française d’Extrême-Orient/Universität Hamburg. 
+Hatley, Shaman. 2018. The Brahmayāmalatantra or Picumata. Volume I. Chapters 1–2, 39–40 & 83. Revelation, Ritual and Material Culture in an Early Śaiva Tantra. Collec tionIndologie, no.133 (Early Tantra Series, no. 5).Institut Français d’Indologie/École française d’Extrême-Orient/Universität Hamburg. 
 
 Hume, Robert Ernest. 1921. The Thirteen Principal Upanishads. Oxford: Oxford Univer sity Press. 
 

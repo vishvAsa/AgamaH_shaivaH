@@ -35,7 +35,7 @@ dtsaiva, 41, 69-70, 70n.21
 
 adornment, 150  
 
-Advaita Ved nta, 17,44, 85, 135-36  gamas: as genre of Saiva texts, 9-14; ori gins of, 10-12, 29, 46, 61; and paddhati  literature, 16-17; rituals prescribed in,  36; sections of, ix, 10; as diva's grace,  28-29; temple recitation of, 71; and  Vedas, 29n.3  
+Advaita Ved nta, 17,44, 85, 135-36  gamas: as genre of Śaiva texts, 9-14; ori gins of, 10-12, 29, 46, 61; and paddhati  literature, 16-17; rituals prescribed in,  36; sections of, ix, 10; as diva's grace,  28-29; temple recitation of, 71; and  Vedas, 29n.3  
 
 gamin (future karman), 87, 93. See also  karman  
 
@@ -107,7 +107,7 @@ brahmamantras: and five fundamental activi ties, 48,139; imposed in ritual, 48-5
 
 Brahman, 7,123; as K rapesvara, 55, 119,  125,129-30; location in temple of, 63;  womb of, 96  
 
-brahmans, common and Saiva, 41,69-70  brahmarandhra, 55  
+brahmans, common and Śaiva, 41,69-70  brahmarandhra, 55  
 
 bubhuksu, 27n.2,46-47; and path of emis sion, 50-51, 70-71; and stages of initia tion, 91  
 
@@ -129,7 +129,7 @@ consciousness (cit), 23; powers of, xi, 25,  28, 84; requires instruments, 32-33
 
 cord of fetters (pāsas ttra), 94-98, 100,  108  
 
-cosmology, Saiva, 42-46  
+cosmology, Śaiva, 42-46  
 
 cremation (antyetfi), 36, 109-11  
 
@@ -227,7 +227,7 @@ karman: as fetter, 25-26, 86-89; removal  of, 93, 97-102,110-11, 153-54; as ritu
 
 KAVACA. See aAgamantras  
 
-Kirandgama, dated manuscript of, 13  knowledge, ix; limitations of, 25-27,113,  133-34,139; powers of, 23,25, 84; and  ritual action, xii, 34-35, 73-74, 162,  163-64; Saiva, 10,19-21, 29-31; two  types of, 163-64  
+Kirandgama, dated manuscript of, 13  knowledge, ix; limitations of, 25-27,113,  133-34,139; powers of, 23,25, 84; and  ritual action, xii, 34-35, 73-74, 162,  163-64; Śaiva, 10,19-21, 29-31; two  types of, 163-64  
 
 kriya. See action, ritual  
 
@@ -247,7 +247,7 @@ Mahavratin school of Saivism, 85
 
 MaheSvara forms of Siva, 117-18; contradic tory attributes of, 139; and images, 121—  22; as Karanesvara, 119  
 
-MaheSvaras, early Saiva school, 14  maintenance (sthiti), 42-43, 48  
+MaheSvaras, early Śaiva school, 14  maintenance (sthiti), 42-43, 48  
 
 mala (primordial stain): as fetter, 25, 86;  and nirmdlya, 155. See also fetters  Manavacakam Kafantar, 18  
 
@@ -361,7 +361,7 @@ linga, 133-34,157-58; and Sadafiva, 126- 27
 
 priests (acarya): as audience for agamas,  10; perform pararthapuja, 135; require ments of, 40-41,69-70; of RajarajeSvara  temple, 6 
 
-puja (worship): contrasted with sacrifice, 7- 8; efficacy of, 36-37, 101-4, 159-162,  163-63; as Hindu ritual form, 3, 38-39;  qualifications to perform, 37,40-41, 69- 71, 102, 159; Saiva siddhanta formulation  of, 36-38, 39-40, 163-64; scholarly  study of, x, 3n.l, 158-59; and transac tions with Siva, 122, 137, 159-62  
+puja (worship): contrasted with sacrifice, 7- 8; efficacy of, 36-37, 101-4, 159-162,  163-63; as Hindu ritual form, 3, 38-39;  qualifications to perform, 37,40-41, 69- 71, 102, 159; Śaiva siddhanta formulation  of, 36-38, 39-40, 163-64; scholarly  study of, x, 3n.l, 158-59; and transac tions with Siva, 122, 137, 159-62  
 
 pur nas: cosmogonic texts of temple Hindu ism, 7, 20; narratives of Siva, 117, 139  pure domain (Suddh dhvan), 140; in  atmaSuddhi, 53; in invocation, 126-27  purifications, five (pancasuddhi), 39, 52,  143; of linga, 123; of mantras, 143; of  place of worship, 64, 143; of substances,  143-47. See also atmaSuddhi  
 
@@ -381,7 +381,7 @@ renouncer, 46,49
 
 ripening (p ka): of fetters, 26; of mala, 86- 89  
 
-ritual: and exchange theories, 159-60; and  microcosms, 72-73; Saiva theory of, 22,  72-74; scholarly study of, ix-x  
+ritual: and exchange theories, 159-60; and  microcosms, 72-73; Śaiva theory of, 22,  72-74; scholarly study of, ix-x  
 
 Rudra (K ranesvara), 55,119,125  Rudras, eight, 65-66  
 
@@ -395,9 +395,9 @@ SADYOJāta. See brahmamantras
 
 Sadyojyoti, 16-17  
 
-Saiva br hmanas ( disaivas), 41, 69-70  Saiva siddhanta, ix, 3-4, 3n.2; as historical  order of Saivism, 12, 14-15, 17-19; as  school of thought, 3-4, 19-21, 85, 134- 36, 137-38, 155, 156n.15, 160  
+Śaiva br hmanas ( disaivas), 41, 69-70  Śaiva siddhanta, ix, 3-4, 3n.2; as historical  order of Saivism, 12, 14-15, 17-19; as  school of thought, 3-4, 19-21, 85, 134- 36, 137-38, 155, 156n.15, 160  
 
-Saiva siddhanta, Tamil, 18-19  
+Śaiva siddhanta, Tamil, 18-19  
 
 Index • 199    
 
@@ -497,7 +497,7 @@ VidyeSvaras, 22, 26; as agents of Siva,  22, 118-19, 139-40, 152; as partici pan
 
 VijnSnakevalas, 26, 140  
 
-ViraSaiva school of Saivism, 14, 18  visarjana (dismissal), 157-59  
+ViraŚaiva school of Saivism, 14, 18  visarjana (dismissal), 157-59  
 
 TATPURUSA. See brahmamantras  
 
@@ -509,7 +509,7 @@ temple: as Hindu religious institution, 8-9;  organization of, 60-64, 121, 118,1
 
 temple Hinduism: as ideological formation,  6-9, 19; schools of, 38-39  
 
-theology, Saiva, 112-19  
+theology, Śaiva, 112-19  
 
 throne, divine (divy sana), 123-25,  125n.25, 127  
 
@@ -525,7 +525,7 @@ ty ga (abandonment), 159-60
 
 viSefadikfa, 91  
 
-Vi$nu: as image in Saiva temple, 63; as inter locutor in Ajitagama, 61; as KaraneSvara,  55,119,125,129-30; as primary god in  temple Hinduism, 6  
+Vi$nu: as image in Śaiva temple, 63; as inter locutor in Ajitagama, 61; as KaraneSvara,  55,119,125,129-30; as primary god in  temple Hinduism, 6  
 
 visualization (bhavana), ix; in ascending  pronunciation, 131; in atmaSuddhi, 53- 54, 58n.l0,107; in imposition of man tras, 47; in invocation, 123-25, 126, 132;  in nirvanadiksa, 96-98; of SadaSiva, 115—  16; in services, 150; in worship of the en tourages, 64, 67-69  
 

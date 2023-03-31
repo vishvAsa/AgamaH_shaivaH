@@ -125,8 +125,8 @@ Rahasyaśāstra
 - hṛdaya 
 Śaiva 
 śāsana/-śāstra 
-Saivadhvadaisika 
-Saivaparamarthaikavedin 
+Śaivadhvadaisika 
+Śaivaparamarthaikavedin 
 Sākta 
 Samkhya 
 (Kapila) (Kāpila) Samkhyayoga 

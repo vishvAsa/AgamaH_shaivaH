@@ -64,7 +64,7 @@ Each verse of the Sanskrit text has been printed in both  Devanigari and Roman s
 
 A long Introduction explaining the basic principles of the  yogas described in the text has been provided in the beginning.  A glossary of technical terms has also been added at the end.  
 
-Since the yogas recommended in the book are based on the  tenets of the non-dualistic Saiva Philosophy, the reader will do  well to read the author's Introductory Portion of either the  Pratyabhijiiihrda~am or the Siva-sutras before taking up the  study of the present book.  
+Since the yogas recommended in the book are based on the  tenets of the non-dualistic Śaiva Philosophy, the reader will do  well to read the author's Introductory Portion of either the  Pratyabhijiiihrda~am or the Siva-sutras before taking up the  study of the present book.  
 
 I express my sincerest gratitude to Svimi Lak:?maoa Joo  who has kindly taught this book to me word by word. My  thanks are also due to Shri Dinanath Ganj who has kindly  helped me in the preparation of the index to important  Sanskrit words and the alphabetical index to the verses.  
 
@@ -74,11 +74,11 @@ I. VI. 79 JAIDEVA SINGHINTRODUCTION
 
 IMPORTANCE OF VIJ~ANABHAIRAVA  
 
-There have been, in India, two main ways of approach to  Reality or the Essential Nature of Self, viz., Vivekaja marga and  Yogaja marga-the path of distinction or discrimination and  the path of union or integration. Pataojala yoga and Sankara  Vedanta have adopted the Vivekaja marga by which the Puru~a  or Atma (the Self) is isolated from Prakrti (in the case of  Pataojala Yoga) or from Maya (in the case of Vedanta). The  word Yoga does not mean union in Pataojali's system; it means  samadhi or intense abstract meditation (as Vyasa puts it in his  commentary, 'yuji samadhau'). Saivagama has adopted the  Yogaja marga in which the goal is not isolation of the Self from  Prakrti or Maya but the integration of the individual Self to the  Universal Self or Bhairava and the realization of the universe as  the expression of His Sakti or spiritual Energy. The ideal of  Saivagama is not the rejection of the universe but its assimilation  to its Source.  
+There have been, in India, two main ways of approach to  Reality or the Essential Nature of Self, viz., Vivekaja marga and  Yogaja marga-the path of distinction or discrimination and  the path of union or integration. Pataojala yoga and Sankara  Vedanta have adopted the Vivekaja marga by which the Puru~a  or Atma (the Self) is isolated from Prakrti (in the case of  Pataojala Yoga) or from Maya (in the case of Vedanta). The  word Yoga does not mean union in Pataojali's system; it means  samadhi or intense abstract meditation (as Vyasa puts it in his  commentary, 'yuji samadhau'). Śaivagama has adopted the  Yogaja marga in which the goal is not isolation of the Self from  Prakrti or Maya but the integration of the individual Self to the  Universal Self or Bhairava and the realization of the universe as  the expression of His Sakti or spiritual Energy. The ideal of  Śaivagama is not the rejection of the universe but its assimilation  to its Source.  
 
 Vijiianabhairava is an excellent exposition of the yogaja miirga.  Hence its importance. It has been referred to as Agama:  Sivavijiianopani~d,1 and Rudrayamalasara3 by Abhinavagupta.  Yogaraja has referred to it as Saivopani~ad.' K~emaraja has  referred to it at many places in his commentary on Siva-sutras.  
 
-It is clear that it has been acknowledged by the great expon,  ents of Saivagama as a very authentic work on yoga.  
+It is clear that it has been acknowledged by the great expon,  ents of Śaivagama as a very authentic work on yoga.  
 
 THE TEXT  
 
@@ -98,13 +98,13 @@ mentaries have not been translated.
 
 THE DATE OF V1J:fiIANABHAIRAV A AND THE  COMMENTARIES  
 
-Vijiiiinabhairava is a part of the ancient Tantras. It is held in  high esteem in Saivagama. Abhinavagupta calls it Siva-vijiiana 
+Vijiiiinabhairava is a part of the ancient Tantras. It is held in  high esteem in Śaivagama. Abhinavagupta calls it Siva-vijiiana 
 
 upani~ad.  
 
 The text of Vijiianabhairava claims to be the quintessence of  Rudrayamala Tantra which means union of Rudra with His  Sakti (Spiritual Energy). The authentic text of Rudrayamala  Tantra is not available. So it is not possible to say how far the  text of Vijiianabhairava corresponds to that of Rudrayamala  Tantra.  
 
-Tantras contain descriptions ot'ritual practices, sacred formulae  (mantras). mystical diagrams (yantras), gestures (mudriis),  postures (asallas), initiations (dlkia), yoga or mystic practices.  Vijiiiinabhairava is purely a manual of mystic practices in  accordance with Saivagama.  
+Tantras contain descriptions ot'ritual practices, sacred formulae  (mantras). mystical diagrams (yantras), gestures (mudriis),  postures (asallas), initiations (dlkia), yoga or mystic practices.  Vijiiiinabhairava is purely a manual of mystic practices in  accordance with Śaivagama.  
 
 In the present state of our knowledge, it is impossible to give  the exact datc of Vijiianabhairava. The earliest reference to it is  found in Viimananiith's Advayasampatti-varttika. It is likely that  Vamananatha may be the same as Vamana, the celebrated writer  on Poetics who flourished during the reign of King Jayapida of  Ka~h1l1ir (779---813 A.D.) If that be so, then it can be easily said  that Vijiianabhairava wa~ very well known in the 8th century  -\.D. Perhaps. it may have been compiled a century earlier. 
 
@@ -190,7 +190,7 @@ Introduction xv
 
 biological energy, bio-plasma, etc. It has been a moot point in  western Philosophy and Psychology as to how mind which is  psychic in nature affects the body which is physical or material  in nature. According to Indian Philosophy. between the body  and manas or mind. there is prii1)a which serves as a link  between the two. PriiIJa is not mind; it is insentient, but it  is not like gross physical energy. It is subtle biological  energy which catches the vibrations of the mind and transmits  them to the nerves and plexuses and also physical vibrations  to the mind. By controlling the mind one can control the priiIJa,  and by controlling the prii1)a. one can control the mind.  
 
-According to Saivagama, priiIJa is not something alien to safnl·it  or consciousne~s. but the. first evolute of satnvil (consciousness)  Priik satin';1 priiIJe pariIJatii. In the process of creation SOInl';1  or consciousness is at first transformed into priiIJa. So priiIJa is a  phase of consciousness itself.  
+According to Śaivagama, priiIJa is not something alien to safnl·it  or consciousne~s. but the. first evolute of satnvil (consciousness)  Priik satin';1 priiIJe pariIJatii. In the process of creation SOInl';1  or consciousness is at first transformed into priiIJa. So priiIJa is a  phase of consciousness itself.  
 
 The word priiIJa is used both in the general sense of priiIJanii  or priiIJa-sakli or life-principle or life-force and in the specific  sense of various biological functions. This life-force expresses  itself in breath. PriiIJa or the life-force cannot be contacted  directly. It is only through breath that priiIJa or life-force can be  influenced. So the word prii1Ja is generally used for breath also  though sometimes the word viiyu (as priiIJa-viiyu) is added to it.  In this context the word prii1Ja is used for the breath that is  exhaled. and apiina is used for the breath that is inhaled.  The word priiIJa is thus used in three senses - (I) in a general  sense of priiIJa-sakli or life-force, (2) in a <;pecific sense accord 
 
@@ -568,9 +568,9 @@ It should be borne in mind that the sphere of nara extends  from prithivl tattva
 
 ~fAr~: ~ ifi1{"1IN<a( ~ II  
 
-"The (dualistic) Saiva system is superior to the vedas and  other scriptures, the system pertaining to the left-handed path is  superior to the (dualistic) Saiva one: the system pertaining to  the right-handed path is superior to the left-handed one; the  Kaula system is superior to the right-handed one and Trika is  superior to the Kaula system. "Since Trika is superior to every  other system or scripture, it has been designated as siira, the  quintessence of all philosophical systems and spiritual praxis.  
+"The (dualistic) Śaiva system is superior to the vedas and  other scriptures, the system pertaining to the left-handed path is  superior to the (dualistic) Śaiva one: the system pertaining to  the right-handed path is superior to the left-handed one; the  Kaula system is superior to the right-handed one and Trika is  superior to the Kaula system. "Since Trika is superior to every  other system or scripture, it has been designated as siira, the  quintessence of all philosophical systems and spiritual praxis.  
 
-The (dualistic) Saiva system is characterized by external rituals.  In viima or left-handed path, the emphasis is laid on Self-conscious ness in the midst of sensuous experience of form, sound,  touch, taste and smell. In dak#1Ja or right-handed path, empha sis is laid on meditation. In Kaula system, the emphasis is laid  on the realization of universal consciousness. In Trika, the ideal  is not only the realization of the essential or divine Self but also  jagadiinanda in which the world is realized as the bliss of the  Divine made visible.  
+The (dualistic) Śaiva system is characterized by external rituals.  In viima or left-handed path, the emphasis is laid on Self-conscious ness in the midst of sensuous experience of form, sound,  touch, taste and smell. In dak#1Ja or right-handed path, empha sis is laid on meditation. In Kaula system, the emphasis is laid  on the realization of universal consciousness. In Trika, the ideal  is not only the realization of the essential or divine Self but also  jagadiinanda in which the world is realized as the bliss of the  Divine made visible.  
 
 What is siiriit-siiravibhiiga i. e. further essential ramification  of the above quintessence? This is what K~emaraja has to say  on his point.  
 
@@ -636,7 +636,7 @@ Reality in which there is complete union of Siva and Sakt;, and  which includes 
 
 (I) Siva, (2) Sadasiva, (3) Uvara, (4) Vidya, (5) Maya,  (6) Kala, (7) Niyati, (8) Puru~a, (9) Prakrti. According to others,  these are (1) Siva, (2) Sakti (3) Sadasiva, (4)Isvara (5) Sqddha  Vidya, (6) Mahamaya (7) Maya, (8) Purulja-(9) Prakrti. These are  nine forms from the point of view of tattvas (constitutive prin 
 
-ciples). From the point of view of mantra, the nine forms are  1. ~ 2. \ 3. Iif, 4. '{ 5. ~ 6. '{ 7. I{ 8. U{ 9. 0: (II{)  5. Trisirobhairava is the name of a Tantra work which is now  lost. It summarizes the entire manifestation under three broad  categories viz., Siva, Sakt; and Nara Utva or living being). In the  third question, the Devi wants to know whether the nature of  the Supreme consists of the integral combination of these three  categories as symbolized by the mantra saub (m:). This specific  mantra is known as Parablja, Hrdaya blja or Prasada. Sa (U)  of this mantra symbolizes the tath'as from earth to maya ( 31  tattvas of Saiva philosophy); au (q\) symbolizes Suddha v;dyii,  /svara and SadiiJiva and the two dots of the visarga (:) symbolize  Siva and Sakti. For details, see the author's Note No. 2 under  the first Sutra of the Second section of the Siva-sutras.  Now of the three categories of Nara, Sakti and Siva the 'S' (~)  of the mantra Saub. (m:) covers Nara, au (m-) covers Sakti, and  the visarga (b.) covers Siva. So the 31 tattvas of Saiva Agama are  covered by Nara,· the three tattvas viz .• Suddha vidya, /sl'ara and  SadiiSiva are covered by Sakti, and the other two tattvas are  covered by Siva.  
+ciples). From the point of view of mantra, the nine forms are  1. ~ 2. \ 3. Iif, 4. '{ 5. ~ 6. '{ 7. I{ 8. U{ 9. 0: (II{)  5. Trisirobhairava is the name of a Tantra work which is now  lost. It summarizes the entire manifestation under three broad  categories viz., Siva, Sakt; and Nara Utva or living being). In the  third question, the Devi wants to know whether the nature of  the Supreme consists of the integral combination of these three  categories as symbolized by the mantra saub (m:). This specific  mantra is known as Parablja, Hrdaya blja or Prasada. Sa (U)  of this mantra symbolizes the tath'as from earth to maya ( 31  tattvas of Śaiva philosophy); au (q\) symbolizes Suddha v;dyii,  /svara and SadiiJiva and the two dots of the visarga (:) symbolize  Siva and Sakti. For details, see the author's Note No. 2 under  the first Sutra of the Second section of the Siva-sutras.  Now of the three categories of Nara, Sakti and Siva the 'S' (~)  of the mantra Saub. (m:) covers Nara, au (m-) covers Sakti, and  the visarga (b.) covers Siva. So the 31 tattvas of Śaiva Agama are  covered by Nara,· the three tattvas viz .• Suddha vidya, /sl'ara and  SadiiSiva are covered by Sakti, and the other two tattvas are  covered by Siva.  
 
 6. In the fourth question, the Devi wants to know whether the  nature of the Supreme consists of the three Saktis-Para (trans cendent in which there is no distinction of Siva and Sakti). Apara8 VijRiinabhairal'a  
 
@@ -1406,7 +1406,7 @@ NOTES
 
 1. There is a double entendre in nii1.lata. It means both well versed and well bathed (ni-snata) i.e. deeply steeped.  2. Anahala niida literally means unstruck sound. It is a sound  that goes on vibrating within spontaneously without any impact.  About ten such kinds of niida (sound) that vibrate within grow ing subtler and subtler are referred to in books on Yoga. Here  the reference is to the subtlest niida that vibrates in prdQasakti  present in srqumna. Prioa§aktiis, in the universe, representative  of parasakti, the sakti of Parama Siva. It is the eternal energy  of consciousness. the spiritual spanda.  
 
-When KW:'lflalinl rises, one is able to hear this. The yogI has  to concentrate on this sound which is at first like that of a hand bell, then subtler like that of a flute, then subtler still like that of  vl1.la, and then subtler like that of the buzz of a bee. When the  yogi concentrates on this nada, he forgets everything of the exter nal world, is gradually lost in the internal sound and is finally  absorbed in cidakiisa i.e. in the vast expanse of consciousness.  This is what is meant by saying that he attains to Brahman. This  kind of yoga is' known as var1.la in A1.Iava upiiya of Saiva yoga, 
+When KW:'lflalinl rises, one is able to hear this. The yogI has  to concentrate on this sound which is at first like that of a hand bell, then subtler like that of a flute, then subtler still like that of  vl1.la, and then subtler like that of the buzz of a bee. When the  yogi concentrates on this nada, he forgets everything of the exter nal world, is gradually lost in the internal sound and is finally  absorbed in cidakiisa i.e. in the vast expanse of consciousness.  This is what is meant by saying that he attains to Brahman. This  kind of yoga is' known as var1.la in A1.Iava upiiya of Śaiva yoga, 
 
 VijMnabhaira,a 37  
 
@@ -1432,7 +1432,7 @@ o Bhairavi, by perfect recitation of prfJl)tlva or the sacred  syllable Auria, e
 
 NOTES  
 
-I. Et cetera refers to other prfJl)tlvas. There are chiefly three  pr~avas-(I) the Vedic pra\lava, Au';z. (2) the Saiva prfJl)tl,a,  BUm and (3) the Sakta pr~ava, BrIm.  
+I. Et cetera refers to other prfJl)tlvas. There are chiefly three  pr~avas-(I) the Vedic pra\lava, Au';z. (2) the Śaiva prfJl)tl,a,  BUm and (3) the Sakta pr~ava, BrIm.  
 
 2. Pluta or the protracted form is an utterance of three  matras or moras. Just as the crow of the cock is at first short,  then long and then protracted, even so there are three phases  of the recitation of Aum-short (hras,a), then long (dlrgha) and  then protracted (pluta).  
 
@@ -1904,11 +1904,11 @@ Adhvaprakriyaya tattvalJl ~aivalJl dhyatva mahodayai;l 1157
 
 TRANSLATION  
 
-If one meditates on the Saiva tattval (which is the quintes sence) of this entire universe on all sides and to its last limits by  the technique of ~ac;ladhva2 he will experience great awakening.8  
+If one meditates on the Śaiva tattval (which is the quintes sence) of this entire universe on all sides and to its last limits by  the technique of ~ac;ladhva2 he will experience great awakening.8  
 
 NOTES  
 
-1. Siva is both praJciisa and vimarśa, both the light of  Consciousness and the consciousness or awareness of that  consciousness. Saiva tattva is the svariipa or essential nature of  Siva. Meditating on Saiva tattva means meditating on the svarUpa  (own form, essential nature) of Siva who is both prakiiSa and  vimarśa.  
+1. Siva is both praJciisa and vimarśa, both the light of  Consciousness and the consciousness or awareness of that  consciousness. Śaiva tattva is the svariipa or essential nature of  Siva. Meditating on Śaiva tattva means meditating on the svarUpa  (own form, essential nature) of Siva who is both prakiiSa and  vimarśa.  
 
 2. The sa~adhvii has two sides- Viieaka and viieya. The  viieaka ·side-var~a, mantra and pada are an expression of  prakiiSa, the viieya side-kalii tattva, and bhuvana are an  expression of vimarśa.  
 
@@ -2324,7 +2324,7 @@ In verses 69-73, Bhairava says that one can turn even a sen·  suous joy into a 
 
 In each of these, the emphasis is on the meditation of the  source of the joy which is spiritual. Leaving aside the various  sensuous media, the aspirant should meditate on that fountain  of all joy which only trickles in small drops in all the joys of  life.  
 
-In verses 69-72, the examples given are only those of physical  delight. In verses 73, the main example is of aesthetic rapture  that one feels in listening to a mefodious song. According to  Saiva aesthetics, there can be aesthetic rapture only when the 
+In verses 69-72, the examples given are only those of physical  delight. In verses 73, the main example is of aesthetic rapture  that one feels in listening to a mefodious song. According to  Śaiva aesthetics, there can be aesthetic rapture only when the 
 
 70 Vijiianabhairava  
 
@@ -3310,7 +3310,7 @@ It should be borne in mind that the kaivalya (isolation) reco mmeJlded by the no
 
 102 VijRiinabhairava  
 
-from the one advocated by Silikhya yoga. In accordance with its  dualistic standpoint, Silikhya-Yoga believes "that there is nothing  common between pwu/a and pralcrti, and, therefore, kaivalya,  according to it, means complete isolation from Prakrti, and,  hence. from the universe. In Saiva philosophy. it means the  disappearance of the externality of the world and its contraction  in $iva with whom the experient is identified in Kaivalya.  
+from the one advocated by Silikhya yoga. In accordance with its  dualistic standpoint, Silikhya-Yoga believes "that there is nothing  common between pwu/a and pralcrti, and, therefore, kaivalya,  according to it, means complete isolation from Prakrti, and,  hence. from the universe. In Śaiva philosophy. it means the  disappearance of the externality of the world and its contraction  in $iva with whom the experient is identified in Kaivalya.  
 
 The imperceptible. inaudible, unstruck sound without a vowel  or consonant would be 'it i.e. the bindu (dot) only minus  the vowel 'a'. The bindu by itself represents $iva. The inaudible  sound without consonant or vowel would be pure visarga Sf; i.e.  the visarga without 'a'. This pure visarga represents lalcti. Since  the interior sOllnd being aniihata cannot be h~ard and being  without vowel or consonant cannot be uttered, it can only be  meditated upon. Since bindu, without vowel or consonant re 
 
@@ -3540,11 +3540,11 @@ Kirpcijjiiair ya smrta suddhil). sa suddhil). sambhudadane I  Na sucir hyasucis 
 
 TRANSLATION  
 
-That purity which is prescribed by people of little understand ing is considered to be only impurity in the Saiva system. It  should not be considered to be purity; rather it is impurity in  reality. Therefore one who has freed himself of vikalpas (dichot omizing thought-constructs) alone attains happiness.  
+That purity which is prescribed by people of little understand ing is considered to be only impurity in the Śaiva system. It  should not be considered to be purity; rather it is impurity in  reality. Therefore one who has freed himself of vikalpas (dichot omizing thought-constructs) alone attains happiness.  
 
 NOTES  
 
-The purity criticized in this verse r.efers only to physical purity  like washing, bathing, etc. The Saiva system referred to is the  Trika system. This system does not lay any special store by  external physical purity. It considers only-mental purity to be  real purity. Physical purity depends only on vikalpas-differen-.  
+The purity criticized in this verse r.efers only to physical purity  like washing, bathing, etc. The Śaiva system referred to is the  Trika system. This system does not lay any special store by  external physical purity. It considers only-mental purity to be  real purity. Physical purity depends only on vikalpas-differen-.  
 
 tiating thought-constructs and is centred round the body. There fore, the Trika system considers it only an impurity from the  higher spiritual point of view. It does not condemn physical  purity as such. It condemns it only when it is considered to be 
 
@@ -4052,7 +4052,7 @@ Thus contemplating over the fact that the Subject, object and  cit constitute th
 
 This is Siiktopiiya.  
 
-According to Svami Lak~m!loa Joo, there is another reading  of this verse prevalent in the Saiva tradition :  
+According to Svami Lak~m!loa Joo, there is another reading  of this verse prevalent in the Śaiva tradition :  
 
 "Jnanam prakiiSakalJlloke atma caiva prakiiSakal}.l  Anayor aprthagbhiivat jiiane jiiani vibhiivyate." II  "In the world, jiiiina or knowledge reveals things and the Self  is the source of all revelation. Since there is no difference bet ween the Self and Jiiiina (knowledge), the jiiiinl (knower or Self)  is revealed in the jiiiina (knowledge)."  
 
@@ -4412,7 +4412,7 @@ VijHanabhairava 141  NOTES
 
 As Kalla~a puts it prak sQ1fIvit pralJe pariIJata. In all living  creatures, the divine consciousness is, at first, converted into  priirJ.a. This is known as pralJaSakti. Its two main forms in all  living beings are known as pralJa and apiina. PralJa is the breath  of exhalation and apana that of inhalation.  
 
-In Saivagama, the letter ~ (ha) is the symbol of praIJaJakti. In  Sarada script of Kashmir, the letter 'ha' is written in a curvili near fashion. Both priiIJa and apiina move in all living beings in  a curvilinear way. That is why priiIJa and apiina have been  designated as ku!iliikrti/J. (of curvilinear form) in the verse. The  letter ha which is written in a curvilinear fashion, therefore, very  correctly represents priiIJaJakti.  
+In Śaivagama, the letter ~ (ha) is the symbol of praIJaJakti. In  Sarada script of Kashmir, the letter 'ha' is written in a curvili near fashion. Both priiIJa and apiina move in all living beings in  a curvilinear way. That is why priiIJa and apiina have been  designated as ku!iliikrti/J. (of curvilinear form) in the verse. The  letter ha which is written in a curvilinear fashion, therefore, very  correctly represents priiIJaJakti.  
 
 The apana breath (inhalation) has been very significantly  denominated as jlva (life). Apiina or inhalation is the breath that  returns inside after the priiIJa or exhalation. If apiina or the  breath of inhalation does not return, the living being is bound to  die.  
 
@@ -4986,7 +4986,7 @@ Vapus : (bhairavasya) fOim; the nature of Bhairava, cosmic  essence.
 
 Glossary of Technical Terms 159  
 
-Varua : letter; sound of letter; subtle energy of speech.  Vahni : a technical word of Saiva Yoga, meaning entering com pletely into the root and half of the middle of adhal)  kur;ujalini.  
+Varua : letter; sound of letter; subtle energy of speech.  Vahni : a technical word of Śaiva Yoga, meaning entering com pletely into the root and half of the middle of adhal)  kur;ujalini.  
 
 Vacaka : word; indicator.  
 
@@ -5008,7 +5008,7 @@ Viyat: space; sky.
 
 Vilaya : concealment.  
 
-Vi~a : a technical word of Saiva yoga, meaning entering into  the remaining half and wholly into the top of adhal)ku1){ia lini right upto the portion where urdhva-ku1){ialini ends  (from the root vii to pervade).  
+Vi~a : a technical word of Śaiva yoga, meaning entering into  the remaining half and wholly into the top of adhal)ku1){ia lini right upto the portion where urdhva-ku1){ialini ends  (from the root vii to pervade).  
 
 Visriinti : rest; peace.  
 

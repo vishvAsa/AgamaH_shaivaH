@@ -841,7 +841,7 @@ Vivarana (Śrīpūrvavivaraṇa)
 X/292 
 VI/3018 
 21. Published in KSTS with the commentaries of Kşemaraja (partly) and Sivopadhyaya in one volume and with that of Bhaṭṭa Ananda in an other volume, bound in one. Later published by L. Silburn under the title Le Vijñāna Bhairava, text and commentary translated into French under the Institute of Indian Civilization Series. Text with English translation by Jaidev Singh and Hindi/Sanskrit Commentaries by B.V. Dvivedi both published by Motilal Banarsidass. 
-22. T. Goudriaan has recently brought out a critical edition and English translation under the title Viņāsikhā- tantra: A Saiva Tantra Of The Left Current (Delhi, 1985). 
+22. T. Goudriaan has recently brought out a critical edition and English translation under the title Viņāsikhā- tantra: A Śaiva Tantra Of The Left Current (Delhi, 1985). 
 23. Two MSS are listed in the catalogue of the Palace Library of Tanjore (650A, 651B). The Tă. Să. lists some MSS with the jyotsna commentary (p. 60). 
 - (Tantrāloka-) 
 III/471; XII/433 

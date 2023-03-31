@@ -2,15 +2,42 @@
 title = "08 तत्त्व-स्वरूप-प्रकाशनम्"
 
 +++
-अथ अष्टममाह्निकम् । 
+अथ अष्टममाह्निकम् ।
 
-अथ तत्त्वाध्वा निरूप्यते । यदिदं विभवात्मकं भुवनजातमुक्तं गर्भीकृतानन्तविचित्रभोक्तृभोग्यं, 
+<details><summary>English</summary>
 
-TANTRASĀRA 107 
+Chapter Eight 
+</details>
 
-तत्र यदनुगतंमहा-प्रकाशरूपं तत् महासामान्यकल्पं परमशिवरूपम् । यत्तु कतिपयकतिपयभेदानुगतं रूपं तत्तत्त्वं, यथा पृथिवी नाम धृतिकाङ्गिन्यस्थौल्य गादिरूपा कालाग्निप्रभृति-वीरभद्रान्तभुवनेशाधितिष्ठित-समस्तब्रह्माण्डानुगता । 
 
-Chapter Eight Whatever has been stated previously regarding the creation of the worlds is [the result of] the greatness of the Lord's power of free dom. The world contains within it myriads of knowers having the diverse forms of objects for their enjoyment. What permeates all of these worlds:like a great.universal' (mahāsāmānya)[^115] is the : Great Lord (Paramesvara). On the other hand, tattva is the form abiding in only some [of these worlds] possessing distinctive fea tures. For example, the earth principle possesses qualities.of bear ing, hardness, and grossness. It permeates the entire sphere of Brahmā, beginning with Kālāgni and ending with Vīrabhadra, [^116] whose regions are superintended by their respective lords. 
+अथ तत्त्वाध्वा निरूप्यते ।
+
+यद् इदं विभवात्मकं भुवन-जातम् **उक्तं**  
+गर्भी-कृतानन्त-विचित्र-भोक्तृ-भोग्यं,  
+तत्र यद् +++(अनुमानेन)+++ अनुगतं **महा-प्रकाश-रूपं**  
+तत् महा-सामान्य-कल्पं **परम-शिव-रूपम्** ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**विभवात्मकं** = स्वातन्त्र्य-स्फारात्मकम् ।
+
+"नाप्रकाशः प्रकाशते" इति न्यायेन   
+स्वातन्त्र्य-स्फारमयत्वात्,  
+विश्वस्य प्रकाशान्यथानुपपत्त्या,  
+यत् +++(अनुमानेन)+++ अनुयायि रूपं भासते  
+स एव शिव इति ।
+</details>
+
+<details><summary>English</summary>
+
+Whatever has been stated previously regarding the creation of the worlds is [the result of] the greatness of the Lord's power of freedom.  
+The world contains within it myriads of knowers having the diverse forms of objects for their enjoyment. 
+What permeates all of these worlds like a great.universal' (mahāsāmānya)[^115] is the : Great Lord (Paramesvara). 
+</details>
+
+
+
+On the other hand, tattva is the form abiding in only some [of these worlds] possessing distinctive fea tures. For example, the earth principle possesses qualities.of bear ing, hardness, and grossness. It permeates the entire sphere of Brahmā, beginning with Kālāgni and ending with Vīrabhadra, [^116] whose regions are superintended by their respective lords. 
 
 तत्र एषां तत्त्वानां कार्यकारणभावो दर्शाते, स च द्विविधः - पारमार्थिकः सृष्टश्च । तत्र पारमार्थिक एतावान् कार्यकारणभावो-यदुत कर्तृस्वभावस्य स्वतन्त्रस्य भगवत एवं-विधेन शिवादिधरान्तेन वपुषा स्वरूपभिन्नेन स्वरूपविश्रान्तेन च प्रथनम् । कल्पितस्तु कार्यकारणभावः परमेशेच्छाया नियतिप्राणया निर्मितः, स च यावति यदा नियतपौर्वापर्यावभासन | सत्यपि अधिके स्वरूपानुगतम् एतावत्येव, तेन योगीच्छातोऽपि अङ्कुरो बीजादपि, स्वप्नादौ घटादेरपीति। तत्रापि च परमेश्वरस्य कर्तृत्वानपाय इति अकल्पितोऽपि असौ पारमार्थिकः स्थित एव । पारमार्थिके हि भित्तिस्थानीये स्थिते रूपे सर्वम् इदम् उल्लिख्यमानं घटते न अन्यथा, अत एव सामग्र्या एव कारणत्वं युक्तं | सा हि समस्तभावसंदर्भमयी स्वतन्त्रसंवेदनमहिम्ना, तथा नियतनिजनिजदेशकालभावराशिस्वभावा प्रत्येकं वस्तुस्वरूपनिष्पत्तिसमये तथाभूताया हि अन्यथाभावो यथा यथा अधिकीभवति तथा तथा कार्यस्यापि विजातीयत्वं तारतम्येन पुष्यति, -इत्येवं संवेदनस्वातन्त्र्यस्वभावः परमेश्वर एव विश्वभावशरीरो घटादेर्निर्माता-कुम्भकारसंविदस्ततोऽनधिकत्वा 
 

@@ -606,7 +606,7 @@ Samayi Dikṣā See Diksā
 Sadyonirvāṇadikṣā See Dikşa Samayin 136, 205, 235 
 SADYOJYOTI 83, 139 
 Sahaja 139 
-Saiva 2, 100, 248 
+Śaiva 2, 100, 248 
 -discipline 103 
 -dualism 37 
 -fold 233, 250 
@@ -626,11 +626,11 @@ Sambhava Upaya 174, 202
 Saivism 116, 233, 247, 250 
 dualistic-138 
 Siddhanta-127 
-Saivite See Saiva 
+Saivite See Śaiva 
 174 
 Sambhu 48 (fn.) 
 SAMBHUNATHA 22, 35, 37,4 3, 44, 45, 46, 47, 48, 49, 50, 51, 52, 54, 59, 115, 252 
-Saivistic scriptures See Saiva Sañcayanyaya 76, 164 
+Saivistic scriptures See Śaiva Sañcayanyaya 76, 164 
 Śākta 197, 209 
 -class 224 
 Sāktanyasa See Nyasa 

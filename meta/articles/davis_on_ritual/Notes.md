@@ -9,9 +9,9 @@ LOCATING THE TRADITION
 
 1. The scholarly literature on puja is not large, considering its importance within  Hindu traditions. For descriptions of puja in various schools, see James Burgess,  "The Ritual of Ramesvaram," Indian Antiquary 12 (1883): 313-26; T. Goudriaan,  "Vaikhanasa Daily Worship according to the handbooks of Atri, Bhrgu, Kasyapa,  and Marici," Indo-Iranian Journal 12 (1970): 161-215; R. V. Joshi, Le ritual de la  devotion Krsnaite (Pondich6ry: Institut Fransais d'Indologie, 1959); K. Ranga chari, The Sii Vaisnava Brahmans (Madras: Government Press, 1931); and Mrs.  Sinclair Stevenson, The Rites of the Twice-Born (London: Oxford University Press,  1920), pp. 368-400. The most useful translations of puja texts are those of Ηέΐέηβ  Brunner-Lachaux, Somaiambhupaddhati, premiere partie (Pondichdry: Institut  Franiais d'Indologie, 1963), and T. Goudriaan, Kasyapa's Book of Wisdom (The  Hague: Mouton, 1965). Two notable ethnographic accounts are Paul B. Courtright,  "On This Holy Day in My Humble Way: Aspects of Puja," in J. P. Waghome and  N. Cutler (eds.), Gods of Flesh/Gods of Stone (Chambersburg, Pa.: Anima Publica tions, 1985), pp. 33-50; and Akos Ostor, The Play of the Gods (Chicago: Univer sity of Chicago Press, 1980).  
 
-2. The best general overview of Saiva siddhanta literature is Jan Gonda, Medi eval Religious Literature in Sanskrit (Wiesbaden: Otto Harrassowitz, 1977). While  our knowledge of this corpus of texts has been substantially augmented since Gonda  wrote, largely through the effort of scholars associated with the Institut Franfais  d'Indologie in Pondichdry, there has not yet been any synthetic account incorporat ing this new information. I attempt to cite in these notes a large portion of recent  scholarly work, so a diligent reader may follow up on topics of interest.  
+2. The best general overview of Śaiva siddhanta literature is Jan Gonda, Medi eval Religious Literature in Sanskrit (Wiesbaden: Otto Harrassowitz, 1977). While  our knowledge of this corpus of texts has been substantially augmented since Gonda  wrote, largely through the effort of scholars associated with the Institut Franfais  d'Indologie in Pondichdry, there has not yet been any synthetic account incorporat ing this new information. I attempt to cite in these notes a large portion of recent  scholarly work, so a diligent reader may follow up on topics of interest.  
 
-3. I use the 1975 devanagari edition of Kamikagama edited by C. Swaminatha siva. This edition virtually repeats the 1909 grantha text edited by Mayilai Ala gappa Mudaliar, which in turn was based on seven separate manuscripts. I have also  consulted a high-quality manuscript of KA formerly belonging to Sri Swaminatha  Sivacarya of Tiruvatuturai matha, now held by the Institut Fran;ais d'Indologie at  Pondichdry (T.298A). I use alternate readings based on this manuscript in a few  cases where they seem clearly preferable. For Kriyakramadyotika, I follow the 1927  grantha edition (based on four manuscript sources) published by the Jfianasamband ham Press in Cidambaram, which includes Nirmalamani's commentary. The 1967  edition of the South Indian Archakas Association follows the 1927 edition generally  but contains numerous mistakes and adds many apocryphal passages. It is clear  from a comparison of the texts that the 1927 edition of KKD is much truer to the text  as it was available to Nirmalamani in the sixteenth century. A critical edition of this  central Saiva siddhanta ritual text, based on thirty manuscripts, is currently being  prepared under the direction of S. S. Janaki at the Kuppuswami Sastri Research  Institute, Madras. 
+3. I use the 1975 devanagari edition of Kamikagama edited by C. Swaminatha siva. This edition virtually repeats the 1909 grantha text edited by Mayilai Ala gappa Mudaliar, which in turn was based on seven separate manuscripts. I have also  consulted a high-quality manuscript of KA formerly belonging to Sri Swaminatha  Sivacarya of Tiruvatuturai matha, now held by the Institut Fran;ais d'Indologie at  Pondichdry (T.298A). I use alternate readings based on this manuscript in a few  cases where they seem clearly preferable. For Kriyakramadyotika, I follow the 1927  grantha edition (based on four manuscript sources) published by the Jfianasamband ham Press in Cidambaram, which includes Nirmalamani's commentary. The 1967  edition of the South Indian Archakas Association follows the 1927 edition generally  but contains numerous mistakes and adds many apocryphal passages. It is clear  from a comparison of the texts that the 1927 edition of KKD is much truer to the text  as it was available to Nirmalamani in the sixteenth century. A critical edition of this  central Śaiva siddhanta ritual text, based on thirty manuscripts, is currently being  prepared under the direction of S. S. Janaki at the Kuppuswami Sastri Research  Institute, Madras. 
 
 166 * Notes to Introduction    
 
@@ -51,71 +51,71 @@ cussions of the general role of temple and temple ritual in medieval South India
 
 21. Compare Abhinavagupta's account (in Tantraloka, ch. 36) of the division of  agama-based Saivism into three propensities, as K. C. Pandey summarizes it:  
 
-[Siva] instructed the sage, Durvasas, to revive the Saivagamic teaching. The sage  accordingly divided all the saivagamas into 3 classes according as they taught mo nism, dualism or monism-cum-dualism, imparted their knowledge to his 3 mind-bora  sons, Tryambaka, Amardaka, and Srinatha respectively, and charged each one of  them separately with the mission of spreading the knowledge of their respective  Agamas. Thus there came into existence three Saiva Tantric Schools, each known by  the name of the first earthly progenitor.  
+[Siva] instructed the sage, Durvasas, to revive the Śaivagamic teaching. The sage  accordingly divided all the saivagamas into 3 classes according as they taught mo nism, dualism or monism-cum-dualism, imparted their knowledge to his 3 mind-bora  sons, Tryambaka, Amardaka, and Srinatha respectively, and charged each one of  them separately with the mission of spreading the knowledge of their respective  Agamas. Thus there came into existence three Śaiva Tantric Schools, each known by  the name of the first earthly progenitor.  
 
 K. C. Pandey, Abhinavagupta: An Historical and Philosophical Study, Chow khamba Sanskrit Series, vol. 1 (Benares: Chowkhamba Sanskrit Series Office,  1935), p. 72. 
 
 168 • Notes to Introduction    
 
-22. David N. Lorenzen discusses these and many other references to the four  (most often) Saiva schools. See The Kdpalikas and Kalamukhas: Two Lost Saivite  Sects (Berkeley: University of California Press, 1972), pp. 1-12. For a general  summary of several individual schools of Saivism, see also Pranabananda Jash, His 
+22. David N. Lorenzen discusses these and many other references to the four  (most often) Śaiva schools. See The Kdpalikas and Kalamukhas: Two Lost Saivite  Sects (Berkeley: University of California Press, 1972), pp. 1-12. For a general  summary of several individual schools of Saivism, see also Pranabananda Jash, His 
 
 tory of Saivism (Calcutta: Roy and Chaudhury, 1974).  
 
-23. Ηέΐέηε Brunner discusses the Saiva siddhanta characterization of its main  Saiva competitor in "The PaSupatas as seen by the Saivas," Schriften zur Geschichte  und Kultur des alien Orients 18 (1986): 513-20.  
+23. Ηέΐέηε Brunner discusses the Śaiva siddhanta characterization of its main  Śaiva competitor in "The PaSupatas as seen by the Śaivas," Schriften zur Geschichte  und Kultur des alien Orients 18 (1986): 513-20.  
 
-24. Significant secondary sources concerning Saiva siddhanta monastic lineages  include: R. D. Baneiji, The Haihayas of Tripuri and Their Monuments, Memoirs of  the Archaeological Survey of India, no. 23 (Calcutta: Government of India, 1931);  V. V. Mirashi, "The Saiva Acaryas of the Mattamayiira Clan," Indian Historical  Quarterly 26 (1950): 1-16; V. V. Mirashi (ed.), Inscriptions of the Kalachuri-Chedi  Era, Corpus Inscriptionum Indicarum, vol. 4 (Ootacamund: Government Epigraph ist for India, 1955); J. Van Troy, "The Social Structure of the Saiva-siddhantika  Ascetics (700-1300 A.D.)," Indica 11 (1974): 77-86; B.G.L. Swamy, "The Golaki  School of Saivism in the Tamil Country," Journal of Indian History 53 (1975):  167-209; and Cynthia Talbot, "Golaki Matha Inscriptions from Andhra Pradesh: A  Study of a Saiva Monastic Lineage," in Vajapeya: Essays on Evolution of Indian Art  and Culture (Delhi: Agam Kala Prakashan, 1987), pp. 133-46. For Southeast Asia,  see K. Bhattacharya, Les religions brahmaniques dans I'Ancien Cambodge (Paris:  Ecole Franfaise d' Extreme-Orient, 1961).  
+24. Significant secondary sources concerning Śaiva siddhanta monastic lineages  include: R. D. Baneiji, The Haihayas of Tripuri and Their Monuments, Memoirs of  the Archaeological Survey of India, no. 23 (Calcutta: Government of India, 1931);  V. V. Mirashi, "The Śaiva Acaryas of the Mattamayiira Clan," Indian Historical  Quarterly 26 (1950): 1-16; V. V. Mirashi (ed.), Inscriptions of the Kalachuri-Chedi  Era, Corpus Inscriptionum Indicarum, vol. 4 (Ootacamund: Government Epigraph ist for India, 1955); J. Van Troy, "The Social Structure of the Śaiva-siddhantika  Ascetics (700-1300 A.D.)," Indica 11 (1974): 77-86; B.G.L. Swamy, "The Golaki  School of Saivism in the Tamil Country," Journal of Indian History 53 (1975):  167-209; and Cynthia Talbot, "Golaki Matha Inscriptions from Andhra Pradesh: A  Study of a Śaiva Monastic Lineage," in Vajapeya: Essays on Evolution of Indian Art  and Culture (Delhi: Agam Kala Prakashan, 1987), pp. 133-46. For Southeast Asia,  see K. Bhattacharya, Les religions brahmaniques dans I'Ancien Cambodge (Paris:  Ecole Franfaise d' Extreme-Orient, 1961).  
 
-25. As a tenth-century inscription from Madhya Pradesh refers to one important  Saiva siddhanta branch, the Mattamayiira. See F. Kielhorn, "A Stone Inscription  from Ranod (Narod)," Epigraphia Indica 1 (1892): 351-61.  
+25. As a tenth-century inscription from Madhya Pradesh refers to one important  Śaiva siddhanta branch, the Mattamayiira. See F. Kielhorn, "A Stone Inscription  from Ranod (Narod)," Epigraphia Indica 1 (1892): 351-61.  
 
 26. As Brunner puts it, the paddhatis aim at "unification of the often contradic tory teachings of the agamas, and have performed their function so well that they  have ended up somewhat eclipsing the agamas themselves" ("Importance de la  litt&ature agamique," p. 110).  
 
-27. On AghoraSiva's life, see Wayne Surdam, "South Indian Saiva Rites of Initi ation: "The DHc§avidhi' of AghoraSivacarya's 'Kriyakramadyotika'" (Ph.D. disserta tion, University of California, Berkeley, 1984), pp. xvi-xxi. AghoraSiva's known  works are listed in V. Raghavan, New Catalogus Catalogorum (Madras: University  of Madras, 1968), vol. 1, pp. 58-59.1 have attempted to summarize the intellectual  background of Aghorasiva in "Aghora&va's Background," in Dr. S. S. JanaM Sha shtyabdapurti Commemoration Volume (Madras: Kuppuswami Sastri Research In stitute, forthcoming).  
+27. On AghoraSiva's life, see Wayne Surdam, "South Indian Śaiva Rites of Initi ation: "The DHc§avidhi' of AghoraSivacarya's 'Kriyakramadyotika'" (Ph.D. disserta tion, University of California, Berkeley, 1984), pp. xvi-xxi. AghoraSiva's known  works are listed in V. Raghavan, New Catalogus Catalogorum (Madras: University  of Madras, 1968), vol. 1, pp. 58-59.1 have attempted to summarize the intellectual  background of Aghorasiva in "Aghora&va's Background," in Dr. S. S. JanaM Sha shtyabdapurti Commemoration Volume (Madras: Kuppuswami Sastri Research In stitute, forthcoming).  
 
-28. For two scholarly summaries of Saiva siddhanta doctrine based on the  paddhati literature, see Rohan A. Dunuwila, Saiva Siddhanta Theology: A Context  for Hindu-Christian Dialogue (Delhi: Motilal Banarsidass, 1985) (based primarily  on Bhojadeva's TP); and K. C. Pandey, An Outline of History of Saiva Philosophy  (Delhi: Motilal Banarsidass, 1986) (first printed in 1955 as Bhaskari, vol. 3). Jayan 
+28. For two scholarly summaries of Śaiva siddhanta doctrine based on the  paddhati literature, see Rohan A. Dunuwila, Śaiva Siddhanta Theology: A Context  for Hindu-Christian Dialogue (Delhi: Motilal Banarsidass, 1985) (based primarily  on Bhojadeva's TP); and K. C. Pandey, An Outline of History of Śaiva Philosophy  (Delhi: Motilal Banarsidass, 1986) (first printed in 1955 as Bhaskari, vol. 3). Jayan 
 
-dra Soni, Philosophical Anthropology in Saiva Siddhanta (Delhi: Motilal Banar sidass, 1989), is based primarily on the works of the sixteenth-century Saiva author  Sivagrayogin.  
+dra Soni, Philosophical Anthropology in Śaiva Siddhanta (Delhi: Motilal Banar sidass, 1989), is based primarily on the works of the sixteenth-century Śaiva author  Sivagrayogin.  
 
-29. The best general account of the Tamil version of Saiva siddhanta is M. Dha-
+29. The best general account of the Tamil version of Śaiva siddhanta is M. Dha-
 
 Notes to Introduction · 169    
 
-vamony. Love of God according to Saiva Siddheinta (Oxford: Clarendon Press,  1971). Also useful are the collected lectures of V. A. Devasenapathy, with the  excellent title Of Human Bondage and Divine Grace (Cidambaram: Annamalai  University, 1963), and the study of K. Sivaraman, Saivism in Philosophical Per 
+vamony. Love of God according to Śaiva Siddheinta (Oxford: Clarendon Press,  1971). Also useful are the collected lectures of V. A. Devasenapathy, with the  excellent title Of Human Bondage and Divine Grace (Cidambaram: Annamalai  University, 1963), and the study of K. Sivaraman, Saivism in Philosophical Per 
 
-spective (Delhi: Motilal Banarsidass, 1973). A primary agenda of most historical  scholarship on Tamil Saiva siddhanta works of the thirteenth century and later has  been to develop a genealogy relating these texts directly to the works of the Tamil  nayanmars of the sixth through ninth centuries. Such studies generally pay lip ser 
+spective (Delhi: Motilal Banarsidass, 1973). A primary agenda of most historical  scholarship on Tamil Śaiva siddhanta works of the thirteenth century and later has  been to develop a genealogy relating these texts directly to the works of the Tamil  nayanmars of the sixth through ninth centuries. Such studies generally pay lip ser 
 
 vice to the role of the agamas in the philosophical system of Meykantar and his fol lowers, but they do not seriously investigate the connections between the Sanskrit  dgama literature and the later Tamil works.  
 
-30. The only critical work devoted to this, as far as I know, is the brief discus sion by Brunner, "Importance de la littirature agamique," pp. 118-19. For another  example of a Saiva author working in both Sanskrit and Tamil, see Bruno Dagens's  discussion of the sixteenth-century commentator Vedajfiana/Maiaifiagatecikar, in  "Introduction," SPM, pp. 5-15. I am indebted to Dagens for leading me to recon sider the relation of Sanskrit and Tamil Saiva siddhanta literature.  
+30. The only critical work devoted to this, as far as I know, is the brief discus sion by Brunner, "Importance de la littirature agamique," pp. 118-19. For another  example of a Śaiva author working in both Sanskrit and Tamil, see Bruno Dagens's  discussion of the sixteenth-century commentator Vedajfiana/Maiaifiagatecikar, in  "Introduction," SPM, pp. 5-15. I am indebted to Dagens for leading me to recon sider the relation of Sanskrit and Tamil Śaiva siddhanta literature.  
 
 31. On the poetry of the nayanmars, see especially the recent study and transla tions by Indira Peterson, Poems to Siva (Princeton: Princeton University Press,  1989).  
 
-32. On the use of texts in contemporary temple practice, see Carl Gustav Diehl,  Instrument and Purpose: Studies on Rites and Rituals of South India (Lund: C.W.K.  Gleerup, 1956). For a portrait of a Saiva priestly community in theological disarray,  see Chris Fuller's fascinating ethnography on the Madurai Mmak§i-Sundare£varar  temple priests, Servants of the Goddess: The Priests of a South Indian Temple  (Cambridge: Cambridge University Press, 1984).  
+32. On the use of texts in contemporary temple practice, see Carl Gustav Diehl,  Instrument and Purpose: Studies on Rites and Rituals of South India (Lund: C.W.K.  Gleerup, 1956). For a portrait of a Śaiva priestly community in theological disarray,  see Chris Fuller's fascinating ethnography on the Madurai Mmak§i-Sundare£varar  temple priests, Servants of the Goddess: The Priests of a South Indian Temple  (Cambridge: Cambridge University Press, 1984).  
 
-33. G. U. Pope (trans.), The nruvacagam, or "Sacred Utterances" of the Tamil  Poet, Saint, and Sage ManHckavacagar (Oxford: Clarendon Press, 1900), p. lxxiv.  The same position turns up repeatedly in general works on Saivism and Hinduism.  For instances, see: M. Dhavamony, "Saivism: Saiva Siddhanta," in Mircea Eliade  (ed.), Encyclopedia of Religion (New York: Macmillan Publishing Co., 1987), vol.  13, p. 11; and Thomas J. Hopkins, The Hindu Religious Tradition (Encino, Cal.:  Dickenson Publishing Co., 1971), p. 118.  
+33. G. U. Pope (trans.), The nruvacagam, or "Sacred Utterances" of the Tamil  Poet, Saint, and Sage ManHckavacagar (Oxford: Clarendon Press, 1900), p. lxxiv.  The same position turns up repeatedly in general works on Saivism and Hinduism.  For instances, see: M. Dhavamony, "Saivism: Śaiva Siddhanta," in Mircea Eliade  (ed.), Encyclopedia of Religion (New York: Macmillan Publishing Co., 1987), vol.  13, p. 11; and Thomas J. Hopkins, The Hindu Religious Tradition (Encino, Cal.:  Dickenson Publishing Co., 1971), p. 118.  
 
 34. For a more skeptical discussion of the question of integration between jnana  and kriya, see Ηέΐέηβ Branner-Lachaux, "Introduction," MrA (Section des rites),  esp. pp. xlii-xliii.  
 
 35. The texts set out an ideal program for worship that only the highly adept and  devout could follow completely. Yet they also recognize and allow for individual  variations and shortcuts in phrases repeated throughout, such as yathaiakti (in ac cord with one's capacity).  
 
-36. Agnipurana (ch. 72-106), LiAgapurana, and Sivapurana (Vayaviyasamhita  ch. 16-20) clearly articulate siddhanta positions. (Brunner briefly discusses the pu ranic usage of agamic material in "Importance de la littirature agamique," pp. 117  and 121.) Silpaiastras such as MM also reflect Saiva siddhanta practice, but through  the eyes of the sthapati rather than the acarya.  
+36. Agnipurana (ch. 72-106), LiAgapurana, and Sivapurana (Vayaviyasamhita  ch. 16-20) clearly articulate siddhanta positions. (Brunner briefly discusses the pu ranic usage of agamic material in "Importance de la littirature agamique," pp. 117  and 121.) Silpaiastras such as MM also reflect Śaiva siddhanta practice, but through  the eyes of the sthapati rather than the acarya.  
 
 37. I mention in the notes some of the disputes and differing formulations within 
 
 170 · Notes to Chapter One    
 
-the Saiva siddhanta order. In her translation of SP, and particularly in vol. 3,  Ηέΐέηβ Brunner-Lachaux presents a much more variegated portrait of Saiva sid dhanta literature, focusing repeatedly on doctrinal discussion within the order.  
+the Śaiva siddhanta order. In her translation of SP, and particularly in vol. 3,  Ηέΐέηβ Brunner-Lachaux presents a much more variegated portrait of Śaiva sid dhanta literature, focusing repeatedly on doctrinal discussion within the order.  
 
 CHAPTER ONE  
 
 RITUAL AND HUMAN POWERS  
 
-1. Some Saiva texts add "volition" (iccha) as a third inherent power of con sciousness.  
+1. Some Śaiva texts add "volition" (iccha) as a third inherent power of con sciousness.  
 
-2. The agamas of course recognize that not everyone seeks mok$a in this lifetime;  the world includes bubhukfus ("seekers of worldly enjoyments") as well as mumukfus  ("seekers of liberation"). But worldly powers and liberation do not lie along radi cally differing courses of action. Both result from the removal of fetters and the  manifestation of inherent powers. Sadhakas (mantra-adepts), for instance, employ  Saiva ritual and knowledge to gain specific worldly powers. For a full discussion,  see Ηέΐέηε Brunner, "Le sadhaka, personnage oubli6 du Sivaisme du Sud," Journal  asiatique 263 (1975): 411-43.  
+2. The agamas of course recognize that not everyone seeks mok$a in this lifetime;  the world includes bubhukfus ("seekers of worldly enjoyments") as well as mumukfus  ("seekers of liberation"). But worldly powers and liberation do not lie along radi cally differing courses of action. Both result from the removal of fetters and the  manifestation of inherent powers. Sadhakas (mantra-adepts), for instance, employ  Śaiva ritual and knowledge to gain specific worldly powers. For a full discussion,  see Ηέΐέηε Brunner, "Le sadhaka, personnage oubli6 du Sivaisme du Sud," Journal  asiatique 263 (1975): 411-43.  
 
-3. Contrary to what many modern advocates of Saiva siddhanta have held, the  igamas do not portray themselves as derived from or in any way subordinate to the  Vedas. On this matter, Ηέΐέηε Brunner's "Le Saiva-siddhanta, 'Essence' du Veda,"  Indologica Taurinensia 8 (1980-1981): 51-66, is a welcome statement. For a some 
+3. Contrary to what many modern advocates of Śaiva siddhanta have held, the  igamas do not portray themselves as derived from or in any way subordinate to the  Vedas. On this matter, Ηέΐέηε Brunner's "Le Śaiva-siddhanta, 'Essence' du Veda,"  Indologica Taurinensia 8 (1980-1981): 51-66, is a welcome statement. For a some 
 
-what different formulation, see Richard Davis, "Cremation and Liberation: A Saiva  siddhanta Revision," History of Religions 28 (1988): 37-53. Wayne Surdam, "The  Vedicization of Saiva Ritual," in S. S. Janaki (ed.), Siva Temple and Temple Ritu als (Madras: Kuppuswami Sastri Research Institute, 1988), pp. 52-60, deals with  the relationship as it has changed over time.  
+what different formulation, see Richard Davis, "Cremation and Liberation: A Śaiva  siddhanta Revision," History of Religions 28 (1988): 37-53. Wayne Surdam, "The  Vedicization of Śaiva Ritual," in S. S. Janaki (ed.), Siva Temple and Temple Ritu als (Madras: Kuppuswami Sastri Research Institute, 1988), pp. 52-60, deals with  the relationship as it has changed over time.  
 
 4. MrAVD vidya 1.20, from Michel Hulin's French translation.  5. Kamikagama refers to this useful technique as an analogy to the efficacy of  "interior worship":  
 
@@ -123,15 +123,15 @@ Visualizing with his mind, he should daily worship ParameSvara in this imagined 
 
 6. This useful convention I owe to Ηέΐέηε Brunner-Lachaux, who has employed  it in her translations and studies of saivagama.  
 
-7. Nirmalamam understands the Saiva form of meditation, in its concern to estab lish a relationship between meditator and divinity, to differ from Pataiijali yoga:  'Toga is the close connection (sambandha) during meditation with the object of  meditation; not, as in Patafijali, the condition of samadhr (KKDP, translated in  Surdam, "South Indian Saiva Rites," p. lv, n. 102).  
+7. Nirmalamam understands the Śaiva form of meditation, in its concern to estab lish a relationship between meditator and divinity, to differ from Pataiijali yoga:  'Toga is the close connection (sambandha) during meditation with the object of  meditation; not, as in Patafijali, the condition of samadhr (KKDP, translated in  Surdam, "South Indian Śaiva Rites," p. lv, n. 102).  
 
-8. KarA, cited by NirmaIamaQi in KKDP, and quoted in Janaki, ML p. 2.  9. For detailed discussion of mudras in Saiva ritual, see the series of six articles  by S. S. Janaki, "Saiva Mudras I-VI," Kalakshetra Quarterly 5-6 (1983-1984).  Photographs of the mudras may be found in those articles and also in SP 1, Plate 1,  "Mudra," and in Surdam, "South Indian Saiva Rites," Appendix, pp. 276-313. In 
+8. KarA, cited by NirmaIamaQi in KKDP, and quoted in Janaki, ML p. 2.  9. For detailed discussion of mudras in Śaiva ritual, see the series of six articles  by S. S. Janaki, "Śaiva Mudras I-VI," Kalakshetra Quarterly 5-6 (1983-1984).  Photographs of the mudras may be found in those articles and also in SP 1, Plate 1,  "Mudra," and in Surdam, "South Indian Śaiva Rites," Appendix, pp. 276-313. In 
 
 Notes to Chapter One · 171    
 
 S. S. Janaki (ed.), ML, line drawings of mudrds following ML prescriptions are  provided.  
 
-10. V$A, from Brunner-Lachaux's French translation, SP 1 p. xxxi.  11. On the grammar of Saiva mantras, see Ηέΐέηβ Brunner-Lachaux's brief dis cussion in SP 1 pp. xxxi-xxxii. Brunner-Lachaux also includes a list of the mantras  employed in nityapuja in SP 1, Appendix 3, "Mantras utilises pendant Ie culte de  Siva (d'apr&s Somasambhu)."  
+10. V$A, from Brunner-Lachaux's French translation, SP 1 p. xxxi.  11. On the grammar of Śaiva mantras, see Ηέΐέηβ Brunner-Lachaux's brief dis cussion in SP 1 pp. xxxi-xxxii. Brunner-Lachaux also includes a list of the mantras  employed in nityapuja in SP 1, Appendix 3, "Mantras utilises pendant Ie culte de  Siva (d'apr&s Somasambhu)."  
 
 12. Vedajfiana apparently quotes MPA here. Other authors construct similar  scales of forms: "Proponents of various schools describe the inherent form of the  highest mokfa in various ways, each in accord with its own views." With this pref ace, Sivagrayogin considers, and criticizes, a whole series of alleged mok$a& held by  other schools (&Pbh pp. 335-52), including the Sivasdmya views of AghoraSiva that  I take here as normative.  
 
@@ -139,11 +139,11 @@ S. S. Janaki (ed.), ML, line drawings of mudrds following ML prescriptions are  
 
 14. SupA, quoted in SASS p. 58.  
 
-15. The dgamas generally present atmartha and pardrtha as two variants of a  single scheme of piijd, and following their lead I will describe Saiva daily worship  in this study as a ritual unity. However, there are some practical differences be tween the two. Ηόΐέηε Brunner compares them in greater detail in "Atmarthapuja  versus Pararthapuja in the Saiva Tradition," in T. Goudriaan (ed.), The Sanskrit  Tradition and Tantrism (Leiden: E. J. Brill, 1990), pp. 4—23. She argues that the  integral model of piijd assumed by later Saiva literature in fact results historically  from the combining of two originally distinct styles of worship, one an "old public  worship" of a rudimentary sort, and the other an inner-oriented "private worship"  maintained by yogic adepts.  
+15. The dgamas generally present atmartha and pardrtha as two variants of a  single scheme of piijd, and following their lead I will describe Śaiva daily worship  in this study as a ritual unity. However, there are some practical differences be tween the two. Ηόΐέηε Brunner compares them in greater detail in "Atmarthapuja  versus Pararthapuja in the Śaiva Tradition," in T. Goudriaan (ed.), The Sanskrit  Tradition and Tantrism (Leiden: E. J. Brill, 1990), pp. 4—23. She argues that the  integral model of piijd assumed by later Śaiva literature in fact results historically  from the combining of two originally distinct styles of worship, one an "old public  worship" of a rudimentary sort, and the other an inner-oriented "private worship"  maintained by yogic adepts.  
 
 16. Frits Staal has discussed the "embedding" of ritual units within one another  to constitute larger ritual wholes in the Vedic system: "Ritual Syntax," in M. Naga tomi et al. (eds.), Sanskrit and Indian Studies: Essays in Honour of Daniel Η. H.  Ingalls (Dordrecht: D. Reidel Publishing Co., 1980), pp. 119-42. As will be clear  throughout this study, I depart strongly from Staal's view that such embeddings are  the empty exercise of syntactic elements without discursive significance.  
 
-17. Svatantra, quoted by Nirmalamani in KKDP p. 293, cited in SP 3 p. 9.  18. To assist those who wish to reenact Saiva piijd visually as well as mentally,  the Kuppuswami Sastri Research Institute has recently made available an excellent  videotape of K. A. Sabharatna Sivacarya performing an dgama-based worship of  Siva, with comentaiy in English or Tamil. Readers wishing to obtain a copy may  contact Ginni Ishimatsu, Department of South and Southeast Asian Studies, Univer sity of California, Berkeley, CA 94702, or Richard Davis, Department of Religious  Studies, Yale University, New Haven, CT 06520. 
+17. Svatantra, quoted by Nirmalamani in KKDP p. 293, cited in SP 3 p. 9.  18. To assist those who wish to reenact Śaiva piijd visually as well as mentally,  the Kuppuswami Sastri Research Institute has recently made available an excellent  videotape of K. A. Sabharatna Sivacarya performing an dgama-based worship of  Siva, with comentaiy in English or Tamil. Readers wishing to obtain a copy may  contact Ginni Ishimatsu, Department of South and Southeast Asian Studies, Univer sity of California, Berkeley, CA 94702, or Richard Davis, Department of Religious  Studies, Yale University, New Haven, CT 06520. 
 
 172 · Notes to Chapter Two    
 
@@ -151,11 +151,11 @@ CHAPTER TWO
 
 OSCILLATION IN THE RITUAL UNIVERSE  
 
-1. The classic 1918 essay by A. K. Coomaraswamy, "The Dance of Shiva," in  The Dance of Shiva (New Delhi: Sagar Publications, 1969), pp. 66-78, remains the  best published account of the significance of Nafaraja as explicated by Tamil Saiva  siddhanta authors. On the origin of this iconic form, there is considerable scholarly  debate. Starting about 970 C.E. the dowager Cola queen Sembiyan MahadevI,  grandmother of Rajaraja, began placing Natarija in a prominent position on the exte 
+1. The classic 1918 essay by A. K. Coomaraswamy, "The Dance of Shiva," in  The Dance of Shiva (New Delhi: Sagar Publications, 1969), pp. 66-78, remains the  best published account of the significance of Nafaraja as explicated by Tamil Śaiva  siddhanta authors. On the origin of this iconic form, there is considerable scholarly  debate. Starting about 970 C.E. the dowager Cola queen Sembiyan MahadevI,  grandmother of Rajaraja, began placing Natarija in a prominent position on the exte 
 
-rior walls of the temples she sponsored, and I would date the elevation of Nafaraja  to most-favored status among Cola images of Siva to her initiative.  2. The Saiva scheme of tattvas clearly draws upon the Samkhya model of emanat ing prakrti but surpasses it by adding additional tattvas and an entire domain, the  pure domain, not envisioned within Samkhya circles. See Dasgupta, History, Vol. 5:  Southern Schools, pp. 164—70, for some discussion of Saiva siddhanta in relation to  Samkhya.  
+rior walls of the temples she sponsored, and I would date the elevation of Nafaraja  to most-favored status among Cola images of Siva to her initiative.  2. The Śaiva scheme of tattvas clearly draws upon the Samkhya model of emanat ing prakrti but surpasses it by adding additional tattvas and an entire domain, the  pure domain, not envisioned within Samkhya circles. See Dasgupta, History, Vol. 5:  Southern Schools, pp. 164—70, for some discussion of Śaiva siddhanta in relation to  Samkhya.  
 
-3. On the emission of language and the alphabet, see KA 2.4—7. Ramakantha gives  a more sophisticated treatment of language in the Saiva siddhanta universe in his  Nddakarika (with a commentary by AghoraSiva), included also in his KalAV (l.S).  See Pierre-Sylvain Filliozat, "Les Nadakarika de RamakaQfha," Bulletin de I'Ecole  Frangaise d'Extreme-Orient 73 (1984): 223-35, for a translation and informed ex 
+3. On the emission of language and the alphabet, see KA 2.4—7. Ramakantha gives  a more sophisticated treatment of language in the Śaiva siddhanta universe in his  Nddakarika (with a commentary by AghoraSiva), included also in his KalAV (l.S).  See Pierre-Sylvain Filliozat, "Les Nadakarika de RamakaQfha," Bulletin de I'Ecole  Frangaise d'Extreme-Orient 73 (1984): 223-35, for a translation and informed ex 
 
 plication.  
 
@@ -165,11 +165,11 @@ plication.
 
 7. A much more detailed treatment of Siva's angas may be found in Ηέΐέηβ Brun ner, "Les members de Siva," Asiatische Studien 40 (1986): 89-132.  8. Mj-A kriya 3.3 offers an exception. Here the weapon mantra ASTRA should be  placed on the index finger (tarjani, literally the "threatening finger") because ASTRA  is the mantra that "threatens intruders."  
 
-9. See Brunner-Lachaux, SP 1, Appendix 5, "Purification du corps grassier: les  cinq mandala des 616ments," for a r6sum6 of the features of each domain.  10. A shorter alternative method of bodily purification described in both KKD  and KA involves visualizing the body as an upside-down tree and progressively de stroying it (KKD p. 59). See Brunner-Lachaux's translation of Aghorasiva's ac count in SP 1, Appendix 4, "Purification du corps grossier, autre methode."  11. On the thirty-eight kalas and the kalamantras, see N. R. Bhatt's summary in  RA 1 pp. 25-28 and the table, "Les noms des Kala dans les textes," opposite p. 28.  Hie mantras are derived from five Vedic mantras in Taittiriya Aranydui 10.43-47,  refracted and reformulated within a Saiva grammar of mantras.  12. See N. R. Bhatt, "Introduction," MPA 2 pp. xi-xvi; also Ηέΐέηε Brunner Lachaux, SP 3 p. 242 and Plate 8, "Distribution des mots du vyomavyapin entre les  cinq kala selon !'Adhvanyasa." 
+9. See Brunner-Lachaux, SP 1, Appendix 5, "Purification du corps grassier: les  cinq mandala des 616ments," for a r6sum6 of the features of each domain.  10. A shorter alternative method of bodily purification described in both KKD  and KA involves visualizing the body as an upside-down tree and progressively de stroying it (KKD p. 59). See Brunner-Lachaux's translation of Aghorasiva's ac count in SP 1, Appendix 4, "Purification du corps grossier, autre methode."  11. On the thirty-eight kalas and the kalamantras, see N. R. Bhatt's summary in  RA 1 pp. 25-28 and the table, "Les noms des Kala dans les textes," opposite p. 28.  Hie mantras are derived from five Vedic mantras in Taittiriya Aranydui 10.43-47,  refracted and reformulated within a Śaiva grammar of mantras.  12. See N. R. Bhatt, "Introduction," MPA 2 pp. xi-xvi; also Ηέΐέηε Brunner Lachaux, SP 3 p. 242 and Plate 8, "Distribution des mots du vyomavyapin entre les  cinq kala selon !'Adhvanyasa." 
 
 Notes to Chapter Two · 173    
 
-13. The classic secondary account of vastumandala is Stella Kramrisch, The Hindu  Temple, vol. 1, pp. 19-97. Kramrisch utilizes Saiva siddhanta texts, particularly  IP, as well as texts belonging to many other schools, for her synthetic description.  Some of the relevant chapters of IP are translated by Kramrisch in "ISanaSivagu 
+13. The classic secondary account of vastumandala is Stella Kramrisch, The Hindu  Temple, vol. 1, pp. 19-97. Kramrisch utilizes Śaiva siddhanta texts, particularly  IP, as well as texts belonging to many other schools, for her synthetic description.  Some of the relevant chapters of IP are translated by Kramrisch in "ISanaSivagu 
 
 rudevapaddhati Kriyapada Chs. xxvi, xxvn," Journal of the Indian Society of Ori ental Art 9 (1941): 151-93; and 'Temple, Door, Throne, Etc.," Journal of the In dian Society of Oriented Art 10 (1942): 210-52 (which translates IP kriya ch. 5, 7,  12, and 13).  
 
@@ -187,13 +187,13 @@ rudevapaddhati Kriyapada Chs. xxvi, xxvn," Journal of the Indian Society of Ori 
 
 20. The procedure summarized here is based on "NavakalaSasnapanapaddhati,"  a manuscript belonging to J. Visvanatha Gurukkal of Melmangalam and quoted in  extenso by N. R. Bhatt in RA 1 pp. 92-93, n. 9.  
 
-21. The adiiaivas constitute a special category of "original Saiva" brahmans,  made up of five gotras, who alone qualify to be priests in Saiva siddhanta temples.  For a full discussion, including intriguing remarks concerning their origin, see  Ηέΐέηε Brunner, "Les categories sociales v6diques dans Ie Sivaisme du sud," Jour 
+21. The adiiaivas constitute a special category of "original Śaiva" brahmans,  made up of five gotras, who alone qualify to be priests in Śaiva siddhanta temples.  For a full discussion, including intriguing remarks concerning their origin, see  Ηέΐέηε Brunner, "Les categories sociales v6diques dans Ie Sivaisme du sud," Jour 
 
 nal asiatique 252 (1964): 451-72.  
 
-22. SupA, quoted in N. R. Bhatt, "What Is Saivagama?" (pamphlet, no publica tion information), p. 2.  
+22. SupA, quoted in N. R. Bhatt, "What Is Śaivagama?" (pamphlet, no publica tion information), p. 2.  
 
-23. APV, quoted in Bhatt, "What Is Saivagama?" p. 3. For similar rules from  other schools concerning differentiated temple access, see Ronald Inden, "The  Temple and the Hindu Chain of Being," Purusartha 8 (1985).  
+23. APV, quoted in Bhatt, "What Is Śaivagama?" p. 3. For similar rules from  other schools concerning differentiated temple access, see Ronald Inden, "The  Temple and the Hindu Chain of Being," Purusartha 8 (1985).  
 
 24. KarA 24.95, quoted in K. A. Sabharatna Sivacarya, 'XIicava Vimarcaoam,"  in S. S. Janaki (ed.), Siva Temple and Temple Rituals (Madras: Kuppuswami Sastri  Research Institute, 1988), p. 93.  
 
@@ -209,21 +209,21 @@ The soul is like a prince kidnapped in his infancy by gipsies and brought up by 
 
 V. A. Devasenapathy, OfHuman Bondage and Divine Grace (Cidambaram: Anna malai University, 1963), p. 48.1 have not been able to locate the textual source of  this simile.  
 
-2. Saiva texts refer to two other categories of fetters: tirobhava (or rodhiakti)  and mahamaya. Tirobh&va, Siva's power of obscuration, is a fetter only in a secon dary sense, says AghoraSiva, while mahamaya affects only beings such as the  VidyeSvaras who dwell in the pure domain (^uddhadhvan) (TPV 17).  
+2. Śaiva texts refer to two other categories of fetters: tirobhava (or rodhiakti)  and mahamaya. Tirobh&va, Siva's power of obscuration, is a fetter only in a secon dary sense, says AghoraSiva, while mahamaya affects only beings such as the  VidyeSvaras who dwell in the pure domain (^uddhadhvan) (TPV 17).  
 
 3. The hierarchy of souls described in Chapter 1 is based on the presence or  absence of these three fetters. As bound souls, sakalas, we are affected by all three  categories of fetters (TP 8-15).  
 
 4. The monist commentator Snkumara, discussing Bhojadeva's TP, claims that  the ripening of mala is brought about by the "fire of knowledge" (TPD 9), but  AghoraSiva firmly denies this (TPV 15).  
 
-5. Ηέΐέηβ Brunner-Lachaux discusses the Saiva understanding of karman and its  three types in SP 3 pp. xxii-xxvi.  
+5. Ηέΐέηβ Brunner-Lachaux discusses the Śaiva understanding of karman and its  three types in SP 3 pp. xxii-xxvi.  
 
-6. Saiva authors differ from one another in their discussions of iaktinipata.  SomaSambhu, for instance, identifies saktinipata with the act of initiation, while  AghoraSiva and most subsequent authors view it as a necessary precursor to receiv ing initiation. For helpful discussions of this philosophically ambiguous phenome non, see Brunner-Lachaux, SP 3 p. viii, and Surdam, "South Indian Saiva Rites,"  pp. cxiv-cxxi.  
+6. Śaiva authors differ from one another in their discussions of iaktinipata.  SomaSambhu, for instance, identifies saktinipata with the act of initiation, while  AghoraSiva and most subsequent authors view it as a necessary precursor to receiv ing initiation. For helpful discussions of this philosophically ambiguous phenome non, see Brunner-Lachaux, SP 3 p. viii, and Surdam, "South Indian Śaiva Rites,"  pp. cxiv-cxxi.  
 
-7. My descriptions of Saiva diksas are based largely on the SP and KKD. For  translations of samayadiksa procedures, see SP 3 pp. 2-110, and Surdam, "South  Indian Saiva Rites," pp. 1-97.  
+7. My descriptions of Śaiva diksas are based largely on the SP and KKD. For  translations of samayadiksa procedures, see SP 3 pp. 2-110, and Surdam, "South  Indian Śaiva Rites," pp. 1-97.  
 
-8. On the several stages of initiation and corresponding ritual competencies, see  Brunner, "Le sadhaka," Journal asiatique 263 (1975): 411-43.  9. Translations of vi§e$adiks& procedures: SP 3 pp. 112-56, and Surdam, "South  Indian Saiva Rites," pp. 98-112. Brunner-Lachaux argues that samaya and visesa  were initially two phases of a single ritual and were separated into distinct rituals at  a fairly late date (SP 3 pp. xxx-xxxiii); these two in turn may have at an earlier date  been separated from nirvanadlksa, the originally unitary Saiva diksa. To gain an idea  of the variety of Saiva treatments of dikfa generally, see N. R. Bhatt, "Introduc tion," MPA 2 pp. xviii-xxiii.  
+8. On the several stages of initiation and corresponding ritual competencies, see  Brunner, "Le sadhaka," Journal asiatique 263 (1975): 411-43.  9. Translations of vi§e$adiks& procedures: SP 3 pp. 112-56, and Surdam, "South  Indian Śaiva Rites," pp. 98-112. Brunner-Lachaux argues that samaya and visesa  were initially two phases of a single ritual and were separated into distinct rituals at  a fairly late date (SP 3 pp. xxx-xxxiii); these two in turn may have at an earlier date  been separated from nirvanadlksa, the originally unitary Śaiva diksa. To gain an idea  of the variety of Śaiva treatments of dikfa generally, see N. R. Bhatt, "Introduc tion," MPA 2 pp. xviii-xxiii.  
 
-10. See SP 3 pp. 157—426, and Surdam, "South Indian Saiva Rites," pp. 113—  271. The amount of discussion SomaSambhu and AghoraSiva devote to each of the  three types of dik$a offer a good initial index of their importance in the Saiva scheme 
+10. See SP 3 pp. 157—426, and Surdam, "South Indian Śaiva Rites," pp. 113—  271. The amount of discussion SomaSambhu and AghoraSiva devote to each of the  three types of dik$a offer a good initial index of their importance in the Śaiva scheme 
 
 Notes to Chapter Four · 175    
 
@@ -231,11 +231,11 @@ of things: in Surdam's translation of KKD, samayadikja gets 96 pages, viiesadiks
 
 11. Texts refer to this method only as tadanadi, "the set of actions beginning with  striking." For a more detailed discussion of "transportation," see SP 3 pp. 118-25,  and Plates 1 and 2, "Transport de Yatman depuis Ie Coeur du disciple jusqu'k la  matrice de VagTsvan."  
 
-12. The method described here, focusing on five kolas, is only one of six possi ble "paths" (adhvan) along which initiation may proceed: mantras, words, pho nemes, worlds, tattvas, and kalas. As the quotation from UKA below indicates,  however, Saiva siddhanta understands the kalas to encompass the constituents of  the other paths, and hence the method of kola purification offers a more comprehen sive means of dikja (at least from the time of SomaSambhu). On the sixfold path, see  Brunner-Lachaux, SP 3 pp. xiii-xxii.  
+12. The method described here, focusing on five kolas, is only one of six possi ble "paths" (adhvan) along which initiation may proceed: mantras, words, pho nemes, worlds, tattvas, and kalas. As the quotation from UKA below indicates,  however, Śaiva siddhanta understands the kalas to encompass the constituents of  the other paths, and hence the method of kola purification offers a more comprehen sive means of dikja (at least from the time of SomaSambhu). On the sixfold path, see  Brunner-Lachaux, SP 3 pp. xiii-xxii.  
 
 13. In SP 3, Brunner-Lachaux provides charts summarizing these englobements:  see Plate 5, "Englobement des rdalitds de TUniverse par Ies cinq kalS'\ Plate 6,  "Ripartition des tattva selon Ies cinq kalS'·, and Plates 7 A-E, displaying the worlds  encompassed within each of the five kalas.  
 
-14. After nirvanadikjd, a Saiva initiate may undergo special additional consecra tions (abhifeku) that grant him particular capacities for action. Most common is the  "priestly consecration" (acaryabhiseka), enabling the recipient to act as priest in per forming rituals on behalf of others. Another consecration grants special mantra  
+14. After nirvanadikjd, a Śaiva initiate may undergo special additional consecra tions (abhifeku) that grant him particular capacities for action. Most common is the  "priestly consecration" (acaryabhiseka), enabling the recipient to act as priest in per forming rituals on behalf of others. Another consecration grants special mantra  
 
 powers to the adept (sadhakabhiseka). For Soma£ambhu's account of these conse crations, see SP 3 pp. 455-524.  
 
@@ -245,7 +245,7 @@ powers to the adept (sadhakabhiseka). For Soma£ambhu's account of these conse c
 
 17. See Brunner-Lachaux's detailed discussion of this parallelism, in SP 3 pp.  396-405.  
 
-18. SomaSambhu's prescriptions for antye$ti are translated in SP 3 pp. 567-618.  For a general discussion of this ritual in the Saiva system, see Davis, "Cremation  and Liberation."  
+18. SomaSambhu's prescriptions for antye$ti are translated in SP 3 pp. 567-618.  For a general discussion of this ritual in the Śaiva system, see Davis, "Cremation  and Liberation."  
 
 CHAPTER FOUR  
 
@@ -263,7 +263,7 @@ SUMMONING THE LORD
 
 176 · Notes to Chapter Four    
 
-cusses the views of Saiva siddhanta (iaivadariana) in chapter 7. He bases his de scription primarily on the MfA and Narayanakantha's commentary MfAV, on Bho jadeva's TP and AghoraSiva's TPV; he also employs KirA, PA, SP, and a very few  other texts. The passage here relies on MrAV 3.8. See Ηέΐέηβ Brunner's expert trans lation, "Un chapitre du Sarvadarianasanigraham. Le Saivadariana," in Michel Strick man (ed.), Tantric and Taoist Studies in Honour of R. A. Stein (Brussels: Institut  Beige des Hautes Etudes Chinoises, 1981), pp. 96-140.  
+cusses the views of Śaiva siddhanta (iaivadariana) in chapter 7. He bases his de scription primarily on the MfA and Narayanakantha's commentary MfAV, on Bho jadeva's TP and AghoraSiva's TPV; he also employs KirA, PA, SP, and a very few  other texts. The passage here relies on MrAV 3.8. See Ηέΐέηβ Brunner's expert trans lation, "Un chapitre du Sarvadarianasanigraham. Le Śaivadariana," in Michel Strick man (ed.), Tantric and Taoist Studies in Honour of R. A. Stein (Brussels: Institut  Beige des Hautes Etudes Chinoises, 1981), pp. 96-140.  
 
 7. For general treatments of the lithic forms and iconographic representations of  SadaSiva, see Brijendra Nath Sharma, Iconography of SadMiva (Delhi: Abhinav  Publications, 1976), and Thomas S. Maxwell, "The Five Aspects of Siva (In The ory, Iconography and Architecture)," Arts International 25 (1982): 41-57.  
 
@@ -279,7 +279,7 @@ cusses the views of Saiva siddhanta (iaivadariana) in chapter 7. He bases his de
 
 12. VA 63.4-5, quoted in SPM 5.151-54. As Dagens notes, the passage  Vedajfiana cites does not include the expected pentad of samharanuirtis.  13. See for instance SP 3.1.27-28, where the guru identifies himself with all five  manifestations of Siva.  
 
-14. For a further discussion of the relationship between "mental" and "concrete"  divine images in Saiva worship, see Ηέΐέηε Brunner, "L'Image Divine dans Ie  Culte Agamique de Siva: Rapport entre 1'image mentale et Ie support concrete du  culte," L'Image Divine. Culte et Meditation dans VHindomsme (Paris: Editions du  Centre national de la recherche scientifique, 1990), pp. 9-29.  
+14. For a further discussion of the relationship between "mental" and "concrete"  divine images in Śaiva worship, see Ηέΐέηε Brunner, "L'Image Divine dans Ie  Culte Agamique de Siva: Rapport entre 1'image mentale et Ie support concrete du  culte," L'Image Divine. Culte et Meditation dans VHindomsme (Paris: Editions du  Centre national de la recherche scientifique, 1990), pp. 9-29.  
 
 15. This is not to say that all lingas are the same. MM goes on to describe a great  many categories of lingas, made of different substances and according to different  dimensions, appropriate for various types of worshipers (MM 33.72-92).  
 
@@ -359,9 +359,9 @@ vergences between atmartha and parartha, see Brunner, "Atmarthapfija versus  Pan
 
 13. Unnamed purana, cited in SAC p. 120.  
 
-14. Readers versed in the Tamil Saiva bhakti tradition will recognize Canda also as  one of the sixty-three Saiva nayanmars, whose story of devotion to Siva is narrated  by Cekkilar in chapter 20 of the Periyapuranam. Eric af Edholm considers more  fully the relation of the Tamil nayanmarCanta. and the agama deity Canda in "Canda and  the Sacrificial Remnants: A Contribution to Indian Gastrotheology," Indologica  Taurinensia 12 (1984): 75-91.  
+14. Readers versed in the Tamil Śaiva bhakti tradition will recognize Canda also as  one of the sixty-three Śaiva nayanmars, whose story of devotion to Siva is narrated  by Cekkilar in chapter 20 of the Periyapuranam. Eric af Edholm considers more  fully the relation of the Tamil nayanmarCanta. and the agama deity Canda in "Canda and  the Sacrificial Remnants: A Contribution to Indian Gastrotheology," Indologica  Taurinensia 12 (1984): 75-91.  
 
-15. Nirmalamani points out that candapuja is obligatory for the siddhanta wor shiper, while it is prohibited to followers of other Saiva schools (KKDP p. 132).  The significant role of Canda and the notion that nirmalya is too pure for human con sumption appear to be ritual features distinctive to Saiva siddhanta.  16. SupA, quoted in SAC p. 113.  
+15. Nirmalamani points out that candapuja is obligatory for the siddhanta wor shiper, while it is prohibited to followers of other Śaiva schools (KKDP p. 132).  The significant role of Canda and the notion that nirmalya is too pure for human con sumption appear to be ritual features distinctive to Śaiva siddhanta.  16. SupA, quoted in SAC p. 113.  
 
 17. ML p. 13, quoted in KKDP p. 27.  
 

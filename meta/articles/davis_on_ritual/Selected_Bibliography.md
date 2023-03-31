@@ -9,7 +9,7 @@ title = "Selected Bibliography"
 
 Agnipumna. Edited by Hari Narayana Apte. Anandasrama Sanskrit Series, no. 41.  Translated by Manmatha Nath Dutt. 3 vols. Calcutta: Elysium Press, 1903.  . Translated by N. Gangadharan. 3 vols. Ancient Indian Tradition and  Mythology Series, nos. 27-29. Delhi: Motilal Banarsidass, 1984.  Ajitagama. Edited by N. R. Bhatt. 2 vols. Pondich6ry: Institut Fran^ais d'lndolo gie, 1964,1967.  
 
-Affaprakarana. Includes TattvaprakdSa, Tattvasarpgraha, Tattvatrayanirnaya, Rat natraya, Bhogakarika, NadaMrika, Mok$akarika, and Paramokfanirasakarika.  Edited by N. Krishna Sastri. 2 vols. Devakottai: Saivagamasiddhantaparipala nasangha, 1923, 1925.  
+Affaprakarana. Includes TattvaprakdSa, Tattvasarpgraha, Tattvatrayanirnaya, Rat natraya, Bhogakarika, NadaMrika, Mok$akarika, and Paramokfanirasakarika.  Edited by N. Krishna Sastri. 2 vols. Devakottai: Śaivagamasiddhantaparipala nasangha, 1923, 1925.  
 
 Edited by Vrajavallabha Dvivedi. Yogatantra-Granthamala, vol. 12. Vara nasi: Sampumananda Sanskrit University, 1988.  
 
@@ -25,11 +25,11 @@ Kamikagama, purvabhaga. Edited by C. Svaminatha Sivacarya. Madras: South In dian
 
 Kamikagama, purvabhaga. Institut Fran^ais d'Indologie manuscript T.298 A. (For merly property of Sri Svaminatha Sivacarya of Hruvavatuturai matha.)  Karanagama, purvabhaga, nityarcanavidhi. Edited by R. Rajalinga Gurukkal. Ma dras: South Indian Archakas Association, 1969.  
 
-Translated by J.W.V. Curtis. Motivations of Temple Architecture in Saiva  Siddhanta. Madras: Hoe and Co., 1973. 
+Translated by J.W.V. Curtis. Motivations of Temple Architecture in Śaiva  Siddhanta. Madras: Hoe and Co., 1973. 
 
 190 - Selected Bibliography    
 
-Kiranagama. Edited by Pancapagesa Sivacarya. Devakottai: Saivagamasiddhanta paripalanasangha, 1932.  
+Kiranagama. Edited by Pancapagesa Sivacarya. Devakottai: Śaivagamasiddhanta paripalanasangha, 1932.  
 
 Kiranagama, vidyapada. Translated by Maria Pia Vivanti. Naples: Institute Orien tate di Napoli, 1975.  
 
@@ -39,7 +39,7 @@ Kriyakramadyotika of AghoraSiva with the commentary of KacchapeSvara. Manu scrip
 
 Kriyakramadyotika. Edited by V. K. Arunacalagurukkal. Madras: South Indian  Archakas Association, 1967.  
 
-Kriyakramadyotika, Dlkfavidhi. Translated by Wayne Edward Surdam. "South In dian Saiva Rites of Initiation: The 'Diksavidhi' of Aghoraiivacarya's 'Kriya kramadyotika.'" Ph.D. dissertation, University of California, Berkeley, 1984.  
+Kriyakramadyotika, Dlkfavidhi. Translated by Wayne Edward Surdam. "South In dian Śaiva Rites of Initiation: The 'Diksavidhi' of Aghoraiivacarya's 'Kriya kramadyotika.'" Ph.D. dissertation, University of California, Berkeley, 1984.  
 
 Kriyakramadyotika, Mahotsavavidhi of AghoraSiva. Edited by C. Svaminatha Siva carya. Madras: South Indian Archakas Association, 1974.  
 
@@ -51,7 +51,7 @@ LiAgapurana. Bombay: Venkatesvara Press, 1857.
 
 Makutagama, purvabhaga. Edited by C. Svaminatha Sivacarya. Madras: South In dian Archakas Association, 1977.  
 
-MataAgaparumeivaragama with the commentary of Bhatta Ramakantha. Edited by  N. R. Bhatt 2 vols. Pondich6ry: Institut Franfais d'Indologie, 1977, 1982.  MataAgapSrameivaragama, vidyapada. Edited by N. Krishna Sastri. Devakottai:  Saivagamasiddhantaparipalanasangha, 1924.  
+MataAgaparumeivaragama with the commentary of Bhatta Ramakantha. Edited by  N. R. Bhatt 2 vols. Pondich6ry: Institut Franfais d'Indologie, 1977, 1982.  MataAgapSrameivaragama, vidyapada. Edited by N. Krishna Sastri. Devakottai:  Śaivagamasiddhantaparipalanasangha, 1924.  
 
 Mayamata of Mayamuni. Edited by T. Ganapati Sastri. Trivandrum Sanskrit Series,  no. 65. Trivandrum: Government Press, 1919.  
 
@@ -61,7 +61,7 @@ Dagens's French translation translated into English. New Delhi: Sitaram  Bhartia
 
 Mrgendragama, vidyapada and yogapada, with the commentary of Bhatta Na rayanakantha. Edited by Madhusudan Kaul Shastri. Kashmir Series of Texts and  Studies, no. 50. Bombay: Nirnaya Sagar Press, 1930.  
 
-Mrgendragama, vidyapada and yogapada, with the commentary of Bhatta Na rayanakantha and subcommentaiy of AghoraSiva. Edited by K. M. Subrahmanya  Sastri. Devakottai: Saivagamasiddhantaparipalanasangha, 1928.  
+Mrgendragama, vidyapada and yogapada, with the commentary of Bhatta Na rayanakantha and subcommentaiy of AghoraSiva. Edited by K. M. Subrahmanya  Sastri. Devakottai: Śaivagamasiddhantaparipalanasangha, 1928.  
 
 . Translated by Michel Hulin. Pondichdry: Institut Franfais d'Indologie,  1980.  
 
@@ -81,17 +81,17 @@ RauravSgama. Edited by N. R. Bhatt. 3 vols. Pondich6ry: Institut Fran9ais d'Indo
 
 $aivagamaparibha$amanjari of Vedajfiana. Edited and translated by Bruno Dagens.  Pondich6ry: Institut Frangais d'Indologie, 1979.  
 
-Saivaparibhasa of ^ivagrayogin. Edited by H. R. Rangaswamy Iyengar and R. Ra masastri. Oriental Research Institute Publications, Sanskrit Series, no. 90.  Mysore: Government Branch Press, 1950.  
+Śaivaparibhasa of ^ivagrayogin. Edited by H. R. Rangaswamy Iyengar and R. Ra masastri. Oriental Research Institute Publications, Sanskrit Series, no. 90.  Mysore: Government Branch Press, 1950.  
 
 . Translated by S. S. Suryanarayana Sastri. Madras University Philosophical  Series, no. 35. Madras: University of Madras, 1982.  
 
-Saivasiddhantaparibhasa of Suryabhatta. Edited by N. Krishna Sastri. Devakottai:  Saivagamasiddhanta-paripalanasangha, 1926.  
+Śaivasiddhantaparibhasa of Suryabhatta. Edited by N. Krishna Sastri. Devakottai:  Śaivagamasiddhanta-paripalanasangha, 1926.  
 
 Sakalagamasarasamgraha. Edited by C. Swaminatha Sivacarya. Madras: South In dian Archakas Association, 1974.  
 
 SarvadarSanasaifigraha of Madhava. Edited by Vasudev Shastri Abhyankar. Poona:  Bhandarkar Oriental Research Institute, 1924.  
 
-"SaivadarSana" chapter translated by Ηέΐέηε Brunner. Tantric and Taoist  Studies in Honour ofR. A. Stein. Brussels: Institut Beige des Hautes fitudes Chi noises, 1981. Pp. 96-140.  
+"ŚaivadarSana" chapter translated by Ηέΐέηε Brunner. Tantric and Taoist  Studies in Honour ofR. A. Stein. Brussels: Institut Beige des Hautes fitudes Chi noises, 1981. Pp. 96-140.  
 
 Sataratnasamgraha of Umapati. Edited and translated by P. Thirugnanasamban dhan. Madras: University of Madras, 1973.  
 
@@ -99,9 +99,9 @@ SiddhdntasarSvali of TrilocanaSiva with the commentary of AnantaSambhu. Edited  
 
 Sivapurana. Edited by Pandeya Ramatejasastri. Kashi: Pandita Pustakalaya, 1963.  Translated by a Board of Scholars. 4 vols. Ancient Indian Tradition and  Mythology Series, nos. 1-4. Delhi: Motilal Banarsidass, 1970.  
 
-Sivarcanacandrika of AppayadTksita. Edited by Kalisvara Sivacarya. Devakottai:  Saivagamasiddhantaparipalanasangha, 1922.  
+Sivarcanacandrika of AppayadTksita. Edited by Kalisvara Sivacarya. Devakottai:  Śaivagamasiddhantaparipalanasangha, 1922.  
 
-SomaSambhupaddhati of SomaSambhu. Edited by K. M. Subrahmanya Sastri. De vakottai: Saivagamasiddhantaparipalanasangha, 1931.  
+SomaSambhupaddhati of SomaSambhu. Edited by K. M. Subrahmanya Sastri. De vakottai: Śaivagamasiddhantaparipalanasangha, 1931.  
 
 SomaSambhupaddhati (KarmakSndakramavali) of Somasambhu. Edited by Jagaddhar  Zadoo. Kashmir Series of Texts and Studies, no. 73. Srinagan Krishna Printing  Press, 1947.  
 
@@ -123,7 +123,7 @@ Tattvasanigraha of Sadyojyoti with the commentary of AghoraSiva. See Astapra kar
 
 Tattvatrayanirnaya of Sadyojyoti with the commentary of AghoraSiva. See Atfa prakarana.  
 
-Translated by Leon E. Hannotte. "Philosophy of God in Kashmir Saiva  Dualism: Sadyojyoti and His Commentators." Ph.D. dissertation, McMaster Uni versity, 1987.  
+Translated by Leon E. Hannotte. "Philosophy of God in Kashmir Śaiva  Dualism: Sadyojyoti and His Commentators." Ph.D. dissertation, McMaster Uni versity, 1987.  
 
 ## SECONDARY WORKS ON ŚAIVA SIDDHANTA  
 
@@ -131,7 +131,7 @@ Note: The Kuppuswami Sastri Research Institute has recently made available an  e
 
 Arunachalam, M. The ^aivagamas. Tiruchitrambalam: Gandhi Vidyalayam, 1983.  Bhatt, N. R. "What Is Sivagama?" Pamphlet, no publication information.  Brunner, Ηέΐέηβ. "Analyse du Kiranagama." Journal asiatique 253 (1965): 309-28.  
 
-. "Analyse du Suprabhedagama'' Journal asiatique 255 (1967): 31-60.  "AtmarthapQja versus Panirthapuja in the Saiva Tradition." In The Sanskrit  Tradition and Tantrism. Edited by T. Goudriaan. Leiden: E. J. Brill, 1990. Pp.  4-23.  
+. "Analyse du Suprabhedagama'' Journal asiatique 255 (1967): 31-60.  "AtmarthapQja versus Panirthapuja in the Śaiva Tradition." In The Sanskrit  Tradition and Tantrism. Edited by T. Goudriaan. Leiden: E. J. Brill, 1990. Pp.  4-23.  
 
 "Les catdgories sociales vddiques dans Ie Sivaisme du sud." Journal asia tique 252 (1964): 451-72.  
 
@@ -145,11 +145,11 @@ Arunachalam, M. The ^aivagamas. Tiruchitrambalam: Gandhi Vidyalayam, 1983.  Bhat
 
 Selected Bibliogrqihy - 193    
 
-"The IHiSupatas as Seen by the Saivas." Schriften zur Geschichte und Kul turdes alien Orients 18 (1986): 513-20.  
+"The IHiSupatas as Seen by the Śaivas." Schriften zur Geschichte und Kul turdes alien Orients 18 (1986): 513-20.  
 
 "Le sadhaka, personnage oubli6 du Sivaisme du sud." Journal asiatique  263 (1975): 411-43.  
 
-"Le Saiva-siddhanta, 'Essence' du Veda." Indologica Taurinensia 8  (1980-1981): 51-66.  
+"Le Śaiva-siddhanta, 'Essence' du Veda." Indologica Taurinensia 8  (1980-1981): 51-66.  
 
 'Toujours Ie nifkala-liAga." Journal asiatique 256 (1968): 445-47.  Dagens, Bruno. "Analyse du PSrvakamikagama." Bulletin de I'Ecole Frangaise  d'ExtrSme-Orient 54 (1977): 1-38.  
 
@@ -159,13 +159,13 @@ Dasgupta, Surendranath. A History of Indian Philosophy. Vol. 5: Southern Schools
 
 Davis, Richard H. "AghoraSiva's Background." In Dr. S. S. Janaki Shash tyabdapurti Commemoration Volume. Edited by V. Kameshvari. Madras: Kup puswami Sastri Research Institute, forthcoming.  
 
-"Cremation and Liberation: A Saiva Siddhanta Revision." History of Reli gions 28 (1988): 37-53.  
+"Cremation and Liberation: A Śaiva Siddhanta Revision." History of Reli gions 28 (1988): 37-53.  
 
 Devasenapathy, V. A. OfHuman Bondage and Divine Grace. Cidambaram: Anna malai University, 1963.  
 
-Dhavamony, Mariasusai. Love of God According to Saiva Siddhanta. Oxford: Clar endon Press, 1971.  
+Dhavamony, Mariasusai. Love of God According to Śaiva Siddhanta. Oxford: Clar endon Press, 1971.  
 
-Diehl, Carl Gustav. Instrument and Purpose. Lund: C.W.K. Gleerup, 1956.  Dunuwila, Rohan A. Saiva Siddhanta Theology: A Contextfor Hindu-Christian Di alogue. Delhi: Motilal Banarsidass, 1985.  
+Diehl, Carl Gustav. Instrument and Purpose. Lund: C.W.K. Gleerup, 1956.  Dunuwila, Rohan A. Śaiva Siddhanta Theology: A Contextfor Hindu-Christian Di alogue. Delhi: Motilal Banarsidass, 1985.  
 
 Filliozat, Jean. "Les agama Sivaites." In Rauravagama vol. 1, pp. v-xv. Edited by  N. R. Bhatt. Pondich6ry: Institut Frangais d'Indologie, 1961.  
 
@@ -179,6 +179,6 @@ Bhaskari. 3 vols. Prince of Wales Saraswati Bhavana Texts, no. 84. Luck now: Sup
 
 Peterson, Indira. Poems to Siva. Princeton: Princeton University Press, 1989.  Sivararoan, K. Saivism in Philosophical Perspective. Delhi: Motilal Banarsidass,  1973.  
 
-Soni, Jayandra. Philosophical Anthropology in Saiva Siddhanta. Delhi: Motilal Ba narsidass, 1989.  
+Soni, Jayandra. Philosophical Anthropology in Śaiva Siddhanta. Delhi: Motilal Ba narsidass, 1989.  
 
-Surdam, Wayne. "The Vedicization of Saiva Ritual." In Siva Temple and Temple  Rituals. Madras: Kuppuswami Sastri Research Institute, 1988. Pp. 52-60.
+Surdam, Wayne. "The Vedicization of Śaiva Ritual." In Siva Temple and Temple  Rituals. Madras: Kuppuswami Sastri Research Institute, 1988. Pp. 52-60.

@@ -5,41 +5,6 @@ title = "Notes"
 
 ## ०७ 
 
-[^106]:
-
-    This system envisions a limitless number of 'worlds' made from and dominated by each principle. These worlds exist so that souls which have not received the Saiva form of initiation, but have attained a lower form of perfection through a continuous practice of concentration, receive a body and sense organs best suited for experiencing pleasure and pain in a particular world, and may finally attain identity with the Lord. Every world has superintend ing deities who are called the Lords of that world. 
-
-[^107]:
-
-    Located in the intellect principle (buddhi tattva) are eight 'worlds' (bhuvana), each dominated by a class of heavenly beings or deity: pisacas, raksasas, yakśas, gandharvas, Indra, Soma, Prajāpati, and Brahmā. 
-
-[^108]:
-
-    According to the Svacchanda Tantra, the names of the worlds under prakr̥ti are: Akrta, Krta, Vaibhava, Brahma, Vaiṣnava, Kaumara, 'belonging to Uma' (Auma), and 'belonging to Srikant ha.' Kṣemarāja explains that those who have practiced yoga with renunciation attain the 'world' (bhuvana) named Akrta, while those who practiced karmayoga reach the bhuvana named Krta. Similarly, those who practiced nirmanayoga go to the world of [[238]] sbhus. The abode of Brahmā is attainable to those who practice yoga with conviction that puruṣa is one universal soul. The abode of Viṣnu is the final resort for those who strictly practiced yoga according to Vaiṣṇava tradition. Those who practice yoga main taining celibacy (brahmacarya) go to the abode of Kaumara world. The abodes above this, named Auma and Sraikantha, are the abodes of those who practice yoga according to the Saiva doctrine. 
-
-[^109]:
-
-    There are seven groups of eight deities who preside over different principles. The first is called patysttaka, the group of eight Lords beginning with Lakulisa and ending with Amaresa. The second is called Guhyaṣtaka who are the Lords of fire; the first of them is Bhairava. The third group is Atiguhyașttaka, which rules over the principle named wind (vayu). The fourth group of eight is called Pavitrāstaka, with Sthānu, etc., who rule over the principle called ākāśa. The fifth group of eight, beginning with Sthūla and ending with Chagalāṇda, rules over ahamkāra. The sixth group of eight divinities called Yonyaṣtaka rules over the intellect. The seventh group of eight is called Yogaṣtaka which rules over prakr̥ti. 
-
-[^110]:
-
-    The eleven worlds of the Rudras are as follows: Vāma, Bhīma, Ugra, Bhava, Isa, Ekavīra, Pracanda, Gauri, Aja, Ananta, and Ekaśiva. 
-
-[^111]:
-
-    The names of the worlds in impure vidyā, kale, and niyati are Kro dheśa and Canda, Samvarta and Jyoti, Sūra and Pancānta, respec tively. 
-
-[^112]:
-
-    The worlds under kalā and mayā are as follows: Ekavīra, śikhi, Śrīkantha in kalā, while in māyā, Mahātejas, Vāma, Bhava, Udb hava, Ekapinga and īsāna, Bhuvanesa and Anguṣtha. 
-
-[^113]:
-
-    In pure vidyā principle there are five worlds. They are: Hala halarudra, Krodha, Ambika, Aghora, and Yama. 
-
-[^114]:
-
-    Every principle is composed of subtle elements (kalās). They are called nirrtti, pratisthā, vidyā, śāntā, and sāntātītā. The number of worlds in niyrttikalā is sixteen; in pratistha the number is fifty six; in vidyā the number is twenty-eight; in śāntā the number is eighteen. There are no worlds in śāntātītā. Thus, the total number of the worlds in all five kalās is one hundred eighteen. NOTES 239 
 
 ## ०८ 
 
@@ -93,7 +58,7 @@ title = "Notes"
 
 [^127]:
 
-    According to this system, defilement (mala) is not a distinct sub stance as accepted by dualist Saiva thinkers. 
+    According to this system, defilement (mala) is not a distinct sub stance as accepted by dualist Śaiva thinkers. 
 
 [^128]:
 
@@ -121,7 +86,7 @@ title = "Notes"
 
 [^134]:
 
-    According to Sāṁkhya philosophy, prakrtį is insentient, while purusa is sentient but non-active either in bondage or in liberation. Therefore, some external agent of agitation is required. According to Saiva philosophy, agitation is created by the intervention of īśvara. 
+    According to Sāṁkhya philosophy, prakrtį is insentient, while purusa is sentient but non-active either in bondage or in liberation. Therefore, some external agent of agitation is required. According to Śaiva philosophy, agitation is created by the intervention of īśvara. 
 
 [^135]:
 
@@ -235,7 +200,7 @@ title = "Notes"
 
 [^162]:
 
-    According to early Saiva thinkers, such as Kallata, the meaning of the word pāta is goddess Kālī, Mātssadbhāva, Bhairava, Pratibhā. However, the author himself is reluctant to go into depth explain ing the mystical meaning of this word. 
+    According to early Śaiva thinkers, such as Kallata, the meaning of the word pāta is goddess Kālī, Mātssadbhāva, Bhairava, Pratibhā. However, the author himself is reluctant to go into depth explain ing the mystical meaning of this word. 
 
 [^163]:
 
@@ -315,7 +280,7 @@ title = "Notes"
 
 [^181]:
 
-    This is the Saiva explanation of the nature of the descent of grace. In the process of manifestation, the supreme Lord (Parameśvara) creates limited beings by concealing (tirobhāva) His own Self through kancukas, tattvas, and the malas. He reveals his own Self by bestowing śaktipāta on-limited souls. The entire process of con cealment and revelation is the result of the autonomy (svātantrya) of the Lord. 
+    This is the Śaiva explanation of the nature of the descent of grace. In the process of manifestation, the supreme Lord (Parameśvara) creates limited beings by concealing (tirobhāva) His own Self through kancukas, tattvas, and the malas. He reveals his own Self by bestowing śaktipāta on-limited souls. The entire process of con cealment and revelation is the result of the autonomy (svātantrya) of the Lord. 
 
 [^182]:
 
@@ -333,7 +298,7 @@ title = "Notes"
 
 [^185]:
 
-    Viras are Saiva practitioners deemed to have attained mastery over the senses and a high level of spiritual development. 
+    Viras are Śaiva practitioners deemed to have attained mastery over the senses and a high level of spiritual development. 
 
 [^186]:
 

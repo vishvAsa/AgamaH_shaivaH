@@ -4,7 +4,7 @@ title = "nandanAr"
 
 Source: [TW](https://threadreaderapp.com/thread/1267279686209466369.html)
 
-So what exactly is the Nandanar story. Unfortunately the Nandhanar Charititam written by Gopalakrishna Bharatiyar went too far from the original history as mentioned in Sekkizhar’s Periya Puranam, which is the authentic source as far as the 63 Saiva Saints are concerned. Why did Gopalakrishna deviate so much and added so much of ‘masala’ is anybody’s guess. What is more appalling is that the legendary SS Vasan made a movie straight out of this story line & popularised. Thus this one stayed as if it was the correct version.
+So what exactly is the Nandanar story. Unfortunately the Nandhanar Charititam written by Gopalakrishna Bharatiyar went too far from the original history as mentioned in Sekkizhar’s Periya Puranam, which is the authentic source as far as the 63 Śaiva Saints are concerned. Why did Gopalakrishna deviate so much and added so much of ‘masala’ is anybody’s guess. What is more appalling is that the legendary SS Vasan made a movie straight out of this story line & popularised. Thus this one stayed as if it was the correct version.
 
 The actual life history of Nandhanar goes like this.Periya puranam says Nandhanar was born in pulaiyar caste His profession was making announcements playing the drum (Parai).This was as per govt grants
 

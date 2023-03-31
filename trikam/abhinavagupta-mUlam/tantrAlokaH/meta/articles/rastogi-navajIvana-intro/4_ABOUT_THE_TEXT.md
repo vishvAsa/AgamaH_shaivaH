@@ -4693,7 +4693,7 @@ Incidentally this issue figures in the 13th and 35th āhnikas. Among the ancilla
 
 (W) TWENTYTHIRD ĀHNIKA 
 
-(i) Aspirants of the ' reborn' (Punarbhū) variety i.e., those who though ineligible for Lingoddhāra- dikṣa are eager to rejoin Saiva fold. 
+(i) Aspirants of the ' reborn' (Punarbhū) variety i.e., those who though ineligible for Lingoddhāra- dikṣa are eager to rejoin Śaiva fold. 
 
 यत्किंचित्कथितं पूर्वं मृतोद्धाराभिधे विधी | 
 

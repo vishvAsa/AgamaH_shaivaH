@@ -7,11 +7,11 @@ abhiseka — Anointment, rite by which lordly powers are affused onto a re cipie
 
 acamana — "Sipping-water," one of the upac ras offered to a guest or to  a divinity.  
 
-acarya — Saiva priest, qualified to perform puja on behalf of others.  c ryabhiseka — "Priestly anointment" conferring status of acarya on Saiva  initiate.  
+acarya — Śaiva priest, qualified to perform puja on behalf of others.  c ryabhiseka — "Priestly anointment" conferring status of acarya on Śaiva  initiate.  
 
-Adharasakti — The "Supporting Sakti" at the base of the divy sana.  adhik ra — Appointment or assignment to perform a role or function.  adhik rin — Agent employed by a superior to carry out some assignment.  disaiva — "Original Saiva," Saiva br hmana.  
+Adharasakti — The "Supporting Sakti" at the base of the divy sana.  adhik ra — Appointment or assignment to perform a role or function.  adhik rin — Agent employed by a superior to carry out some assignment.  disaiva — "Original Śaiva," Śaiva br hmana.  
 
-gamas — Central texts of Saiva siddh nta.  
+gamas — Central texts of Śaiva siddh nta.  
 
 gamin — "Future karman," one of three basic types of karrtum.  AGHORA — One of five brahmamantras; associated with activity of reab sorption and the south face of Sadasiva.  
 
@@ -23,7 +23,7 @@ Ananta — First among the eight Vidyesvaras.
 
 angamantras — Set of six "limb" mantras, considered as intrinsic extensions  of diva's being: NETRA, HRD, SIRAS, SIKHA, KAVACA, and ASTRA.  antyeffi — Cremation, seen as leading to final mok$a.  
 
-anuga — "Conformity," as between knowledge and ritual action in Saiva  system.  
+anuga — "Conformity," as between knowledge and ritual action in Śaiva  system.  
 
 anugraha—Grace, one of diva's pancakrtya, by which he grants liberation  from bondage.  
 
@@ -59,7 +59,7 @@ brahmarandhra — "Divine aperture" at the top of the head, one of the  granthis
 
 bubhuksu — One who seeks worldly enjoyments. Antonym: mumuksu.  Canda — One of the Ganesvaras, considered a fierce emanation of Siva; the  recipient of nirmalya.  
 
-caryapada — One of four sections of a complete agama, prescribing proper  day-to-day conduct for members of the Saiva community.  catussamskara — Fourfold consecration, used as purification.  cit — Consciousness, the principal attribute of every animate being, distin guishing living beings from the inert and inanimate. Antonym: jada.  dharana — "Cosmic supports," the five material elements seen as supports  for the five kalas.  
+caryapada — One of four sections of a complete agama, prescribing proper  day-to-day conduct for members of the Śaiva community.  catussamskara — Fourfold consecration, used as purification.  cit — Consciousness, the principal attribute of every animate being, distin guishing living beings from the inert and inanimate. Antonym: jada.  dharana — "Cosmic supports," the five material elements seen as supports  for the five kalas.  
 
 dhenumudra — "Cow" mudrd, used when transforming substances into  amrta.  
 
@@ -127,7 +127,7 @@ IiAga — Siva's primary icon or "mark," a smooth cylindrical shaft set in a  pe
 
 Lokapalas — World Guardians, a group of eight or ten deities protecting  the world in the eight directions, above and below: Indra, Agni, Yama,  Niriti, Varuna, Vayu, Kubera, liana, and optionally Brahman, Visnu.  mahamayd — Material cause of the pure domain.  
 
-Maheivara — "Great Lord," collective name for Siva's manifest forms,  represented by Saiva icons and related to aspects or episodes of Siva's  activities in the world.  
+Maheivara — "Great Lord," collective name for Siva's manifest forms,  represented by Śaiva icons and related to aspects or episodes of Siva's  activities in the world.  
 
 mala — Primordial stain, one of three primary fetters.  
 
@@ -149,7 +149,7 @@ MOLA — "Root" mantra, evoking Siva in his totality; also called PRASADA  and S
 
 miilddhdra— Lowermost center of the yogic subtle anatomy, situated at  the base of the trunk.  
 
-mulagama — "Root" treatise, one of twenty-eight primary agamas in Saiva  canon.  
+mulagama — "Root" treatise, one of twenty-eight primary agamas in Śaiva  canon.  
 
 mumuksu — One who seeks liberation. Antonym: bubhuksu.  murti — Embodied form.  
 
@@ -191,7 +191,7 @@ Paramasiva — Siva in his highest form, as limitless, formless, undifferenti at
 
 par nmukh rghya — Special form of arghya that allows Siva to "turn away  his face" in visarjana.  
 
-par rthap j — Worship on behalf of others, performed by Saiva priests in  temples. Antonym: ātm rthap j .  
+par rthap j — Worship on behalf of others, performed by Śaiva priests in  temples. Antonym: ātm rthap j .  
 
 parin ma — Transformations, alterations in inanimate substance.  pariv radevata — Attendant deities forming Siva's court or entourages.  pasa — Fetters that bind the soul: mala, karman, and maya. One of the  three padarthas.  
 
@@ -237,9 +237,9 @@ Saktinipata — "Fall of Sakti," a process by which one becomes ready for  initi
 
 samaydcdra— "Common code of conduct," incumbent on all initiated  Saivites.  
 
-samayadiksd — "General initiation," by which one becomes a member of  the Saiva community.  
+samayadiksd — "General initiation," by which one becomes a member of  the Śaiva community.  
 
-samayin — "Common member" of Saiva community, one who has under gone samayadiksa.  
+samayin — "Common member" of Śaiva community, one who has under gone samayadiksa.  
 
 samhdra— Reabsorption, one of Siva's pancakrtya, by which differenti ated entities are unified. Antonym: srsti.  
 
@@ -261,7 +261,7 @@ SDCHA — "Topknot" mantra, one of six angamantras.
 
 simhasana — "Lion throne," one of the stages of divyasana.  SIRAS — "Head" mantra, one of six angamantras.  
 
-sivajnana — Knowledge pertaining to Siva, claimed by Saiva siddhanta as  the highest form of knowledge. Used to distinguish the Saiva siddhanta  system from all other bodies of knowledge.  
+sivajnana — Knowledge pertaining to Siva, claimed by Śaiva siddhanta as  the highest form of knowledge. Used to distinguish the Śaiva siddhanta  system from all other bodies of knowledge.  
 
 sivatva — "Siva-ness," the quality of being like Siva.  
 
@@ -293,7 +293,7 @@ uccarana — Ascending pronunciation.
 
 udghata — Expulsion, used to expel attributes of sthHlaiarira during  atmasuddhi.  
 
-upacara — "Services," all material and performatory offerings presented to  the deity during piijS; partial approximation or synecdoche.  upagama — Subsidiary treatise of Saiva canon. Cf. miilagama.  utsava — "Festival," whether daily nityotsava or grand calendrical mahot sava.  
+upacara — "Services," all material and performatory offerings presented to  the deity during piijS; partial approximation or synecdoche.  upagama — Subsidiary treatise of Śaiva canon. Cf. miilagama.  utsava — "Festival," whether daily nityotsava or grand calendrical mahot sava.  
 
 viicaka — Signifier, that which denotes something.  
 

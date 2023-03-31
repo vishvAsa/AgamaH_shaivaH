@@ -94,7 +94,7 @@ THE PRATYABHIJNĀ SYSTEM AND THE
 
 SAIVA SIDDHĀNTA 
 
-BETWEEN the idealist non-dualist school of Saivism developed in Kashmir and the realist pluralist Saiva doctrine that has grown in South India, there is con siderable agreement in externals, but difference in fundamentals. Both systems recognize three cate gories-pati, pas'u and pās'a ; but while they are all equally ultimate for the Siddhānta (though not all equally independent), pati constitutes the sole reality for the Pratyabhijña school, this reality gradually through its own energy anfolding the world on itself as the screen, and dividing itself into corresponding and mutually related subjects and objects. The Lord is both the material and the ellicient cause for the idealist school, whereas, for the other, He is only the efficient cause ; He can be spoken of as the material cause, because what does develop into the Universe is a potency of His (not svarūpa-sakti, but parigraha-s'akti) which has to function in dependence on Him; if this mode of speech contents those who maintain an abhinna-nimittopādanakāraṇa, they are welcome to it; but not in any normally intelligible sense can the Lord 
+BETWEEN the idealist non-dualist school of Saivism developed in Kashmir and the realist pluralist Śaiva doctrine that has grown in South India, there is con siderable agreement in externals, but difference in fundamentals. Both systems recognize three cate gories-pati, pas'u and pās'a ; but while they are all equally ultimate for the Siddhānta (though not all equally independent), pati constitutes the sole reality for the Pratyabhijña school, this reality gradually through its own energy anfolding the world on itself as the screen, and dividing itself into corresponding and mutually related subjects and objects. The Lord is both the material and the ellicient cause for the idealist school, whereas, for the other, He is only the efficient cause ; He can be spoken of as the material cause, because what does develop into the Universe is a potency of His (not svarūpa-sakti, but parigraha-s'akti) which has to function in dependence on Him; if this mode of speech contents those who maintain an abhinna-nimittopādanakāraṇa, they are welcome to it; but not in any normally intelligible sense can the Lord 
 
 Pratyabhijñahțdaya, sūtras 1-3. See Aghoras'iva's commentary on the Tattvaprakas'ika, 1.25. 
 
@@ -186,7 +186,7 @@ CONTENTS
 
 PAGE 
 
-1. Prefatory Note . 2. The Pratyabhijñā System and the Saiva Siddānta . vii 3. On the Spelling and Pronounciation of Sanskrit Words. XV 4. Errata . . . . . . . xvii 5. Introduction 
+1. Prefatory Note . 2. The Pratyabhijñā System and the Śaiva Siddānta . vii 3. On the Spelling and Pronounciation of Sanskrit Words. XV 4. Errata . . . . . . . xvii 5. Introduction 
 
 , 1 6. The Pratyabhijñāhrdaya-Text and Translation. 7. Notes . . . . . . 8. Bibliography . 9. Notes (Variant Readings). 10. Sanskrit Index : 11. English Index 
 
@@ -480,7 +480,7 @@ INTRODUCTION
 
 VIII. RETROSPECT AND PROSPECT 
 
-The present study is limited to the Pratyabhi jñahsdaya. Only those problems and materials have found recognition which are immediately connected with and treated by the text. A final appreciation of the system of Kashmir Shivaism from the metaphysical, theological, religious-philosophical and epistemological point of view will be possible only after an investi gation of the other texts, above all the works of the dogmatists proper, Somananda, Utpalācārya and Abhinavagupta. Then only will it be possible to solve further problems which have so far been answered in a rather contradictory fashion. We mean the question as to the relation of Kashmin Shivaism to the Saiva siddhānta of the South and to other Shivaitic systems as well as the connection with the other philosophical and religious systems, especially the Vedānta and Sankhya. The present study cannot and does not wish to be more than a contribution towards research into the still dark and mysterious field of Indic literature, philosophy and religion. 
+The present study is limited to the Pratyabhi jñahsdaya. Only those problems and materials have found recognition which are immediately connected with and treated by the text. A final appreciation of the system of Kashmir Shivaism from the metaphysical, theological, religious-philosophical and epistemological point of view will be possible only after an investi gation of the other texts, above all the works of the dogmatists proper, Somananda, Utpalācārya and Abhinavagupta. Then only will it be possible to solve further problems which have so far been answered in a rather contradictory fashion. We mean the question as to the relation of Kashmin Shivaism to the Śaiva siddhānta of the South and to other Shivaitic systems as well as the connection with the other philosophical and religious systems, especially the Vedānta and Sankhya. The present study cannot and does not wish to be more than a contribution towards research into the still dark and mysterious field of Indic literature, philosophy and religion. 
 
 Where these problems have been dealt with however inadequately till now—the bibliography tells by an asterisk (*) affixed to the works in question. 
 
@@ -4788,7 +4788,7 @@ Edited by A. Mahadeva Sastri, B.A. (1921). ... 50 4.. Vaishnava Upanishads -14 w
 
 of Upanishad Bralmajogin Edited by A. Waha 
 
-deva Sastri, B.A. (1923), 5. Saiva Upanishads--- 15 (1925); do. ... 30 6. Sakta Upanishada - 8 (1925). do. .. 28 
+deva Sastri, B.A. (1923), 5. Śaiva Upanishads--- 15 (1925); do. ... 30 6. Sakta Upanishada - 8 (1925). do. .. 28 
 
 5 & 6 bound together ... to 7. Samnyasa Upanishads - 12. Edited by T. R. 
 

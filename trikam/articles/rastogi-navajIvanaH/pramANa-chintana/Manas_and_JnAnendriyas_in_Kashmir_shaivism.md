@@ -703,7 +703,7 @@ The external sense organs, specially the sensory ones, are the most important vi
 
 Kashmir Śaivism incorporates several general premises of Sāmkhya, of course with different systemic implications, in this regard. These are not mere physical faculties, they are much more, having not only psychological but even spiritual dimensions. They are conceived as powers of the individual. Both these features apply to motor faculties as well. Coming closer to own turf, the sense- faculties of cognition are manifestation of Asuddha Vidya (the subjective power of knowledge), and 
 
-संकल्पकमिन्द्रियम्" (सां०का० २७) अर्थात् मन विषय का संकल्पकारी है। सम्यक्कल्पन अर्थात् ग्रहण, चेष्टा तथा धारण संकल्प है। इच्छापूर्वक ज्ञेयादि विषयों का व्यवहार ही संकल्प है। " PYD, p. 209; similarly R. S. Bhattacharya's explanation comes quite close to the Saiva position despite fundamental differences : "विशेष्यविशेषणभाव (= धर्मधर्मिभाव) से कल्पना करना संकल्प है यह वाचस्पति कहते हैं। हमारी दृष्टि में संकल्प का यह एक स्थूल रूप है। [.....] स्मृति की सहायता से अतीतज्ञान के साथ वर्तमान ज्ञान का संयोजन करना मुख्य संकल्प है। " - STK, p. 199 
+संकल्पकमिन्द्रियम्" (सां०का० २७) अर्थात् मन विषय का संकल्पकारी है। सम्यक्कल्पन अर्थात् ग्रहण, चेष्टा तथा धारण संकल्प है। इच्छापूर्वक ज्ञेयादि विषयों का व्यवहार ही संकल्प है। " PYD, p. 209; similarly R. S. Bhattacharya's explanation comes quite close to the Śaiva position despite fundamental differences : "विशेष्यविशेषणभाव (= धर्मधर्मिभाव) से कल्पना करना संकल्प है यह वाचस्पति कहते हैं। हमारी दृष्टि में संकल्प का यह एक स्थूल रूप है। [.....] स्मृति की सहायता से अतीतज्ञान के साथ वर्तमान ज्ञान का संयोजन करना मुख्य संकल्प है। " - STK, p. 199 
 
 108 प्रमात्रन्तरसाधारणत्वाकांक्षी बहिरिन्द्रियवेद्यत्वात्मस्वरूपान्तरापत्तिलक्षणं क्रमं यतोऽपेक्षते । - IPVV, II, 
 
@@ -741,7 +741,7 @@ Kashmir Śaivism shows more liking for the term buddhīndriya vis- a-vis jñanen
 
 JARUM [........]] – IPVV, II, p. 295 
 
-We have no clue as to whether this is a statement of the Saiva because Utpala's original Vivṛti, on which it is commentary by Abhinavagupta, is now practically lost. 
+We have no clue as to whether this is a statement of the Śaiva because Utpala's original Vivṛti, on which it is commentary by Abhinavagupta, is now practically lost. 
 
 115. बुद्धीन्द्रियैरालोचिताः । IPV, II, p. 242; IPVV, III, p. 304; बुद्धीन्द्रियाणाम् आलोचनं 
 

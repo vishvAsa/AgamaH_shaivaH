@@ -179,7 +179,7 @@ T
 
 9. 
 
-The reason why no serious attempt was made is said to have been either that it was deemed improper to drag down for rational examination truths inaccessible to the experience of ordinary men, or that no further systemetization of the revealed truths than what is contained in the allied works of the Saiva philosophers was needed for the average reader. This reason is not convincing enough, for if the Upanisads could be made the basis of a philosophical system, there is no reason why the Sakta Agamas could not be similary utilized. For the function of philosophy is, as Joad rightly remakrs, to accept the data furnished by the specialists who have worked in the field and then to assess their meaning and signifiance. 
+The reason why no serious attempt was made is said to have been either that it was deemed improper to drag down for rational examination truths inaccessible to the experience of ordinary men, or that no further systemetization of the revealed truths than what is contained in the allied works of the Śaiva philosophers was needed for the average reader. This reason is not convincing enough, for if the Upanisads could be made the basis of a philosophical system, there is no reason why the Sakta Agamas could not be similary utilized. For the function of philosophy is, as Joad rightly remakrs, to accept the data furnished by the specialists who have worked in the field and then to assess their meaning and signifiance. 
 
 एस्पेक्ट्स ऑफ इण्डियन थॉट, बर्दवान, द्वितीय संस्करण, पृ. 174 175 
 

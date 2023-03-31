@@ -5,9 +5,9 @@ title = "4 Summoning the Lord"
 
 THE LORD SIVA is not limited the way we humans are. Theological de scriptions of Siva emphasize that the many limitations we experience as  embodied human beings in a state of bondage do not in any way affect  Siva. Human beings are limited in time; Siva is eternal, without beginning,  middle, or end. Our human bodies are confined in space; Siva is pervasive,  omnipresent. As paSus, we are constrained by fetters; Siva is eternally with out mala, liberated without beginning. Humans are characteristically agi tated by psychic disturbances, alternately attracted and repulsed by the  things of the world; Siva is completely calm. We humans are always de pendent on and subordinate to other beings; Siva is the one completely  independent, autonomous being. Humans possess finite capacities; Siva's  powers of knowledge and action are infinite. Ultimately, Siva is not  bounded even by our capacity to conceptualize him. Siva is the one "whose  domain surpasses our speech and mind."  
 
-Such a transcendent god cannot, according to Saiva siddhanta, be wor shiped directly. He cannot be said to have a particular form, and it is not  possible for humans to meditate upon or offer worship to a completely form less being. According to a text quoted by Aghorasiva, "It is only to the  extent that You possess a visible form that one is able to approach You. The  intellect cannot approach something lacking any visible form."1 Yet for  Saiva worship to take place, it is absolutely necessary that Siva enter into  the ritual domain. He must be present to receive the offerings of his  worshiper.  
+Such a transcendent god cannot, according to Śaiva siddhanta, be wor shiped directly. He cannot be said to have a particular form, and it is not  possible for humans to meditate upon or offer worship to a completely form less being. According to a text quoted by Aghorasiva, "It is only to the  extent that You possess a visible form that one is able to approach You. The  intellect cannot approach something lacking any visible form."1 Yet for  Śaiva worship to take place, it is absolutely necessary that Siva enter into  the ritual domain. He must be present to receive the offerings of his  worshiper.  
 
-This is the problem at the heart of invocation (avahana): how does one  summon a divinity that is by definition limitless into a limited sphere of  ritual, so that a bound human of limited powers may offer him worship? The  problem is both theological and procedural, a concern for both knowledge  and action. And the solution Saiva siddhanta texts offer, likewise, provides  both a way of knowing Siva and of invoking his presence.  
+This is the problem at the heart of invocation (avahana): how does one  summon a divinity that is by definition limitless into a limited sphere of  ritual, so that a bound human of limited powers may offer him worship? The  problem is both theological and procedural, a concern for both knowledge  and action. And the solution Śaiva siddhanta texts offer, likewise, provides  both a way of knowing Siva and of invoking his presence.  
 
 THE THEOLOGY OF SIVA'S PRESENCE  
 
@@ -19,7 +19,7 @@ scribable, incomparable, without defect, subtle, pervasive, eternal, firm,  impe
 
 Siva is unfathomable because he is without end; indescribable because he is not  to be characterized (alaksya); incomparable because there is nothing like him;  without defect because he has no mala; subtle because he is not perceivable  {anupalabhya)·, pervasive because ubiquitous; eternal because he is devoid of  cause; firm because unmoving; imperishable because he is complete; lordly be cause he is master of the world. ($Pbh p. 62)  
 
-The emphasis that Saiva theology places on the unlimited qualities of  Siva raises a difficult question concerning human access to Siva. Character izations of Siva place him in a domain far beyond human powers of know ing and acting. If Siva is unfathomable, indescribable, incomparable, and  imperceivable, what means do we have to know him? How can we offer  worship to a god who is imperceivable, pervasive, unmoving, and com plete? How do humans of limited powers gain access to one who surpasses  all limits?  
+The emphasis that Śaiva theology places on the unlimited qualities of  Siva raises a difficult question concerning human access to Siva. Character izations of Siva place him in a domain far beyond human powers of know ing and acting. If Siva is unfathomable, indescribable, incomparable, and  imperceivable, what means do we have to know him? How can we offer  worship to a god who is imperceivable, pervasive, unmoving, and com plete? How do humans of limited powers gain access to one who surpasses  all limits?  
 
 Two Levels of Siva  
 
@@ -27,7 +27,7 @@ The only ultimate resolution of this enigma lies in the liberation of the soul. 
 
 mate the infinite as best we can.  
 
-Saiva philosophers deal with the epistemological problem by first distin guishing two levels of Siva. The first level, said to be true in the highest  sense (paramarthika), is the limitless, transcendent ParamaSiva ("Highest  Siva") described in the passages above: a formless, undifferentiated Para ma£iva "without parts" (niskala). Positive knowledge of Siva at this level is  beyond human reach. Siva is said to be "unfathomable," the Vatulagama  tells us, "because he surpasses every human means of knowledge."4 The  Acintyagama elaborates, "Siva's highest nature cannot be known through  observation (adhyaksa), nor from its marks (IiAga), nor through verbal author ity (Sabda)."5 Descriptions of ParamaSiva are therefore essentially negative  ones, pointing to the absence of any limiting qualities.  
+Śaiva philosophers deal with the epistemological problem by first distin guishing two levels of Siva. The first level, said to be true in the highest  sense (paramarthika), is the limitless, transcendent ParamaSiva ("Highest  Siva") described in the passages above: a formless, undifferentiated Para ma£iva "without parts" (niskala). Positive knowledge of Siva at this level is  beyond human reach. Siva is said to be "unfathomable," the Vatulagama  tells us, "because he surpasses every human means of knowledge."4 The  Acintyagama elaborates, "Siva's highest nature cannot be known through  observation (adhyaksa), nor from its marks (IiAga), nor through verbal author ity (Sabda)."5 Descriptions of ParamaSiva are therefore essentially negative  ones, pointing to the absence of any limiting qualities.  
 
 Similarly, worship of Siva at this level is impossible. "It is not possible,"  says AghoraSiva, "to meditate on or give worship and the like to an entity114 · ChapterFour    
 
@@ -53,7 +53,7 @@ The most comprehensive differentiated form of Siva is known as  SadaSiva, the "E
 
 absorption, concealment, and grace. Yet it is not possible to act without a  "body" of some sort. Accordingly, even Siva must employ an instrument  (karana) to accomplish his purposes. For each fundamental activity, Siva  uses a corresponding mantra power: for emission the mantra is SADYOJATA,  for preservation it is VAMA, and so on. The five mantras through which  Siva carries out his most profound operations in the world, collectively  known as the five brahmamantras, constitute the five "faces" of Sadasiva.  Thus, SadaSiva represents Siva's most fundamental presence in the world,  the "body of mantras" with which Siva acts. "As the soul comes and goes  by means of the body, so one must acknowledge that Siva comes and goes  through his body of mantras" (KA 4.356). Or as Ramakantha succinctly puts  it, "Siva does everything using SadaSiva as his body" (KalAV 22.2-4).  
 
-The SadaSiva body is emphatically not a body like those of humans. It is  made of mantras or of powers, and it is completely without bondage, which  is the determining feature of human bodies. In Sarvadarsanasamgraha, Ma dhava admirably summarizes the conception of SadaSiva in his discussion of  Saiva siddhanta philosophy:  
+The SadaSiva body is emphatically not a body like those of humans. It is  made of mantras or of powers, and it is completely without bondage, which  is the determining feature of human bodies. In Sarvadarsanasamgraha, Ma dhava admirably summarizes the conception of SadaSiva in his discussion of  Śaiva siddhanta philosophy:  
 
 The body of Parame§vara is not a common (prakrta) one, since the net of fetters—  mala, karman, and the others—is absent from it. Rather, it is a body of powers  (Sakta), since its heads and other parts are composed of the five mantras begin ning with KANA, which have the forms of §aktis. As is generally known, Siva has  KANA as his heads, TATPURUSA for faces, AGHORA as heart, VAMA for genitals, and  SADYOJATA as feet. And his body, which is not like our bodies, is the instrument  fashioned by his own will with which he performs the five fundamental activi ties: grace, veiling, reabsorption, maintenance, and emission, in that order. (SDS  7.57-63)6  
 
@@ -63,9 +63,9 @@ Uncommon though it may be, this SadaSiva body is nevertheless accessi ble to hum
 
 116 * ChapterFour    
 
-mantras, imposed onto the linga, serves as the embodiment that the highest,  inaccessible Siva comes to inhabit during daily worship. Sadasiva thereby  stands at the meeting point between ParamaSiva and his human worshipers  in Saiva ritual.  
+mantras, imposed onto the linga, serves as the embodiment that the highest,  inaccessible Siva comes to inhabit during daily worship. Sadasiva thereby  stands at the meeting point between ParamaSiva and his human worshipers  in Śaiva ritual.  
 
-While material representations of SadaSiva are comparatively rare in  Saiva temples, he does have a form (or forms) that humans may perceive  through a process of visualization (bhavana).1 SadaSiva is most often por trayed as a single divinity with five-faces and ten arms.  
+While material representations of SadaSiva are comparatively rare in  Śaiva temples, he does have a form (or forms) that humans may perceive  through a process of visualization (bhavana).1 SadaSiva is most often por trayed as a single divinity with five-faces and ten arms.  
 
 One should meditate that SadaSiva has five faces, ten arms, and three eyes [in  each face]. Crystal in color and calm, he has a crescent moon as his crest, and his  hair is fastened with a snake. His seat is a lion-throne made of mantras, and he  sits atop a white lotus. Ornamented with bracelets, earrings, necklaces, the aus 
 
@@ -87,7 +87,7 @@ His three-pronged trident is called the three qualities, and the axe is said to 
 
 quences resulting from previous actions. (KA 4.335-39)  
 
-SadaSiva is the form that, for Saiva theologians, most closely approxi mates the totality of Siva's active presence in the world. His several super imposed layers of mantras and powers successively manifest portions of  Siva's presence: the five faces accomplish the five fundamental activi ties, the six limbs extend his capacities, and the ten weapons enable him to  grant grace. Ultimately, even SadaSiva is a synecdoche for Siva's complete  nature, but it is the most comprehensive such form accessible to human  powers.  
+SadaSiva is the form that, for Śaiva theologians, most closely approxi mates the totality of Siva's active presence in the world. His several super imposed layers of mantras and powers successively manifest portions of  Siva's presence: the five faces accomplish the five fundamental activi ties, the six limbs extend his capacities, and the ten weapons enable him to  grant grace. Ultimately, even SadaSiva is a synecdoche for Siva's complete  nature, but it is the most comprehensive such form accessible to human  powers.  
 
 SadaSiva is not the only form in which humans may perceive Siva. As  MaheSvara (the "Great Lord"), Siva takes on many aspects or embodiments  that are also manifest to humans. These aspects are distinct, individual  forms of Siva related to particular aspects of his being or to his specific  exploits in the world, and they are familiar to us through the iconic statu ary of Indian images and through the narrative descriptions of the puranas.10  The Rauravdgama, for instance, lists and describes thirteen typical forms  of MaheSvara: Sukhasana, SomeSa, Somaskanda, Vr§arQdha, Tripurari,  CandraSekhara, Kalahari, Kalyanasundara, Nrttamurti, Bhiksatana, Kankala,  Ardhanari, and Dak^inamQrti.11  
 
@@ -95,7 +95,7 @@ Where SadaSiva is a comprehensive body of Siva, the forms of Mahe Svara are part
 
 118 · Chapter Four    
 
-distinctly ancillary to SadaSiva. Forms of Mahesvara are not generally cen tral liturgical objects, but they do serve as iconic representations of Siva  within the scheme of any large Saiva temple. A collectivity of these partial  aspects of Siva's totality, situated at appropriate places within the temple  complex, further specifies his comprehensive character and makes it acces sible to his devotee.  
+distinctly ancillary to SadaSiva. Forms of Mahesvara are not generally cen tral liturgical objects, but they do serve as iconic representations of Siva  within the scheme of any large Śaiva temple. A collectivity of these partial  aspects of Siva's totality, situated at appropriate places within the temple  complex, further specifies his comprehensive character and makes it acces sible to his devotee.  
 
 In addition to these particularized bodily forms by which Siva acts, he  also employs an energy or "instrument" (karcma) to accomplish his ends.  This instrument of unlimited efficacy is known as Sakti: "By means of that  instrument which is Sakti, Siva becomes powerful (sdkta), that is, capable  of accomplishing the five fundamental activities so that the souls may  achieve worldly pleasures and liberation" (TPV 3). Arising intrinsically  from Siva as heat arises from fire, Sakti is essentially one, undifferentiated  and without form. Like Siva, however, Sakti must perform many tasks in a  variegated creation, and to do so she assumes a plethora of appropriate  forms. When things are to be known (jneya), Siva's energy adopts the form  of JiianaSakti; when actions are to be undertaken (karya), it appears as  Kriyalakti. According to one common classification, Sakti has five princi pal, hierarchically ranked forms: ParaSakti, Adisakti, IcchaSakti, Jnana Sakti, and Kriyasakti. In accomplishing the five fundamental activities, the  five brahmamantras are said to have the "form of Saktis." Another group of  eight Saktis act as the governors of the Vidyesvaras, divine agents of Siva.  The thirty-eight kalas, or "portions" of SadaSiva, are Saktis that differenti ate and constitute the active body of Siva's highest manifest form. These  forms of Sakti and other, still more differentiated Saktis are particularized  aspects of a unitary Energy that adapts itself with infinite flexibility to the  many circumstances of its activities.  
 
@@ -115,7 +115,7 @@ The specific purpose of invocation is to summon Siva to enter into a partic ular
 
 transformed linga as a soul penetrates a newly born human body.  Yet this very notion of entrance, implying that Siva might have previ ously been absent, raises a philosophical objection. It seems to contradict  Siva's pervasiveness. As the sages ask Siva in K&mikSgama, "How is it, O  Lord, that one can invoke Siva who is omnipresent? If one acknowledges  invocation, this would contradict his omnipresence" (KA 4.354). Is Siva not  already in the object into which he is summoned? If not, then he would not  be pervasive. But if he is already present, what is the point of invoking him?  How can Siva enter into an object when he is already there?  To solve this apparent dilemma, the dgamas distinguish two degrees of  Siva's presence. Siva is indeed present everywhere, but in some places he  is more present than in others. Invocation is a rite that enhances or manifests  (abhivyakti) Siva's presence in some particular location. It establishes a spe cial or "marked" presence (yiiifta samnidhana) of Siva, or makes him "evi dent" (Svirbhdva) in a linga (MPAVkriya 3.26-29, AA 20.179). It persuades  Siva to "face toward" or to "be favorable toward" (abhimukha, sammukha)  the worshiper. Though Siva is already in the object, invocation in some  sense alters the scope or intensity of his presence.  
 
-To describe this alteration, many Saiva siddhanta texts cite an analogy  comparing invocation to kindling fire in wood.  
+To describe this alteration, many Śaiva siddhanta texts cite an analogy  comparing invocation to kindling fire in wood.  
 
 As fire, though present in a tree from its root to its tip, may become manifest in  one place, just so the manifestation of consciousness in one place does not con tradict its pervasiveness. Just as fire is made to arise in wood by rubbing it and  so on, Siva is manifested through the power of mantras and through devotion.  (KA 4.355, 352)  
 
@@ -143,7 +143,7 @@ Summoning the Lord - 121
 
 are themselves gross. The tangible form is only for those unable to visualize. The  inner linga is not perceptible to the dull-minded person who considers that exterior  reality is everything and that nothing else exists. The unstained, unchanging sub tle linga is just as evident to persons of knowledge, however, as a gross linga made  of some material like mud or wood is to those who are not practiced in yoga.  (.LPur 75.19-22)  
 
-Subtle is always best in the Saiva siddhanta scheme of things. However,  such dismissive characterizations of gross worshipers, as we will see, fail to  take into account the careful yogic visualization and knowledge of Saiva  theology necessary to transform even the most tangible linga into a ritually  suitable embodiment of Siva. Gross may become subtle, Siva-like, through  proper ritual action.14  
+Subtle is always best in the Śaiva siddhanta scheme of things. However,  such dismissive characterizations of gross worshipers, as we will see, fail to  take into account the careful yogic visualization and knowledge of Śaiva  theology necessary to transform even the most tangible linga into a ritually  suitable embodiment of Siva. Gross may become subtle, Siva-like, through  proper ritual action.14  
 
 The texts generally employ a threefold classification of the physical icons  most suitable for Siva's manifestation: undifferentiated (niskala), differenti ated (sakala), and mixed (sakalani$kala). "That which is undifferentiated is  called the 'linga.' That which is differentiated is termed 'image' (bera). The  linga with faces (mukhalmga) is a mixture of the two and resembles the linga in  height and form" (MM 33.1-2). An austere upright cylinder, the linga is  physically nonpartite.ls An image, by contrast, is an anthropomorphic form  with all the characteristic parts and marks of a body. Intermediate between  these two forms, the linga with faces is in its basic shape and dimensions a  linga, but with one or, more often, five faces partially emerging from the  central shaft in the four cardinal directions. The fifth, upward face is not  discernible to humans of limited visual acuity. The three categories of sup 
 
@@ -151,7 +151,7 @@ ports are ranked according to the now-familiar criteria of emission and reab sor
 
 Moreover, the texts assert that these different types of icons parallel the  three levels or aspects of Siva's totality.16 The undifferentiated linga, appro priately, corresponds to Siva in his most encompassing, transcendent, and  undifferentiated aspect, Paramasiva. At the other end, the various human like images of Siva, depicting him iconographically as he has acted in the  world and appeared to his devotees, correspond to the level of embodiment  called MaheSvara. In between, where Siva is seen halfway between tran scendence and manifestation as it were, with five faces appearing from  the once-undifferentiated linga, the mukhalinga clearly parallels five-faced  SadaSiva.  
 
-Yet the question of accessibility once again arises. While the agamas cer tainly prefer the undifferentiated linga as the support for Siva par excellence,  and a Saiva temple almost always contains a linga as its liturgical center,  Saiva theology tells us that the ParamaSiva represented by the linga is beyond  human powers of knowing and acting. Conversely, while Saiva puja ap pears to be particularly directed toward SadaSiva as the fullest form of Siva 
+Yet the question of accessibility once again arises. While the agamas cer tainly prefer the undifferentiated linga as the support for Siva par excellence,  and a Śaiva temple almost always contains a linga as its liturgical center,  Śaiva theology tells us that the ParamaSiva represented by the linga is beyond  human powers of knowing and acting. Conversely, while Śaiva puja ap pears to be particularly directed toward SadaSiva as the fullest form of Siva 
 
 122 · Chapter Four    
 
@@ -159,9 +159,9 @@ niskala linga Paramasiva  mixed mukhalinga Sadasiva
 
 sakala image Mahesvara  Fig. 8. Siva's supports  
 
-accessible to humans, it is quite rare to encounter a mukhalinga as a central  object of worship in a Saiva temple.  
+accessible to humans, it is quite rare to encounter a mukhalinga as a central  object of worship in a Śaiva temple.  
 
-This seeming disjuncture between theology and practice points us to a  central fact of puja as Saiva siddhanta formulates it. The Saiva worshiper  does not worship the object itself as Siva or as representing Siva; he directs  his worship toward it as the physical support for Siva's special presence.  And before any object can serve as proper support for Siva, it must be trans 
+This seeming disjuncture between theology and practice points us to a  central fact of puja as Śaiva siddhanta formulates it. The Śaiva worshiper  does not worship the object itself as Siva or as representing Siva; he directs  his worship toward it as the physical support for Siva's special presence.  And before any object can serve as proper support for Siva, it must be trans 
 
 formed into a suitably divine, Siva-like state.  
 
@@ -173,7 +173,7 @@ INVOCATION OF SIVA
 
 After he has purified himself, the place of ritual, the substances to be of fered, and the mantras, the worshiper shifts his attention from the suitability  of the overall ritual environment to that of the linga, the receptacle of Siva's  presence during daily worship. He has now reached the point where he must  make ready to summon the Lord to the ritual domain.  
 
-Invoking Siva into the linga depends on considerable preparation. Prior to  its use in any Saiva ritual, the linga must have been subjected to a detailed 
+Invoking Siva into the linga depends on considerable preparation. Prior to  its use in any Śaiva ritual, the linga must have been subjected to a detailed 
 
 Summoning the Lord - 123    
 
@@ -185,7 +185,7 @@ Yet establishment and purification of a linga are not sufficient in them selves.
 
 In fashioning these divine forms, the worshiper articulates through his  actions a highly concentrated, differentiated, organized theophany of Siva.  Together the divine throne and the body of mantras embody the entire man ifest cosmos and the multiple aspects through which Siva pervades and ani mates it, compressed as it were onto the physical substratum of pedestal and  linga.  
 
-A ritually constructed body encompassing within its parts the entire dif ferentiated cosmos, of course, hearkens back in India to the Vedic Puru§a,  the cosmic Being whose primordial dismemberment in sacrifice emanated  all the multifarious phenomena of the world. Saiva puranas repeatedly assert  that Siva is that Purusa, that he has usurped—or rather, has always held—the  totalizing role that the Vedic texts claim variously for Purusa, Prajapati, and  Brahman. It is no accident, therefore, that this Puru§a is ritually put back  together again, daily, in Saiva p«/a.18 Only such a comprehensive, divine  form can serve as the appropriate support of Siva's special presence during  daily worship.  
+A ritually constructed body encompassing within its parts the entire dif ferentiated cosmos, of course, hearkens back in India to the Vedic Puru§a,  the cosmic Being whose primordial dismemberment in sacrifice emanated  all the multifarious phenomena of the world. Śaiva puranas repeatedly assert  that Siva is that Purusa, that he has usurped—or rather, has always held—the  totalizing role that the Vedic texts claim variously for Purusa, Prajapati, and  Brahman. It is no accident, therefore, that this Puru§a is ritually put back  together again, daily, in Śaiva p«/a.18 Only such a comprehensive, divine  form can serve as the appropriate support of Siva's special presence during  daily worship.  
 
 The Divine Throne  
 
@@ -311,7 +311,7 @@ tra and finally merges it into ParamaSiva. This first movement follows the  orde
 
 ferentiated state into a manifest form.  
 
-The central mediator in all Saiva invocations is the mantra. Mantras are  effective for summoning divinities, the texts tell us, because of the inherent  connection of signified (vacya) and signifier (vacaka). A mantra is a signi fier, and the divinity to which it refers is its signified. The two are part of the 
+The central mediator in all Śaiva invocations is the mantra. Mantras are  effective for summoning divinities, the texts tell us, because of the inherent  connection of signified (vacya) and signifier (vacaka). A mantra is a signi fier, and the divinity to which it refers is its signified. The two are part of the 
 
 Summoning the Lord - 129    
 
@@ -319,7 +319,7 @@ same reality; the mantra is often called the "form" or the sonant aspect of the 
 
 When invoking Siva, the worshiper recites the MOLA ("root") mantra, "Om  haum, I bow to Siva." Also referred to as SIVA and PRASADA ("lofty"), this  mantra signifies Siva in his totality.28 For that reason it is the most important  and most powerful of all mantras.  
 
-The worshiper employs the technique called "ascending pronunciation"  (ιuccarana) when reciting the ΜOLA mantra. The term uccarana generally  means "to raise up" and "to pronounce"; its specialized usage here combines  both meanings. This method of pronouncing mantras is used at various  points throughout this and other Saiva rituals, always to reintegrate differen 
+The worshiper employs the technique called "ascending pronunciation"  (ιuccarana) when reciting the ΜOLA mantra. The term uccarana generally  means "to raise up" and "to pronounce"; its specialized usage here combines  both meanings. This method of pronouncing mantras is used at various  points throughout this and other Śaiva rituals, always to reintegrate differen 
 
 tiated unities or to transport things to a higher level of being. In previous  chapters we have seen ascending pronunciation utilized to protect the soul  during atmasuddhi by transporting it upward to the dvadaSanta, and to  merge temporarily the soul of the initiate with ParamaSiva at the conclusion  of nirvanadtksa. It is used also to purify the mantras and to invoke Siva onto  the hands and body during self-purification. According to Appayadlkgita, the  worshiper employs it as well with each offering he makes in daily worship,  as will be discussed in the next chapter. In invocation, ascending pronun ciation enables the ritualist to reunify the mantra within his own body and  finally to merge the reintegrated mantra into the deity that it signifies,  ParamaSiva.  
 
@@ -361,7 +361,7 @@ The worshiper next lowers his hands to the level of his heart and exhales.  Siva
 
 Summoning the Lord · 133    
 
-Once Siva is fully present in the linga, the worshiper immediately acts to  keep him there. "He establishes him with the mudra of establishment,  makes him present with the mudra of presence, and restrains him with the  mudra of restraint He declares, 'Welcome to you, O Great God.' And he  imagines the reply of the lord, 'Greetings, my child'" {KKD pp. 103-4).  The worshiper then humbly requests that Siva stay: " Ό Lord, protector of  all the worlds, please remain present in this linga until worship is completed,  out of your love (sampriti)'" (KKD p. 104). Even after the elaborate invoca tory work he has performed, the Saiva worshiper still regards Siva's pres 
+Once Siva is fully present in the linga, the worshiper immediately acts to  keep him there. "He establishes him with the mudra of establishment,  makes him present with the mudra of presence, and restrains him with the  mudra of restraint He declares, 'Welcome to you, O Great God.' And he  imagines the reply of the lord, 'Greetings, my child'" {KKD pp. 103-4).  The worshiper then humbly requests that Siva stay: " Ό Lord, protector of  all the worlds, please remain present in this linga until worship is completed,  out of your love (sampriti)'" (KKD p. 104). Even after the elaborate invoca tory work he has performed, the Śaiva worshiper still regards Siva's pres 
 
 ence in the linga not as a matter of ritual compulsion, but as a manifestation  of benevolent disposition, of Siva's "love." He then offers Siva the ritually  prepared arghya water of hospitality, the first of many services he will per form for the manifest Lord before him  
 
@@ -377,9 +377,9 @@ knowable and unworshipable divinity, Siva becomes accessible to the wor shiper's
 
 COMMON GROUND  
 
-Saiva daily worship consists, at its core, in a series of transactions between  a human worshiper and the god Siva. Yet in the normal course of things,  such transactions appear nearly impossible. The distance between human  and god seems insuperable. The human worshiper is a soul encrusted with  fetters that seriously impede his power of knowing and acting, and the soul  is bound within an impure body that is a kind of congealment of its fetters.  Siva, by contrast, is in his highest state utterly transcendent. Formless, not  constrained by any of the limitations that affect humans, Siva is beyond all  human capacities of knowledge and action.  
+Śaiva daily worship consists, at its core, in a series of transactions between  a human worshiper and the god Siva. Yet in the normal course of things,  such transactions appear nearly impossible. The distance between human  and god seems insuperable. The human worshiper is a soul encrusted with  fetters that seriously impede his power of knowing and acting, and the soul  is bound within an impure body that is a kind of congealment of its fetters.  Siva, by contrast, is in his highest state utterly transcendent. Formless, not  constrained by any of the limitations that affect humans, Siva is beyond all  human capacities of knowledge and action.  
 
-Fortunately, there exist ritual means to bridge this gap. In the two preced ing chapters, I have discussed the procedures through which Saiva daily  worship reduces the difference in status between the worshiper and Siva,  thereby enabling them to engage in direct relations with one another. These  processes are, strictly speaking, merely necessary preparations for the rites  of homage that follow. Yet in another sense they are central to the ritual.  They articulate and enact fundamental metaphysical propositions of Saiva  siddhanta, which organize the world of ritual as well as the world itself.  
+Fortunately, there exist ritual means to bridge this gap. In the two preced ing chapters, I have discussed the procedures through which Śaiva daily  worship reduces the difference in status between the worshiper and Siva,  thereby enabling them to engage in direct relations with one another. These  processes are, strictly speaking, merely necessary preparations for the rites  of homage that follow. Yet in another sense they are central to the ritual.  They articulate and enact fundamental metaphysical propositions of Śaiva  siddhanta, which organize the world of ritual as well as the world itself.  
 
 In daily worship, two converging processes of transformation bring the  worshiper and Siva from their very divergent initial states to meet on an  equivalent plane of being. The worshiper first transfigures his own body,  through the rite of atmasuddhi, into a body of mantras like that of Sadasiva.  In the process, he enacts the passage by which his soul "becomes a Siva" in  liberation. After transforming himself, the ritualist summons Siva to enter  the linga prepared for him. He first superimposes onto the linga a body of  mantras mirroring his own, and then he uses the MULA mantra to lead Siva  from his highest, transcendent state into this body. The formless, inaccessi ble ParamaSiva becomes embodied as Sadasiva, a form of Siva that can be  meditated on and worshiped.  
 
@@ -447,9 +447,9 @@ Through these two procedures, the worshiper and Siva are able to en counter one 
 
 worship performed on behalf of others, the priest capable of such self-trans formation acts as mediator for those who wish to make offerings to the Lord  but who are not able (because not initiated) to engage in direct transactions  with Siva. The worshiper who performs p&ja on his own behalf meets with  and makes his offerings directly to Siva.  
 
-This pattern of daily worship, by which the worshiper and Siva follow  converging paths to meet on a common ritual plane, parallels the modified  dualistic metaphysics of Saiva siddhanta and contrasts with both monist  schools such as Advaita Vedanta and more bhakti-onented dualist schools.  Ritual procedures do not negate the fundamental separateness of the wor shiper and Siva but do diminish the adventitious differences between them.  
+This pattern of daily worship, by which the worshiper and Siva follow  converging paths to meet on a common ritual plane, parallels the modified  dualistic metaphysics of Śaiva siddhanta and contrasts with both monist  schools such as Advaita Vedanta and more bhakti-onented dualist schools.  Ritual procedures do not negate the fundamental separateness of the wor shiper and Siva but do diminish the adventitious differences between them.  
 
-As we have seen, Saivas presume an ontological separation between souls  and Siva, both before and after liberation. Even when the soul becomes an  autonomous Siva through moksa, it remains distinct from Siva. Similarly, 
+As we have seen, Śaivas presume an ontological separation between souls  and Siva, both before and after liberation. Even when the soul becomes an  autonomous Siva through moksa, it remains distinct from Siva. Similarly, 
 
 136 · Chapter Four    
 
@@ -457,4 +457,4 @@ the ritual transformations of daily worship do not bring about any merging  or u
 
 We have seen as well that bound souls are distinguished from Siva by the  fetters that constrain them. The passage of a soul to liberation gradually  removes these fetters, and in so doing it effaces the differences between the  soul and Siva. In liberation, the soul becomes equal in power and purity to  Siva. The transformations of soul and Siva performed in daily worship sim 
 
-ilarly decrease the discrepancy that normally exists between the two. Puri fied Saiva worshiper and embodied god approach one another as separate  but relatively equal, unlike in the bhakti schools that presume and extol an  eternal and unbridgeable hierarchy between the two. (Saivas admit, how ever, that the condition of equality between soul and Siva can only be rela tive, never absolute, in ritual and in liberation.) The ritual transformations  effected through atmaSuddhi and invocation enable the soul and Siva to  meet face to face in worship as in liberation. 
+ilarly decrease the discrepancy that normally exists between the two. Puri fied Śaiva worshiper and embodied god approach one another as separate  but relatively equal, unlike in the bhakti schools that presume and extol an  eternal and unbridgeable hierarchy between the two. (Śaivas admit, how ever, that the condition of equality between soul and Siva can only be rela tive, never absolute, in ritual and in liberation.) The ritual transformations  effected through atmaSuddhi and invocation enable the soul and Siva to  meet face to face in worship as in liberation. 

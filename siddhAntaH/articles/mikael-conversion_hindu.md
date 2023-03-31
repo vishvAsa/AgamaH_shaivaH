@@ -3,7 +3,7 @@ title = "mikael-conversion - hindu"
 +++
 
 India, his beacon of light  
-Denmark’s Mikael Stamm in his search for philosophical answers ended up doing his Ph.D in Saiva Siddhanta at the University of Madras.  
+Denmark’s Mikael Stamm in his search for philosophical answers ended up doing his Ph.D in Śaiva Siddhanta at the University of Madras.  
 Suganthy Krishnamachari
 
 
@@ -21,13 +21,13 @@ Grammarian Bhartrhari (5th century C.E.) elaborated on sphota. When we say somet
 
 So while Western philosophy was occupied with language in a negative way, in India, language was looked at through a metaphysical prism.
 
-My curiosity is aroused when I hear that a student of Western philosophy from Denmark, is doing his Ph.D in Saiva Siddhanta in the Sanskrit Department, University of Madras. I meet Mikael Stamm one afternoon, and he explains why he was disenchanted with Western philosophy. 
+My curiosity is aroused when I hear that a student of Western philosophy from Denmark, is doing his Ph.D in Śaiva Siddhanta in the Sanskrit Department, University of Madras. I meet Mikael Stamm one afternoon, and he explains why he was disenchanted with Western philosophy. 
 
 > “I didn’t like its rejection of metaphysical questions. You don’t skirt round questions, simply because they are uncomfortable. I couldn’t accept the notion that it was the business of philosophy to clear up linguistic misconceptions for the sake of science. So I moved away from Western philosophy, and studied Computer Science, and for many years I worked in UNI- C, a government organisation, which develops service networks for Universities in Denmark.”
 
 But the philosophical questions kept nagging him, and he thought perhaps India might have the answers. His first trip to India took him to Goa, and there he picked up a translation of the Bhagavad Gita. Reading it, he realised that the Gita had answers to many questions that had been troubling him. In subsequent trips, he visited many other towns, but when he went to Varanasi that things fell into place.
 
-A visit to the Viswanatha temple and conversations with pandits there, helped him to make up his mind. He decided he would study Saiva Siddhanta, and applied to three Universities. Madras University was the first to respond, and Mikael did his Masters in Tamil Saiva Siddhanta.
+A visit to the Viswanatha temple and conversations with pandits there, helped him to make up his mind. He decided he would study Śaiva Siddhanta, and applied to three Universities. Madras University was the first to respond, and Mikael did his Masters in Tamil Śaiva Siddhanta.
 
 He had read books on Hindu temples in Denmark, but had seen the temples merely as architectural marvels, without connecting them to the religion. It was his many visits to temples that made him realise that here was a living culture.
 
@@ -35,9 +35,9 @@ He had read books on Hindu temples in Denmark, but had seen the temples merely a
 
 Mikael says.
 
-Tracing the history of Saiva Siddhanta, Mikael says, 
+Tracing the history of Śaiva Siddhanta, Mikael says, 
 
-> “The surfacing of distinct Saiva Siddhanta doctrines started at about 800 C.E. and lasted till 1300 C.E. After this, significant expressions of Saiva Siddhanta were confined to Tamil Nadu. The most important dualistically inclined Saiva Siddhantists were Sadyojyoti, Bhojadeva, Ramakantha and Aghorasivacharya, who based their views on the Agamas, especially the earlier ones such as Parakhya, Karana, Paushkara, Mrgendra, Matanga and Raurava. Aghorasivacharya was criticised by later Tamil philosophers such as Sivagnanamunivar and Śivaagrayogin, who were non-dualistic in their philosophy. But Tamil Saiva Siddhanta was not non-dualistic in a sense like Advaita, and the Tamil Saiva Siddhantists did not subscribe to the theory that the world was illusory.”
+> “The surfacing of distinct Śaiva Siddhanta doctrines started at about 800 C.E. and lasted till 1300 C.E. After this, significant expressions of Śaiva Siddhanta were confined to Tamil Nadu. The most important dualistically inclined Śaiva Siddhantists were Sadyojyoti, Bhojadeva, Ramakantha and Aghorasivacharya, who based their views on the Agamas, especially the earlier ones such as Parakhya, Karana, Paushkara, Mrgendra, Matanga and Raurava. Aghorasivacharya was criticised by later Tamil philosophers such as Sivagnanamunivar and Śivaagrayogin, who were non-dualistic in their philosophy. But Tamil Śaiva Siddhanta was not non-dualistic in a sense like Advaita, and the Tamil Śaiva Siddhantists did not subscribe to the theory that the world was illusory.”
 
 Mikael began studying Sanskrit from his very first day at the Madras University. Early lessons were self taught. Later, Dr. Balasubramaniam of the Sanskrit College, Mylapore, taught him Patanjali’s Yoga Sutra.
 
@@ -45,15 +45,15 @@ Mikael began studying Sanskrit from his very first day at the Madras University.
 
 Back home in Denmark, he studied under an Indian professor who also took spoken Sanskrit classes. From him, Mikael picked up an interest in Nada Karika, which is a text of 25 verses, written by Ramakantha II (11th century C.E.). It has a commentary by Aghorasivacharya. Nada Karika asks questions about the origin of sound, and how words relate to objects.
 
-Does Saiva Siddhanta believe in Nada Brahman or Sabda Brahman? 
+Does Śaiva Siddhanta believe in Nada Brahman or Sabda Brahman? 
 
-> “No. In Saiva Siddhanta, Siva and Sakti are the ultimate sources. Word and sound are not present in the highest level, which is pure, without any trace of sabda or subtle matter. The ultimate experience is without words. This is opposed to the view point of grammarians and the view of later non dual Kashmiri Saivisim, where reality and language are one.”
+> “No. In Śaiva Siddhanta, Siva and Sakti are the ultimate sources. Word and sound are not present in the highest level, which is pure, without any trace of sabda or subtle matter. The ultimate experience is without words. This is opposed to the view point of grammarians and the view of later non dual Kashmiri Saivisim, where reality and language are one.”
 
 Will he include a study of concepts like sphota in his work? 
 
 > “Yes, especially because I think concepts such as these deserve more attention from Western philosophers.” 
 
-He plans to make a comparative study of Saiva Siddhanta with Nyaya, Mimamsa, and Bhartrhari’s work. He also wants to zero in on a temple and see how words are used in rituals. He wants to show how the history of the ritual and philosophy are connected.
+He plans to make a comparative study of Śaiva Siddhanta with Nyaya, Mimamsa, and Bhartrhari’s work. He also wants to zero in on a temple and see how words are used in rituals. He wants to show how the history of the ritual and philosophy are connected.
 
 Mikael says he left Christianity at the age of 25. 
 
@@ -61,11 +61,11 @@ Mikael says he left Christianity at the age of 25.
 
 Mikael says that a majority of youngsters in Denmark don’t go to Church, although Christianity is taught as a subject in schools.
 
-Is his interest in Saiva Siddhanta more than just an intellectual one? “Of course. I am a practising Saivite. I have also become a vegetarian.”
+Is his interest in Śaiva Siddhanta more than just an intellectual one? “Of course. I am a practising Saivite. I have also become a vegetarian.”
 
 Is it easy being a vegetarian in Denmark? 
 
 > “No, it isn’t easy. When I go to restaurants with my friends, the people in the restaurant have to scramble to toss a few vegetables together to make a salad for me. But luckily, there is an Indian restaurant in Copenhagen, where vegetarian food is served.”
 
-After he finishes his doctoral studies, Mikael Stamm wants to teach Saiva Siddhanta in India, preferably in Tamil Nadu.
+After he finishes his doctoral studies, Mikael Stamm wants to teach Śaiva Siddhanta in India, preferably in Tamil Nadu.
 

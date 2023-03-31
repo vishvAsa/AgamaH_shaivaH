@@ -193,7 +193,9 @@ Outside the egg of Brahmā are the worlds of the hundred rudras (satarudras).[^1
 
 The principle called water (jala) is ten times the size of the earth. In this way, each subsequent principle ending with egoity (ahamkāra) is ten times the size of the previous tattva.[^106]
 
+[^106]:
 
+    This system envisions a limitless number of 'worlds' made from and dominated by each principle. These worlds exist so that souls which have not received the Śaiva form of initiation, but have attained a lower form of perfection through a continuous practice of concentration, receive a body and sense organs best suited for experiencing pleasure and pain in a particular world, and may finally attain identity with the Lord.+++(4)+++ Every world has superintending deities who are called the Lords of that world.
 </details>
 
 
@@ -223,7 +225,12 @@ These tattvas are: water, fire, air, ākāśa, the five subtle elements (tanmāt
 
 <details><summary>English</summary>
 
-The principle of intellect or buddhi tattva[^107] is one hundred times the size of 'egoity' (ahaṁkāra). 
+The principle of intellect or buddhi tattva[^107] is one hundred times the size of 'egoity' (ahaṁkāra).
+
+[^107]:
+
+    Located in the intellect principle (buddhi tattva) are eight 'worlds' (bhuvana), each dominated by a class of heavenly beings or deity: pisacas, raksasas, yakśas, gandharvas, Indra, Soma, Prajāpati, and Brahmā. 
+
 </details>
 
 
@@ -234,7 +241,23 @@ The principle of intellect or buddhi tattva[^107] is one hundred times the size 
 
 <details><summary>English</summary>
 
-The principle of primodial nature, or prakr̥ti, is one thousand times more extensive than the buddhi. This is the extent of the sphere of praksti (praksti anda).[^108]. The spheres of praksti are also innumerable, just like the spheres of Brahmā. 
+The principle of primodial nature, or prakr̥ti, is one thousand times more extensive than the buddhi. This is the extent of the sphere of prakr̥ti (prakr̥ti aṇḍa) [^108]. The spheres of prakr̥ti are also innumerable, just like the spheres of Brahmā. 
+
+[^108]:
+
+    According to the Svacchanda Tantra, the names of the worlds under prakr̥ti are: Akr̥ta, kr̥ta, Vaibhava, Brahma, Vaiṣṇava, Kaumāra, 'belonging to Uma' (Auma), and 'belonging to Srīkaṇṭha.' 
+
+    Kṣemarāja explains that those who have practiced yoga with renunciation attain the 'world' (bhuvana) named Akr̥ta, while those who practiced karmayoga reach the bhuvana named kr̥ta. 
+
+    Similarly, those who practiced nirmāṇayoga go to the world of [[238]] r̥bhus. 
+
+    The abode of Brahmā is attainable to those who practice yoga with conviction that puruṣa is one universal soul. 
+
+    The abode of Viṣnu is the final resort for those who strictly practiced yoga according to Vaiṣṇava tradition. 
+
+    Those who practice yoga maintaining celibacy (brahmacarya) go to the abode of Kaumāra world. 
+
+    The abodes above this, named Auma and Srīkaṇṭha, are the abodes of those who practice yoga according to the Śaiva doctrine.
 </details>
 
 
@@ -243,7 +266,7 @@ The principle of primodial nature, or prakr̥ti, is one thousand times more exte
 
 <details><summary>English</summary>
 
-The puruṣa principle is ten thousand times larger than the principle of praksti. The principle of 'natural law,' or niyati, is one hundred thousand times larger than that of puruṣa. 
+The puruṣa principle is ten thousand times larger than the principle of prakr̥ti. The principle of 'natural law,' or niyati, is one hundred thousand times larger than that of puruṣa. 
 </details>
 
 
@@ -290,7 +313,7 @@ while the sadāśiva principle is one billion times the size of the iśvara prin
 
 <details><summary>English</summary>
 
-This is known as the 'sphere of śakti' (śaktianda). 
+This is known as the 'sphere of śakti' (śaktiaṇḍa). 
 </details>
 
 
@@ -357,7 +380,7 @@ Those who died in these places are offered respective places by the Lords. Then 
 
 <details><summary>English</summary>
 
-The fire of time, Kuṣumānda, the Lord of the nether world, Hataka, the cauldron of the earth, Brahma, Muni, Lokesa, and Rudras reside in the intermediate regions of five spheres (andas). 
+The fire of time, Kuṣumānda, the Lord of the nether world, Hataka, the cauldron of the earth, Brahma, Muni, Lokesa, and Rudras reside in the intermediate regions of five spheres (aṇḍas). 
 </details>
 
 
@@ -440,7 +463,7 @@ Sthānu, Suvarṇa, Bhadra, Gokarna, Mahālaya, Avi mukta, Rudrakoti, and Vastra
 
 <details><summary>English</summary>
 
-Sthūla, Shūleśvara, Sankukarṇa, Kālañjara, Mandala-bhịt, Mākoṭa, Duranda and Chagalanda, [these eight] remain in the principle called ego (ahamkāra). 
+Sthūla, Shūleśvara, Sankukarṇa, Kālañjara, Maṇḍala-bhịt, Mākoṭa, Duraṇḍa and Chagalāṇḍa, [these eight] remain in the principle called ego (ahamkāra). 
 </details>
 
 
@@ -455,14 +478,25 @@ According to the view of some, however, the subtle elements and sense organs hav
 
 **धियि** देवयोनयोऽष्टौ  
 **प्रकृतौ** योगाष्टकं किलाकृत-प्रभृति ।  
-इति सप्ताष्टक-भुवना  
+इति +++(पूर्वोक्ताः)+++ सप्ताष्टक+++(=७*८-पति-)+++-भुवना  
 प्रतिष्ठितिः **सलिलतस् तु मूलान्ता** ॥
 
 <details><summary>English</summary>
 
 In the principle called intellect, the group of eight heavenly born beings is located, while in prakr̥ti the group of eight yogas beginning with akr̥ta, etc., is found. [^109] 
 
-These 'worlds of seven groups of eight beings' resting in the kalā named pratiṣthā are located in the water principle and are pervaded up to prakr̥ti. 
+These 'worlds of seven groups of eight beings' resting in the kalā named pratiṣthā are located in the water principle and are pervaded up to prakr̥ti.
+
+[^109]:
+
+    There are seven groups of eight deities who preside over different principles. 
+
+    - The first is called patyaṣṭaka, the group of eight Lords beginning with Lakulisa and ending with Amaresa. 
+    - The second is called Guhyaṣṭaka who are the Lords of fire; the first of them is Bhairava. 
+    - The third group is Atiguhyașttaka, which rules over the principle named wind (vayu). 
+    - The fourth group of eight is called Pavitrāstaka, with Sthāṇu, etc., who rule over the principle called ākāśa.
+    - The fifth group of eight, beginning with Sthūla and ending with Chagalāṇda, rules over ahamkāra. The sixth group of eight divinities called Yonyaṣṭaka rules over the intellect.
+    - The seventh group of eight is called Yogāṣṭaka which rules over prakr̥ti.
 </details>
 
 
@@ -480,6 +514,20 @@ The principles of impure vidyā, kalā, and niyati have two worlds each,[^111] w
 … has eight worlds. [^112]
 
 Thus, from puruṣa to māyā the number of worlds is twenty-eight. 
+
+[^110]:
+
+    The eleven worlds of the Rudras are as follows: Vāma, Bhīma, Ugra, Bhava, Isa, Ekavīra, Pracanda, Gauri, Aja, Ananta, and Ekaśiva. 
+
+[^111]:
+
+    The names of the worlds in impure vidyā, kalā, and niyati are Krodheśa and Canda, Samvarta and Jyoti, Sūra and Pancānta, respectively. 
+
+[^112]:
+
+    The worlds under kāla and mayā are as follows: Ekavīra, śikhi, Śrīkantha in kāla, while in māyā, Mahātejas, Vāma, Bhava, Udbhava, Ekapinga and īsāna, Bhuvanesa and Anguṣtha. 
+
+
 </details>
 
 
@@ -499,17 +547,26 @@ Thus, from puruṣa to māyā the number of worlds is twenty-eight.
 <details><summary>English</summary>
 
 In pure vidyā there are five worlds, [^113] and in the iśvara principle the number [of worlds] belonging to the Lords of vidyās is eight.
+
+[^113]:
+
+    In pure vidyā principle there are five worlds. They are: Halahalarudra, Krodha, Ambika, Aghora, and Yama.
 </details>
 
 
 
 **सादाख्ये** पञ्चकम् इति  
-अष्टादश-भुवनिका शान्ता ।  
+अष्टादश-भुवनिका **शान्ता**  
++++(किमत्राधिकं तत्त्वम्?? कलातत्त्वं पूर्वम् एव गतम्। )+++।  
 
 
 <details><summary>English</summary>
 
 In the principle called sadākhya there are five worlds, while in the kalā сalled sāntā there are eighteen worlds.[^114] 
+
+[^114]:
+
+    Every principle is composed of subtle elements (kalās). They are called nivr̥tti, pratiṣṭhā, vidyā, śāntā, and sāntātītā. The number of worlds in nivr̥ttikalā is sixteen; in pratiṣṭhā the number is fifty six; in vidyā the number is twenty-eight; in śāntā the number is eighteen. There are no worlds in śāntātītā. Thus, the total number of the worlds in all five kalās is one hundred eighteen. [[239]]
 </details>
 
 अध्वानम् इमं सकलं  

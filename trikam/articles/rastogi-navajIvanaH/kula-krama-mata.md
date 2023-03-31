@@ -94,7 +94,7 @@ Abhinavagupta: An Historical and Philosophical Study
 ईश्वरप्रत्यभिज्ञा- विमर्शिनी (का. ग्रं.) 
 ईश्वरप्रत्यभिज्ञा-विवृत्ति-विमर्शिनी 
 कुलार्णव-तन्त्र 
-The Canon of Saivagama and the Kubjika Tantras of the Western Kaula Tradition 
+The Canon of Śaivagama and the Kubjika Tantras of the Western Kaula Tradition 
 कौलज्ञाननिर्णय 
 क्रमस्तोत्र 
 The Krama Tantricism of Kashmir 
@@ -4935,7 +4935,7 @@ Kalhana's Rajatarangint or Chronicle of the Kings of Kashmir, ed. M.A. Stein, 18
 काश्मीर शिवाद्वयवाद की मूल अवधारणाएँ, नवजीवन रस्तोगी, मुंशीराम मनोहरलाल, दिल्ली, २००२ । The Kula Ritual (As Elaborated in Chapter 29 of the Tantrāloka), John R. 
 Dupuche, Motilal Banarsidass, Delhi, 2003. 
 कुलार्णवतन्त्र, सं. जीवानन्द विद्यासागर, कलकत्ता, १६३७ । 
-The Canon of Saivagama and the Kubjikā Tantras of the Western Kaula Tradition, Mark S.G. Dyczkowski, State University New York Press (SUNY), Albany, 1998. 
+The Canon of Śaivagama and the Kubjikā Tantras of the Western Kaula Tradition, Mark S.G. Dyczkowski, State University New York Press (SUNY), Albany, 1998. 
 Krama Monism of Kashmir: An Analytical Study, vol. II, Navjivan Rastogi, being the Second Part of the Ph.D. thesis submitted to Lucknow University, 1967 (unpublished). 
 The Krama Tantricism of Kashmir, vol.1; Historical and General Sources, 
 Navjivan Rastogi, Motilal Banarsidass, Delhi, 1979. 

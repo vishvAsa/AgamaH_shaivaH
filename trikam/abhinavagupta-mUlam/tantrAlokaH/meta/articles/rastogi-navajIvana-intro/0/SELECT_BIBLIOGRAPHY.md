@@ -85,7 +85,7 @@ Buddhists of Kashmir, translated from French into English by Brereton & Picron, 
 
 Abhinavagupta: An Historical and Philoso- phical Study (Abhi.), 2nd revised edition, Varanasi, 1963. 
 
-History of Saiva Cults in Northern India (From Inscriptions 700 A.D. to 1200 A.D.), ed. G. C. Pandey, Allahabad, 1980. Pratisthālakṣaṇasarasamuccaya, 
+History of Śaiva Cults in Northern India (From Inscriptions 700 A.D. to 1200 A.D.), ed. G. C. Pandey, Allahabad, 1980. Pratisthālakṣaṇasarasamuccaya, 
 
 ed. 
 
