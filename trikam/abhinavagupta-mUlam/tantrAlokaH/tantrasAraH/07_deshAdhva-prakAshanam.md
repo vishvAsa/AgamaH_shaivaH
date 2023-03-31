@@ -505,7 +505,8 @@ These 'worlds of seven groups of eight beings' resting in the kalā named prati�
 प्रत्य्-एकं भुवन-द्वयम्,  
 अथ **काले** तत् त्रयं, **निशायां**+++(=मायायां)+++ स्युः …॥  
 … अष्टाव्, अष्टाविंशति-  
-भुवना विद्या नरान् निशान्तम् इयम् ।
+भुवना विद्या नरान् निशान्तम् इयम् ।  
++++(रागतत्त्वय् किमपि नोच्यते??)+++
 
 <details><summary>English</summary>
 
@@ -525,7 +526,7 @@ Thus, from puruṣa to māyā the number of worlds is twenty-eight.
 
 [^112]:
 
-    The worlds under kāla and mayā are as follows: Ekavīra, śikhi, Śrīkantha in kāla, while in māyā, Mahātejas, Vāma, Bhava, Udbhava, Ekapinga and īsāna, Bhuvanesa and Anguṣtha. 
+    The worlds under kāla and mayā are as follows: Ekavīra, śikhi, Śrīkantha in kāla, while in māyā, Mahātejas, Vāma, Bhava, Udbhava, Ekapinga and īsāna, Bhuvanesa and Anguṣṭha. 
 
 
 </details>
