@@ -350,9 +350,9 @@ Those who died in these places are offered respective places by the Lords. Then 
 
 तद् यथा
 
-कालाग्निः कूष्माण्डो  
-नरकेशो हाटकोऽथ भूतलपः ।  
-ब्रह्मा मुनिलोकेशो  
+कालाग्निः, कूष्माण्डो  
+**नरकेशो**, हाटकोऽथ **भूतलपः**, ।  
+ब्रह्मा **मुनिलोकेशो**,  
 रुद्रः **पञ्चाण्ड-मध्यगतः** ॥
 
 <details><summary>English</summary>
@@ -361,62 +361,131 @@ The fire of time, Kuṣumānda, the Lord of the nether world, Hataka, the cauldr
 </details>
 
 
-**अधरे** ऽनन्तः प्राच्या   
-कपालि-वह्न्य्-अन्त-निर्ऋति-बालाख्याः ।  
-लघु-निधि-पति-विद्याधिप-  
-शम्भूर्ध्वान्तं स वीर-भद्र-पतिः ॥
+**अधरे** ऽनन्तः **प्राच्या**   
+कपालि-वह्न्य्-अन्त+++(=यम)+++-निर्ऋति-बालाख्याः +++(इति पश्चिमान्तम्)+++ ।  
++++(वायव्यात्)+++ लघु--निधि-पति--विद्याधिप-  
+शम्भूर्ध्वान्तं, स वीर-भद्र-पतिः ॥
+
+<details><summary>English</summary>
+
+Below Ananta exists Kapalin, Agni, Yama, Nirrti, Bala, Sigra, Nidhisvara, the Lord of vidyās-śambhu, and at the end of the head is Vīrabhadra. 
+</details>
+
 
 इति षोडश-पुरम् एतत्-  
-पार्थिवम् अण्डं निवृत्ति-कला ।  
-लकुलीश-भार-भूतिर्  
+**पार्थिवम् अण्डं** निवृत्ति-कला ।  
+
+<details><summary>English</summary>
+
+These sixteen worlds are included in the sphere of the earth, and kalā is nivrtti (which is the element that gives birth to the sphere). 
+</details>
+
+
+लकुलीश--भार-भूतिर्  
 दिण्ड्य् आषाढी च पुष्कर-निमेषौ ॥
-
-Below Ananta exists Kapalin, Agni, Yama, Nirrti, Bala, Sigra, Nidhisvara, the Lord of vidyās-śambhu, and at the end of the head is Vīrabhadra. These sixteen worlds are included in the sphere of the earth, and kalā is nivrtti (which is the ele ment that gives birth to the sphere). These eight are called the Lords of water: Lakulīśa, Bhārabhuti, Dindi, Asadhi, Puskara, Nimesa, Prabhāsa, and Sureśa. Bhairava, Kedāra, Mahākāla, Madhyāmra, Jalpa, SriSaila, and Hariscandra are called Guhyāstaka, the eight secret gods who exist in the principle of fire.
-
-
-Sthūla, Shūleśvara, Sankukarṇa, Kālañjara, Mandala bhịt, Mākoṭa, Duranda and Chagalanda, [these eight] remain in the principle called ego (ahamkāra). According to the view of some, however, the subtle ele ments and sense organs have their location in the prin ciple of ego (ahamkāra). In the principle called intellect, the group of eight heav enly born beings is located, while in prakr̥ti the group of eight yogas beginning with aksta, etc., is found. [^109] These 'worlds of seven groups of eight beings' resting in the kalā named pratiṣthā are located in the water principle and are pervaded up to prakr̥ti. In the puruṣa principle are located[^110] the worlds of the eleven rudras called vāma and so on. The principles of impure vidyā, kalā, and niyati have two worlds each,[^111] while the principle kala has three, and the principle māyā has eight worlds. [^112] Thus, from puruṣa to māyā the num ber of worlds is twenty-eight. In pure vidyā there are five worlds, [^113] and in the iśvara principle the number [of worlds] belonging to the Lords of vidyās is eight. In the principle called sadākhya there are five worlds, while in the kalā сalled sāntā there are eighteen worlds.[^114] Conceiving all these paths (adhvas) either in the body, or in the vital energy, or in the intellect, or in the great void of consciousness as the highest, one attains the fullness of Bhairava.  
 
 प्रभास-सुरेशाव् इति  
 **सलिले** प्रत्यात्मकाष्टकं प्रोक्तम् ।  
+
+<details><summary>English</summary>
+
+These eight are called the Lords of water: Lakulīśa, Bhārabhuti, Dindi, Asadhi, Puskara, Nimesa, Prabhāsa, and Sureśa. 
+</details>
+
+
 भैरव-केदार--महा-  
 काला मध्यास्र-जल्पाख्याः ॥
 
 श्रीशैल--हरिश्-चन्द्राव्  
 इति गुह्याष्टकम् इदं **महसि** ।  
-भीमेन्द्राट्टाः सविमल-  
-कनखल-नाखल-कुरु-स्थिति-गयाख्याः ॥
+
+<details><summary>English</summary>
+
+Bhairava, Kedāra, Mahākāla, Madhyāmra, Jalpa, SriSaila, and Hariscandra are called Guhyāstaka, the eight secret gods who exist in the principle of fire.
+</details>
+
+
+
+भीमेन्द्राट्टाः स-विमल-  
+कनखल-नाखल--कुरु-स्थिति--गयाख्याः ॥
 
 [[६७]]
 
 अति-गुह्याष्ट्कम् एतन्  
 **मरुति** सतन्मात्रके साक्षे ।  
+
+<details><summary>English</summary>
+
+The group of eight highly secret gods is situated in the principle of air in the instrument of knowledge along with tanmatras. They are: Bhima, Indra, Attahasa, Vimala, Kanakhala, Nakhala, Kuruksetra, and Gaya.
+</details>
+
+
 स्थाणु-सुवर्णाख्यौ किल  
 भद्रो गोकर्णको महालयकः ॥
 
-अविमुक्त-रुद्रकोटी-  
+अविमुक्त-रुद्रकोटी  
 वस्त्रापद इत्य् अदः पवित्रं **खे** ।  
-स्थूल-स्थूलेश-शङ्कु-  
-श्रुति-कालाश् चाथ मण्डल-भृत् ॥
+
+<details><summary>English</summary>
+
+Sthānu, Suvarṇa, Bhadra, Gokarna, Mahālaya, Avi mukta, Rudrakoti, and Vastrapada [this group of] the pure eight Lords, exist in the principle of the ether (void).
+</details>
+
+
+स्थूल-स्थूलेश--शङ्कु-  
+श्रुति--कालाश् चाथ मण्डल-भृत् ॥
 
 माकोटाण्ड-द्वितय-  
 च्छगलाण्डाष्टकं त्व् **अहङ्कारे** ।  
-अन्ये त्वहङ्कारान्ता-  
-स्तन्मात्राणीन्द्रियाणि चेत्याहुः ॥
+
+<details><summary>English</summary>
+
+Sthūla, Shūleśvara, Sankukarṇa, Kālañjara, Mandala-bhịt, Mākoṭa, Duranda and Chagalanda, [these eight] remain in the principle called ego (ahamkāra). 
+</details>
+
+
+अन्ये त्व् **अहङ्कारान्तास्**  
+तन्मात्राणीन्द्रियाणि चेत्याहुः ॥
+
+<details><summary>English</summary>
+
+According to the view of some, however, the subtle elements and sense organs have their location in the principle of ego (ahamkāra). 
+</details>
+
 
 **धियि** देवयोनयोऽष्टौ  
 **प्रकृतौ** योगाष्टकं किलाकृत-प्रभृति ।  
 इति सप्ताष्टक-भुवना  
-**प्रतिष्ठितिः** सलिलतस् तु मूलान्ता ॥
+प्रतिष्ठितिः **सलिलतस् तु मूलान्ता** ॥
+
+<details><summary>English</summary>
+
+In the principle called intellect, the group of eight heavenly born beings is located, while in prakr̥ti the group of eight yogas beginning with akr̥ta, etc., is found. [^109] 
+
+These 'worlds of seven groups of eight beings' resting in the kalā named pratiṣthā are located in the water principle and are pervaded up to prakr̥ti. 
+</details>
+
 
 **नरि**+++(=पुरुषे)+++ वामाद्या रुद्रा  
-एकादश **वित्-कला-नियतिषु** स्यात् ।  
-प्रत्य्-एकं भुवन-द्वयम्  
-अथ **काले** तन्त्रयं+++(=??)+++ **निशायां** स्युः ॥
-
-अष्टाव् अष्टाविंशति-  
+एकादश, **+++(अशुद्ध-)+++वित्-कला-नियतिषु** स्यात् ।  
+प्रत्य्-एकं भुवन-द्वयम्,  
+अथ **काले** तत् त्रयं, **निशायां**+++(=मायायां)+++ स्युः …॥  
+… अष्टाव्, अष्टाविंशति-  
 भुवना विद्या नरान् निशान्तम् इयम् ।
-विद्यायां पञ्च स्यु-  
-र्विद्येशाष्टकमथैश्वरे तत्त्वे ॥
+
+<details><summary>English</summary>
+
+In the puruṣa principle are located[^110] the worlds of the eleven rudras called vāma and so on.  
+The principles of impure vidyā, kalā, and niyati have two worlds each,[^111] while the principle kala has three, and the principle māyā …
+… has eight worlds. [^112]
+
+Thus, from puruṣa to māyā the number of worlds is twenty-eight. 
+</details>
+
+
+
+**विद्यायां** पञ्च स्युर्,  
+विद्येशाष्टकम् **अथैश्वरे** तत्त्वे ॥
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -427,14 +496,32 @@ Sthūla, Shūleśvara, Sankukarṇa, Kālañjara, Mandala bhịt, Mākoṭa, Dur
 भुवनानां परिज्ञेयं सङ्क्षेपान्न तु विस्तरात् ॥ इति ।
 </details>
 
+<details><summary>English</summary>
+
+In pure vidyā there are five worlds, [^113] and in the iśvara principle the number [of worlds] belonging to the Lords of vidyās is eight.
+</details>
+
+
 
 **सादाख्ये** पञ्चकम् इति  
 अष्टादश-भुवनिका शान्ता ।  
-अध्वानम् इमं सकलं  
-देहे प्राणेऽथ धियि महा-नभसि ॥
 
+
+<details><summary>English</summary>
+
+In the principle called sadākhya there are five worlds, while in the kalā сalled sāntā there are eighteen worlds.[^114] 
+</details>
+
+अध्वानम् इमं सकलं  
+देहे प्राणेऽथ धियि महा-नभसि ॥  
 **संविदि** च परं **पश्यन्**-  
 पूर्णत्वाद् **भैरवी भवति** ॥
+
+<details><summary>English</summary>
+
+Conceiving all these paths (adhvas) either in the body, or in the vital energy, or in the intellect, or in the great void of consciousness as the highest, one attains the fullness of Bhairava.
+</details>
+
 
 [[६८]]
  
@@ -457,12 +544,6 @@ Sthūla, Shūleśvara, Sankukarṇa, Kālañjara, Mandala bhịt, Mākoṭa, Dur
 
 इति श्रिमदभिनवगुप्ताचार्यविरचिते तन्त्रसारे देशाध्वप्रकाशनं नाम   
 सप्तममाह्निकम् ॥७॥
-
-The group of eight highly secret gods is situated in the principle of air in the instrument of knowledge along with tanmatras. They are: Bhima, Indra, Attahasa, Vimala, Kanakhala, Nakhala, Kuruksetra, and Gaya. Sthānu, Suvarṇa, Bhadra, Gokarna, Mahālaya, Avi mukta, Rudrakoti, and Vastrapada [this group of] the pure eight Lords, exist in the principle of the ether (void). 
-
-106 TANTRASĀRA 
-
-
 
 <details><summary>English</summary>
 
