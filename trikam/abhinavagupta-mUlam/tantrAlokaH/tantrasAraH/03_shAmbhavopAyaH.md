@@ -937,7 +937,7 @@ by means of continuous flow of its own delight of self-consciousness, reflects t
 
 
 संवे-अण निम्मल दप्पणस्मि  
-स-अलं फुरत्त नि-असारं ।  
+स-अलं फुरत्त नि-असारम् ।  
 आमरिसण रस सरहस  
 विमट्टरू-अं स-इं भा-इ ॥
 

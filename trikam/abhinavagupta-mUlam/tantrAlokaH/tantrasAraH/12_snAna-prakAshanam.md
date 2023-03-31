@@ -14,7 +14,7 @@ TANTRASĀRA 149
 
 हुपरमत्थिण हाणु । तर्हि आविदृतरत्ति 
 
-दिणु जाणइ पर अप्पाणं ।। इति श्रीमदाचार्याभिनवगुप्तविरचिते श्रीतन्त्रसारे स्नानप्रकाशनं नाम द्वादशमाह्निकम् ।।१२।।150 TANTRASĀRA 
+दिणु जाणइ पर अप्पाणम् ।। इति श्रीमदाचार्याभिनवगुप्तविरचिते श्रीतन्त्रसारे स्नानप्रकाशनं नाम द्वादशमाह्निकम् ।।१२।।150 TANTRASĀRA 
 
 It has been indicated earlier that initiation, rituals, and other related matters should be discussed. Therefore, for the purpose of determining the real character of initiation, the duties preliminary to it will be presented. 
 
