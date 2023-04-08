@@ -3,7 +3,7 @@ title = "+मूलम्"
 
 +++
   
-स्रोतो [ऽत्र](https://archive.org/details/in.ernet.dli.2015.541529/page/n27/mode/2up)।  
+स्रोतो [ऽत्र](https://archive.org/details/in.ernet.dli.2015.242330/page/n97/mode/1up) ।  
   
   
 काश्मीर-संस्कृतग्रन्थावलिः ।  

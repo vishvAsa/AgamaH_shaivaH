@@ -12,7 +12,7 @@ Chapter Eight
 
 अथ तत्त्वाध्वा निरूप्यते ।
 
-यद् इदं विभवात्मकं भुवन-जातम् **उक्तं**  
+यद् इदं विभवात्मकं भुवन-जातम् **उक्तं** +++(गताह्निके)+++  
 गर्भी-कृतानन्त-विचित्र-भोक्तृ-भोग्यं,  
 तत्र यद् +++(अनुमानेन)+++ अनुगतं **महा-प्रकाश-रूपं**  
 तत् महा-सामान्य-कल्पं **परम-शिव-रूपम्** ।
@@ -35,6 +35,24 @@ The world contains within it myriads of knowers having the diverse forms of obje
 What permeates all of these worlds like a great.universal' (mahāsāmānya)[^115] is the : Great Lord (Paramesvara). 
 </details>
 
+यत्तु कतिपय-कतिपय-भेदानुगतं रूपं  
+तत् तत्त्वं,  
+यथा पृथिवी नाम धृतिकाठिन्यस्थौल्यादिरूपा   
+कालाग्निप्रभृतिवीरभद्रान्तभुवनेशाधिष्ठितसमस्तब्रह्माण्डानुगता ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यदुक्तम् ।
+
+> तथाहि काल-सदनाद्  
+वीर-भद्र-पुरान्त-गम् ।  
+धृति-काठिन्य-गरिमाद्य्- 
+अवभासाद् धरात्मता ॥  
+
+इति ।  
+तेन यथा सास्नादियोगात् दण्ड-मुण्डादौ गोत्व-व्यपदेशस्तथा   
+धृत्याद्यवभासात् कालाग्न्यादेः पृथिवीत्वव्यपदेशः ।
+</details>
 
 
 On the other hand, tattva is the form abiding in only some [of these worlds] possessing distinctive fea tures. For example, the earth principle possesses qualities.of bear ing, hardness, and grossness. It permeates the entire sphere of Brahmā, beginning with Kālāgni and ending with Vīrabhadra, [^116] whose regions are superintended by their respective lords. 
