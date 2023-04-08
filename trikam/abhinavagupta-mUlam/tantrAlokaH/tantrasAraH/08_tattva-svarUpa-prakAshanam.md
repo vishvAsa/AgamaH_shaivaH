@@ -12,6 +12,7 @@ Chapter Eight
 
 अथ तत्त्वाध्वा निरूप्यते ।
 
+## परम-शिव-रूपम्
 यद् इदं विभवात्मकं भुवन-जातम् **उक्तं** +++(गताह्निके)+++  
 गर्भी-कृतानन्त-विचित्र-भोक्तृ-भोग्यं,  
 तत्र यद् +++(अनुमानेन)+++ अनुगतं **महा-प्रकाश-रूपं**  
@@ -32,13 +33,15 @@ Chapter Eight
 
 Whatever has been stated previously regarding the creation of the worlds is [the result of] the greatness of the Lord's power of freedom.  
 The world contains within it myriads of knowers having the diverse forms of objects for their enjoyment. 
-What permeates all of these worlds like a great.universal' (mahāsāmānya)[^115] is the : Great Lord (Paramesvara). 
+What permeates all of these worlds like a great universal' (mahāsāmānya)[^115] is the : Great Lord (Paramesvara). 
 </details>
 
-यत्तु कतिपय-कतिपय-भेदानुगतं रूपं  
-तत् तत्त्वं,  
+## तत्त्वम्
+
+यत् तु कतिपय-कतिपय-भेदानुगतं रूपं  
+तत् **तत्त्वं**,  
 यथा पृथिवी नाम धृति-काठिन्य-स्थौल्य्-आदि-रूपा   
-कालाग्नि-प्रभृति--वीर-भद्रान्त--भुवनेशाधिष्ठितसमस्तब्रह्माण्डानुगता ।
+कालाग्नि-प्रभृति--वीर-भद्रान्त--भुवनेशाधिष्ठित-समस्त-ब्रह्माण्डानुगता ।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -54,16 +57,67 @@ What permeates all of these worlds like a great.universal' (mahāsāmānya)[^115
 तथा धृत्य्-आद्य्-अवभासात् कालाग्न्य्-आदेः पृथिवीत्व-व्यपदेशः ।
 </details>
 
+<details><summary>English</summary>
 
-On the other hand, tattva is the form abiding in only some [of these worlds] possessing distinctive fea tures. For example, the earth principle possesses qualities.of bear ing, hardness, and grossness. It permeates the entire sphere of Brahmā, beginning with Kālāgni and ending with Vīrabhadra, [^116] whose regions are superintended by their respective lords. 
+On the other hand, tattva is the form abiding in only some [of these worlds] possessing distinctive features. For example, the earth principle possesses qualities of bearing, hardness, and grossness. It permeates the entire sphere of Brahmā, beginning with Kālāgni and ending with Vīrabhadra, [^116] whose regions are superintended by their respective lords. 
+</details>
 
-तत्र एषां तत्त्वानां कार्यकारणभावो दर्शाते, स च द्विविधः - पारमार्थिकः सृष्टश्च । तत्र पारमार्थिक एतावान् कार्यकारणभावो-यदुत कर्तृस्वभावस्य स्वतन्त्रस्य भगवत एवं-विधेन शिवादिधरान्तेन वपुषा स्वरूपभिन्नेन स्वरूपविश्रान्तेन च प्रथनम् । कल्पितस्तु कार्यकारणभावः परमेशेच्छाया नियतिप्राणया निर्मितः, स च यावति यदा नियतपौर्वापर्यावभासन | सत्यपि अधिके स्वरूपानुगतम् एतावत्येव, तेन योगीच्छातोऽपि अङ्कुरो बीजादपि, स्वप्नादौ घटादेरपीति। तत्रापि च परमेश्वरस्य कर्तृत्वानपाय इति अकल्पितोऽपि असौ पारमार्थिकः स्थित एव । पारमार्थिके हि भित्तिस्थानीये स्थिते रूपे सर्वम् इदम् उल्लिख्यमानं घटते न अन्यथा, अत एव सामग्र्या एव कारणत्वं युक्तं | सा हि समस्तभावसंदर्भमयी स्वतन्त्रसंवेदनमहिम्ना, तथा नियतनिजनिजदेशकालभावराशिस्वभावा प्रत्येकं वस्तुस्वरूपनिष्पत्तिसमये तथाभूताया हि अन्यथाभावो यथा यथा अधिकीभवति तथा तथा कार्यस्यापि विजातीयत्वं तारतम्येन पुष्यति, -इत्येवं संवेदनस्वातन्त्र्यस्वभावः परमेश्वर एव विश्वभावशरीरो घटादेर्निर्माता-कुम्भकारसंविदस्ततोऽनधिकत्वा 
+## कार्य-कारण-भावः
+तत्र एषां तत्त्वानां **कार्य-कारण-भावो** दर्श्यते।   
+स च द्विविधः -   
+**पारमार्थिकः सृष्टश्** च ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**पारमार्थिक** इत्यस्यायं भावः  
+लौकिकदृष्ट्या सृष्ट्य्-आद्य्-आविर्भावे ऽपि  
+स्व-तन्त्र-प्रकाश-स्वरूप-स्फारमयत्वाद्  
+अस्य विश्वस्य सृष्टाव् अपि  
+स्वरूपाभिन्न-रूपया स्थित्या स्वरूप-विश्रान्त्या च संहृत्या स्थितत्वात्  
+न किञ्चित् स्वरूपातिरिक्तत्वम् अस्य सञ्जातम् इति  
+न किञ्चित् काल्पनिकत्वम्  
+इति **पारमार्थिकत्वम्** ।
+
+ननु यद्येवं तर्हि  
+विश्वप्रतिष्ठा इयं नियमेनावभासमाना  
+कथं तिष्ठतीत्यतः  
+काल्पनिकः कार्य-कारण-भावो विश्व-प्रतिष्ठायै अवश्यं कल्पनीय  
+इत्याह **सृष्ट** इति।   
+**सृष्टो** नियत्य् अवस्थापितः ।
+</details>
+
+<details><summary>English</summary>
+
+Now the relation of cause and effect in regard to these principles (tattvas) is going to be explained. The causal relation (karyakāraṇabhāva) is twofold, i.e., "absolute (pāramārthika) and created' (srsta).[^117] 
+</details>
+
+
+
+तत्र **पारमार्थिक**  
+एतावान् कार्य-कारण-भावो  
+यद् उत कर्तृ-स्वभावस्य स्वतन्त्रस्य भगवत  
+एवं-विधेन शिवादि-धरान्तेन वपुषा  
+स्वरूप-भिन्नेन, स्वरूप-विश्रान्तेन च   
+**प्रथनम्** ।
+
+कल्पितस्तु कार्यकारणभावः परमेशेच्छया नियतिप्राणया   
+निर्मितः स च यावति यदा नियतपौर्वापर्यावभासनं सत्यपि अधिके   
+[अधिक इति तेन दण्डचक्रादेः सत्यपि अन्वये मृदेव कारणं तत्तु   
+सहकारी इति स्वरूपानुगम इति तेन कृत्तिकारोहिण्युदयादौ कार्यकारणस्य   
+सत्यपि पौर्वापर्यावभासे निरासः नहि तत्र रूपान्वयः ।]   
+स्वरूपानुगतम् एतावत्येव तेन [तेनेति   
+रूपान्वयोपकृतपौर्वापर्यनियमात्मककार्यकारणताया यतोऽवभासनं   
+परमेशेच्छया न तु वास्तवतया ।] योगीच्छातोऽपि अङ्कुरो बीजादपि   
+स्वप्नादौ घटादेरपीति ।
+
+
+कल्पितस्तु कार्यकारणभावः परमेशेच्छाया नियतिप्राणया निर्मितः, स च यावति यदा नियतपौर्वापर्यावभासन | सत्यपि अधिके स्वरूपानुगतम् एतावत्येव, तेन योगीच्छातोऽपि अङ्कुरो बीजादपि, स्वप्नादौ घटादेरपीति। तत्रापि च परमेश्वरस्य कर्तृत्वानपाय इति अकल्पितोऽपि असौ पारमार्थिकः स्थित एव । पारमार्थिके हि भित्तिस्थानीये स्थिते रूपे सर्वम् इदम् उल्लिख्यमानं घटते न अन्यथा, अत एव सामग्र्या एव कारणत्वं युक्तं | सा हि समस्तभावसंदर्भमयी स्वतन्त्रसंवेदनमहिम्ना, तथा नियतनिजनिजदेशकालभावराशिस्वभावा प्रत्येकं वस्तुस्वरूपनिष्पत्तिसमये तथाभूताया हि अन्यथाभावो यथा यथा अधिकीभवति तथा तथा कार्यस्यापि विजातीयत्वं तारतम्येन पुष्यति, -इत्येवं संवेदनस्वातन्त्र्यस्वभावः परमेश्वर एव विश्वभावशरीरो घटादेर्निर्माता-कुम्भकारसंविदस्ततोऽनधिकत्वा 
 
 108 TANTRASĀRA 
 
 त् कुम्भकारशरीरस्य च भावराशिमध्ये निक्षेपात् कथं कुम्भकारशरीरस्य कर्तृत्वाभिमानः? इति चेत् - परमेश्वरकृत एवासौ घटादिवत् भविष्यति । तस्मात् सामग्रीवादोऽपि विश्वशरीरस्य संवेदनस्यैव कर्तृतायाम् उपोद्वलकः | मेरौ हि तत्रस्थे न भवेत् तथाविधो घटः । एवं कल्पितेऽस्मिन् कार्यत्वे शास्त्रेषु तत्त्वानां कार्यकारणभावं प्रति यत् बहुप्रकारत्वं तदपि संगतं, गोमयात् कीटात् योगीच्छातो मन्त्रादौषधात् वृश्चिकोदयवत् । तत्र निजतन्त्रदृशा तं कल्पितं दर्शयामः । 
 
-Now the relation of cause and effect in regard to these prin ciples (tattvas) is going to be explained. The causal relation (karyakāraṇabhāva) is twofold, i.e., "absolute (pāramārthika) and created' (srsta).117 The causal relation of the absolute nature is of such extent that the Lord, as the ultimate causal agent, mani fests in all forms, beginning with śiva and ending with earth, as nondifferent from his own Self, while at the same time he remains resting in his own Self. The created or 'imagined' (kalpita) causal relation is created by the will of the Lord and brought to life by the restrictive power of niyati. The extent of this causal relation is such that in spite of the presence of the manifestation of regular priority and posteriority, 118 and even if some other features are present externally, the continuity of the innate nature (svarūpa) remains invariably present.119 Therefore, a sprout is created by the will of a yogin as well as from a seed. In a dream one creates a jar, etc. Even there the agenthood of the Lord cannot be denied. Therefore, although the created or imagined causal relation is also present, the existence of the absolute causal relation is undeniable. All of this, which was described (potter, clay, which constitute supposed causal relation) becomes possible only if the Absolute, as the foundation, remains steadily established and not otherwise. Therefore, it is proper to say that the causal relation is the totality of all causes. This totality of causes consists of all beings having been woven together by the greatness of the knowing conscious ness, which possesses absolute freedom.120 
+The causal relation of the absolute nature is of such extent that the Lord, as the ultimate causal agent, mani fests in all forms, beginning with śiva and ending with earth, as nondifferent from his own Self, while at the same time he remains resting in his own Self. The created or 'imagined' (kalpita) causal relation is created by the will of the Lord and brought to life by the restrictive power of niyati. The extent of this causal relation is such that in spite of the presence of the manifestation of regular priority and posteriority, 118 and even if some other features are present externally, the continuity of the innate nature (svarūpa) remains invariably present.119 Therefore, a sprout is created by the will of a yogin as well as from a seed. In a dream one creates a jar, etc. Even there the agenthood of the Lord cannot be denied. Therefore, although the created or imagined causal relation is also present, the existence of the absolute causal relation is undeniable. All of this, which was described (potter, clay, which constitute supposed causal relation) becomes possible only if the Absolute, as the foundation, remains steadily established and not otherwise. Therefore, it is proper to say that the causal relation is the totality of all causes. This totality of causes consists of all beings having been woven together by the greatness of the knowing conscious ness, which possesses absolute freedom.120 
 
 This power of the Lord assumes the nature of a particular 
 
