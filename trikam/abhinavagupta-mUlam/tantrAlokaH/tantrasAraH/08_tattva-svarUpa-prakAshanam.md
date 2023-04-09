@@ -176,6 +176,46 @@ In a dream one creates a jar, etc.
 स्व-गृह-सहवर्तनम् इत्याह **तत्रापी**ति ।
 </details>
 
+<details><summary>English</summary>
+
+Even there the agenthood of the Lord cannot be denied.  
+Therefore, although the created or imagined causal relation is also present, the existence of the absolute causal relation is undeniable. 
+</details>
+
+
+[[७१]]  
+
+पारमार्थिके हि भित्तिस्थानीये स्थिते रूपे  
+सर्वम् इदम् उल्लिख्यमानं घटते, न अन्यथा।  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**सर्वम् इदम्** - कल्पितकार्यकारणभावगतं मृद्दण्डादि ।  
+</details>
+
+अत एव +++(ईश्वररूप-)+++सामग्र्या एव कारणत्वं युक्तम् ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+समग्राणाम् एक-प्रमातृ-विश्रान्ति-सतत्त्वम् एकं रूपं सामग्री  
+न पुनर् व्यस्ताः समग्रा दण्डादयः कारणम् ।  
+यद् उक्तम् -
+
+> आरम्भे भव सर्वत्र  
+कर्म वा **करणादि** वा ।  
+**विश्वम्** अस्तु, **स्वतन्त्रस्** तु  
+**कर्ता** तत्रैकको **भवान्** ॥
+
+इति । तथान्यत्रापि
+
+> देश-काल-पदार्थानां  
+यद् यद् वस्तु यथा यथा ।  
+तत् तद् रूपेण या भाति  
+तां **श्रये संविदं** कलाम् ॥ 
+
+इति ।
+</details>
+
 
 पारमार्थिके हि भित्तिस्थानीये स्थिते रूपे सर्वम् इदम् उल्लिख्यमानं घटते न अन्यथा, अत एव सामग्र्या एव कारणत्वं युक्तं | सा हि समस्तभावसंदर्भमयी स्वतन्त्रसंवेदनमहिम्ना, तथा नियतनिजनिजदेशकालभावराशिस्वभावा प्रत्येकं वस्तुस्वरूपनिष्पत्तिसमये तथाभूताया हि अन्यथाभावो यथा यथा अधिकीभवति तथा तथा कार्यस्यापि विजातीयत्वं तारतम्येन पुष्यति, -इत्येवं संवेदनस्वातन्त्र्यस्वभावः परमेश्वर एव विश्वभावशरीरो घटादेर्निर्माता-कुम्भकारसंविदस्ततोऽनधिकत्वा 
 
@@ -183,7 +223,7 @@ In a dream one creates a jar, etc.
 
 त् कुम्भकारशरीरस्य च भावराशिमध्ये निक्षेपात् कथं कुम्भकारशरीरस्य कर्तृत्वाभिमानः? इति चेत् - परमेश्वरकृत एवासौ घटादिवत् भविष्यति । तस्मात् सामग्रीवादोऽपि विश्वशरीरस्य संवेदनस्यैव कर्तृतायाम् उपोद्वलकः | मेरौ हि तत्रस्थे न भवेत् तथाविधो घटः । एवं कल्पितेऽस्मिन् कार्यत्वे शास्त्रेषु तत्त्वानां कार्यकारणभावं प्रति यत् बहुप्रकारत्वं तदपि संगतं, गोमयात् कीटात् योगीच्छातो मन्त्रादौषधात् वृश्चिकोदयवत् । तत्र निजतन्त्रदृशा तं कल्पितं दर्शयामः । 
 
-Even there the agenthood of the Lord cannot be denied. Therefore, although the created or imagined causal relation is also present, the existence of the absolute causal relation is undeniable. All of this, which was described (potter, clay, which constitute supposed causal relation) becomes possible only if the Absolute, as the foundation, remains steadily established and not otherwise. Therefore, it is proper to say that the causal relation is the totality of all causes. This totality of causes consists of all beings having been woven together by the greatness of the knowing conscious ness, which possesses absolute freedom.120 
+All of this, which was described (potter, clay, which constitute supposed causal relation) becomes possible only if the Absolute, as the foundation, remains steadily established and not otherwise. Therefore, it is proper to say that the causal relation is the totality of all causes. This totality of causes consists of all beings having been woven together by the greatness of the knowing conscious ness, which possesses absolute freedom.120 
 
 This power of the Lord assumes the nature of a particular 
 
