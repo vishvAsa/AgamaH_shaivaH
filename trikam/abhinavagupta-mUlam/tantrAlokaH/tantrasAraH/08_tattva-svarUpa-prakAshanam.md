@@ -63,6 +63,7 @@ On the other hand, tattva is the form abiding in only some [of these worlds] pos
 </details>
 
 ## कार्य-कारण-भावः
+### भेदौ
 तत्र एषां तत्त्वानां **कार्य-कारण-भावो** दर्श्यते।   
 स च द्विविधः -   
 **पारमार्थिकः सृष्टश्** च ।
@@ -92,7 +93,7 @@ Now the relation of cause and effect in regard to these principles (tattvas) is 
 </details>
 
 
-
+### पारमार्थिक
 तत्र **पारमार्थिक**  
 एतावान् कार्य-कारण-भावो  
 यद् उत कर्तृ-स्वभावस्य स्वतन्त्रस्य भगवत  
@@ -105,7 +106,7 @@ Now the relation of cause and effect in regard to these principles (tattvas) is 
 The causal relation of the absolute nature is of such extent that the Lord, as the ultimate causal agent, manifests in all forms, beginning with śiva and ending with earth, as nondifferent from his own Self, while at the same time he remains resting in his own Self. 
 </details>
 
-
+### कल्पितः
 **कल्पितस्** तु कार्य-कारण-भावः  
 परमेशेच्छया नियति-प्राणया निर्मितः।+++(5)+++  
 
@@ -163,6 +164,7 @@ Therefore, a sprout is created by the will of a yogin, as well as from a seed.
 In a dream one creates a jar, etc. 
 </details>
 
+### पारमार्थिक-मूलत्वम्
 तत्रापि च   
 परमेश्वरस्य कर्तृत्वानपाय इति  
 अकल्पितोऽपि असौ **पारमार्थिकः स्थित** एव ।
@@ -185,15 +187,21 @@ Therefore, although the created or imagined causal relation is also present, the
 
 [[७१]]  
 
-पारमार्थिके हि भित्तिस्थानीये स्थिते रूपे  
-सर्वम् इदम् उल्लिख्यमानं घटते, न अन्यथा।  
+पारमार्थिके हि **भित्तिस्थानीये स्थिते** रूपे  
+सर्वम् इदम् उल्लिख्यमानं **घटते**, न अन्यथा।  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 **सर्वम् इदम्** - कल्पितकार्यकारणभावगतं मृद्दण्डादि ।  
 </details>
 
-अत एव +++(ईश्वररूप-)+++सामग्र्या एव कारणत्वं युक्तम् ।
+<details><summary>English</summary>
+
+All of this, which was described (potter, clay, which constitute supposed causal relation) becomes possible only if the Absolute, as the foundation, remains steadily established and not otherwise. 
+</details>
+
+### सामग्री
+अत एव +++(ईश्वररूप-)+++**सामग्र्या** एव **कारणत्वं** युक्तम् ।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -216,18 +224,40 @@ Therefore, although the created or imagined causal relation is also present, the
 इति ।
 </details>
 
-सा हि समस्त-भाव-सन्दर्भमयी  
+<details><summary>English</summary>
+
+Therefore, it is proper to say that the causal relation is the totality of all causes. 
+</details>
+
+सा हि +++(सामग्री)+++ **समस्त-भाव-सन्दर्भमयी**  
 स्वतन्त्र-संवेदन-महिम्ना तथा नियत-निज-निज-देश-काल-भाव-राशि-स्वभावा  
 प्रत्येकं वस्तु-स्वरूप-निष्पत्ति-समये  
-तथा-भूता।  
+**तथा-भूता**।  
 
-तथा-भूताया हि  
+<details><summary>English</summary>
+
+This totality of causes consists of all beings   
+having been woven together by the greatness of the knowing consciousness, which possesses absolute freedom.[^120]
+
+[[109]]
+
+This power of the Lord assumes the nature of a particular group of entities conditioned by space and time. Each individual, at the time of its creation, assumes such a nature.
+</details>
+
+
+तथा-भूताया +++(सामग्र्या)+++ हि  
 अन्यथा-भावो यथा यथा अधिकी-भवति  
-तथा तथा कार्यस्यापि विजातीयत्वं  
-तारतम्येन पुष्यति।    
+तथा तथा कार्यस्यापि **विजातीयत्वं**  
+तारतम्येन **पुष्यति**।    
 
-इत्य् एवं संवेदन-स्वातन्त्र्य-स्वभावः परमेश्वर एव  
-विश्व-भाव-शरीरो घटादेर्निर्माता -   
+<details><summary>English</summary>
+
+Although being of this nature, these entities assume distinctive forms; it is because they become associated with exterior factors that they change and attain comparative distinctions.[^121]  
+</details>
+
+
+इत्य् एवं संवेदन-स्वातन्त्र्य-स्वभावः **परमेश्वर** एव  
+विश्व-भाव-शरीरो **घटादेर्निर्माता** -   
 कुम्भकार-संविदस् ततो ऽनधिकत्वात्,  
 कुम्भकार-शरीरस्य च भाव-राशि-मध्ये निक्षेपात् । 
 
@@ -268,12 +298,21 @@ Therefore, although the created or imagined causal relation is also present, the
 इत्य् अलम् ।
 </details>
     
+<details><summary>English</summary>
+
+Thus, the very nature of the great Lord is consciousness and independent freedom of will.  
+This Lord, who possesses the entire universe consisting of the multitude of beings as his body, is the creator of the jar, etc.  
+This is because the consciousness belonging to the potter is not differ ent from that Lord;  
+furthermore, the body of the potter is also included in the totality of objective existence.
+</details>
+
+
 
 [[108]]  
+### अभिमानकल्पनम्
+> कथं **कुम्भकारशरीरस्य कर्तृत्वाभिमानः** ?  
 
-> कथं कुम्भकारशरीरस्य कर्तृत्वाभिमानः ?  
-
-इति चेत् - परमेश्वरकृत एवासौ घटादिवत् भविष्यति ।  
+इति चेत् - **परमेश्वरकृत** एवासौ घटादिवत् भविष्यति ।  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -283,10 +322,17 @@ Therefore, although the created or imagined causal relation is also present, the
 अभिमान-घटयोः सादृश्यम् इत्यर्थः ।
 </details>
 
+<details><summary>English</summary>
 
-तस्मात् सामग्री-वादोऽपि  
-विश्व-शरीरस्य संवेदनस्यैव  
-कर्तृतायाम् उपोद्बलकः+++(←बल्)+++ ।  
+Then, how can it be possible for the potter to have any sense of egoism in-this regard?  
+The answer to this question will be that the sense of egoism of the potter is also created by the Lord, just as is the pot, etc. 
+</details>
+
+
+
+तस्मात् **सामग्री-वादो** ऽपि  
+विश्व-शरीरस्य **संवेदनस्यैव**  
+कर्तृतायाम् **उपोद्बलकः**+++(←बल्)+++ ।  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -299,41 +345,151 @@ Therefore, although the created or imagined causal relation is also present, the
 इत्य् अविवादः ।
 </details>
 
+<details><summary>English</summary>
+
+Even the theory of the totality of causes to propel agenthood (to produce an effect) in reality belongs to the consciousness which is the immanence of the Lord.  
+</details>
+
 
 [[७३]]
 
 
-मेरौ हि तत्रस्थे  
-न भवेत् तथा-विधो घटः ।
+मेरौ हि तत्रस्थे +++(कारणे)+++  
+न भवेत् तथा-विधो घटः +++(कार्यः)+++ ।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 **मेरौ हि**   
-इत्यत्र मेरु-शब्देन देवैर् दुर्लभत्वं बृहत्त्वमेकत्वं च । तथाविधो   
-घटो न भवेत् इत्यत्र तथाविधशब्देन   
-मानुष्यैस्त्याज्यत्वमणुत्वमनेकत्वं च ध्वन्यते ।
+इत्यत्र मेरु-शब्देन देवैर् दुर्लभत्वं बृहत्त्वमेकत्वं च ।  
+**तथाविधो घटो न भवेत्** इत्यत्र  
+**तथाविध**-शब्देन मानुष्यैस् त्याज्यत्वम् अणुत्वम् अनेकत्वं च ध्वन्यते ।
 
-अनन्तशक्तिधारित्वान्मेरुं वै घटनायकम् ।  
-ज्ञात्वा सम्पादितं क्षीणा किं शिवे कर्तृता ततः ॥
+> अनन्त-शक्ति-धारित्वान्  
+मेरुं वै घट-नायकम् ।  
+ज्ञात्वा सम्पादितं क्षीणा  
+किं शिवे कर्तृता ततः ॥
 
-इत्यनेन मेरुकरणमपि अकिञ्चित्कौशलावहं शिवस्य इत्यादि अन्यत्रोक्तम्
+इत्य्-अनेन मेरु-करणम् अपि अकिञ्चित्-कौशलावहं शिवस्य  
+इत्य्-आदि अन्यत्रोक्तम्
 
-खगोलमध्यचारी यः सविता विश्वरूपधृत् ।  
-तस्य सत्तां स्वेच्छयैव कुर्वती कर्तृता शिवे ॥ इत्यादि ।
+> ख-गोल-मध्य-चारी यः  
+सविता विश्व-रूप-धृत् ।  
+तस्य **सत्तां** स्वेच्छयैव  
+**कुर्वती कर्तृता शिवे** ॥ 
+
+इत्यादि ।
+</details>
+
+<details><summary>English</summary>
+
+Though Mount Meru exists in some distinct place, it cannot be supposed to be the cause of this particular jar.[^122]
+</details>
+
+### कारणानाम् बहुप्रकारकता
+एवं कल्पितेऽस्मिन् कार्यत्वे   
++++([क्: एवं हि विकल्पते इति पाठः ।])+++  
+शास्त्रेषु तत्त्वानां कार्य-कारण-भावं प्रति यत् **बहु-प्रकारत्वं**  
++++([ख्: कारणभावत्वं प्रति इति पाठः ।])+++  
+तद् अपि **सङ्गतं** -  
+गोमयात्, कीटात्, योगीच्छातो, मन्त्राद्, औषधात् वृश्चिकोदयवत् ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत एव   
+तथाभानपरमार्थतया स्थितेः ।  
+कार्यकारणभावोऽस्य लोके शास्त्रे च कथ्यते ॥
+
+मायातोऽव्यक्तकलयोरिति रौरवसङ्ग्रहे ।  
+श्रीपूर्वे तु कलातत्त्वादव्यक्तमिति कथ्यते ॥  
+इत्यादि बहुप्रकारत्वम् ।
+</details>
+
+<details><summary>English</summary>
+
+Thus, on this topic of the created or imagined effects of the principle of causal relation in regard to the principles (tattvas), there are diverse views found in the śāstras. All these different views are relevant;[^123] as for example, the birth of a scorpion can take place from cow dung, worm, by the will of the yogin, by the application of mantras, and by the usage of various medicines. 
+</details>
+
+### कल्पित-कारणोद्भवः
+तत्र निज-तन्त्र-दृशा तं **कल्पितं दर्शयामः** । 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एवं बहुप्रकारतायां  
+कस्य न्यायत्वम्?  
+बहुप्रकारत्वे हि सुकटक-क्षोभ-न्यायेन  
+अलं पर-वाद-निराकरणेन  
+इति महान् व्यामोहः सम्पन्नः  
+इति तन्-निराकर्तुम् आह - तत्रेत्य्-आदिना ।  
+**निज-तन्त्र-दृशा** पूर्व-शास्त्र-दृशा ।
+</details>
+
+<details><summary>English</summary>
+
+However, we will explain this created or imagined principle of causal relation according to the understanding of our scriptures. 
 </details>
 
 
-एवं कल्पितेऽस्मिन् कार्यत्वे शास्त्रेषु तत्त्वानां कार्यकारणभावं प्रति यत् बहुप्रकारत्वं तदपि संगतं, गोमयात् कीटात् योगीच्छातो मन्त्रादौषधात् वृश्चिकोदयवत् । तत्र निजतन्त्रदृशा तं कल्पितं दर्शयामः । 
+तत्र परमेश्वरः पञ्चभिः शक्तिभिः निर्भर इत्य् उक्तम्।  
 
-All of this, which was described (potter, clay, which constitute supposed causal relation) becomes possible only if the Absolute, as the foundation, remains steadily established and not otherwise. Therefore, it is proper to say that the causal relation is the totality of all causes. This totality of causes consists of all beings having been woven together by the greatness of the knowing conscious ness, which possesses absolute freedom.120 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-This power of the Lord assumes the nature of a particular 
+**निर्भरः** परिपूर्णः । यदुक्तम्
 
- 109 
+> शिव-शक्ति-सदाशिवताम्  
+ईश्वर-विद्यामयीं च तत्त्व-दशाम् ।  
+शक्तीनां पञ्चानां  
+विभक्त-भावेन भासयति ॥ 
 
-group of entities conditioned by space and time. Each individual, at the time of its creation, assumes such a nature. Although being of this nature, these entities assume distinctive forms; it is because they become associated with exterior factors that they change and attain comparative distinctions.121 Thus, the very nature of the great Lord is consciousness and independent freedom of will. This Lord, who possesses the entire universe consisting of the multitude of beings as his body, is the creator of the jar, etc. This is because the consciousness belonging to the potter is not differ ent from that Lord; furthermore, the body of the potter is also included in the totality of objective existence. Then, how can it be possible for the potter to have any sense of egoism in-this regard? The answer to this question will be that the sense of egoism of the potter is also created by the Lord, just as is the pot, etc. Even the theory of the totality of causes to propel agenthood (to produce an effect] in reality belongs to the consciousness which is the imma nence of the Lord. Though Mount Meru exists in some distinct place, it cannot be supposed to be the cause of this particular jar.122 Thus, on this topic of the created or imagined effects of the principle of causal relation in regard to the principles (tattvas), there are diverse views found in the śāstras. All these different views are relevant;123 as for example, the birth of a scorpion can take place from cow dung, worm, by the will of the yogin, by the application of mantras, and by the usage of various medicines. However, we will explain this created or imagined principle of causal relation according to the understanding of our scriptures. 
+इति ।
+</details>
 
-तत्र परमेश्वरः पञ्चभिः शक्तिभिः निर्भर इत्युक्तम्, स स्वातन्त्र्यात् शक्तिं तांताम् मुख्यतया प्रकटयन् पञ्चधा तिष्ठति । चित्प्रधान्ये शिवतत्त्वम्, 
+
+
+स स्वातन्त्र्यात्  
+**शक्तिं** तां तां मुख्यतया **प्रकटयन्**  
+**पञ्चधा तिष्ठति** ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> सर्वत्र हि पञ्च-शक्ति-सम्भव   
+
+इति मुख्यत्वमेकस्याः अपरासां गौणत्वं न तु असम्भव एव ।
+
+इह खलु चिन्मात्रस्वभावः पर एव **शिवः**  
+पूर्णत्वात् निराशंसोऽपि  
+स्वस्वातन्त्र्य-माहात्म्यात् बहिर् **उल्लिलसिषया**   
+परानन्द-चमत्कार-तारतम्येन "प्रथमम् अहम्" इति परामर्शरूपतया   
+शक्ति-दशाम् **अधिशयानः प्रस्फुरेत्**।  
+
+अनन्तरम् "अहम् इदम्" इति च परामर्श-द्वयात्मताम् **अवभासयेत्**।  
+
+तत्र च शुद्ध-चिन्मात्राधिकरण एव "अहम्" इत्य् अंशे  
+यदा परमेश्वर इदम्-अंशम् **उल्लासयति**,  
+तदा तस्योन्मीलितमात्र-चित्र-कल्प-भाव-राशि-विषयत्वेन  
+अस्फुटत्वाद् **इच्छाप्रधानं** सदाशिव-तत्त्वम्।   
+
+"अहम्-इदम्" इति भावराशौ स्फुटीभूते  
+तद्-अधिकरण एव   
+इदम्-अंशे यदा ऽहम्-अंशं **निषिञ्चति**  
+तदा **ज्ञान-शक्ति-प्रधानम्** ईश्वर-तत्त्वम्।   
+
+"इदम् अहम्" इति प्ररूढ-भेद-भाव-राशि-गतेदम्-अंश-स्फुरणे तु  
+चिन्मात्र-गतत्वेन   
+अहम्-अंशो यदा **समुल्लसति**  
+भेदाद्वैत-वादिनाम् इव  
+ईश्वरस्य यः समधृत-तुला-पुट-न्यायेन  
+अहम्-इदम् इति परामर्शः  
+तत्-**क्रिया-शक्ति-प्रधानं** विद्या-तत्त्वम्।   
+
+इति **पञ्चधा विभागः** ।
+</details>
+
+
+[[७४]]
+
+
+
+चित्प्रधान्ये शिवतत्त्वम्, 
 
 आनन्दप्राधान्ये शक्तितत्त्वम्, इच्छाप्राधान्ये सदाशिवतत्त्वम्-इच्छाया हि ज्ञान क्रिययोः साम्यरूपाभ्युपगमात्मकत्वात्, ज्ञानशक्तिप्राधान्ये ईश्वरतत्त्वम्, क्रियाशक्तिप्राधान्ये विद्यातत्त्वम् इति । अत्र च तत्त्वेश्वराः शिव-शक्ति सदाशिवेश्वरानन्ताः-ब्रह्मेव निवृत्तौ, एषां सामान्यरूपाणां विशेषा अनुगतिविषयाः पञ्च, तद्यथा - शाम्भवाः शाक्तः मन्त्रमहेश्वराः मन्त्रेश्वराः मन्त्रा, -इति शुद्धोध्वा110  
 
