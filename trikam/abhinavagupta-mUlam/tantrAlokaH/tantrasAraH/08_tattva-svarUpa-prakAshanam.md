@@ -665,17 +665,143 @@ On the other hand, the attachment (rāga) [that] is a property of buddhi is dive
 
 [[७६]]
 
+सोऽयं **मलः** परमेश्वरस्य स्वात्म-प्रच्छादनेच्छातः नान्यत् किञ्चित् वस्तु।   
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ननु 
+
+> "स्वतन्त्रो बोध एव परमार्थ" इति सिद्धान्तः,  
+तद्-अतिरिक्तः कुतो "मलो" नाम वस्तुताम् इयाद्   
+
+इत्याशङ्क्याह "सोऽयम्" इति ।
+</details>
+
+<details><summary>English</summary>
+
+These 'defilements,' āṇava, kārma, and māyīya, arise as a result of the will of the Lord to conceal his own Self and is not a separate entity.[^127]  
+</details>
 
 
-प्रलयकेवलस्य तु जृम्भमाण एव आस्त इति मलोपोदलितं कर्म संसारवैचित्र्यभोगे निमित्तम् - इति तद्भोगवासनानुविद्धानामणूनां भोगसिद्धये श्रीमान् अघोरेशः सृजति इति युक्तमुक्तं, मलस्य च प्रक्षोभ ईश्वरेच्छावलादेवं जडस्य स्वतः कुत्रचिदपि असामर्थ्यात् । अणुर्नाम किल चिदचिद्रूपावभास एव, तस्य चिद्रूपमैश्वर्यमेव, अचिद्रूपतैव मलः, तस्य च सृजतः परमेश्वरेच्छामयं, तत एव च नित्यं स्रक्ष्यमाण-वस्तु-गतस्य रूपस्य जड-तयाभासयिष्यमाणवस्तुगतस्य रूपस्य जडतयाभास-यिष्यमाणत्वात् जडं सकलकार्यव्यापनादिरूपत्वाच्च व्यापकं मायाख्यं तत्त्वम् उपादानकारणं, तदवभासकारिणी च परमेश्वरस्य मायानाम शक्तिस्ततोऽन्यैव । 
+अपि च तत्+++(→मलवस्तु)+++ परमेश्वरेच्छात्मनैव - धरादेर् अपि वस्तुत्वात् ।  
++++([ख्: परमेश्वरेच्छात्मन एव धरादेरिति पाठः ।])+++
 
-These 'defile ments,' āṇava, kārma, and māyīya, arise as a result of the will of the Lord to conceal his own Self and is not a separate entity.127 It is because of the will of the Lord that the earth and other principles possess distinct reality. 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-This defilement (mala), existing in the vijñānākala souls, is intent on being destroyed, and for this reason it does not cause ful fillment of any objective accomplishment.128 The mala belonging to pralayākala souls indeed remains in the process of blooming or opening up. There the karma mala, being helped by āṇavamala, becomes the cause of the diversity of worldly existence. Thus, it was rightly stated that the revered Lord Aghoreśa creates [an 
+प्रच्छादनात्म-रूपत्वात् **परमेश्वरेच्छात्मनैव**।
 
-112  
+पर-प्रकाशाव्यतिरिक्तत्वेऽपि यथा धरादि-रूपत्वं  
+तथा **मलो** ऽपीत्यर्थः ।
+</details>
 
-impure path] for the purpose of enjoyment by limited souls who are permeated with latent desires for that enjoyment. The agita tion (prakṣobha) of the mala is the result of the forceful impact of the Lord's will, as insentient beings are incapable of acting at any level of creation. The shining of sentiency and insentiency is only with regard to limited souls. The nature of sentiency or conscious ness is indeed 'lordship' (aiśvarya), while absence of conscious ness, or insentiency, is its defilement. In the process of creating māyā, both sentiency and insentiency turn out to be of the nature of the will of the Lord; therefore, it is also eternal. The nature of the substance to be created will be manifested to appear as insen tient. Therefore it is created as such and as it has the characteristic of spreading through all the created objects. This all-pervading principle is named māyā. This māyā is the material cause, while the power which manifests it is called māyāśakti. This māyāśakti belongs to the great Lord and is distinct from māyā principle (tat tva) itself. 
+<details><summary>English</summary>
+
+It is because of the will of the Lord that the earth and other principles possess distinct reality.
+</details>
+
+
+स च मलो  
++++([ग्: मलस्तेषां विद्यमान इति पाठः ।])+++
+विज्ञान-केवले विद्यमानो +++(मुक्त्या)+++ ध्वंसोन्मुख इति  
+न स्वकार्यं कर्म आप्याययति ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ननु
+
+>> स पुनः शाम्भवेच्छातः  
+>> शिवाभेदं परामृशन् ।  
+>> क्रमान् मन्त्रेशता-वेद्य-  
+>> रूपो **याति** शिवात्मताम् ॥  
+>
+> इत्युक्तत्वात्  
+> कथं विज्ञान-केवलस्यापि मलोऽस्ति  
+
+इत्य् आशङ्क्याह "स चे"ति ।
+</details>
+
+<details><summary>English</summary>
+
+This defilement (mala), existing in the vijñānākala souls, is intent on being destroyed,  
+and for this reason it does not cause fulfillment of any objective accomplishment.[^128] 
+</details>
+
+
+> प्रलय-केवलस्य +++(जीवस्य)+++ तु +++(मलः)+++ जृम्भमाण एव आस्त  
+
+इति  
+
+> मलोपोद्बलितं कर्म   
++++([ख्: इति तेषां मलोद्बलितमिति; ग्: इति तेषां विज्ञानकेवले इति च पाठः ।])+++  
+संसार-वैचित्र्य-भोगे निमित्तम् 
+
+इति  
+
+> तद्-भोग-वासनानुविद्धानाम् अणूनां भोगसिद्धये  
+श्रीमान् अघोरेशः सृजति  
+
+इति युक्तम् उक्तम् ।  
+
+<details><summary>English</summary>
+
+[[112]]  
+The mala belonging to pralayākala souls indeed remains in the process of blooming or opening up.  
+There the karma mala, being helped by āṇavamala, becomes the cause of the diversity of worldly existence.  
+Thus, it was rightly stated that the revered Lord Aghoreśa creates [an impure path] for the purpose of enjoyment by limited souls who are permeated with latent desires for that enjoyment. 
+</details>
+
+
+
+[[७७]]
+
+मलस्य [क्: युक्तम् उक्तमलस्येति पाठः ।] च प्रक्षोभ ईश्वरेच्छाबलाद् एव -  
+
+जडस्य स्वतः कुत्रचिदपि असामर्थ्यात् ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तेन वस्तुसामर्थ्य-पक्ष-निरासः ।  
+एतद् एवोपोद्बलयति **जडे**त्यादि । यदुक्तं
+
+> न जडश् चिद्-अधिष्ठानं  
+> विना क्वापि क्षमो यतः । 
+
+इति ।
+</details>
+
+
+**अणुर्** नाम किल चिद्-अचिद्-रूपावभास एव।  
+तस्य चिद्-रूपम् **ऐश्वर्यम्** एव, अचिद् रूपतैव **मलः**।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ननु च 
+
+> अलम् अत्र पराद्वय-कथनेन - यतो  
+> व्यतिरिक्तान् एव अणून्  
+> प्रतिमलम् ईश्वरो नियुञ्ज्यात्
+
+इत्य् आक्षेपम् आशङ्क्याह **अणुर्** इत्यादि।  
+
+तेन चिद्-रूपत्वान् महेश्वर एव प्रकाशात्मा  
+**अणुर्** नाम अचिद्-रूपतैव स्व-स्वातन्त्र्यात् गृहीत-मल-रूपता ।   
+यथोक्तम् ।
+
+> शिव एव गृहीतपशुभावः । 
+
+इति ।
+</details>
+
+तस्य च सृजतः परमेश्वरेच्छामयं,  
+तत एव च नित्यं  
+[माशब्दवाच्याद्विनाशरूपान्निषेधाद्याता इति मायाशब्दार्थानुगमात् ।] स्रक्ष्यमाण-वस्तु-गतस्य +++([क्: इष्यमाणवस्तुगतस्यार्थस्य जडतयेति पाठः ।])+++ रूपस्य जडतयाऽऽभासयिष्यमाणत्वात् [ततश्च मीयते हेयतया परिच्छिद्यते योगिभिरिति ।] जडं, सकल-कार्य-व्यापनादि-रूपत्वाच् च व्यापकं [सर्वत्र मातीति सूक्ष्मत्वाद्व्यापकम् ।], मायाख्यं तत्त्वम् उपादानकारणं, तद्-अवभास-कारिणी च परमेश्वरस्य [निखिलजगदुल्लासनक्रीडाशालिनः परमेश्वरस्य भेदावभासने स्वातन्त्र्यं ततश्च अपूर्णताप्रथनेन मीनाति हिनस्ति इति मायाशक्तिरुच्यते ।] माया नाम शक्तिस् ततोऽन्यैव।
+
+
+अणुर्नाम किल चिदचिद्रूपावभास एव, तस्य चिद्रूपमैश्वर्यमेव, अचिद्रूपतैव मलः, तस्य च सृजतः परमेश्वरेच्छामयं, तत एव च नित्यं स्रक्ष्यमाण-वस्तु-गतस्य रूपस्य जड-तयाभासयिष्यमाणवस्तुगतस्य रूपस्य जडतयाभास-यिष्यमाणत्वात् जडं सकलकार्यव्यापनादिरूपत्वाच्च व्यापकं मायाख्यं तत्त्वम् उपादानकारणं, तदवभासकारिणी च परमेश्वरस्य मायानाम शक्तिस्ततोऽन्यैव । 
+
+
+
+The agitation (prakṣobha) of the mala is the result of the forceful impact of the Lord's will, as insentient beings are incapable of acting at any level of creation. The shining of sentiency and insentiency is only with regard to limited souls. The nature of sentiency or conscious ness is indeed 'lordship' (aiśvarya), while absence of conscious ness, or insentiency, is its defilement. In the process of creating māyā, both sentiency and insentiency turn out to be of the nature of the will of the Lord; therefore, it is also eternal. The nature of the substance to be created will be manifested to appear as insen tient. Therefore it is created as such and as it has the characteristic of spreading through all the created objects. This all-pervading principle is named māyā. This māyā is the material cause, while the power which manifests it is called māyāśakti. This māyāśakti belongs to the great Lord and is distinct from māyā principle (tat tva) itself. 
 
 एवं कलादितत्त्वानां धरान्तानामपि द्वैरूप्यं निरूप्यम् । अत्र च द्वैरूप्ये प्रमाणमपि आहुरभिनवगुप्तगुरवः | यत् संकल्पे भाति तत्पृथग्भूतं बहिरपि अस्ति स्फुटेन वपुषा घट इव । तथा च मायाकलादिखपुष्पादेरपि एषैव वर्तनी इति केवलान्वयी हेतुः | अनेन च मायाकलाप्रकृतिबुद्ध्यादिविषयं साक्षात्काररूपं ज्ञानं ये भजन्ते तेऽपि सिद्धाः सिद्धा एव । एवं स्थिते मायातत्त्वात् विश्वप्रसवः । स च यद्यपि अक्रममेव तथापि उक्तदृशा क्रमोऽवभासते इति। 
 
