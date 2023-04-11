@@ -409,7 +409,7 @@ Though Mount Meru exists in some distinct place, it cannot be supposed to be the
 Thus, on this topic of the created or imagined effects of the principle of causal relation in regard to the principles (tattvas), there are diverse views found in the śāstras. All these different views are relevant;[^123] as for example, the birth of a scorpion can take place from cow dung, worm, by the will of the yogin, by the application of mantras, and by the usage of various medicines. 
 </details>
 
-### कल्पित-कारणोद्भवः
+## कल्पित-कारणोद्भवः
 तत्र निज-तन्त्र-दृशा तं **कल्पितं दर्शयामः** । 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -428,8 +428,8 @@ Thus, on this topic of the created or imagined effects of the principle of causa
 However, we will explain this created or imagined principle of causal relation according to the understanding of our scriptures. 
 </details>
 
-
-तत्र परमेश्वरः पञ्चभिः शक्तिभिः निर्भर इत्य् उक्तम्।  
+### शुद्धाध्वा
+तत्र परमेश्वरः **पञ्चभिः शक्तिभिः निर्भर** इत्य् उक्तम्।  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -443,6 +443,10 @@ However, we will explain this created or imagined principle of causal relation a
 इति ।
 </details>
 
+<details><summary>English</summary>
+
+It has already been explained that the Lord's perfection consists in him possessing five powers (śaktis).  
+</details>
 
 
 स स्वातन्त्र्यात्  
@@ -485,6 +489,11 @@ However, we will explain this created or imagined principle of causal relation a
 इति **पञ्चधा विभागः** ।
 </details>
 
+<details><summary>English</summary>
+
+While the Lord is manifesting any [one of his individual śaktis, his principal śakti remains shining in five different ways. 
+</details>
+
 
 [[७४]]
 
@@ -508,12 +517,31 @@ However, we will explain this created or imagined principle of causal relation a
 इति **स्वातन्त्र्य-लक्षणम्** एव **तत्त्व-पञ्चकम्** ।
 </details>
 
+<details><summary>English</summary>
+
+When the power of consciousness (cit) becomes predominant, it is called śiva principle (tattva).  
+Similarly, when [the power of] bliss (ānandaśakti) becomes predominant, this is known as the śakti principle (tattva).  
+When, on the other hand, [the power of] will (icchāśakti) becomes predominant, this is the sadāśiva principle.  
+It is because of the dominance of the power of will that a balanced state of jñāna and kriyā exists in the sadāśiva principle.  
+When the (power of] knowledge (jñānaśakti) becomes dominant, this is the iśvara principle,  
+and when the power of action (kriyāśakti) becomes dominant, this principle is known as pure knowledge(śuddhavidyā).[^124]
+</details>
+
 
 [[७५]]
 
 अत्र च **तत्त्वेश्वराः**   
-शिव-शक्ति-सदाशिवेश्वरानन्ताः।   
-ब्रह्मेव निवृत्तौ  
+शिव-शक्ति-सदाशिवेश्वरानन्ताः - ब्रह्मेव निवृत्तौ।   
+
+<details><summary>English</summary>
+
+[[111]]  
+The lords of these principles are śiva, śakti, Sadāśiva, īśvara, and Ananta.  
+The lord of nivrttikalā is indeed Brahmā, etc.
+</details>
+
+
+
 एषां सामान्यरूपाणां  
 **विशेषा** अनुगति-विषयाः **पञ्च**।   
 तद् यथा -  
@@ -533,18 +561,115 @@ However, we will explain this created or imagined principle of causal relation a
 इत्य् आह **एषाम्** इति ।
 </details>
 
+<details><summary>English</summary>
 
-चित्प्रधान्ये शिवतत्त्वम्, 
+These lords are of the nature of universal, and individuals [living beings in these worlds] closely follow these lords.  
+They are also of five types, i.e., belonging to śiva (sāmbhava), belonging to śakti (śākta), mantramaheśvara, mantreśvara, and mantras.[^125]  
+These five principles belong to the pure path (śuddhādhva). 
+</details>
 
-आनन्दप्राधान्ये शक्तितत्त्वम्, इच्छाप्राधान्ये सदाशिवतत्त्वम्-इच्छाया हि ज्ञान क्रिययोः साम्यरूपाभ्युपगमात्मकत्वात्, ज्ञानशक्तिप्राधान्ये ईश्वरतत्त्वम्, क्रियाशक्तिप्राधान्ये विद्यातत्त्वम् इति । अत्र च तत्त्वेश्वराः शिव-शक्ति सदाशिवेश्वरानन्ताः-ब्रह्मेव निवृत्तौ, एषां सामान्यरूपाणां विशेषा अनुगतिविषयाः पञ्च, तद्यथा - शाम्भवाः शाक्तः मन्त्रमहेश्वराः मन्त्रेश्वराः मन्त्रा, -इति शुद्धोध्वा110  
 
-| इयति साक्षात् शिवः कर्ता, अशुद्धं पुनरध्वानमनन्तापरनामाघोरेशः सृजति, ईश्वरेच्छावशेन प्रक्षुब्धभोगलोलिकानामणूनां भोगसिद्ध्यर्थम् । तत्र लोलिकोऽ पूर्णम्मन्यतारूपः परिस्पन्दः अकर्मकमभिलाषमात्रमेव भविष्यदवच्छेदयोग्यतेति, न मलः पुंसस्तत्त्वान्तरम् । रागतत्त्वं तु कर्मावच्छिन्नोऽभिलाषः । कर्म तु तत्र कर्ममात्रं, बुद्धिधर्मस्तु रागः कर्मभेदचित्र इति विभागो वक्ष्यते । सोऽयं मलः परमेश्वरस्य स्वात्मप्रच्छादनेच्छातः नान्यत् किंचित्, वस्त्वपि च तत् - परमेश्वरेच्छात्मनैव धरादेरपि वस्तुत्वात् । स च मलो विज्ञानकेवले विद्यमानो ध्वंसोन्मुख इति न स्वकार्यं कर्म आप्यायति । प्रलयकेवलस्य तु जृम्भमाण एव आस्त इति मलोपोदलितं कर्म संसारवैचित्र्यभोगे निमित्तम् - इति तद्भोगवासनानुविद्धानामणूनां भोगसिद्धये श्रीमान् अघोरेशः सृजति इति युक्तमुक्तं, मलस्य च प्रक्षोभ ईश्वरेच्छावलादेवं जडस्य स्वतः कुत्रचिदपि असामर्थ्यात् । अणुर्नाम किल चिदचिद्रूपावभास एव, तस्य चिद्रूपमैश्वर्यमेव, अचिद्रूपतैव मलः, तस्य च सृजतः परमेश्वरेच्छामयं, तत एव च नित्यं स्रक्ष्यमाण-वस्तु-गतस्य रूपस्य जड-तयाभासयिष्यमाणवस्तुगतस्य रूपस्य जडतयाभास-यिष्यमाणत्वात् जडं सकलकार्यव्यापनादिरूपत्वाच्च व्यापकं मायाख्यं तत्त्वम् उपादानकारणं, तदवभासकारिणी च परमेश्वरस्य मायानाम शक्तिस्ततोऽन्यैव । 
+इयति साक्षात् **शिवः कर्ता**।   
 
-It has already been explained that the Lord's perfection con sists in him possessing five powers (śaktis). While the Lord is manifesting any [one of his individual śaktis, his principal śakti remains shining in five different ways. When the power of con sciousness (cit) becomes predominant, it is called śiva princi ple (tattva). Similarly, when [the power of] bliss (ānandaśakti) becomes predominant, this is known as the śakti principle (tat tva). When, on the other hand, [the power of] will (icchāśakti) becomes predominant, this is the sadāśiva principle. It is because of the dominance of the power of] will that a balanced state of jñāna and kriyā exists in the sadāśiva principle. When the (power of] knowledge (jñānaśakti) becomes dominant, this is the iśvara principle, and when the power of action (kriyāśakti) becomes dominant, this principle is known as pure knowledge 
+<details><summary>English</summary>
 
- 111 
+Up to this extent, i.e., from śiva to śuddhavidya, śiva is the direct creator. [^126]
+</details>
 
-(śuddhavidyā).124 The lords of these principles are śiva, śakti, Sadāśiva, īśvara, and Ananta. The lord of niyrttikalā is indeed Brahmā, etc. These lords are of the nature of universal, and indi viduals [living beings in these worlds] closely follow these lords. They are also of five types, i.e., belonging to śiva (sāmbhava), belonging to śakti (śākta), mantramaheśvara, mantreśvara, and mantras.125 These five principles belong to the pure path (śuddhādhva). Up to this extent, i.e., from śiva to śuddhavidya, śiva is the direct creator. 126 The impure path (aśuddhādhva) is created by Lord Ananta, whose other name is Aghoreśa. This is the will of the Lord, and the creation is for the benefit of limited knowing subjects who are longing for the experience as they have been agitated in this way. Here, the word 'longing' (lolikā) stands for the vibrative longing that is of the nature of conceiving oneself as not being complete. This is only 'desiring' without any object in sight, that is to say, a feeling of the deservedness to remain limited in the future. This 'defilement' (mala) is not a separate category belonging to the soul (puruṣa). The rāga principle, on the other hand, is desire conditioned by objectivity. However, here in māyā principle an object is merely an object [e.g., let me have something, without having any clear idea of what kind of object is desired). On the other hand, the attachment (rāga) [that] is a property of buddhi is diversified into different kinds of objective aims. The difference between the two will be explained later. These 'defile ments,' āṇava, kārma, and māyīya, arise as a result of the will of the Lord to conceal his own Self and is not a separate entity.127 It is because of the will of the Lord that the earth and other principles possess distinct reality. 
+### अशुद्धाध्वा
+
+**अशुद्धं** पुनर् **अध्वानम्**  
+अनन्तापरनामा ऽघोरेशः **सृजति** -  
+ईश्वरेच्छा-वशेन  
+प्रक्षुब्ध-भोग-लोलिकानाम् अणूनां    
+**भोग-सिद्ध्यर्थम्** । +++(5)+++ 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**अशुद्धं** = मायाप्रभृतिकम् ।
+
+> क्षोभस्य लोलिकाख्यस्य  
+सहकारितया स्फुटम् ।   
+तिष्ठासा योग्यतौन्मुख्यम्  
+ईश्वरेच्छा-वशाच् च तत् ॥  
+
+इति कार्म-मलस्य सहकारितायाम् उन्मुखतैव **भोग-लोलिकता** ।
+</details>
+
+<details><summary>English</summary>
+
+The impure path (aśuddhādhva) is created by Lord Ananta, whose other name is Aghoreśa.  
+This is the will of the Lord, and the creation is for the benefit of limited knowing subjects who are longing for the experience as they have been agitated in this way.  
+</details>
+
+
+
+तत्र **लोलिको** ऽपूर्णम्-मन्यता-रूपः परिस्पन्दो  
+**ऽकर्मकम् अभिलाष-मात्रम्** एव  
+भविष्यद्-+++(कर्माद्य्)+++अवच्छेद-योग्यतेति, न मलः पुंसस् तत्त्वान्तरम् । 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ननु 
+
+>> तत्रापि कार्मम् एवैकं मुख्यं संसार-कारणम् । 
+>
+> इति सर्वत्र कार्मम् एव संसार-कारणम् उक्तम्,  
+> इह पुनः केयं लोलिका 
+
+इत्य् अत आह **तत्रे**त्य्-आदि ।
+
+**अभिलाष-मात्रम्** -  क्रिया-रूपत्वाभावाद् अ-कर्मकम् इच्छामात्रं  
+प्रतिनियत-विषयाभावात् भविष्यद्-अवच्छेदः।  
+अत एव  
+न मलस् तत्त्वान्तरम् ।  
+साक्षाद् अवच्छेदाधायकत्वाभावेन  
+न ह्य् एतत् किञ्चिद् वस्तु,  
+अपि तु पूर्ण-स्वरूपाख्याति-मात्रम्  
+इत्य् अर्थः ।
+</details>
+
+<details><summary>English</summary>
+
+Here, the word 'longing' (lolikā) stands for the vibrative longing that is of the nature of conceiving oneself as not being complete.  
+This is only 'desiring' without any object in sight, that is to say, a feeling of the deservedness to remain limited in the future.  
+This 'defilement' (mala) is not a separate category belonging to the soul (puruṣa). 
+</details>
+
+
+**रागतत्त्वं** तु +++(कर्तुर् ईप्सिततम-)+++ कर्मावच्छिन्नो ऽभिलाषः ।  
+
+<details><summary>English</summary>
+
+The rāga principle, on the other hand, is desire conditioned by objectivity.
+</details>
+
+
++++(कर्तुर् ईप्सिततमं)+++ कर्म तु तत्र+++(→अशुद्धाध्वनि रागतत्त्वे)+++ कर्ममात्रं (अविशिष्टं "किमपी"ति),  
++++(सद्य उच्यमानाद् रागतत्त्वाद् भिन्नो)+++ बुद्धि-धर्मस् तु **रागः कर्मभेदचित्र**  
+इति विभागो वक्ष्यते ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**कर्म** - किञ्चिन् मे भूयाद् इति सामान्य-रूपम् ।  
+**कर्मभेदचित्र** - बुभुक्षा पिपासादि-विशेष-रूपेण चित्र इति ।
+</details>
+
+
+<details><summary>English</summary>
+
+However, here in māyā principle an object is merely an object [e.g., let me have something, without having any clear idea of what kind of object is desired].  
+On the other hand, the attachment (rāga) [that] is a property of buddhi is diversified into different kinds of objective aims. The difference between the two will be explained later. 
+</details>
+
+
+[[७६]]
+
+
+
+प्रलयकेवलस्य तु जृम्भमाण एव आस्त इति मलोपोदलितं कर्म संसारवैचित्र्यभोगे निमित्तम् - इति तद्भोगवासनानुविद्धानामणूनां भोगसिद्धये श्रीमान् अघोरेशः सृजति इति युक्तमुक्तं, मलस्य च प्रक्षोभ ईश्वरेच्छावलादेवं जडस्य स्वतः कुत्रचिदपि असामर्थ्यात् । अणुर्नाम किल चिदचिद्रूपावभास एव, तस्य चिद्रूपमैश्वर्यमेव, अचिद्रूपतैव मलः, तस्य च सृजतः परमेश्वरेच्छामयं, तत एव च नित्यं स्रक्ष्यमाण-वस्तु-गतस्य रूपस्य जड-तयाभासयिष्यमाणवस्तुगतस्य रूपस्य जडतयाभास-यिष्यमाणत्वात् जडं सकलकार्यव्यापनादिरूपत्वाच्च व्यापकं मायाख्यं तत्त्वम् उपादानकारणं, तदवभासकारिणी च परमेश्वरस्य मायानाम शक्तिस्ततोऽन्यैव । 
+
+These 'defile ments,' āṇava, kārma, and māyīya, arise as a result of the will of the Lord to conceal his own Self and is not a separate entity.127 It is because of the will of the Lord that the earth and other principles possess distinct reality. 
 
 This defilement (mala), existing in the vijñānākala souls, is intent on being destroyed, and for this reason it does not cause ful fillment of any objective accomplishment.128 The mala belonging to pralayākala souls indeed remains in the process of blooming or opening up. There the karma mala, being helped by āṇavamala, becomes the cause of the diversity of worldly existence. Thus, it was rightly stated that the revered Lord Aghoreśa creates [an 
 
