@@ -1,0 +1,19 @@
++++
+title = "Geo-connection"
++++
+
+Source: [TW](https://twitter.com/GhorAngirasa/status/960617695174627328)
+
+The threads that connect bhArata are the threads of dharma; and nothing else. Many of these threads are obscure, deep, remote, profound & beautiful. The more obscure the link, the more delightful and beautiful it becomes. I'll briefly present one such example in following tweets.
+
+We'll see a link of the most obscure (and thus, pleasurable) kind linking two lands, which are both part of the akhaNDabhArata in all its glory, and could not possibly be further: kAshmIradesha & yavadvIpa, which is....all the way at Java (yava) in Indonesia! At the very hoary beginnings of the noble siddhAnta shaiva tradition in that pristine land of kAshmIradesha, there was a debate about the aSTa vidyeshvara-s, eight supreme beings directly only below sadAshiva and above everyone else. They are considered practically shiva himself. 
+
+Though these eight are equally glorious & resplendent, some of the divine qualities are more pronounced in one than the other: These eight vidyeshvara-s are, in terms of decreasing rank: ananta, sUkSma, shivatama, ekarudra, ekanetra, trimUrti, shrIkaNTha & shikhaNDI. 
+
+In siddhAnta shaivam, the later stalwarts were nArAyaNakaNTha & rAmakaNTha from kAshmIradesha, somashambhU & bhojarAja (from madhya pradesha) & aghorashiva, trilocanashiva, hRdayashiva, etc (from drAviDadesha). But the earliest were sadyojyoti & bRhaspati from kAshmIra. 
+
+Now, about the offices held by the 8 vidyeshvara-s, sadyojyoti & bRhaspati held two contrasting opinions. When ananta's adhikAramala (the highly refined "impurity" due to holding an office) is completely erased, he is liberated. What happens after this? This was a key question. sadyojyoti held that when ananta is liberated, all other vidyeshvara-s are liberated simultaneously. bRhaspati held that sUkSma, the next in the hierarchy, will become the new ananta & take over his office, shivatama the new sUkSma & so on.... There are many technicalities in this, which I hope to cover in a blogpost just on this topic. Coming back, sadyojyoti's opinion prevailed while bRhaspati's idea of promotion was rejected by later teachers, though both had textual backing. Now, this is where it gets interesting.
+
+bRhaspati's works don't survive in their entirety. His school of thought didn't outlive him, at least not in India. All that exists of his legacy are fragmentary quotes by later AcArya-s. bhArata was an intense flux of ideas & some ideas were bound to go into oblivion. However, the ideas which did not "make it" in bhArata (due to the sheer competition between memes) might survive if they went overseas & replicated there. In the case of bRhaspati, it seems to be the case that his unique positions managed to survive; but not in bhArata. But they have survived in Java, at least till the coming of the marUnmatta-s. 
+
+A work written in a mixture of saMskRta & Old Javanese named vRhaspatitattva was discovered. In that work, when treating of the 8 vidyeshvara-s, the position that they are promoted successively is put forth! The original which is freely available here at: gretil.sub.uni-goettingen.de/gretil/5_var/o… & translation by Andrea Acri are provided here. Thus, a concept that was rejected in kAshmIradesha & utterly vanished out of the memory of the siddhAnta-s in later times (no memory of it was preserved even in drAviDadesha) in bhArata managed to survive in the land of java, separated from mainland bhArata by an ocean! As obscure and technical as this may seem to many, it is indeed an exciting link to behold. One of those thousands and thousands of subtle threads linking the Hindu universe..
