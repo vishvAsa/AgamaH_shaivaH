@@ -22,6 +22,14 @@ Now follows a narrative that would not be liked by many: The fact is that those 
 
 The major AdhInam-s: madurai, dharmapuri, tiruvAvADutuRai, tirupanantAL, kovilUr, tiruvaNNAmalai kuNRakuDi (NRa uttered as NDra), tiruvaiyARu, vELAkkuRicci & many others are all headed by those belonging to vELALa or shaiva chettiyAr jAtis, both being known as sacchUdras. madurai AdhInam (founded by the incomparably exalted saint, shrI j~nAnasambandha svAmin) has become degraded & the head of kuNRakuDi AdhInam is a hardcore dravidianist. Today, dharmapuri, tiruvAvADutuRai & tirupanantAL are among the institutions still doing good work for shaivam.
 
+<details><summary>रविलोचन-टिप्पनी</summary>
+
+Madurai adheenam was certainly not found by jnanasambandha. It is a lie which has been manufactured to give it a hallowed status.
+
+That adheenam has no temple in the madurai region. It has a few temples in chola desha. It was essentially a branch of another adheenam which became independent and then claimed a more exalted status.
+</details>
+
+
 So, wait. What happened to the Adishaiva gRhastha-s? Their status declined not long after the fall of the very last chOzhas & pANDyas, & further suffered with the coming of vijayanagara/nAyakka takeover of TN. They were disenfranchised. Matter of fact, I have actually read webpages where Adishaivas remember, even TODAY, with great resentment, the disenfranchisement (stripping of their status as the highest initiating gurus, acquisition of their maThas by nAyakkar-sponsored brAhmaNas of a different sect, etc)... It is an extremely interesting part of history and one which has far-reaching and profound consequences on the trajectory and intellectual quality of siddhAnta shaivam in TN, though it was not the only factor.
 
 This disenfranchisement by newcomers coupled with the Adishaiva brAhmaNas' disinclination towards monastic institutions & their relative distance from vedAnta that had become a leading marker of prestige in that era had substantially contributed to their decline as a community. This decline, coupled with the Agamika provision allowing a 4th varNa AcArya to initiate someone of his own varNa, helped facilitate a massive shift in influence to yatis belonging to the sacchUdra groups, in contrast to gRhastha Adishaiva brAhmaNas.
