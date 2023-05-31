@@ -22,6 +22,8 @@ Now follows a narrative that would not be liked by many: The fact is that those 
 
 The major AdhInam-s: madurai, dharmapuri, tiruvAvADutuRai, tirupanantAL, kovilUr, tiruvaNNAmalai kuNRakuDi (NRa uttered as NDra), tiruvaiyARu, vELAkkuRicci & many others are all headed by those belonging to vELALa or shaiva chettiyAr jAtis, both being known as sacchUdras. madurai AdhInam (founded by the incomparably exalted saint, shrI j~nAnasambandha svAmin) has become degraded & the head of kuNRakuDi AdhInam is a hardcore dravidianist. Today, dharmapuri, tiruvAvADutuRai & tirupanantAL are among the institutions still doing good work for shaivam.
 
+(Dharmapura Ādhīnam’s Head has made multiple statements over last few years criticizing anti-Skt, anti-Veda attitudes & supports Vedāgama Pāṭhaśāla for Brāhmaṇa kids.)
+
 <details><summary>रविलोचन-टिप्पनी</summary>
 
 Madurai adheenam was certainly not found by jnanasambandha. It is a lie which has been manufactured to give it a hallowed status.
