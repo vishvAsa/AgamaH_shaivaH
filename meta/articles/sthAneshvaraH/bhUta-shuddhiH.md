@@ -2,6 +2,8 @@
 title = "bhUta-shuddhiH"
 +++
 
+स्रोतः - नेपाल-सर्वाम्नाय-तन्त्र-दीक्षित-स्थानेश्वरार्य-चित्रम् भूतशुद्धिम् अधिकृत्य किञ्चन। 
+
 Bhūtaśuddhi
 
 - Meditate deeply on the earth element and its bīja LAṀ as located in the base of the spine. Feel its solidity and firmness permeating your entire body. Meditate on it as the smell-principle. See it getting dissolved within the LAṀ bīja.
