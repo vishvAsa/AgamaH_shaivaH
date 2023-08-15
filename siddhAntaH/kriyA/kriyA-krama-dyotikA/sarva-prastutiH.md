@@ -7,7 +7,8 @@ title = "सर्व-प्रस्तुतिः"
 
 Description by Mark S.G. Dyczkowski:
 
-> The Kriyakramadyotika by Aghoraśivācārya who lived in South India in the 12th century, is the primary ritual manual which guides ritual procedure in most of the major śaiva temples of South India. This is a major commentary on it by Kacchepeśvara who lived in Kāñcī. At the beginning he refers to Aghoraśiva as his teacher telling us that he wrote it impelled by his grace. </details>
+> The Kriyakramadyotika by Aghoraśivācārya who lived in South India in the 12th century, is the primary ritual manual which guides ritual procedure in most of the major śaiva temples of South India. This is a major commentary on it by Kacchepeśvara who lived in Kāñcī. At the beginning he refers to Aghoraśiva as his teacher telling us that he wrote it impelled by his grace. 
+</details>
   
   
   
@@ -15,19 +16,16 @@ Description by Mark S.G. Dyczkowski:
   
 
   
-॥  
-श्रीशिवाभ्यां नमः ॥  
+॥ श्रीशिवाभ्यां नमः ॥  
   
 वागीशाद्यास्सुमनसः सर्वार्थानामुपक्रमे ।  
 यं नत्वा कृतकृत्यास्युः तं नमामि गजाननम् ॥   
   
-॥  
-श्रीशिवाभ्यां नमः ॥   
+॥ श्रीशिवाभ्यां नमः ॥   
   
-इदं श्रीगोमुत्तीश्वरार्चक स्वामिनाथ शर्मणः ॥  
+इदं श्रीगोमुत्तीश्वरार्चक-स्वामिनाथ-शर्मणः ॥  
   
-॥  
-श्रीशिवाय परब्रह्मणे नमः ॥  
+॥ श्रीशिवाय परब्रह्मणे नमः ॥  
   
 वन्दे महागणपतिं मदनारिसूनुं वामोरु सुस्थितं वनिता भुजवेष्टिताङ्गम् ।  
 वल्लीश पूर्वजमभीष्टदमाश्रितानां वाणीपति प्रकख देव गणाचिताघ्रिम् ॥  
@@ -1107,8 +1105,7 @@ Description by Mark S.G. Dyczkowski:
 ततो नाभ्यवसाने तु ते चोक्ताः प्राणयोगिनः ।  
 उभे सन्ध्ये स्मृते तेषाम् अन्ते वै सूर्यसोमयोः ।  
   
-॥  
-इति ॥  
+॥ इति ॥  
 ज्ञानिनामाह- शिवबोध इति-  
   
 
@@ -2603,12 +2600,9 @@ Description by Mark S.G. Dyczkowski:
   
 ओङ्कारमादौ येषाम् ओङ्कारादयः नमः अन्ते येषां नमोन्ताः मन्त्रशुद्धिं कुर्यादिति ।  
 तेषां शुद्धिस्तु मायीय शब्दव्यङ्ग्यत्व जनित स्पर्शलक्षणं देहं परतत्व समाश्रयतः ॥  
-॥  
-॥  
-॥  
-॥  
-॥  
-।  
+॥ ॥  
+॥ ॥  
+॥ ।  
 पयेत् ।  
 तथोक्तं सिद्धान्तशेखरे-  
   
