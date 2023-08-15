@@ -1,6 +1,5 @@
 +++
-"Catalog number" = "M00063"
-Description = "Transcription of IFP transcript T0351. For details see catalog record of transcript in the IFP section of the Muktabodha digital library."
+Description = "Transcription of IFP transcript T0351."
 title = "सकलागमसारसङ्ग्रह"
 
 +++
