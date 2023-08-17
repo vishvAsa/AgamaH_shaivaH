@@ -5,7 +5,8 @@ title = "+सर्व-प्रस्तुतिः"
 
 
 
-॥ श्रीः ॥  
+॥  
+श्रीः ॥  
 
 
 श्रीमन्-महामाहेश्वर-श्रीमद्-अभिनवगुप्तपादाचार्य-विरचितः श्रीतन्त्रालोकः।    
@@ -19,9 +20,8 @@ title = "+सर्व-प्रस्तुतिः"
 
 Paramahamsa does not even break long samasa words from sanskrit, e.g., vimalakalāśrayā jo abhinavagupt ki mahājananī hai aur bharitatanupañcamukhaguptruci jo unke janak hai, un dono ke yaamala
 
-Radheshyama is bearable - but I have not read it that close
-</details>
+Radheshyama is bearable - but I have not read it that close </details>
 
-- राधेश्यामानुवादो हिन्द्या [ऽत्र](https://archive.org/search?query=tantraloka+radheshyam) । 
+- राधेश्यामानुवादो हिन्द्या [ऽत्र](https://archive.org/search?query=tantraloka+radheshyam) ।  
 - परमहंसमिश्रानुवादो हिन्द्या [ऽत्र](https://archive.org/details/ShriTantralokaHindiTranslationIIParamhansaMishra/page/n189/mode/2up?view=theater)।  
 
