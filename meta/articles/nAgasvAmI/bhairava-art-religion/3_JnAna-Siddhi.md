@@ -3,15 +3,11 @@ title = "3\\ Jñāna-Siddhi"
 
 +++
 
-
-
-* * *
-
 _Jñānasiddhi_, a text included in this volume is a rare work which may be called a lost āgama retrieved. Veḷḷi-ambala-vāṇar Śvamikaḷ has done a yeomen service by extensive citation from this text. From various references to this text in the commentary it is seen that it contained several chapters that have not been cited and what we have is only a part. According to Veḷḷi-ambala-vāṇar the _Jñānasiddhi_ is an Āgama, counted among 224 secondary Āgamas, the 28 sub Āgamas and the nine main Āgamas. It is listed along with the following Āgamas.
 
 1\. Jñāna sāram 2. Nirvāņa sāram 3. Tattva dīpam 4. Tattva Siddhi 5. Tattva sāram 6. Candra dīpam 7. Yõga siddhi
 
-The text in its original format followed other well known Āgamic texts in its structure. At one place it is seen addressing the goddess Haimavatīśvari (p. 84). It is considered a text dealing with Vāma Dakṣiṇa Śaiva branch dealing with the benign school of Bhairava mata. The names of the following chapters have survived as they are mentioned in the citations. 1. Tantrāvatāra Paṭalam1, 2\. Jñānāvatāra Paṭalam2, 3\. Mūrtyamśa Paṭalam3, 4\. Śaiva Prakaraṇa4, 5\. Tatvāmnāya prakaraṇa, 6. Prāsāda prakaraṇa6, 7\. Bhinnā-bhinna-vivekam7
+The text in its original format followed other well known Āgamic texts in its structure. At one place it is seen addressing the goddess Haimavatīśvari (p. 84). It is considered a text dealing with Vāma Dakṣiṇa Śaiva branch dealing with the benign school of Bhairava mata. The names of the following chapters have survived as they are mentioned in the citations. 1. Tantrāvatāra Paṭalam[^1], 2. Jñānāvatāra Paṭalam[^2], 3. Mūrtyamśa Paṭalam[^3], 4. Śaiva Prakaraṇa[^4], 5. Tatvāmnāya prakaraṇa, 6. Prāsāda prakaraṇa[^6], 7. Bhinnā-bhinna-vivekam[^7]
 
 The nine main āgamas on which this Vama Śakta text is based are mentioned.
 
@@ -67,9 +63,9 @@ The _Parā_ (_Paṟai_ in Tamil) emanated from _parātpara_ which is also called
 
 The text also enumerates 96 principles, which are common to both Vēdānta and Siddhānta. The knowledge of these 96 _Tattvas_ is necessary for attaining _svarūpa jñāna_. The text also deals with the three basic _tattvas_ \- _Prakṛti Tattva_, _Vidyā Tattva_ and _Śiva Tattva_.
 
-Veḷḷi-ambala-vāṇar cites _Svacchanda_ text which seems to be the _Svacchanda tantra_ that has come down to us as for example that the _Gangāvatāra paṭala_ cited is found in _Śiva Tantra, tenth paṭala_.9 Similarly the verses cited mentioning the origin of _Svacchanda tantra_ cited by Veḷḷi-ambala-vāṇar is verbatim in the _Svacchanda tantra_ that has survived. The _Svacchanda tantra_ gives the _dhyāna_ slokas of Tatpuruṣa, Aghora, Sadyojāta, Vāmadeva, and Īśāna, their meditation and the fruits derived from their worship.
+Veḷḷi-ambala-vāṇar cites _Svacchanda_ text which seems to be the _Svacchanda tantra_ that has come down to us as for example that the _Gangāvatāra paṭala_ cited is found in _Śiva Tantra, tenth paṭala_.[^9] Similarly the verses cited mentioning the origin of _Svacchanda tantra_ cited by Veḷḷi-ambala-vāṇar is verbatim in the _Svacchanda tantra_ that has survived. The _Svacchanda tantra_ gives the _dhyāna_ slokas of Tatpuruṣa, Aghora, Sadyojāta, Vāmadeva, and Īśāna, their meditation and the fruits derived from their worship.
 
-kumkumābham ca nārēśam trinētram ca jaṭādharam pūrvānanam abhidhyāyet vāyubhakṣasya yat phalam10
+kumkumābham ca nārēśam trinētram ca jaṭādharam pūrvānanam abhidhyāyet vāyubhakṣasya yat phalam[^10]
 
 Tatpuruṣa, called Nārēśa. faces east, is saffron in colour, three eyed and wears matted locks of hair. The devotee meditating on him, obtains immediate results. The fruits of his worship may equal several thousand Aśvamedha yāga. Kṣemarāja defines the term Nareśa as _narāṇām īśvara - nareśa_. He is Tatpuruṣa Bhaṭṭāraka. If there was a variant reading mentioning Ardhanārīśa in the place of Nareśa, Kshemarāja holds that reading is not appropriate. He points out that Devī is said to be seated on the lap of the lord and the identification, as Ardhanāri does not arise. The meditator on Nareśa obtains siddhis within six months.
 
@@ -91,25 +87,25 @@ As the portions cited relate mostly to Dakṣiṇa Bhairava school, _Jñāna-sid
 
 ## End notes
 
-1 Jñānasiddhi cited in Jv. p.50 
+[^1]: Jñānasiddhi cited in Jv. p.50 
 
-2 Ibid. p.51 
+[^2]: Ibid. p.51 
 
-3 Ibid. p.52 
+[^3]: Ibid. p.52 
 
-4 Ibid. p.50 
+[^4]: Ibid. p.50 
 
-5 Ibid. p.75 
+[^5]: Ibid. p.75 
 
-6 Ibid. p.78 
+[^6]: Ibid. p.78 
 
-7 Ibid. p.171 
+[^7]: Ibid. p.171 
 
-8 Jv. p.56 
+[^8]: Jv. p.56 
 
-9 Svacchanda, cited in JV. Verses 172 - 180 
+[^9]: Svacchanda, cited in JV. Verses 172 - 180 
 
-10 Svacchanda, patala 12, verse 125
+[^10]: Svacchanda, patala 12, verse 125
 
 * * *
 

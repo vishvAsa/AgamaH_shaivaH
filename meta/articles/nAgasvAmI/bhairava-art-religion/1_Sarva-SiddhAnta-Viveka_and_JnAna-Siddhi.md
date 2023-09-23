@@ -2,11 +2,6 @@
 title = "1\\ Sarva-Siddhānta-Vivēka and Jñāna-Siddhi"
 
 +++
-
-
-
-* * *
-
 ## Introduction
 
 Two Sanskrit texts, _Sarva-siddhānta Vivēka_ and _Jñāna-Siddhi_, both of great importance to the study of history of Indian Śivaism are included in this volume. This work also gives a brief history about where these texts are found, the texts in original, followed by brief summaries of the contents of both texts and a crtical evaluation and their use to Śaiva art and religion.
@@ -195,7 +190,7 @@ The Tamil Śaiva Siddhānta school was founded by Meykaṇṭa Devar in his Tami
 
 Veḷḷi-ambala-vāṇar who is mentioned as "Śiva-Jñāni" and also "Rajata-Sabhānātha-yogi" wrote this commentary on the _Jñāna-āvaraṇa-dīpikā_ as _vyākhyāna-viḷakkam_. He belonged to the _Sanat-kumāra-Santāna_ which elucidated _Jñāna-āvaraṇa-siddhānta_[^4] (School). This was a tradition established by one Satya-Jñāna-darśi, followed by Parañjoti who initiated Meykkaṇṭār, the founder of Śaiva siddānta tradition through his Tamil work _Śiva-jñāna-bodham_. This was a translation into Tamil of the Sanskrit text _Śiva-jñāna-bodham_. In this line of teachers came Kamalai-jñāna-prakāśa who initiated Guru Jñānasambanda who established the Dharmapuram Ādhīnam maṭha. He wrote a text called Jñānāvaraṇa Dīpikā. Veḷḷi-ambala-vāṇar the author of this commentary obtained initiation from Māsilāmaṇi Deśika, the fourth head of the Dharmapuram maṭha.
 
-Please check. \[There was an Institution at Thiruvarur in Tanjavur District, where lived Kamalai Jñānap-prakāśa-deśika. Also at the maṭha of Dharmapuram was its head Jñāna-sambanda-deśika who initiatated a certain Akalanka-muni (also called in Tamil as Māsilāmaṇi-deśika bhagavadpāda). Veḷḷiyambala-vāṇa, who was called an "_Ati-varnāśramī_" received introduction and initiation under these great Ācāryas.\]
+Please check. [There was an Institution at Thiruvarur in Tanjavur District, where lived Kamalai Jñānap-prakāśa-deśika. Also at the maṭha of Dharmapuram was its head Jñāna-sambanda-deśika who initiatated a certain Akalanka-muni (also called in Tamil as Māsilāmaṇi-deśika bhagavadpāda). Veḷḷiyambala-vāṇa, who was called an "_Ati-varnāśramī_" received introduction and initiation under these great Ācāryas.]
 
 From this it is evident that he had another but famous name Satya-jñānī and that he was an Ati-varṇāśrami a recluse.
 
@@ -245,7 +240,7 @@ The Tamil soil was most fertile for this movement by its great devotional popula
 
 This also gives a negation to the populist movement that Sanskrit is a Brahminical language that was not available to the non Brahmin community. The shear volume of Tamil Śaiva Sāśtric texts, considerable number being excellent translations from Sanskrit originals, by eminent Ācāryas belonging to Veḷḷāḷa caste (sūdras) shows that there was no linguistic divide. This text _Jñānāvaraṇa dīpika_ by Guru Jñānasambanda deśika and Veḷḷi-ambala-vāṇar is the best example of such a great system.
 
-S.N.Dasgupta has done yeomen service to the history of Indian philosophical systems by publishing five volumes.19 While he has dealt with all the major schools in detail, the history of Śaiva has not received adequate attention in his series. The learned professor had a desire to treat the Śaiva systems more exhaustively and was obviously collecting data but could not complete the task in his life time.20
+S.N.Dasgupta has done yeomen service to the history of Indian philosophical systems by publishing five volumes.[^19] While he has dealt with all the major schools in detail, the history of Śaiva has not received adequate attention in his series. The learned professor had a desire to treat the Śaiva systems more exhaustively and was obviously collecting data but could not complete the task in his life time.[^20]
 
 Monumental temples dedicated to Śiva were built were built and sculptures portrayed in the whole of India and South East Asia. There had been overwhelming numbers of Śiva temples when compared to all other systems put together, but the history of Śaiva system has not received the attention it deserves. The present text gives more information and picture about this system than hitherto known. It is thus a very valuable text.
 
@@ -270,7 +265,7 @@ The Śaivāgamas taditionally list the external schools from early times. The M�
 - 9.Pānca-rātra school (Vaishnava school) and
 - 10.Padārtika-darśana
 
-The Great Kashmiri scholar Nārāyaṇkanṭa (10th cent) has an elaborate commentary on Mṛgendra in which he gives more details about all these schools.21 (_Sri Mrigendra Tantra_ – _Vidyāpāda_ and _Yoga-pāda_, with the commentary of Nārāyanakanṭa. Ed by Madhusudan Kaul Sastri, published by Meharchand Lakshman dass, New Delhi, 1982.)
+The Great Kashmiri scholar Nārāyaṇkanṭa (10th cent) has an elaborate commentary on Mṛgendra in which he gives more details about all these schools.[^21] (_Sri Mrigendra Tantra_ – _Vidyāpāda_ and _Yoga-pāda_, with the commentary of Nārāyanakanṭa. Ed by Madhusudan Kaul Sastri, published by Meharchand Lakshman dass, New Delhi, 1982.)
 
 ## Svacchanda-tantra
 
@@ -346,7 +341,7 @@ The above schools mentioned in the _Svacchanda tantra_ and the commentary by K�
 
 (Sri Svacchanda Tantram - Pg.11 with the commentary of Kshemaraya, Pub. By Sampurnan and Skt. University. Varanasi, 1993, Patala 10, verses 676-681.)
 
-Though the names of these schools are listed, there were more such schools which may number more than three hundred, says _Svaccanda tantra_.23
+Though the names of these schools are listed, there were more such schools which may number more than three hundred, says _Svaccanda tantra_.[^23]
 
 The Tarka school is always engaged in clearing doubts rather than realizing the truth. This concentration is on arguments and all interested in winning over the others. Those who do not have devotion towards the preceptor, good and the Sāśtras, and waste their time in arguments are dry logicians,[^24] (_śuṣuka tarkavalambinaḥ_ (10/1149)) they abandon the true path and hence go to the nether world, as they pursue ignorant path laid on unrighteous path. The four principles regained progress are dharma, Jñāna, Vairāgya and Aiśvarya, righteous conduct, knowledge, determined rejection of desires and command over self unrighteous conduct, importance, attachment to desires and non-control over self arise out _tamoguṇa_. Those who pursue _tarka_ system are over taken by _tamo-guṇa_.
 
@@ -356,7 +351,7 @@ The Vaidikas preach both rituals (_karma anuṣṭāna_) and knowledge, the Baud
 
 The Parameśvara Śāstra is crosses these boundaries and so is called '_Atimārga_' those who go beyond birth and death are _Atimārgins_.
 
-The _Kapālavratins_ and _Pāśupatas_ are not born again, as they remain steadfast in Īśvara. By the (_Dīkṣa_) knowledge obtained through imitation and observing that Śaiva code of conduct the Kapalavratins goes to his chosen path. Similarly the Pāśupatas who smear his body with sacred ashes and repeat gods name constantly, reach the abrode of lord Īśvara.25 (11-74) They attain liberation are not reborn, the Laukikas die and are born again and again.
+The _Kapālavratins_ and _Pāśupatas_ are not born again, as they remain steadfast in Īśvara. By the (_Dīkṣa_) knowledge obtained through imitation and observing that Śaiva code of conduct the Kapalavratins goes to his chosen path. Similarly the Pāśupatas who smear his body with sacred ashes and repeat gods name constantly, reach the abrode of lord Īśvara.[^25] (11-74) They attain liberation are not reborn, the Laukikas die and are born again and again.
 
 ## Paramokṣa-nirāśā-kārikā
 
@@ -401,13 +396,13 @@ The Makuṭāgama provides the following list of Śaivas in order and their divi
 - 8\. Guṇa Śaivam
 - 9\. Ajnā Śaivam
 
-The Makuṭāgama is called a _Mahātantra_ which is said to deal with Ūrdhva Śaivas. It also mentions four divisions among the Śaiva system namely Śaivam, Pāsupatam, Sōmam, and Lākulam and holds Śaivam as the best among the four. This division is further categorized into two as Raudra and Saumya schools. It further says that the Saumya school is divided into Dakṣṇina (right) and Vāma (sub-school). The descipline enjoined in the Vedas is called Dakṣiṇācāra while the system advocated opposite to Dakṣiṇa is called Vāma system. There are some schools in which there is a mixture of both the systems that goes by the name Miśra. (Makuṭa Tantrāvatāra Paṭala.27 \- (ver. 16-22) The Makuṭa is declared as the essence of Veda (and falls under Dakṣiṇa school.)
+The Makuṭāgama is called a _Mahātantra_ which is said to deal with Ūrdhva Śaivas. It also mentions four divisions among the Śaiva system namely Śaivam, Pāsupatam, Sōmam, and Lākulam and holds Śaivam as the best among the four. This division is further categorized into two as Raudra and Saumya schools. It further says that the Saumya school is divided into Dakṣṇina (right) and Vāma (sub-school). The descipline enjoined in the Vedas is called Dakṣiṇācāra while the system advocated opposite to Dakṣiṇa is called Vāma system. There are some schools in which there is a mixture of both the systems that goes by the name Miśra. (Makuṭa Tantrāvatāra Paṭala.[^27] - (ver. 16-22) The Makuṭa is declared as the essence of Veda (and falls under Dakṣiṇa school.)
 
 The Makuṭāgama defines Tantra as that which weaves expanding knowledge found in rituals and mental imagery into a carpet and protects the follower, which is called Tantra. (The word _Tantra_ is split who "_Tan_" (weave) and "_Tra_" (protect) on the basis of which the above meaning is derived.)
 
 ## Sarva darśana Saṅgraha
 
-In the Sanskrit tradition the most outstanding work on different schools Indian philosophy is no doubt the "_Sarva darśana saṅgraha_" of various schools, without entering into the polemics of refutation. Sāyana’s work, assigned to 14th cent is an admirable history of Indian philosophy and scholars have drawn on it for an understanding of different systems.28 Sāyana deals with the following systems in his work.
+In the Sanskrit tradition the most outstanding work on different schools Indian philosophy is no doubt the "_Sarva darśana saṅgraha_" of various schools, without entering into the polemics of refutation. Sāyana’s work, assigned to 14th cent is an admirable history of Indian philosophy and scholars have drawn on it for an understanding of different systems.[^28] Sāyana deals with the following systems in his work.
 
 - 1\. Cāruvākas
 - 2\. Bauddhas
@@ -438,7 +433,7 @@ On account of its objectivity, clarity and comprehensiveness, _Sarva darśana sa
 
 ## Śivāgrayogi’s Saiva pari-bhaṣa
 
-Śivāgrayogi, who was almost a contemporary of Veḷḷi-ambala-vāṇar, the commentator, and lived in Tamilnad, has composed a Sanskrit text called _Śaiva Paribhāṣa_.29 (The _Śaiva Paribhāṣa_ of Śivagra yogin. Text and Translation by S. Suryanarayana Sastri, Pub. University of Madras, 1982).
+Śivāgrayogi, who was almost a contemporary of Veḷḷi-ambala-vāṇar, the commentator, and lived in Tamilnad, has composed a Sanskrit text called _Śaiva Paribhāṣa_.[^29] (The _Śaiva Paribhāṣa_ of Śivagra yogin. Text and Translation by S. Suryanarayana Sastri, Pub. University of Madras, 1982).
 
 He following the tradition deals with the opposing schools and establishes his own school based on Śaiva-gamas, mainly on _Pauṣkara_. He deals with the following schools.
 
@@ -477,23 +472,23 @@ Sarasvata Stotra, cited by Kṣemarāja in Stavacintāmaṇi.
 
 Dasgupta, Smendranath, A History of Indian Philosophy, Vol. I Vol. V Motilal Banarsidass, Delhi, Reprint, 1975.
 
-We have seen that _Sarva-siddhānta-Viveka_, brings the Vāma systems under Śaiva group. The _Kulārṇava tantra_ has the following to say on the subject.30
+We have seen that _Sarva-siddhānta-Viveka_, brings the Vāma systems under Śaiva group. The _Kulārṇava tantra_ has the following to say on the subject.[^30]
 
 "This world is constituted of both Śiva and Śakti, consciousness and power, and established in such a world is the _Kula-dharma_ which is therefore the highest of all. It bases itself on the truth of both Śiva and Śakti and therefore it is the most true, most wholesome. The six _darśanas_ are my limbs. He who differentiates among them cuts across "my body". Therefore the Śāstra of the _Kula_ is none other the Śāstra of the Veda."
 
 _"vedāntmakam śastram viddhi kaulātmakam"._
 
-There are seven religious systems recognized bestowing spiritual merits to the followers. The first is the path of Karma - the Vedic ritual, the second is Vaiṣṇavism that emphasizes, bhakti, devotion towards Lord. The third is Śaivam which is a path of meditation (_japa_) and _Jñāna_ (knowledge); The fourth is the Dakṣiṇa system that harmonizes _karma, bhakti_ and _jñāna_. The fifth is the Vāma school where externalization (_Pravṛtti_ is turned into _nivṛtti_ (internnal the _Dakṣiṇa_ and _Vāma_ school considered for a man of evolved nature. The Siddhānta is considered still for a highly evolved nature. The final is said to be the _Kaula_ system which is claimed to be the essence of all, the very Śiva. It has been extracted from the ocean of the Vedas and Āgamas with the churning rod of _jñāana_ by Śiva himself.31 p. 30-31.
+There are seven religious systems recognized bestowing spiritual merits to the followers. The first is the path of Karma - the Vedic ritual, the second is Vaiṣṇavism that emphasizes, bhakti, devotion towards Lord. The third is Śaivam which is a path of meditation (_japa_) and _Jñāna_ (knowledge); The fourth is the Dakṣiṇa system that harmonizes _karma, bhakti_ and _jñāna_. The fifth is the Vāma school where externalization (_Pravṛtti_ is turned into _nivṛtti_ (internnal the _Dakṣiṇa_ and _Vāma_ school considered for a man of evolved nature. The Siddhānta is considered still for a highly evolved nature. The final is said to be the _Kaula_ system which is claimed to be the essence of all, the very Śiva. It has been extracted from the ocean of the Vedas and Āgamas with the churning rod of _jñāana_ by Śiva himself.[^31] p. 30-31.
 
 Dealing with _Daśa-kārya_ the _jñānasiddhi_, shows that the text was in the form of questions by the Devī and the answers were provided by Īśvara,[^32] as seen in many agamic texts. (p. 144).
 
 ## The Tamil tradition
 
-The Tamil language has also a long-standing tradition of referring to different view points of philosophical systems almost from the beginning of the common era. A verse in the _Puranānūṟu_ anthology of the Sangam age refers to a Brahmāṇa of Puncāṟṟūr, whose family was Vedic Śaivas, who were reputed for their mastery of logic with which they refuted the other schools of thoughts and established the system of Śaivāgamas taught by Śiva.33 There are references in other Sangam poems to such philosophical disputations.
+The Tamil language has also a long-standing tradition of referring to different view points of philosophical systems almost from the beginning of the common era. A verse in the _Puranānūṟu_ anthology of the Sangam age refers to a Brahmāṇa of Puncāṟṟūr, whose family was Vedic Śaivas, who were reputed for their mastery of logic with which they refuted the other schools of thoughts and established the system of Śaivāgamas taught by Śiva.[^33] There are references in other Sangam poems to such philosophical disputations.
 
 ## Manimekhalai
 
-The most striking example of listing systematically other schools of thoughts is found in the Tamil epic, Manimekhalai, the date of which is not certain, but probably ascribable to 3rd, 4th cent CE.34 It is a Buddhist text in which the heroin, Manimekhalai, visits different philosophers, and listens to the exposition of their systems. Enumerating the schools she listened to, the text mentions first six systems and their authors, which are as follows:
+The most striking example of listing systematically other schools of thoughts is found in the Tamil epic, Manimekhalai, the date of which is not certain, but probably ascribable to 3rd, 4th cent CE.[^34] It is a Buddhist text in which the heroin, Manimekhalai, visits different philosophers, and listens to the exposition of their systems. Enumerating the schools she listened to, the text mentions first six systems and their authors, which are as follows:
 
 - 1.Lokāyata - Bṛhaspati
 - 2.Bauddha - Jina (Buddha)
@@ -510,7 +505,7 @@ The Tevāram saints, have given references to Buddhist and Jains, and their life
 
 ## Jñānāmirtam
 
-Vāgīśa-muni, the author of this Tamil-text, hailed from Kodampakkam, a part of Madras and later moved to Thiruvoṟṟiyur, an outskirt of Madras, where he expounded _Sōma-Siddhānta_ school of Śaivam.36 He wrote this work in his _Jñānāmirtam_, around 1175 CE which belongs to the Saumya school of Śaivam. The author refers to Lokāyata, Mīmāmsa and Māyā-vāda, the last one was identified by one commentator as _Śivādvaita_ school. The treatment of these three schools is not exhaustive in this text but gives only a bare outline.
+Vāgīśa-muni, the author of this Tamil-text, hailed from Kodampakkam, a part of Madras and later moved to Thiruvoṟṟiyur, an outskirt of Madras, where he expounded _Sōma-Siddhānta_ school of Śaivam.[^36] He wrote this work in his _Jñānāmirtam_, around 1175 CE which belongs to the Saumya school of Śaivam. The author refers to Lokāyata, Mīmāmsa and Māyā-vāda, the last one was identified by one commentator as _Śivādvaita_ school. The treatment of these three schools is not exhaustive in this text but gives only a bare outline.
 
 ## Śivajñāna -siddhiyār
 
@@ -553,7 +548,7 @@ Thus it is evident that by about 1300 CE, several sub sects among the Śaivas ha
 
 ## Veḷḷi-Ambala-vāṇar on Āgamas
 
-Some of the observances of Veḷḷi-ambala-vāṇar on Āgamas are interesting and historic interest. The Siddha-tantra from which he quotes extensively is called an āgama (606). Svacchanda tantra is called at places as _Svacchanda Bhairava,_ _Svacchanda lalita_, _Svacchanda-lalita-bhairava-mahā-tantra_ at other places. That it is identical with the now available text is seen in a number of instances for example _Tattva vijñāna paṭala_ from which he quotes is verbatim found in the available published text.39 (638, 867, 1051, 1106 etc) Virtually the entire _Svacchanda_ text is cited all over this work that would enable one to take up a critical comparison and even edition of _Svacchanda_ is possible. How it is not attempted here as it is outside the scope of this school. The following _patalas_ of _Svacchanda_ is mentioned in this text.
+Some of the observances of Veḷḷi-ambala-vāṇar on Āgamas are interesting and historic interest. The Siddha-tantra from which he quotes extensively is called an āgama (606). Svacchanda tantra is called at places as _Svacchanda Bhairava,_ _Svacchanda lalita_, _Svacchanda-lalita-bhairava-mahā-tantra_ at other places. That it is identical with the now available text is seen in a number of instances for example _Tattva vijñāna paṭala_ from which he quotes is verbatim found in the available published text.[^39] (638, 867, 1051, 1106 etc) Virtually the entire _Svacchanda_ text is cited all over this work that would enable one to take up a critical comparison and even edition of _Svacchanda_ is possible. How it is not attempted here as it is outside the scope of this school. The following _patalas_ of _Svacchanda_ is mentioned in this text.
 
 - 1\. Tantravatara paṭala (43)
 - 2\. Gangāvatāra paṭala (42)
@@ -561,7 +556,7 @@ Some of the observances of Veḷḷi-ambala-vāṇar on Āgamas are interesting 
 - 4\. Prāsāda vidhi paṭala (38)
 - 5\. Śivaprāpti paṭala (38)
 - 6\. Tattva-vijñāna paṭala
-  (36) etc.- 7\. Tantravātara paṭala (43)
+(36) etc.- 7\. Tantravātara paṭala (43)
 - 8\. Gangāvatara paṭala (42)
 - 9\. Dikshā paṭala (38)
 - 10\. Prāsāda vidhi paṭala (38)
@@ -573,9 +568,9 @@ Some of the observances of Veḷḷi-ambala-vāṇar on Āgamas are interesting 
 - 16\. Śivaprāpti paṭala (38)
 - 17\. Tattva-vijñāna paṭala (38)
 
-Svacchanda holds that Śiva-tattva is _sūnya_ as it is the base of Laya-Śiva (_laya śiva adhiṣṭāna_). There are many common factors between Svacchanda and Siddhānta Śaivam. Śiva is called Bhairava SadāŚiva, who is Rudra-murti who remains in SadāŚiva form and not in other Rudra forms. Bhairava is also identified with Srikaṇṭanātha Rudramūrti. The Svacchanda also hold that one who meditates on Svacchanda Bhairava deva will attain mokṣa quickly. There is also variation in the Dikṣa among the followers of the Bhairava School. Bhairava also had five faces. All schools proclaim that their Supreme has five faces.The Bhairva school also hold that Pāśupatas, Rudras and others fall under _pūrva pakṣins_. The Āgama _Jñāna siddhi_ is is a Vāma Dakṣina Tantra bheda.40
+Svacchanda holds that Śiva-tattva is _sūnya_ as it is the base of Laya-Śiva (_laya śiva adhiṣṭāna_). There are many common factors between Svacchanda and Siddhānta Śaivam. Śiva is called Bhairava SadāŚiva, who is Rudra-murti who remains in SadāŚiva form and not in other Rudra forms. Bhairava is also identified with Srikaṇṭanātha Rudramūrti. The Svacchanda also hold that one who meditates on Svacchanda Bhairava deva will attain mokṣa quickly. There is also variation in the Dikṣa among the followers of the Bhairava School. Bhairava also had five faces. All schools proclaim that their Supreme has five faces.The Bhairva school also hold that Pāśupatas, Rudras and others fall under _pūrva pakṣins_. The Āgama _Jñāna siddhi_ is is a Vāma Dakṣina Tantra bheda.[^40]
 
-Śrauta Pāśupatam was propagated by Upamanyu muni[^41] it was taught by Śiva to Śivā in accordance with Śruti. Nilakaṇṭa Śivācārya is a Vaidika Pāśupata, which is divided into _Vaidika pāsupatam_ and _Tāntrika Pāśupadam_. The _Śiva-jñānottara_ is a _Śuddha Śaiva āgama_. It is also called _Yoga sāmkhya āgama_.42 Some authorities hold _Sōma siddhānta_ as a sub- sect of Kālāmukha system. At places Veḷḷi-ambala-vāṇar refutes Aghōra Sivācārya's views.43 The teachings like _Bheda, Mukti_ etc are not found in contemporary texts.44
+Śrauta Pāśupatam was propagated by Upamanyu muni[^41] it was taught by Śiva to Śivā in accordance with Śruti. Nilakaṇṭa Śivācārya is a Vaidika Pāśupata, which is divided into _Vaidika pāsupatam_ and _Tāntrika Pāśupadam_. The _Śiva-jñānottara_ is a _Śuddha Śaiva āgama_. It is also called _Yoga sāmkhya āgama_.[^42] Some authorities hold _Sōma siddhānta_ as a sub- sect of Kālāmukha system. At places Veḷḷi-ambala-vāṇar refutes Aghōra Sivācārya's views.[^43] The teachings like _Bheda, Mukti_ etc are not found in contemporary texts.[^44]
 
 ## Matsyendranātha Kaula
 
@@ -583,17 +578,17 @@ Regarding Matsyendranātha's date attention may be drawn to the view of Gopinath
 
 Mantrevara Śaiva, Yantra Śaiva, Divya Śaiva, Arṣa-gaṇa?, Arka Śaiva and Yogini Siddhata.
 
-A gap in the text unfortunately, leaves a lacuna in the list but it consisted of eight texts is made clear. The school is brought under Bhairava Śaivam. "_bhairavasyāpi bhedosti_".48 The adherents of this school reach the abode of Bhairava at the time of liberation.
+A gap in the text unfortunately, leaves a lacuna in the list but it consisted of eight texts is made clear. The school is brought under Bhairava Śaivam. "_bhairavasyāpi bhedosti_".[^48] The adherents of this school reach the abode of Bhairava at the time of liberation.
 
-Pañca-mūrta are different from Pañca-Brahmāns[^49] \- the Pañca mūrtas are Śiva, Śakti, Nāda, Bindu and SadaŚiva, whereas Panca-Brahmās are Tatpuruṣa, Aghōra, Sadyōjāta, Vāmadeva, and Īśāna.50 (p.67)
+Pañca-mūrta are different from Pañca-Brahmāns[^49] - the Pañca mūrtas are Śiva, Śakti, Nāda, Bindu and SadaŚiva, whereas Panca-Brahmās are Tatpuruṣa, Aghōra, Sadyōjāta, Vāmadeva, and Īśāna.[^50] (p.67)
 
-Thiruvaḷḷuvar is called Thiruvaḷḷuva nāyanār.51 There are two schools, that bring _Vidyā Tattvas_ and _Śiva tattvas_ expounded in Siddhānta, under Vedanta. Tattvarāya school brings these _tattvas_ directly under Vedānta, while the school of Nirāmayadeva includes them in their detailed exposition. So both Tattvarāya and Nirāmaya deva were Vedānta Śaivas.52
+Thiruvaḷḷuvar is called Thiruvaḷḷuva nāyanār.[^51] There are two schools, that bring _Vidyā Tattvas_ and _Śiva tattvas_ expounded in Siddhānta, under Vedanta. Tattvarāya school brings these _tattvas_ directly under Vedānta, while the school of Nirāmayadeva includes them in their detailed exposition. So both Tattvarāya and Nirāmaya deva were Vedānta Śaivas.[^52]
 
-The five sacred acts of Śiva _Pañca Krityas_ are divided into three as _Sthūla pañca Krityam_, _Sukṣma Pañca Krityas_ and _Anugraha Pañca Krityas_.53 pan(99). Śiva performs _Sūkṣma Pañca Kritya_ during the stage of _samhara_.
+The five sacred acts of Śiva _Pañca Krityas_ are divided into three as _Sthūla pañca Krityam_, _Sukṣma Pañca Krityas_ and _Anugraha Pañca Krityas_.[^53] pan(99). Śiva performs _Sūkṣma Pañca Kritya_ during the stage of _samhara_.
 
 The school of Nirāmaya deva, who was an exponent of Vedāntic Śaivism, is considered as "_nimitta karaṇa pariṇāma vādi_"[^54] as his school. Though mostly akin to Siddhānta the Śiva vedanta is held to be a _pariṇāma vāda_, of the _ekānma-vāda_. The work of Tattva-rāyar another school of Śiva Vedānta, in which one attains the vision of the guru - standing at the stage of Omkāra (_praṇava_), expounds 68 tattvas. The work of Niramaya-devar expounds 36 _tattvas_.
 
-The text _Jñāna-siddhi_ is an Āgama[^55] of (_Śakti Pariṇāma Vāda_). Śiva himself is considered the _guru-svarūpa_.56 (p.114). _Jñāna-siddhi_ expounds _Guru-pādukā_ at the end of detailing Kalā rūpas[^57] \- p. 116.
+The text _Jñāna-siddhi_ is an Āgama[^55] of (_Śakti Pariṇāma Vāda_). Śiva himself is considered the _guru-svarūpa_.[^56] (p.114). _Jñāna-siddhi_ expounds _Guru-pādukā_ at the end of detailing Kalā rūpas[^57] - p. 116.
 
 ## Thiru-mantiram
 
@@ -625,7 +620,7 @@ Among those mentioned, Śiva-yoga-māmuni is probably identical with Upamanyu-ma
 
 A total of eight belong to Nandikeśvara school are thus known.
 
-Besides Nandikeśvara, Vijñāna-devar also known as Rudra-devar was the originator of another branch that gave birth to the following branches.58
+Besides Nandikeśvara, Vijñāna-devar also known as Rudra-devar was the originator of another branch that gave birth to the following branches.[^58]
 
 - 1\. Thiru Mālikai Devar Santānam
 - 2\. Vālikanta Santānam
@@ -652,21 +647,21 @@ It is seen that eight Santānam lineages are traced to Nandikeśvara. Of these t
 
 From other sources it is learnt that Meykaṇṭar learnt _Śivajñāna bodham_ from Parañjoti munivar, who came in the lineage of Nandikeśvara through Satya-jñāna-darśi.
 
-The other point of interest seen from this account of Veḷḷi-ambala-vāṇar is four out of the 16 Santānas that came out of Vijñāna devar alias Bhoganātha - were well known to Tamils as great Siddhas. They are Karuvūr-devar, Iḍaik-kāḍar, Thiru-vaḷḷuvar and Śiva-vākyar. From this we learn they were also Santāna āccāryas. It may be noted that Thiruvaḷḷuvar the great exponent of Thirukkuṟal was recognized as a Saivite Nāyanār of the Santāna Category.60 Among the other notables, Thirumālikai-devar sang a delightful Thiru-visaippā poem on Śiva included in an anthology of Śaiva canonical text. The other lineages mentioned are otherwise not so well known.
+The other point of interest seen from this account of Veḷḷi-ambala-vāṇar is four out of the 16 Santānas that came out of Vijñāna devar alias Bhoganātha - were well known to Tamils as great Siddhas. They are Karuvūr-devar, Iḍaik-kāḍar, Thiru-vaḷḷuvar and Śiva-vākyar. From this we learn they were also Santāna āccāryas. It may be noted that Thiruvaḷḷuvar the great exponent of Thirukkuṟal was recognized as a Saivite Nāyanār of the Santāna Category.[^60] Among the other notables, Thirumālikai-devar sang a delightful Thiru-visaippā poem on Śiva included in an anthology of Śaiva canonical text. The other lineages mentioned are otherwise not so well known.
 
 The Dakṣiṇa school is included as a branch of Vāma school. (_vāma bhedam_ and _Dakṣiṇa matam_)[^61] P. 169. Veḷḷi-ambala-vāṇar cites an interesting passage from _Cintyāgamam_ which divides Śuddha Śaiva school into three categories as (1) Vāma śaivam, (2) Dakṣiṇa śaivam and (3) Siddhānta śaivam. The school that follows the _Mūlāvatāra tantras_ is called Vāma Śaivam that which follows Svacchanda school is Dakṣiṇa śaivam and the one that follows Āgamas like _Kāmika_ etc. is Siddhānta śaivam.
 
 vāma dakṣiṇa siddhāntam tridhātaḥ śuddha śaivakam mulavatāra tantram śāstram yad vāma śaivakam svacchanādi śāstram dakṣiṇam śaivam ucyate kāmikādini tantrāni siddhāntam śaivam ucyate
 
-Veḷḷi-ambala-vāṇar seems to suggest that there existed a Śaiva _nigaṇḍu_ that was cited in _Cintyāgama_.62 The Āgama like _Sarva Jñānottara_ were considered a branch of Śaiva Sāmkhya in the _Jñāna siddhi_[^63] P.171.
+Veḷḷi-ambala-vāṇar seems to suggest that there existed a Śaiva _nigaṇḍu_ that was cited in _Cintyāgama_.[^62] The Āgama like _Sarva Jñānottara_ were considered a branch of Śaiva Sāmkhya in the _Jñāna siddhi_[^63] P.171.
 
 Veḷḷi-ambala-vāṇar has quoted the important part of _Navaliṅga līlai_, a Tamil text of the Vīra Śaivas. The _Kāmikāgama_ also refers to _Gāruḍa Śaivam_, _Bhūta Tantra_, _Dakṣiṇa Śaivam_, and _Vāma Tantra_[^64] (p.183). Veḷḷi-ambala-vāṇar says Kālāmukha school was also called by some as Sōma Śaivam[^65] (p.154).
 
-The Vātulāgama according to Veḷḷi-ambala-vāṇar is called a Mahāvrata tantra.66 Wearing a liṅga on the body is also mentioned in _Kāmika_ that speaks of Śuddha Śaiva. The _liṅgadhārana_ is also prescribed to Mahāvratis and for Pāśupatas. Even as the Sri-Parvata mountain (now in Andhra Pradesh) is important for Vīraśaivas, the Thiruvoṟṟiyur a part of Madras is very important to Mahāvratis.
+The Vātulāgama according to Veḷḷi-ambala-vāṇar is called a Mahāvrata tantra.[^66] Wearing a liṅga on the body is also mentioned in _Kāmika_ that speaks of Śuddha Śaiva. The _liṅgadhārana_ is also prescribed to Mahāvratis and for Pāśupatas. Even as the Sri-Parvata mountain (now in Andhra Pradesh) is important for Vīraśaivas, the Thiruvoṟṟiyur a part of Madras is very important to Mahāvratis.
 
-The Tantrika Pāśupata system is divided into three branches as Candravāda, Sūrya vāda, and Samavāda.67 -P.189. The Vaidika Pāśupata system originally taught by Śiva to Devī, was propagated by saint Upamanyu (_śrauta pāśupatam nāma śrutyanusārena śivāyai śivena proktaḥ upamanyu ādibhih pravartitah ity jñeyam_).
+The Tantrika Pāśupata system is divided into three branches as Candravāda, Sūrya vāda, and Samavāda.[^67] -P.189. The Vaidika Pāśupata system originally taught by Śiva to Devī, was propagated by saint Upamanyu (_śrauta pāśupatam nāma śrutyanusārena śivāyai śivena proktaḥ upamanyu ādibhih pravartitah ity jñeyam_).
 
-Veḷḷi-ambala-vāṇar holds that Nīlakaṇṭa Sivācārya was a Vaidika Pāśupata. Also he says that Candravādi were a branch of Pāśupata system, and Kāleśvara Vādins are a branch of Kāpāla Śaivas. He also says that Sōma Siddhānta is a branch of Kālāmukha bheda. These schools are not now in practise says Veḷḷi-ambala-vāṇar.68 p.219, obviously these schools of Pāśupatas and Kāpālikas went out of existence by 17th cent.
+Veḷḷi-ambala-vāṇar holds that Nīlakaṇṭa Sivācārya was a Vaidika Pāśupata. Also he says that Candravādi were a branch of Pāśupata system, and Kāleśvara Vādins are a branch of Kāpāla Śaivas. He also says that Sōma Siddhānta is a branch of Kālāmukha bheda. These schools are not now in practise says Veḷḷi-ambala-vāṇar.[^68] p.219, obviously these schools of Pāśupatas and Kāpālikas went out of existence by 17th cent.
 
 Veḷḷi-ambala-vāṇar says Makuṭāgama is considered Dakṣiṇa Śaiva. The 25 Āgamas beginning from the _Kāmika_ are divided into three as Dakṣiṇa, Vāma, and Miśra. Among them Makuṭa is brought under Dakṣiṇa branch.
 
@@ -678,43 +673,43 @@ Veḷḷi-ambala-vāṇar holds _Śiva-Jñāna-bodha_ as a _Jñānavaraṇa Sidd
 
 ## Vira Śaivam
 
-Veḷḷi-ambala-vāṇar, gives some important details about _Dakṣiṇamata Siddhānta._ He says the Dakṣiṇa Śaiva school, is now known as Vīra Śaivas in modern times.70 That the Vīra Śaivas are recognized as Dakṣiṇa Śaivas in the time of Veḷḷi-ambala-vāṇar in 17th cent. Who however does not cite any Sanskrit text, to outline the Vīra Śaiva school on the other hand he cites a Tamil work _Navaliṅga Līlai_ in which the Vīra Śaivas subsume the _Dasāvasthā_ in their system. He cites as many as 92 Tamil verses from this text an examination of the verses suggests the work is self contained and probably the text is complete. According to the editors of _Jñāvaraṇa-viḷakkam_, this Tamil work is not found in other sources and is not available except in this form.
+Veḷḷi-ambala-vāṇar, gives some important details about _Dakṣiṇamata Siddhānta._ He says the Dakṣiṇa Śaiva school, is now known as Vīra Śaivas in modern times.[^70] That the Vīra Śaivas are recognized as Dakṣiṇa Śaivas in the time of Veḷḷi-ambala-vāṇar in 17th cent. Who however does not cite any Sanskrit text, to outline the Vīra Śaiva school on the other hand he cites a Tamil work _Navaliṅga Līlai_ in which the Vīra Śaivas subsume the _Dasāvasthā_ in their system. He cites as many as 92 Tamil verses from this text an examination of the verses suggests the work is self contained and probably the text is complete. According to the editors of _Jñāvaraṇa-viḷakkam_, this Tamil work is not found in other sources and is not available except in this form.
 
 The first verse abruptly begins with the statement that "this text was originally taught by Śiva to Umādevī on Kailāsa, which was taught to Basaveśvara by Prabhudeva in Karnāta language which was translated in Tamil by me"… name of the translator is not available.
 
 The second verse says that this text was translated as expounded in the _Navaliṅga cakra_, and is appropriately called _Navaliṅga Līlai_. The same Śiva manifests in nine forms by internal divisions for the removal of pāśa of the souls shrouded in ignorance. The text mentions the nine _Tattvas_ as Para Śiva, Para Śakti, Nāda, Bindu, Sadā Śiva with five faces, Maheśa, Rudra, Viṣṇu, and Brahmā.
 
-The Ekamūrti (supreme) splits itself into three as guru, liṅgam and Jaṅgama. Continuing to detail the tenets of the school, it mentions Iṣṭa-liṅga, Prāṅa-liṅga and Bhava-liṅgas. These three branch into six as Acāra-liṅga, Guru-liṅga, Śiva-liṅga, Jangama-liṅga, Prāsāda-liṅga, and Mahā-liṅga. These six further undergo division due to _Tattvas_ into 36 and further sub divided into 216.71 There are _Śrotas_; crossing these six _Śrotas_ one attains _Jñāna-samadhi_ which is called "reaching the cave of _Nirañjana_" (_nirañjānādi guhai ceṟdal_).72
+The Ekamūrti (supreme) splits itself into three as guru, liṅgam and Jaṅgama. Continuing to detail the tenets of the school, it mentions Iṣṭa-liṅga, Prāṅa-liṅga and Bhava-liṅgas. These three branch into six as Acāra-liṅga, Guru-liṅga, Śiva-liṅga, Jangama-liṅga, Prāsāda-liṅga, and Mahā-liṅga. These six further undergo division due to _Tattvas_ into 36 and further sub divided into 216.[^71] There are _Śrotas_; crossing these six _Śrotas_ one attains _Jñāna-samadhi_ which is called "reaching the cave of _Nirañjana_" (_nirañjānādi guhai ceṟdal_).[^72]
 
-The _Suddhākhya tantra_ gives the following account of Vīra śaivas. Vīra śaivas is superior to all other Śaivam which is also called _Vīra-maheśvaram._ The worship of God is very easy and also the process of worship.73
+The _Suddhākhya tantra_ gives the following account of Vīra śaivas. Vīra śaivas is superior to all other Śaivam which is also called _Vīra-maheśvaram._ The worship of God is very easy and also the process of worship.[^73]
 
-_Vīra saiva tantra_ is divided into three categories as _Samānya, Viśeṣa_, and _Nirāhāra_.74 By touching the head with hand and wearing sacred ash, the addhrent's body is considered Śiva-deha. He is absolved of all sins. He should wear the liṅga given by his guru either on his head, neck, hand forearm, heart, navel or in any one of these places. He should always be filled with devotion to Guru and liṅga and worship it once, twice or thrice a day. These are the common categories.
+_Vīra saiva tantra_ is divided into three categories as _Samānya, Viśeṣa_, and _Nirāhāra_.[^74] By touching the head with hand and wearing sacred ash, the addhrent's body is considered Śiva-deha. He is absolved of all sins. He should wear the liṅga given by his guru either on his head, neck, hand forearm, heart, navel or in any one of these places. He should always be filled with devotion to Guru and liṅga and worship it once, twice or thrice a day. These are the common categories.
 
 The Viśeṣa category consists of initiation by a guru, by invoking Śiva in a Kumbha and following the process of dīkṣa. In this process consecration of Prāṅa liṅga is advocated.
 
-The two categories of Nirāhāra consists of abandoning all worldly comforts and concentrate on Śiva in mind. He should wear a rag of cloth, a suffron cloth, Jaṭā (matted locks of hair) or shaven head, and of trees, staff and Śaiva signs. He should eat food obtained through begging moderately and reject all comforts and this observance is called Nirāhāri. Such an adherent ishimself considered Parama Śiva (Supreme Śiva). Vira Maheśvaras have some common code of conduct. They should devotes themselves to the Śiva mudras, and devotees with mind and material. One should never commit sin towards them at any cost. He should not be indifferent to a sin if committed by another person but if he is a strong well built man, punish the wrong doer. If he is not strong enough should move away from that place., He should constantly unite his _prāṇa_ with the liṅga from the moment he receives the liṅga from his guru. Every breadth is liṅga for him.75 (p.243-245)
+The two categories of Nirāhāra consists of abandoning all worldly comforts and concentrate on Śiva in mind. He should wear a rag of cloth, a suffron cloth, Jaṭā (matted locks of hair) or shaven head, and of trees, staff and Śaiva signs. He should eat food obtained through begging moderately and reject all comforts and this observance is called Nirāhāri. Such an adherent ishimself considered Parama Śiva (Supreme Śiva). Vira Maheśvaras have some common code of conduct. They should devotes themselves to the Śiva mudras, and devotees with mind and material. One should never commit sin towards them at any cost. He should not be indifferent to a sin if committed by another person but if he is a strong well built man, punish the wrong doer. If he is not strong enough should move away from that place., He should constantly unite his _prāṇa_ with the liṅga from the moment he receives the liṅga from his guru. Every breadth is liṅga for him.[^75] (p.243-245)
 
-Ādi Śaivas follow the _Aghōra-Śivācarya-paddhali_.76 Mahā-Śaivas follow the Kāraṇāgama;[^77] Ūrdhva-Śaivas, though perform, _ātmārtha_ and _parārtha pūjās_ and also perform Vedic sacrifices, are different from Ādi-Śaivas and Mahāśaivas. Among the habitations of Śivācāryas, _Dakṣiṇāraṇya_ identical with _Tillai āraṇya_ is the abode of Ūrdhva Śaivas. The _Makuṭāgam_a followed by Ūrdhva Śaivas, is a _Dakṣiṇa āgama_.78 They are Advaita vādins.
+Ādi Śaivas follow the _Aghōra-Śivācarya-paddhali_.[^76] Mahā-Śaivas follow the Kāraṇāgama;[^77] Ūrdhva-Śaivas, though perform, _ātmārtha_ and _parārtha pūjās_ and also perform Vedic sacrifices, are different from Ādi-Śaivas and Mahāśaivas. Among the habitations of Śivācāryas, _Dakṣiṇāraṇya_ identical with _Tillai āraṇya_ is the abode of Ūrdhva Śaivas. The _Makuṭāgam_a followed by Ūrdhva Śaivas, is a _Dakṣiṇa āgama_.[^78] They are Advaita vādins.
 
-The _Śiva-Jñāna-bodham_ is considered an Āgama of _Jñānāvaraṇa siddhānta_. The texts like _Mokṣa kārikā_ of Sadyojyoti, and _Tattva prakāśa_ of Bhojarājā are considered _Advaita-vādam_ by teachers.80 But Aghōra Śivāchārya treats them as Dualistic systems. The _Śiva-Jñāna-bodham_ was taught through _bhāvanā dīkṣā_ which is mentioned in _Rauravāgama_. The _Jñānānta paribhāṣa_ cites _ŚivaJñāna bodha sūtra_.
+The _Śiva-Jñāna-bodham_ is considered an Āgama of _Jñānāvaraṇa siddhānta_. The texts like _Mokṣa kārikā_ of Sadyojyoti, and _Tattva prakāśa_ of Bhojarājā are considered _Advaita-vādam_ by teachers.[^80] But Aghōra Śivāchārya treats them as Dualistic systems. The _Śiva-Jñāna-bodham_ was taught through _bhāvanā dīkṣā_ which is mentioned in _Rauravāgama_. The _Jñānānta paribhāṣa_ cites _ŚivaJñāna bodha sūtra_.
 
 śirasthāne padam āhṛtya praṇato daṇḍavat guruḥ bhāvanā dīkṣayā cainam śuddham kṛtvā yathā vidhi śivajñāna bodha śāstram dadyāt patyādi antaram anugrāhyastu yaḥ śiṣyaḥ varimāna kāya karmabhiḥ artha prāṇābhimānāni sadgurubhyo nivedayet[^81]
 
-Śiva vākya and Paṭṭinattu Piḷḷai are _naiṣṭikar_. Maṟai-jñāna Paṇḍāram and Umāpati sivācāryār had knowledge of Śaiva system but no experience of Śaiva knowledge _Jñānānta-anubhavam_.82 (p.422) Thirumūla-devar is called Thiru Mūladeva-śivācāryar and Meykaṇṭa-Śiva as Meykaṇṭa-Śivācāryār.83 \- P. 423.
+Śiva vākya and Paṭṭinattu Piḷḷai are _naiṣṭikar_. Maṟai-jñāna Paṇḍāram and Umāpati sivācāryār had knowledge of Śaiva system but no experience of Śaiva knowledge _Jñānānta-anubhavam_.[^82] (p.422) Thirumūla-devar is called Thiru Mūladeva-śivācāryar and Meykaṇṭa-Śiva as Meykaṇṭa-Śivācāryār.[^83] - P. 423.
 
 (Sanskrit) …. P. 440
 
-_Tīvrabheda Śaktipāta_ was obtained in Saumya Śaiva, by Maheśvara, Devi, Vighneśvara, and Guha.84 \- P. 351
+_Tīvrabheda Śaktipāta_ was obtained in Saumya Śaiva, by Maheśvara, Devi, Vighneśvara, and Guha.[^84] - P. 351
 
-The Agamas _Makuta_, _Devi-kālottara_, _Suprabheda_, _Sarva-Jñānottara_ are _dakṣiṇa āgamas_. The meaning expounded in them namely the _advaita_ system does not contradict Vedānta.85 P. 351.
+The Agamas _Makuta_, _Devi-kālottara_, _Suprabheda_, _Sarva-Jñānottara_ are _dakṣiṇa āgamas_. The meaning expounded in them namely the _advaita_ system does not contradict Vedānta.[^85] P. 351.
 
-Bharadvāja Mālāṅga and others who had mild _Śakti-bheda_ were taught _Mṛgendra_, and _Mātanga_ which are _Vāmāgamas_. They teach _dvaita_ system, that contradict what was taught in vedas and so they are considered _pūrva pakṣas_.86 \- p.351.
+Bharadvāja Mālāṅga and others who had mild _Śakti-bheda_ were taught _Mṛgendra_, and _Mātanga_ which are _Vāmāgamas_. They teach _dvaita_ system, that contradict what was taught in vedas and so they are considered _pūrva pakṣas_.[^86] - p.351.
 
 The Svacchandra Tanta text gives interesting data about Pāśupata Vol.V, 11th Pāḍals, p.70.
 
 (sanskrit)
 
-Veḷḷai-ambala-vāṇar discusses in a lengthy passage that the Sanskrit _Śivajñana-bodham_ is the original text and that the Tamil _Śivajñāna-bodham_ of Meykaṇṭār and the Tamil _Śivajñāna-Siddhi_ follw the original Sanskrit text.87 The original Sanskrit text is found in the chapter "_śivajñāna-vimocana-paṭala_" of _Rauravāgama_ which is the _Ādi sūtra_.88 The original _Śivajñāna-bodha_ (in Sanskrit) was taught by Śiva.89 Veḷḷi-ambala-vāṇar is following the _Jñānāvaraṇa-bhāṣya_ in Sanskrit as his tradition which he cites. The Sanskrit bhāṣya holds that Sanaka and others understood this Sūtra expounded by Śiva.
+Veḷḷai-ambala-vāṇar discusses in a lengthy passage that the Sanskrit _Śivajñana-bodham_ is the original text and that the Tamil _Śivajñāna-bodham_ of Meykaṇṭār and the Tamil _Śivajñāna-Siddhi_ follw the original Sanskrit text.[^87] The original Sanskrit text is found in the chapter "_śivajñāna-vimocana-paṭala_" of _Rauravāgama_ which is the _Ādi sūtra_.[^88] The original _Śivajñāna-bodha_ (in Sanskrit) was taught by Śiva.[^89] Veḷḷi-ambala-vāṇar is following the _Jñānāvaraṇa-bhāṣya_ in Sanskrit as his tradition which he cites. The Sanskrit bhāṣya holds that Sanaka and others understood this Sūtra expounded by Śiva.
 
 śiva vākhyena pratyāpāditatvāt pañca rūpa upapannāt liṅgāt, paraiḥ sanakādibhiḥ jagataḥ sakartṛkāryam jñāyate[^90]
 
@@ -722,9 +717,9 @@ Again the same position is asserted that the original _Śiva-jñāna-bodha_ was 
 
 _atra śiva-jñāna-bodhe harasya prabhutva ukteḥ jagat kartṛtva anādi nirmala cidrūpakena sarvajñatvādi śaktimatvam api siddam_[^91]
 
-Veḷḷi-ambala-vāṇar, says _Śiva-jñāna-bodha_ continued an _upāgama bheda_ called as _Raudravottara_ suggesting that itself is an āgama.92
+Veḷḷi-ambala-vāṇar, says _Śiva-jñāna-bodha_ continued an _upāgama bheda_ called as _Raudravottara_ suggesting that itself is an āgama.[^92]
 
-The _Svaccandra Tantra_ text gives interesting data about Pāśupata.93
+The _Svaccandra Tantra_ text gives interesting data about Pāśupata.[^93]
 
 It speaks of two schools of Pāśupata Lākula and Mausala commentary on this verse, Kṣemarājā says that one school was established by Lakulīśa, and the other established by Lakulīśa's disciple Musalendra. The difference between the two schools lies in the ultimate stage of salvation. Lakuleśa school hold the adherent of the school will reach the abode of Īśvara, _Aiśvaram-padam_ in which the emphasis seems to have been on _japa_ and _dhyāna_ (repetition of god's name and meditation.)
 
@@ -734,9 +729,9 @@ But the Musala school seems to have emphasized rituals (_kriyā pradhānā_) and
 
 It evidently shows, very early in the Pāśupata school, may be in the time of Lakulīśa, or immediately after his passing away, there arose differences in Pāśupata system, headed by Musala. It is also seen that there were other schools that sprang up like that Kāruka also mentioned in Svacchanda text. It seems that the Musala school held that the ultimate stage was Kṣemeśa, while Kāruka held it is _brahmāśrami_.
 
-There were also other schools among Pāśupata like Vaimala they follow the rituals. The text _pañcārtha pramāṇa aṣṭaka_ and hold that _Dhruva_ is the ultimate stage. This school is identical with Kāpālavratins. Kāpālikas those who through knowledge obtained by initiation become pure, and observe Kāpālavrata till the end of their life, reach their salvation presented in their respective schools. Kṣemarājā says that Mausala and Kāruka emphasize only rituals, while Vaimalas emphasize Jñāna through dīkṣā. They wore kāpāla and bone ornaments as _vrata_ and this seems to have been prescribed in _kakutāmnāya_. They also postulate _tejesa_ as the ultimate while the Lakulīś school - _īśvara tattva pada prāpti_; Mauśulaḥ - _māyātattva pada prāpti_ and Vaimalas - _īśvara tattva tejasa prāpti_.94
+There were also other schools among Pāśupata like Vaimala they follow the rituals. The text _pañcārtha pramāṇa aṣṭaka_ and hold that _Dhruva_ is the ultimate stage. This school is identical with Kāpālavratins. Kāpālikas those who through knowledge obtained by initiation become pure, and observe Kāpālavrata till the end of their life, reach their salvation presented in their respective schools. Kṣemarājā says that Mausala and Kāruka emphasize only rituals, while Vaimalas emphasize Jñāna through dīkṣā. They wore kāpāla and bone ornaments as _vrata_ and this seems to have been prescribed in _kakutāmnāya_. They also postulate _tejesa_ as the ultimate while the Lakulīś school - _īśvara tattva pada prāpti_; Mauśulaḥ - _māyātattva pada prāpti_ and Vaimalas - _īśvara tattva tejasa prāpti_.[^94]
 
-Bhairavam has also two broad divisions namely (1) the Vāma Bhairava and (2) Dakṣina Suddha Bhairava. Veḷḷi-ambala-vāṇar cites extensively from _Svacchanda Bhairava_ text. According to it, the Śiva tattva is "Sunya" as it is the laya Śiva adhishtana Veḷḷi-ambala-vāṇar is of the opinion there are many common factors between Siddhānta Śaiva and also _Svaccanda_ (Bhairava). There is a long discussion by Veḷḷi-ambala-vāṇar, on the tenets of _Svacchanda_, the _prāsāda vidhi paṭala_ referring to it as _Svacchanda Śiva prapti_. Svacchanda Bhairava is also called Sadā Śiva Bhairava. The text holds, the follower of this school, who mediates on Svacchanda Bhairava deva, will attain liberation quickly. The follower will also attain both Siddhi and Mukti.95 (P.37). There are variations in this school in _dīkṣas_ (initiation). (_dīkṣina paṭala_). The Bhairava Sadā Śiva is identified with Rudramūrti, who remains in Sadā Śiva form, and not other Rudra forms. Bhairava is also identified with Sruti antanatha Rudramūrti. The texts cites verses giving the āvaraṇas of Bhairava.96 (P.44). There are eight Bhairavas in the second āvaraṇa for Bhairava whose names and also places are also mentioned.
+Bhairavam has also two broad divisions namely (1) the Vāma Bhairava and (2) Dakṣina Suddha Bhairava. Veḷḷi-ambala-vāṇar cites extensively from _Svacchanda Bhairava_ text. According to it, the Śiva tattva is "Sunya" as it is the laya Śiva adhishtana Veḷḷi-ambala-vāṇar is of the opinion there are many common factors between Siddhānta Śaiva and also _Svaccanda_ (Bhairava). There is a long discussion by Veḷḷi-ambala-vāṇar, on the tenets of _Svacchanda_, the _prāsāda vidhi paṭala_ referring to it as _Svacchanda Śiva prapti_. Svacchanda Bhairava is also called Sadā Śiva Bhairava. The text holds, the follower of this school, who mediates on Svacchanda Bhairava deva, will attain liberation quickly. The follower will also attain both Siddhi and Mukti.[^95] (P.37). There are variations in this school in _dīkṣas_ (initiation). (_dīkṣina paṭala_). The Bhairava Sadā Śiva is identified with Rudramūrti, who remains in Sadā Śiva form, and not other Rudra forms. Bhairava is also identified with Sruti antanatha Rudramūrti. The texts cites verses giving the āvaraṇas of Bhairava.[^96] (P.44). There are eight Bhairavas in the second āvaraṇa for Bhairava whose names and also places are also mentioned.
 
 - Kapālīśa - East
 - Sikhivāhanam - South east
@@ -761,203 +756,203 @@ The work also deals with three kinds of dīkṣas in the Bhairava school. Differ
 
 All these schools were also considered as _pūrva pakṣa_ for in worship they advocate _nara-māmsa_ etc. A rare text named "_Bhairava Siddhānta Siddhi_" and "_Siddhānta rahasya_"[^97] (p.49) are also mentioned. As the school concentrates on achievement of mystic powers (siddhis) its aim is not liberation. Vāma, Bhairava and the Kaula schools reach _pisāca pada_. As in the case of Vāma and Bhairava systems, the Saumya Siddhānta also is a _tantrānuṣṭāna siddhi_.
 
-_Śivajñāna bodha_ is a sūtra text like the (Brahmā) sūtras of Vyāsa. The Tamil works _Śiva Jñāna bodha_ and the _Sivjñāna Siddhiyars_ follow the original Sanskrit text as the Source. (p.529) The authority attributed to the original source is equally applicable to its translation. Veḷḷi-ambala-vāṇar repeatedly mentions that the Sanskrit _Śiva-jñāna-bodha_ is the original text.98 (pp.578, 579, 581, 583). He also holds _Śiva-jñāna-siddhiyār_ also should be considered as _uddesa sutra_. He cites also from _Jñānāvaraṇa-bhāṣya_ in Sanskrit. It important to trace this full text giving it the authority of the Sūtra literature.
+_Śivajñāna bodha_ is a sūtra text like the (Brahmā) sūtras of Vyāsa. The Tamil works _Śiva Jñāna bodha_ and the _Sivjñāna Siddhiyars_ follow the original Sanskrit text as the Source. (p.529) The authority attributed to the original source is equally applicable to its translation. Veḷḷi-ambala-vāṇar repeatedly mentions that the Sanskrit _Śiva-jñāna-bodha_ is the original text.[^98] (pp.578, 579, 581, 583). He also holds _Śiva-jñāna-siddhiyār_ also should be considered as _uddesa sutra_. He cites also from _Jñānāvaraṇa-bhāṣya_ in Sanskrit. It important to trace this full text giving it the authority of the Sūtra literature.
 
 ## End Notes
 
-1. _Jñānāvarṇa viḷakkam and Mahā Bhāṣyam_. Veḷḷi-ambala-vāṇar, Dharmapuram Ādhīnam, Vol.I, 1957; and Vol.II, 1959. 
+[^1]: _Jñānāvarṇa viḷakkam and Mahā Bhāṣyam_. Veḷḷi-ambala-vāṇar, Dharmapuram Ādhīnam, Vol.I, 1957; and Vol.II, 1959. 
 
-2. _The tenth year Sovenir_ of Srila Sri Shanmukha desika Paramacharya Svamikal, Dharma puram, Adhinam, 1943, p.83. 
+[^2]: _The tenth year Sovenir_ of Srila Sri Shanmukha desika Paramacharya Svamikal, Dharma puram, Adhinam, 1943, p.83. 
 
-3. _Śiva-jñāna-siddhiyar in Śiva-Jñāna-bodham_, Meykaṇṭa śastram, Dharmapuram Adhīnam, 1956. 
+[^3]: _Śiva-jñāna-siddhiyar in Śiva-Jñāna-bodham_, Meykaṇṭa śastram, Dharmapuram Adhīnam, 1956. 
 
-4. _Jñānāvaraṇa-vilakkamum Mābātiamum_, of Veḷḷi-ambala-vāṇar, Dharmapuram, p.407, the following colophon is found. _dharmapura stihitē śrī jñānasambandha guru caraṇa nīṣaṇṇa sainskāra vilasad. akalamka muni bhagavadpāda hṛdaya sambaddha sadācāra upadeśa samprāpta. śivānanda rasānubhava jāta varṇāsramātita niṣṭa niṣṇāta satya jñāna iti prasiddha rajata-sabha-nātha yogi viracita. jñānā varaṇa dīpikā vyākhyāna asphaṣṭa-pada-bodhanīyē sanmārga vivēkaḥ_ 
+[^4]: _Jñānāvaraṇa-vilakkamum Mābātiamum_, of Veḷḷi-ambala-vāṇar, Dharmapuram, p.407, the following colophon is found. _dharmapura stihitē śrī jñānasambandha guru caraṇa nīṣaṇṇa sainskāra vilasad. akalamka muni bhagavadpāda hṛdaya sambaddha sadācāra upadeśa samprāpta. śivānanda rasānubhava jāta varṇāsramātita niṣṭa niṣṇāta satya jñāna iti prasiddha rajata-sabha-nātha yogi viracita. jñānā varaṇa dīpikā vyākhyāna asphaṣṭa-pada-bodhanīyē sanmārga vivēkaḥ_ 
 
-5. _sarva darśana-saṅgraha_ of Sayana Madhava Ed. Cowell E.B and Gough Parimal Publication, New Delhi, 1986. Also published by Asiatic Society of Bengal, Calcutta, 1986. 
+[^5]: _sarva darśana-saṅgraha_ of Sayana Madhava Ed. Cowell E.B and Gough Parimal Publication, New Delhi, 1986. Also published by Asiatic Society of Bengal, Calcutta, 1986. 
 
-6. _Jñāna-Siddhi_ cited in this text, _Jñānāvaraṇa viḷakkam-mābāṭiyam._ 
+[^6]: _Jñāna-Siddhi_ cited in this text, _Jñānāvaraṇa viḷakkam-mābāṭiyam._ 
    
-7. Alexis Sanderson, "History through Textual criticism" in the study of Śaivism, Pañcaratra and Buddhist yogini Tantras, _Les Sourus des Temples_, Ed. Francoise Grimmal, 1FP, Pondichery, 2001. 
+[^7]: Alexis Sanderson, "History through Textual criticism" in the study of Śaivism, Pañcaratra and Buddhist yogini Tantras, _Les Sourus des Temples_, Ed. Francoise Grimmal, 1FP, Pondichery, 2001. 
 
-8. _Kiraṇavṛt_ \- Bhatta Ramakanta's commentary On Kirana Tantra, Ed. Dominic Goodall, IFP, Pondichery, 1998. 
+[^8]: _Kiraṇavṛt_ \- Bhatta Ramakanta's commentary On Kirana Tantra, Ed. Dominic Goodall, IFP, Pondichery, 1998. 
    
-9. Arunachalan M, _Guru Jñāsambandhar_, Dharmapuram, 1981, pp.85-86. 10. lbid= p.86 
+[^9]: Arunachalan M, _Guru Jñāsambandhar_, Dharmapuram, 1981, pp.85-86. 10. lbid= p.86 
 
-11. _Meykaṇṭa Śātram_, Pub, Dharmapuram, Preface, P.V. 
+[^11]: _Meykaṇṭa Śātram_, Pub, Dharmapuram, Preface, P.V. 
 
-12. _Jñānāvaraṇa viḷakkam_ \- p.421. (This text will be referred to in its abridged form as jv. 
+[^12]: _Jñānāvaraṇa viḷakkam_ \- p.421. (This text will be referred to in its abridged form as jv. 
 
-13. _Meykaṇṭa Sāttiram_, 1956 
+[^13]: _Meykaṇṭa Sāttiram_, 1956 
     
-14. jv. p.581 இந்த சிவஞான போதம் முதல் நூல் வழியே தமிழ் சிவஞான போதமும் சிவஞான சித்தியாரும் நடத்தலின் அந்த வடமொழியான சிவஞான போதம் இரெளரவோத்தரம் என்னும் உபாகம பேதம் என்னும் பக்ஷத்தாலும் வியாச சூத்திரம் போல பிறிதொரு நூலாம் என்னும் பக்ஷத்தாலும் மூலசூத்ரம் வேண்டுதலின் மற்ற உத்தேச சூத்திரமும் தானே சித்தித்தலின் அம்முதல் நூல் போல வழிநூலுக்கும் உண்டாம் என்க. jv. p.579 
+[^14]: jv. p.581 இந்த சிவஞான போதம் முதல் நூல் வழியே தமிழ் சிவஞான போதமும் சிவஞான சித்தியாரும் நடத்தலின் அந்த வடமொழியான சிவஞான போதம் இரெளரவோத்தரம் என்னும் உபாகம பேதம் என்னும் பக்ஷத்தாலும் வியாச சூத்திரம் போல பிறிதொரு நூலாம் என்னும் பக்ஷத்தாலும் மூலசூத்ரம் வேண்டுதலின் மற்ற உத்தேச சூத்திரமும் தானே சித்தித்தலின் அம்முதல் நூல் போல வழிநூலுக்கும் உண்டாம் என்க. jv. p.579 
 
-15. _Śiva-Jñāna-bhāṣyam_ of Śiva-jñāna-yogi, Śaiva Siddhānta mahasamajam, Chennai, 1936, p.73 
+[^15]: _Śiva-Jñāna-bhāṣyam_ of Śiva-jñāna-yogi, Śaiva Siddhānta mahasamajam, Chennai, 1936, p.73 
     
-16. _Meykaṇṭa Sattiram_, 1956, p.15 
+[^16]: _Meykaṇṭa Sattiram_, 1956, p.15 
 
-17.Ibid, p.16 
+[^17]:Ibid, p.16 
 
-18. jv. p.297, p.333, and p.337 
+[^18]: jv. p.297, p.333, and p.337 
     
-19. Surendranath Das Gupta, A History of Indian Philosophy, Five volumes, Motilal Banarsi dass, Delhi, 1975. 
+[^19]: Surendranath Das Gupta, A History of Indian Philosophy, Five volumes, Motilal Banarsi dass, Delhi, 1975. 
     
-20. Ibid, vol.5, introp.XI 
+[^20]: Ibid, vol.5, introp.XI 
 
-21. _Śrī Mṛgendra Tantra-Vidyapada_ and _Yoga-pada_, with the commentary of Nārāyaṇakaṇṭa. Ed by Madhusudan Kaul Sastri, published by Meharchand Lakshman dass, New Delhi, 1982. 
+[^21]: _Śrī Mṛgendra Tantra-Vidyapada_ and _Yoga-pada_, with the commentary of Nārāyaṇakaṇṭa. Ed by Madhusudan Kaul Sastri, published by Meharchand Lakshman dass, New Delhi, 1982. 
 
-22. _Svacchanda Tantra_, with the commentory of Kṣemarājā, Five Volumes, Sampūrṇānand Sanskrit viśva vidyālaya, Vāraṇāsi, 1992. 
+[^22]: _Svacchanda Tantra_, with the commentory of Kṣemarājā, Five Volumes, Sampūrṇānand Sanskrit viśva vidyālaya, Vāraṇāsi, 1992. 
 
-23. _Śrī Svacchanda Tantram_ \- Pt.ll with the commentary of Kṣemarājā, Pub. by Sampūrṇānand Sanskrit University Vāranāsi, 1993, Paṭala 10, verses 676-681. 
+[^23]: _Śrī Svacchanda Tantram_ \- Pt.ll with the commentary of Kṣemarājā, Pub. by Sampūrṇānand Sanskrit University Vāranāsi, 1993, Paṭala 10, verses 676-681. 
 
-24. _Suṣka tarkavalambinaḥ_ (10/1149); 
+[^24]: _Suṣka tarkavalambinaḥ_ (10/1149); 
 
-25. _Svacchanda Tantram_, Paṭala ll, verse.74 
+[^25]: _Svacchanda Tantram_, Paṭala ll, verse.74 
 
-26. _Paramokṣa-nirāśā-kārikā_ in _Aṣṭa-prakaṇa_ Ed. By Pandit Vraja vallabha Dwivedi, Sampurnanad Sanskrit University, Varanasi, 1988. 
+[^26]: _Paramokṣa-nirāśā-kārikā_ in _Aṣṭa-prakaṇa_ Ed. By Pandit Vraja vallabha Dwivedi, Sampurnanad Sanskrit University, Varanasi, 1988. 
 
-27. _Makuṭāgama, Purva bhaga_, Ed. S. Swaminatha Sivacharya, South Indian Arccakar Association, Chennai — 1977, Tantravatara Patala, Verses 16 - 22 
+[^27]: _Makuṭāgama, Purva bhaga_, Ed. S. Swaminatha Sivacharya, South Indian Arccakar Association, Chennai — 1977, Tantravatara Patala, Verses 16 - 22 
 
-28. _Sarva-darśana-Saṅgraha_, of Sayana Madhava ed Cowell E.B. and Gough A.E., New Delhi, 1986. 
+[^28]: _Sarva-darśana-Saṅgraha_, of Sayana Madhava ed Cowell E.B. and Gough A.E., New Delhi, 1986. 
 
-29. _The Śaiva Paribhāṣa_ of Śivgra yogin. Text and Translation by S. Suryanaryana Sastri, Pub. University of Madras, 1982. 
+[^29]: _The Śaiva Paribhāṣa_ of Śivgra yogin. Text and Translation by S. Suryanaryana Sastri, Pub. University of Madras, 1982. 
 
-30. _Kulārṇava Tantra_, Ed. Sri John Woodroff, and M.P. Pandit, Motilal Banarsidass, Delhi, Reprint, 1984, p.35. 
+[^30]: _Kulārṇava Tantra_, Ed. Sri John Woodroff, and M.P. Pandit, Motilal Banarsidass, Delhi, Reprint, 1984, p.35. 
     
-31. Ibid. pp.30-31; 
+[^31]: Ibid. pp.30-31; 
     
-32. jv p.144 
+[^32]: jv p.144 
 
-33. _Puranānūṟu_, Ed. Svaminatha Iyer, U.V., Tyagaraja vilasam Publication, Chennai, 1962, Reprint, Verse-166. 
+[^33]: _Puranānūṟu_, Ed. Svaminatha Iyer, U.V., Tyagaraja vilasam Publication, Chennai, 1962, Reprint, Verse-166. 
 
-34. _Manimekhalai_, Svaminatha Iyer, U.V., UVS Library, Chennai, 7th Reprint, 1998. 
+[^34]: _Manimekhalai_, Svaminatha Iyer, U.V., UVS Library, Chennai, 7th Reprint, 1998. 
 
-35. _Manimekhalai_, Murray S.Rajam Edition, Chennai, 1957, Chapter 27. 
+[^35]: _Manimekhalai_, Murray S.Rajam Edition, Chennai, 1957, Chapter 27. 
 
-36. _Jñānāmṛtam_, of Vāgīsamuni with an ancient commentary (in Tamil), Ed. by Avvai S.Duraiswami Pillai, Annamalai University, Annamalainagar, 1987, 2nd Edition. 
+[^36]: _Jñānāmṛtam_, of Vāgīsamuni with an ancient commentary (in Tamil), Ed. by Avvai S.Duraiswami Pillai, Annamalai University, Annamalainagar, 1987, 2nd Edition. 
 
-37. _Śivajñāna siddhiyār_ in Meykaṇṭa Sāthram, Dharmapuram, 1956. 
+[^37]: _Śivajñāna siddhiyār_ in Meykaṇṭa Sāthram, Dharmapuram, 1956. 
 
-38. _Saṅkalpa nirākaraṇam_, of Umāpati Śivam, in Meykaṇṭa, Dharma Puram, 1956. p. 316 ஏழஞ்சு இருநூறு எடுத்த ஆயிரம் வாழுநற் சகளம் மருவா நிற்ப 
+[^38]: _Saṅkalpa nirākaraṇam_, of Umāpati Śivam, in Meykaṇṭa, Dharma Puram, 1956. p. 316 ஏழஞ்சு இருநூறு எடுத்த ஆயிரம் வாழுநற் சகளம் மருவா நிற்ப 
     
-39. jv. p.638, 867, 1051, 1106 etc., 
+[^39]: jv. p.638, 867, 1051, 1106 etc., 
 
-40. _Jñānasiddhi_, cited in Jv. p. 46, 
+[^40]: _Jñānasiddhi_, cited in Jv. p. 46, 
 
-41. jv. p.193; 
+[^41]: jv. p.193; 
     
-42. jv. p.329; 
+[^42]: jv. p.329; 
     
-43. jv. p.219 
+[^43]: jv. p.219 
     
-44. jv. p.219 
+[^44]: jv. p.219 
     
-45. _Notes on Religion and philosophy_ of Gopinath Kaviraj, Ed. Gaurinath Sastri, Sampūrṇanand Sanskrit University; Vāranāsi, 1987 - P.56-62). 
+[^45]: _Notes on Religion and philosophy_ of Gopinath Kaviraj, Ed. Gaurinath Sastri, Sampūrṇanand Sanskrit University; Vāranāsi, 1987 - P.56-62). 
 
-46. Ibid p.61; 
+[^46]: Ibid p.61; 
 
-47. jv. p.48; 
+[^47]: jv. p.48; 
 
-48. jv. p.48; 
+[^48]: jv. p.48; 
 
-49. jv. p.67; 
+[^49]: jv. p.67; 
 
-50. jv. p.67; 
+[^50]: jv. p.67; 
 
-51. jv. p.75; 
+[^51]: jv. p.75; 
 
-52. jv. p.76; 
+[^52]: jv. p.76; 
 
-53. jv. p.99; 
+[^53]: jv. p.99; 
 
-54. jv. p.101; 
+[^54]: jv. p.101; 
 
-55. jv. p.114; 
+[^55]: jv. p.114; 
 
-56. jv. p.114; 
+[^56]: jv. p.114; 
 
-57. jv. p.116; 
+[^57]: jv. p.116; 
 
-58. jv. p.167; 
+[^58]: jv. p.167; 
 
-59. jv. p.167; 
+[^59]: jv. p.167; 
 
-60. jv. p.169; 
+[^60]: jv. p.169; 
 
-61. jv. p.169; 
+[^61]: jv. p.169; 
 
-62. jv. p.171; 
+[^62]: jv. p.171; 
 
-63. jv. p.173; 
+[^63]: jv. p.173; 
 
-64. jv. p.183; 
+[^64]: jv. p.183; 
 
-65. jv. p.184; 
+[^65]: jv. p.184; 
 
-66. jv. p.189; 
+[^66]: jv. p.189; 
 
-67. jv. p.189; 
+[^67]: jv. p.189; 
 
-68. jv. p.219; 
+[^68]: jv. p.219; 
 
-69. jv. p.329; 
+[^69]: jv. p.329; 
 
-70. jv. p.173; 
+[^70]: jv. p.173; 
 
-71. jv. p.181; 
+[^71]: jv. p.181; 
 
-72. jv. p.181; 
+[^72]: jv. p.181; 
 
-73. jv. p.189, p.244 
+[^73]: jv. p.189, p.244 
 
-74. jv. p.244 the text pertaining to this school is called _Vīra maheśvara - Tantra_. 
+[^74]: jv. p.244 the text pertaining to this school is called _Vīra maheśvara - Tantra_. 
 
-75. jv. pp.243-245; 
+[^75]: jv. pp.243-245; 
 
-76. jv. p.247; 
+[^76]: jv. p.247; 
 
-77. jv. p.247; 
+[^77]: jv. p.247; 
 
-78. jv. p.245 
+[^78]: jv. p.245 
 
-79. jv. p.291; 
+[^79]: jv. p.291; 
 
-80. jv. pp.311-329; 
+[^80]: jv. pp.311-329; 
 
-81. _Raurava_ cited in jv. 421; 
+[^81]: _Raurava_ cited in jv. 421; 
 
-82. jv. p.422; 
+[^82]: jv. p.422; 
 
-83. jv. p.423; 
+[^83]: jv. p.423; 
 
-84. jv. p.351; 
+[^84]: jv. p.351; 
 
-85. jv. p.351; 
+[^85]: jv. p.351; 
 
-86. jv. p.351; 
+[^86]: jv. p.351; 
 
-87. jv. pp.578-579 
+[^87]: jv. pp.578-579 
 
-88. jv. p.581; 
+[^88]: jv. p.581; 
 
-89. jv. p.583; 
+[^89]: jv. p.583; 
 
-90. jv. p.583; 
+[^90]: jv. p.583; 
 
-91. jv. p.585; 
+[^91]: jv. p.585; 
 
-92. jv. p.579; 
+[^92]: jv. p.579; 
 
-93. _Svacchanda_, vol. 5, Patala II, verse,.70 
+[^93]: _Svacchanda_, vol. 5, Patala II, verse,.70 
 
-94. Ibid, paṭala X, 675-680 also, 1084 where in Kapālīśvara is called _Bhūteśvara_ 
+[^94]: Ibid, paṭala X, 675-680 also, 1084 where in Kapālīśvara is called _Bhūteśvara_ 
 
-95. _Svacchanda_, cited in Jv. pp. 37-45 
+[^95]: _Svacchanda_, cited in Jv. pp. 37-45 
 
-96. Ibid p.44; 
+[^96]: Ibid p.44; 
 
-97. Ibid p.49; 
+[^97]: Ibid p.49; 
 
-98. jv. pp.578, 579, 581, 583 etc., On page 583 he makes a specific mention that the Sanskrit _Śivajñāna bodhan_ is the original text or root text as முதல் நூலான சிவஞான போத சூத்திரம் and gives the first Sanskrit sutra as _strīpum napumsakādivāt jagatah kārya darśanāt asti kartā sa hṛtvaiva sṛjatyasmān prabhur haraḥ_
+[^98]: jv. pp.578, 579, 581, 583 etc., On page 583 he makes a specific mention that the Sanskrit _Śivajñāna bodhan_ is the original text or root text as முதல் நூலான சிவஞான போத சூத்திரம் and gives the first Sanskrit sutra as _strīpum napumsakādivāt jagatah kārya darśanāt asti kartā sa hṛtvaiva sṛjatyasmān prabhur haraḥ_
 
 * * *
 

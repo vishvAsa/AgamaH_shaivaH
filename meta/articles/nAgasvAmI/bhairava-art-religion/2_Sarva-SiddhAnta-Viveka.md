@@ -2,11 +2,6 @@
 title = "2\\ Sarva-Siddhānta-Vivēka"
 
 +++
-
-
-
-* * *
-
 The original text _Sarva-Siddhānta-Vivēka_ is not known to any other source apart from these citations in the commentary of _Jñānāvaraṇa-dīpikā_. It is a very lucid commentary mainly meant to be useful to an ardent student of Śaiva system.
 
 The available text begins abruptly with "_Mantravada_" also known as _Mantravāmi_, and deals with nine sub-sects of Vāma schools of the Śāktas. However from the first sub sect described it is seen that the original should have contained several chapters preceding the present portion as it mentions, "as described earlier" (_prāk ukta vartmanā_) in the very first verse.
@@ -17,15 +12,15 @@ Sayana does not seem to have known either the text or the author of this _Sarva-
 
 ## Date of Sarva-Siddhānta-Vivēka
 
-The available text is, as mentioned earlier, found only in a Tamil commentary by Veḷḷi-amabala-vāṇa-tambiran. As he went to Vāranasi and studied Śaiva Systems there he should have had access to the vast body of Sanskrit texts on Śaiva Systems there. The Sanskrit text _Sarva-Siddhānta-Vivēka_ is evidently one such work he found at Vāranasi, where it was available in 17th cent. Inquiries at Varanasi and other institutions of Sanskrit manuscripts yielded no result, as none of them are aware of such a text. It is either lost or still in some library yet to be identified. It is also not mentioned in any of the other ably and critically edited āgamas or commentaries published so far as for example the _Svacchanda-tantra_, _Kiraṇa-vṛitti_, _Aṣhṭaprakaraṇa_, _Mātanga-paramesvara_ with the commentary of Bhaṭṭa Rāmakaṇṭa etc. It does not figure also in the exhaustive bibliography I listed by Sanderson in his recent article.1
+The available text is, as mentioned earlier, found only in a Tamil commentary by Veḷḷi-amabala-vāṇa-tambiran. As he went to Vāranasi and studied Śaiva Systems there he should have had access to the vast body of Sanskrit texts on Śaiva Systems there. The Sanskrit text _Sarva-Siddhānta-Vivēka_ is evidently one such work he found at Vāranasi, where it was available in 17th cent. Inquiries at Varanasi and other institutions of Sanskrit manuscripts yielded no result, as none of them are aware of such a text. It is either lost or still in some library yet to be identified. It is also not mentioned in any of the other ably and critically edited āgamas or commentaries published so far as for example the _Svacchanda-tantra_, _Kiraṇa-vṛitti_, _Aṣhṭaprakaraṇa_, _Mātanga-paramesvara_ with the commentary of Bhaṭṭa Rāmakaṇṭa etc. It does not figure also in the exhaustive bibliography I listed by Sanderson in his recent article.[^1]
 
-Regarding the date of the composition, an interesting light is available in the text. At one place the author cites the author of "_Ratna-traya_" as his guru, and also cites two sutras from _Ratna-traya_2. _Ratna-traya_ was composed by _Śrī-Kaṇṭa-sūri_, a disciple of the well-known Śaiva commentator Śrī-Rāma-kanṭa I, who is considered different from Bhaṭṭa Rāma-kaṇṭa II, the son of Nārāyaṇa-kaṇṭa. Rāma-kaṇṭa I is is assigned to the second half of the 10th cent.3 Śrī-Kaṇṭa-sūri, ought to have lived then and written his work _Ratna-traya_ some time in the end of 10th or beginning of the 11th cent. So _Sarva-Siddhānta-Vivēka_ should be assigned to a date closer to that period, probably to the beginning of 11th cent.
+Regarding the date of the composition, an interesting light is available in the text. At one place the author cites the author of "_Ratna-traya_" as his guru, and also cites two sutras from _Ratna-traya_[^2]. _Ratna-traya_ was composed by _Śrī-Kaṇṭa-sūri_, a disciple of the well-known Śaiva commentator Śrī-Rāma-kanṭa I, who is considered different from Bhaṭṭa Rāma-kaṇṭa II, the son of Nārāyaṇa-kaṇṭa. Rāma-kaṇṭa I is is assigned to the second half of the 10th cent.[^3] Śrī-Kaṇṭa-sūri, ought to have lived then and written his work _Ratna-traya_ some time in the end of 10th or beginning of the 11th cent. So _Sarva-Siddhānta-Vivēka_ should be assigned to a date closer to that period, probably to the beginning of 11th cent.
 
 The _Ratna-traya_ has a gloss by Aghora-Śivācarya who lived in the 12th cent. We may therefore conclude that this _Sarva-Siddhanta-Vivēka_ was written earlier than Aghora Śiva, in the 11th cent. As Śrī-kaṇṭa-Sūri was a disciple of Rāma-kaṇṭa, he may be held to be a Kashmiri scholar or who had gone to Kashmir for study. As the author also of _Sarva-Siddhanta-Vivēka_ does not mention Kashmir Śaivam or any of the well known Kashmir authors, it is likely he was a scholar from Central India, as seems to be indicated by his writings. The great Ācarya Abhinava-gupta holds Madhya pradesh as the spring of Śaiva scholarship.
 
 The Tamil Commentator on _Jñāna-āvarana-dīpika_, cites extensively from the other text named _Jñāna-Siddhi_. Though some texts with this name are available it is not known whether the cited text is identical with any of them. The author of _Sarva-Siddhānta-Vivēka_ mentions this text at one place. Obviously it must be identical with the text cited in this Tamil work.
 
-It is pertinent to point out that the work _Sarva-Siddhānta-Vivēka_ and _Jñāna-Siddhi_ are important for Art-historians to identify many unidentified sculptures of mediaeval India and also correct some of the identification already provided. For example the _Sarva-Siddhānta-Vivēka_ says that the Kālāmukhas should wear red sandal paste on their forehead and decorate themselves with _sphaṭika kuṇḍalas_ (crystal ear pendents). The School holds Māhadēva as Rudra and not Bhairava. Everything emanates as an atom (_aṇu_) of Rudra who is the Primordial deity - Mūla-vigraha. Sadaśiva, the lord of the Universe, is eternal: Pasu are of three kinds while the bondage are also three kinds. Paśu adores Śiva for release from the bondage. The aspirant should observe austerities on days of _Aṣṭami_, _Caturdasi_, _Śivarātri_, and _Somavāra_. This system of observance is called _Kālāmukha-vrata_. Initiated by _Śiva-dīkṣa_ and by attaining _Śakti-pāta_ (descent of divine grace) there arise equality in action from which the soul attains freedom. Lord Śiva shines as sun while the individual shines as a star. The unity of _Ātma-Śivasamyoga_ is called _para-mokṣa_. The commentator Veḷḷi-ambala-Vāṇar adds a foot note to this _Sarva-Siddhānta-Vivēka_ portion saying Kālāmukha school is also known as _Soma Siddhāntam_.4
+It is pertinent to point out that the work _Sarva-Siddhānta-Vivēka_ and _Jñāna-Siddhi_ are important for Art-historians to identify many unidentified sculptures of mediaeval India and also correct some of the identification already provided. For example the _Sarva-Siddhānta-Vivēka_ says that the Kālāmukhas should wear red sandal paste on their forehead and decorate themselves with _sphaṭika kuṇḍalas_ (crystal ear pendents). The School holds Māhadēva as Rudra and not Bhairava. Everything emanates as an atom (_aṇu_) of Rudra who is the Primordial deity - Mūla-vigraha. Sadaśiva, the lord of the Universe, is eternal: Pasu are of three kinds while the bondage are also three kinds. Paśu adores Śiva for release from the bondage. The aspirant should observe austerities on days of _Aṣṭami_, _Caturdasi_, _Śivarātri_, and _Somavāra_. This system of observance is called _Kālāmukha-vrata_. Initiated by _Śiva-dīkṣa_ and by attaining _Śakti-pāta_ (descent of divine grace) there arise equality in action from which the soul attains freedom. Lord Śiva shines as sun while the individual shines as a star. The unity of _Ātma-Śivasamyoga_ is called _para-mokṣa_. The commentator Veḷḷi-ambala-Vāṇar adds a foot note to this _Sarva-Siddhānta-Vivēka_ portion saying Kālāmukha school is also known as _Soma Siddhāntam_.[^4]
 
 Thiruvoṟṟiyūr, a village near Madras and which is now a part of the city has an ancient Śiva temple that is celebrated by the Śaivite Tēvaram Saints. It houses an interesting sculpture of Siva -11th cent. The sculpture is seated in _Yogasana_ pose holding his front arms in _chin-mudrā_ like the _Dharma cakra pravartana mudrā_ of Buddha images. The rear arms hold _trisūla_ in the right and _kapāla_ in the left. The upper part of the trident is broken showing only the lower part. This has led to Wrong identification of the sculpture as Lakulīśa rarely seen in Tamil nadu. There is a similar portrayal in the original Vimāna of the same temple, in the _grīva_, which shows all attributes in the same manner wherein the trisūla is clearly visible. I have shown that this is a form of Dakṣiṇā-mūrti. Both from inscriptions and literature it is known that _Soma-Siddhānta_ was expounded in the temple of Thiruvoṟṟiyur in Chola times. From this text it is now possible to confirm that the sculpture represents Dakṣināmūrti the Supreme Deity of the Kālā-mukhās. There are other such identifications possible. The available text of _Sarva-Siddhānta-Vivēka_ is summarized in the following pages.
 
@@ -41,27 +36,27 @@ The following six are broadly brought under Internal systems
 
 1\. Śaivam 2. Pāśupatam 3. Vāmam 4. Bhairavam 5. Mahāvratam 6. Kālāmukham
 
-The Śaiva school mentioned at the beginning is called _Suddha Śaiva_ "pure Śaiva" and the rest five beginning with Pāśupatam are considered as _Asuddha Śaivam_ "Impure Saivam". The "Pure Śaiva" system also known as _Saumya Śaivam_, "Benign Saivam" is further divided into two parts as "_Karmānta Śaivam_" and "_Jñānānta Śaivam_", on analogy with the Mīmāmsa school called _Karma-mīmāmsa_ (_Pūrvamīmāmsa_) and _Jñāna mīmāmsa_ (_Uttara-mīmāmsa_)5. The Śaiva Siddhāntis are the followers of _Jñāna mārga_. It may be illustrated in the following chart.
+The Śaiva school mentioned at the beginning is called _Suddha Śaiva_ "pure Śaiva" and the rest five beginning with Pāśupatam are considered as _Asuddha Śaivam_ "Impure Saivam". The "Pure Śaiva" system also known as _Saumya Śaivam_, "Benign Saivam" is further divided into two parts as "_Karmānta Śaivam_" and "_Jñānānta Śaivam_", on analogy with the Mīmāmsa school called _Karma-mīmāmsa_ (_Pūrvamīmāmsa_) and _Jñāna mīmāmsa_ (_Uttara-mīmāmsa_)[^5]. The Śaiva Siddhāntis are the followers of _Jñāna mārga_. It may be illustrated in the following chart.
 
 Śaivam -> Ābhyantara-Inner -> Śaivam, Pāsupatam, Vāmanam, Bhairavam, Mahāvratam, Kālāmukham Śaivam -> Śaivam -> Saumya, Raudra Śaivam -> Śaivam -> Saumya -> Karmānta (Ritual based), Jñānāntam (knowledge based) Śaivam -> Śaivam -> Saumya -> Jñānāntam (knowledge based) -> Siddhanta Śaiva
 
 Śaivam -> Bāhya-Outer
 
-All schools of Saivas, except Siddhanta Śaivas, are called _ābhyantara_ (_Ahaccamaya_). The _Karmānta Śaivam_ based on ritual is also clubbed with the other five schools that are counted as six systems and held _Pūrva-pakṣa_6 by the Siddhāntins. There is also an alternative definition. The Kāpālika School is considered a branch of Raudra School and a separate sect and so it is counted with Pāśupata, Bhairava, Vāma, Mahāvrata and Kālāmukha schools, and designated as a Raudra school. The Śaivas (both _Karmānta_ school and _Jñānanta_ school) are counted together as Saumya schools, so the schools expounded by the Āgamas, beginning with _Kāmika_ are considered "_Siddhānta Śaiva_".
+All schools of Saivas, except Siddhanta Śaivas, are called _ābhyantara_ (_Ahaccamaya_). The _Karmānta Śaivam_ based on ritual is also clubbed with the other five schools that are counted as six systems and held _Pūrva-pakṣa_[^6] by the Siddhāntins. There is also an alternative definition. The Kāpālika School is considered a branch of Raudra School and a separate sect and so it is counted with Pāśupata, Bhairava, Vāma, Mahāvrata and Kālāmukha schools, and designated as a Raudra school. The Śaivas (both _Karmānta_ school and _Jñānanta_ school) are counted together as Saumya schools, so the schools expounded by the Āgamas, beginning with _Kāmika_ are considered "_Siddhānta Śaiva_".
 
-The Āgamas are not uniform in their approach to classifications. For example the Āgama "_Acintya-viśva-Sādākhya_"7 divides Vāma (Śākta) school into three branches as "Eastern school” (_Pūrva_), "Western school (_Paścima_) and "Beginningless” (_Anādi_). The _Acintya-viśva-sādākhya_ also divides Dakṣiṇa school into four sub schools.8
+The Āgamas are not uniform in their approach to classifications. For example the Āgama "_Acintya-viśva-Sādākhya_"[^7] divides Vāma (Śākta) school into three branches as "Eastern school” (_Pūrva_), "Western school (_Paścima_) and "Beginningless” (_Anādi_). The _Acintya-viśva-sādākhya_ also divides Dakṣiṇa school into four sub schools.[^8]
 
 1\. Mahāvratam 2. Kālāmukham odh 3. Kāpālam 4. Pāśupatam
 
 Śaiva is also divided into four schools, but Siddhānta is divided into two sub schools.
 
-The _Suprabheda-āgama_ divides the Śaiva schools9 into four as
+The _Suprabheda-āgama_ divides the Śaiva schools[^9] into four as
 
 1\. Śaivam 2. Pāśupatam 3. Lākulam 4. Sõmam
 
-However the Jñānanta school which is considered a Saumya school, is called _Parama Siddhānta_.10
+However the Jñānanta school which is considered a Saumya school, is called _Parama Siddhānta_.[^10]
 
-The Author of _Sarva-Siddhānta-Vivēka_ cites a number of verses from _Ratnatrayam_ and also from _Śiva-yoga-ratnam_,11 the later authored by Maṟai-jñānasambandar. The following Vāma Śākta schools are dealt with by the Author of _Sarva-Siddhānta-Vivēka_.
+The Author of _Sarva-Siddhānta-Vivēka_ cites a number of verses from _Ratnatrayam_ and also from _Śiva-yoga-ratnam_,[^11] the later authored by Maṟai-jñānasambandar. The following Vāma Śākta schools are dealt with by the Author of _Sarva-Siddhānta-Vivēka_.
 
 1\. Mantra-vāmi 2. Yantra-vāmi 3. Auṣada-vāmi 4. Karma-siddhānta-vāmi 5. Advaita-vāmi 6. Dvaita-vāmi 7. Miśra-vāmi 8. Vāma-siddhānti and 9. Siddhānta-vāmi
 
@@ -77,11 +72,11 @@ The importance of _Sarva-Siddhānta-Vivēka_ may be gauged against this backgrou
 
 ## The Vāma Śākta Schools
 
-The Vāma and Dakṣiṇa divisions of the Vāma school are also called the Sāmbhava school. The Bhairava School is called Dakṣiṇa. There is a third category in this school called Miśra, which is known as Yāmalam that relates to the Worship of Sapta-matas.12 Some schools of the Śaiva system are called by the Siddhāntins as"Inner-outsiders" (_ābhyantara-bāhya_ or _Ahap-puṟac-camayam_) because they adopt a life style such as eating fish, meat and drink liquor which is not acceptable to the Saumya Siddhānta Śaivas. The Śuddha Śaivas do not include them among their groups.
+The Vāma and Dakṣiṇa divisions of the Vāma school are also called the Sāmbhava school. The Bhairava School is called Dakṣiṇa. There is a third category in this school called Miśra, which is known as Yāmalam that relates to the Worship of Sapta-matas.[^12] Some schools of the Śaiva system are called by the Siddhāntins as"Inner-outsiders" (_ābhyantara-bāhya_ or _Ahap-puṟac-camayam_) because they adopt a life style such as eating fish, meat and drink liquor which is not acceptable to the Saumya Siddhānta Śaivas. The Śuddha Śaivas do not include them among their groups.
 
 ## Common factors among Vāma school
 
-It has been stated earlier that following six systems are "Inner-outsiders".13
+It has been stated earlier that following six systems are "Inner-outsiders".[^13]
 
 1\. Śaivam 4. Pāśupatam 2. Vāmam 5. Bhairavam 3. Mahāvratam 6. Kālāmukham.
 
@@ -103,7 +98,7 @@ The follower of this school will acquire both bhakti and mukti. As Yantra is dir
 
 **Karma-Siddhānta**: It may even be called the school of fatalists. It holds no one can control birth, decay, comfort, suffering, old age and death. What is to happen will always happen. So one should act rightly, and act wherever one's mind goes. However one should not be lethargic in comfort or suffering.
 
-**Siddhānta Vāmi**: The Siddhānta vāmi school rejects the eight sub-schools mentioned, that are called external schools. In this text reference is made to "_Suddha Śaivas_" who are the "_Dakṣiṇa Vāma Siddhāntins_". But as this school also advocates eating meat, fish, drinking, sacrificing human flesh as offerings etc the Siddhānta Śaivas do not accept this school of _Dakṣiṇa Vāma Siddhānta_. The Bhairava school is enumerated in _Dakṣiṇāgama_ which emanated from the Bhairava Īśāna face14 (P. 21) The Bhairava school has eight sub-divisions and six auxiliary divisions (_upabhedas_), according to the _Jñāna-Siddhi_15.
+**Siddhānta Vāmi**: The Siddhānta vāmi school rejects the eight sub-schools mentioned, that are called external schools. In this text reference is made to "_Suddha Śaivas_" who are the "_Dakṣiṇa Vāma Siddhāntins_". But as this school also advocates eating meat, fish, drinking, sacrificing human flesh as offerings etc the Siddhānta Śaivas do not accept this school of _Dakṣiṇa Vāma Siddhānta_. The Bhairava school is enumerated in _Dakṣiṇāgama_ which emanated from the Bhairava Īśāna face[^14] (P. 21) The Bhairava school has eight sub-divisions and six auxiliary divisions (_upabhedas_), according to the _Jñāna-Siddhi_[^15].
 
 **Mantra Vāmi**: The sub sect _Mantra-Vāma_ of the Śākta tradition, holds that reciting sacred hymns alone in preference to other modes will obtain liberation. The mantras used differently by them are _Namaḥ_, _Svāha_, _Svadhā_, _Vauṣaḍ_, _Vaṣaḍ_, _Humpaḍ_. There are seven cores of such great hymns called _Mahā-Mantras_ employed in all sacrifices. All of them are different manifestation of power (_Śakti_). It is called "Mantra" because the word _manana_ stands for all comprehending nature, and the Word _traṇa_ stands for bestowing grace on worldly men. When both these functions of _manana_, and _traṇa_ are unitted it is called "Mantra". It is clear from this that when one practices Mantra sādhana, by obtaining the knowledge of mantra first, Salvation is obtained in Mantra-vāda.
 
@@ -289,21 +284,36 @@ There are three kinds of _dīkṣa_ (initiations) mentioned in Āgamas namely _�
 
 There are five _yajñas_ ritual practices, namely _karma-yajña_ (action as ritual), _tapoyajña_ (penance as ritual), _japa-yajña_ (repetition of Śiva's names as ritual). _dhyana-yajña_ (meditation as ritual) and _jñana-yajña_ (knowing as a ritual). There are practitioners of one or the other of these _yajñas_ (rituals), but the ones mentioned in the above order are superior to the earlier ones. One who performs _Jñāna Yajña_ will obtain _Śiva-Sāyujya_ (unity with Śiva) very quickly out of this five _yajñas_, practicing meditation (_dhyāna yajña_) one attains _Jñāna yajña_ and crosses the ocean of worldly life _samsāra_. One who leaving aside Śiva who resides in his own self, worships him in outside images is like one having a fruit in his hand tries to obtain it by licking his elbow. _Śivajñāna_ is obtained by meditation and so one should practise meditation on Śiva. One should meditate either on the top of the head, forehead, between the eyebrows; tip of the nose, neck, heart, navel or on the permanent seat, worshipping Śiva and Pārvati devī. It is called _aṣṭāṅga yoga_ and by this, Śaiva awareness dawns and through it _Śiva Jñāna_. Śiva is pleased with such a practioner so that he is able to perceive Śiva. The liberated by this process becomes equal to Śiva. Whether in the ultimate stage, there is unity with Śiva or equality with Śiva is the question that is posed. If one attains unity with Śiva in the _Viśiṣṭādvaita_ mode, he again returns to action as in the case of _ekātmavāda_ and gets into _samsāra_. So this system does not accept the concept of unity, but holds _Śiva-sāmyatā_ i.e. equality with Śiva as the ultimate end. This system does not accept _ekātma-vāda_ or _saṅkrānta-vāda_ and accepts only equality with Śiva for the soul.
 
+
 ## End notes
 
-1. Alexis Sanderson _History through textual criticism_ in _His sources Et le Temps_ ed. Francais Grimal, Institute Francais de Pondichery, Pondichery, PP 1-47, 2001.
+[^1]: Alexis Sanderson _History through textual criticism_ in _His sources Et le Temps_ ed. Francais Grimal, Institute Francais de Pondichery, Pondichery, PP 1-47, 2001.
 
-2. Jv. p. 322. _Ratnatrayādau gurubhih eva hi; gurubhih api tathaiva pratīpādyate_. p. 321, _sūtras_ 47 and 87.
+[^2]: Jv. p. 322. _Ratnatrayādau gurubhih eva hi; gurubhih api tathaiva pratīpādyate_. p. 321, _sūtras_ 47 and 87.
 
-3. Goodall Ibid, Introduction.
+[^3]: Goodall Ibid, Introduction.
 
-4. Jv. p.184 5. Jv. p.3 6. Jv. p.2 7. Jv. p.3 8. Jv. p.3 9. Jv. p.3 10. Jv. p.3 11. Jv. p.321-323 Verses of _Śivayoga ratna_ cited are 171, 146, 21
+[^4]: Jv. p.184 
 
-12. Jv.p8 _vāmam hi sāmbhavam śāstram dakṣiṇam bhairavātmakam miśram yāmalam ityuktam sapta matṛ pradhānakam_
+[^5]: Jv. p.3 
 
-13. Jv.p.8 _śaivam pāśupatam vāmam bhairavam tu mahāvratam kālāmukham iti khyātam antaḥ samaya ṣaḍkakam_
+[^6]: Jv. p.2 
 
-14. Jv. p.21 15. Jv. p.21
+[^7]: Jv. p.3 
+
+[^8]: Jv. p.3 
+
+[^9]: Jv. p.3 
+
+[^10]: Jv. p.3 
+
+[^11]: Jv. p.321-323 Verses of _Śivayoga ratna_ cited are 171, 146, 21
+
+[^12]: Jv.p8 _vāmam hi sāmbhavam śāstram dakṣiṇam bhairavātmakam miśram yāmalam ityuktam sapta matṛ pradhānakam_
+
+[^13]: Jv.p.8 _śaivam pāśupatam vāmam bhairavam tu mahāvratam kālāmukham iti khyātam antaḥ samaya ṣaḍkakam_
+
+[^14]: Jv. p.21 15. Jv. p.21
 
 * * *
 
