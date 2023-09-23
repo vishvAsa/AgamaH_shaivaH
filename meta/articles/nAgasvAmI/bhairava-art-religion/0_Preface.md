@@ -1,0 +1,20 @@
++++
+title = "0 Preface"
+
++++
+
+I dedicate this work with admiration and veneration to the greatest Śiva yogi, His Holiness, Śrīla Śrī. Shanmukha Deśika Jñānasambandha Paramāchārya Svāmikaḷ, the Mahāsannidhānam, who is the embodiment of _Śiva Carya_, _Śiva Kriya_, _Śiva Yoga_ and _Śiva Jñāna_, and the 26th head of the Dharmapuram Adhīnam, Śaiva Mutt, Tamilnad, on his 81st birthday. I had the privilege of having his darśan and the benefit of his discourses on many occasion and found in him singular dedication to Śaiva worship and faith. His knowledge of Śaivism is unparalleled and he follows it as a way of life and not as an intellectual acquisition. He lives every minute in Śiva consciousness. His Holiness has absolute faith in Vedic, Āgamic and Purāṇic unity that is the foundation of Indian ethos and culture and strives to contribute to its proper understanding and appreciation. 
+
+He comes from the same lineage of the great Tamil Śaivism founded by Śrī Maykaṇṭār and Guru Jñāna Sambandar, the founder of Dharmapuram Adhīnam and also the great poet Kumaraguruparar and Veḷḷi-ambala-Vāṇa Tambiran, who in his masterly commentary on Jñānavaraṇa text, cites the two texts _Sarva-Siddhānta-Viveka_, and _Jñāna-Siddhi_, the two rare Sanskrit texts that form the subject matter of this study. The present Sannidhānam combines in himself all the knowledge and experiences of his predecessors, and enlivens the religious life of this region. I consider this as an honour and privilege to present this volume as an imperishable fragrant flower of offering on his 81st birthday. 
+
+This work bases its analysis on two rare Sanskrit texts, _Sarva-Siddhānta-Viveka_, (Critical understanding of all religious systems) and _Jñāna-Siddhi_ (Achievement of Knowledge), through which the meaning and identification of some of the immortal sculptures of India like Elephanta Trimurti are rexamined. After introducing as many as thirty various Schools of Saivism and "_Śākta-Vāma tantras_", the date and authorship of the Sanskrit texts are detailed both from North and South Indian perspective. 
+
+The _Jñāna-Siddhi_ is an unknown Śākta-tantra while the other text _Sarva-Siddhānta-Viveka_ is a 11th cent digest giving extraordinary insight into various Śaiva systems. No other text, so far known, gives such detailed information on Bhairava, Kāpālika, Kālāmukha, Sōma, and Other schools of Śaivam as this one. Both the texts are given in original in the available form. The _Sivacchanda Bhairava tantra_, the authoritative text is cited extensively to provide a clear picture of Vama-Sakta ideology and Bhairava School of thought. 
+
+It is seen that Madhya Pradesh (Central India) and other regions including Kashmir leaned very heavily on Bhairava worship and so their temples and sculptures are studied from that angle. The study also reinterprets and corrects many doubtful identifications of Tāntric and other sculptures displayed in great museums of the world like USA, UK, Germany, France and other Western countries, and also in Indian Museums. All the revisions are based on textual and inscriptional sources. The art and history of the ancient city of Ujjaini, which seemed to have played a leading role in Bhairava Śaivism is lucidly explained. With over 24 colour plates and Over 100 black and white illustrations, the book revolutionizes the study of the monumental art of India. 
+
+I express my profound heartfelt thanks, to Dr. Bettina Baumer, who presented me with _Svacchanda Bhairava tantra_ with kindness and encouragement. Prof. R.N. Misra, of Institute of Advanced Studies, Shimla, Dr. Kamalesa Dutt Tripati, the Director of Kalidasa Academy, Ujjaini, Sri Muhammad, Superintending Archaeologist, Bhopal Circle, Archaeological Survey of India, Prof. Dwivedi, University of Gwalior and a large number of other enthusiastic scholars who evinced great interest in this research. 
+
+I am greatly indebted to Sri. C.V.N. Ravi, the Proprietor of Jai Ganesh Offset Printers, Mylapore, in seeing this book printed neatly with great patience and dedication. 
+
+R. Nagaswamy — 5.5.2006
