@@ -1,5 +1,5 @@
 +++
-title = "+त्रिकम्"
+title = "+पूर्वाम्नायः - त्रिकम्"
 unicode_script = "devanagari"
 +++
 

@@ -10,11 +10,7 @@ We worship chi\~nchinI under the large tamrind tree from whom the sea of
 spanda has emerged.
 
 There are 4 AmnAyas:  
-pUrvAmnAya: The mukhya shaktI, the great goddess of this AmnAya is
-kuleshvarI who manifests as tribhuvaneshvarI along with
-paramAndabhairava. From this face emerged the trika tantras with
-khagendranAtha as the first of the kaula adept in this lineage. It was
-temporarily destroyed by kArttikeya.
+pUrvAmnAya: The mukhya shaktI, the great goddess of this AmnAya is kuleshvarI who manifests as tribhuvaneshvarI along with paramAndabhairava. From this face emerged the trika tantras with khagendranAtha as the first of the kaula adept in this lineage. It was  temporarily destroyed by kArttikeya.
 
 dakShinAmnAya: The great goddess of this stream is kAmeshvarI- she is
 pleasing to the eye as the young sun, yet brilliant as hundred million
