@@ -32,7 +32,8 @@ Kālāmukhas produced exemplary dvijottamas (See Lorenzen & Śrī MT’s brief w
 
 ### कापालिकाः।
 - वर्णाश्रमोल्लङ्घिनो बभूवुः।
-- "Milder versions of Kāpālikamārga may have existed. As Lorenzen & others have put it, even Kāpālika/Somasiddhānta was V1-dominated & milder strands may not have gone beyond contemplative practices in a śmaśāna, which would have a vaidika prototype in Prātṛda-Bhalla of JB."
+
+> "Milder versions of Kāpālikamārga may have existed. As Lorenzen & others have put it, even Kāpālika/Somasiddhānta was V1-dominated & milder strands may not have gone beyond contemplative practices in a śmaśāna, which would have a vaidika prototype in Prātṛda-Bhalla of JB."
 
 
 ## व्यभिचारः

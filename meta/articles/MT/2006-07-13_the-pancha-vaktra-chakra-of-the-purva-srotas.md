@@ -13,12 +13,7 @@ worship is viShNu, who shall be first invoked with the formula :
 oM bhUr viShNave AdibhUtAya sarvAdhArAya mUrtaye svAhA ||  
 He is offered an oblation in the fire or a pouring of water.
 
-The the five vedic vaktra mantras of the taittirIya brAhmaNa (or in the
-case of members of the 4th varNa their equivalents as seen in the
-sanatkumAra tantraM) along with their tantric emanations are worshipped
-while meditating upon the maNDala in the appropriate spots. The 3X13
-mighty dUtI-s or kalA-s emanating from the faces of shiva are worshipped
-in order clustered as per their AmnAya (to be detailed later).
+The the five vedic vaktra mantras of the taittirIya brAhmaNa (or in the case of members of the 4th varNa their equivalents as seen in the sanatkumAra tantraM) along with their tantric emanations are worshipped while meditating upon the maNDala in the appropriate spots. The 3X13 mighty dUtI-s or kalA-s emanating from the faces of shiva are worshipped in order clustered as per their AmnAya (to be detailed later).
 
 Then the mystic gAyatrI of maheshvara is meditated upon by the sadhAka
 to complete his upAsana .
