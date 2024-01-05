@@ -1,16 +1,12 @@
 +++
-"Catalog number" = "M00604"
-"Uniform title" = "vīraśaivasiddhāntottarakaumudī"
-"Secondary title" = [ "vīraśaivasiddhāntottarakaumudī from IFP transcript T00342",]
-Subjects = [ "śaiva", "vīraśaiva", "Paddhati",]
-Manuscript = [ "IFP transcript T00342 copied from GOML D5495",]
-Description = "viraśaiva paddhati text"
-"Publication country" = "India"
-title_iast = "vīraśaivasiddhāntottarakaumudī"
-title = "वीरशैवसिद्धान्तोत्तरकौमुदी"
+title = "वीरशैव-सिद्धान्तोत्तर-कौमुदी"
 
 +++
   
+<details><summary></summary>
+
+IFP transcript T00342 copied from GOML D549
+</details>
   
   
   
