@@ -6,10 +6,6 @@ Source: [TW](https://archive.org/details/shrI-vidyA-saparyA)
 TODO: परिष्कार्यम्
 
 
-
-་ 
-f
-
 ओं श्रीगुरुभ्यो नमः ।  
 ओं श्रीमहागणपतये नमः ।   
 ओं श्रीललितामहात्रिपुरसुन्दर्यै नमः ।
