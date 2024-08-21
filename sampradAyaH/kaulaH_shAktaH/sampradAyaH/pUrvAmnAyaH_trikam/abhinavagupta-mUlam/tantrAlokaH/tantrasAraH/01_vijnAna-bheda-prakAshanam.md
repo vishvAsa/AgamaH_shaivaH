@@ -5,10 +5,22 @@ title = "01 विज्ञान-भेद-प्रकाशनम्"
 
 ## मङ्गलम्
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 विमल-कला--ऽऽश्रयाभिनव-सृष्टि-महाजननी  
 भरित-तनुश् च पञ्च-मुख+++(→[नर]सिंह/शक्त्यादि)+++-गुप्त--रुचिर् जनकः ।  
 तद्-उभय-यामल-स्फुरित-भाव-विसर्ग-मयं  
 **हृदयम्** अनुत्तरामृत-कुलं+++(=शरीरं‌/अमाचन्द्रकला)+++ **मम संस्फुरतात्** ॥१॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+विमल-कला--ऽऽश्रयाभिनव-सृष्टि-महाजननी  
+भरित-तनुश् च पञ्च-मुख+++(→[नर]सिंह/शक्त्यादि)+++-गुप्त--रुचिर् जनकः ।  
+तद्-उभय-यामल-स्फुरित-भाव-विसर्ग-मयं  
+**हृदयम्** अनुत्तरामृत-कुलं+++(=शरीरं‌/अमाचन्द्रकला)+++ **मम संस्फुरतात्** ॥१॥
+</details>
+
 
 
 <details><summary>मुकुन्दरामः</summary>
@@ -42,10 +54,22 @@ In the Tantric doctrine, visarga is stated to be hārdhakalā, one-half of the s
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 विततस् तन्त्रालोको  
 विगाहितुं नैव शक्यते सर्वैः।  
 ऋजु-वचन-विरचितम्  
 इदं तु तन्त्रसारं ततः शुणुत ।।२।। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+विततस् तन्त्रालोको  
+विगाहितुं नैव शक्यते सर्वैः।  
+ऋजु-वचन-विरचितम्  
+इदं तु तन्त्रसारं ततः शुणुत ।।२।। 
+</details>
+
 
 <details><summary>मुकुन्दरामः</summary>
 
@@ -57,10 +81,22 @@ In the Tantric doctrine, visarga is stated to be hārdhakalā, one-half of the s
 As everyone is not capable of delving deep into the long text of the Tantrāloka, this Tantrasāra is composed in simple language. Therefore, please listen to it.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 श्रीशम्भु-नाथ+++(→तद्गुरुः, शिवश् च)+++--भास्कर-  
 चरण+++(→ज्ञान-क्रियापादौ, किरण)+++-निपात-+++(स्वरूप-विमर्शात्मक-)+++प्रभापगत-सङ्कोचम् ।  
 अभिनव-गुप्त-हृद्-अम्बुजम्  
 एतद् विचिनुत महेश-पूजन+++(→स्वात्मतया प्रत्यभिज्ञानस्य)+++-हेतोः ॥३॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्रीशम्भु-नाथ+++(→तद्गुरुः, शिवश् च)+++--भास्कर-  
+चरण+++(→ज्ञान-क्रियापादौ, किरण)+++-निपात-+++(स्वरूप-विमर्शात्मक-)+++प्रभापगत-सङ्कोचम् ।  
+अभिनव-गुप्त-हृद्-अम्बुजम्  
+एतद् विचिनुत महेश-पूजन+++(→स्वात्मतया प्रत्यभिज्ञानस्य)+++-हेतोः ॥३॥
+
+</details>
 
 <details><summary>मुकुन्दरामः</summary>
 
@@ -77,7 +113,16 @@ By falling at the feet of the venerable sun-like śambhu-nātha, whose rays have
 
 ## ज्ञानाज्ञाने
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इह +++(पूर्ण-प्रथा-रूपं)+++ ज्ञानं मोक्ष-कारणं बन्ध-निमित्तस्य अज्ञानस्य विरोधकत्वात्।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इह ज्ञानं मोक्ष-कारणं बन्ध-निमित्तस्य अज्ञानस्य विरोधकत्वात्।  
+</details>
+
 
 <details><summary>मुकुन्दरामः</summary>
 
@@ -125,11 +170,24 @@ On the other hand, the ignorance lying in the self (pauruṣa) is of the nature 
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+तत्र पौरुषम् +++(→"ब्रह्मणः पार्थक्यम्")+++ अज्ञानं  
++++(हेयोपादेय-निश्चय-पूर्वक-)+++दीक्षाऽऽदिना निवर्तेतापि,  
+किं तु **दीक्षा ऽपि** 
+**बुद्धि-गते** अन्-अध्यवसायात्मके ऽज्ञाने सति **न सम्भवति** -  
+हेयोपादेय-निश्चय-पूर्वकत्वात् +++(तेनानिश्चय--विपरीत-निश्चय--परिहारकत्वात्)+++ तत्त्व-शुद्धि--शिव-योजना--रूपाया दीक्षाया इति ।
+</details>
+
+<details><summary>मूलम्</summary>
 
 तत्र पौरुषम् अज्ञानं +++(विकल्प-स्वभावं)+++ दीक्षादिना निवर्तेतापि,  
-किं तु **दीक्षापि बुद्धि-गते** अन्-अध्यवसायात्मके +++(निर्विकल्पे)+++ ऽज्ञाने सति **न सम्भवति** -  
-हेयोपादेय-निश्चय-पूर्वकत्वात् +++([ख्: हेयोपादेयविमर्शेति; ग्: विकल्पेति च पाठः])+++ +++(तेनानिश्चय-विपरीतनिश्चय-परिहारकत्वात्)+++ तत्त्व-शुद्धि--शिव-योजना--रूपाया दीक्षाया इति ।
+किं तु **दीक्षापि बुद्धि-गते** अन्-अध्यवसायात्मके ऽज्ञाने सति **न सम्भवति** -  
+हेयोपादेय-निश्चय-पूर्वकत्वात् +++([ख्: हेयोपादेयविमर्शेति; ग्: विकल्पेति च पाठः])+++  तत्त्व-शुद्धि--शिव-योजना--रूपाया दीक्षाया इति ।
+</details>
+
+
+
 
 <details><summary>मुकुन्दरामः</summary>
 
@@ -145,25 +203,39 @@ On the other hand, the ignorance lying in the self (pauruṣa) is of the nature 
 
 The ignorance abiding in the self (pauruṣa) can be removed by means of initiation and other similar procedures.
 
-However, even initiation in the presence of the ignorance characterized by indeterminacy (anadhyavasāya) remains ineffective[^1]. This is because initiation is preceded by a determinate conviction as to what is to be accepted and what is to be rejected, and is followed by the purification of the principles (tattvas) and unification with śiva.
+However, even initiation in the presence of the ignorance characterized by indeterminacy (anadhyavasāya) remains ineffective[^1]. 
 
-[^1]:
-
-    Like ignorance, knowledge is also of two types. That knowledge called pauruṣa is free from thought constructs (vikalpa) and is of the nature of pure I-Consciousness. It shines in its fullness when - complete identification with Śiva occurs.
-
-    - That ignorance, which is also called pauruṣa, is composed of vikalpas, which are contrary, to the perfect light of consciousness on account of their being limited. This imperfect knowledge (apurṇa-jñāna) is the root cause of worldly existence. 
-    - When that ignorance called pauruṣa disappears as a result of initiation, the impurity born of past deeds, which are the cause of the body, still persists. For this reason, the knowledge of the Self (puruṣa) fails to shine forth. Defilement (mala) called kārma-mala is of the nature of prārabdha, the impressions of past deeds that will be experienced in this body. On the complete extinction of prārabdha, the body falls off, after which the pauruṣa type of knowledge becomes manifest.
-    - The order is as follows: initiation, destruction of the pauruṣa form of ignorance, competency to study agama texts, emergence of the bauddha form of knowledge, liberation while living, destruction of prārabdha, the fall of the body, and the emergence of the pauruṣa kind of knowledge and the attainment of one's own nature.+++(5)+++
-
+This is because initiation is preceded by a determinate conviction as to what is to be accepted and what is to be rejected, and is followed by the purification of the principles (tattvas) and unification with śiva.
 
 </details>
 
+<details><summary>Hemendra - comment</summary>
+
+Like ignorance, knowledge is also of two types. That knowledge called pauruṣa is free from thought constructs (vikalpa) and is of the nature of pure I-Consciousness. It shines in its fullness when - complete identification with Śiva occurs.
+
+- That ignorance, which is also called pauruṣa, is composed of vikalpas, which are contrary, to the perfect light of consciousness on account of their being limited. This imperfect knowledge (apurṇa-jñāna) is the root cause of worldly existence. 
+- When that ignorance called pauruṣa disappears as a result of initiation, the impurity born of past deeds, which are the cause of the body, still persists. For this reason, the knowledge of the Self (puruṣa) fails to shine forth. Defilement (mala) called kārma-mala is of the nature of prārabdha, the impressions of past deeds that will be experienced in this body. On the complete extinction of prārabdha, the body falls off, after which the pauruṣa type of knowledge becomes manifest.
+- The order is as follows: initiation, destruction of the pauruṣa form of ignorance, competency to study agama texts, emergence of the bauddha form of knowledge, liberation while living, destruction of prārabdha, the fall of the body, and the emergence of the pauruṣa kind of knowledge and the attainment of one's own nature.+++(5)+++
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र +अध्यवसायात्मकं+++(=निश्चयात्मकं)+++ बुद्धि-निष्ठम् एव **ज्ञानं प्रधानम्**।  
+तद् एव च +अभ्यस्यमानं,  
+पौरुषम् +++(→पृथग्-व्यक्तित्व-मलं)+++ अपि अज्ञानं निहन्ति -  
+विकल्प-संविद्-अभ्यासस्य +++(विकल्प-पर्व-भूत-)+++ अ-विकल्पान्तता-पर्यवसानात्  ।+++(4)+++  
++++(ननु विकल्पा, तज्-जनित-वेद्य-वेदकादि-भेदाः क्षणिकाः।)+++
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र +अध्यवसायात्मकं बुद्धि-निष्ठम् एव **ज्ञानं प्रधानम्**।  
 तद् एव च +अभ्यस्यमानं, पौरुषम् अपि अज्ञानं निहन्ति - विकल्प-संविद्-अभ्यासस्य +++(विकल्प-पर्व-भूत-)+++ अ-विकल्पान्तता-पर्यवसानात् +++([ख्: अविकल्पासङ्कुचितेति पाठः])+++ ।+++(4)+++  
 +++(ननु विकल्पा, तज्जनित-वेद्य-वेदकादि-भेदाः क्षणिकाः।)+++
+</details>
+
+
 
 <details><summary>Hemendra</summary>
 
@@ -176,9 +248,18 @@ Thus, the attainment of that determinative knowledge steadily abiding in the pla
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**विकल्पासङ्कुचित**-संवित्-प्रकाश-रूपो हि +आत्मा  
+**शिव-स्वभाव** इति  
+सर्वथा समस्त-वस्तु-निष्ठं सम्यङ्-निश्चयात्मकं ज्ञानम् उपादेयम् ।  
+</details>
+
+<details><summary>मूलम्</summary>
 
 **विकल्पासङ्कुचित**-संवित्-प्रकाश-रूपो हि +आत्मा **शिव-स्वभाव** इति  
 सर्वथा समस्त-वस्तु-निष्ठं सम्यङ्-निश्चयात्मकं ज्ञानम् उपादेयम् ।  
+</details>
 
 <details><summary>Hemendra</summary>
 
@@ -189,7 +270,16 @@ The Self (ātmā) is the light of consciousness (prakāśa) free from the limita
 
 ## शास्त्रम्
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तच् च +++(सुज्ञानोपादानं)+++ शास्त्र-पूर्वकम् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+तच् च शास्त्र-पूर्वकम् ।
+</details>
+
 
 <details><summary>मुकुन्दरामः</summary>
 
@@ -206,9 +296,20 @@ The attainment of this knowledge is preceded by study of the holy texts (sāstra
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 **शास्त्रं** च **परमेश्वर-भाषितम्** एव प्रमाणम्  -  
 अपर-शास्त्रोक्तानाम् अर्थानां तत्र वैविक्त्येन +++(अस्माभिः शैवैर्)+++ +अभ्युपगमात्,  
 तद्-अर्थातिरिक्त-युक्ति-सिद्ध-निरूपणाच् च।
+</details>
+
+<details><summary>मूलम्</summary>
+
+**शास्त्रं** च **परमेश्वर-भाषितम्** एव प्रमाणम्  -  
+अपर-शास्त्रोक्तानाम् अर्थानां तत्र वैविक्त्येन +++(अस्माभिः शैवैर्)+++ +अभ्युपगमात्,  
+तद्-अर्थातिरिक्त-युक्ति-सिद्ध-निरूपणाच् च।
+</details>
+
 
 <details><summary>मुकुन्दरामः</summary>
 
@@ -227,8 +328,18 @@ The holy texts are authoritative, as they are revealed by the highest Lord (Para
 
 
 
-तेन **अपरागमोक्तं** ज्ञानं तावत एव **बन्धात् विमोचकम्, न सर्वस्मात्**।   
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेन **अपरागमोक्तं** ज्ञानं तावत एव **बन्धात् विमोचकम्, न सर्वस्मात्**।+++(5)+++   
 सर्वस्मात् तु विमोचकं परमेश्वर-शास्त्रं +++(आम्नायभेदेन)+++ पञ्च-स्रोतो(-मयम्), +++(नानाविध-क्रोडीकरणेन)+++ दशाष्टादश-वस्वष्ट+++(=१०, १८, ६४)+++-भेद-भिन्नम् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+तेन **अपरागमोक्तं** ज्ञानं तावत एव **बन्धात् विमोचकम्, न सर्वस्मात्**।   
+सर्वस्मात् तु विमोचकं परमेश्वर-शास्त्रं पञ्च-स्रोतो, दशाष्टादश-वस्वष्ट-भेद-भिन्नम् ।
+</details>
+
 
 <details><summary>मुकुन्दरामः</summary>
 
@@ -254,9 +365,19 @@ On the other hand, the holy texts revealed by the Lord Parameśvara bestow relea
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+ततोऽपि सर्वस्मात् सारं षडर्ध+++(=त्रिक)+++-शास्त्राणि ।  
+तेभ्योऽपि मालिनीविजयम् ।+++(5)+++
+</details>
+
+<details><summary>मूलम्</summary>
 
 ततोऽपि सर्वस्मात् सारं षडर्ध+++(=त्रिक)+++-शास्त्राणि । तेभ्योऽपि मालिनीविजयम् ।+++(5)+++
+</details>
+
+
+
 
 <details><summary>Hemendra</summary>
 
@@ -267,12 +388,26 @@ The most perfect among them are the texts named Trika, the quintes sence of whic
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > "तद्-अन्तर्गतश् चार्थः सङ्कलय्याशक्यो निरूपयितुम् ।  
 +++(किन् तु)+++ न च +अनिरूपित-वस्तु-तत्त्वस्य मुक्तत्वं मोचकत्वं वा -  
 शुद्धस्य ज्ञानस्यैव तथारूपत्वाद्" 
 
-इति स्व्-अभ्यस्त-ज्ञान-मूलत्वात् पर-पुरुषार्थस्य+++(5)+++, तत्-सिद्धय इदम् आरभ्यते।
+इति स्व्-अभ्यस्त-ज्ञान-मूलत्वात् पर-पुरुषार्थस्य+++(5)+++,  
+तत्-सिद्धय इदम् आरभ्यते।
+</details>
+
+<details><summary>मूलम्</summary>
+
+> "तद्-अन्तर्गतश् चार्थः सङ्कलय्याशक्यो निरूपयितुम् ।  
+न च +अनिरूपित-वस्तु-तत्त्वस्य मुक्तत्वं मोचकत्वं वा -  
+शुद्धस्य ज्ञानस्यैव तथारूपत्वाद्" 
+
+इति स्व्-अभ्यस्त-ज्ञान-मूलत्वात् पर-पुरुषार्थस्य, तत्-सिद्धय इदम् आरभ्यते।
+</details>
+
+
 
 <details><summary>Hemendra</summary>
 
@@ -285,12 +420,24 @@ The highest human end has its root in knowledge, which should be practiced in on
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+**अज्ञानं** किल बन्ध-हेतुर् **उदितः**, शास्त्रे +++(आणव-मायीय-कार्म-)+++**मलं** तत् **स्मृतं**  
+पूर्ण-ज्ञान-कलोदये तद् अखिलं **निर्मूलतां गच्छति** ।  
+ध्वस्ताशेष-मलात्म-संविद्-उदये मोक्षश् च तेनामुना   
+शास्त्रेण **प्रकटी-करोमि** निखिलं यज् ज्ञेय-तत्त्वं भवेत् ॥
+</details>
+
+<details><summary>मूलम्</summary>
 
 **अज्ञानं** किल बन्ध-हेतुर् उदितः, शास्त्रे +++(आणव-मायीय-कार्म-)+++**मलं** तत् स्मृतं  
 पूर्ण-ज्ञान-कलोदये तद् अखिलं निर्मूलतां गच्छति ।  
 ध्वस्ताशेष-मलात्म-संविद्-उदये मोक्षश् च तेनामुना   
 शास्त्रेण प्रकटी-करोमि निखिलं यज् ज्ञेय-तत्त्वं भवेत् ॥
+</details>
+
+
+
 
 <details><summary>मुकुन्दरामः</summary>
 
@@ -315,11 +462,24 @@ For this reason, I shall, with the help of this text, reveal the real nature of 
 
 ## स्वभावः प्रकाशः संवित्
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 उपोद्घातः॥
 
 तत्र +इह+++(=दर्शने)+++ **स्वभाव** एव **परमोपादेयः**।  
 स च सर्वभावानां **प्रकाशरूप** एव  
 - अ-प्रकाशस्य स्वभावतानुपपत्तेः।
+</details>
+
+<details><summary>मूलम्</summary>
+
+उपोद्घातः॥
+
+तत्र +इह+++(=दर्शने)+++ **स्वभाव** एव **परमोपादेयः**।  
+स च सर्वभावानां **प्रकाशरूप** एव  
+- अ-प्रकाशस्य स्वभावतानुपपत्तेः।
+</details>
+
 
 <details><summary>मुकुन्दरामः</summary>
 
@@ -343,11 +503,23 @@ In this world, 'innate nature' (svabhāva) is the highest aim to be attained[^4]
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स च नानेकः - प्रकाशस्य तद्-इतर-स्वभावानुप्रवेशाऽयोगे स्वभाव-भेदाभावात् +++(-यथा मृद्-आकारे न सर्वदा घटाकारानुप्रवेशः)+++।  
+देश-कालाव् अपि च +अस्य न भेदकौ -  
+तयोर् अपि तत्-प्रकाश-स्वभावत्वाद्  
+इत्य् **एक एव प्रकाशः**।+++(4)+++ 
+</details>
+
+<details><summary>मूलम्</summary>
 
 स च नानेकः - प्रकाशस्य तद्-इतर-स्वभावानुप्रवेशाऽयोगे स्वभाव-भेदाभावात् +++(-यथा मृदाकारे न सर्वदा घटाकारानुप्रवेशः)+++।  
 देश-कालाव् अपि च +अस्य न भेदकौ -  
 तयोर् अपि तत्-प्रकाश-स्वभावत्वाद्  
 इत्य् **एक एव प्रकाशः**। 
+</details>
+
+
 
 <details><summary>मुकुन्दरामः</summary>
 
@@ -369,9 +541,20 @@ Time and space cannot bring or cause differentiation in it, for they possess tha
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स एव च **संवित्**।  
+**अर्थ-प्रकाशरूपा** हि संविद्  
+इति सर्वेषाम् अत्र अविवाद एव ।
+</details>
+
+<details><summary>मूलम्</summary>
 
 स एव च **संवित्**।  
 **अर्थ-प्रकाशरूपा** हि संविद् इति सर्वेषाम् अत्र अविवाद एव ।
+</details>
+
+
 
 <details><summary>Hemendra</summary>
 
@@ -383,10 +566,22 @@ And that light alone is consciousness. The nature of consciousness is to bring i
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स च प्रकाशो न पर-तन्त्रः -  
 प्रकाश्यतैव हि पारतन्त्र्यम्।  
 प्रकाश्यता च प्रकाशान्तरापेक्षितैव।  
 न च प्रकाशान्तरं किञ्चिद् अस्ति इति - **स्वतन्त्र एकः प्रकाशः**।
+</details>
+
+<details><summary>मूलम्</summary>
+
+स च प्रकाशो न पर-तन्त्रः -  
+प्रकाश्यतैव हि पारतन्त्र्यम्।  
+प्रकाश्यता च प्रकाशान्तरापेक्षितैव।  
+न च प्रकाशान्तरं किञ्चिद् अस्ति इति - **स्वतन्त्र एकः प्रकाशः**।
+</details>
+
 
 <details><summary>Hemendra</summary>
 
@@ -397,9 +592,19 @@ This shining of that light is not dependent on anything outside of itself. The s
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वातन्त्र्याद् एव च, देश-कालाकारावच्छेद-विरहाद्,  
+**व्यापको नित्यः** सर्वाकार-निराकार-स्वभावः।+++(5)+++
+</details>
+
+<details><summary>मूलम्</summary>
 
 स्वातन्त्र्याद् एव च, देश-कालाकारावच्छेद-विरहाद्,  
 **व्यापको नित्यः** सर्वाकार-निराकार-स्वभावः।
+</details>
+
+
 
 <details><summary>Hemendra</summary>
 
@@ -414,6 +619,8 @@ It is precisely because of this independence that this light is not limited by t
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तस्य च स्वातन्त्र्यम् **आनन्द-शक्तिः**,  
 तच्-चमत्कार **इच्छा-शक्तिः**,  
 प्रकाश-रूपता **चिच्-छक्तिः**,  
@@ -422,6 +629,20 @@ It is precisely because of this independence that this light is not limited by t
 इत्य् एवं मुख्याभिः शक्तिभिः युक्तोऽपि  
 वस्तुत इच्छा-ज्ञान-क्रिया-शक्ति-युक्तो +++(मातृ-मेयादि-भेदैर्)+++ ऽनवच्छिन्नः प्रकाशो  
 **निजानन्द-विश्रान्तः** शिव-रूपः। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्य च स्वातन्त्र्यम् **आनन्द-शक्तिः**,  
+तच्-चमत्कार **इच्छा-शक्तिः**,  
+प्रकाश-रूपता **चिच्-छक्तिः**,  
+आमर्शात्मकता **ज्ञान-शक्तिः**,
++++(निर्माण-कल्पनादौ)+++ सर्वाकार-योगित्वं **क्रिया-शक्तिः**  
+इत्य् एवं मुख्याभिः शक्तिभिः युक्तोऽपि  
+वस्तुत इच्छा-ज्ञान-क्रिया-शक्ति-युक्तो +++(मातृ-मेयादि-भेदैर्)+++ ऽनवच्छिन्नः प्रकाशो  
+**निजानन्द-विश्रान्तः** शिव-रूपः। 
+</details>
+
 
 
 <details><summary>Hemendra</summary>
@@ -439,11 +660,24 @@ In this way, although associated with the above principal energies, this unlimit
 
 ## स्वातन्त्र्येण प्रकाश-भेदा उपायाश् च
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स एव स्वातन्त्र्याद्  
+आत्मानं सङ्कुचितम् अवभासयन्न्  
+**अणुर्** इति उच्यते ।+++(4)+++   
+पुनर् अपि च स्वात्मानं स्वतन्त्रतया प्रकाशयति +++(क्षणिक-विकल्प-पर्वसु)+++  
+येन +++(मातृ-मेयादि-भेदैर्)+++ +अनवच्छिन्न-प्रकाश-शिव-रूपतयैव प्रकाशते ।
+</details>
+
+<details><summary>मूलम्</summary>
+
 स एव स्वातन्त्र्याद्  
 आत्मानं सङ्कुचितम् अवभासयन्न्  
 **अणुर्** इति उच्यते ।   
-पुनर् अपि च स्वात्मानं स्वतन्त्रतया प्रकाशयति +++(क्षणिक-विकल्प-पर्वसु)+++  
-येन +++(मातृ-मेयादि-भेदैर्)+++ +अनवच्छिन्न-प्रकाश-शिव-रूपतयैव प्रकाशते ।
+पुनर् अपि च स्वात्मानं स्वतन्त्रतया प्रकाशयति   
+येन +अनवच्छिन्न-प्रकाश-शिव-रूपतयैव प्रकाशते ।
+</details>
+
 
 <details><summary>Hemendra</summary>
 
@@ -458,7 +692,17 @@ Then, he manifests himself as autonomous so that he again shines as that unlimit
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्रापि स्वातन्त्र्य-वशाद् **अनुपायम्** एव स्वात्मानं प्रकाशयति,  
+**सोपायं** वा।
+</details>
+
+<details><summary>मूलम्</summary>
+
 तत्रापि स्वातन्त्र्य-वशाद् **अनुपायम्** एव स्वात्मानं प्रकाशयति, **सोपायं** वा।
+</details>
+
 
 <details><summary>Hemendra</summary>
 
@@ -469,8 +713,19 @@ In this process, he manifests his own Self by the force of his own power of free
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सोपायत्वेऽपि - इच्छा वा, ज्ञानं वा, क्रिया वा अभ्युपाय इति - त्रैविध्यं  
+शाम्भव-शाक्ताऽऽणव-भेदेन समावेशस्य तत्र चतुर्-विधम् अपि  
+एतद्-रूपं क्रमेण **अत्र +उपदिश्यते** ।
+</details>
+
+<details><summary>मूलम्</summary>
 
 सोपायत्वेऽपि - इच्छा वा, ज्ञानं वा, क्रिया वा अभ्युपाय इति - त्रैविध्यं शाम्भव-शाक्ताऽऽणव-भेदेन समावेशस्य तत्र चतुर्-विधम् अपि एतद्-रूपं क्रमेण अत्र उपदिश्यते ।
+</details>
+
+
 
 <details><summary>Hemendra</summary>
 
@@ -508,27 +763,49 @@ In this text, the salient features of the fourfold means (upāya)[^9] are gradua
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **आत्मा** प्रकाश-वपुर् एष शिवः स्वतन्त्रः,  
 स्वातन्त्र्य-नर्म-रभसेन निजं स्वरूपम् ।  
 +++(विकल्पेषू)+++ **सञ्च्छाद्य**, यत् पुनर् अपि **प्रथयेत** पूर्णं -  
 तच् च क्रमाऽक्रम-वशाद्, अथवा +++(शाम्भव-शाक्ताणव+उपायानां)+++ त्रिभेदात् ॥५॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+**आत्मा** प्रकाश-वपुर् एष शिवः स्वतन्त्रः,  
+स्वातन्त्र्य-नर्म-रभसेन निजं स्वरूपम् ।  
++++(विकल्पेषू)+++ **सञ्च्छाद्य**, यत् पुनर् अपि **प्रथयेत** पूर्णं -  
+तच् च क्रमाऽक्रम-वशाद्, अथवा +++(शाम्भव-शाक्ताणव+उपायानां)+++ त्रिभेदात् ॥५॥
+</details>
+
+
 
 <details><summary>Hemendra</summary>
 
 
 The Self with the body of light is Śiva, [who is] free.  
 He, by the delightful sport of his power of autonomy, veils his innate nature and opens up his perfect form again, either with sequence or without it, or by three distinct means.
-
-
 </details>
 
 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एहु पआस-ऊउ+++(=रूप)+++ +++([क्: पहास-ऊउ])+++ अत्ताणत+++(=आत्मनः)+++  
 सच्छन्दउ ढक्कइ णिअऊउ+++(→निजरूपम्)+++ ।  
 पूणु पअढइ+++(=प्रकटयति)+++ +++([क्: पअथु इ इति पाथः])+++ झढि+++(=झटिति)+++, अह+++(→अथ[वा])+++ कम-वस्व+++(=क्रम-वशाद्)+++,  
 एहत+++(=एष)+++ परमर्थिण शिवरसु ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+एहु पआस-ऊउ+++(=रूप)+++ +++([क्: पहास-ऊउ])+++ अत्ताणत+++(=आत्मनः)+++  
+सच्छन्दउ ढक्कइ णिअऊउ+++(→निजरूपम्)+++ ।  
+पूणु पअढइ+++(=प्रकटयति)+++ +++([क्: पअथु इ इति पाथः])+++ झढि+++(=झटिति)+++, अह+++(→अथ[वा])+++ कम-वस्व+++(=क्रम-वशाद्)+++,  
+एहत+++(=एष)+++ परमर्थिण शिवरसु ॥
+</details>
+
 
 
 <details><summary>मुकुन्दरामः</summary>
