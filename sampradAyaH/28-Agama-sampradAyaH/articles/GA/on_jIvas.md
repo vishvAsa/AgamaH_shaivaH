@@ -53,3 +53,8 @@ Vedānta’s meaning is this [siddhānta] wisdom; the siddhānta is supremely au
 All glories to Mahāmuni-Sadyojyoti, Bhaṭṭa-Nārāyaṇakaṇṭha, Bhaṭṭa-Rāmakaṇṭha, Trilocana-Śivācārya, Sarvātmaśambhū & Aghoraśiva Deśika.
 
 //End
+
+## shUnyatA
+The doctrine of emptiness refers to the idea of “dependent arising”, indicating the absence of Svabhāva (innate, independent existence) in a “thing” & that is the exact context in which the Ātmā is discussed in the Sarvajñānottara. The verses in question are not discussing “God”.
+
+When the Ātmā is declared to be “not Śūnya”, it is referring to the fact that the Ātmā has an innate existence. When it is declared to be not Aśūnya, it is referring to the fact that the Ātmā’s innate nature (from which it is non-distinct) is not something that can be cognized/known as a Vișaya, as “something that exists”.
