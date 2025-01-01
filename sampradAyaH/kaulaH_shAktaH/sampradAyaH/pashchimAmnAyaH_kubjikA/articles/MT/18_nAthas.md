@@ -30,3 +30,16 @@ These 18 tantra-s were expounded by the bhairavI as:
 The teachers of these are given as:
 
 1\. shabdarAshI; 2. samvarta; 3. khechara; 4. ananta; 5. amogha; 6. bindunAtha; 7. anAdi; 8. shukra; 9. ajAtAnanda; 10. rakta; 11. krIDAnAtha; 12. AshAnanda; 13. oghanAtha 14. rasAnanda; 15. dhvaja; 16. jvAlAdeva; 17. nagna; 18. kubjAnanda
+
+
+> unmanAbhAvAtItApy aShTAdashAnta-saMsthite ||
+shAmbhavI shambhu-sambodhinI tvam ||
+mahechChA-kriyA-j~nAne R^ijvI rekhinI kuNDalI vAmA-samj~nA-jagad-raudrI jyeShThA shivA tvam anAkhyAmbikA unmanAtIta-bhAvaugha-pada-saMsthitA ||
+sukShma-rUpA sutejArdha-chandrAkR^itis tvam trikoNAvR^itA madhyagA tvaM tri-rekhA~Nga-sambhUtA saMpUrNA madhyapIThasthitA ||
+kubjI tvam mAlinI hamsa-saMbodhanI tvaM gata randhre shiva-tattva-pIyUSha-dhArAnta-saMsiktA ||
+
+> O, who is verily beyond the state of the raging mind stationed at the end of the Eighteen!  
+You are shAmbhavI who awakens shambhu.  
+O you who are the great [shakti-s] of will, action and knowledge, the straight line (the constituent of the triangle of the yantra signifying the 3 shakti-s), the snake-like one (kundalini shakti), the one known as vAmA; raudri of the universe, the auspicious jyeShThA; you are called ambikA; You stationed on beyond the series of states transcending the raging mind.  
+You are of subtle form; you are of the form of the half-moon emitting good light; you are surrounded by triangles [and] stationed in the center; you emerge from the figure of the three lines; you are complete and reside in the central sacred seat.  
+O kubjI, you are mAlinI who awakens the gander (hamsa). When you enter the [brahma] aperture (cranial fontanelle), you are sprinkled internally by the stream of nectar of the shiva principle.
