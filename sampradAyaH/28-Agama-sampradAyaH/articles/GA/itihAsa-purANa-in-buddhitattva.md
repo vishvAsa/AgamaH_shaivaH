@@ -58,3 +58,15 @@ The side with truth on its side has to then avail itself of the evidence availab
 Anyone can come up with any number of nonsensical “traditional” accounts: Eg. Adam’s Bridge, Paraṅgi/Bhṛṅgi Malai, 1400 year old mosque in Bhārata, etc. But the way to convince at least the borderline-reasonable would be to produce solid data.
 
 What helped us win is not whether Rāma was born at Ayodhya (for nobody can “prove” this in the conventional sense even though a billion people including myself believe in it) but whether Hindus had a continuous memory of that spot as a sacred place for Rāma—a question of dry, hard fact. +++(5)+++
+
+### Modulate gurubhakti
+Gurubhakti is absolutely not a substitute for the Śruti’s commandment, “Satyam Vada/ Dharmam̐ Cara”. It ought to be subservient to the latter. You can’t make hagiographical claims of events in real time & not expect a rigorous, evidence-based assessment of such claims. 
+
+To approach claims about real-time events with brutal objectivity even if it diminishes your Guru’s legacy to an half or even a mere tenth of the original number of pages of his hagiography - This requires an “Ādhyātmika Pauruṣam/Pum̐ṣṭvam”. The lack of such objectivity comes from an “Ādhyātmika Napum̐sakatvam”. 
+
+No point boasting how much of a “giant” your sampradāya is, if that growth is based on a substantial amount of outrageously ridiculous hagiographies, false attributions & appropriations. The worship of Mithyā will not be rewarded by Īśvara. Also, given the terrible statistic for mukti/jñāna in 1 of your prasthānatrayī, boasting of numerical strength is comically unbefitting.
+
+Boasting “we are doing great work for these causes”, “we alone accomplish so much”, etc & brushing off any honest discussion is even worse. Even worse is to point out irrelevant miracles & anecdotes about your Gurus in order to impress upon others that whatever historical claims they have made must also be true.
+
+It is trite that the occurrence of Siddhis or Adbhutas do not imply omniscience or infallibility. 
+So, instead of getting upset at critiques, take a second look at this big balloon of vacuous claims, with honesty & intellectual integrity. 
