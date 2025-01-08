@@ -90,7 +90,8 @@ title = "तत्त्वानि"
 - ५-भूतात्मकम् ब्रह्माण्डम्। 
   - अत्र १०० रुद्रा रक्षकाः। 
 - गुण-तत्त्व-भुवनम्
-  - अत्र ब्रह्म-विष्णु-सहितो वीर-भद्र-सहितो रुद्र-भट्टारकः श्रीकण्ठ-रुद्रः (यस् स्वयं प्रलये राग-तत्त्वे वर्तते)। 
+  - अत्र ब्रह्म-विष्णु--सहितो वीर-भद्र--सहितो रुद्र-भट्टारकः श्रीकण्ठ-रुद्रः (यस् स्वयं प्रलये राग-तत्त्वे वर्तते)। 
+  - "Guņatattva has shraikaNTha, auma, kaumAra, vaiSNava bhuvanas. This particular shrIkaNTha lords over guNatattva but is taught to lord over puruSa & prakRti tattvas which are above guNatattva (which is just his workstation)." - GA
 - प्रकृति-भुवनम्
   - ८ रुद्राः
 - राग-तत्त्व-भुवनम्

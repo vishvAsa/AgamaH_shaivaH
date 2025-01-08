@@ -29,12 +29,18 @@ Yugas are functions of Buddhitattva.
 
 Devas are in adhikārāvasthā in pRthivītattva (brahmāņDa), in bhogāvastha in Guņatattva, in layāvastha in prakRti.  
 Guņatattva has shraikaNTha, auma, kaumAra, vaiSNava bhuvanas. This particular shrIkaNTha lords over guNatattva but is taught to lord over puruSa & prakRti tattvas which are above guNatattva (which is just his workstation).  
-In a story from shivapurANa, shiva’s retas is said to spill on earth and is gone missing when the Devas find out that skanda is growing up somewhere in secret. Skanda identifies himself as one born of prakRti and the lord of prakRti—which appear to be the guNatattva shrIkaNTha and his corresponding umA.  
+In a story from shivapurANa, shiva’s retas is said to spill on earth and is gone missing when the Devas find out that skanda is growing up somewhere in secret. Skanda identifies himself as one born of the lord of prakRti and prakRti —which appear to be the guNatattva shrIkaNTha and his corresponding umA.  
 This gave me the idea that the earth referred to here (where shiva’s retas is spilt) is in a subtle copy in the guNatattva (which is directly above the buddhitattva where deva, rAkSasa, pishAca janas are all residing as well).
 
 Surely, for devas to go from their abode to a higher abode of shrIkaNTha, a buddhi to guNa tattva voyage seems more appropriate than Devas descending from svarga in the middling echelons of brahmANDa to kailAsa in a very very low level of the brahmANDa (actual earth).
 
 The buddhitattva argument is me trying to make a feast out of scraps thrown by shiva in scripture. But theology requires pushing the envelope.
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+बुद्धितत्त्वे किमपि भुवनम् एव नोक्तं खलु? भुवनं विना कथं पौराणिककथास् तत्र प्रवर्तेरन्?
+</details>
+
 
 ## kalpa-bheda
 Additionally, the often “hackneyed” explanation of kalpabheda for such contradictory accounts could be made more interesting by being made to cohere with the idea of yugas (& Kalpas?) being functions of Buddhitattva.
