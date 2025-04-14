@@ -1,0 +1,20 @@
++++
+title = "+कुमारतन्त्रम्"
+"Text title" = "Kumara Tantram"
+"File name" = "kumAratantram.itx"
+itxtitle = "kumAratantram"
+engtitle = "kumAratantram"
+Category = "subrahmanya, tantra"
+Location = "doc_subrahmanya"
+Sublocation = "subrahmanya"
+Language = "Sanskrit"
+Subject = "philosophy/hinduism/religion"
+"Proofread by" = "Preeti N. Bhandare pnbhandare at gmail.com"
+"Description/comments" = "Edited by E.M. Kandaswami Sarma (Vykarana Shiromani) 1974"
+Indexextra = "(Scan)"
+Acknowledge-Permission = "Shridhar Ayer"
+"Latest update" = "December 27, 2022, Skanda Shashthi Pausha, Shukla Shashthi, April 25, 2023"
+"Send corrections to" = "(sanskrit at cheerful dot c om)"
+"Site access" = "https://sanskritdocuments.org"
+
++++
