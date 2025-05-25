@@ -5,7 +5,7 @@ title = "शक्तिपातः अनुग्रहः"
 ## dharma
 In the Śaiva context, your Dharma is Śivatvam (Śiva-Ness). To be omniscient, omnipresent & omnipotent is your true nature & therefore your Dharma. Again, Dharma here is not something you do but something you are.
 
-## jarna
+## karma
 Karmas get done through the bodies, instruments, world & objects (tanu-karaṇa-bhuvana-bhoga) supplied by Māyā. The fruits of Karma are also consumed by means of tanu-karaṇetyādi. As Karman is gradually burnt off by experience (whether happiness or suffering), your Karman attains pakvam (maturation) & that *individual Śakti of mala* acting on *your* particular soul, in conjunction with *your* Karman, will also get pakvatvam.
 
 ## mala-pAka
@@ -34,6 +34,14 @@ However, the subsequent ślokas from 41 to 45 give examples of non-classical tra
 - Right after the termination of one’s otherworldly tenure in heaven or some other loka, some may be liberated: aparastu padaṃ prāpto mucyate svapadakṣaye
 - Or some may fall from the otherworldly state back into this realm & then obtain mukti: kaścitkṣīṇapado bhūtvā punarāvartya mucyate
 - Some may get mukti while being situated in the transit between worlds! - kaścidadhvagatastasmin sthitvāsthitvā vimucyate
+
+Every soul, whether on a good or bad path in line with its individual karmapravāha, ***if it does not adopt vaidikadharma in order to prepare itself for eventual Śaiva-Dīkșā***, risks facing a long & indeterminate series of births ahead of it, culminating in malaparipāka, resulting in paramukti.
+
+This series differs for each soul qualitatively and different souls may require wildly different combinations of experiences before its mala ripens or at least begins to ripen.
+
+Therefore, an evil soul may have to be flung into evil yonīs for myriads of births and go through asura, piśāca or evil human births. It may be one, two or three of such births. Or it may be hundreds, thousands or even koțis of such births before it experiences malapakva and shortly goes on to manifest malaparipāka (full ripening) and attain Paramukti (union with Śiva).
+
+For other souls, after a few such births, it may develop devotion to Vaidikam, which propels it towards Śaivadīkșā as stated above.
 
 
 ### Effort
