@@ -11,7 +11,8 @@ Offer prayers to Vṛṣabha from far & then offer prayers to Bhagavān, followe
 ## somasūtra circumbulation
 It should be the default because the Āgama actually advises people against crossing the gomukhī.
 
-{{< figure src="../images/soma-sUtra-pradaxiNam.jpg" title="" class="thumbnail">}}
+![](../images/soma-sUtra-pradaxiNam.jpg)
+{caption="" class="thumbnail"}
 
 > वृषं चण्डं वृषं चैव  
 > सोमसूत्रं पुनर्वृषम्।  

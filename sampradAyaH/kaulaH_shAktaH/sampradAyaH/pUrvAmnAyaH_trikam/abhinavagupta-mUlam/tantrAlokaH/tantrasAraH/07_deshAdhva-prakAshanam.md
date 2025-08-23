@@ -130,7 +130,8 @@ In this way, one should become well acquainted with the knowledge of prakriyā. 
 
 
 ## तत्त्वानि
-{{< figure src="/AgamaH_shaivaH/images/Tattvas36.gif" title="" class="thumbnail">}}
+![](/AgamaH_shaivaH/images/Tattvas36.gif)
+{caption="" class="thumbnail"}
 
 तत्र **पृथिवी-तत्त्वं** शत-कोटि-प्रविस्तीर्णं,  
 ब्रह्माण्ड-गोलक-रूपम्।    
