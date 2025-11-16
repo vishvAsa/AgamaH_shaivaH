@@ -1,3521 +1,1035 @@
 +++
 title = "01: Defamiliarizing the Brāhmaṇical World"
 +++
-Chapter 1: Defamiliarizing the Brāhmaṇical World 
-This chapter engages with disparate and often difficult material culture and textual sources in 
-the service of conveying some rather straightforward observations that I argue form the 
-foundation of any philologically and historically responsible reading of particularized 
-premodern Indic social realities as opposed to a narrow band of prescriptive doctrinal 
-formulations. Most importantly, it seeks to demonstrate on empirical grounds some of the 
-hermeneutical stumbling blocks that are posed by our easy embrace of conceptual frameworks 
-like “Brāhmaṇism” and “Brāhmaṇical identity.” All too often, scholars of Hindu traditions 
-treat these frameworks as if their content were self-evident, internally consistent, and 
-cohesive—that is to say, as trans-historical categories—as opposed to ones that are historically 
-and geographically contingent, internally contested, and constantly and often self-consciously 
-evolving. Perhaps even more problematically, much of what has been called the sociological 
-approach to the study of premodern Indian religion conflates the reconstruction of “social 
-context” with the superimposition onto particularized archives of a delimited purportedly 
-unchanging canon of “Brāhmaṇical normativity” centered upon a single interpretive 
-perspective. To be quite blunt, as will become clear when you have reached the end of this 
-chapter, such analysis consistently derives its precepts from one specific subset of 
-Dharmaśāstra writings that are heavily inflected by the Pūrva Mīmāṃsaka exegetes. In 
-essence, denuded of historicity, a single scholastic position is envisioned as representing the 
-unchanging and virtually unchallenged heart of Brāhmaṇical tradition. The “sociological 
-imagination” then proceeds to account for “historical change” as the series of self-perpetuating 
-ideological contestations occurring within the binary of Brāhmaṇa/non-Brāhmaṇa conflict as 
-129 
-they unfold within historical time. Indian history—its distant past as much as its present—thus 
-becomes a narration of the irreconcilable clash between two ideologically static forces 
-correlated with specific social forms—whether we call these Brāhmaṇa and Śramaṇa or Hindu 
-and Subaltern—with “Brāhmaṇical normativity” almost always enacting the role of hegemon, 
-a model that matches poorly with the fluid negotiations of meaning and identity so often 
-evident in our documentary and textual records. 
-This chapter begins to hint at the possibilities presented by “undoing this binary,” for 
-it is precisely this shift in our perspective that will make the very different modes of analysis 
-that follow in subsequent chapters possible. Perhaps most pointedly, we will come to see how 
-our exclusive focus on an essentialized vision of what constitutes “the Brāhmaṇical 
-worldview”—particularly in regard to questions about the social order—has deflected our 
-attention away from more robust approaches to re-theorizing Indic sociality. In this spirit, after 
-some small efforts in the disaggregation of “Brāhmaṇical normativity,” this chapter will 
-conclude by attending to two quite significant features of much of the “classical” Brāhmaṇical 
-discourse conducted in scholastic Sanskrit that are hardly ever reflected upon outside of highly 
-specialist circles and play almost no role in our reflection on the nature of Indic religion. The 
-first feature is a tradition of empiricism with a pluralistic vision of the nature of authority within 
-which different modes of knowledge are viewed as intrinsically circumscribed by discipline, 
-community, and spatiality. The second is a widely shared, and unduly neglected, emic 
-conceptualization found in the classical sources about the transactional nature of the social 
-world and the problematic mutability of socially constructed identity. Though discourse of this 
-sort is surprisingly not uncommon in the realm of early śāstra, any consideration of such 
-conceptual frames is almost entirely absent from our literature within which “Brāhmaṇism” is 
-130 
-habitually equated with the a priori prescriptivist application of textualized norms ultimately 
-derived from a unified canon of knowledge practices rooted in the Veda. It is in this spirit that 
-the present exploration offers itself as a corrective—attending to neglected diversity within 
-what has been presumed to be a univocal discourse. 
-We might then speak of the Brāhmaṇical not as a single ideology or identity but as 
-itself existing within a spectrum of possibilities—of thick and thin expressions—offering 
-different ways of “doing Brāhmaṇa.”90 Rather than fixating on some imagined essentialization 
-as forming the defining feature of “Brāhmaṇism,” we might instead attend to sites and 
-disciplinary structures where “doing Brāhmaṇa” is most likely to occur. In alignment with M. 
-Srinivasan’s storied notion of “Sanskritization,” such a model enables us to make sense of how 
-“doing Brāhmaṇa” is not necessarily inexorably linked to “Brāhmaṇa bodied persons.”91 And 
-90While the present context is not the right place to make this argument in detail, in speaking of “doing Brāhmaṇa,” I gesture towards the productive intellectual work that could be done adapting theoretical models for the use of South Asianists from the field of gender studies, which with great felicity conceptualize and write about fluid negotiations of meaning and identity related to questions of how identity is performed and defined. 
-Over the past several decades, in problematizing our essentialized notions of gender and its normativity, scholars of gender and sexuality approaching their subject from a range of perspectives have counselled exchanging a conceptual model of fixed gender roles for one of performativity and replacing a language of “being x” with a language of “doing x,” such that we now speak not of “being gendered” but instead of “doing gender.” While not denying individual agency, much of gender theory discourse has also reoriented us towards attending as much to the sites and institutional space where, in context-specific ways that often do not cohere together, gender is negotiated and translated. Gender, from this perspective, is not some static “reality” but either made most apparent—or even effectively fashioned—during moments of transactional exchange both within and across socialities. As Candace West and Don Zimmerman have argued in their seminal work, “Doing Gender,” which is largely responsible for initiating such conversations: “Gender depictions are less a consequence of our ‘essential sexual natures’ than interactional portrayals of what we would like to convey about sexual natures, using conventionalized gestures.” Candace West and Don Zimmerman, “Doing Gender,” Gender and Society 1, no. 2 (1987): 130. Since its publication in 1987, the conceptual model first offered by “Doing Gender” has sparked a number of interesting critiques and conversations, which have extended this type of thinking to questions of race and, to some extent, class. There is much here indeed from which the scholar of South Asia—whether or not their focus of inquiry relates specifically to issues of gender—would benefit. For a taste of some of these refinements, see Sarah Fenstermaker and Candace West, ed., Doing Gender, Doing Difference: Inequality, Power, and Institutional Change (New York: Routledge, 2002). 91As first articulated in the writings of the anthropologist M. Srinivasan in his structuralist ethnographic study, Religion and Society among the Coorgs of South India: “The caste system is far from a rigid system in which the position of each component caste is fixed for all time. Movement has always been possible, and especially so in the middle regions of the hierarchy. A low caste was able, in a generation or two, to rise to a higher position in the hierarchy by adopting vegetarianism and teetotalism, and by Sanskritizing its ritual and pantheon. In short, it 
-131 
-if Brāhmaṇa is a thing one does at least as much as thing one is, it also follows that we cannot 
-reduce all of the activities of the “Brāhmaṇa-bodied” to a simple expression of some unitary 
-“Brāhmaṇical ideology.” 
-Undoing the Binary 
-The royal road (rājapath) in the administrative center of New Delhi connects the India Gate to 
-the palatial Rashtrapatibhavan, which now92 houses the nation’s president. Designed in the 
-waning days of the British Rāj by the exceptionally talented—to say nothing of opinionated— 
-architect Edwin Lutyens, “Luytens’s Delhi” was constructed with the explicit intent of 
-translating into space a transparent message of imperial dominance.93 In this spirit, the stately 
-but now vacant pavilion that sits behind the India gate once framed a seventy-two-foot-tall 
-image of the British monarch King George V. The original intent was that the royal road would 
-run from George’s feet straight past the gardens into the Durbar Hall. It was in this royal 
-audience chamber that the Viceroy of India would receive visitors on the British king’s behalf. 
-Edwin Lutyens was the son-in-law of the viceroy of India, Robert Bulwer-Lytton, who 
-promulgated the Vernacular Press Act—commencing the censorship of “sedition in the oriental 
-languages.” Quite unlike his theosophically inclined wife, who would become an early 
-promoter of Krishnamurthy, Edwin Lutyens shared many of his father-in-law’s prejudices 
-towards Indian people and Indic culture. It was in such a spirit that during his first visit to the 
-took over, as far as possible, the customs, rites, and beliefs of the Brahmins, and adoption of the Brahminic way of life by a low caste seems to have been frequent, though theoretically forbidden. This process has been called ‘Sanskritization’ in this book, in preference to ‘Brahminization’, as certain Vēdic rites are confined to the Brahmins and the two other ‘twice-born’ castes.” M. Srinivasan, Religion and Society among the Coorgs of South India (Calcutta: Asian Publishing House, 1965 [1952]), 30. 92In the inordinate amount of time that elapsed between the composition of this chapter in 2018 and its release, radical transformations within Indian politics have all but obliterated the built landscape under discussion, placing this critique of its ideological excesses in a very different light than was intended. 93On Lutyens and Delhi, see for example Andrew Hopkins and Gavin Stamp, ed., Lutyens Abroad (Rome: British School at Rome, 2002), 181–207; Jane Ridley, The Architect and his Wife: A Life of Edwin Lutyens (London: Chatto & Windus, 2002). 
-132 
-sub-continent in 1912, in response to the suggestion that his forthcoming commissions for new 
-structures to be built in India should draw upon long standing Indic traditions, Lutyens 
-responded: 
-Personally, I do not believe there is any real Indian architecture or any great tradition. . . . And as for the Hindoo tradition, Hindon’t I say. It is not architecture—the best just [the work of] clever children, though I own to some of their detail being beautiful.94 
-While by 1929 his attitudes towards Indic material culture had softened considerably, 
-in designing the center of India’s new capital, Lutyens remained adamant that while the 
-buildings he envisioned might be enlivened by certain decorative motifs—such as elephants 
-and bells—drawn from an Indic visual repertoire, it was vital that the core structural and 
-conceptual elements of the structure remain unambiguously and undilutedly classical and 
-European. To ensure the pedigree of his project, Lutyens expressly forbid the employing of 
-traditional Indian draftsmen in the drawing up of the architectural plans for the new urban 
-center, lest their values inflect or infect the final product. This vision in which the Indic stood 
-as mere after-thought continued to animate the final implementation of Lutyen’s design, with 
-a single but telling exception. For when it came time to crown the Rashtrapatibhavan with a 
-dome, Lutyens’s design offered a visual synthesis deliberately marrying East and West. 
-Succinctly, aesthetic and structural features from the pantheon of Rome, commissioned by the 
-emperor Hadrian in the second century of the Common Era, were combined with elements 
-from the great Buddhist stūpa at Sāñcī, inaugurated by the Emperor Asoka in the third century 
-before the Common Era. In other words, when Lutyens reached back into the Indic past in 
-94While secondary sources seem to disagree about the original source of this remark, which Lutyens appears to have recycled several times, Tristram Hunt, in his lively new history of the contributions of colonialism to urbanization, ascribes Lutyens’s comments to a letter written to Lady Emily in 1912 during Lutyens’s first tour of India. See Tristam Hunt, Cities of Empire: The British Colonies and the Creation of the Urban World (New York: Metropolitan Books, 2014), 365. 
-133 
-search of a suitably imperial idiom, he homed in on a visual language representative of a long 
-dead civilization. 
-Rather ironically, given that his government and its successors would become all but 
-synonymous with the place, Pandit Jawaharlal Nehru was not fond of Lutyens’s Delhi, which 
-seemed to speak to him in an ideological vocabulary hostile to the Indian people and anathema 
-to democratic values. At his direction, the durbar hall was for a time denuded of its royalist 
-pretensions through converting it into a museum for Indian antiquities—especially free- 
-standing sandstone sculptures from premodernity—and opening it up to the public. It was only 
-in the 1960’s, in a somewhat delayed spirit of anti-colonial self-reflection and nationalist self- 
-assertion, that the Indian state reimagined this landscape. Almost simultaneously, the statute 
-of King George was removed from the grounds and the durbar resumed its function as an 
-audience hall for receiving foreign dignitaries, not on behalf of an Indian king, but of a 
-democratic polity. So that it could be made to accommodate such pomp and circumstance, the 
-gallery of Indian antiquities housed within the Durbar Hall were removed to the National 
-Museum—again with a single exception. Motivated by some combination of a simple nod to 
-aesthetics and the explicit intent of communicating a message, a single standing image of the 
-historical Buddha Siddhārtha Gautama, crafted from red sandstone in Mathurā in the fifth 
-century of the Common Era, was not merely retained but installed in the most prominent of 
-places. In the space where a king would preside in audience before his people, down into the 
-present day, at the center of Indian government the Buddha still stands watching over the 
-nation. 
-134 
-Rashtrapatibhavan, Durbar Hall. R: Detail of Buddha. L: Durbar Hall presided over by Buddha in center. 
-As we will see momentarily, Siddhārtha standing in the halls of government represents 
-a transposition into shared lived space of a conceptual structure integral to how much of the 
-historiography composed in India after Independence imagines and emplots its premodern past 
-in a manner that has palpable consequences for its present. Outside of Himachal, Assam, and 
-Ladakh, we must remember, up until Independence, Buddhism had been a marginal force on 
-the Indian subcontinent for more than half a millennium. In any case, it is vital that we 
-recognize that the Buddha that stands in the Durbar Hall is not in any meaningful sense the 
-historical Siddhārtha Gautama, whether as the teacher of dependent origination, the symbolic 
-focus of transregional monastic habitus, or the terrifying lord who dwells in the vaginas of a 
-thousand women. Instead, untethered from these histories, this Buddha is best understood as 
-an act of the modern political imagination. 
-When such an articulation remains set in such a domain—one that is proscriptive and 
-not descriptive—it is downright uncharitable to begrudge Indian nationalists of various 
-135 
-persuasions for doing what nationalists have been doing for centuries, namely, rummaging 
-around in the past’s attic in search of an internally coherent “native” symbolic vocabulary 
-around which to marshal popular sentiment and affect in the service of specific ends. In his 
-brilliant adaptation and digestion of the work of the Dutch historian Ivo Schöffer, in reference 
-to the Dutch intellectual project in the early sixteenth century of seeking their own roots a 
-thousand years in the past among the barbarian tribe known of as the Batavians that 
-unsuccessfully resisted Roman rule, Simon Schama has written of the strategic use of such 
-quasi-historical elements as providing “a retrospective formulation of criteria for national 
-legitimacy.”95 As Schama has shown, in resisting the rule of the Holy Roman Emperor after 
-the death of Charles V and asserting in its place a right to localized republican rule, the proto- 
-technocratic, proto-capitalist burghers of the Low Countries in the era before Rembrandt 
-reimagined themselves as the direct lineage descendants of an axe welding, bear skin wearing, 
-tribe of Batavian noble savages and the heirs to their system of governance. Moreover, they 
-did this in spite of the fact that the people in question had effectively ceased to exist by the 
-second century of the Common Era. In fact, the Batavians are only known to us as a result of 
-their failed attempt in 69 CE at resisting oppressive direct Roman Rule, which they claimed 
-was in violation of a longstanding social contract between their people and the imperium. 
-Schama argues that—as absurd as this identification might seem on the surface—what the 
-Dutch sought to locate in this deep imagined past was no mere hoary cultural patrimony. 
-Instead, they cogently sought out structured precedents—almost analogous to case law—that 
-SSee chapter 2, “Patriotic Scripturalism,” especially pg. 68–80. Simon Schama, The Embarrassment of Riches: An Interpretation of Dutch Culture in the Golden Age (New York: Random House, 1988). Schama presents this formulation on page 80. 
-136 
-provided at once a justification for their recently undertaken actions as well as a guide for 
-future strategic choices. 
-As a glimpse at the relevant passages in Tacitus’s Historiae—our only source for 
-knowledge of the Batavians and indeed a work that itself had only surfaced in the Low 
-Countries at the end of the fifteenth century—quickly makes evident, despite the obvious 
-incongruities between the Dutch Burghers and their somewhat feral supposed ancestors at the 
-level of comportment and affect, antiquarian Batavia was otherwise an almost perfect resource 
-for these purposes.96 This is mostly the case because the Historiae does not depict the Batavians 
-with the aim of offering a quasi-anthropological portrait—of the sort Tacitus often gives us in 
-the Germania—of a specific historicizable community. Instead, as lead by the virtuous, brave, 
-and altogether doomed Julius Civilis, Batavian values and culture serve as an idealized 
-rhetorical foil within Tacitus’s own morality play. In a pointed rebuke to what Tacitus sees as 
-the decadence and insincerity of urban and imperial Rome, Civilis and his society almost 
-exclusively instantiate the value of human autonomy and the necessity of personal integrity, a 
-position most iconically instantiated in Civilis’s surely apocryphal final celebration of freedom 
-as the highest aim in human life. Significantly, all of the aforementioned virtues, from Tacitus’s 
-perspective, had originally animated Republican Roman society but in the present dark age 
-were now only adhered to in the unspoiled hinterland. In short, the Roman historian saw the 
-encounter between Batavia and Rome not as a moment of cultural exchange with the Other 
-wherein something new of value might be learned, but simply as holding up a mirror in which 
-the Roman citizen might see his better self. Though the details need not concern us here, in 
-terms of the geopolitics of the sixteenth century, the inhabitants of the Low Countries similarly 
-96The Batavians resurface throughout Book Four of Tacitus’s Historiae, from 4.13–4.79. 
-137saw themselves breaking away from a self-styled “Holy Roman Emperor” and sought to 
-distance themselves from the political and social world in which they until recently been 
-willing participants. In short, for the Dutch, part of the allure of being secretly and 
-surreptitiously Batavian was it amounted to an assertion (however historically preposterous) 
-of never “really” being Roman. As historians of political philosophy have made plain over the 
-past several decades, in the process, for the first time in “modern European” history, taking 
-figures like Civilis as their inspiration, the Dutch composed theoretical as well historical 
-reflections on the nature of democratic rule and representative governance that laid the 
-foundation for the modern world and proved profoundly influential on the framers of the 
-American Constitution. 
-The reason the work you have in your hands—which is certainly not about Buddhism 
-and largely not concerned with what we typically think of when we speak of modernity—has 
-commenced with this seeming digression on the political imagination and its relation to the 
-question of historicity is that it is my assertion that the Indian nationalist project has returned 
-to the past in a manner that makes not Buddhism—but a certain image of the Buddha—as its 
-own iteration of the Batavians. And just as Dutch held up the Batavians—an imagined 
-community if ever there was one—and against considerable evidence to the contrary offered 
-them as evidence that they were “never really Roman,” the project with which we are 
-concerned none too subtly implies “we were never really ‘Hindu,’” with that contested term 
-standing in anachronistically for a variegated host of civilizational values. 
-Even if one is not terribly invested in exploring this phenomenon at any length for its 
-own sake, grappling with implications of this choice are a necessity if one’s aim is to exorcise 
-the ghosts of the present in the service of a responsible study of the past on its own terms. As 
-138 
-we will see in a moment, to say that the modern Indian state resumes or renews an intellectual 
-genealogy rooted in an imagined śramaṇa democratic culture—the so-called world of the 
-gaṇa-saṅgha, which is said to have disappeared by the end of the fourth century CE—is 
-tantamount to proclaiming that the social, religious, and discursive formations that are 
-presumed to replace it have no meaningful place within the genealogy of the Indian state. In 
-fact, it carries with it—implicitly as well as explicitly—an emplotment that projects into the 
-discourses of the past the assumption that the values and ideals of the post-gaṇa-saṅgha age 
-can be reduced to systematic inversions of proto-democratic norms and principles, choices that 
-result in a withering away of the types of institutional spaces the modern state holds dear. When 
-we read these archives solely in search of identifying and plucking out antecedents—however 
-repellent—of something familiar, the elements we have selected tend to assume an outsize 
-importance and the rest is treated as so much dross. Often, as we shall see, our interest is 
-disproportionate to the rhetorical, conceptual, theological or political work such elements are 
-performing in situ. Succinctly, as has gradually become recognized even by its proponents, 
-this mode of historiography simplistically places much of the pre-Islamic history of the 
-subcontinent in direct opposition to the present. Perhaps most pertinently for our purposes, 
-without divesting from this type of domineeringly presentist imagination, it becomes all but 
-impossible to perceive the much neglected Indian medieval—our actual focus of study— as 
-something other than the waiting room of a specific teleology or some awful misbegotten 
-mistake the nation was birthed to emend. 
-For this reason, the present chapter sets out to execute with some concision a series of 
-discrete but interrelated tasks. We will begin by exploring the historiographical model 
-articulated by Romila Thapar since the nineteen eighties, which treats the Gupta-Vākāṭaka era 
-139 
-as “a threshold age” during which Indic society began to divest itself of the representative and 
-proto-rationalist sensibility of saṅgha sociality. It is important to note that many of the 
-individual elements that will make up the critique of this deeply influential model on both 
-empirical and theoretical grounds have actually been articulated in the writings of Thapar’s 
-own students as well as, to some degree, compositions by Thapar herself. Nevertheless, outside 
-of the specialist circles of Gupta-Vākāṭaka studies, this model has remained so deeply 
-influential for the emplotting of pre-colonial Indian political and religious history that it must 
-be wrestled with. As we will see, even if we confine ourselves to the familiar evidence in the 
-wider secondary literature, a philologically responsible reading of these archive and an 
-archeologically sound reading of their corresponding material culture complicates any 
-imagined notions of a one-to-one correspondence between particular discursive articulations— 
-what is often crudely labelled “ideology”—and the valorization of specific social structures. 
-Succinctly, not only do we find Buddhists engaged in what is deemed ideologically 
-“Hindu” behavior, but there is scarcely any reason to believe that the iconic quasi- 
-representative institutions identified with the gaṇa and saṅgha along with the mercantile and 
-speculative cultures they supposedly fostered suffered decline with the advent of “Hindu” rule. 
-In fact, as we shall explore more fully in chapter 2, any periodization of community 
-representation and guild systems as superseded by the royal rule of a newly exploitative state 
-runs aground of the persistent, even much expanded, attention to such institutions present 
-within the Sanskrit traditions of Dharmaśāstra well into the thirteenth century. That such 
-concerns are no mere scholastic affectation but correspond to the situation “on-the-ground” 
-throughout the subcontinent is rendered unmistakable by the continued proliferation of these 
-same terms of art, often accompanied by elucidative descriptions of the specific quotidian 
-140 
-matters that fall under their purview in medieval documentary records preserved in a multitude 
-of languages. In a similar spirit, the evidence for “economic decline” occurring in tandem with 
-monarchical rule is much overblown. Far from valorizing classical civilization or defending 
-the ethics of a Hindu golden age, the intention here is simply to show that our “hypertropically 
-presentist intellectual agendas” aligns poorly with a historical record that, invested in its own 
-decidedly premodern worldview, is largely uninterested in answering any of the questions we 
-incessantly keep asking of it. 
-From critical reflection on historiography, at long last, we will then turn to some the 
-texts themselves. Attending to the “Brāhmaṇical” discourse “on the threshold,” we will query 
-our sources in regard to their own understandings concerning the nature of social reality—or 
-what we might call “social theory.” In particular, by looking at the writings of Skandasvāmin, 
-the oldest surviving commentator on the Vedas, Śabara and Kumārila, those storied Pūrva 
-Mīmāṃsaka articulators of orthopraxy, and the seemingly heterodox yet nonetheless resolutely 
-“Brāhmaṇa,” Pāśupata theologian Kauṇḍinya, we will encounter at least the on the surface an 
-astounding degree of heterogeneity at the very moment when “Brāhmaṇism” is supposedly 
-consolidating its post-Vedic identity. 
-Quite simply, we will find that, on the surface, what it comes to understanding the 
-nature of reality, the role of texts, and what constitutes a human higher good, these people 
-agree about very little. It is thus all the more significant that a major point of convergence is in 
-their shared understanding of nascent theory of the social world grounded in quotidian 
-institutions, a realm that in Skandasvāmin’s words is governed “by an unending 
-transactionality.” In violation of the normative assumptions that govern so much of our 
-literature, this Indic conceptualization of the social is inflected by—but by no means reducible 
-141 
-to—questions of caste and the ideology of varṇāśramadharma, which seems instead to operate 
-as a second order mechanism governing the distribution of social goods as well as social worth. 
-Our somewhat cursory introduction to these historiographically driven conundrums as well as 
-an initial recovery of some of the decidedly more constructive emic formulations of sociality 
-as they operate in the context of classical South Asian religion and society will lay a foundation 
-essential to the process of discovery that animates the coming chapters. There, we will look in 
-more detail at the social role of quotidian textuality, especially in its relation to law, the 
-juridical foundations of epistemic and religious diversity, the way early medieval values are 
-conveyed by the material culture, the life-world of the people who managed and quite literally 
-built such institutions, something of the history of their development and of the precise 
-circumstances under which this episteme was deliberately dismantled. 
-The Past is Not Precedent: “Secular” Snakes or “Secular” Mongooses? 
-Compiling talks delivered over the course of several decades that offer a laudable defense of 
-the liberal democratic Indian state against the forces of communalism, in Indian Society and 
-the Secular, the renowned Indian historian Romila Thapar returns to the research program with 
-which she began her career in search of explicit lessons that the Indian past might bestow on 
-the Indian present.97 In From Lineage to State: Social Formations in the Mid-First Millennium 
-B.C. in the Ganga Valley, Thapar had offered a groundbreaking account of the process of early 
-97Romila Thapar, Indian Society and the Secular (New Delhi: Three Essays Collective, 2016). Our focus is on the first third of the text, which reprints a series of addresses, “The Role of Religion in Political Conflicts,” given at Uppsala in March 1995, “Indian Society and the Secular” at Jamia Millia Islamia in August 2015, “Redefining the Secular Mode for India” at the Mayday Café in September 2012, as well as the essay “Is Secularism Alien to Indian Civilization,” reprinted from T. Srinivasan, The Future of Secularism (Delhi: Oxford University Press, 2007). All of these works, in other words, involve Thapar speaking to broader audiences in the mode of popularizing public intellectual as opposed to specialist academic. The varied contexts of their delivery, however, including venues not part of the world of the South Asian Academy, are indicative of the fact that their author sees herself as presenting a conceptual and ideological framework she personally finds valuable as opposed to deploying a heuristic pedagogical tactic that serves the particular needs of the Indian undergraduate and graduate student body. 
-142 
-urbanization in North India that for decades of Indian students of history and social sciences 
-has become as familiar as catechism.98 Against an earlier nationalist perspective that 
-anachronistically projected sophisticated social formations into the deep past, Thapar stressed 
-the discontinuity between the insular hereditary patterns of knowledge and property 
-transmission in the Vedic world and the nascent cosmopolitan logic of pre-classical janapada 
-territories. Otherwise closely aligned with the structural anthropology of the day, Thapar’s 
-narrative culminates, on the one hand, with the displacement of the ancient India representative 
-republic—the gaṇasaṅgharājya—in which the king was purportedly an employee of the state, 
-by the classical model of divinely mandated Indian kingship exemplified by the imperial 
-Guptas, and on the other, by the replacement of a society centered upon the householder 
-(gahapati/gṛhapati)—which she incongruously associates with śramaṇa traditions—to one 
-centered upon the landowner. While in her earlier work the relevance of this emplotment to 
-the political arena in the twentieth century is understated, in the addresses that make up Indian 
-Society and the Secular, the descriptive and presentist nature of this model is rendered 
-transparent.99 
-As far back as 500 BC emerging kingdoms in the Ganga plain began to supersede the clans, and the beginnings of urbanisation brought further changes. There was at this time a strong endorsement of social ethics. Buddhist thought maintained that ethical behavior was socially determined and did not derive from the deity, a clear separation of ethics from religion. The centrality of social ethics is a significant part of our cultural inheritance. 
-From Thapar’s perspective, which seems to be in many ways more aligned with the 
-more capacious French language discourses on laïcité than it is with the Anglo-American 
-tradition of the separation of church and state, promoting a secular understanding of the world 
-98Romila Thapar, From Lineage to State: Social Formations in the Mid-First Millennium B.C. in the Ganga Valley (Delhi: Oxford University Press, 1984). 99Thapar, Indian Society and the Secular, 122. 
-143 
-entails not only promulgating a world order within which religious institutions have no 
-coercive pull over social practices but also a conceptual framework in which religious concerns 
-are shown to have no causal or explanatory power in regard to the larger world, except in the 
-circumscribed realm of personal subjectivity and belief. While, in her treatments of 
-Brāhmaṇical thought, “Hindu philosophy” is distilled down to a series of explanations that the 
-world works the way it does because of the will of god and therefore rational inquiry into the 
-beliefs and values that underlie the natural world as well as social praxis is to be abjured, 
-śramaṇa thinkers, we are told, rejected such “conservative views” in favor of nascent rational 
-skepticism. 
-The debates were sharp and contentious, the Buddha describing some participants as wriggling like eels around an argument, quibbling over the finer points. Logic was the lamp of learning. They held that the universe is self-created, and according to some its source is the combining of the four elements—earth, air, fire and water. These elements also create the body with its tangible proof of life, which gets terminated at death. There is no immortality, no soul, and everything dies at death. 
-They argued further that evidence can come only from perception and from defining a cause, and not from inference—smoke can only be identified if a fire can be perceived. Knowledge comes from the perceptions of bodily sense organs. One should rely on evidence, causation, and rationality, and not on Fate or supposed divine sanction. Rituals are invented by brahmans just to earn a living. Caste is an artificial creation and is not divinely ordained. Laws are also man-made and can be changed. . . . The Buddhists and Jains propagated the establishing of social ethics as the mainspring of human behavior, whereby the laws and values of society should relate to how one treat’s one fellow human beings. . . . These ideas were constantly debated. They were clearly in opposition to Vedic Brahmanism, and to the later Puranic Hinduism.100 
-Elsewhere, Thapar offers even more pointed observations: 
-Secularism adopts a code of social ethics that challenges the acceptance of inequalities, where these are proposed by religious ideologies. Rights have to be sought after and established through codes and practices, and they have to be backed by a philosophy. . . which does not require recourse to divine intervention or formal religious institutions. There is an element of what might be called proto-secularism available from earlier traditions, should contemporary Indians wish to draw on it. . . . Drawing from the past 
-100Thapar, Indian Society and the Secular, 56–57. 
-144 
-has the potential to assist in the secularizing of society without creating a complete disjuncture with what is regarded as tradition.101 
-While the identification of the secular state as operating primarily as an agent for 
-challenging inequalities seems itself anachronistically divorced from the realities of the global 
-neo-liberal state, there is nothing at all ambiguous about the binary that Thapar is intent upon 
-fostering. A focus on secular humanitarian ethics, as well as advocacy for a desacralized 
-representative state, and the championing of rationalist inquiry—often arriving at materialist 
-conclusions—represent the contribution made by “earlier traditions”—most prominently, 
-Buddhism—to the ideology of modern Indian society. As for “Brāhmaṇism’s” purported 
-patrimony to the nation, that is largely reducible to an almost anti-ethical “acceptance of 
-inequalities” that are “proposed by religious ideologies”—in short, a vision of the social 
-contract defined entirely in terms of its points of deviation from the norms of the modern state. 
-In India, social organization took the form of a caste structure, and this was continued to the present day. The theory of the system is contained in the idea of varṇa. The four varṇas are first mentioned in a hymn of the Ṛg Veda as emerging from the sacrifice of a primeval man. . . . [Caste] has to do with the social and economic status, the nature of power, and the question of purity and pollution. . . . Varṇa appears to have represented the theory of the structure and may best be translated by the word “group”. Jāti relationships represent the actual way in which society functioned. . . . Varṇa became what sociologists have called ‘the ritual rank’, whereas jāti was the indication of the actual status.102 
-Now only a fool, or an ideologue, would be inclined to deny either the existence of 
-caste—of varṇa and jāti as social realities as well as conceptual categories—or its stubborn 
-persistence throughout Indian history.103 What is more questionable, however is what—if 
-101Thapar, Indian Society and the Secular, 93. 102Romila Thapar, The Past and Prejudice (Delhi: National Book Trust, 2007), 28–30. This book offers minor revisions of a series of lectures delivered on All India Radio on three consecutive days in 1972. 103It is vital here that we distinguish between two radically distinctive intellectual moves in the meta-discourse on caste, one of which is of profound intellectual value and the other which deploys a philosophical sleight of hand in the service of precisely the sort of obfuscatory reactionary political project that Thapar so rightly and bravely has spent a lifetime confronting. Quite simply, it is one thing, in the context of historical and sociological inquiry, to argue that our working conceptualization of “caste” as themata and its social impact have been heavily impacted 
-145 
-anything—we gain analytically from treating this as a continuous “system,” with varṇa serving 
-as what amounts to an emic approach to social theory. From Thapar’s perspective, the utility 
-of such a model is quite clear, for it establishes two clear lines of descent for discrete 
-conceptualizations of the social corresponding to the defenders and opponents of the 
-Nehruvian state. Proto-secular ideals—just as in Lutyens’s dome—thus themselves represent 
-a neutral and potentially unifying conceptual substratum obscured by the dominance of 
-“Brāhmaṇism” and its social forms. Prior to the arrival of Islam, Indian history then becomes 
-the field within which these two opposing forces, Brāhmaṇa and śramaṇa—snake and 
-mongoose—have battled for control over what constitutes institutional and social 
-normativity.104 Whatever their ideological usefulness and social benefit, however, this type of 
-by the colonial encounter as well as the concomitant erasure of a social form centered around personal and community relations with a Hindu monarch and his court, positions elegantly and in many ways quite convincingly articulated by Nicholas Dirks and Susan Bayly. In similar spirit, as Fukuzawa has masterfully demonstrated, one might also conclude that “caste’s” now all but iconic essentialization in terms of rigid hierarchies has much to do with the post-seventeenth-century political project of the Peshwa State, which set out to reify what were previously more fluid and multifaceted patterns of context inflected social relations. Whether we accept such models or subject them to further critique, in all three of these cases the positions in question emerge out of a sustained engagement with extensive and until that time utterly neglected spatially and historically specific archives containing materials in both Indic and European languages and reflective of broad spectrum of points of view. In other words, these intellectual products have an empirical foundation that subsequent scholarship is free to return to with renewed, divergent, and critical interest. 
-In contrast, the “intellectual project” of Balagangadhara and his disciples, most notably Jakob De Roover, to remove any consideration of caste from the study of South Asia on the grounds that the notion is a “Western invention,” is founded on the deliberate conflation of the absence from emic discourse of a singular unifying term, like the Portuguese “casta,” used in describing a collection of logically interrelated social forms with the overt denial that the phenomena that the term “casta” has synthetically grouped together themselves had any social reality prior to the colonial encounter. Even more problematically, this largely Ghent based thought collective further asserts that the underlying social forms that organized pre-colonial South Asia cannot possibly be the subject for further, more careful academic analysis because all of the conceptual tools one might use to think about these forms, starting with ideas of “hierarchy” and “conflict,” are irredeemably Western in their origin and Christian theological in their conceptual content. Under the guise of promoting a dialogical engagement with emic conceptual frameworks, in and of itself a worthy task that will be undertaken throughout the present work, this mode of scholarship replaces an account of the non-Western past overdetermined by the concerns of Western historiographies with the past as an enigmatic and innocent blank screen onto which the apologetics and prejudgments of the contemporary Indian public can be readily projected. 104Emerging from a primarily Buddhological setting, Nathan McGovern’s recent monograph The Snake and the Mongoose: The Emergence of Identity in Early Indian Religion, opens with a masterful historicization of this trope that convincingly demolishes its typical invocation as proof-texting the supposed perennial nature of this imagined binary of Brāhmaṇa and śramaṇa as bitter enemies. McGovern’s core argument, with which we will engage momentarily, has had profound influence on the positions taken in the present chapter. Nathan McGovern, 
-146 
-programmatic emplotment bears little relation with what emerges from a close reading of the 
-documentary and prescriptive record. Not only does the correlation between modern political 
-ideals, enlightenment rationality, and humanist ethics and their supposed premodern analogues 
-usually prove either specious or evident in both imagined camps, but our sources present us 
-with a story—on the part of both parties—that is often about contestation over the inscription, 
-appropriation, and re-appropriation of the same lexical items and conceptual frames—be they 
-dharma, Brāhmaṇa, or duḥkha—within a shared adherence to similar or identical social forms 
-that are neither recognizably Hindu or nāstika but unmistakably Indic. 
-As we will see momentarily, more than two hundred years of reflection on caste as a 
-social form and varṇa as its “ideology”—much of it of exceptional quality and insight—has 
-come at the expense of all but the most cursory engagement with other, often complementary, 
-emic reflections on the nature of the dynamics that govern social reality that have consistently 
-travelled within the same discursive spaces. These discussions take as their point of focus not 
-the delineation of idealized social hierarchies but rather something akin to the epistemological 
-and institutional basis for the mechanics of cultural reproduction. Our sources offer us 
-contestations around a series of questions—what is the relationship between social identity and 
-more capacious delineations of the human? To what degree are social identities acquirable 
-things? To what degree are they innate and immutable? What is the mechanism for inculcating 
-a way of being in the world linked to a specific location in the social world and what safeguards 
-are in place or should be in place that ensure minimal disruptions of longstanding social 
-hierarchies? 
-The Snake and the Mongoose: The Emergence of Identity in Early Indian Religion (New York: Oxford University Press, 2018). 
-147The discussions engendered by these questions are very much in dialogue with the 
-social forms of caste and the institutions that perpetuate it, but they unfold in a manner that 
-may strike many readers as rather unfamiliar, indeed jarringly at odds with our image of South 
-Asia as a place where, as Sheldon Pollock once argued, theory most often precedes and even 
-sublimates praxis. Instead, what one finds, in the most elevated of theological and intellectual 
-domains, is the consistent pairing of the expected approach of śāstra—meta-scholastic 
-reflection and arcane epistemology—with an unmistakably quotidian language and logic that 
-is distinctly related to a particularized transactional social world centered around concrete 
-institutions and their “best practices” as well as commercial exchange. More than a matter of 
-mere anecdotes, such discussions amount to a nascent approach to social theory—albeit one 
-that is never codified into a specific genre—that steadily informs intellectual and theological 
-argumentation in substantive and unrecognized ways. As we shall see as this chapter draws to 
-a close, perhaps nowhere is this made clearer than in regard to the anxiety and ennui shared by 
-a range of classical thinkers, writing within or just after Thapar’s threshold times, regarding 
-both the mutability of caste identity and the transactionality of the social world. Far from 
-representing the theoretical dimension of the social framework itself, within such discussions, 
-varṇa emerges as a second order mechanism—one among many—governing the patterns of 
-distribution of resources, rights, and cultural capital. 
-To query our sources in this manner is not, to be clear, a denial of the significance of 
-questions pertaining to ritual rank and matters of purity in the history of Indic thought. It is 
-rather, a recognition, as Sumit Guha has observed, in engaging with writings of the Islamic 
-legal historian Marion Katz, that the function of “the law of purity [that] also defines 
-community boundaries [though especially prominent in specific sociological domains] ‘is 
-148 
-always one of the meanings of the law’”—which is to say that complex premodern systems of 
-value and the prescriptive formations that help make those values “real” and actualizable are 
-not easily reducible to singular instrumentalist functions, particularly ones that perfectly align 
-with familiar forms expected by inhabitants of a modern secular society.105 As Guha himself 
-has masterfully argued in Beyond Caste: Identity and Power in South Asia, past and present, 
-a work that though largely early modern and colonial in its historical focus and “secular” in its 
-disinterest in the discourses we define as religious, looms large in the conceptual imagination 
-that informs the present work, though such “purity markers were especially elaborate in South 
-Asia. . . it is a mistake to focus on the markers of social boundaries and ignore the powers that 
-enforced them.”106 It is in this spirit that Guha advocates that historical sociology in South Asia 
-“start from the common form of caste and caste-like bodies—their bounded corporate 
-character”107 and attend to the precise internal regulatory mechanisms that made them function 
-as well as specific techniques that were constitutive of the discourses they produced and 
-perpetuated. We will explore such matters in considerable detail in the coming chapters, for 
-they form the essential foundation of a historically responsible recovery of medieval religious 
-Indic life within the various institutions in which it was enacted. 
-Now as it so happens, one of the most prominent appearances of these kind of “caste- 
-like bodies” with “their bounded corporate character” in our documentary record that comes 
-accompanied with some specific discussion of the internal regulatory mechanisms that made 
-them function is precisely the style of governmentality enacted by the “corporate body”—the 
-gaṇasaṅgharājya itself—that “Brāhmaṇical” royal rule is supposed to have supplanted. 
-105Sumit Guha, Beyond Caste: Identity and Power in South Asia, Past and Present (Leiden: Brill, 2013), 2. Marion Katz, Body of Text: The Emergence of the Sunni Law of Ritual Purity (Albany, NY: SUNY Press, 2002), 205. 106Guha, Beyond Caste, 2–3. 107Guha, Beyond Caste, 2. 
-149 
-Ironically, perhaps the most infamous locus of ascription for this formulation in the 
-documentary record occurs precisely at that moment of its alleged defeat with the rise of the 
-Imperial Guptas. In telling this story, Indian historiography typically singles out one single 
-portion of a single text, the Allahabad inscription of Samudragupta (ca. 335/40–375/80), the 
-first Gupta king of consequence. Thus, for example, as Ashish Kumar has recently written 
-about these passages: 
-The Allahabad pillar inscription of Samudragupta. . . claims that among other feats of his all forest kings (āṭavika-rājas) were reduced to the status of servants (parīcārakīkṛta) and frontier rulers (pratyanta-nṛpati) and the [heads of] the gaṇasaṅghas. . . were made to pay tribute (kara), obey his orders, visit the royal court for obeisance (praṇāmāgamana) and execute royal orders. . . . It would seem that the direct intervention of the Guptas stimulated the transformation of the political gaṇa- saṅghas into monarchies. . . . The Allahbad pillar inscription mentions the name Sanakānīka along with the names of gaṇasaṅghas such as Mālava, Ārjunanāyana, and Yaudheya. Sanakānīka therefore was a gaṇa-saṅgha, which had accepted the Gupta authority. In the Udayagiri cave inscription of Candragupta II, Sankānīka Mahārāja. . . is mentioned as the grandson of Mahārāja Chagalaga and the son of Mahārāja Viṣṇudāsa. The designation Sanakānīka Mahārāja clearly shows that the Sanakānīka gaṇa-saṅgha had been transformed into a monarchy by the time of Candragupta II.108 
-Read through the lens of the present, Samudragupta’s political agenda—clearing out 
-and subordinating the tribals paired with the disempowering of proto-democratic social 
-108Ashish Kumar, “Subordinate Rulers under the Gupta Monarchs: Political Integration and State Formation in Central and Eastern India,” in State, Power, and Legitimacy: The Gupta Kingdom, ed. Kunal Chakrabarti and Kanad Sinha, (Delhi: Primus Books, 2018), 614–15. See the full volume for a representative sampling of the historiography on the Guptas from the past hundred years. For more recent work on the Gupta-Vākāṭaka age, especially informed by archaeological breakthroughs, see especially Michael Willis, The Archaeology of Hindu Ritual: Temples and the Establishment of the Gods (New York: Cambridge University Press, 2009); Michael Willis, “Later Gupta History: Inscriptions, Coins, and Historical Ideology,” Journal of the Royal Asiatic Society of Great Britain and Ireland 15 (2015): 131–150. Hans Bakker’s extensive publication record, especially his studies of the inscriptional record associated with Prabhāvatī Gupta, offer us particularly vivid alternative reconstructions of Gupta power politics and sociality. See for example Hans Bakker, “A Theatre of Broken Dreams Vidisha in the Days of Gupta Hegemony” in Interrogating History: Essays for Hermann Kulke, ed. Marti Brandtner and Shishir Kumar Panda (New Delhi: Manohar, 2006), 165–187; Hans Bakker, Mansar. The Discovery of Pravareśvara and Pravarapura, Temple and Residence of the Vākāṭaka King Pravarasena II. (Groningen: Library of the University of Groningen, 2008). http://irs.ub.rug.nl/dbi/4ccec5f085aa0. Hans Bakker, The Vākāṭaka Heritage: Indian Culture at the Crossroads, ed. Hans Bakker (Groningen: Egbert Forsten, 2004). 
-150 
-formations—offers a charter myth of “the imagined best practices” of the “Brāhmaṇical” state. 
-When one turns to the inscription itself however, this transparent narrative runs aground of the 
-rather pertinent and startling fact that nowhere does the inscription in question ever mention 
-the “gaṇasaṅgharājya.” In fact, it does not identify the political rivals of Samudragupta with 
-any specific value systems whatsoever and still less does it frame their conflict in conceptual 
-or ideological terms. Rather conspicuously, and this is true for many of the Gupta inscriptions, 
-it is decidedly uninterested in questions of caste or varṇa, which is nowhere in our text used to 
-legitimate royal rule. Instead, the Allahbad inscription’s imaginary in these passages is purely 
-spatial and geographical. Its rhetorical focus is just as invested in the celebration of 
-Samudragupta’s magnanimity to his defeated rival as it is in an exaltation of his disciplinary 
-and military power and prowess. 
-Even the material dimension of the inscription itself as positioned in relation to its 
-surrounding environment offers us a similarly ambiguous story. Samudragupta’s inscription 
-was engraved on the same stela that records eight discrete inscriptions from the Mauryan King 
-Aśoka—perhaps the most famous patron in the history of Buddhism. It is quite significant that 
-Samudragupta has directed the engraver to record his message directly beneath the Aśokan 
-inscription without in any way impacting its legibility. His decision in this matter stands in 
-contrast to that of his direct contemporary, the Vākāṭaka King Rudrasena. While also inserted 
-onto an Aśokan pillar, Rudrasena’s inscription—celebrating the virtues of animal sacrifice— 
-is executed in tandem with converting the material object of the upright Aśokan pillar into a 
-horizontal platform for carrying out animal sacrifice, and thus plausibly represents a deliberate 
-debasement and repudiation of the message of the original. While in the absence of further 
-evidence such reflections represent mere speculation, at the very least, when it comes to the 
-151 
-Allahbad inscription, there is just as much evidence on hand to read Samudragupta’s respectful 
-reuse of this material object as communicating a message of continuity with a past which we 
-might label non-Brāhmaṇical— as opposed to offering a self-conscious break from its norms. 
-Furthermore, even if we accept that the political entities labelled Mālava, 
-Ārjunanāyana, and Yaudheya—the latter two apparently representing communities from 
-whose ranks were drawn many of the military commanders that dominated the Mauryan 
-army—were all during the rise of the Guptas still being administered as gaṇasaṅghas, contrary 
-to Ashish Kumar’s hypothesis, the documentary record is still ambiguous as to whether— 
-besides paying tribute—the social forms in these societies really do undergo irrevocable 
-transformations under the Guptas, for the sole evidence provided is a fragmentary record at 
-Udayagiri near Vidiśa that simply informs us that Sanakānīkasya Mahārā [presumably rājan] 
-who attends to the feet of King Candragupta (śrīchandraguptapādānuddhātasya) made a 
-philanthropic donation of an undisclosed nature. Intriguingly, our text’s term for philanthropic 
-donation—deyadharma—is itself a term typically akin to what we find in the Prakrit sources 
-and is usually assigned to a Buddhist imaginary. For Sanakānīka to be a personal name would 
-be grammatically bizarre,109 so it is more plausible it refers to an otherwise unattested 
-community. As Thapar herself has noted in other contexts, in earlier sources freed from other 
-strong indications of a royal paradigm, titles like rājan often only mark authoritativeness and 
-do not actually designate a king. In fact, as anyone who has travelled in either the northern 
-Deccan, where Vidiśa is located, or its southern reaches might be inclined to recognize, even 
-today the title mahārāj in a range of languages serves as a typical honorific as opposed to a 
-fixed title. It is applied to a range of types of otherwise illegible high-status figures—from 
-109Though the observation is seemingly self-evident, all too often secondary literature on the Guptas has taken “Sanakānīka Mahārāj as a personal name. 
-152 
-sants and yogins, to local big men, even—much to my embarrassment—both playfully and 
-earnestly, to myself, all without in any way implying a contracted association characterized by 
-social dependency. In the absence of strong evidence additional—again, we have none—it is 
-equally plausible that the title mahārāja as applied “to the one who belongs to the Sanakānīkas” 
-represents either an inherited scribal convention for identifying a high status donor or is the 
-sort of social moniker other people would apply to big men and other “special people” so as to 
-render their position in the social hierarchy legible at the court. 
-Some circumstantial support for such a conjecture—that the evidence on the ground 
-for simple transition in social form is weak indeed—is provided by an inscription found at 
-Mandasaur, for it in fact speaks of the authorities in Mālava calculating the date according to 
-the standard established by a gaṇa (mālavānāṃ gaṇasthityā) more than a hundred years after 
-this social institution supposedly vanished in the region.110 Though the inscription again speaks 
-ambiguously in passing of localized Mahārājas, its main focus suggests substantial continuities 
-with older social form, for it records in great detail the efforts of the exceptionally learned and 
-devout descendants of emigre Gujarati artisans (śilpin)—many of whom were weavers—to 
-renovate their temple using community resources. As A. L. Basham, in offering his own 
-detailed analysis of our text has observed, the inscription is composed in a high poetic idiom 
-that freely plagiarizes from the “description of Ujjayinī in Kālidāsa’s Meghadhūta”—indeed 
-it is our earliest reception history of his poetry.111 This is all the more astounding as it was 
-commissioned by the collectivity (śreṇī) of weavers—a caste identity usually assumed to be 
-110J. F. Fleet, ed., Corpus Inscriptionum Indicarum, Vol. III: Inscriptions of the Early Gupta Kings, revised by Devadatta Ramakrishna Bhandarkar (New Delhi: Archaeological Survey of India, 1981 [1888]), 320–330. See also Richard Salomon, “New Inscriptional Evidence for the History of the Aulikaras of Mandasor,” Indo-Iranian Journal 32 (1989): 1–36. 111See the reprinted in A. L. Basham, “The Mandasor Inscription of the Silk-weavers,” in State, Power, and Legitimacy: The Gupta Kingdom, ed. Kunal Chakrabarti, and Kanad Sinha (Delhi: Primus Books, 2018), 642. 
-153 
-rather low in status—themselves, who, we were told, were honored by kings as if they were 
-his own sons (nṛpatibhis sutavat [sic]) while, rejoicing, they dwelt in their own city (nyasyanta 
-pure). Again evoking a sociality that transgresses our normative expectations of immutable 
-hierarchy and fixed professions, we learn that while some (kecit) of their descendants persisted 
-in excelling at their hereditary occupation (svakarmmanyādhikās) others (anyair) became 
-astrologers (jyotiṣam), knowers of the self (ātmavadbhih), master archers (dhānurvvaidyaṃ), 
-tellers of elaborate tales (vichittrakathāvidaḥ) and ones who, upholding proper comportment 
-(vinaya), recited or instructed regarding the nature of dharma. 
-In short, within a few generations, emigre artisans—dwelling equidistant between 
-Ujjain and Udaipur—had come to occupy social and occupational niches operating virtually 
-across the entire spectrum of varṇa-specific roles. Independent of their occupation, however, 
-the śilpins at Mandasaur are represented as adopting a comportment—speaking truth, 
-restraining the senses, assisting other living beings, cultivating a heart that is at once 
-compassionate and resolute—instantly recognizable as belonging to religious authorities in 
-general and revered ascetics in particular. One additional appellation, especially, which seems 
-to depict our artisans as if they were “the undying ones”—the gods—on a journey in the world 
-(lokayātrāmaraiḥ)112 seem also to be suggesting their equation with “the gods on the earth”— 
-in other words, with Brāhmaṇas. 
-Now this particular social dynamic of a single community ostentatiously appropriating 
-for itself all manners of authority is very likely quite specific to the world of śilpins—artisans 
-of all sorts—and their special cities, a topic that we will explore in considerable detail in 
-chapter 6. For our present purposes, what is more important is this inscription presents us with 
-112This is a bad, or least highly nonstandard compound formation. I have treated it as if there were an implied upamitasamāsa. 
-154 
-a concrete example of collective action taken by a “corporate unit”—called gaṇa or śreṇī— 
-that is made up of internally diverse social agents with a range of priorities. Unlike the Buddhist 
-saṅgha, the śreṇi at Mandasaur was not comprised of a class of professional religious adepts 
-whose vows would have entailed some degree of obedience to their superiors within a clearly 
-established ecclesiastical hierarchy. Nevertheless, the inscription makes quite clear that the 
-construction and renovation of this temple to the god of the Sun was undertaken, not by any 
-individual big man, as is usually the case in our inscriptional record, but based on the singular 
-and unitary command issued by a guild (śreṇyādeśena). Indeed, while our inscription 
-delineates a range of discrete social functions executed by these weavers and former weavers, 
-at no point does it ever offer us any personal names or particularized descriptions of social 
-agents. The only proper subject is the guild itself which, through its incorporation (śreṇībhūta) 
-makes use of conglomeration of the wealth of the community (dhanasamudaya) in the service 
-of building an incomparable temple to the god of the Sun. In short, what we have here is a 
-glimpse of the type of “representative” decision-making process, being enacted by theistic sun 
-worshippers one might somewhat anachronistically label Hindu, constitutive of the mode of 
-governmentality that Gupta style kingship is supposed to have replaced. 
-Now, as anyone who has attempted to forge a consensus among a wide variety of people 
-with their own agendas is all too painfully aware—especially when this requires each person 
-putting something of their own skin in the game—agreement often does not arrive 
-spontaneously of its own accord but has to be manufactured or even coerced. Independent of 
-the institutionalization of other values and checks and balances, even the use of ballots in 
-decision-making is not really indicative of anything like democratic values and indeed most 
-collective agreements are hardly representative of anything but the dominant perspective. 
-155 
-While our archives do not seem to preserve early accounts of the procedural approach 
-to collective decision-making specific to the type of collective formation we have just been 
-exploring, as Daniel Stuart, whose analysis is reproduced below, has brilliantly shown, 
-gaṇasaṅgharājya as a mode of governmentality designed to manufacture consent is outlined 
-in painstaking detail in the different transmissions of the Buddhist Vinaya codes.113 Taking as 
-his focus “procedures for conflict resolution involving a majority vote (yadbhūyaiṣīya),” Stuart 
-offers a gentle critique of Steve Collins’s already measured consideration of whether, given 
-the existence of decision-making processes where wooden sticks were used as individual 
-ballots, we can meaningfully speak of democracy within the Buddhist saṅgha, albeit one 
-concerned not with the securing of individual rights but rather in the service of “achieving 
-harmony and unanimity between monks.”114 As Stuart observes, after examining both narrative 
-representations of instances where a majority vote is to be conducted found in the Pali Canon, 
-and prescriptive accounts from the vinaya, in most of the sources, voting is understood as a 
-last resort and its result is preordained, for only the position that aligns to “dharma” is ever 
-allowed to win. In fact, “monks intent on separate aims” that diverge from the mainstream 
-view of the saṅgha are represented as not merely misguided, but deliberately and actively 
-malicious, for they attempt to disrupt a preexisting harmony of views within the community. 
-According to the Mūlasarvāstivāda’s Adhikaraṇavastu, for example, it is only when such 
-113Daniel Stuart, “Legislating Consent: Dispute, Accord, and the Vote in Early Indian Monasticism,” in Rules of Engagement: Medieval Traditions of Buddhist Monastic Regulation, ed. Susan Andrews, Jinhua Chen, and Cuilan Liu (Frieburg: Project Verlag, 2017), 225–267. Stuart’s essay offers a revised version of a presentation I heard him deliver at AOS. Daniel Stuart, “Confrontation and Procedure: The Vote in Early Buddhist Monasticisms,” 226th Annual Meeting of the American Oriental Society, Boston, March 18–21, 2016. 114While Daniel Stuart in his article is clearly referencing Steve Collins’s Nirvana and other Buddhist Felicities (1998), due to what seems to be a repeated typographical error the published text of Stuart’s essay erroneously assigns these passages to an otherwise unattested phantom monograph by Collins, not listed in the bibliography, published in 1996. Steven Collins, Nirvana and other Buddhist Felicities: Utopias of the Pali Imaginaire (New York: Cambridge University Press, 1998), 446–7. 
-156 
-people arise and begin to organize that the vote is to be undertaken, and its express purpose is 
-to make a public display of their marginality and to shame them. Under such circumstances, a 
-facilitator for the vote is to be appointed by the community, whose primary purpose is not to 
-be an impartial observer, but rather to discern the likely outcome of the vote and then to choose 
-appropriate tactics designed to ensure that a particular—dharmic—outcome results. 
-As Stuart shows us in considerable detail, the Theravada Samathakkhandhaka’s 
-description of the origin of the practice of voting makes it rather apparent just how far we are 
-from something recognizable as democracy. In this extended tale, purportedly from the time 
-of the Buddha, which plays preface to a delineation of voting procedure, a certain group of 
-monks, displeased by a particular decision arrived at by their community of monks, seek out 
-in turn a council of many elders, and a different council comprised of three of elders, with the 
-aim of overturning the decision. Only when the case has been decided three times with exactly 
-the same undesirable outcome do they consult the Buddha, who then teaches them the three 
-methods of voting—secret voting, ear-whispered voting, and public voting—designed to 
-ensure dharma prevails. What the Buddha then prescribes is effectively three approaches to 
-rigging the vote. For in the case of secret voting, the results are announced only if the arbiter 
-notices that more dharmic ballots have been taken than adharmic ballots; in the case of 
-whispering, the arbiter himself has spoken to each of the people to record their vote and can 
-accurately tally what point of view will triumph; and in the final case of a public vote, the vote 
-outcome is only to be declared if the right side has won. The Mahāsāṅghikavinaya’s even more 
-elaborate description—so rich in particularized detail in its representation—should be enough 
-to persuade even the most idealistic reader harboring a romantic view of ancient Buddhist—or 
-general Indian—republican democracy that his investment in such notions is misguided: 
-157Having been appointed, that monk makes voting sticks of two colors, one black and one white. He should not announce: “He who is a proponent of the adharma takes the black stick. He who is a proponent of the dharma takes the white stick.” He should [instead] announce thus: “He who holds this view should take the black stick. He who holds this view should take the white stick.” While the vote distributor is distributing the sticks, he should establish his mind in five dharmas inwardly and then distribute them. He should not support the adharma faction but should support the dharma faction. Upon completion of the distribution of voting sticks, he counts them, and if the adharma votes are even just one in the majority, he should not announce that “the adharma proponents are in the majority and the dharma proponents are in the minority.” 
-He should make a distraction. . . dismissing [the assembly] from their seats. If the time for the early meal is near, he should announce: “Now is the early meal.” If it is time for the later meal, he should announce: “Now is the later meal.” If it is bathing time, he should announce: “Now is bath [time].” If the time for teaching the dharma is nearing, he should announce: “Now the time for the teaching of dharma has arrived.” If the time for teaching the discipline is nearing, he should announce: “Now the time for the teaching of the discipline has arrived.” 
-It might happen that the proponents of adharma say: “We have won. Because of us, he has dismissed [the assembly] from their seats. We will not rise. We must, during this very sitting, settle the litigation.” Then at that time, in a small building-free of insects— on the edge of the monastery grounds, one should have a layman kindle a fire and proclaim: “Fire! Fire! Now disperse and extinguish the fire!” There being monks who are proponents of dharma in a nearby monastery, one should go there and summon them: “Elders, in the process of taking a vote, the adharma proponents are in the majority and the dharma proponents are in the minority. Elders, for the sake of the dharma you should go there. You should bring about a majority vote in favor of the dharma so that the Buddha, the dharma, and the community of monks flourish, and so that you yourself develop merits.” If, when they hear this, they don't come, they are guilty of a transgression. 
-Once they have come, the voting sticks should be distributed and counted. If the white sticks are [only] in the majority by one, one should not announce: “Majority by one.” [Rather,] one should announce: “Those who hold this view are in the majority. Those who hold this [other] view are in the minority.”115 
-As Stuart concludes: 
-The performative mode of voting with a singular engineered outcome prescribed here—not to mention the fairly extreme measures that could theoretically be taken to bring about such an outcome—reveal enough. It seems that, by the time of the early centuries of the Common Era or possibly earlier, the community vote to settle litigation was primarily concerned with shoring up a unified front that conformed with norms as 
-115Stuart, “Legislating Consent,” 253–254. 
-158 
-represented in doctrinal and disciplinary texts attributed to the Buddha. The vote was not for the sake of settling disputes with a view to representing an unmediated majority view, and it probably never was.116 
-Reading the saṅgha—and the “secular” gaṇasaṅgha, whose administrative models the 
-early śramaṇa movements were modelling themselves after—in this light, as one among many 
-coercive elite social bodies whose disciplinary procedures are not very different in substance 
-from those deployed by a caste council, helps us to set aside for a moment our preconceived 
-notions and our ethical and political investments in promoting certain modern social forms and 
-agendas and recognize that, however laudable, they are largely irrelevant to the study of the 
-premodern non-Western world and largely unhelpful if our aim is to understand it on some 
-semblance of its own terms. Quite simply, if our choice is between advocating for an oligarchy 
-that fixes the votes and an autocrat who divides his time between the battlefield and more 
-pleasurable occupations, our personal stakes become very low as for interpreters of most 
-ideological persuasions, we have no real investment in championing either perspective. Once 
-producing either polemic or apologetics—and most of the scholarship that covers this terrain 
-and that is not purely documentary in its orientation does either one or the other—is rendered 
-basically unwarranted, the many striking conceptual continuities that at least by the time of the 
-Guptas are operative between these two domains, as well as the often irreducible and 
-unrecognizable heterogeneity that exists just as much within a reified category like 
-“Brāhmaṇical” tradition as it does within the Buddhist saṅgha, are brought out into the open. 
-116Stuart, “Legislating Consent,” 254. 
-159 
-Being Brāhmaṇas? Following the Rules or Adapting to Circumstances “Just as They 
-Are”? 
-In his recent monograph The Snake and the Mongoose, which in fact opens by 
-problematizing Romila Thapar’s use of this image of snake and mongoose—Brāhmaṇa and 
-śramaṇa—locked in eternal combat, Nathan McGovern has argued that the tendency of our 
-historiography to impose “an intrinsic dichotomy between the “Brāhmaṇical” and the “non- 
-Brāhmaṇical” in the form of Brāhmaṇa and śramaṇa—treating the two identities as motivated 
-by an innate antagonism and mutual antipathy—is not well supported by our textual record. 
-Indeed, McGovern suggests that Buddhism could not have “arisen in opposition to a 
-preexisting Brāhmaṇism” for the simple reason that what we call Brāhmaṇism itself is being 
-articulated at the very same historical moment as the flourishing of śramaṇa cultures and is in 
-fact a product of many of the same social and historical forces. Instead, McGovern suggests: 
-We should understand all three traditions as having emerged out of a period of dialectical identity formation. In particular, I will argue that Buddhism, Jainism, and Brahmanism/Hinduism emerged out of a period of contestation over the category Brahman, which all of them sought to claim. Buddhism and Jainism were not intrinsically “non-Brahmanical” simply by virtue of being śramaṇa traditions; rather, they both sought, but ultimately failed, to articulate a vision of Brahmanhood rooted in śramaṇic ideals of renunciation. Similarly, Hinduism is not rooted in “the” Brahmanism of ancient India; rather, it is rooted in one particular ancient articulation of Brahmanhood that (1) sought but ultimately failed to reject śramaṇic ideals of renunciation but (2) did succeed in arrogating the category Brahman to itself.117 
-Through a series of close readings, especially of the Aśokan inscriptions and early 
-strata within the Pali Canon, McGovern directs our attention to a collection of discourses in 
-which the “historical” Buddha and his disciples self-identify as Brāhmaṇas, equate religious 
-excellence and moral virtue with Brāhmaṇa-hood, and argue against the Brāhmaṇa-hood of 
-Vedic ritualists. Whereas earlier scholarship has typically viewed these texts as rhetorical 
-117Nathan McGovern, The Snake and the Mongoose, 4–5. 
-160 
-polemics proffered by a minority tradition against dominant norms, McGovern argues 
-convincingly for reading them as inscriptions and reinscriptions within the underdetermined 
-lexical field that is the term Brāhmaṇa to which is being ascribed competing notions of what 
-constitutes a religious exemplar. Within this rich play of possibility, identity based on 
-bloodlines—which is to say, the logic of varṇa— functions as but one among many potential 
-determinative factors. 
-Perhaps most consequentially for our own imminent investigations, which will engage 
-with similar conceptual issues in the context of vastly different textual archives, McGovern 
-proposes that the reason “the early literature of the Jains and Buddhists is replete with claims 
-that the founder. . . as well as monks and nuns who successfully follow his example. . . are 
-Brahmans”118 is because these texts understand the lexeme Brāhmaṇa, not as alluding to a 
-genetically inherited social identity, but as primarily denoting the social role of any ascetic 
-who practices celibacy (brahmacaryā). McGovern then proceeds to demonstrate that in early 
-śramaṇa discourses, the lexemes brahmacaryā and brahmacārin, extensively applied to both 
-Buddhist and Jain religious professionals, communicate not only the celibate observances of 
-the practitioner, but also convey the literal denotative meaning of both of the terms, namely, 
-that the person in question observes the conduct (caryā) or juridical comportment (ācāra) that 
-makes someone a Brāhmaṇa. Building on earlier arguments first made by Timothy Lubin in 
-his dissertation, McGovern offers a convincing case that, far from representing a second order 
-and essentially “eccentric” reimagining of Brāhmaṇa identity, the delineation of Brāhmaṇical 
-comportment as essentially an ascetic observance we find throughout much of early śramaṇa 
-discourse, though offering its own innovations, represents an organic continuation of pre- 
-118Nathan McGovern, The Snake and the Mongoose, 85. 
-161 
-classical Vedic conceptualizations of “being Brāhmaṇa.”119 In other words, in asserting that, 
-regardless of their genetic patrimony, they were Brāhmaṇas, celibate śramaṇas arguably had 
-a stronger claim to representing “traditional understanding” than did the Dharmaśāstra- 
-composing twice-born householders whose iconoclastic reinscription of the term we now take 
-completely for granted. 
-While McGovern presents us with a study of a specific historical moment said to 
-terminate somewhat before an imagined classical Gupta consolidation, there is ample evidence 
-that we should treat his analysis as but one discrete and important chapter in a very long story. 
-Adequately told, it would reach at least as far back as the tale of Satyakāma Jābāla in the 
-plausibly pre-Buddhist Chāndogya Upaniṣad, who, in candidly telling his teacher Hāridrumata 
-Gautama that his mother had so many extramarital affairs that the identity of his father—and 
-thus proof of varṇa—is unrecoverable, demonstrates his Brāhmaṇa-hood on the basis of his 
-truthfulness. It would likewise reach at least as far forward as the late-twentieth-century 
-strategic deployment of varṇa among the bhaṭs of Rajasthan, who alternately have adopted 
-Brāhmaṇa and Dalit identities in the advancement of community interests.120 Perhaps most 
-pertinently for our present purposes the archive reconstructed by McGovern also presents us 
-with a quite specific rhetorics for articulating Brāhmaṇa-hood as founded either on an ethos of 
-excellence and ethical integrity or, as we have already begun to explore, one of performing 
-sustained austerities. We will reencounter these registers repeatedly throughout our study, first, 
-in chapter 3, as it becomes virtually constitutive of Śaiva visions of lay normativity, then in 
-chapters 6 and 7 as it is transferred into a range of vernacular non-Brāhmaṇa social registers, 
-119Nathan McGovern, The Snake and the Mongoose, 99–111. McGovern presents the arguments distilled above while offering considerable additional evidence in support of his core claims. 120See Jeffrey Snodgrass, Casting Kings: Bards and Indian Modernity (New York: Oxford University Press, 2006). 
-162 
-and finally in the final chapter of our study, where it acts as a key dialogical partner for the 
-capacious reimagining of a new kind of Brāhmaṇa-hood emerging in the realm of 
-Dharmaśāstra on the cusp of early modernity. 
-While McGovern has restricted his own focus to the question of the “Brāhmaṇa,” the 
-mode of analysis he proposes complements a series of prior studies, many of them either 
-directed by or conducted in response to the work of Patrick Olivelle, that, through careful 
-philological work in the domain of Begriffsgeschichte—or conceptual history—have identified 
-similar discursive patterns regarding other key moments in the concept formation of notions 
-we think of as quintessentially Brāhmaṇical. Olivelle’s terse but pithy distillation of these 
-revolutionary discoveries, which occupies the first nine pages of Hindu Law: A New History 
-of Dharmaśāstra is far more jarringly iconoclastic than even its own author has until recently 
-been aware.121 Here, building on Olivelle’s earlier work, which locates both the notion of 
-āśrama and the lexeme dharma (in place of the rather marginal Vedic dharman) itself as at 
-best an Aśokan or slightly post-Aśokan era articulation, we learn that such concepts and lexical 
-items as the householder (gṛhastha as opposed to the conceptually distinct gṛhapati), the 
-twice-born (dvija/dvijāti)—even the notion of Āryavārta—first appear in the surviving sources 
-121It is only in a recent publication from 2019, which takes as its focus the Brāhmaṇical dimensions of Aśvaghoṣa’s poetics, that Olivelle has at long last confronted head on what his own painstaking efforts in offering responsible conceptual histories of key Sanskrit terms of art have been making evident for more than a decade, namely, that most of the building blocks that constitute the assumed Brāhmaṇical normativity we have imagined to represent the social and intellectual backdrop against which all studies of the Indic past must be conducted are relatively recent products of the Common Era and only spottily attested in our documentary and non-prescriptive sources. As Olivelle now writes: “The question I want to raise is: Why did Aśvaghoṣa present Brahmanism as the natural state of society and buy into the Brahmanical ideological position that kings had to revere Brahmans and carry out Brahmanical rituals? I do not think it was because ancient Indian society was in fact organized according to Brahmanical dharma, according the principles [sic] laid down in the Mahābhārata or the Dharmaśāstras. I have become increasingly convinced that what we have in these and other Brahmanical documents are aspirational and ideologically motivated programs for social engineering rather than accurate descriptions of social reality. Even a cursory study of the Aśokan inscriptions and Kauṭilya’s Arthaśāstra, two ancient Indian literary sources that do not follow the Brahmanical party line, shows that the social reality they reflect was quite different from the one depicted in Brahmanical sources.” Patrick Olivelle, “Aśvaghoṣa’s Apologia: Brahmanical Ideology and Female Allure,” Journal of Indian Philosophy 47 (2019): 257–286. 
-163 
-in the last two centuries before the Common Era, in many cases after the composition of the 
-earliest works of the Dharmasūtras. In confirmation of McGovern’s thesis of the contested 
-nature of the term, Olivelle identifies several places in the Aśokan inscriptions where the term 
-Brāhmaṇa is used in reference to a particular kind of pāṣaṇḍa, or heretic, while also observing 
-that—much to his surprise, the general language of varṇa or specific notions such as the Śūdra 
-are conspicuously absent, which he suggests is indicative of their operation at this time largely 
-as a community-specific scholastic fiction. While Olivelle himself still reflexively reads the 
-ideological articulation of the “Aśokan reforms” as “greatly under[mining] Brahmanical 
-exceptionalism,”122 the evidence he has supplied us with, as well as archives to which we will 
-turn as the chapter draws to a close, suggest other possibilities. Is “Brāhmaṇism” as such— 
-once it has been denuded of the vast majority of the constituent elements one would use to 
-introduce “Brāhmaṇical thought and social forms” to a class of undergraduates—even a 
-meaningful conceptual model in reference to this period? What would be its defining features? 
-Indeed, perhaps we should question our ready trans-historical equation of Brāhmaṇas and the 
-corpuses they interpret and produce with a unitary notion of “Brāhmaṇical” privilege and a 
-singular conceptual focus on the legitimation of a specific social order, for as we shall soon 
-see, our archives seem to suggest a decidedly more complicated story. 
-For example, in their work on contextualizing the Upaniṣads, Signe Cohen123 and Caley 
-Smith have called into question efforts to periodize the composition of the corpus solely on the 
-basis of doctrinal “developments,” for what they have found is that specific theological 
-122Olivelle, “Aśvaghoṣa’s Apologia,” 19. 123See for example the subsection on “The Upaniṣads and their parent texts,” in Signe Cohen, The Upaniṣads: A Complete Guide, ed. Signe Cohen (New York: Routledge, 2018), 23–31. Caley Smith on a number of occasions has argued for the need to re-embed specific Upaniṣads in their original ritual contexts as śākhā-specific modes of knowledge. See for example, Caley Smith, “The Kaṭhopaniṣad and the Deconstruction of the Fire-Altar,” in Tavet Tat Satyam: Studies in Honor of Jared Klein on the Occasion of his Seventieth Birthday, ed. Andrew Miles Byrd, et. al. (Ann Arbor: Beech Stave Press, 2016), 284–93. 
-164 
-concepts—for example, a strong “theistic” focus—appear to be originally aligned with specific 
-parts of the Vedic Corpus—in this case the Ṛg Veda—and originally are transmitted in 
-isolation from each other within specific Vedic śākhās and caraṇas. The same dynamic, it 
-seems, also to hold true in regard to the use of varṇa itself as an overarching conceptual frame, 
-for after its famous pseudo appearance in Ṛg Veda 10.90—where in fact the term is not 
-present—outside of the associated of lineages associated with the Yajur Veda, especially the 
-White Yajur Veda, it largely disappears from Vaidika discourse as a central concern, replaced 
-by a more typical binary of brāhmaṇa and kṣatriya. As Caley Smith, building upon the work 
-of Theodore Profferes, argues in his forthcoming historicization of the legitimating use of the 
-Veda in Vedic literature: 
-The puruṣasūkta is perhaps most famously perceived to be the origin of the varṇa system, which comprises four social castes into which a person can be born. While the word varṇa is not mentioned in the puruṣasūkta itself, the text does provide a list similar to what will be found in the later varṇa system. Vedic texts which follow, however, almost never present this list in toto. What Vedic texts are interested in is determining who is a brāhmaṇa and subordinating kṣatriyas to brāhmaṇa. When the full list is taken up, it is often difficult to draw any real conclusions. Consider this example from the Śatapatha Brāhmaṇa: 
-catvā́ro vai várṇāḥ / brāhmaṇó rājanyò vaíśyaḥ śūdro ná haitéṣām ékaścaná bhavati yaḥ sómaṃ vámati sa yád dhaitéṣām ékaścit syāt syā́d dhaiva prā́yaścittiḥ / (ŚBr 5.5.4.9) Four are the varṇas: brāhmaṇa, rājanya, vaíśya, and śūdra. He who vomits Soma does not become any one of those (varṇa). Should he be any one of those (varṇa), there would only be an expiation (in that case). 
-This passage from a Middle Vedic texts tells us little about what varṇa is, only that it is a status which one can become, presumably by participating in the Soma pressing, so long as one does not vomit ones Soma. Further, should one who already has this status vomit Soma, they must do an expiation to regain good standing. This is striking because it suggests varṇa is not something you are born with, but something you attain. Further, it seems to indicate that śūdras are not excluded from the Soma pressing. 
-This corroborates the findings of Nathan McGovern, who finds that the early Buddhist and Jain concept of a brāhmaṇa is not an inherited characteristic either, it is a status attained by completing a brahmācārya, a program of restricted behavior that involves, 
-165 
-among other things, celibacy. It is because of their practices not because of their births that early Buddhist and Jain ascetics consider themselves to be brāhmaṇas. McGovern 2018 demonstrates that it is the post-Mauryan Dharmasūtras, which advocate an ideology of householder supremacy, that appropriate the term from ascetics and instead biologize it into an inherited caste. If this is true for the term brāhmaṇa, it is very likely that the other varṇas were not conceived of as inherited status either. What can we make of this list in puruṣasūkta if we free ourselves of anachronistic assumptions? 
-What I speculate this that what this particular verse of the puruṣasūkta might be doing is listing a hierarchy of honors, one mapped vertically with the body of the man elevated to suzerain over the clans. In this schema, the vaíśya, linked to the viś, defines the neutral position. The rājaníya, as a potential rājan, represent one accorded high honor by the leader. In an honor culture, for someone’s honor to be elevated, the honor of someone else must be degraded. As Graeber (2011:175) reminds us “honor is a zero- sum game.” In this schema, the śūdra represents someone who is dishonored. Note that no concept of slavery, cultural exteriority, birth, or permanency seems to be present here. It is clear from the puruṣasūkta, the śūdra is still a part of the body politic, just as the feet are still a part of the body. The śūdra is still a part of the tribal alliance, just a demoted part. To this system of honor rankings, the Vedic poets slip the brāhmaṇa just above the rest, but still subordinate to their patron, represented by the puruṣa. Recall that one of the ways the Rigvedic peoples referred to themselves was as the pañcajana ‘the five folks’, which I argued represents a social geography which centers the map on the leader of the tribal alliance and marginalized the other clans to four cardinal directions. What if what the puruṣasūkta does is take a distinction of center vs. periphery and creates a vertical taxonomy of the pañcajana, not as five spaces but quite literally as five (pañca) persons (jana)? Let us try to produce an alternative model based on what we know about Vedic social occasions: 1) the puruṣa, as patron hosts the other four persons as guests, 2) the brāhmaṇa, 3) the rājaníya, the honored guest to whom honors are due, 4) the vaiśya, a neutral position, and 5) the śūdra, the dishonored guest who perhaps owes a debt of honor. If this is the case, all of these positions would be subject to constant renegotiation through public ritual. This is exactly what Śatapatha Brāhmaṇa 5.5.4.9 seems to indicate, that varṇa can be gained by drinking Soma. Perhaps this explains the homology of the brāhmaṇa with the “mouth” as he is in charge of this drinking ceremony. . . . This is, of course, a thought experiment, but it is remarkable what kind of system is actually quite plausible when we consider the Vedic social structure in its own context without retrojecting the Dharmasūtras onto them.124 
-While such matters would prove fruitful domains for further future inquiry, for our 
-purposes it is the sociology of knowledge on display in these examples that is most 
-significant—wherein, just like the family book of the Ṛg Veda, before their codification into a 
-124Caley Smith, unpublished manuscript. 
-166 
-text, it is common for specific re-inscribable lexemes and ideas to continue for generations to 
-travel within delimited hereditary communities without the development of an overarching 
-synthesis that crosses community—without the development, in other words, of a unifying 
-“Brāhmaṇism.” For indeed, this type of sociology of text seems very much to govern the 
-composition of two of the earliest three Dharmasūtras,125 the work of Āpastamba, which travels 
-within its own caraṇa and śākhā in the line of the Black Yajur Veda and which Olivelle now 
-ascribes to the third to late second century BCE and Baudhāyana, also of the Black Yajur Veda, 
-but compiled in perhaps the first century BCE. As textual analysis reveals, the much later work 
-of Baudhāyana is already dialogical with Gautama’s Dharmasūtra, which rather significantly, 
-as we shall see, is not a product of traditional in-lineage Vaidika textual production. This extra- 
-canonical status also holds for Vasiṣṭha’s Dharmasūtra, for the Mānavadharmaśāstra itself, 
-as well as, quite plausibly, for the Jaimini Mīmāṃsāsūtras, all of which effectively attempt— 
-outside of the domains of what until this time had been “normal” Vaidika knowledge 
-production, to articulate a set of meta-rules and metalanguage that is no longer lineage and text 
-specific. In fact, it would seem that it is precisely the theorization offered by this evolving 
-extra-canonical textual corpus that produces most of the contents that make up the conceptual 
-object we commonly call Brāhmaṇism. But as McGovern’s work has begun to suggest, in a 
-world that has already given rise to many competing modes of “doing Brāhmaṇa,” many of 
-which not only predate this meta-language but, through assuming new forms, continue to 
-125The section which follows is heavily indebted to Patrick Olivelle, Dharmasūtras: The Law Codes of Āpastamba, Gautama, Baudhāyana, and Vasiṣṭha (Delhi: Motilal Banarsidass, 2000), as well as its companion volume, Patrick Olivelle, Dharmasūtra Parallels (Delhi: Motilal Banarsidass, 2005). Readers should note, however, that subsequent to the publication of both of these works, Olivelle has substantially revised both his chronology of the works included as well as the significance he ascribes to their intertextuality, and the analysis at hand follows the revised model, referred to repeatedly in public presentations over the past decade but perhaps most accessible in his contributions to the 2018 publication, Patrick Olivelle and Donald Davis, ed., Hindu Law: A New History of Dharmaśāstra (New York: Oxford University Press, 2018). 
-167compete with and persist alongside our seemingly familiar reified Brāhmaṇism through the 
-medieval and often down into the present, equating this metalanguage with “Brāhminical 
-thought” in toto at best is akin to mistaking part for whole. 
-Some of what is at stake begins to become apparent when we turn briefly to 
-comparative reading of the earliest four Dharmasūtras, a genre that as Olivelle has argued 
-effectively emerges as a response to the roughly Aśokan and post-Aśokan era social 
-contestations we have just been exploring. Though the territory in question, unlike practically 
-everything else we will explore in the present work, is well trod ground, it is valuable to read 
-it in anew with the recognition that it offers us an account of the historical emergence, not just 
-of specific concepts in Brāhmaṇical discourse, of but of evolving models of “being Brāhmaṇa” 
-that at the time represented one among many possibilities. Furthermore, when we read these 
-texts contextually and not teleologically, the conceptual possibilities offered by our earliest 
-sources are revealed not as historic dead ends, but a constitutive of paradigms that also persist 
-into the Indian present. 
-Thanks to Olivelle’s earlier work on the āśrama system, which he has continued to 
-refine and develop, it has been well known for decades that each of these texts present us with 
-divergent models in regard to the stage of life, with the oldest Āpastamba advocating the 
-adoption of each as distinctive and optional paths in life, Gautama asserting that only the role 
-of the householder is sanctioned and dismissing the notion of other paths in a single verse, 
-Baudhāyana, in the older short recension offering a lengthy refutation of the very idea of 
-ascetic celibacy without which the āśrama system of collapses, and Vasiṣṭha, writing as late 
-as the first century CE, while emphasizing the superiority of the householder, also allows for 
-optionality. Indeed, by Vasiṣṭha’s time, the need to defend the multiplicity of āśrama has 
-168 
-vanished, such that he can simply dedicate his seventh chapter to the system as a whole without 
-the accompanying apologetics. Other observations Olivelle has subsequently made periodizing 
-developments in this literature have received comparatively less attention. Only Vasiṣṭha and 
-proto-Baudhāyana, for example, know of a place called Āryavārta. Āpastamba in fact does not 
-even use the term of art gṛhastha, the central social conceptualization at the heart of all later 
-Dharmaśāstra. 
-Āpastamba and Gautama do not seem to know of the practice of a Brāhmaṇa wearing 
-at all times a sacred thread of any form, let alone the single cord prescribed in the later texts. 
-Āpastamba, and plausibly also Gautama—if we treat its last chapter as an interpolation—know 
-nothing of the idea of a legal council. Āpastamba knows nothing of twice-borns or of Yavanas, 
-and has precious little interest in kings. Examples of this sort could be proliferated endlessly— 
-in fact, that is a good deal of the focus of Olivelle’s two-hundred- and thirty-four-page synoptic 
-comparison of these four texts—but amidst all these details there is the danger of losing sight 
-of the big picture. From a broader perspective, what is perhaps most significant is that, when 
-we read them as discrete traditions, the early Dharmasūtras offer us a range of competing 
-models of the scope and function of what will become the genre of Dharmaśāstra itself. As we 
-will see in the coming chapters, despite the dominant stance in our historiography that this 
-process of innovation and experimentation effectively comes to a halt with the composition of 
-the Mānavadharmaśāstra, which then becomes the gold standard for all subsequent dharma 
-discourses, conceptual possibilities suggested by Āpastamba in particular—the oldest of our 
-sources—continue to provide key parts of the juridical framework evident in the post-Manu 
-legal discourses that animated much of the world of the early medieval, especially in the 
-Deccan. 
-169 
-Āpastamba begins his treatise by telling us that “we” will explain (vyākhyāsyāmaḥ) the 
-sāmayācārika dharmas—an odd term otherwise unattested in this form that Olivelle in his 
-original translation renders “accepted customary laws.”126 Dharma, we should note here, is 
-quite pointedly in the plural. Dharmas, in other words, are many. So too are the sources of 
-authority (pramāṇa) that establish the dharmas. First, we are told, there is the 
-dharmajñasamaya. Then, there is also the Veda. While the latter concept is perfectly 
-transparent, the first notion is decidedly less so. Dharmajña, likely in the sense of knowers of 
-a nascent Dharmaśāstra, is relatively straightforward. More tricky is the notion of samaya, 
-which Olivelle originally deemphasizes in rendering it as “acceptance by those who know the 
-Law”—but which, in light of the fact that it has now appeared twice in two successive 
-sentences, clearly must have served as a particular term of art. While in the absence of 
-contemporary or early attestations a more precise rendering is problematic, Olivelle’s later 
-observations, in the footnotes to his Dharma Reader, where he connects our passage with a 
-use of the term in the Rāmāyaṇa—Rāma is said to be knowledgeable regarding the “accepted 
-customs connected with the world”127 (samayācāre laukike)—as well as in his essay 
-“Dharmaśāstra: a Textual History” in the anthology Hinduism and Law, where he re-renders 
-sāmayācārika as “conduct that is normative and accepted by a community,”128 gestures in the 
-direction of samaya representing a plurality of social practices. In this manner, the use of 
-126Since these works are readily available for consultation by the interested reader, from now on, throughout this section, except in cases of close reading, the page numbers for the Sanskrit and for Olivelle’s translation will be cited. Patrick Olivelle, Dharmasūtras, 24–25: athātaḥ sāmayācārikān dharmān vyākhyāsyāmaḥ / dharmajñasamayaḥ pramāṇam / vedāś ca / 127Patrick Olivelle, ed. and trans., A Dharma Reader: Classical Indian Law (New York: Columbia University Press, 2017), 337. 128Patrick Olivelle, “Dharmaśāstra: A Textual History,” in Hinduism and Law: An Introduction, ed. Timothy Lubin, Donald. R. Davis, Jr., and Jayanth K. Krishnan (New York: Cambridge University Press, 2010), 37. 
-170 
-dharmajñasamaya implicitly suggests the existence of other forms of samaya, conceptually 
-distinct from those outlined in detail in the Dharmaśāstras themselves. 
-As we will see in chapter 3, this is precisely the meaning that has become ascribed to 
-the term in the post-Manu Dharmaśāstras as the Gupta-Vākāṭaka age draws to a close. In 
-Āpastamba’s formulation, in fact, the topic of the Dharmasūtra is not dharma itself but rather 
-a specific set of sāmayācārika dharmas, partly arising directly from the Veda and partly from 
-the community that is producing our text. And what this suggests is that these prescriptions, 
-rather than being universalizable, pertain specifically to this community. The main intellectual 
-focus of the Āpastamba Dharmasūtra, then, is the presentation of a delimited set of strictures 
-that make possible the maintenance of the forms of ritual purity that form the preconditions of 
-performing a specific canon of ritual acts. This is then complemented by some scattered, almost 
-deferential, reflections on worldly customary law, mostly in terms of how it impacts the types 
-of ritual agents under discussion. In short, Āpastamba presents a vision of how to order one 
-particular type of life as opposed to a comprehensive approach to classifying and ordering the 
-world. 
-Returning to the opening of his text, after defining the scope of the Dharmasūtra, 
-Āpastamba then offers us a programmatic presentation of the system of four varṇas within 
-śāstra, probably one of the earliest, which forms a pair with its equally brief account of the 
-doctrine of untouchability found in the second division.129 In both cases, the defining features 
-of these discourse is their terseness—the discussion of varṇa, for example, simply 
-communicates that the system is a successive hierarchy with the Brāhmaṇa at the top and that 
-129Olivelle, Dharmasūtras, 24–25: catvāro varṇā brāḥmaṇakṣatriyavaiśyaśūdrāḥ // 4 // teṣāṃ pūrvaḥ pūrvo janmataḥ śreyān / aśūdrāṇām aduṣṭakarmaṇām upāyanam / vedādhyayanamagnyādheyaṃ phalavanti ca karmāṇi / śuśrūṣā śūdrasyetareṣāṃ varṇānām / pūrvasmin pūrvasmin varṇe niḥśreyasaṃ bhūyaḥ / 
-171 
-everyone except Śūdras who abstain from sinful action can be initiated, undertake Vedic study, 
-set up the sacred fires and benefit from these actions. Śūdras, in contrast, receive glory 
-(niḥśreyas) through serving the other varṇas. From here on in, however, our text is largely 
-disinterested in thinking through such concerns—indeed in thinking about the socialities of 
-specific varṇa identities almost at all—except in terms of specifying the specific adaptations 
-of ritual details that need to be applied when a Kṣatriya or Vaiśya, as opposed to a Brāhmaṇa, 
-engages in particular practices during their studentship under the direction of a teacher who is 
-instructing them in the Veda. 
-Most of the first of the text’s two divisions is solely concerned with delineating the 
-social role of either the temporary or permanent brahmacārin engaged in Vedic study and 
-practice, and the responsibilities and mode of comportment through which he relates to his 
-teacher and his teacher in turn relates to him. Intriguingly, according to Āpastamba, such 
-instruction includes both the inculcation of the Vedic texts and their related practices as well 
-as non-Vedic saṃhitās (samāhito ’brahma) for the mastery of these “will bear fruit for him 
-just like the Veda” (brahmavedeva tasmin phalaṃ bhavati).130 Having another body of 
-knowledge and skill set is vital for the Vaidika, for later we will learn that adherence to dharma 
-is not for the sake of worldly affairs (laukikam arthaṃ).131 At best, our author tells us, as in the 
-case of a tree, which takes a long time to bear fruit an occasional fruit but in the interim 
-provides us with its shade and fragrant scent, adherence to this dharma has some pleasant 
-incidental benefits. Warding off the “deceptions” promulgated by hypocrite, crooks, and 
-perhaps most tellingly, nāstikas, Āpastamba tells us that a person intent on dharma should 
-model his behavior on that which is accepted by the community of the righteous (āryas), who 
-130Olivelle, Dharmasūtras, 32–33. 131Olivelle, Dharmasūtras, 56–7. 
-172 
-maintain their integrity, as it applies in all regions. He then explicitly forbids Brāhmaṇas— 
-except in a time of trial—from engaging in commerce, and outlines the activities which could 
-cause him to fall from varṇa.132 In a rather telling departure from the disciplinary nature of the 
-later tradition, which treats the community’s commitment to monitoring and punishing 
-individual violations of dharma as an integral part of dharma discourse, Āpastamba teaches 
-that if a righteous person notices that someone else has engaged in activities that result in a fall 
-from caste, he should not tell anyone.133 Instead, he is simply to avoid the ritually impure 
-person while engaged in carrying out his religious duties. Once again, the focus is primarily 
-on the ritual dimensions of sociality. 
-In Āpastamba, this rather succinct delineation of causes of falling from caste and 
-acquiring ritual faults is immediately followed by a much more extensive treatment of the 
-practice of ādhyātmikayoga intimately linked with the teaching of the Katha Upaniṣad.134 
-Unlike in the rest of the Dharmasūtras, here yoga is at once prescribed for all the āśramas but 
-mostly closely conceptually linked to the temporary or permanent Vedic student, as opposed 
-to the forest hermit or ascetic. Very much in alignment with the teaching of Kathā Upaniṣad, 
-which it frequently paraphrases, the text prescribes that it is the samaya that participants in all 
-four āśramas— nothing is said of caste in particular—should learn to recognize within all 
-living things the presence of the very same stainless and unslayable one who dwells within all 
-living beings in the cave of the heart. Those who do so become immortal. This is to be 
-accomplished, the text tells us, through restraining the senses, engaging with what is beneficial 
-132Olivelle, Dharmasūtras, 58–59. 133Olivelle, Dharmasūtras, 58–59: doṣaṃ buddhvā na pūrvaḥ parebhyaḥ patitasya samākhyāne syād varjayet tv enaṃ dharmeṣu / 134Olivelle, Dharmasūtras, 58–61: Olivelle himself notices these textual interconnections in footnote 22.4 on page 494. 
-173 
-and abstaining from what is not, developing non-attachment, through uprooting negative 
-tendencies, such as anger, excitement, rage, greed, confusion, hypocrisy, malice, lying, 
-overeating, calumny, envy, lust, ire, lack of self-control, and by practicing virtues, such as 
-speaking truth, gentleness, tranquility, self-restraint, not harming living beings, and non- 
-cruelty. In other words, a combination of technique and ethical self-cultivation are the means 
-that bring about the realization of the self, which our text treats as the supreme goal of human 
-life. Another striking feature of this discourse, which will disappear in the normative realm of 
-Dharmaśāstra, is that, in a departure from what will become a Brāhmaṇical norm, yoga does 
-not here serve as method of expiation and its physical disciplines are not linked with the 
-punishment of the body to purge impurities and transgressions. 
-Such an approach stands in considerable contrast, for example, with what we find in 
-the Mānavadharmaśāstra, where yogic praxis has become an afterthought associated with the 
-elderly, but is very much akin to the centrality that yoga will be granted in the 
-Yājñavalkyasmṛti. Quite unlike in Yājñavalkya, however, where the practice of yoga is strongly 
-conceptually associated with ritual expiation, and yoga’s associated virtues and focus on 
-liberation is integral only to the dharma of renouncers (yatidharma), in Āpastamba, yoga, its 
-virtues and benefits are equally available to the perpetual Vedic student and the householder 
-as well as the ascetic classes. While rejected by the later Dharmaśāstra, this social model— 
-which carves out a space for teacher, student, and householder as effectively a kind of lay 
-ascetic—will prove to be integral dimension of the religious ecologies of the medieval Deccan, 
-as we shall see in future chapters. 
-The second division of Āpastamba discusses the social roles ascribed to the other 
-āśramas and famously offers a theorization of the āśrama system and a defense of āśrama 
-174 
-optionality.135 More pertinently for our purposes, it also offers an exceptionally early and 
-decidedly unsystematic treatment of what it calls the dharma of region (deśadharma) and clan 
-(kuladharma), concepts that will prove integral to the legal landscape of the early medieval 
-world.136 Here, these terms encompass such features as, the proper professions for three of the 
-varṇas (Śūdras are not mentioned), the use of ritual expiation, under the supervision of a king 
-or other authority figures as a punishment for transgressions (but not any discussion of the 
-punishments themselves), yielding to vehicles, people who carry heavy loads, women and the 
-sick when out of the road, rules governing marriage, offspring, property, and inheritance. 
-Unexpectedly, Āpastamba treats the doctrine that one’s deeds in past lifetimes determined 
-one’s varṇa in the present life, and that good and bad deeds committed in the present will 
-determine one’s place in the social hierarchy in the future, not as an integral part of Vaidika 
-theology, but as a feature of the dharmas of region and clan. 
-What is on offer here is not a legal canon, but rather an entextualization highlighting a 
-few key dimensions of a much larger extra-textual body of knowledge, which Āpastamba 
-understands as not actually falling under the purview of what will come to be called 
-Dharmasūtra literature. In the section on kula and deśadharma, this is state of affairs is perhaps 
-made most evident in our author’s explicit statement that, while the rules for conduct in warfare 
-are to be learned from another source, righteous people (āryas) proclaim that people who have 
-surrendered or are fleeing from the battle are not to be killed, representing in effect the grafting 
-on the sort of ethical restraints endemic to our text onto a system of praxis that may not have 
-135Olivelle, Dharmasūtras, 74–115. 136Olivelle, Dharmasūtras, 88–89. As is made evident by his remark on pg. 95 (etena deśakuladharmā vyākhyātāḥ), Āpastamba considers all of the rules between pg. 88–95, including sections on rules governing sexual intercourse, progeny, inheritance, as derived from deśa and kula dharma as opposed to Brāhmaṇical Dharmaśāstra. 
-175 
-emphasized such principles. Conceptually distinct from the kula and deśa dharmas, the text’s 
-final sections outline the dharmas of a king, which include the building of infrastructure within 
-which sacred fires are maintained, the protection of subjects and employment of surrogate 
-authorities, and the collection of taxes. In contrast to the time and care dedicated to each minute 
-feature of brahmacaryā life, all of these are discussed in so little detail that in practical terms 
-their institutionalization would be entirely unfeasible except in reference to comprehensive 
-bodies of knowledge external to the present discourse. Significantly, Āpastamba’s treatment 
-of what constitutes violation of the law within specific domains as well as the appropriate 
-punishment for specific transgressions all fall under the purview of the dharma associated with 
-kings, not—as in later sources—under a category of “legal proceedings” within which both 
-authoritative persons acting in the absence of the king hold juridical authority. 
-It is the manner in which Āpastamba closes his treatise, however, that renders plain that 
-his divergence from the totalizing vision we tend to associate with Dharmaśāstra as a discipline 
-and treat as the animating feature of Brāhmaṇical thought is not merely a reflection of the text’s 
-archaism but is integral to our author’s worldview.137 Mastering dharma, we learn, is not 
-acquired just through textual study, but through a process of the emulation of those who 
-embody the standard (lakṣaṇa), and such people are to be found in all the janapadas 
-(sarvajanapadeṣu). Our author concludes by telling us the remainder (śeṣa) of what constitutes 
-knowledge (vidyā) is to be found among women and śūdras (strīṣu śūdreṣu)—these teachings 
-are affiliated with the Atharva Veda. Indeed, the final sentence of the text suggests, that in 
-137Olivelle, Dharmasūtras, 114–15: sā niṣṭhā yā vidyā strīṣu śūdreṣu ca / ātharvaṇasya vedasya śeṣa ity upadiśanti / kṛcchrā dharmasamāptiḥ samāmnātena / lakṣanakarmaṇāt tu samāpyate / tatra lakṣaṇam / sarvajanapadeṣv ekāntasamāhitam āryāṇāṃ vṛttaṃ samyagvinītānāṃ vṛddhānām ātmavatām alolupānām adāmbhikānāṃ vṛttāsādṛśyaṃ bhajeta / evam ubhau lokāv abhijayati / strībhyaḥ sarvavarṇebhyaś ca dharmaśeṣān pratīyād ity eka ity eke // 
-176 
-addition to the forms of dharma that our sūtra teaches, the rest of the dharmas (dharmaśeṣān) 
-are to be learned from women (strībhyaḥ) and from people from all the castes 
-(sarvavarṇebhyaḥ). In short, it teaches us that dharmas and the norms they communicate are 
-many and the knowledge about them both resides within and applies to specific discrete 
-communities and demographics. 
-We have spent a good of time with Āpastamba’s interpretive project, not only because 
-it complicates some of our received notions of the structure and function of Brāhmaṇical 
-knowledge, but more precisely because key aspects of where it deviates from what is familiar 
-prefigure developments in the legal and theological tradition that we will explore in some detail 
-as this work progresses. Having in the first part of this chapter called into question romantic 
-idealizations of the imagined continuities between the democratic humanism of the Nehruvian 
-state and the cultural politics of ancient Buddhists, it would hardly do to substitute in their 
-places some equally erroneous “recovery” of the secretly “liberal” sympathies of the oldest 
-Brāhmaṇical writer on law. Even where there are apparent points of agreement with such 
-norms, they are often the product of very different motivations. Contrary to the model 
-promulgated by Thapar, quite common to Indological discourse, like many Brāhmaṇical 
-thinkers, Āpastamba is deeply invested in questions of ethics and views ethical comportment 
-as foundational to a life well lived to say nothing of a death well obtained. At the same time, 
-not only does he have zero interest in our notions of “fairness,” but the concept itself would 
-quite likely to him be utterly inconceivable. Āpastamba champions the necessity of receiving 
-guidance from bodies of knowledge associated with such disparate communities as 
-professional warriors, Śūdras, and women, not because he valorizes representing a range of 
-voices as intrinsically desirable in and of itself, but rather because he has strong 
-177epistemological and theological commitment to a kind of pluralism that sees knowledge and 
-praxis themselves as irreducibly context-specific and variegated. In this discourse, while our 
-author’s promulgation of the norms of varṇa and untouchability are in no way in conflict with 
-this embrace of pluralism, neither are the two features of his project closely associated either 
-conceptually or rhetorically. Conspicuously absent from this vision is a notion of dharma in 
-the singular as either a unitary framework that organizes and protects the world order or as the 
-specific cultural patrimony of learned Brāhmaṇas that they are instructed to impose on 
-others.138 
-In contrast, composed outside of the domain of what was then normative Vaidika 
-knowledge production, the Gautama Dharmasūtra, from its inception aspires precisely to 
-establish just such a totalizing project. “Vedo dharmamūlaṃ,” the text famously proclaims— 
-the foundation of law is the Veda.139 Here and throughout the text, dharma is presented in the 
-singular. Gautama immediately restricts the scope of what could constitute other sources of 
-knowledge about dharma to the practices and tradition of those “who know the Veda.” In other 
-words, all meaningful knowledge is in house. In his treatment of the role of Vedic student, now 
-a formative stage of development in preparation for becoming a householder and not a life- 
-path in and of itself, Gautama makes only a single reference to ethical character formation. 
-Unlike in Āpastamba, in this text, ethical character formation is not explicitly required of a 
-person in order for him to serve as authoritative source of knowledge. All that is necessary is 
-138Often in conversation with each other, both Alf Hiltebeitel and Patrick Olivelle have repeatedly directed our attention to the considerable significance of attending to when texts speak of dharmas versus a singular dharma. For a convenient digest of these exchanges, see Alf Hiltebeitel, Dharma: Its Early History in Law, Religion, and Narrative (New York: Oxford University Press, 2011). Note that Hiltebeitel corrects a historiographical error, originating, it seems, with Halbfass, that periodizes dharmas in the plural and dharma in the singular as representing Vedic and post Vedic usages, for in actuality, our archives offer precedents for both conceptualizations. 139Olivelle, Dharmasūtras, 120–21. 
-178 
-that he knows the Veda. Gautama does not discuss yoga. In its place—as the means to 
-soteriological fulfillment— he substitutes either performance of all of the forty sacraments 
-conducted in tandem with ethical virtue or the completion of at least some of the sacrifices by 
-a virtuous man. Our author proceeds to critique and reject, not just Āpastamba’s position that 
-the āśrama system offers a series of equally valid choices, but the validity of all human social 
-roles apart from being a householder. 
-As his discourse is centered on establishing the exclusive legitimacy of the 
-householder, his text intermingles the concerns previously assigned to the deśa and kula 
-dharma or dharma, as well as some matters associated with kings, into the domain of 
-householder dharma. Dharma, and by extension Dharmaśāstra, is here, quite possibly for the 
-first time, treated as a unitary framework. The defense of this totalizing dharma is upheld by 
-observances of the king in concert with Brāhmaṇas who know the Vedas. They are responsible 
-for ensuring the way of life of all the varṇas, of conscious beings, and all of manner of animals. 
-This socialization of a singular dharma, whose conceptual focus is no longer domain-specific 
-and liturgical, demands a new kind of governmentality, in which the Brāhmaṇa becomes 
-responsible for managing the social and reproductive mixing of castes as well as more 
-pointedly focusing on caste and varṇa normativities. This perspective demands a much more 
-detailed discussion of the behaviors and duties expected of social roles enacted by people like 
-Śūdras. In Gautama, expiation and the transgression of norms are no longer private affairs 
-impacting ritual success but have increasingly public and publicized consequences. It is for 
-this reason, for example, that we suddenly encounter delineations of the criteria for both 
-excommunication and readmittance to a caste. In essence, though the standards have been 
-revised, we would do well to see such an approach as amounting to an overt codification of 
-179 
-already extant insular attitudes typical of small towns the world over, where one’s reputation 
-is everything and the social pecking order is maintained through an endless stream of gossip 
-paired with intermittent public shaming. 
-In this much more familiar variety of “Brāhmaṇism,” dharma is indeed presented as a 
-singular framework that orders the social world. It is essential that we recognize, however, that 
-even in Gautama and the more familiar facets of the classical Dharmaśāstra discourse, key 
-features of the dharma discourses as they loom large in the India imagination, as it operated 
-on the eve of colonialism and that indeed persist to some degree into the present, are nowhere 
-in evidence. To put the matter pointedly, the Dharmaśāstra envisioned in these sources is not 
-a system explicitly invested in the regulation of religious practice in toto. While fiercely 
-defending a still emerging theory of Brāhmaṇical privilege—and offering a restricted vision of 
-the form that the life of a twice-born might take and from which a non-twice born must 
-abstain—it provides virtually no guidance either in regard to the vast majority of the ritual 
-repertoire proffered by the Vedic corpus or in relation to the by this period already indisputably 
-thriving world of non-Vedic practice, whether pertaining to the ubiquitous veneration of 
-localized spirit guardians or the emerging—often imperially inflected—veneration of lineage 
-deities and defied royalty. In regard to the twice-borns themselves—apart from denying the 
-legitimacy of asceticism—it lays no claims on either the acceptable scope of their own extra- 
-Vedic religious practices. Perhaps most importantly, in contradistinction to its early modern 
-analogues, the emerging world of classical Dharmaśāstra has zero interest in the actual contents 
-of the religious lives of non-twice-borns, besides prohibiting the access of Śūdras, 
-untouchables, and the mixed castes to the use of Vedic mantra systems in their worship. 
-180 
-In the Gautama Dharmasūtra—which is to say perhaps as late as the first century 
-BCE— the ordering of the social world in a manner that maximizes its alignment with the 
-ritual needs of an emerging class of twice-borns is not yet paired with a valorization of Sanskrit 
-textuality, a specific hermeneutical approach to the interpretation of texts, or an explicit 
-identification of these social values with the delimited geography of Āryavārta. In fact, what 
-recent scholarship suggests is that the conceptual synthesis of each of these elements into a 
-coherent whole is a product of the early centuries of the Common Era.140 The uneven inception 
-of such developments is made evident in the last of the two major classical works of 
-Dharmasūtra—the first-century BCE writings of Baudhāyana and the first-century CE 
-Vasiṣṭha Dharmasūtra—both of which explicitly present themselves as in dialogue with 
-Gautama’s text. Each of these works continues to develop the theory of dharma articulated in 
-Gautama’s writings, with Baudhāyana affirming Gautama’s position on āśrama as well as his 
-rejection of kula and deśa dharmas. Unlike Gautama and Vasiṣṭha, which are products of mode 
-of textuality produced outside of traditional pedagogical spaces, the sūtras of Baudhāyana is 
-the product of a specific lineage and for this reason it treats dharma not as extra-textual 
-abstraction, but as linked with individual Vedic transmissions as opposed to some abstracted 
-notion of a unified Vedic canon.141 
-This same dharma, however, can also be known on the basis of “the tradition” (smārta) 
-[among those who know the Veda], and the conventions of “cultured people”—which again 
-140It is worth reflecting that, even if we are to conclude that by the third century of the Common Era, a Brāhmaṇical zeitgeist in the classical sense has come to dominate the domain of Āryavārta, this would still mean that such a modality, largely post-dating the codification of what we call Mahāyāna Buddhism, emerges concurrently with early Pāśupata culture and only occupies the stage of history for a mere three centuries prior to our earliest surviving Tantric revelations. 141Olivelle, Dharmasūtras, 196–345. The passages with which we are currently concerned are found on pg. 196– 97. 
-181 
-means those who have studied the Veda and its components. Thus, in Baudhāyana—unlike in 
-Āpastamba’s model—a singular dharma—which undergirds everything—remains the 
-exclusive intellectual property of the community of twice-borns. For the first time in our 
-surviving discourse, Baudhāyana forges a connection between the holders of authority specific 
-to the realm of Dharmaśāstra and an emerging notion within the new world of śāstra of an 
-educated Brāhmaṇical elite. In this way—the dharmajñasamaya of Āpastamba—representing 
-one among many sorts of knowledge holders—are conflated with the śiṣṭa, and the specific 
-domain where such people are operative—which in Āpastamba could be any janapada—is 
-restricted to the land of where the black antelope wanders, Āryavārta. As Olivelle among others 
-have noted, Baudhāyana draws these definitions quite explicitly from the mid-second-century 
-Mahābhāṣya of Patañjali—which is to say, he joins together a prescriptive approach to the 
-perfection and regulation of social behavior that privileges textualized norms over lived social 
-practice with a prescriptive approach to regulation of the language that famously privileges 
-textualized norms over lived social practice. Whether the innovator here is Baudhāyana himself 
-or this development preceded him in other sources for which we simply lack attestation is 
-uncertain. What is clear, however, is that this conceptual leap is not only absent from 
-Patañjali’s intellectual project itself, but is explicitly in contradiction with his own 
-understanding. As Olivelle has observed, albeit in the service of making a substantively 
-different argument: 
-The dharma taught in the Dharmaśāstra has little to do with the Vedas but reflects the actual practices of local groups; the Dharmaśastras themselves are nothing but the textualization of such practice. Evidence from texts belonging roughly to the last three centuries before the Common Era indicates. . . this appears to have been the view of. . . the grammarians Kātyāyana and Patañjali, and Āpastamba. . . . Kātyāyana, in his Vārttikas on Pāṇini’s Aṣṭādhyāyī, makes a distinction between what is found in the Veda (vede and vaidika) and what is prevalent in the world (loke and laukika). . . . At least in Patañjali’s understanding of Kātyāyana, the category of laukika (worldly) does 
-182 
-not apply simply to what ordinary people say and do but to norms of behavior encoded in textualized forms that are certainly Dharmaśāstric injunctions. . . . In his comments on Pāṇini 1.1.47 (I:115), Patañjali’s statement naiveśvara ājñāpayati nāpi dharmasūtrakārāḥ (“Neither does the Lord command nor do the authors of the Dharmasūtras declare]. . . . [In this context,] it is more probable, however, that [instead of referring to God or the Veda, as later commentators suggest,] īśvara refers to the king, in which case the authors of Dharmasūtras parallel the king in authority to pronounce on matters of public importance.142 
-In the larger passage from which this is drawn, which offers us an earlier stage in his 
-theorization of the history of dharma literature, Olivelle is intent on recovering a prehistory of 
-Dharmaśāstra textuality. In doing so, perhaps anachronistically, he suggests the close 
-association—if not identity—of what Patañjali calls the Laukika and the realm of 
-Dharmaśāstra. This is a position, probably no longer adhered to by Olivelle, that Madhav 
-Deshpande’s studies in the early grammatical literature of the semantic range of the terms 
-loka/laukika very much calls into question.143 As Deshpande observes, while inclusive of the 
-Dharmaśāstra style vidhis of the sort that Olivelle highlights, in the discourse of the early 
-grammarians, the “worldly” also incorporates a range of what we might deem anthropological 
-and historical observations. Following something akin to the model we find in Āpastamba, in 
-short, the grammarians can just easily be read as advocating a framework where different 
-modes of knowledge are situated in discrete domains. Such a reading would be in alignment 
-with what, beyond its evidentiary value for historicizing the contents of dharma literature, is 
-probably the grammatical literature’s major contribution to this discussion, namely, its explicit 
-rejection of the central claim of all of the post- Āpastamba Dharmasūtras. Succinctly, while 
-the dharma literature’s fundamental claim is that it is founded upon the Veda or the Vedas, the 
-142Patrick Olivelle “Explorations in the Early History of the Dharmaśāstra,” in Between the Empires: Society in India 300 BCE to 400 CE, ed. Patrick Olivelle (New York: Oxford University Press, 2006), 174–76. 143See Madhav Deshpande, “Loka: The Linguistic World of Patañjali,” in Sanskrit and Prakrit: Sociolinguistic Issues (Delhi: Motilal Banarsidass, 1993), 17–33, especially pg. 19–21. 
-183 
-grammarians explicitly situate the entire discourse on dharma as a worldly affair conceptually 
-distinct from the realm of the Veda. In short, what to us now seem to be the self-evident 
-interconnection between these conversations represents not an organic development but what 
-at the time must have seemed a subversive redeployment of two originally tangentially 
-associated or even oppositional intellectual visions. 
-Attending to the disjunctures in and among the Dharmasūtras, it becomes clear that 
-our sense of the unity of this conversation within a single “Brāhmaṇical” frame is the product 
-of a hermeneutics of coherency external to the texts themselves. Within the surviving corpus, 
-it is in Vasiṣṭha, composed two hundred years before the glory days of Gupta-Vākāṭaka rule, 
-that both the constitutive elements of this second order meta-language as well its compositional 
-strategies—especially the logic of subordinate inclusion—first become evident. The most 
-important feature of Vasiṣṭha from its inception is that it adopts a conceptual and rhetorical 
-framework that deliberately and consistently aligns itself with Pūrva Mīmāṃsā approaches to 
-Vedic exegesis. In fact, Vasiṣṭha’s opening verse—athātaḥ puruṣaniḥśreyasārthaṃ 
-dhamajijñāsā”—is self-evidently a paraphrase of Jaimini Mīmāṃsā Sūtra 1.1—“athato 
-dharmajijñāsā.”144 In this way, Vasiṣṭha aims to put to rest any lingering suspicions that the 
-legal discourse on dharma is a pretender to the realm of Vaidika knowledge as well as any 
-remaining ambiguity that the knowers of legal dharma in this world and knowers of dharma 
-in its ritual sense might be different people or belong to discrete divisions within the 
-community. Directly paralleling standard Mīmāṃsaka accounts of the process of obtaining 
-apavarga, in this spirit we are assured that “the one who knows dharma and follows it is a 
-righteous man (dhārmika). Such a man becomes pre-eminent in this world and wins heaven 
-144Olivelle, Dharmasūtras, 350–51. Olivelle himself observes this parallel in his footnote 1.1 to his critical edition of Vasiṣṭha. 
-184 
-after death (svargalokaṃ samaśnute).” Furthering closing considerable conceptual gaps 
-between these conversations, attending to a line of argumentation that famously will be 
-developed by Śabarasvāmin in the fifth century, Vaisiṣṭha also asserts that legal dharma 
-adheres to the same standard as ritual dharma, as being identifiable as something that, in 
-contrast to worldly affairs, “lacks a tangible motive.”145 
-Much like Jaimini imposes upon the Veda an extra-textual metalanguage for reading 
-into the variegated corpus a unitary method and purpose, Vasiṣṭha attempts something 
-analogous in the realm of the Dharmasūtras. Thus, while he restores to the discussion 
-constituent elements we found in Āpastamba that the subsequent authors had expunged—such 
-as the legitimacy of all four āśramas, the inclusion of deśa and kula dharma, and sanctioning 
-of yoga as a part of Brāhmaṇical knowledge (though this later feature is already present in 
-portions of Baudhāyana of contested authenticity)—in each case, their inclusion is predicated 
-on a recasting of the values that previously animated the notion in question. Yes, we can accept 
-four āśramas, but only if there is no choice among them. Yes, we can include regional and 
-lineage dharma that are extra-Vedic, but only if they do not impinge in any way on the subjects 
-in the Dharmasūtras. And yes, yoga has a place in Brāhmaṇical knowledge, but in the context 
-of purification and expiation, not as a soteriological means. Succinctly, Vasiṣṭha’s inclusivism 
-is a matter of coopting and dismantling the individual parts that make up a coherent, competing, 
-and nonetheless Brāhmaṇical worldview within which dharmas are necessarily multiple and 
-forms of knowledge are domain- and community-specific. 
-Now in our usual emplotments of the history of Brāhmaṇical knowledge systems, the 
-sort of story we have just been telling amounts to an origin story—not just about 
-145Olivelle, Dharmasūtras, 350–51: agṛhyamāṇakāraṇo dharmaḥ, rendered by Olivelle as “For something to be Law, it must not have a tangible motive.” 
-185 
-Dharmaśāstra—but about śāstra itself—which is to say about virtually all learned non- 
-aesthetically oriented textual production in the Indic world that preceded the vernacular 
-revolution. This perspective, essentially Marxist and materialist in its intellectual origins, 
-amounts to an account of how a prescriptive, hierarchical, and totalizing approach in which 
-theory precedes practice superseded actual analytical engagement with the world of 
-experience. Such a stance has been perhaps most cogently and eloquently articulated in the 
-early writings of Sheldon Pollock: 
-This empowerment of śāstra, however, represents a development toward normative discourse that comes only over time. The nature and function of śāstra in the classical period are rather different from its late vedic antecedent. If we consider some of our earliest śāstras, namely the vedāṅgas, it becomes apparent that śāstra had initially a thoroughly descriptive character. The rules formulated for grammar, metrics, or phonetics were intended in the first instance to name, order, and describe the disparate and complex linguistic phenomena of the vedas in order that these texts might be more exactly preserved and transmitted. . . . 
-This I think can be demonstrated textually, but it also is the conclusion that the cultural logic of the vedic tradition invites us to draw: Precisely because they are vedāṅgas or “ancillaries to the vedas,” they must in essence be descriptive, having never been meant as guides to the practical activity of generating additional vedic materials. 
-Several examples of the fundamentally descriptive thrust of the vedāṅgas are readily provided. The Nirukta is not a lexicon designed with Dr. Johnson’s purpose of providing a standard for correctness and propriety (a lexicon, as in the words of the Plan, that seeks to “fix the [English] language),” which appears to be the purpose of Sanskritic dictionaries from the Amarakoṣa onward. Its one source is a list of obscure words (the Nighantu) found in the vedas, and for this list it functions as a commentary, or rather a kind of semantic analysis indicating the “real” meanings of those words. It is thus in a way similar to the “glossaries” of medieval England, the descriptive antecedents to the normative Johnsonian lexicon. Its purpose was simply to aid in interpreting the hieratic discourse of the vedas. In the same way, the chandaḥśāstra was not designed to provide apprentice rṣis with the metrical rules for constructing (“seeing”) new vedic sūktas. Piṅgala’s work describes the metric of the vedas in order to reveal its orderly pattern and so render it more easily assimilable, thereby guarding against corruption of the sacred texts. The vedāṅgas, thus, are in their very nature taxonomical, not stipulative; descriptive, not prescriptive. 
-Śāstra did not for long preserve this non-legislative character. In fact, the mutation is apparent already in the vedāṅgas themselves. For they include a great deal of (by 
-186 
-definition irrelevant) secular material, in comparison with which the vedic is in fact relatively sparse (chandaḥśāstra and vyakāraṇa are conspicuous examples; no rationale for including laukika material in the vedāṅgas is offered by the tradition, so far as I can tell). Any such recording of cultural data may have the effect, perhaps a natural and inevitable effect, of establishing authoritative principles. In ancient India, however, there were special factors, which we shall examine, that contributed to transforming śāstra into a rigorously normative code, enabling it to speak in an injunctive mood, with the authority appropriate to vedic vidhis. Śāstra would seem thereby to lose irrecoverably its participation in the dynamic symbiosis with practice that we are accustomed to presuppose in any competent ‘theoretical” formulation. Or perhaps more accurately, the understanding of the interaction between the two now takes on a distinctive and in some ways anomalous character with important consequences for cultural history. For here, on a scale probably unparalleled in the pre- modern world, we find a thorough transformation—adopting now Geertz’s well-known dichotomy of “models of” human activity into “models for,” whereby texts that initially had shaped themselves to reality so as to make it “graspable,” end by asserting the authority to shape reality to themselves. . . . 
-As is well known, the Suśrutasaṃhitā urges the student to examine cadavers carefully and subject them to anatomical scrutiny, “For it is only by combining both direct observation and the information of the śāstra that thorough knowledge is obtained.” The Carakasaṃhitā confirms this view, asserting that “Of all types of evidence, the most dependable is that directly observed,” and, in a memorable epigram, proclaiming that “The wise understand that their best teacher is the very world around them.” Such voices, however. . . may with some justice be viewed as oppositional, and in any case are pretty much in the minority. The dominant ideology is that which ascribes clear priority and absolute competence to shastric codification.146 
-146Sheldon Pollock, “The Theory of Practice and the Practice of Theory in Indian Intellectual History,” Journal of the American Oriental Society 105, no. 3 (1985): 503–510. For more of this argument, which Pollock’s own later writings, especially in the context of the Sanskrit Knowledge Systems Project, themselves critique and revise, see also Sheldon Pollock, “From Discourse of Ritual to Discourse of Power in Sanskrit Culture,” Journal of Ritual Studies 4, no. 2 (1990): 315–345, as well as Sheldon Pollock, “Mīmāṃsā and the problem of History in Traditional India,” Journal of the American Oriental Society, 109, no. 4 (1989): 603–610. As we shall see, while much of Pollock’s remarks hold true as a critique of Mīmāṃsā, his totalizing vision of śāstra’s unified intent does not even hold true with regards to many of his own chosen examples. Thus, for example, Pollock asserts that “as one medieval manual of asceticism puts it, ‘Renunciation undertaken even by a man who has found the truth must proceed according to shastric injunction. It is not an act like casting off a worn-out garment, for instance, to be done according to no fixed rule.’ The argument raised here is elsewhere extended to virtually all spiritual striving. In the introductory chapters to its massive and eclectic presentation of medieval spiritual disciplines, the Yogavāsiṣṭha argues out in detail the peculiar efficacy of action performed in accordance with śāstra, echoing views we have seen expressed frequently.” Pollock, “The Theory of Practice and the Practice of Theory,” 509. The Yogavāsiṣṭha in actuality famously proclaims as its siddhānta that “the word of even a child must be accepted, if it is connected with reasonable arguments. Any other should be dismissed like straw, even if it is taught by Brahmā” (yuktiyuktam upādeyaṃ vacanaṃ bālakād api / anyat tṛṇam iva tyājyam apy uktaṃ padmajanmanā /) In some recensions of the vulgate, the text then continues with a searing critique of inherited traditional procedures, lamenting the fools who continue to drink at a dirty well because it was dug by their ancestors as “slaves under the control of others.” 
-187As is well known, Pollock would continue on to attribute this, from his perspective, 
-inexorable development of learned discourse along this prescriptive track—allegedly divorced 
-from “reality”—with some warrant to the Vedic exegetical tradition of Pūrva Mīmāṃsā. As 
-Pollock and his students have convincingly demonstrated, Mīmāṃsā develops a deeply 
-sophisticated departicularizing and dehistoricizing model for reading both individual texts and 
-textual corpuses prescriptively and as having a singular unitary meaning. In the process, it 
-develops powerful interpretive tools—whose subtle parsings of how language can have 
-different rhetorical and cognitive force finds no equal in the history of human thought until the 
-twentieth century—that become wildly influential in such diverse intellectual environments as 
-the realms of Vedānta and Sanskrit poetics. And to be sure, Mīmāṃsā does indeed set out to 
-inscribe the term śāstra itself as consisting of simply—vidhi and pratiṣedha—prescription and 
-prohibition. But as the very examples Pollock has just provided above inadvertently 
-demonstrates, its efforts to this effect are more aspirational than actual, representing but a 
-single current among internally variegated Brāhmaṇical models of knowledge production. 
-As we have just seen, alongside the Nirukta tradition of Vedic semantic analysis, 
-Pollock identifies two early works of medical literature—the Suśrutasaṃhitā and the 
-Carakasaṃhitā— as emblematic of the empirically oriented road not taken in the history of 
-Brāhmaṇical thought. In essence we are again offered a simple binary between two imagined 
-extremes, the notion that, as the Caraka argues, “The wise understand that their best teacher is 
-the very world around them” and the realm of “śāstric codification.” What makes this model 
-so problematic is that, since the early twentieth century, more capacious and inclusive 
-historicazations of the emergence of śāstra have identified the Caraka itself as the formative 
-antecedent for the Indian traditions of logical analysis and inferential reasoning, knowledge 
-188 
-systems that are at least as fundamental and influential as Pūrva Mīmāṃsā in constituting the 
-style and substance of what we call śāstra. 
-Developing a line of argumentation first suggested by the great nineteenth-century 
-scholar of logic and Pali Satis Chandra Vidyabhusana,147 over the past three decades, a project 
-based out of the University of Vienna has been critically editing the Caraka in tandem with 
-the earliest complete works of Indian Logic belonging to the school of Nyāya philosophy. In 
-doing so, Karin Preisendanz, Ernst Prets, and their students have demonstrated that Indian 
-philosophical approaches to examination (parīkṣā), the identification of causes (hetu), the 
-reading of inferential indications (liṅga) that grant us indirect knowledge about an underlying 
-phenomenon, even debate (vāda) itself are deeply conceptually and rhetorically indebted to the 
-diagnostic and deliberative discourses of Early Āyurveda. In contextualizing the circa 
-first/second-century CE Caraka, Preisendanz has in turn shown that our earliest medical 
-literature is the product, not only of the same intellectual milieu that produced the Nyāyasūtra, 
-but specifically of the discursive space we first find articulated by “the authors of the religio- 
-philosophical treatises assembled in the Vārṣṇeyādhyātma group of chapters found in the 
-Mokṣadharma section of the Mahābhārata.”148—which is to say our earliest recoverable 
-moments in the history of Sāṃkhya and Vaiśeṣika philosophy. Perhaps most significantly from 
-our perspective, in an important but neglected article entitled “Reasoning as a Science, its Role 
-147See Satis Chandra Vidyabhusana, History of Indian Logic: Ancient, Medieval and Modern Schools (Calcutta: Calcutta University, 1921), 25–26. For an early critique that builds on Vidyabhusana’s model, offering significant modifications, see the subsection “Did Logic Originate in the Discussions of Āyurveda Physicians” in Surendranath Dasgupta, History of Indian Philosophy Volume II (Cambridge: Cambridge University Press, 1932). 148Karin Preisendanz, “Reasoning as a Science, its Role in Early Dharma Literature and the Emergence of the Term Nyāya” in Logic in Earliest Classical India, ed. Brendan S. Gillon (Delhi: Motilal Banarsidass, 2010), 30. See also, produced as part of the same project, Sung Yong Kang, “Die Carakasaṃhitā in der Geschichte der indischen Philosophie I. Nyāya und Carakasaṃhitā” (The Carakasaṃhitā in the History of Indian Philosophy I. Nyāya and Carakasaṃhitā), Wiener Zeitschrift für die Kunde Südasiens 50 (2006): 143–176. 
-189 
-in Early Dharma Literature and the Emergence of the Term Nyāya,” Preisendanz conclusively 
-shows us that these very same influences that inform the Cāraka—profoundly empiricist in 
-their orientation—are integral to the earliest strata of the literature on nīti and dharma. In the 
-case of the discourse on dharma in particular, such traces are strongest not when the 
-Dharmasūtras are engaged in the conceptualizations of law as a “religion of everyday life” but 
-rather when they turn to the evidentiary realm of legal proceedings, which demands the 
-weighing of competing claims and the evaluation of evidence. Developing upon Preisendanz’s 
-premises, within the quotidian realm of the court, decisions need to be arrived at— not in 
-accordance with injunction (yathāvidhi) as Mīmāṃsā would have it—but, by careful reasoning 
-(tarka) “after deliberation (abhyūhya). . . according to the actual state of affairs/situation) 
-[yathāsthānaṃ].” Succinctly, the very same texts—especially Gautama and Vasiṣṭha—where 
-the prescriptive and disciplinary model we call Brāhmaṇical normativity is first being 
-articulated also contain within them other conceptualizations of what “Brāhmaṇical knowledge 
-production” or even “doing Brāhmaṇa” might be, models that as we will see momentarily, find 
-much more robust realization in other decidedly Brāhmaṇical social domains. Without 
-committing to either the valorization or denigration of “empirical” or “this worldly” concerns 
-and the type of context- and site-specific transactional navigation that addressing such matters 
-successfully demand, what our sources make clear is that, just as much as their śramaṇa rivals, 
-Brāhmaṇical thinkers and social actors were very much engaged in this domain. 
-Until very recently, simply because we have lacked much in the way of appropriate 
-sources that could be unambiguously dated to before the fourth or fifth century, what 
-systematic Brāhmaṇical knowledge might have looked like before the Gupta Era—even 
-whether much of that sort of thing existed at all outside the realm of Veda, Law, and 
-190 
-grammar—has been open to wild speculation. Perhaps most pointedly, Johannes Bronkhorst 
-and to a lesser extent James Fitzgerald have proposed that, since we cannot find them in the 
-narrow pool of demonstrably early sources, most of the theological and philosophical features 
-we view as constitutive of “Brāhmaṇical religions,” as opposed to a Brāhmaṇical sociality 
-founded upon caste strictures, must themselves be Gupta era developments.149 This framework 
-posits that much of Brāhmaṇical thought, including the doctrinal dimensions of the 
-Mahābhārata, is produced en masse under the Guptas, and that it is simply a pastiche of older 
-non-Brāhmaṇa notions newly retrofitted to a Brāhmaṇical social model. Brāhmaṇical modes 
-of reasoning as well as soteriology are thus read as unidirectionally appropriated from an 
-śramaṇa intellectual milieu that critiqued but did not dialogue with comparatively primitive 
-pre-speculative proto-Brāhmaṇical traditions. Building on his much more plausible “out of 
-Magadha” postulation of a separate geographical site of origin for early śramaṇa thought 
-around the fifth century BCE, Bronkhorst in particular postulates that we should see places 
-such as Gandhāra as the real post Magadha era “center” of early Indic civilization representing 
-an autonomous intellectual and sociological non-Brāhmaṇical domain within which 
-Brāhmaṇas and the logic of caste played little or no part. The recovery, editing, publication, 
-and continuing study of two corpuses—one in Gāndhārī and the other in Sanskrit—that, as 
-both carbon dating and paleographical analysis conclusively demonstrate, offers us 
-manuscripts penned between the second century BCE and the second century CE, offer a 
-149As a follow up to Greater Magadha, Johannes Bronkhorst has published two volumes, Johannes Bronkhorst, Buddhism in the Shadow of Brahmanism (New York: Oxford University Press, 2011), and How the Brahmins Won: From Alexander to the Guptas (Leiden: Brill, 2016), which purports to offer a complete account of how Brāhmaṇical normativity drove Buddhism off the stage of Indian history. Bronkhorst asserts in How the Brahmins Won, pg. 17–42, that Gandhāra remains a domain free of Brāhmaṇical normativity, a position that the next section of our analysis will definitively refute. 
-191 
-serious challenge to such suppositions and thankfully, from our perspective, places our 
-discussion of these matters on much firmer ground. 
-As Richard Salomon, who initiated the thriving field of Gāndhārī studies has recently 
-shown, for example, the otherwise unattested Gāndhārī language Bahubuddhakasūtra is 
-preserved in a first-century BCE manuscript, making it a near contemporary of both the 
-Gautama and Baudhāyanadharmasūtras.150 This is a proto-Mahāyāna work that offers a series 
-of the lives of the Buddha within a Bodhisattva inflected framework. It seems to be an original 
-composition specific to the Gandhāra region and the Gāndhārī language. And yet, much to the 
-consternation of those who would see a world free from “Brāhmaṇism” as a world where 
-“Brāhmaṇical normativity” and the discourse of caste finds no place, the Bahubuddhakasūtra’s 
-fifth chapter delineates “the social classes of the Buddha” with the express purpose of 
-communicating the message that “buddhas are always kṣatriyas or Brahmans; they never 
-belong to any other class.”151 
-While it is problematic to speculate about the entire corpus—since much of it remains 
-unpublished and unstudied—if we take the sampling of sources in translation presented by 
-Richard Salomon in his recent anthology as representative, Gāndhārī Buddhist writings offer 
-us a strikingly familiar set of “demographic preferences.” While Buddhas can be either 
-Brāhmaṇas or Kṣatriyas, disciples of the Buddha mentioned in these texts certainly include 
-Vaiśyas. This is to say that directly contemporary to the emergence of the dvijāti as lexeme 
-and concept, independent of any appeal to the Vaidika sources, Buddhists in Gandhāra are 
-150The publication in 2018 of a Gāndhārī reader for more general audiences has made this highly technical body of literature accessible for the first time. Richard Salomon, The Buddhist Literature of Ancient Gandhāra: An Introduction with Selected Translations (Somerville: Wisdom Publications, 2018). For the Bahubuddhakasūtra, see pg. 265–294. 151Salomon, The Buddhist Literature of Ancient Gandhāra, 291–92. 
-192 
-adhering to a comparable notion of ritual or religious eligibility (adhikāra). At least so far as I 
-can determine, where humbler sort of professions—such as artisans or potters—make their 
-appearance in these texts, it is in the accounts of the previous lives of the Bodhisattvas and the 
-disciples of the Buddha. Entirely typical in this regard is the tale of Ajñāta Kauṇḍinya—notice 
-his Brāhmaṇa gotra name—who in his past life as a potter provided resources and shelter to a 
-pratyekabuddha during the rainy season.152 This is to say, in precisely the manner the 
-Brāhmaṇical legal texts prescribe, he acted like a good śūdra and offered service to a member 
-of the higher castes. Though the notion is nowhere stated explicitly, the moral of the tale is that 
-as a result of this appropriate action, the potter obtained rebirth as the sort of person—namely, 
-a Brāhmaṇa-bodied person—who might benefit more directly soteriologically from the 
-Buddha’s teachings. What are not in evidence in these sources, in contrast, are the numerous 
-contestations or inscriptions of Brāhmaṇa-hood as a cultivatable or ethical status of the sort 
-McGovern has so convincingly recovered from other early parts of the Buddhist canon. Rather 
-than offering a refutation of McGovern’s analysis, however, such region and canon specific 
-discursive patterns should instead be read as indicative of the fact that our imagined 
-Buddhism—just like our imagined “Brāhmaṇism”—was not a monolithic doctrinal 
-formulation wedded to particular social forms, but instead internally diverse, contested, and 
-contradictory in its relations to forms of knowledge, sociality, and power. 
-Incidentally, though they offer us examples of literary, philosophical, and doctrinal 
-commentary in a manner akin to śāstra, another thing we do not find in the published Gāndhārī 
-sources is evidence of a robust intellectual environment that nurtures philosophical debate 
-(vāda) within the Buddhist saṅgha let alone across communities. Whereas in contemporary 
-152Salomon, The Buddhist Literature of Ancient Gandhāra, 246–49. 
-193 
-and near contemporary Brāhmaṇical sources in Sanskrit—such as the Dharmasūtra literature 
-and the Āyurvedic texts—terms of art like vivāda are treated as referring to competing legal 
-claims or a legitimate conceptual dispute within the discourse, which in either case needs to be 
-resolved based on an examination of evidence, in the Gāndhārī commentary on the “Sūtra of 
-Chanting Together,”153 vivāda is a purely pejorative term for wrongful dissent. Instead of 
-demanding an examination of competing claims so that one might arrive at a correct 
-understanding of circumstances—“just as they are”—here, vivāda, founded on destructive and 
-wrongful emotions and impulses, is simply a disrespectful behavior, resulting from an 
-undeveloped and unpurified mind, that must be snuffed out. This is to say, that both 
-terminologically as well as conceptually, these early Gāndhārī sources show little if any 
-dialogical engagement with the terms of art and modes of conceptualization seemingly native 
-to the interrelated empiricism invested discursive spaces reconstructed by Preisendanz. 
-If the Gāndhārī sources point to unexpected sociological continuities with an emerging 
-canon of standards linked to one particular articulation of a normative Brāhmaṇism, the 
-recovery and publication (though sadly not complete translation) of what Eli Franco has called 
-“The Oldest Philosophical Manuscript in Sanskrit” offers us unmediated access to at least some 
-of what a debate conducted between many types of Buddhists and many types of Brāhmaṇas 
-would have looked like during the first and second centuries of the Common Era.154 Discovered 
-in a cave in Chinese Turkestan, we owe the preservation of so-called Spitzer manuscript, to 
-say nothing of the publication of the works of Franz Kafka, to the remarkable Jewish 
-153Salomon, The Buddhist Literature of Ancient Gandhāra, 95–308. 154This important mostly neglected work, which contains a diplomatic transcription of the entire contents of the manuscripts paired with photos of all of the surviving folios, was published in two volumes. Eli Franco, The Spitzer Manuscript: The Oldest Philosophical Manuscript in Sanskrit, 2 vols. (Vienna: Verlag der Österreichischen Akademie der Wissenschaften, 2004). On the Rāmāyaṇa, see pg. 9. 
-194 
-intellectual and Indologist named Moshe Spitzer. A friend of Martin Buber, Franz Rosenzweig 
-and Gershom Scholem, Spitzer has been working with the text at the Prussian Academy of 
-Sciences and when he fled Berlin for Israel in 1939, for much of the original was destroyed in 
-the war. Despite never publishing his edition in progress, he preserved the work in transcript 
-and photographs and Franco’s study of this materials is made possible by his efforts. 
-Within Indology and the study of South Asian religion, the Spitzer manuscript is known 
-almost exclusively for its attestation of what is probably the oldest summary of the Rāmāyaṇa 
-found in a non-Brāhmaṇa source,155 and more importantly, for a fragmentary list of the internal 
-divisions of the Mahābhārata that can be plausibly read as suggesting that at the beginning of 
-the Common Era, the Mahābhārata was only two thirds as long as what we find in the critical 
-edition and was missing such key parts of the text as the Virāṭa, Anuśāsana, and Svargārohana 
-Parvans. Ironically, it is on the basis of this very same unannotated list that scholars like 
-Bronkhorst and Fitzgerald have envisioned an ur-Epic that was theologically and ideologically 
-a very different sort of document than what we have before us.156 When placed in the context 
-of the contents of the rest of the Spitzer manuscript, however, which appears to begin with a 
-digest of a range of types of Brāhmaṇical knowledge and then eventually moves on to offering 
-dialectical engagements founded on the use of formal logic conducted among different types 
-of Buddhists, but also with archaic traditions of Sāṃkhya, Vaiśeṣika, and Mīmāṃsā, this story 
-155Eli Franco, The Spitzer Manuscript, 9: “Sītā, with her husband’s welfare in mind. . . . followed him into exile [and] living in the forest. . . . she was carried off by Rāvaṇa, the emperor of Laṅkā. . . [gap]. . . by Rāma [who searching for her, met] the king of the apes. . .[gap] and. . . . having asked for his friendship [gap] [besieged] the Rakṣasas and [gap].” 156For an exhaustive treatment of this reception history and speculation about how the Spitzer list of parvans relates to the Mahābhārata version it recognized, see John Brockington, “The Spitzer Manuscript and the Mahābhārata,” in From Turfan to Ajanta: Festschrift for Dietrich Schlingloff on the Occasion of his Eightieth Birthday, ed. Eli Franco and Monika Zin, (Rupandehi, Nepal: Lumbini International Research Institute, 2010) 75–87. 
-195 
-of cultural, conceptual, and stylistic discontinuities seems less and less plausible. Indeed, 
-except around the margins—as say for example, when Spitzer’s Vaiśeṣikas offer a model 
-where guṇas are an additional ontological category—the overwhelming impression one gets 
-in trying to read this rather long and badly damaged text is that by the first century or so of the 
-Common Era, both the style and substance of Indian philosophical debate—among Brāhmaṇas 
-just as much as Buddhists—had been in existence for a number of centuries. 
-To simply highlight in sequence a few interesting moments in this rather difficult work, 
-the contents of the Spitzer manuscript include: a summary of the doctrine of Ājīvakas that 
-neither dharma nor adharma bear any result, explorations of the nature of suffering and 
-liberation, an introduction to Sāṃkhya and Vaiśeṣika ontologies, a theory of both Buddhist and 
-non-Buddhist approaches to veridical knowledge (pramāṇa), our Mahābhārata and Rāmāyaṇa 
-sections, an engagement with Dharmaśāstra and the discipline of the arts, the representation of 
-the omniscient Buddha as knowing the Vedas and śāstra—including the disciplines of dancing 
-and singing, various doctrines of mokṣa that posit the liberation of a lasting self, whether garlic 
-(laśuna) has different effects on Brāhmaṇas, a consideration of how the examination (parīkṣā) 
-of the body produces dispassion, a debate about whether saṃsāra has a beginning, a refutation 
-of the existence of a supreme deity responsible for everything, an argument about whether the 
-Buddha’s words could be true since they are in Prakrit, a discourse on love and compassion 
-and their difference from attachment, a consideration of whether consciousness is intrinsically 
-pure, and a refutation of the idea that is constitutive of reality. All of the above are followed 
-by a delineation of the rules of philosophical debate and a whole lot of philosophical back and 
-forth among Buddhists and with Vaiśeṣikas, Sāmkhyans and Mīmāṃsakas. This later 
-196 
-material—the only portions of the text that Franco has critically edited as opposed to 
-transcribed—occupies the majority of the surviving portions of the manuscript. 
-When we turn to the sociological and doctrinal but not strictly “philosophical” 
-dimensions of our text—though much of it is still in shambles—what we find is hints of the 
-veneration of the god Nārāyaṇa, some sort of soteriological ādhyātmika approach to mokṣa 
-((s)arvveṣu hi bhūteṣu sagu[ṇe]. . . . opadeśā mokṣādhigamaḥ),157 and a Dharmaśāstra that 
-believes in multiple āśramas—at least gṛhasthāśrama158 and [vā]naprasthā159—multiple 
-forms of differentiated dharmas—the svadharma of Kṣatriyas (yajanam addhyayana[ṃ] 
-dānam iti) and what is likely one associated with kings, (parānugrahakṛtā 
-taddharmmalakṣaṇa[ṃ] sarvvavarṇṇeṣu),160 as well as legal proceedings and rules concerning 
-which things are to be eaten and not eaten. In some of the most complete portions of the text, 
-we are also offered a canon of worldly entextualized knowledge as it appears in the first few 
-centuries of the Common Era. This is inclusive of musical śāstra (gandharvaveda)—though 
-we only hear about rhythms (tāla)—medicine (cikitsā), war (yuddha), accounting (gaṇa), and 
-knowledge of writing or scripts (emd. libijñānam to lipijñānaṃ), Kāmaśāstra, kāvya, 
-commentarial writing, storytelling, skill in song and dance, craft (śilpa)— defined as 
-comprised of the work of the blacksmith (karmmāra), washer person or rope maker (rajaka), 
-craftsmen/sculptor (takṣaka), one who works with red lac (jatukāraka), a hunter who uses a 
-spear (kuntakāraka), and potter (kumbhakāraka), and astrology. Unexpectedly, this entire 
-canon is defined as “Brāhmaṇical knowledge” and the occasion for its delineation is a debate 
-about what it really means to say the Buddha is omniscient, namely, does this imply he 
-157Eli Franco, The Spitzer Manuscript, 74. 158Eli Franco, The Spitzer Manuscript, 153. 159Eli Franco, The Spitzer Manuscript, 217. 160Eli Franco, The Spitzer Manuscript, 64. 
-197potentially could know everything or that he actually actively had comprehensive command of 
-the contents of all knowledge systems. Surprisingly, the Spitzer manuscript’s siddhānta holds 
-to the latter stance, telling us that the Buddha had memorized all of the Vedas and their aṅgas 
-and all forms of “Brāhmaṇical” śāstric knowledge —a category which as we can see strangely 
-encompasses accounting, scribal practice, and the whole range of Śūdra craftsmen professional 
-knowledge. 
-The Spitzer manuscript’s engagement with Brāhmaṇical philosophy in its various 
-forms is even more detail laden and particularized and a careful study of the evidence it 
-provides—which cannot be attempted here—has the potential to substantively alert our sense 
-of the floruit of Indian philosophical debate. Indeed, for example, in regard to Sāmkhya in 
-particular, our first- to second-century text envisions a school of thought to which Kapila, 
-Pañcaśikha, and unnamed others have already offered their diverse contributions. Interestingly, 
-in its presentation of the lineage, unlike the Sāṃkhyakārikā, the text excludes from its 
-delineation both Āsuri—who is typically placed right after Kapila but before Pañcaśikha—and 
-also offers no mention of Īśvarakṛṣṇa, the author of the Sāṃkhyakārikā itself. Yet at the same 
-time, it provides indications that it is well acquainted with the type of “theistic Sāṃkhya” that 
-is typically assumed to have played no role in early formal philosophical discourse. This is all 
-the more unexpected for, while much of the later tradition identifies Pañcaśikha himself as 
-responsible for the dissemination of diverse and sophisticated forms of Sāṃkhya discourse, 
-based on the evidence available to him, Gerald Larson has previously argued that Pañcaśikha’s 
-Sāṃkhya must have been purely speculative and must not yet have taken the form of formal 
-śāstric debate and reasoning.161 No one, however, could look at the Spitzer manuscript, where 
-161See for example, Gerald Larson, “Pañcaśikha,” Encylopedia of Indian Philosophy IV: Sāṃkhya (Delhi: Motilal Banarsidass, 1987), 7–9, 113–123. 
-198 
-Sāṃkhya positions are asserted alongside those of Buddhist schools of thought, Vaiśeṣika, and 
-Mīmāṃsā in a language replete with pakṣas, pūrvapakṣas and siddhāntas—all asserted using 
-abstract ablative constructions—technical determinations of logics of inherency (anvaya), 
-logical fallacy conflicting premises (virodha) and refutation based on undesirable 
-consequences (prasaṅga), probans (liṅgas), primary causes, facilitating cause and effects 
-(kāraṇa, nimitta, and kārya), latent and completed effects (adattaphala and dattaphala), 
-correct determination and ascertainment, things to be established and means of establishing 
-them (sādhya, sādhaka, and sādhana), to say nothing of lots of talk about the durability of 
-sounds, words, and pots, and conclude that what they are encountering is anything other than 
-robust and mature registers of Brāhmaṇical and non-Brāhmaṇical philosophical reasoning. 
-Within his edition and transcription of the second/third-century Spitzer manuscript, 
-Franco has identified a number of direct textual parallels with a work called the Tarkaśāstra.162 
-Ascribed by later tradition to Vasubandhu, this early work of Buddhist logic is preserved only 
-in its Chinese translation which was composed by the Indian Buddhist Paṇḍita Paramārtha 
-around 550 CE. Paramārtha, who seems to have been born somewhere around Ujjain and who 
-died somewhere in what is now China, was one of the few Indian pandits to successfully make 
-that long journey and the only scholar of his sort to transmit both Buddhist and Brāhmaṇical 
-sources. On the basis of its date of translation, scholarship has typically assumed that the 
-Tarkaśāstra itself was at best a work of the mid-fifth century and thus that the same would 
-hold true for the two additional and otherwise unattested works of Brāhmaṇical philosophy— 
-the Vaiśeṣika Daśapadārthī and Sāṃkhya Suvarṇasaptati—transmitted alongside it in 
-162In the second volume of his study of the manuscript, Franco makes extensive use of the Tarkaśāstra and its studies by Gnoli in reconstructing a fragment of philosophical discourse preserved in the Spitzer manuscript because a key pūrvapakṣa in that work offers arguments transmitted in our work. See especially Franco, The Spitzer Manuscript, vol. 2, 465–480. 
-199 
-Paramārtha’s canon. Our translator, however, has characterized these three works as 
-representative of basically contemporary interlocutors for their respective schools of thought. 
-Now that we can comfortably place arguments of the sort that we find the Tarkaśāstra as 
-already present within second/third-century philosophical discourse, this characterization 
-assumes a rather different significance. For even though they have typically been assumed to 
-be Gupta or post-Gupta compositions, both of Paramārtha’s “Brāhmaṇical” works in terms of 
-both their form and their content have been long recognized by scholarship as offering a 
-glimpse of a particularly early stage in the development of tradition. What the Spitzer 
-manuscript suggests is that such texts look archaic because they are archaic and in fact can 
-plausibly be treated as early Gupta or even pre-Gupta era compositions. 
-In particular it is the second work, the Sāṃkhya Suvarṇasaptati that will occupy our 
-attention.163 Not only is it doctrinally archaic—as has long been noted,164 it offers numerous 
-textual parallels to materials found cited as the works of ancient writers in the later 
-commentaries—but its theological and sociological content, much of it couched in a narrative 
-style eerily reminiscent of Buddhist story telling traditions, speak of an internally diverse 
-Brāhmaṇical world within which there are a multitude of ways of being and doing Brāhmaṇa 
-but surprisingly few traces of the type of “Brāhmaṇical normativity” we typically infer must 
-have governed the silent majority of social arrangements as they appeared on the ground. 
-163The analysis that follows is based on the N. Aiyaswamisastri’s reconstruction of the Sanskrit from the Chinese translation of Paramārtha based on a lost Sanskrit original. N. Aiyaswami Sastri, ed., Suvarnasaptati Sastra: Sāṅkhya Kārikā Saptati of Īśvara Kṛṣṇa with a Commentary Reconstructed into Sanskrit from the Chinese Translation of Paramārtha (Tirupati: Tirupati Devasthanam Press, 1944). 164This case has been made most comprehensively in Esther Abraham Solomon, The Commentaries of the Sāṃkhya Kārikā: A Study (Ahmedabad: Gujarat University, 1974), as well as her edition, Esther Abraham Solomon, ed., Sāṅkhyasaptativrttih (Ahmedabad: Gujarat University, 1973). Solomon argues that the Suvarṇasaptati, which she assumes must be comparatively late based on its date of translation, is borrowing is archaic material from Sāṃkhyasaptativṛtti. In fact, the reverse seems to be the case. 
-200 
-The Suvarṇasaptati opens with an encounter between a Brāhmaṇa named Āsuri, who 
-is reveling in the dharma of a householder (āsure ramase gṛhasthadharmeṇa) and the 
-compassionate (mahākaruṇya) and semi-divinized sage Kapila, whose very nature is an 
-expression of dharma, jñāna, vairāgya, and aiśvarya.165 Kapila’s initial teaching is not 
-concerned with Sāṃkhya doctrine in particular, but rather admonishes Āsuri for being a 
-Brāhmaṇa who has abandoned brahmacaryā. In short, it provides confirmation of McGovern’s 
-thesis that side by side with the Dharmaśāstra models, there existed a likely older conceptual 
-model in which Brāhmaṇa-hood was primarily defined by celibate ascetic observances. In 
-response to Kapila’s critique, Āsuri abandons the gṛhasthadharma and becomes Kapila’s 
-disciple. Just as in this narrative interlude, the first teaching presented in the body of the 
-Suvarṇasaptati is not Sāṃkhya-specific knowledge, but instead a philosophical and 
-theological dictum, widely shared across the boundaries of Brāhmaṇical and śramaṇa schools 
-of thought during this period. Succinctly, like most forms of classical philosophy apart from 
-Pūrva Mīmāṃsā, our text teaches that the foundational concern of human existence is the 
-problem of suffering. 
-Invoking a Vaidika framework already established in the Nirukta, the author of the 
-Suvarṇasaptati characterizes suffering as taking three forms, the spiritual (ādhyātmika), the 
-material or physical (ādhibhautika), and the supernatural (ādhidaivika).166 In offering us two 
-examples of forms of knowledge that can assist in annihilating suffering, the Survaṇasaptati 
-165Suvarṇasaptati, pg. 1–2: purā kila maharṣirākāśajātaḥ (brahmasutaḥ) svābhāvikadharmajñāna- vairāgyaiśvaryacaturguṇātmakaḥ kapilo nāma babhūva / . . . . nigūḍātmā tam upetya vācam evam uvāca bho āsure ramase gṛhasthadharmeṇa iti / imāṃ vācam uktvā antataḥ pratijagāma /. . . . evam ukte brāhmaṇo muniṃ pratyuvāca satyaṃ bhagavan rame gṛhasthadharmeṇa iti / tadā maharṣiḥ śrutvaitat punar niragāt / sa pāścādbhūya abhyupetya [tām eva] vācam abhyuvāca / brāhmaṇas taṃ pratyāha evam eveti / maharṣis tu apṛcchat / utsahase śuddhaṃ brahmacaryaṃ vastuṃ na vā iti / brāhmaṇa āha utsahe tathā vastum iti / atha gṛhasthadharmam apahāya pravrajyācaryām ācaran kapilaśiṣyo babhūva / 166Suvarṇasaptati, pg. 2–5. 
-201 
-presents us with the dual paradigms of Āyurveda and the Veda. This interpretive choice is quite 
-evocative of the deep history philosophical discourse we have been exploring in which high 
-scholastic discourses emerge in close relation to quotidian empirically oriented disciplines, 
-such as medicine, which have a diagnostic approach to understanding “things just as they are.” 
-When our author makes use of the category of Veda, it is not as an abstraction or a source of 
-injunction but in reference to the specific semantic messages—mostly supportive of 
-soteriology—communicated in particular textual passages. While most of these are drawn from 
-the Ṛg and Yajur Veda, as we shall see, he also draws upon works not typically affiliated with 
-that canon. This investment in a Vaidika mode of engaging with Vedic textuality travels in 
-tandem with a representation of the religious landscape that prominently features Vedic deities. 
-Perhaps most tellingly, instead of being represented as a foolish “also-ran” to the great gods of 
-bhakti—the typical trope in Epic and Purāṇa—our text treats Indra and his rituals as iconic 
-invocations of mainstream religious veneration. 
-Thus, Vaidika knowledge from our author’s frame of reference represents an assumed 
-intellectual mainstream that nonetheless needs to be made sense of using a markedly different 
-approach than we typically associate with Brāhmaṇical reading strategies. It is surely no 
-accident that the Suvarṇasaptati’s delineation of the forms of “external knowledge” 
-(bāhyajñāna)—as comprised of the vedāṅgas (śikṣā, vyākaraṇa, kalpa, jyotiṣa, chanda, and 
-nirukta)—and the vidyāsthānas—quite noticeably makes no mention of Mīmāṃsā, though this 
-school of exegesis features prominently in a comparable place within the later Sāṃkhya works 
-of exegesis. This is likely because our author’s analysis of scriptural text shows no indication 
-of being influenced by Mīmāṃsaka reading strategies—which privilege particular types of 
-verbal expressions—but instead align him with the semantic focus of which we find echoes in 
-202 
-the style of reading scripture practiced by the followers of Yāska. As a source of techne as 
-opposed to doctrine, however, in the Suvarṇasaptati, Vedic knowledge is understood as 
-entirely devoted to laukika modes of knowing. These are then—of course—contrasted with the 
-liberating knowledge derived from Sāṃkhya. 
-Perhaps nowhere is the Suvarṇasaptati’s at once informed—one might even say 
-“insider” perspective—and yet at the same time skeptical or disenchanted attitude towards 
-“Brāhmaṇical” knowledge more clearly displayed than in how it frames its criticism of the 
-impassioned mind that inevitably engenders transmigration.167 Unexpectedly, but altogether 
-unmistakably, our text singles out human beings who “by means of their passion for rājasic 
-activity (anena rājasarāgena) obtain rebirth in saṃsāra, among the classes ranging from the 
-realm of Brahmā down to the birds” (brahmasthānāditiryagjātiparyante saṃsāre 
-janmopādatte) through identifying “some people who think (kaścin manyate) ‘I enact the great 
-act of philanthropy! I perform that which is to be done on behalf of the gods, which is the great 
-yajña! I drink the soma, I will experience bliss in the other world!’ (ahaṃ mahādānācārami, 
-mahāyajñadevakāryaṃ karomi, somarasa[ṃ] pibāmi, paraloke sukhanubhaviṣyāmi).”168 In 
-other words, the canon exemplifying zealous orientations that block soteriological attainment 
-is virtually identical with highest forms of practice and knowledge extolled in the early Veda. 
-And, while our text assigns Brāhmaṇas who scrupulously carrying out their ritual obligations 
-to rebirths in domains ranging from the god realms to incarnation as a ghoul (piśācajāti) or 
-animal (tiryag-jāti), it conspicuously refuses to draw a connection between the human 
-categories of varṇa and jāti and specific karmic destinies. Indeed, not only is any varṇa other 
-than that of a Brāhmaṇa never discussed in our text—let alone varṇa as a system—but the 
-167Suvarṇasaptati, pg. 64. 168Suvarṇasaptati, pg. 64. 
-203 
-Suvarṇasaptati’s representation of social reality and prescriptive norms on the ground, in 
-narrative and parable, diverges quite jarringly from the social forms we would anticipate for 
-premodern India. For while it offers us tales of merchants and their caravans travelling 
-Pataliputra to Ujjain, of blind men, wandering ascetics, and many accounts of power of kings, 
-the world it depicts is one in which the Brāhmaṇical pariṣad comprised of learned 
-Dharmaśāstrins wields little disciplinary power. 
-It is in this regard that we must attend to our text’s reimagining of the category of 
-dharma as more a matter of ethics than ritual comportment. According to our author, dharma, 
-which here bears no explicit connection to the Veda, is indeed comprised of prescriptions and 
-restrictions (yama and niyama instead of vidhi and niṣedha). Instead of injunctions, however— 
-the category of yama is comprised of non-enmity (adveṣa), doing good work for the teacher 
-(ācāryasatkāra), maintaining internal and external purity (antarbahiḥ śaucaṃ), restraints on 
-food and drink (annapānanigraha), and not being careless (apramāda)—and the category 
-niyama consists of not harming (ahiṃsā), not stealing (asteyam), speaking truth (satyavacana), 
-and brahmacarya—with most of the yamas and all but the last of the niyamas being treated 
-as incumbent on human beings in general. Such a framing not only represents a departure from 
-the worldviews we find in the Dharmaśāstras, but it specifically subordinates the key focuses 
-of works of Dharmaśāstra like Gautama—with their privileging of comportment and purity 
-strictures—such that these become one among many elements in the discourse. 
-Just as our text takes a different approach to construing Vedic textuality, mythology, 
-and orthopraxy, so too does it offer a markedly different impression of what constitutes 
-Brāhmaṇical identity. Like all of the early Sāṃkhya commentaries, in characterizing the type 
-of social agents who know the twenty-five categories (pañcaviṃśatitattvajña) and through 
-204 
-them achieve liberation, the Survaṇasaptati twice invokes a source it calls the mokṣa gāthā. 
-This floating verse tells us that the knowers of the twenty-five categories dwell in an āśrama 
-and may bear matted locks (jaṭī), have shaved heads (muṇḍī) or a top knot (śikhī).169 This 
-characterization is much akin to one our text highlights in its own long and highly repetitive 
-narrative vignettes, which stylistically bearing a striking resemblance to the early Buddhist 
-canon. The two passages on which we will focus in particular both occur in the last of our 
-text’s three divisions. On the surface, the first tale resembles an early foray into the world of 
-the qualitative sociological survey, for in it a Brāhmaṇa student seeks out a whole bunch of 
-different types of Brāhmaṇas, queries them with the exact same question—having known what 
-have you gone forth? (kiṃ buddhvā pravrajito ‘si)—and then records their answers. 
-Underneath all of this of course lies a specific didactic point, for the number of Brāhmaṇas 
-queried conveniently corresponds to the text’s delineation of types of “enjoyments” (tuṣṭi). 
-Nonetheless, the numerous, detailed, and highly idiosyncratic representations of different 
-modes of “being Brāhmaṇa” on display here, while serving no obvious function in furthering 
-the text’s main arguments, possess an air of almost anthropological verisimilitude, evocative 
-of a world to which we otherwise have very little access. 
-The first Brāhmaṇa, for whom Indian philosophy was apparently a purely abstract 
-intellectual exercise, responds by telling us that he renounced the world when he gained the 
-understanding that something called pradhāna is the cause of the three realms. Lacking further 
-levels of understanding, we are told, he did not achieve his soteriological goal.170 If the first 
-169Suvarṇasaptati, pg. 5: pañcaviṃśatitattvajño yatra tatrāśrame vaset / jaṭī muṇḍī śikhī vāpi mucyate nātra saṃśayaḥ// 170Suvarṇasaptati, pg. 69: yathā brāhmaṇā gṛhaṃ tyaktvā pravrajitāḥ / [tatraikaṃ] kaścit puruṣaḥ pṛcchati / kiṃ buddhvā pravrajito ’si iti / ayaṃ prativadati / jānāmy eṣāṃ trayāṇāṃ lokānāṃ pradhānaṃ tathyaṃ kāraṇam / ataḥ pravrajito ’smi iti / sa brāhmaṇaḥ kevalaṃ jānāti pradhānaṃ kāraṇam iti / na jānāti nityam anityaṃ vā sacetanam acetanaṃ vā suguṇaṃ nirguṇaṃ vā vyāpy avyāpi vā iti / kiṃtu jānāti astīti kāraṇaṃ ceti / atas tuṣṭir jāyate / sa na bhavati muktaḥ / 
-205 
-Brāhmaṇa’s answer was banal and expected, the second perspective is quite surprising. The 
-second Brāhmaṇa says that while the doctrine that pradhāna is the cause the world is important, 
-the means to liberation demands the practice of what he calls upadāna—“the instrument for 
-the proper procedure of practice utilized by all the ones who have gone forth.”171 The first three 
-components of this upadāna, the triple staff (tridaṇḍa), the water vessel (kuṇḍika), and the 
-saffron robes (kaṣāya), represent the typical accoutrements of Brāhmaṇical ascetic. It is the 
-final component, euphemistically called the “auspicious thing” (maṅgala) that proves so 
-surprising, for most of its five components—a sheath of ash [on the body] (bhasmakośika), 
-wearing the rudrākṣas (rudrākṣamaṇi), having a body wrapped in a three-fold thread/cloth 
-(tritantuveṣṭitakāyatvaṃ), the recitation of mantra (mantrapaṭhana), and, perhaps most 
-bizarrely, installing a kuśa vine on the top of one’s dreadlocks (jaṭāgre kuśavallīsthāpana), are 
-evocative of a Śaiva ascetic. In this early form of Śaiva tradition, however, it appears that it is 
-neither doctrine, nor initiation, but conduct alone that makes possible liberation. 
-In contrast, Brāhmaṇas three, four, and five all appeal to the privileging of specific 
-doctrinal notions, whether it is through fleshing out of the notion of the pradhāna in relation 
-to questions of the eternal and noneternal and the conscious or unconscious, or factoring in the 
-roles played by time—perhaps in the sense of sustained concerted effort in sustaining practice 
-and understanding—or fate, maybe even just good luck—as the keys to obtaining liberation. 
-Rather ambiguously, while treating each in sequence as inadequate, instead of simply 
-171Suvarṇasaptati, pg. 69–70: atha dvitīyaṃ brāhmaṇaṃ pṛcchati / kiṃ jñātvā pravrajito ’sīti / sa prativadati / ahaṃ vijānāmi pradhānaṃ lokakāraṇam iti / mokṣakāraṇam upādānam iti ca jñātavān asmi / pradhānaṃ tathyaṃ kāraṇam iti [jñāne] saty api yady upādānaṃ nāsti / mokṣo na sidhyati / tasmād upādānaṃ svīkaromi / upādānaṃ sarvapravrajitānuṣṭhānapaddhatyupakaraṇam / [tac ca] upakaraṇaṃ caturvidhaṃ / tridaṇḍakuṇḍikā- kaṣāyamaṅgalāni / 1) bhasmakośikā 2) rudrākṣamaṇiḥ 3) tritantuveṣṭitakāyatvaṃ 4) mantrapaṭhanaṃ 5) jaṭāgre kuśavallīsthāpanam iti / etāni pañca śikṣācaryopakaraṇāni aśuddhim apanayantīti maṅgalam ity ucyate / prāk siddhaiḥ tribhiḥ sahāṣṭopakaraṇāni / ebhyo mokṣaṃ lapsye ity anena pravrajito ’ham iti / tasmād dvitīyā tuṣṭir upādānākhyā / anayā tuṣṭyā na mokṣaṃ labhate / 
-206 
-dismissing these perspectives as wrong views, the Suvarṇasaptati categorizes them 
-collectively as the nimitta tuṣṭis, seemingly suggesting that each of these approaches can 
-represent a necessary, if not sufficient, part of Sāṃkhya religious life. We next encounter— 
-surprise surprise—five more Brāhmaṇas, who again offer us tantalizing glimpses of the very 
-unexpected social world in which they live. As we shall see, perhaps most interestingly, for 
-the first and the last of these Brāhmaṇas, the motivation for renouncing the world is framed in 
-abstract existential and ethical terms and not as a response to personal disappointments and 
-failures. Here is how the first Brāhmaṇa answers: 
-He asks the first Brāhmaṇaḥ: Knowing what have you gone forth? [The Brāhmaṇa] responds: 
-There are five types of sense objects in world. Occupations (vṛtti) are for the purpose of accumulating those objects. Whether it is agriculture (kṛṣi), protecting cattle (pāśupālyaṃ), serving the king (rājasevā), or mercantile activities (vāṇijya)—all of those are bad activities. Or, let’s say, having abandoned those four occupations—let a person [instead] steal things! This additional occupation of accumulating things is a bad activity because of the niyama [asteya (one should not steal)], because it afflicts oneself as well as another (svaparapīḍā). Having seen these occupations are bad, I desire to go forth.172 
-Our first Brāhmaṇa arrives at the rather understandable conclusion that it is impossible 
-to participate in the transactions of the professional world without engaging in unethical action 
-or hurting other people. And so, instead of going to graduate school like similar minded people 
-do today, he renounces the world and takes to the road without ever even getting involved in 
-the transactional professional life and responsibilities expected of a young householder. Apart 
-from its basic message, two features of our first Brāhmaṇa’s discourse are pertinent to our own 
-investigation. First, our Brāhmaṇa’s critique of the transactional world bears a striking 
-172Suvarṇasaptati, pg. 70–71: ādau prathamaṃ brāhmaṇaṃ pṛcchati / kiṃ jñātvā pravrajito ’sīti / sa pratyāha / loke pañca viṣayāḥ santi / tadviṣayārjanārthaṃ vṛttayaḥ—yadi vā kṛṣiḥ, yadi vā pāśupālyaṃ yadi vā rājasevā yadi vā vāṇijyaṃ—sarvā[s tā] duṣkarāḥ / tāś catasro vṛttīr vihāya yadi vā cauryaṃ kriyatām / iyam [api] viṣayārjanavṛttir niyamena duṣkarā / svaparapīḍanāt / etā vrttī[r duṣkarā] dṛṣṭvā pravrajyām icchāmi / 
-207resemblance to a similar but much more extended treatment of the same topic in the oldest 
-surviving work of Śaiva commentary, the fourth-century Pāśupatasūtrabhāṣya of Kauṇḍinya. 
-These connections will become self-evident when we turn to Kauṇḍinya’s critique of the world 
-of transactions at the conclusion of this chapter. Such parallels are particularly intriguing in 
-light of the Śaiva elements—associated with the practice of upādāna—that, independent of a 
-recognizable Śaiva theology, our text seems to have suggested at least sometimes play a 
-supplementary role in the religious life of a Sāṃkhya adept. 
-What is more even jarring however is that the social world our Brāhmaṇa is 
-condemning is hardly the domain of varṇāśramadharma we would anticipate. Our Brāhmaṇa’s 
-moral conundrum is predicated on disavowing a decision to pursue a vocation in either 
-agriculture (kṛṣi), protecting cattle (pāśupālyaṃ), serving the king (rājasevā), or mercantile 
-activities (vāṇijya), and this moral dilemma is only meaningful if he was potentially free to 
-choose from among those activities. And yet, apart from the role of serving a king, the 
-traditional strictures of our familiar forms of Brāhmaṇical knowledge expressly forbid a 
-Brāhmaṇa from engaging in any of these activities except perhaps during a temporary time of 
-crisis.173 What is equally interesting is that missing from this list of options—indeed missing 
-from the entirety of the Suvarṇasaptatati itself—are any representation of the traditional roles 
-usually assigned to Brāhmaṇas, such as scholar, legalist, or professional Vedic ritualist, which 
-are often imagined—at least in theory—as providing refuge from a world governed by violence 
-and impurity. 
-Much in alignment with what contemporary anthropology and sociology have shown 
-us in studying modern ascetic demographics, our next several householder Brāhmaṇas 
-173As we have seen, such a formulation is already evident in the third-century BCE Āpastamba Dharmasūtra. 
-208 
-renounce the world in response to personal disappointment. The first one becomes distraught 
-because he is unable to protect his hard-won private property, while the other renounced the 
-world when he recognized that his desire for material things outstripped his capacity for 
-acquiring them. In contrast, the last person who is asked offers a vivid denunciation of the 
-world as a place where professional success is inseparable from acts of violence. 
-I am capable of seeking for the obtainment of what is not obtained; having obtained it, I protect it so it is not destroyed. Having enjoyed it, I am capable of getting stuff again. If I want something better, then I am capable of getting that also. That being the case, why have I gone forth? 
-Because another is harmed by the fourfold occupation for accumulating things. If I am not violent, then this occupation is not successful. If I am a farmer, I would have to cut down grass and trees. If I were a warrior, then I would have to kill people. Or otherwise, I would have to steal other people’s money—and then I would have to kill other people. Or if I were a merchant than I would have to speak falsehood with my own voice. All faults arise in the world along with sense objects. Having known that fault, I desire to go forth.174 
-The last Brāhmaṇa is essentially an older and wiser version of the first. Just like his 
-predecessor, he envisions a social world out of joint with the Dharmaśāstra—but strangely in 
-alignment with much of our inscriptional record— where successful Brāhmaṇas become 
-farmers, warriors, merchants and thieves—everything, that is, but professional householder 
-Brāhmaṇa scholars and Vedic ritualists. Not only do the Brāhmaṇas in our text scarcely ever 
-behave like “typical Brāhmaṇas,” the work does not affiliate professions with varṇa nor does 
-it ever provide any positive conceptual content to its category of Brāhmaṇa. In fact, all of the 
-Brāhmaṇas on display when we encounter them are either renouncers or in the process of 
-becoming renouncers. 
-174Suvarṇasaptati, pg. 72: aham alabdhalābhāyānveṣṭuṃ kṣamaḥ labdhvā rakṣāmy akṣayāya / upabhujya punar ārjayituṃ ca kṣamaḥ / yady utkṛṣṭam icchāmi / ahaṃ [ta]d api labdhuṃ kṣamaḥ / tathā cet kutaḥ pravrajitaḥ / viṣayā[rjana]vṛtticatuṣṭayenānyo hiṃsyate / yadi hiṃsako na [bhavāmi] iyaṃ vṛttir na siddhyati / kṛṣikṛś cet tṛṇāni vṛkṣān chindyām / yoddhā cet tadā janān hanyām / yadi vānyadhanāpahartā / tadānyān vadhyām / yadi vā [vaṇik] svavācā mithyā brūyām / iti sarve doṣā loke viṣayeṇa sahodyanti / aham etad doṣaṃ jñātvā pravrajyām icchāmi / 
-209 
-A similar dynamic is on display in another curious tale, which this time is framed as a 
-teaching about the power of philanthropy in accomplishing one’s goals (dānasiddhi). In this 
-heartwarming story, a Brāhmaṇa who is hated and despised by his community—we never learn 
-if this is due to prejudice or for wholly warranted reasons—buys his way back into the good 
-graces of society and is then able to purchase salvific knowledge. 
-A certain Brāhmaṇa is hated by people, and knowing that others hated him, for that reason goes forth. He having gone forth, the ācārya along the tīrthas also hates him. He does not give knowledge [to him]. Having himself realized his meager fortune, he goes to dwell in another village. Then, he says to himself, “This country is devoid of Brāhmaṇas. I will dwell here for the rainy season.” Having gone and dwelt there, he obtains a lot of alms. He offers what is left over to the friends, relatives [of the rural folk] all the way up through to the cow herder woman. In that village, all the people become affectionate. 
-[When] he is desiring to complete his rainy season retreat, all the people give him other clothes and a three-part staff. Then the festival to Indra (śakrotsava) draws near, so he says to the people, “Who will come to my mahājanapada in order to see this festival with me? If you wish to go, all you folks should go, having first given some special thing or other to me. Having gone there [to the mahājanapada], he goes to the gurukula. Picking out the best stuff, he honors the ācārya. Then, he subdivides the leftovers in sequence for the students. Now, the teacher and all the friendly people all like him. Then, the guru gives him knowledge. And by that knowledge he obtains the ultimate knowledge, then he obtains mokṣa. This is the siddhi achieved through philanthropy.175 
-Among the many peculiar features of this in some ways very cynical story, one thing 
-that stands out is that this is essentially a tale of outcasting in which neither a formal process 
-of shunning or nor formal procedure of expiation for readmittance is in evidence. Our ascetic 
-goes to a place where there are no other Brāhmaṇas—a term that plausibly here really means 
-175Suvarṇasaptati, pg. 75–76: yathā kaścid brāhmaṇo janadviṣṭo jānāty anyaṃ dviṣantam / tasmāt pravrajati / pravrajitam ācāryaḥ satīrthyā api dviṣanti / na jñānaṃ dadati / svayaṃ jnātvā [sva]lpabhāgyatāṃ grāmāntaṃ gacchati vastum / svayaṃ ca vadati ayaṃ pradeśo brāhmaṇarahitaḥ / atra varṣāvāsaṃ vasāmīti / gatvoṣito bahu labhate bhikṣām / sa śiṣṭaṃ suhṛdbhyo bandhubhyo gopālāṅganāparyantebhyaḥ pratyarpayati / asmin grāme sarve ’pi janā snigdhā bhavanti / varṣāvāsaṃ parisamīpsor janāḥ sarve ’pi tridaṇḍam atra vastrāṇy anyāni ca dadati / [tataḥ] śakrotsavaḥ saṃnihitaḥ / tadā janān vadati / ko mayā saha enam utsavaṃ draṣṭuṃ mama mahājanapadam āgamiṣyati / yadi jigamiṣatha, yūyaṃ sarve janā mahyaṃ yat kiṃcid datvā gacchata iti / tatra gatvā gurukulaṃ prayāti / utkṛṣṭaṃ vastu samuddhṛtyācāryaṃ satkaroti / avaśiṣṭāni krameṇa sahādhyāyibhyaḥ saṃvibhajati / ācāryaḥ suhṛjjanāḥ sarve ’pi snigdhā bhavanti / tadā gurur jñānaṃ dadāti / anena jñānena pāryantikaṃ jñānaṃ prāpnoti / tadā mokṣaṃ ca labhate / iyaṃ dānalabdhā siddhiḥ / 
-210 
-renouncers. There, the local people, who once again are unexpectedly well off for “Śūdras” 
-and other “uncivilized” folk, reflexively interact with him in much the same way as we saw in 
-the Gandhāran account of the pratyekabuddha and the potter. Instead of simply piling up the 
-alms he is offered, our Brāhmaṇa cleverly converts it into good will. And so, when the four 
-months of the rainy season are over and it is time for the late August festival dedicated to Indra, 
-our previously unfortunate person is able to return to the normative social world in the 
-company of a huge following of followers or well-wishers who also have bestowed upon him 
-a concrete material fortune. Again, in contradistinction to the Dharmaśāstra, which forbids the 
-selling of knowledge, our previously disgraced Brāhmaṇa uses his new social capital and 
-wealth to effectively purchase a guru.176 This teacher then abandons his past negative 
-judgements of the potential disciple and confers on him his highest teachings. All of these 
-activities take place in a world where the strictures of “Brāhmaṇical normativity” seem to be 
-nowhere in evidence. 
-A similar attitude where śāstra engages with a surprisingly transactional view of the 
-world which is utterly uninvested in the promotion of varṇāśramadharma is on display 
-throughout much of the earliest register of Brāhmaṇical śāstra that is not conceptually indebted 
-to the lineage of the Mīmāṃsakas. Thus, works such as the Daśapadārthī, 
-Patañjaliyogaśāstra, and Āgamaprāmāṇya of Gauḍapāda—the foundational texts of 
-Vaiśeṣika, Yogadarśana, and the non-Mīmāṃsā inflected form of Advaita Vedānta, all do not 
-incorporate the naturalization of a specific social order as a part of their interpretive project. 
-Much as we saw in the Suvarṇasaptati, when such texts treat the matter of how karma informs 
-human destiny the discussion is always about how meritorious actions leads either to the 
-176As we have seen, such a formulation is already evident in the third-century BCE Āpastamba Dharmasūtra. 
-211 
-obtaining of a human birth or soteriological success and how unbeneficial actions engender 
-transmigration into the body of an animal or creature, rather than about where karma ought to 
-place a person within the strictly human social pecking order. Far from making efforts in terms 
-of naturalizing specific human social circumstances into the fabric of reality, these texts take 
-great pains not to draw such connections. Succinctly, the rhetorical strategy of invoking a 
-conceptual connection between the theorization of natural kinds (jāti) and human caste 
-taxonomies (jāti), which has become commonplace in early modern śāstra in both Sanskrit 
-and the vernacular, is entirely absent from this early discourse. To be quite clear, many if not 
-most of these texts were likely the product of a social world organized around an implicit or 
-explicit social hierarchization that bore at least a family resemblance to the logic of caste and 
-class. What is pertinent here is that such sociality is incidental to the vision of śāstra on offer, 
-except perhaps in as much as it contributes to creating a leisure class in a position to produce 
-the kind of discourse of which these texts preserve some traces. 
-By the time we reach a textual world roughly contemporary with the world of the 
-Guptas and Vākāṭakas, the dynamics have begun to shift—from utter disinterest within much 
-of the realm of śāstra to tangential incorporation. Our most compelling and intellectually 
-interesting example is the oldest complete commentarial work from the tradition of Nyāya, the 
-fifth-century Nyāyabhāṣya composed somewhere in south India by the scholar variously 
-referred to as Vātsyāyana and Pakṣilasvāmin.177 We can acquire a better sense of the rhetorical 
-place which the consideration of varṇāśramadharma occupied within the world of early Nyāya 
-by examining the two places where the concept makes an appearance—never as the central 
-177In interpreting the Nyāyabhāṣya, I follow the text as given by Michel Angot and also am heavily indebted to his interpretations. Michel Angot, Le Nyāyasūtra de Gautama Akṣapāda le Nyāya Bhāṣya d’Akṣapāda Pakṣilasvāmin, l’Art de Conduire la Pensée en Inde Ancienne, Edition, Traduction et Presentation de Michel Angot (Paris: Societé d’édition Les Belles Lettres, 2009). 
-212 
-focus—within Pakṣilasvāmin’s arguments. In the first case, our author argues against the 
-position, asserted by Gautama in his Dharmasūtra, that there is only a single valid āśrama— 
-that of the householder—and that the soteriological orientation of ascetics is proscribed by the 
-Veda. In the second, he attempts to refute a Cārvaka’s claims that the committing of good and 
-bad deeds alike bear no subsequent and substantive consequences. Thus, in the first case the 
-focus is on arguing for the necessary multiplicity of modes of knowing and authoritative 
-sources, while in the second Pakṣilasvāmin aims to establish that there is a moral order to the 
-universe. In both instances, the logic of varṇa makes an at best cameo appearance. 
-Much of the investigation of apavarga in the fourth division of the Nyāyasūtras 
-engages directly and antagonistically with a doctrine closely akin to that propounded in the 
-Gautama Dharmasūtra. As represented in this Bhāṣya, in much the same manner as has been 
-discussed at length by Olivelle, Gautama’s core position is that there is no specific injunction 
-that mandates the existence of more than one āśrama—and for this reason, for a twice-born, 
-only the occupation of a householder is valid. Since the performance of the ritual duties of a 
-householder and the payment of the three debts (ṛṇa) incumbent on every human being is the 
-work of a lifetime, Gautama asserts that there is no place in the human world for the practice 
-of renunciation nor for its soteriological orientation. Both of these then must be forbidden by 
-the Veda. Pakṣilasvāmin’s initial response observes that, while there are no specific injunctions 
-in favor of multiple āśramas within the Vedic corpus, neither does it contain any explicit 
-prohibitions. And, while he will go on to provide ample textual support, drawing especially on 
-the Atharva Veda, to the effect that the Vedic corpus displays an investment in soteriological 
-aims that Gautama’s impoverished social model cannot fulfill, more fundamentally, what he 
-provides the reader is a competing sociology of knowledge founded on a rejection of the 
-213 
-ascription of veridical authority solely to the Vedic corpus that is at the heart of Gautama’s 
-project, in favor of a very different vision of the forms that true knowledge might take. The 
-passage is worth quoting at some length: 
-The assertion that “there is only a single householder āśrama and not any others” is untenable, because no such explicit prohibition has been revealed [in scripture]. . . . 
-And, injunction operates on the basis of eligibility, as with other disciplines of knowledge, just as other śāstras explicitly provide injunctions regarding their own respective eligibilities, and not regarding [eligibility] for another subject matter. Thus, this brāhmaṇa passage systematizing the householder [āśrama] provides explicit inunctions regarding its own eligibility, and not regarding other āśramas, because of the lack [of such injunctions]. 
-As for the argument that the Dharmaśāstra lacks validity, this position would have the undesirable consequence of the destruction of the world (loka-uccheda) because of the erasure of the activities/law (vyavahāra) [that applies to] living beings. And, these authorities cannot be non-authoritative because they have the same seers and speakers [for their authors as do the Vedas]. . . . Because of the differentiation of domains based on subject, their authoritativeness is subject-specific [viṣayavyavasthānāc ca yathāviṣayaṃ prāmāṇyaṃ]. The subject matter of mantra and brāhmaṇa is one thing, and the subject matter of Itihāsa and Purāṇa is something else. Yajña [is the subject of] mantra and brāhmaṇa, worldly conduct [is the subject of] Itihāsa and Purāṇa, the subject of Dharmaśāstra is the differential application of the law in the world (lokavyavahāravyavasthānam). In these matters, everything cannot be established by any one of these [genres], and thus they are means of veridical knowledge within their respective domains, just like with the sense organs and so forth [with regard to their appropriate sense objects].178 
-One of the central arguments of the present work is that, just as much as the far more 
-famous Mīmāṃsā inflected vision of prescriptive, totalizing, and hierarchical śāstra 
-reconstructed by Sheldon Pollock, the worldview that Pakṣilasvāmin here so eloquently is 
-178Nyāyabhāṣya, pg. 61: na santy āśramāntarāṇi eka eva gṛhasthāśrama iti pratiṣedhasya pratyakṣato ‘śravaṇād ayuktam etad iti / adhikārāc ca vidhānaṃ vidyāntaravat / yathā śāstrāntarāṇi sve sve ‘dhikāre pratyakṣato vidhāyakāni nārthāntarābhāvād evam idaṃ brāhmaṇaṃ gṛhasthaśāstraṃ sve ‘dhikāre pratyakṣato vidhāyakaṃ nāśramāntarāṇām abhāvād iti /. . . . aprāmāṇye ca dharmaśāstrasya prāṇabhṛtāṃ vyavahāralopāl lokocchedaprasaṅgaḥ / draṣṭṛpravaktṛsāmāṇyāc cāprāmāṇyānupapattiḥ / ye eva mantrabrāhmaṇasya draṣṭāraḥ pravaktāraś ca, te khalv itihāsapurāṇasya dharmaśāstrasya ceti / viṣayavyavasthānāc ca yathāviṣayaṃ prāmāṇyam / anyo mantrabrāhmaṇasya viṣayo ‘nyac cetihāsapurāṇadharmaśāstrāṇām iti / yajño mantrabrāhmaṇasya, lokavṛttam itihāsapurāṇasya, lokavyavahāravyavasthānaṃ dharmaśāstrasya viṣayaḥ / tatraikena na sarvaṃ vyavasthāpyate iti yathāviṣayam etāni pramāṇānīndriyādivad iti // 
-214 
-giving voice to—already suggested by Āpastamba, which we will encounter again and again 
-in many forms and registers—needs to be understood as a core Brāhmaṇical worldview, the 
-understanding of which is absolutely essential if one is to make sense of the premodern Indic 
-world. Fundamentally, it amounts to an epistemic assumption that the forms of knowledge and 
-modes of authority that make the world work are intrinsically diverse, contextually bounded, 
-and site- and community-specific. In other words, it offers a theory of interpretation that is 
-antithetical to the reading practices derived from Pūrva Mīmāṃsā—reading discourses as 
-unitary and univocal—that are fundamental to so many śāstras. As we can see from its 
-appearance here in a work of Nyāya—later in this chapter we also encounter it within our 
-earliest work of Vedic commentarial exegesis—though often overlooked, such a perspective 
-is hardly absent from or marginal to the mainstream scholastic tradition. More importantly, 
-however, in contradistinction to Mīmāṃsā and its modes of knowing, as the next thousand 
-pages will make plain, once you start looking for it, across a range of social locations a similar 
-orientation is evident in the realms of quotidian and pragmatic, the juridical, the theological, 
-ritual prescription, and the theorization and ordering of space at almost every register of 
-discourse—Brāhmaṇa and non-Brāhmaṇa—in the Indic medieval world in general and that of 
-the Deccan in particular. 
-Like most scholars of Nyāya, Pakṣilasvāmin believes that perception (pratyakṣa), 
-tradition (āgama) inclusive of but not reducible to the Vedic corpus, and inferential reasoning 
-(anumāna) are three conceptually distinctive but equally valid means for acquiring veridical 
-knowledge about our world. Just as the means of acquiring knowledge are various, so too are 
-the type of human authorities—those who possess the reputation of being valid veridical 
-authorities or āptapramāṇa—in which such knowledge is situated. It is hardly an accident then 
-215 
-that our author integrates his most strident and effusive defense of the notion āptapramāṇa 
-immediately following his analysis of Vedic authority and how one might properly construe 
-the Vedic sentence. After informing us, in an idiom akin to Mīmāṃsā, that the Vedic sentence 
-is to be analyzed in terms of its possible functions as injunction (vidhi), providing 
-supplementary information or encouragement (arthavāda), and repetition or reinforcement 
-(anuvāda), Pakṣilasvāmin circumscribes these hermeneutical principles so that they apply 
-solely to Vedic language. He then proceeds to challenge as misguided the assertion that 
-veridical authority (prāmāṇya) resides with the Veda alone. While in alignment with the sūtra 
-in the root text that closes out the chapter, our author begins by asserting the authoritative 
-person (āpta) has veridical authority for the same reason the Āyurvedic texts hold veridical 
-authority—because what they direct proves consistently efficacious—Pakṣilasvāmin then 
-proceeds to make an ethical and soteriological argument not native to the Nyāyasūtra that 
-establishes the authoritative person as a valid source of knowledge on rather more surprising 
-and expansive grounds. 
-On what basis is there veridical authority ascribed to the āpta? [We say, because] they see things directly (sākṣātkṛtadharmāṇaḥ), they want to communicate things as they are (yathābhūta). [From seeing things directly, they discern] “you have to discard this, that’s the way to get rid of it, you have to get this, and that’s the way to get it.” They feel compassion (anukampante) for living beings. 
-[The āpta reflects,] “These living beings who have no knowledge of themselves, have no other source of knowledge apart from instruction. . . . They can neither avoid what is bad for them nor desire what is good, or if they do not, they have no well-being and they cannot resort to anything else. 
-Come on! Let us teach them things as we see them (yathādarśanam—also according to our system)—just as they are (yathābhūtam)— after listening, they will know! What to avoid, they will avoid, and what to get, they will get it. Whoever accepts this instruction (upadeśa) founded upon the veridical authority of the āpta. . . . Putting it 
-216 
-into practice, there will be the accomplishing of their objective. This is the veridicality of the teaching of the āpta and the veridicality of the āpta.179 
-Instead of envisioning human authorities as the impersonal embodiments of a canon of 
-traditional prescriptions, here the learned teacher, whether his subject is salvation or something 
-else entirely, embodies an ethos of compassion. He offers his instruction so that other living 
-beings, who lack the upadeśa, can avoid the unnecessary suffering that results from making 
-destructive choices, and ultimately will be able to obtain their objectives. Succinctly, the 
-teacher is imagined as a quotidian bodhisattva, who teaches specific dharmas as opposed to a 
-singular Buddha dharma. Departing from the teaching of the root text—or for that matter from 
-philosophical positions of the sort that we will find most memorably formally articulated in 
-Dharmakīrti some centuries later180 that construct āptapramāṇa as vehicle for explaining the 
-veridicality of the word of the Buddha—Pakṣilasvāmin proposes that all valid human 
-authorities have veridical knowledge because “they see things as they are”—which is to say 
-they have direct apperception of some aspect of reality. In an unmistakable fashion, in doing 
-so our author repeatedly redeploys a specific and much discussed term of art— 
-sākṣātkṛtadharma—that since the time of Yāska’s Nirukta has been reserved for explaining 
-the mechanism through which the Vedic ṛṣis “saw” the fabric of reality and on the basis of 
-179Nyāyabhāṣya 2.1.68, pg. 473–77: mantrāyurvedaprāmāṇyavac ca tatprāmāṇyam āptaprāmāṇyāt //. . . . kiṃ punar āptānāṃ prāmāṇyam. . . . āptāḥ khalu sākṣātkṛtadharmāṇaḥ idaṃ hātavyam idam asya hānihetur idam asyādhigantavyam idam asyādhigamahetuḥ iti bhūtāny anukampante / teṣāṃ khalu vai prāṇabhṛtāṃ svayam anavabudhyamānānāṃ nānyad upadeśād avabodhakāraṇam asti / vai prāṇabhṛtāṃ svayam anavabudhyamānānāṃ nānyad upadeśād avabodhakāraṇam asti / na cānavabodhe samīhā varjanaṃ vā, na vākṛtvā svastibhāvaḥ, nāpy asyānya upakārako ‘py asti / hanta vayam ebhyo yathādarśanaṃ yathābhūtam upadiśyāmaḥ ta ime śrutvā pratipadyamānā heyaṃ hāsyanty adhigantavyam evādhigamiṣyantīti / evam āptopadeśaḥ etena trividhenāptaprāmāṇyena parigṛhīto ’nuṣṭhīyamāno ‘rthasya sādhako bhavati; evam āptopadeśaḥ pramāṇam / evam āptāḥ pramāṇam / The translation here follows Angot rather closely. 180Though it has likely in some respects been superseded by the many publications of Vincent Eltschinger that offer a critical edition and systematic reconsideration of Dharmakīrti’s oeuvre founded on new manuscript evidence, see Vittorio A. van Bijlert, Epistemology and Spiritual Authority: The Development of Epistemology and Logic in the Old Nyāya and the Buddhist School of Epistemology with an Annotated Translation of Dharmakīrti's Pramānavārttika II (Pramāṇasiddhi), 7 vols. (Vienna: Arbeitskreis für Tibetische und Buddhistische Studien, Universität Wien, 1989). 
-217which were able to transpose that reality into text in the form of the Veda. In introducing the 
-category of veridical authority that resides in a person, Pakṣilasvāmin audaciously ascribes this 
-capacity for “seeing things as they are”—the sākṣātkṛtadharmatā—as being equally a property 
-of the ṛṣis, the āryas, and even of the mlecchas—which is to say the non-Sanskrit world. For, 
-he tells us, “that is how the business/transactionality (vyavahāra) that pertains to all beings 
-operates. . . . Gods, human beings, and the animals all engage in transactional conduct by 
-means of these very pramāṇas, and there are no others.”181 
-The “business of how all beings operate” is also very much the focus of the second 
-major passage in our text where notions of varṇāśramadharma are invoked—indeed the only 
-place in the text where the whole compound appears. Here the objective, by hook or by crook, 
-is to prove that, even though, as Sāṃkhya philosophy has argued, karma cannot be directly 
-perceived, it can be established to exist based on a valid veridical proof. Since Nyāya, as we 
-have seen, privileges reasoning outward from a real-world example (dṛṣṭānta), here, much of 
-the focus is reasoning about the mysteries of life and reproduction. In accordance with the 
-rather specific—but normative within the realm of śāstra—interpretation of what constitutes a 
-valid causal connection, our author asserts if it were simply the case that the combination of 
-physical elements and seeds contributed by the mother and father in concert with the right kind 
-of action was the cause of human reproduction, then sexual intercourse would always and 
-invariably produce a baby. Since, as we can see, this is not in fact the case, Pakṣilasvāmin 
-proposes all of these contributing factors must simply supplement the real cause of conception, 
-181Nyāyabhāṣya 1.1.7, pg. 286: āptopadeśaḥ śabdaḥ // āptaḥ khalu sākṣātkṛtadharmā yathādṛṣṭasyārthasya cikhyāpayiṣayā prayukta upadeṣṭā / sākṣātkaraṇam arthasyāptiḥ, tayā pravartata ity āptaḥ / ṛṣyāryamlecchānāṃ samānaṃ lakṣaṇam / samānaṃ lakṣaṇam / tathā ca sarveṣāṃ vyavahārāḥ pravarttanta iti / evam ebhiḥ pramāṇair devamanuṣyatiraścāṃ vyavahārāḥ prakalpante, nāto ‘nyatheti // 
-218 
-which he proclaims is nothing other than the entrance of karma into the embryo to be. In this 
-way, he suggests through inference we can arrive at the certain understanding that karma is 
-real and that therefore moral choices do have consequences. Then, almost as an afterthought, 
-as if he is not so sure that he has satisfactorily proven his point and offered a real challenge to 
-those who do not believe there is a philosophical basis for human morality, Pakṣilasvāmin very 
-uncharacteristically concludes by offering the following argument from authority. 
-Finally, [we explain how this theory is] in opposition to the Āgama. Indeed, there are many teaching that arise from the upadeśa of the sages about what should be done and what to avoid. The result of these teachings is that embodied beings engage in what should done and avoid what should be avoided according to their social class (varṇa) and their stage of life (āśrama). . . . And these two types of positive and negative action are at odds with what you say, namely, that there is no good or bad action, the distribution of pleasure and suffering on the part of a human being is not caused by karma. . . . That the creation of bodies is not caused by karma and that the distribution of pleasure and suffering is not caused by karma is nothing but the wrong view of the worst of sinners.182 
-Pakṣilasvāmin here defers not to a canon of knowledge, but to the teachings of various 
-ṛṣis that are said to be scattered about in various places. In other words, he sees even Vedic 
-knowledge as distributed across various domains. It is these diverse teachings, operating within 
-a modality distinct from that which animates our śāstra, that underwrite the dharmas of the 
-various varṇas and āśramas. The intellectual role of formal Brāhmaṇical śāstra is not to 
-dedicate its intellectual project to upholding these norms, but simply, when appropriate, to 
-gesture in the direction of the proper authority responsible for that domain. Varṇa and āśrama 
-are offered as specific examples, not of a system that must itself be defended and upheld to 
-ensure the survival of the world and place of Brāhmaṇas in it, but of the more general principle 
-182Nyāyabhāṣya 3.2.72, pg. 635: nākṛtābhyāgamaprasaṅgāt //. . . . athāgamavirodhaḥ— bahu khalv idam ārṣam ṛṣīṇām upadeśajātam anuṣṭhānaparivarjanāśrayam, upadeśaphalaṃ ca śarīriṇāṃ varṇāśramavibhāgeṇānuṣṭhānalakṣaṇā pravṛttiḥ, parivarjanalakṣaṇā nivṛttiḥ / tac cobhayam etasyāṃ dṛṣṭau ``nāsti karma sucaritaṃ duścaritaṃ vākarmanimittaḥ puruṣāṇāṃ sukhaduḥkhayogaḥ'' iti virudhyate/ seyaṃ pāpiṣṭhānāṃ mithyādṛṣṭiḥ— akarmanimittā śarīrasṛṣṭir akarmanimittaḥ sukhaduḥkhayoga iti // 
-219 
-that there is a differentiated arrangement and application of positive and negative results across 
-human lives that makes human choice meaningful. 
-While this is the closest our commentary ever comes to seeking to naturalize 
-varṇāśramadharma or Brāhmaṇical privilege into the fabric of reality, in contrast, our author 
-is strongly committed to treating an ethical framework uninflected by caste identity and stage 
-of life as integral to the order of things. Our author does not seem to understand such features 
-of human experience as passion (rāga), delusion (moha), enmity (dveṣa) and so forth simply 
-as subjective emotional states, but rather as objective elements in the world of experience that 
-have a casual force in the production of the human body and actively structure human 
-experience. 
-This is a feature the Bhāṣya shares with the exegetical tradition on the Vaiśeṣikasūtras, 
-which, as far back as can be documented much more radically treats what we tend to think of 
-as ethical norms as embodied in discrete types of ontic substances made up of their own special 
-kind of atoms. In a much more archaic vein, as translated by Paramārtha, the pre-fourth-century 
-Daśapadārthī, for example, understands pleasure (sukha), suffering (duḥkha) but also such 
-things as enmity (dveṣa) and dharma and adharma as guṇas functioning in the same manner 
-as color, taste, smell, number, and weight—they are objective features that modify the logically 
-simple forms of substances by imbuing them with specific behaviors.183 Within this 
-framework, dharma and adharma are in fact types of stuff that when they stick to a person 
-mechanistically produce specific consequences by polarizing them to him or her. Like a 
-183My access to the Daśapadārthī is mediated through the Sanskrit reconstruction of the text by Keiichi Miyamoto that he includes as an appendix to his study, Keiichi Miyamoto, ed. and trans., The Metaphysics and Epistemology of the Early Vaiśeṣika (Pune: Bhandarkar Oriental Research Institute, 1996). The Daśapadārthī itself in translation, heavily annotated, is included as an appendix (pg. 167–251) and the original Chinese, which I am unable to consult, follows thereafter. 
-220 
-magnet, they attract certain categories of experiences and repel others. From this perspective, 
-adharmic acts produce negative results and ultimately bad rebirths for the same reason that 
-dropping your breakfast into a dumpster full of rotting garbage will render it inedible and even 
-cause it to smell putrid. Abstaining from adharmic acts thus becomes no more of an ethical 
-virtue than not eating your breakfast after it has been marinated in rotting dumpster refuse is a 
-sign of fastidiousness. 
-By the time we reach the seventh-century Padārthasaṃgraha of Praśastapāda, 
-however, the archaic logic of the Daśapadārthī as well as the sort of more substantively 
-ethicalized worldview we have been engaging with in the Nyāyabhāṣya have become fused 
-with a greater degree of investment in upholding the familiar norms of the Dharmaśāstras 
-within the context of Vaiśeṣika-specific knowledge production.184 
-Moral law is a quality that belongs to the realm of the human (dharmaḥ puruṣaguṇaḥ). It is the cause of pleasure, the beneficial, and liberation for the agent. It is not accessible to sense perception. It is innately in opposition to the particulate atoms [that make up] happiness. It is born from a purified intentionality regarding the conjunction of inner subjectivity and the puruṣa. It is the efficient cause for there being particular means enjoined for members of various varṇas and āśramas. Its means are enjoined in the Śrutis and Smṛtis, and they are correlated to those possessing various varṇas and āśramas based on relationships of generality and particularity and they are activities that involve actions and substances. 
-Within this category, the universal [dharmas are as follows]—śraddhā with regard to dharma, nonviolence, being for the benefit of all beings, speaking the truth, not stealing, personal regulation, sincerity/good intentions (anupadhā), abandoning anger. . . bhakti to a particular deity, fasting, not being intoxicated. 
-For the Brāhmaṇas, Kṣatriyas, and Vaiśyas, there are sacrificing, Vedic study, and philanthropy. The ones particular to the Brāhmaṇas [specifically] are officiating at sacrifices, teaching, being the recipients of gifts. And the saṃskāras are enjoined according to varṇa. 
-184V. P. Dvivedin, ed., The Prasastapadabhasya with Commentary Nyayakandali of Sridhara (Delhi: Sri Satguru Publications, 1984 [1895]). 
-221 
-The directives of the Kṣatriya are directly protecting the people, punishing negative actions, not turning back in battle, and the saṃskāras are belonging to one’s own family [svakīya]. For Vaiśyas, [they are] buying and selling, agriculture, animal husbandry, and the saṃskāras are “one’s own.” For the Śūdra [they are] being dependent on the prior varṇas and the rites are without [Vedic] mantras. 
-But, for the various āśrama possesors, regarding the brahmacārin dwelling in the gurukula, they are enjoined according to one’s own śāstra—such things as the desire to serve the guru, observing begging, and kindling the fire, abstaining from meat and honey, from sleeping during the day, and from ointments and salves. 
-Or [for] the householder who has taken a wife, who is either snātaka or vidyāvrata, [they are] the practicing in the evening and the morning of the five mahāyajñas. . . . by means of wealth that is accumulated from householder affairs (śālina) and non- domestic business, [and the practicing of] the obligatory daily ritual. . . . and [in so much as one is able,] also the practice of the things classified as somayajña such as the agniṣṭoma and so forth, as well as things classified as haviryajña such as agnyādheya and so forth, brahmacarya during the intervals when the wife is not fertile, and the production of offspring. . . . 
-For all three, in the final stage of life for one possessing śraddhā, having always not given [a reason to fear] to all beings, having renounced one’s own ritual activities, being not negligent in regard to yama and niyama, and for the one who has gone forth there is the practice of sustained contemplation in reference to the six padārthas. With regard to visible purposes, there are these means. And with regard to bhāvaprasāda/bhavaprasāda [grace for living beings, grace from Śiva], there is the arising of dharma from the union of the self with the mind.185 
-185Praśastapāda, Padārthasaṃgraha 8.22: dharmaḥ puruṣaguṇaḥ / kartuḥ priyahitamokṣahetuḥ atīndiryo ‘ntyasukhasaṃvijñānavirodhī puruṣāntahkaraṇasamyogaviśuddhābhisandhijaḥ varṇāśramiṇām pratiniyata- sādhananimittaḥ / tasya tu sādhanāni śrutismṛtivihitāni varṇāśramiṇāṃ sāmānyaviśeṣabhāvenāvasthitāni dravyaguṇakarmāṇi / tatra sāmānyāni dharme śraddhā ahiṃsā bhūtahitatvam satyavacanam asteyam brahamacaryam anupadhā krodhavarjanam abhiṣecanam śicidravyasevanam viśiṣṭadevatābhaktir upavāso ’pramādaś ca / brāhmaṇakṣatriya-vaiśyānām ijyādhyayanadānāni brāhmaṇasya viśiṣṭāni pratigrahādhyāpanayājanāni svavarṇavihitāś ca saṃskārāḥ / kṣatriyasya samyak prajāpālanam asādhunigraho yuddheṣv anivartanam svakīyāś ca saṃskārāḥ / vaiśyasya krayavikrayakṛṣipaśupālanāni svakīyāś ca saṃskārāḥ / śūdrasya pūrvavarṇapāratantryam amantrikāś ca kriyāḥ / āśramiṇām tu brahmacāriṇo gurukulanivāsinaḥ svaśāstravihitāni guruśuśrūṣāgnīndhanabhaikṣyācaraṇāni madhumāṃsadivāsvapnāṃjanābhyañjanādivarjanam ca / vidyāvratasnātakasya kṛtadārasya gṛhasthasya śālīnayāyāvaravṛttyupārjitair arthair bhūtamanuṣyadeva- pitṛbrahmākhyānām pañcānām mahāyajñānām sāyamprātaranuṣṭhānam ekāgnividhānena pākayajñasaṃsthānāṃ ca nityānām śaktau vidyamānāyām agnyādheyādīnām ca haviryajñasaṃsthānām agniṣṭomādīnām somayajñasaṃsthānām ca / ṛtvantareṣu brahmacaryam apatyotpādanam ca / brahmacāriṇo gṛhasthasya vā grāmān nirgatasya vanavāso valkakājinakeśaśmaśrunakharomadhāraṇam ca / vanyahutātithiśeṣabhojanāni vānaprasthasya / trayāṇām anyatamasya śraddhāvataḥ sarvabhūtebhyo nityam abhayaṃ dattvā samnyasya svāni karmāṇi yamaniyameṣv apramattasya ṣaṭpadārthaprasaṃkhyānād yogaprasādhanam pravrajitasyeti / dṛṣṭam prayojanam anuddiśyaitāni sādhanāni bhāvaprasādaṃ cāpekṣyātmamanasoḥ samyogād dharmotpattir iti // 
-222 
-In violation of our expectations, we have had to go six-hundred years into the Common 
-Era to find a scholastic composition that—at least on the surface—matches our presuppositions 
-of a proper Brāhmaṇical philosophy that engages in the intellectual activity of legitimating 
-“Brāhmaṇical” social norms from within a recognizably theistic framework. Rather ironically, 
-the author from whose pen this formulation arises is viewed by a tradition as an eccentric, a 
-rather unorthodox Pāśupata theologian who, inspired by his extra-Brāhmaṇical Śaiva 
-commitments, introduces the problem of “god” as the creator into Indian philosophy in a 
-manner that will find few defenders—outside of other Pāśupata Brāhmaṇa intellectuals, such 
-as the Nyāya scholars Uddyotakāra, Udayana, and Bhāsarvajña. In other words, the very 
-features we reflexively assign to the center are in actuality peripheral, and the phenomenon 
-under discussion here is something akin to how it is the mleccha Scythians—and not the 
-Prakrit-using Brāhmaṇa Śuṅgas—who with all the zeal of a convert took up Sanskrit as the 
-language of the inscriptional record and the court, an embrace that, as Sheldon Pollock has 
-demonstrated, results in fundamental and lasting shifts in Sanskrit’s discursive function.186 
-This is to say, rather than representing a core conceptual feature of śāstra, Praśastapāda has 
-imported his approach into the world of śāstra from somewhere else. 
-For our purposes, several of the less obvious features of Praśastapāda’s analysis are 
-particularly salient, for they align him in interesting ways with the type of conceptualization 
-we have now seen at work in Āpastamba and a range of subsequent sources. As we have just 
-seen, in keeping with his method wherein acts of analysis consist of identifying both the 
-universal and particularizing features of an object of study, our author theorizes dharma as 
-comprised of two components: universal and particular dharmas. First, there are a laundry list 
-186See Sheldon Pollock, Language of the Gods in the World of Men: Sanskrit, Culture, and Power in Premodern India (Berkeley: University of California Press, 2006), 67–74. 
-223 
-of universal norms. This is comprised of features we could call ethics (nonviolence, existing 
-for the benefit of all beings, speaking the truth, not stealing, personal regulation, sincerity/good 
-intentions, abandoning anger) but also of “religious”—what is often somewhat 
-anachronistically labelled Purāṇic—acts and orientations (belief in the efficacy of dharma, 
-bhakti to a particular deity, fasting) almost entirely absent from the Dharmaśāstras 
-themselves—in fact actively proscribed by them—until the twelfth century. These apply 
-equally to all human beings—not just ascetics, as some of post-Gautama dharma literature 
-would have it. 
-Praśastapāda’s treatment of particular (viśeṣa) dharmas—a frame that in and of itself 
-represents a departure from the singular nominalized dharma we find in the post-Āpastamba 
-Dharmasūtras—is itself comprised of two sub-components. Obviously, pretty much following 
-the canonical formulations in Manu and Yājñavalkya, there are the strictures specific to varṇa 
-and āśrama as prescribed in the Brāhmaṇical literature. At the same time however, for most 
-social roles, the text also alludes to additional sets of directives, variously labelled “the 
-saṃskāras belonging to one’s own family [svakīya], the saṃskāras that are “one’s own,” as 
-well as those “enjoined according to one’s own śāstra.” From the context it is transparently 
-clear that quite unlike how we have typically but—as we shall see many times in the coming 
-chapters—often erroneously construed invocations of “svadharma” as simply a shorthand 
-referencing back to the strictures of caste and class as delineated in Dharmaśāstra, Praśastapāda 
-here is alluding to a number of conceptually distinctive systematicities that represent the norms 
-among specific clans and communities. In doing so, while privileging a certain eclectic 
-implementation of Dharmaśāstra norms, he also participates in the pluralistic legal and social 
-imaginaries on which we will focus in the coming chapters. Indeed elsewhere in his text, in a 
-224 
-manner that represents a logical extension of attitudes we have now seen a range of sources 
-starting from Āpastamba, while discussing the power of yogic perception to provide us with 
-accurate information about the world, Praśastapāda rather eloquently gives voice to the idea 
-that authoritative knowledge about the world—that perceives directly circumstances just as 
-they really are—is not the exclusive property of special and unitary class of elite people, but 
-in fact can be found in the most unlikely of places: 
-In the ṛṣis, the creators of tradition. . . by virtue of a conjunction between the internal organ (manas) and the self, and of a special merit, an intuitive cognition (pratibhā) arises, which furnishes an infallible vision regarding objects which exceed sensorial faculties and belong to the past, the future or the present—such as dharma—, and which may, or may not, figure in revealed texts. This form of cognition is, primarily, widespread among the divine seers, but sometimes it may also occur among ordinary beings, as when a little girl says “Tomorrow, my brother will come, it is my heart to say so.”187 
-Where our author makes perhaps his most important contribution, however, is in his 
-theorization of saṃskāra itself as at once a natural process, a social process, and an integral 
-part of the formation of cultural and professional subjectivities. Without discarding the physics 
-of his system, as a consequence of dharma itself becoming overtly ethicalized, the process of 
-the transfer of properties between substances is reimagined in a much more conceptually 
-sophisticated manner, such that a physics of property exchange is supplanted by a theory of 
-how pedagogy informs the constitution of identities. Rather tellingly, the passages in question 
-almost immediately precede the discussion of dharma we have just been exploring and in the 
-framework of the larger chapter, provide the necessary overarching conceptual framework that 
-makes sensible a subordinate explication of dharma as a human property. 
-Saṃskāras are threefold: speed (vega), subjectivity formation (bhāvanā), and establishing fixed character (sthitisthāpaka). Speed arises from an action connected to 
-187Trans. Rafaelle Torella, in Rafaelle Torella, “Observations on Yogipratyakṣa,” in Saṁskṛta-sādhutā, Goodness of Sanskrit: Studies in Honour of Professor Ashok Aklujkar, ed. Y. Honda, M. Desmaraism C. Watanabe (New Delhi: D.K. Printworld, 2012), 471–72. 
-225 
-a particular efficient cause with regard to an object bearing a form that is made up of the five substances. Speed is [caused by] a fixed continuous sequence of activity and perception, as in the case of touch. It is intrinsically in opposition to a particular conjunction of substances [the touching of substances is the opposite of motion—when a moving object hits something, it stops moving or slows down]. . . . 
-The saṃskāra called bhāvanā, however, being a quality of the self, is the cause of recognition and memory with regard to objects experienced, heard, or seen. It is intrinsically in contradiction with suffering [in other words, subject and identity formation processes enacted through recollection repel suffering molecules]. It is born from a sustained cognition that arises from respect [ādara] towards sustained skilled practice. From the conjunction of the self and the mind, which is dependent upon a skilled cognition, there is “a skilled abundance of saṃskāra” that arises with regard to a surprising/wonderous/atypical thing/circumstance. As, for example, from the seeing of a camel on the part of a southerner. 
-With regard to domains such as the vidyās, śilpa, and athletics, which are being practiced, from the conjunction of mind and self, from an earlier and subsequent cognition that was dependent upon sequential saṃskāras regarding that very object— there arises a superfluity of saṃskāra (saṃskārātiśaya).” 
-Having established the mind through effort, in the eye, on the part of one who is desiring to see an unprecedented object, like the seeing of the fall of a comet, there is a cognition of respect (ādara); from the conjunction of the mind and the self that is dependent on that [ādara], there arises the superfluity of saṃskāra (saṃskārātiśaya).188 
-188Praśastapāda, Padārthasaṃgraha 8.21: saṃskāras trividho vego bhāvanā sthitisthāpakaś ca / tatra vego mūrtimatsu pañcasu dravyeṣu nimittaviśeṣāpekṣāt karmaṇo jāyate niyatadikkriyāprabandhahetuḥ sparśavad- dravyasamyogaviśeṣavirodhī kvacit kāraṇaguṇapūrvakrameṇotpadyate / bhāvanāsaṃjñakas tv ātmaguṇo dṛṣṭaśrutānubhūteṣv artheṣu smṛtipratyabhijñānahetur bhavati jñānamad aduḥkhādivirodhī / paṭvabhyāsādarapratyayajaḥ paṭupratyayāpekṣād ātmamanasoḥ samyogād āścarye ‘rthe paṭuḥ saṃskārātiśayo jāyate / yathā dākṣiṇātyasyoṣṭradarśanād iti / vidyāśilpavyāyāmādiṣv abhyasyamāneṣu tasminn evārthe pūrvapūrvasaṃskāram apekṣamāṇād uttarottarasmāt pratyayād ātmamanasoḥ samyogāt saṃskārātiśayo jāyate / prayatnena manaś cakṣuṣi sthāpayitvā ‘pūrvam artham didṛkṣamāṇasya vidyutsampātadarśanavad ādarapratyayas tam apekṣamāṇād ātmamanasoḥ samyogāt saṃskārātiśayo jāyate / We can glean further detail of the mechanistic nature of Praśastapāda’s system of thought through passages such as the following (Padārthasaṃgraha 8.19): dravatvaṃ syandanakarmakāraṇam / tridravyavṛtti / tat tu dvividhaṃ ; sāṃsiddhikaṃ naimittikaṃ ca / sāṃsiddhikam apāṃ viśeṣaguṇaḥ / naimittikaṃ pṛthivītejasoḥ sāmānyaguṇaḥ / “Flowingness” is the cause of the activity of coagulation [becoming substantive]. There are three operations of “flowing.” And that is further subdivided in two, as intrinsic and produced by an efficient cause. The intrinsic, for example, is the particular quality of water [to flow, which it does of its own accord]. Conditioned flowingness is a common quality of earth and fire [in other words, fire and earth require an external catalyst before they display this behavior]. 
-226 
-We need to pause for a moment—maybe catch our breath—and allow ourselves time 
-to assimilate just how, well, weird Praśastapāda’s world really is, what a marked departure it 
-represents from the sort of discourse we expect from premodern Indic society. Praśastapāda in 
-a certain fashion, is in fact “naturalizing” the norms of human society into the structures and 
-processes that order the universe. The problem is, it is the wrong sort of naturalizing. Where 
-the Marxists would have anticipated we would encounter a mythagogue, what we have found 
-instead is a worldview much closer to that of a modern neuroscientist. The production of 
-particular types of human propensities and subjectivities—including those prescribed in the 
-Veda—is akin to creating the right circumstances whereby static earth “flows” by becoming a 
-landslide. Just as what we call speed is the product of the repetition in time of “a fixed 
-continuous sequence of activity and perception,” so too does is the formation of specific 
-subjectivities and capacities the product of “repeated acts of recognition and recollection with 
-regard to objects experienced, heard, or seen.” When Praśastapāda is saying that “practice 
-makes perfect”—in the sense of accomplishing the cultivation of a particular skill or habitus 
-within a person—from his perspective he is simply stating a law of physics indistinguishable 
-from the principle that an object in motion will stay in motion unless acted upon by an equal 
-and opposite force. He labels this process bhāvanā, which along with yoga and dhyāna are 
-often conflated together to mean “meditation,” and he treats what we call “meditation” as 
-exactly the same phenomenon as the thing we have labelled the mechanics of cultural 
-reproduction. From his perspective—again in an almost mechanistic fashion, the cultivation of 
-specific habitus and subjectivity is “is born from a sustained cognition that arises from respect 
-(ādara) towards sustained skilled practice.” In other words, not only do you have to do what 
-you are doing repeatedly using the right procedures over an extended period, but you must do 
-227this with a spirit of “respect”—the word is often used in reference to the proper way to receive 
-a guest in one’s home— towards the intended attainment. 
-Praśastapāda seems to associate the point in this process where the thing you are doing 
-ceases to be an external artificial imposition and because an automatic reflex integrated into 
-one’s subjectivity—much like the mental “click” in language learning when you cease to have 
-to keep looking up all the forms and suddenly look at sentence and just “read it”—with several 
-discrete phenomena. Most commonly, as in the domain of “vidyās, śilpa, and athletics,” after 
-you practiced the same thing for a long time in a consistent manner and then reflect upon your 
-practice, eventually you attain something akin to mastery over the discipline. In this context, 
-by superfluity of saṃskāra (saṃskārātiśaya), Praśastapāda seems to be talking about what we 
-call real and lasting learning. At the same time, our author also seems to carve out a rather 
-large space for moments of pure inspiration. Presented with either an unexpected encounter 
-with “a surprising or wonderous thing”—such as a camel on the part of a southerner, who 
-presumably never sees camels—or encountering an obscure thing one has always longed to 
-see—as in the rare occasion of a comet being visible in the sky—our minds form vivid and 
-lasting mental impressions without having to do all the hard work of sustained practice 
-conducted over a long period of time. 
-Details aside, Praśastapāda’s theory amounts to proposing a physics of culture that 
-treats the human condition as almost infinitely malleable and conditionable so long as one 
-practices an activity—regardless of whether it is primarily physical or mental in nature— 
-consciously and respectfully over an extended period of time or has an inspiring peak 
-experience that transforms subjectivity. As we will see, though some particular features of how 
-his model works are expressions of particularly Vaiśeṣika ontologies, what he has offered 
-228 
-amounts to a more robust theorization of a widely held Indic model of the social, of a 
-transactional world full of context-specific algorithms that gradually reformat a person or thing 
-so that they become aligned with a specific norm. In this world, whether one valorizes or is 
-uninvested in it, varṇāśramadharma always exists juxtaposed to other systematicities in a 
-manner that poses the possibility and its related anxieties that “the other” can over time come 
-to resemble a Brāhmaṇa and a Brāhmaṇa can be conditioned into becoming an Other. 
-The World of Men and the Language of the Gods: Three Brāhmaṇical Reflections on 
-Being in the World and Becoming Brāhmaṇa 
-The final section of this chapter is dedicated to placing three parallel reflections on this same 
-basic topic side by side in a manner that brings to light their common features and 
-presuppositions. The works in question are drawn from the oldest work of Vedic exegesis, the 
-most important commentators in the tradition of Pūrva Mīmāṃsā, and finally, the oldest work 
-of Śaiva commentary. 
-As the Imperial Guptas faded from history, somewhat in the late fifth or sixth century 
-in the vicinity of Valabhi, a Brāhmaṇa exegete set out to comment comprehensively on 
-Hinduism’s oldest scripture, the Ṛg Veda.189 With diligence and erudition, drawing upon a 
-189The dating of Skandasvāmin is a contested matter and is largely dependent on two pieces of evidence that are themselves ambiguous. As Ram Gopal has pointed out in his indispensable The History of Principles of Vedic Interpretation, pg. 94–96, at the end of his Bhāṣya on Ṛg Veda I.80.16, Skandasvāmin informs us that his native place was Valabhī and that the name of his father was Bhartṛdhruva, a rather archaic name that immediately brings to mind the lost writings of the likely fifth-century Vedāntin Bhartṛprapañca. In his seminal studies and translation of Yāska’s Nirukta, Lakshman Sarup directs our attention to the fact that a certain Harisvāmin, writing in Malava, in the introductory verses to his commentary on the Śatapatha Brāhmaṇa, declares himself to be the disciple of someone named Skandasvāmin. As Harisvāmin’s writings provide an encoded dated colophon, if we assume that Harisvāmin’s teacher is our Skandasvāmin, depending on how the colophon is decrypted this would place Harisvāmin either in 639 CE or 538 CE, with the second date being more probable. Ram Gopal, The History and Principles of Vedic Interpretation (Delhi: Concept Publishing, 1983). Lakshman Sarup, ed. and trans., The Nighaṇṭu and the Nirukta: The Oldest Indian Treatise on Etymology, Philology and Sementics [sic]. Critically Edited from Original Manuscripts and Translated for the First Time Into English, with Introd. Exegetical and Critical Notes, Three Indexes and Eight Appendices (Delhi: Motilal Banarsidass, 1967). While Ram Gopal questions the attribution of the Niruktabhāṣyaṭīkā to the same Skandasvāmin who wrote the Ṛgvedārthabodha, Jnana Prakasa Sastri, in his Hindi language introduction to a modified reprinted edition 
-229 
-range of inherited exegetical resources, Skandasvāmin’s “Knowledge of the meaning of the 
-Ṛg Veda” (Ṛgvedārthabodha) explicates scripture, word by word, phrase by phrase, line by 
-line, identifying mytho-poetic allusions, reflecting on the theological import of the hymns and 
-drawing connections between the world of the text and the lived human experience of his day. 
-In light of the shared predilections of Western philologists and traditional Sanskrit scholastics 
-for invoking the authority of very old things, one might anticipate that the oldest surviving 
-śāstric commentary on the Vedic corpus would occupy a place of pride in the scholastic 
-imagination of the two interpretive communities that dedicate themselves to the study and 
-preservation of Indic knowledge. The textual record, however, tells a different story. For when 
-people like the fourteenth-century Sāyaṇa and his successors bring our author up in passing, it 
-is clear that his writings are merely being mined for references and not actually being read and 
-engaged with in terms of their overall intellectual project. Western scholarship, for its part, 
-until the past decade, has passed the text by in silence. 
-produced by Parimal Press of Skandasvāmimaheśvara’s Niruktabhāṣyaṭīkā (pg. xxxvii–lxi), has identified dozens of shared passages within the two texts and hundreds of direct textual parallels, effectively putting the matter of authorship to rest. Jnana Prakasa Sastri, ed., Niruktabhāṣyaṭīkā (Delhi: Parimala Publications, 2009). Citations from the Nirukta and Niruktabhāṣyaṭīkā are drawn from Jnana Prakasa Sastri’s edition. 
-Though it has not been noticed by prior scholarship, on several occasions the Niruktabhāṣyaṭīkā cites directly from Pakṣilasvāmin’s Nyāyabhāṣya, which Michel Angot in his recent French annotated translation of the text assigns a date of composition sometime in the fifth century CE. This again suggests that both the Niruktabhāṣyaṭīkā and the Ṛgvedārthabodha were composed sometime around the fifth or sixth century of the Common Era. 
-Most subsequent commentators writing on the Nirukta and Ṛg Veda up through the early modern period either silently borrow from or directly refer to Skandasvāmin. While Eivind Kahrs has suggested, based on textual parallels, that the Niruktabhāṣyaṭīkā is itself borrowing from Durgācārya’s Nirukta commentary and on this basis assigned our author an unreasonably late date, his argument is not well supported, at least in his English language publications. Though the matter cannot be engaged with here, that Durgācārya is heavily influenced by Pūrva Mīmāṃsā in a way that our author is not, and that his theology is far less “archaic,” offer strong indications that Skandasvāmin is the older writer. Eivind Kahrs, Bidrag til Interpretasjonen av Nirukta (Studier i Ydskas tekniske metoder for analyse av ord, med spesiell vekt på analyser av type -ānat’ og iti sataḥ) (PhD diss., University of Oslo, 1980). 
-230 
-What might account for this set of circumstances? When you open a book, as a rich 
-body of recent scholarship has made evident, we bring to the page certain expectations, 
-inflected by categories such as genre and audience, about what a text should say and how it 
-should be structured—in the simplest terms, about what a book is for. We anticipate a work of 
-scholarship will openly defend a point of single point of view; and yet, apart from insisting 
-emphatically that the Veda is suffused with semantic meaning, Skandasvāmin abjures this task. 
-We expect the commentator to guide us in understanding what is and is not important in his 
-sources; Skandasvāmin eschews these judgements. We expect that when an author proffers 
-mutually exclusive interpretations of the exact same materials, at the very least, he will 
-prioritize their plausibility and relevance. Skandasvāmin instead presents us with what amount 
-to ecumenical hermeneutical surveys, juxtaposing alternate understandings after assigning 
-them to discrete interpretive communities. 
-Texts that fail to meet our very basic criteria for what texts should do sometimes pass 
-as avant garde curiosities. More commonly however, they are judged the same way one would 
-perceive a student’s essay that lacked a thesis and presented conflicting and contradictory 
-evidence within a format that offers little evidence of structuring principles: we brand them as 
-failures. The oldest systematic scholastic reflection on the maṇḍalas of the Ṛg Veda is not the 
-product of a lack of sophistication nor is it the result of a haphazard attempt at meeting a 
-deadline imposed from above. At once enigmatic and seemingly pedestrian, Skandasvāmin’s 
-writings align poorly with the sensibilities of your average Sanskrit intellectual, to say nothing 
-of his modern academic counterparts, precisely because our author starts from a different 
-premise about what motivates the composition and circulation of texts. He offers a diverging 
-perspective on how we should encounter the meaning they bear, which is in turn predicated on 
-231 
-a different understanding of the nature the social world than we typically expect to be operative 
-in an Indic context. As we have seen throughout this chapter, Skandasvāmin’s understanding 
-is by no means eccentric, but rather reflects an integral dimension, expressed in this case from 
-an exegetical as opposed to prescriptive or philosophical perspective, of the same pluralistic 
-episteme that animated what is often imagined as the Indic medieval world. Thus, for the 
-present purposes, Skandasvāmin will serve as an ideal cultural ambassador into unfamiliar 
-terrain who makes explicit a deeply rooted way of seeing and ordering the world that has 
-largely eluded the scholarly imagination. Writing from within the canon of Vedic textuality, 
-just as much as the prescriptive sources we have been examining thus far, he offers a challenge 
-to our presuppositions about the nature of Brāhmaṇical thought, the univocality of its social 
-purport, and the ideological apparatuses it underwrites, presenting in its place a more nuanced 
-story of ongoing contestations more reflective of the documentary and textual record. For his 
-part, our Vedic exegete offers the following analogy. A man travels down one road, without 
-knowing the path, which is indicated through usage or convention. In front of him, in the 
-distance, he sees another person, a wise person. The wise person turns and travels down the 
-path. The first man reflects, “he went by that path, I also ought to go by that path,” and turns 
-and follows after. Knowledge, Skandasvāmin tells us, “is just like that.”190 
-To understand where Skandasvāmin was coming from, and where he intends to go in 
-his intellectual endeavors, we have to start with the fundamentals of his system, most 
-importantly, what our author intends when he speaks of meaning (artha). Skandasvāmin is 
-intellectually invested in the belief that the etymology of words (nirukti) tells us something 
-190Skandasvāmin, Niruktabhāṣyaṭīkā 1.1, pg. 3: yathā pathidvaite pathijñenāgrato gacchatā ’nyatarasmin pathi puruṣaḥ prakaraprakṣipte ‘pathijñaḥ paścād āgacchan tad dṛṣṭvā ‘nena pathā sa gato mayā ’py anena gantavyām iti pratipadyate, tad vat / 
-232 
-fundamental about the ontological nature of the things to which they refer and their most basic 
-nature and behavior. As far as we can tell, this message is first theorized within the seventh- 
-century BCE Nirukta of Yāska, which comments on a traditional collection of obscure Vedic 
-words called the Nighaṇṭu. A simple traditional exemplification of how this mode of analysis 
-works will prove most illuminating. In the spirit of Indian philosophy with its endless 
-ruminations on cows, let us begin with a bull. As Peter Scharf has argued, a sentence such as 
-vṛṣabhaḥ vṛṣāt, [it is called] bull on account of the sprinkling, does not merely identify the 
-verbal root from which a nominal formation is constructed, but “explains the reason that the 
-nominal word means what it does.”191 As Skandasvāmin himself colorfully clarifies in his own 
-Nirukta commentary, “[this is] because it excessively (atikrama) sprinkles (vṛṣati) seminal 
-fluid (retas).”192 Keeping in mind this logic— that the naming of a thing or concept is 
-inextricable from its core behavior, here is how our author makes sense of the meaning of 
-“meaning” (artha). “[It is called] meaning because it “goes” (ṛ).”193 Offering an account sure 
-to astonish most readers of śāstra, Skandasvāmin clarifies that meaning in general, including 
-the meaning of scripture, operates in accordance with “a beginningless transactionality 
-(vyavahāra),” just as “gold and other such things” “goes” from one man to another, “meaning 
-is just like that.” Our author next proceeds to raise one of the fundamental problematics in the 
-history of Indian philosophy, namely, the nature of the relationship between the enunciated 
-word and the meaning it bears. Are we to understand that if meaning is transferred when we 
-speak words, that meaning ceases to be when the sound of the phonemes fade? Eschewing 
-191Peter Scharf, Review of Indian Sematnic Analysis: The Nirvacana Tradition, by Eivind Kahrs, Journal of the American Oriental Society 12, no. 1 (2001): 117. 192Skandasvāmin, Niruktabhāṣyaṭīkā 9.22. 193Skandasvāmin, Niruktabhāṣyaṭīkā 1.18, pg. 52: artho ’rtteḥ— gatyarthasya / yas tāvacchabdasyārthaḥ sa tasmād gamyate, yo hiraṇyādiḥ so ’py anādinā vyavahāreṇānyasmāt puruṣād anyaṃ gacchati / araṇastho vā— araṇaṃ gamanaṃ śabdasya tāvad uccaritasya tirodhānaṃ tasminn arthas tiṣṭhati, na śabdena saha tirodhīyate, itaratrāpi gamanam aranaṃ svāminas tasmin hiraṇyādir arthas tiṣṭhati, na svāminā saha gacchatīti / 
-233 
-what for centuries will become a matter of profound reflection generative of incredible 
-speculations about the nature of human cognitive processes, Skandasvāmin offers this rather 
-concrete and simple answer. Of course not: “It is not that meaning gets concealed along with 
-the word when the word departs. Just like, when the master departs, gold and so forth remains 
-behind, it does not go [and disappear] along with the master [when he is absent].” Meaning is 
-just like that. Skandasvāmin repeats this homology of “meaning” (artha) with gold and other 
-discrete concrete material things that intrinsically bear value repeatedly throughout his 
-writings. In doing so, he is quite clearly playing upon the polysemantics of the lexeme artha, 
-which can of course, in other contexts, mean wealth and worldly attainments. Just as 
-consistently, and perhaps even more significantly, he avoids invoking the other most common 
-signification associated with this lexeme, namely, artha in the sense of target or purpose. As 
-will soon become evident, it is precisely this disentangling of semantics from a uniform 
-teleology that animates his intellectual vision. When, in his Ṛgvedārthaboda, Skandasvāmin 
-says he is writing a work on the “the knowledge of the meaning of the Ṛg Veda,” he is engaged 
-in a conceptually different intellectual activity from that of the typical Sanskrit intellectual.194 
-For him, “meaning” is not a distillation of a point of view (sāra). It is not the construal of the 
-intentionality (tātparya) of an author or a text. It is certainly not a polemic that aims at 
-194Skandasvāmin’s commentary on the Ṛg Veda unexpectedly exists in two rather distinct recensions, each of which has been fragmentarily transmitted. The longer version, which at the time of the edition was believed to survive in three manuscripts, was published in the Trivandrum Series (1929, 1935, 1942) where it was edited K. Sambasiva Sastri and L. Ravi Varma in three volumes. A different, terser recension, incorporating some distinctive material, was then published as part of a seven-volume set incorporating a range of other later commentaries by the Vishveshvarand Indological series between 1963 and 1966. A separate edition of the first portion of this work was also critically edited by Kunhan Raja in 1935. In attempting to understand Skandasvāmin’s project, I have consulted all of these sources, but for translating selections, mostly from the first aṣṭaka, I privilege the long recension as presented in K. Sambasiva Sastri’s edition from 1929. K. Sambasiva Sastri, ed., The Ṛksamhitâ: With the Bhâṣya of Skandasvâmin and Dîpikâ of Venkaṭamâdhavârya (Trivandrum: Superintendent Government Press, 1929). 
-234 
-establishing the exclusive authoritativeness of a school of thought. Meaning is nothing more 
-or less than a compendium of all of the possible accepted readings, responses, and 
-understandings present within a textual field presented by interpretive communities. One might 
-even say that for Skandasvāmin, the sense of purpose that imbues a text is displaced from 
-where we would tend to locate it, making judgements about the text and by means of the text, 
-to the site of transmission itself. Just as the purpose of a bull (as opposed to a steer) is fulfilled 
-in its fecundity, in order for the world to work as it should, meaning must “go”: it is meaning’s 
-very nature to be socially circulated, and meaning finds its fulfillment in that continued 
-transference. Veda, in essence, is āmnāya, “that which is handed down,” and thus by its nature 
-an expression of this logic of transfer. While, according to Skandasvāmin, the scriptures 
-themselves originate as the compositions of the individual ṛṣis, the knowledge that 
-supplements them, in his understanding, is the product of a multigenerational agglutinative 
-collective effort. 
-Since, from our author’s perspective, the Veda is merely a burden until one masters its 
-meaning, the efficacy of the Veda itself is here imagined as effectively socially mediated.195 
-From this perspective, the capacity for knowing the meaning of the Vedas is not some intrinsic 
-trait nor the result of some inexplicable mystery. In the service of clarifying the exact internal 
-logic which he aims to invoke, Skandasvāmin again illustrates this dynamic through narrative 
-vignette. If a blind man cannot see a post, this is not because the post is hidden nor is the post 
-in any way responsible for failing to be seen, for the fault lies in the damaged eyes of the 
-perceiver. In the same way, it is not that the Vedas are difficult or obscure, or that they represent 
-195Skandasvāmin, Niruktabhāṣyaṭīkā 1.18, pg. 52: yathā sthānuḥ kenacid āropitasya bhārasya dhārayitaiva kevalaṃ bhavati, na tajjñenopakāreṇa yujyate, evam ayaṃ vedābhārasya dhārayitaiva kevalaṃ bhavati na tajñānopakāreṇa yujyate / 
-235 
-a special case of a form of textuality that most people intrinsically cannot fathom.196 In fact, a 
-person is deemed not suited for understanding the Veda solely because he is not “conditioned 
-by the disciplines of Nirukta and Vyākaraṇa.” Our author continues: 
-Just as in the janapada, [with regards to] those human activities that are performed, such as the cooking of rice or the activities of the artisan (śilpin), which consist of the fashioning of paintings and so forth, there is a qualification on the part of human beings that arises from knowledge regarding these activities, in that same way, the one who studies and practices by means of the transmission of that discipline (Nirukta), he knows correctly, but another person, incorrectly or not at all. . . . 
-Therefore, nothing that has an unclear meaning for any person by whom the meaning of the mantras is studied or practiced. And moreover, the transmission (āmnāya) of the discipline is a tradition (pārovaryam). The one who “knows a lot” among those knowers who know by means of it, in this world, is worthy of praise, and not another one who construes [meaning] out of fancy or knows little. Therefore, having become a person who knows a lot, through the paramparā of āgama, by means of the disciplines of Nirukta and Vyakāraṇa, then he becomes able to know the meaning of the words that are not clear.197 
-In this extraordinary passage, Skandasvāmin argues for the essential consonance of all 
-the seemingly distinctive processes whereby human beings acquire the knowledge and skill 
-that makes possible the activities that make up their world. He argues that there is no essential 
-difference between the mundane affairs required of every household, such as learning to cook, 
-the practices that are specific to, and constitutive of, the identities of particular caste 
-communities, such the artistic skill of the śilpin, and Brāhmaṇical knowledge itself. For, 
-whatever sort of status one might ascribe to the collective patrimony that makes up the ritual 
-196Skandasvāmin, Niruktabhāṣyaṭīkā 1.16, pg. 48: kecic chabdā amyagādaya iti? tad api na / naiṣā sthāṇor aparādho yadityādyanarthajñopamānenaitat pratipādayati / yathāyam andhaḥ sthāṇuṃ na paśyati, na sa dṛśyasya sthāṇor aparādhaḥ / kiṃ tarhi? draṣṭuḥ puruṣasyāndhatvāt draṣṭum asamarthatvāt / evaṃ nāmyagādīnām arthasya jñeyasyāyam aparādhaḥ, yad enaṃ bhavān na jānāti, jñātur bhavato ’yam aparādhaḥ, niruktavyākaraṇādisaṃskāreṇāsaṃkṛtatvāj jñātum asamarthatvāt // 197Skandasvāmin, Niruktabhāṣyaṭīkā 1.16, pg. 48: yathā janapade bhavā yāḥ kriyā odanapākādyāḥ śilpikriyā vā citrakarmādyās tāsu vidyātaḥ puruṣāṇāṃ viśeṣo bhavati / ya āgamena śikṣaty abhyasati ca sa suṣṭhu jānāti, itaras tu manāk, naiva vā / evam atrapīti vākyaśeṣaḥ / tataś ca yena mantrārthaḥ śikṣito ’bhyastaś ca tasya na kiñcid avispaṣṭārtham / kiṃ ca pārovaryam āgamaparamparā, tayā ye vidanti veditāras teṣāṃ madhye yo bhūyovidyaḥ sa loke praśasyo bhavati, netaro ya utprekṣayā kalpayaty alpavidyo vā / ata āgamaparaṃparayā niruktavyākaraṇādividyābhir bhūyovidyo bhūtvā ‘viṣpaṣṭānām artho jñeya ity arthaḥ / 
-236 
-and social responsibilities of a Brāhmaṇa, Skandasvāmin insists that this is all mere dead 
-weight unless it is married to the acquisition of grammatical and semantic understanding of the 
-scriptures, modes of knowledge that are themselves acquired through the usual logic of 
-pedagogical immersion and acculturation. In short, Skandasvāmin introduces us to the vital 
-understanding, which will animate our own explorations, that different communities and their 
-interpretive and social practices, though serving distinct ends and embodying divergent values, 
-operate as functional equivalents. 
-Diverging from Yāska’s own opinions, our author even entertains the possibility that 
-this state of affairs is not merely a reflection of the waning of the strength and quality of men 
-in the current age of decline, but in fact has always been a part of the order of the world. It is 
-not that today there are no special Brāhmaṇas, but rather that Brāhmaṇas have never been that 
-special. This is most evident in our author’s commentary on what is perhaps the most famous 
-non-technical portion of Yāska’s Nirukta, namely, its discussion of the emergence of śāstra.198 
-This difficult passage, which has been the subject of an outstanding close reading by Albrecht 
-Wezler, permits many interpretations, but in the most general terms it can be understood as 
-proclaiming that, while, in the distant past the ṛṣis performed the sākṣātkṛta of dharma, in 
-subsequent time (avare), such a capacity declined and human beings had to take recourse to 
-learning from texts. Skandasvāmin offers two explanations of this famously difficult passage. 
-In the second, which is treated in a perfunctory fashion, he seems to follow Yāska, who asserts 
-that what the passage means is that once upon a time, the ṛṣis could “see” the ontic building 
-blocks that made up the order of the world, and the tragedy of our age is that this capacity has 
-198Yāska, Nirukta 1.20, pg. 53: sakṣātkṛtadharmāṇa rṣayo babhūvuḥ / te ‘varebhyo ‘sākṣātkṛtadharmabhya upadeśena mantrānt samprāduḥ / upadeśāya glāyanto ’vare bilmagrahanāyemaṃ granthaṃ samāmnāsiṣuḥ / vedaṃ ca vedāṅgāni ca / 
-237been lost. From this perspective, the emergence of śāstra, transmitting an understanding of the 
-Vedic scriptures, needs to be understood as a stopgap measure that aimed to salvage the 
-tradition in light of the irrevocable disappearance of the original capacity of the seers for 
-directly accessing the sacred. 
-More intriguingly, however, Skandasvāmin expends considerably more effort outlining 
-a rather different understanding of what it means for the ṛṣis to have had direct perception, 
-which offers a decidedly different understanding of the place that textuality occupies in the 
-cosmic order. 
-Because dharma is beyond the senses, on account of the impossibility of direct perception, by the word dharma here, the mantras and the brāhmaṇas are intended. . . . How is it (dharma) directly perceived by [the sages]? [Well,] at the time that there takes place a dissolution of the universe, prior to the creation of the next universe. . . . the sages remember the mantras and brāhmaṇa texts that were studied [by them] in the prior creation. . . . Whoever remembers a certain thing, that is “seen” by him. In other words, it is directly perceived by him; that is said on the part of him to be the knowledge of a sage. To whatever extent someone has the knowledge of a sage, to that extent it is directly perceived by him. That is sagely revelation [in the form of text.] However, whatever else is not directly perceived, even by him, that is [acquired] only from having studied through instruction [regarding] that [subject].199 
-The sages, in other words, are simply a special subset of people who, on account of 
-their particular karma, have the potential for carrying the memory of what they have studied 
-from eon to eon and incarnation to incarnation. Even for such extraordinary people, however, 
-this special capacity must be complemented by the normative processes of formal study 
-through which knowledge of the Vedic system must be acquired. Skandasvāmin continues: 
-It is not the case that what has been experienced in another birth is necessarily not remembered, for we see that even in the modern era (adyatve ’pi) that people who 
-199Skandasvāmin, Niruktabhāṣyaṭīkā 1.20, pg. 55: sākṣātkṛtadharmāṇa ṛṣayo babhuvuḥ // dharmasyātīndriyatvāt sākṣātkaraṇasyāsambhavāt dharmaśabdenātra tadarthaṃ mantrabrāhmaṇam ucyate, tatsākṣātkṛto dharmo yais te sākṣātkṛtadharmāṇa ṛṣayaḥ / kathaṃ punas taiḥ sākṣātkṛtam? ucyate, smṛtikārair aitihāsakaiś cābhyupagatatvāc chrutyā cāvirodhād antarālapralayaḥ punaḥ sṛṣṭiś cāsti / tatra sṛṣṭyādau ya ṛṣayas te ‘tītasṛṣṭāvadhītaṃ suptapratibuddhanyāyena mantrabrāhmaṇaṃ smaranti / kaścit kiñcit yo yat smarati tat tena dṛṣṭaṃ tena sākṣātkṛtaṃ tena proktaṃ tasyārṣam iti cocyate / yasya yāvad ārṣaṃ tena tāvad eva sākṣātkṛtam, anyat tu tenāpi yatsākṣān na kṛtaṃ tad upadeśenaivādhigatam / 
-238 
-remember their [past] births only remember a little bit. Even if certain sages arise in every creation, then, even so, due to the influence of the particular merit that was produced prior to this creation, the people who have such karmas arise having taken on those names. Therefore, in a single creation, that which is remembered by the sage named Viśvāmitra, in another creation is also remembered only by someone named Viśvāmitra. . . . 
-With this intention in mind, this is stated: they became the sages by whom dharma is directly perceived. [In contrast,] those inferior folks of inferior capacity who lived in a later time who did not directly perceive the dharmas through reserves of ability [śaktibhāra] as they lacked the particular merit that would have been acquired in past cycles of creation. They passed down the mantras through [knowing] the text and its meaning by means of the method of the teacher-student [relationship].200 
-In other words, even if you have the good fortune to be the authentic Viśvāmitra of the 
-modern world, even then you are not born with the knowledge of the scriptures on the tip of 
-your tongue. Just like everyone else, you have to reacquire your wisdom through formal 
-socially mediated study. The important distinction is that, when you reencounter certain parts 
-of the texts, perhaps even confined to the maṇḍalas authored by Viśvāmitra, an act of 
-recognition takes place, along the lines of “hey, I remember writing that,” and the contents of 
-that part of the scripture resurfaces in your conscious mind. All other human beings, 
-Skandasvāmin tells us, including all the other twice-born, are “the ones without power” who 
-receive instruction in the context of the guru-disciple relationship and “acquire the meaning 
-from books.” Books and the śāstric knowledge they embody, our author tells us, are simply 
-“means” (upāya) revealed out of compassion so that those without power can grasp the 
-knowledge of the Veda through sustained study. Succinctly, the right and ability to make use 
-200Skandasvāmin, Niruktabhāṣyaṭīkā 1.20, pg. 55: na ca janmāntarānubhūtaṃ niyamena na smaryate, dṛśyate hy adyatve ’pi jātismarāḥ kiñcit smarantaḥ / te carṣayo yady api pratisṛṣṭy anye ’nya utpadyante, tathāpy atītasṛṣṭikṛtapuṇyaviśeṣavaśāt tatkarmāṇas tannāmānaś cotpadyante / tenaikasyāṃ sṛṣṭau viśvāmitranāmnā yat smṛtaṃ sṛṣṭyantare ’pi viśvāmitranāmaiva tat smarati / ato nityatve ’pi vedasya nārṣavyapadeśasya nāpi sākṣātkaraṇasya kaścid virodhaḥ, etad abhipretyaitad ucyate / sākṣātkṛtadharmāṇa ṛṣayo babhūvuḥ iti / te ’varebhyo ‘varakālīnebhyaḥ śaktihīnebhyo ’tītasṛṣṭikṛtapuṇyaviśeṣābhāvāt śaktibhāraiḥ asākṣātkṛtadharmabhya upadeśena śiṣyopādhyāyikayā vṛttyā / mantrān granthato ’rthataś ca saṃprāduḥ / teṣu hi pūrvasṛṣṭāvadhīteṣu teṣām upadeśamātreṇaiva smṛtir babhūva // 
-239 
-of Vedic learning is purely a matter of social acculturation and study. Or, to put things more 
-pointedly, at the heart of a text composed in the service of inculcating the meaning that 
-animates the Veda and makes the rituals work, Skandasvāmin has just explained away the 
-doctrine of Brāhmaṇical privilege. 
-In both the Ṛgvedārthabodha and Niruktabhāṣyaṭīkā, Skandasvāmin becomes most 
-noticeably impassioned when talking about a single subject, namely, that the Veda has meaning 
-and that the comprehension of that meaning is inseparable from the efficacious performance 
-of the rituals. Our author is emphatic in his insistence that this state of affairs has little to do 
-with the special nature of Vedic textuality, but instead must be understood as an expression of 
-the fact that conscious understanding of what a person is doing is integral to the successful 
-execution of most of human activity, for it is through the use of language that we establish our 
-connections with the individual agents and objects that make up the world. 
-Whereas Yāska touches upon the importance of justifying semantic study mostly in 
-passing, simply for the most part assuming the self-evident value of his chosen field of study, 
-Skandasvāmin frames both of his texts precisely as responding to an unspecified worldview 
-that sees the Veda as devoid of semantic meaning. His target, as we shall see momentarily, is 
-almost certainly the Pūrva Mīmāṃsā school of ritual exegesis, that has come to be treated as 
-synonymous with traditional scholastic reflection on the Veda and is perceived as informing 
-most sophisticated forms of śāstric textual composition. In contradistinction to the more 
-familiar exegetical methods pioneered by Pūrva Mīmāṃsā, which are also fundamental to 
-Vedānta in almost all its iterations, which single out a delimited category of speech acts, either 
-in the form of ritual injunctions or the great statements (mahāvākyas) of the Upaniṣads as the 
-most important dimension of Vedic textuality, treating the rest of the text as providing different 
-240 
-sorts of supplementary and clarificatory information inferior in value, Skandasvāmin 
-taxonomizes five types of speech acts (praiṣa, karaṇa, kriyamāṇānuvādin, japa and 
-anuvacana), as constitutive of scripture without proposing that there is in any particular 
-relationship or hierarchy operating among them.201 They are simply defined in terms of 
-offering logically distinctive types of syntactical relationships within a clause or sentence. As 
-we see in Skandasvāmin’s example, “You pacifiers (śāmitāra), you should commence the 
-pacification (ārabhadhvaṃ) with the divine beings,”202 the praiṣa is roughly analogous to the 
-more familiar injunctive statement (vidhi) insomuch as it is a speech act formed around an 
-imperative verb with a particular type of case relationship that offers us something akin to the 
-Mīmāṃsā formula of “do x by means of y.” In the most general terms, the karaṇa provides 
-201For an extended study of the introduction to this text that diverges in some important ways from the present independent analysis, see Silvia D’Intino, “Meaningful Mantras: The Introductory Portion of the Ṛgvedabhāṣya of Skandasvāmin,” in Śāstrārambha: Inquiries into the Preamble in Sanskrit, ed. Walter Slaje (Wiesbaden, Harrassowitz Verlag, 2008), 149–170. Also worth consulting is Silvia D’Intino, “Skandasvāmin et le Canon Védique,” Cahiers du Centre Gustave Glotz 21 (2010): 435–441. D’Intino does not read the commentary in tandem with the Niruktabhāṣyaṭīkā and for this reason reconstructs a somewhat different Skandasvāmin. 
-Skandasvāmin, Ṛgvedārthabodha 1.1, pg. 1–2 (following Sambasiva Sastri’s 1929 edition): te mantrāḥ pañcaprakārāḥ praiṣāḥ, karaṇāḥ, kriyamāṇānuvādinaḥ, śastrābhiṣṭavanādigatāḥ japānuvacanādigatā iti / praiṣās tāvad “daivyāḥ śamitāra ārabhadhvam” (ai brā) ity evamādayaḥ / karaṇāḥ “idaṃ aham arvāvasoḥ sadane sīdāmi” (śa bra- 1/5/24) ity evamādayaḥ / kriyamāṇānuvādinaḥ— “yuvā suvāsā” ityevamādayaḥ śastrābhiṣṭavanādigatāḥ. . . . japānauvacanādigatāḥ tad adya vācaḥ prathamaṃ masīya (ṛg 10.53.4) āpo revatīr (ṛg 10.30.12) ityevamādayaḥ / ete sarve prayogakāle svārthān pratipādayantaḥ karmaṇo ‘ṅgatvaṃ pratipadyante, noccāraṇamātreṇa / kuta etat / ye tāvat praiṣāḥ karaṇāḥ kriyamāṇānuvādinas teṣāṃ yo ’rthas tasya karmaṇo ‘ṅgabhūtatvād aṅgabhūtasya cāsmṛtasyānuṣṭhātuṃ aśakyatvāt smaraṇasya karaṇāpekṣitatvāt praiṣādibhiś ca kartuṃ śakyatvāt / ye tu śastrābhiṣṭavanādigatās teṣāṃ yo ’rthaḥ, sa yady api karmaṇo nāṅgabhūtaḥ, tathāpi te tam eva pratipādayantaḥ karmaṇo ‘ṅgatvaṃ pratipadyante, noccāraṇamātreṇa / stutir hi śastram abhiṣṭavanaṃ ca / guṇaiś ca guṇinaḥ sambandhitāpratipādanaṃ stutir ity ucyate / na tadakṣaroccāraṇamātram / na hi grahaṇārtham abhyāsārthaṃ vā stutyarthāny apy ṛgakṣarāṇi ślokākṣarāṇi voccārayan loke stautīti ‘cyate / ataḥ śastrābhiṣṭavanādigatā api svārthaṃ eva pratipādayanataḥ karmaṇo ’ṅgatvaṃ pratipadyante noccāraṇamātreṇa / evam eṣām caturvidhānāṃ mantrāṇāṃ arthapratyāyena karmāṅgabhāvād anavabuddhārthāc ca mantrāt tadarthasya pratyetuṃ aśaktyatvād boddhavya eṣām arthaḥ / ye ’pi japānuvacanādigatās teṣāṃ yady api japināuvācinā vā dhānākṣaroccāraṇamātraṃ coditaṃ nārthapratyāyanam / tathāpi yo ha vāviditārṣeyacchandodaivatabrāhmaṇena mantreṇa yājayati vādhyāpayati vā sthāṇuṃ varcchati gartaṃ vā padyata ityādyārṣeyabrāhamaṇe śruter aviditadaivatyasya mantrasya karamaṇy aṅgabhāvābhāvād ajñāyamānārthasya ca mantra[s]ya daivatasya vedituṃ aśaktyatvāj japānuvacanādigatānām api boddhavya eṣām arthaḥ / evaṃ sarvamantrāṇāṃ karmāṅga[tva]siddhyarthaṃ yato boddhavyo ’rthaḥ, ata ṛgvedasyārthabodhārthaṃ asamābhir bhāṣyaṃ kariṣyate / tatrārṣadaivatayor arthāvabodha upayujamānatvāt te darśyiṣyete na chando’nupayujyamānavacanatvād iti / 202Skandasvāmin, Ṛgvedārthabodha 1.1: praiṣās tāvad “daivyāḥ śamitāra ārabhadhvam” (ai brā) ity evamādayaḥ// 
-241 
-something analogous to the immediate context in which an event is taking place or an agent is 
-situated with the Vedic hymn, whereas the kriyamāṇānuvādin provides us with additional 
-details about a subject or object, sometimes something as banal as “the boys have nice 
-clothes.”203 
-By reorienting the discourse away from fixating upon the purpose of the Veda, in other 
-words, what acts does the text compel us to do, towards a concern with the meanings of the 
-Veda, Skandasvāmin articulates a discourse where each of these kind of speech acts is equally 
-important, and where most fundamentally, all of them are equally dependent on a semantic 
-understanding of the scripture. Meaning as he argues, is an integral component of all aspects 
-of Vedic ritual. It is through language that we identify the nature of the ritual being performed. 
-It is the words, serving as devices for memory, that are constitutive of the tradition that 
-perpetuates the transmission of scripture and its functions. Mere rote recitation 
-(uccāraṇamātra) is incapable of fulfilling any of these functions. When it comes to the rituals 
-called śastra and stavana, integral components of any soma sacrifice, the function of the text 
-is to offer praise of the subjects, objects, and agents that participate in the ritual. Whereas as 
-for Mīmāṃsā, mere praise (arthavāda) is the emptiest of textual registers, at best offering 
-additional encouragement that compels the ritual actor to carry out the ritual injunctions, for 
-Skandasvāmin, it is rituals of praise that offer the best insight into the efficacy of semantic 
-understanding of the ritual, the centrality of conscious intentionality to worship, and the 
-fruitlessness of the mere rote repetition of words. As our author explains in Ṛgvedārthabodha: 
-For śastra and stavana are praise. And praise is said to be the establishing of the fact that a property bearer has a relationship (sambandha) with the properties, not merely the utterance of letters [in the context of rote learning or ritual]. For, in ordinary usage, it is not said to be the case that one “praises” [a person or thing] even if the verses [being recited] have the sense of praising, in so far as one is just enunciating the 
-203Skandasvāmin, Ṛgvedārthabodha 1.1: kriyamānānuvādinaḥ “yuvā suvāsā” ity evamādayaḥ // 
-242 
-syllables of a śloka or the Ṛg Veda if it is done merely for the purpose of practicing or learning.204 
-As he clarifies in his Bhāṣya on the Nirukta, “regarding the syllables of the Ṛg Veda, 
-which are suited for praise. . . one indicates this [type of speech] by saying, he praises!” In 
-other words, when one says that the god Agni is great, this emically speaking is no mere 
-hyperbole. Instead, it entails the identification and sustained conscious awareness of the fact 
-that greatness is ontically linked to the god of fire. By extension—and here is where such 
-pedantry pertains most to our interests—so long as the speaker intones Agni’s greatness, 
-everything and everyone that is logically affiliated with and subordinate to the subject of praise 
-partakes of the same qualities. Far beyond offering a particular exegetical method, 
-Skandasvāmin is making an ontological argument, akin to the naturalism we have seen earlier 
-among the philosophers, that accounts for how the manipulation and deployment of language 
-impacts and transforms the world. Skandasvāmin sees the semantic properties we ascribe to a 
-subject, for example, through the use of adjectives, as substances like atoms. Just like Vaiśeṣika 
-atoms, they are transferred or stick to some types of objects and agents possessing one kind of 
-nature and are repelled by objects and agents with a different nature. Skandasvāmin’s assertion 
-is that it is a conscious act of cognizing the meaning of a text that compels the power of 
-language and the content it conveys to “stick.” 
-It is for this reason, as our author tells us, that without a conscious understanding of 
-language, the ritualist is like dry firewood that fails to burn and his efforts are like the milking 
-of a barren cow. Such a dynamic hold true, our author asserts, even in regard to the mere 
-recitation (uccāraṇamātra) of text, which serves as the proverbial punching bag throughout 
-204Skandasvāmin, Ṛgvedārthabodha 1.1: stutir hi śastramabhiṣṭavanaṃ ca / guṇaiś ca guṇinaḥ sambandhitāpratipādanaṃ stutir ity ucyate / na tadakṣaroccāraṇamātram / na hi grahaṇārtham abhyāsārthaṃ vā stutyarthāny apy ṛgakṣarāṇi ślokākṣarāṇi voccārayan loke stautītyucyate // 
-243 
-both of his commentaries. Even if all you want to do is hone your mastery of the text of the 
-Veda, or rapidly recite it in the service of acts of expiation or self-improvement, it is still 
-necessary to engage in the cognitive act of identifying which deity is the governing force 
-behind each hymn. In this regard, Pūrva Mīmāṃsā in fact is in firm agreement with the 
-etymological tradition. But whereas Mīmāṃsā sees identifying the deity as having a purely 
-indexical function, offering a sort of premodern Dewey Decimal System that helps one 
-organize and rapidly retrieve Vedic hymns, Skandasvāmin views this interpretive act as the 
-efficacious heart of his system of exegesis. 
-To the one who knows the meaning of speech, the goddess Vāc surrenders her own body, with its many parts. . . . When it is said “it describes,” what is intended is it causes to be illuminated. . . . 
-The one who knows the meaning glosses (nirāha) the speech. And, therefore, whatever deity he identifies, he experiences alignment/identification with the state of that very deity (tataś ca yāṃ yāṃ devatāṃ nirāha tasyās tasyās tādbhāvyam anubhavati). Thus, because of the possibility of taking on that state, [the root text says,] there is steadfast companionship of him along with speech. In the Bhāṣya [of Yāska], the statement of the meaning is for the purpose of obtaining the status of being one who obtains ontic identity with the speech (tadbhāvya); he alone delights.205 
-Writing perhaps in the sixth century CE, Skandasvāmin is offering us a conceptual 
-system that either prefigures or is influenced by something akin to early Tantric philosophies 
-of language. Through the manipulation of language and the proper intoning of mantras, the 
-practitioner becomes identified with of a state of the god who is speaking or the subject of the 
-text. In essence, a new identity is generated, at least temporarily, through a sustained act of 
-mimesis that results in a higher order state of enjoyment as well as ultimately the obtaining of 
-205Skandasvāmin, Niruktabhāṣyaṭīkā 1.19–20 pg. 53–54: ekasmai tv arthajñāya tanvaṃ śarīram ātmīyaṃ śarīraṃ vāk sarvaprakāraṃ / visasre— sartter gatyarthasyāntarhitaṇyarthasyedaṃ rūpaṃ vividhaṃ rūpaṃ gamayati vrvṛṇute prakāśayatītyarthaḥ. . . . yo ’arthajñaḥ sa vācaṃ nirāha, tataś ca yāṃ yāṃ devatāṃ nirāha tasyās tasyās tādbhāvyam anubhavati iti tādbhāvyāpatter vācā sahāsya sakhyaṃ sthiram ity evam āhur ity arthaḥ / ramamāṇam iti tv arthaprāptārthavacanaṃ bhāṣye, yo hi vācas tādbhāvyam āpanno ramata evasau // 
-244 
-soteriological aims. Instead of a particular set of esoteric rituals serving as the means for 
-bringing about this effect, however, Skandasvāmin proposes that the means to supernatural 
-power as well as liberation is the proper application of textual glosses in a manner that accounts 
-for the plentitude of meaning they contain. When all of these components are aligned, the 
-goddess of language herself takes the Vedic scholar as her companion and lover. 
-As is so often the case when it comes to lovers of language, immersion in the experience 
-of arcane and innumerable details effectively becomes an end in itself. In Skandasvāmin’s 
-case, however, he has a rather good excuse, for the efficacy of the act of the gloss (nirāha) is 
-in fact dependent on achieving a pedantic comprehensiveness—in cognizing all the meanings 
-transmitted by traditions, without playing favorites. The result is a bookworm’s dream of 
-erudition as the means of salvation and, for the scholar, an otherwise unobtainable breathtaking 
-parade of the range of “orthodox” Brāhmaṇical modes of understanding that must have once 
-existed. As such sources have largely been ignored by our own scholarly traditions, even 
-though I am well aware of my considerable limitations as a scholar of Veda, we will look 
-briefly at how our author engages with two rather famous passages from the Ṛg Veda, the 
-closing line of the Puruṣasūkta and one of the “riddle hymns.” Let us begin with the first part 
-of his explanation: 
-yajñena yajñam ayajanta devās tāni dharmāṇi prathmāny āsan te ha nākaṃ mahimānaḥ sacanta yatra pūrve sādhyāḥ santi devāḥ // Ṛg Veda 10.90 
-The gods sacrificed the sacrifice by means of the sacrifice. . . . 
-This is the concluding verse of the ṛcs that is [used] for the fire churning. By the word yajña and so forth, the fire is said to be what is to be kindled, because of it being the instrument for accomplishing the yajña. And, by the one to be kindled which is a means for the yajna, they sacrificed the sacrifice—[specifically,] the āhavanīya fire, which is 
-245 
-itself a means for the sacrifice. In other words, the sense is they have oblated the fire that is kindled into the āhavanīya.206 
-This is a passage that is typically read by later thinkers as offering a cosmogonic model. 
-Often at the expense of the gods, who become instruments, it is read as centering the sacrifice 
-itself—and with it the various ordering principles (dharmans) that sustain it—as providing the 
-architectonic that orders a universe which runs on sacrifice. Our exegete, in contrast, begins 
-by focusing on the specific and delimited ritual context, the kindling of the āhavanīya fire, in 
-which what we call the Puruṣasūkta was to be recited. In this reading, this is not origin story 
-for the world order at all, but simply for the āhavanīya fire. 
-Having conveyed one meaning, in his typical fashion, Skandasvāmin now offers a 
-conflicting interpretation proposed by a different school of thought: 
-Otherwise, by the word “by the sacrifice,” [what is meant is] the word agni is a sacrificial animal (paśu), because of its being a means for the sacrifice. Regarding the fact of agni signifying a sacrificial animal, there is shown this statement in the Brāhmaṇa: Agni is the sacrificial animal” (agniḥ paśur asīt). By that sacrifice, specifically, the one concerning the side-fire, which is itself a means for the sacrifice, they sacrificed. [What did they sacrifice?] The fire, which is the deity, itself being precisely a means for the sacrifice. Who did [this]? The gods [did it], being the givers of the butter oblations—in other words, the sponsors. By the term “these dharmas,” what is meant is ritual acts.207 
-In a spirit somewhat closer to the usual reading of the Puruṣasūkta as offering an 
-account of Prajāpati the cosmic man who subdivides himself to produce the world of existence, 
-by invoking a bandhu connection presented in the Brāhmaṇa literature—where somewhere 
-206Skandasvāmin, Niruktabhāṣyaṭīkā 12.41, pg. 569: agnimanthanīyānām ṛcāṃ paridhānīyaiṣā / yajñenti yajñasādhanavān nirmanthyo ’gnir ucyate yajñasādhanabhūtena nirmanthyena yajñaṃ yajñasādhanabhūtam evāgnim āhavanīyam ayajanta / nirmantham agnim āhavanīye hutavanta ityarthaḥ / 207My thanks to my colleague the Vedicist Caley Smith for offering many useful insights on how carefully and how well Skandasvāmin reads his Vedic sources from outside the perspective of classical Sanskrit. Skandasvāmin, Niruktabhāṣyaṭīkā 12.41: athavā yajñenti yajñasādhanatvāt paśubhūto ’gnir ucyate / tathā cāgneḥ paśutve brāhmaṇavādo darśitaḥ agniḥ paśur āsīt, (tai sam 6) ityādi bhāṣye / tena yajñena yajñasādhanabhūtapaśvagninā yajñasādhanam evāgniṃ devatābhūtam ayajanta iṣṭavantaḥ / ke? devā dātāro haviṣāṃ yajamānāḥ / tāni dharmāṇi karmāṇi / 
-246 
-practically everything gets correlated with everything else—this second reading identifies the 
-fire with the paśu offering. It also seems to suggest a thoroughgoing equivalence between the 
-gods sacrificing in primordial times, and the Brāhmaṇa gods on earth who sacrifice in the here 
-and now—precisely the opposite of the interpretation Skandasvāmin will outline in the third 
-reading of this very same text. 
-What is most important for our purposes, however, is that this choose-your-own- 
-adventure approach to reading does not take as its focus one of the only mentions of 
-dharmas/dharmans in the early Vedic liturgy. And it is precisely this term that, correlated with 
-the “orders” or “ordinances” in earlier parts of the hymn—especially the presentation of 
-Brāhmaṇa as the head, the Kṣatriya as the arms, the Vaiśya the loins and the Śūdra as the feet— 
-becomes the locus of ascription for the theological model of varṇāśramadharma. Now to be 
-fair, this is the only portion of Skandasvāmin’s commentary on Ṛg Veda 10.90 that has been 
-published. Though his focus in this specific context would not necessarily demand a discussion 
-of how the text might offer the blueprint for a naturalized social order organized around the 
-concept of caste, the character of his comments here and elsewhere—his published works seem 
-to contain no discussion of varṇa or jāti, and as we have already seen his conceptual model 
-rules out Brāhmaṇical privilege as typically conceived—strongly suggest that such concerns 
-would have had little purchase within his larger intellectual project. This is to say that the oldest 
-commentator on the Ṛg Veda not only personally abjures the typical doctrine of Brāhmaṇical 
-privilege, but among the likely many dozens or even hundreds of interpretive approaches to 
-reading the hymns of which he must have been aware, no credible voice was invested in 
-reading such doctrinal concerns out of Ṛg Veda 10.90. 
-247The remainder of his commentary on the passage gives us a better sense of where the 
-commentators would instead direct their focus, offering us some of the competing points of 
-view: 
-The first ones means the very ancient ones. [These rites] are not now conducted by anyone nowadays. . . . Nākam—that is an ordinary word designating the heavens/sky and the sun. Therefore, we should read nākam in the sense of either the celestial world or the sun [not both]. The word mahimānaḥ means greatness, [specifically] being great [as an essential part of one’s nature and not a passing condition]. This a word that has the sense of an elided possessive suffix. The sense is the ones possessing [greatness]. 
-“Sācanta” means they served—[but the real] meaning is “they obtained.” Yatra means in which sky. And pūrva means in the first of all of them. Where the sādhya gods [were] means, from the perspective of the etymologists, sādhyas are said to be rays. They say these words—the ones sitting in the sky, the ray, and the class of the god—[are all synonyms]. 
-[In contrast,] the historians say that “previously” [pūrva] means in the yuga of the gods. . . . In reference to the human condition, they sacrificed by the sacrifice by means of the sacrifice for the sake of being/becoming gods.208 
-In violation of our usual reading of this verse as offering a charter myth for the 
-primordial and atemporal character of the Vedic sacrifice, the perspective on offer here is 
-primarily focused on making it clear that both the originary moment when the first sacrifice 
-took place—as well as the actual sacrifices that were deployed—were profoundly different 
-from how Vedic ritual is to be practiced today. This anxiety may in fact be motivated by our 
-text’s euphemistic allusion to one of the most infamous deployments of the Puruṣasūkta within 
-Vedic liturgy, where it is linked with the performance of the puruṣamedha or human 
-208Skandasvāmin, Niruktabhāṣyaṭīkā 12.41: prathamāni cirantanāny evāsan / na kenacid idāniṃ eva pravartitāni / te ha haśabdaścārthe te ca / nākaṃ nākam iti sādhāraṇanāma divaś cādityasya ca / tena nākaṃ divam ādityaṃ vetyarthaḥ / mahimānaḥ mahimā mahattvam / luptamatvarthaś cāyaṃ / mahattvavanto mahānta ityarthaḥ / sacanta sevitavantaḥ prāptavanta ity arthaḥ / yatra yasmin nāke pūrve sarvataḥ prathame / sādhyāḥ devāḥ nairuktānāṃ sādhyā raśmaya ucyante / tad āha dyusthāno raśmir devagaṇa iti / aitihāsikāḥ pūrvaṃ devayugam iti / pūrvoktadevasamūha ity arthaḥ / tadā ca ṛgevaṃ vyākhyeyā / mānuṣāvasthāyāṃ yajñena yajñam ayajanta devatvāya / sādhyās te ha nākaṃ prapedira ity arthaḥ / 
-248 
-sacrifice.209 While our first reader feels perfectly comfortable simply assigning this act to 
-“very, very long ago,” the school of interpretation of the historians—a group of readers who 
-seem to be obsessed throughout with questions of chronology and genealogy—seem intent on 
-creating even more distance from our own experience by precisely assigning this event to a 
-previous cosmic age. 
-In any case, apart from some parsing of terms and forms aimed at maximizing the 
-precision of the exact content that is to be derived from this verse, another major focus in this 
-part of our commentary is demonstrating that it is the actual agents enacting the ritual who are 
-the ones who obtain benefit from it. This is why it is so important that the verbal form 
-sevitavantaḥ, which Yāska proposes, and which often has the sense of “to attend” or “serve,” 
-is immediately replaced by a verb meaning “to obtain” (prāptavantaḥ). It is only if this type of 
-reading is adopted that the ultimate significance of the hymn for the human world becomes 
-clear. Much like our earlier works of philosophy, Skandasvāmin is interested in the 
-implications that religion has for the general human condition (mānuṣāvasthā), not simply the 
-impact on twice-borns, and from this final perspective—which may well be Skandasvāmin’s 
-own because it surfaces also in passages of commentary that are not commenting on a scriptural 
-verse—the point of performing the sacrifice, a ritual act we must remember that must be paired 
-with complete semantic understanding of the text and all its meanings, is that “it is for the sake 
-of becoming a god” (devatvāya). 
-Perhaps the most vivid exemplification of how Skandasvāmin’s exegesis lends itself at 
-once to mundane and mystical readings of Vedic textuality is his commentary on Ṛg Veda 
-209While surely other examples exist, see for example Śatapathabrāhmaṇa 13.6.1–2 as well as the Atharva Veda’s only surviving Śrauta Sūtra, the Vaitāna Sūtra 37.19. 
-249 
-1.164. This is the so-called “All Gods Hymn” ascribed to Dīrghatamas, which, as Jamison and 
-Brereton have observed, continues “to attract scholarly attention in part because it has 
-continued to escape satisfying interpretation. . . . The complexity of the hymn derives 
-especially from the multiplicity of reference of its verses, which connect ritual, cosmos, and 
-person. Thus the verses frequently refer simultaneously to the ritual (adhiyajñam) and to the 
-world (adhidevatam), especially to the sun, and sometimes also to the human body or the 
-human being (adhyātman).”210 As Jamison and Brereton tell us, liturgically, the “All Gods 
-Hymn” was deployed in the context of the pravargya rite as well as the mahāvrata—rituals 
-that themselves once formed part of an archaic countertradition to the Vedic ritual normativity 
-around which canonization processes centered—and exegetically it associates itself with the 
-Āraṇyakas, perhaps the least well studied dimension of Vedic textuality. Perhaps the only part 
-of its reception history that has been understood is the role our text plays in providing one of 
-Vedānta’s great iconic images—found in the Katha, Muṇḍaka, Bṛhadāraṇyaka and 
-Svetāśvatara Upaniṣads. In all of those places, we hear of two birds—inseparable—who sit 
-upon the same branch of a tree. One eats the fruit while the other looks on. In its original 
-instantiation, which forms of the focus of Skandasvāmin’s commentary, in Jamison’s 
-translation Dīrghatamas says: 
-Two well-feathered (birds), yokemates and companions, embrace the same tree. Of those two the one eats the sweet fig; the other, not eating, keeps watch. 
-Where (yatra) the well-feathered (birds) (suparṇa), never blinking, cry out for a share (bhāga) of immortality (amṛta) and for the ritual distributions, here the forceful herdsman (gopā) of the whole living world, the insightful one, has entered me, the naïve one. 
-210Stephanie Jamison and Joel Brereton, ed. and trans., The Rigveda: The Earliest Religious Poetry India (New York: Oxford University Press, 2014), 349–350. 
-250 
-Just that tree on which all the honey-eating, well-feathered ones settle and give birth, they say, has the sweet fig at its top. He who does not know the father will not reach up to that.211 
-As we might by now anticipate, Skandasvāmin’s reading of this passage proceeds from 
-the position that there is no one single correct approach to reading the verse, but instead we 
-must treat it as conveying a myriad of syntactically plausible interpretations. In his first 
-reading, also adopted by Jamison and Brereton, the interpretation is that the answer to our 
-riddle’s kenning is that the whole hymn is really a praise of the sun. For Skandasvāmin, this is 
-simply the worldly, or adhidaivata, reading of the text, which travels alongside discrete 
-spiritual and cosmological readings. These last two approaches are themselves also subject to 
-an additional layer of what our commentator calls Upaniṣadic explanations, which offer a 
-series of discrete proposals for reading the text in terms of what one might call a Vedic theistic 
-as well as an epistemological orientation. Skandasvāmin’s Vedānta seems to represent an 
-unstudied scholastic tradition of learned exegesis that is hundreds of years older than anything 
-else that survives and logically unrelated to the tradition of the Brahmasūtras: 
-Yāska: 
-[The worldly reading]. . . suparṇāḥ, the well-feathered [birds means] the well-flying sun-rays. . . . The portion (bhāga) is the nectar of the undying. . . . Lord [from ina-] of all [from viśvasya] [means] the Sun is the protector of beings. That one, the wise one, enters me who is pāka—here. Dhīra means dhīmān [wise]. Pāka means “the one to be cooked.” The Sun knows the well-cooked—this is the hidden connection. . . as per the worldly reading. 
-The spiritual reading [is that]. . . suparṇāḥ [means] the well-flying senses. The immortal’s portion pertains to gnosis. . . . Of all (viśvasya) [means that] among senses, the self is protected/privileged. That one, the wise one enters me who is pāka. . . . Dhīra means dhīmān (wise). Pāka mean the one to be cooked. The Self knows the well- cooked. . . . 
-Skandasvāmin: 
-211Jamison and Brereton, The Rigveda, 356. Sanskrit original added. 
-251 
-The cosmological reading [is that]. . . suparṇāḥ are name of the rays that abide in the circle of the Sun. We say that it is immortal (amṛtasya), because it is the cause of the life on the part of beings that breathe—it is similar to amṛta or has the property of non- death, or it is the water oblation defined as the “juice” of the earth.”212 
-Just as in Yāska’s own brief comments on this line, having offered us three “literal” 
-readings of the text provided by different traditions, Skandasvāmin now turns to applying three 
-different approaches to exegesis on the text in the tradition of the Upaniṣads: 
-[Thus, Yāska gives us the phrase] upaniṣad-varṇa. Upaniṣad here means the private knowledge (rahasyavidyā). Varṇa mean describing. So upaniṣadvarṇa is knowledge concerning the highest good—it is a commentary having [the highest good] as its object. Or [another explanation is that] for the sake of that [the highest good], the ācāryas should sit nearby, and then the ācārya explains it [the highest good] to them— thus there is the description of the upaniṣad. 
-This is the interpretation corresponding to the deity—the term [adhidaivata] is an indeclinable in the sense of a case usage. [Adhidaivata here means] toward or with regard to the deity [the locative of reference]. The knowledge [vijñāna] is that of which the object is the deity because the śruti contains within it [the means for] the production of identification with that [tadbhāvya—i.e., the deity]. [Śruti therefore] serves the highest good [and] it is called upaniṣadvarṇa. The commentary is arrived at by the glossing of the mantra. . . . 
-212Thanks once again to Caley Smith for offering many insights that improved my understanding of these difficult passages. The Nirukta passages of Yāska upon which Skandasvāmin comments are given immediately below. Since the edition in which it is contained is little known, the entirety of Skandasvāmin’s own commentary on the section is then presented. Yāska, Nirukta 3.12, pg. 134: yatrā suparṇā amṛtasya bhāgam animesaṃ vidathābhi svaranti / ino viśvasya bhuvanasya gopāḥ sa mā dhīraḥ pākam atrā viveśa / yatra suparṇāḥ supatanā ādityaraśmayaḥ / ādityaraśmayaḥ / amṛtasya bhāgam udakasya / animiṣanto vedanena abhisvarantīti vā abhiprayantīti vā / īśvaraḥ sarvesāṃ bhūtānāṃ gopayitādityaḥ / sa mā dhīraḥ pākam atrā viveśeti dhīro dhīmān pākaḥ paktavyo bhavati vipakvaprajña āditya ity upaniṣadvarṇo bhavati / ity adhidaivatam / athādhyātmaṃ / yatra suparṇāḥ supatanānīndriyāṇi / amṛtasya bhāgam jñānasya animiṣanto vedanenābhisvarantīti vā / abhiprayantīti vā / īśvaraḥ sarvesām indriyāṇāṃ gopāyitātmā / sa mā dhīraḥ pākam atrā viveśeti / dhīro dhīmān / pākaḥ paktavyo bhavati vipakvaprajña ātmā / ity ātmagatim ācaṣṭe / 
-Skandasvamin, Niruktabhāṣyaṭīkā 3.12, pg. 134–135: dīrghatamasaḥ / adhidaivataṃ tāvad asyā ṛco ’rthaḥ / yatreti saptamīśruteḥ / sthitā iti śeṣaḥ / suparṇā iti raśmināma, yasmin ādityamaṇḍale sthitā raśmayaḥ / amṛtasya prāṇināṃ jīvanahetutvād amṛtasadṛśasya amaraṇadharm[a]ṇo vā bhaumarasalakṣaṇasyodakasya / bhāgam aṃśa svaṃ svam / animeṣaṃ nimeṣavarjitam mahatādareṇa sātatyena vetyarthaḥ / vidathā vedanena, devatāmāhābhāgyāt svena kenāpi vijñānena / abhisvaranti svṛ śabdapatāpayoḥ (dhā 1.171) /. . . . athavā svaratir atra gatikarmasvapaṭhito ’pi gatyarthaḥ / bhāgam iti dvitīyāśruter ādāyeti śeṣaḥ / yasminn ādityamaṇḍale udakasyāṃśaṃ svaṃ rasam ādāya gacchantītyarthaḥ / yacchabdaśrutes tacchabdo ’dhyāhāryaḥ / tatra sthita ina īśvaro viśvasya sarvasya bhuvanasya bhūtajātasya gopāḥ gopāyitā ca, ya iti śeṣaḥ parastāt tacchruteḥ / sa mā māṃ dhīraḥ prajñāvān ādityaḥ, pākam arthitvād, bhaktitvād apakvaprajñatvāc ca vaktavyaprajñaṃ mām atrādityamaṇḍale āviveśa āveśayatu prāpayatv ityarthaḥ / sukṛtinām hi tatsthānām / tena tatra prāpaṇam arthyata iti / 
-252 
-Otherwise, the adhyātma meaning of this verse [is]: Where [yatra] means, in which body are established the rays [suparṇa]. By this we mean the sense organs; the eyes and so forth are similar to rays because of their being illuminators. Of the immortal [amṛtasya] means of the sense object, a thing that is knowable—a form and so forth. The portion [bhāga] means its own portion, being the sight, form, sound, smell and so forth. Unblinking (animeṣaṃ) means by means of vijñāna they heat up/incinerate—the sense is, they illuminate the self. [In the body] there is situated the Lord [ina], as the enjoyer. And the protector [gopa], the protector of the village of all the senses, is the one with knowledge; he possesses insight. Pāka, a cooked thing, means that of which the insight [prajñā] must be communicated [i.e., you must gloss the meaning]. Right here means: may he enter the thing that is established, and may it become clear/illuminated to me. 
-Or, yatra means that the ātman is indicated and not the body. . . . They approach the object that is to be obtained by vijñāna. May he, [the lord] Īśvara and the protector [gopā,] enter me. Unblinking [animiṣaṃ] means gone to—because the going to the self means, the knowledge of the self, and this also is simply the description of the upaniṣad. While the previous section has the deity as its object—the remainder is this [final section] has as its object the self.213 
-Skandasvāmin understands the term upaniṣad as referring to two discrete but related 
-domains. On the one hand, upaniṣad is a commentarial textual tradition—corresponding to the 
-works we call Upaniṣads—that takes the highest good (niḥśreyas) as its conceptual focus. At 
-the same time however, upaniṣad is also an extratextual embodied didactic process—the space 
-where the student comes up close to the teacher and receives esoteric instructions about the 
-highest good, whether or not these instructions have any specific foundation in a proof source. 
-In the first Upaniṣadic teaching—which is about the nature of deities—Skandasvāmin presents 
-213Skandasvamin, Niruktabhāṣyaṭīkā 3.12, pg. 135: upaniṣadvarṇaḥ / rahasyavidyā upaniṣat, varṇanaṃ varṇaḥ, tadviṣayaṃ vyākhyānaṃ naiśreyasaṃ jñānam upaniṣadvarṇaḥ / tadarthaṃ vopaniṣīdanty ācāryāḥ / tebhyaś ca varṇayanty ācāryā iti upaniṣadvarṇo bhavati, ity adhidaivatam / vibhaktyarthe ’vyayībhavaḥ / devatāyām ityarthaḥ / devatāviṣayaṃ vijñānaṃ tādbhāvyāpattiśruter naiśreyasatvād upaniṣadvarṇa ucyate / bhāṣyam mantravyākhyānena gatam / athavopaniṣadvarṇatā “asau vā ādityo madhu” ityādi adhyātmam apy asyā ṛco ’rthaḥ / yatra yasmin śarīre sthitāḥ raśmayaḥ prakāśakatvād raśmisadṛśāni cakṣurādīnīndriyāṇi, amṛtasya rūpāder jñenasya viṣayasya bhāgaṃ svaṃ svam aṃśaṃ cakṣū rūpaṃ śrotraṃ śabdaṃ ghrāṇādīni gandhādīni, animeṣaṃ vijñānenopatāpayanti, ātmānaṃ prakāśayantītyarthaḥ / tatra bhoktṛtvena sthita ina īśvaraḥ sarvasyendriyagrāmasya gopā yaḥ sa dhīraḥ prajñāvān pākaṃ vaktavyaprajñam atraiva sthitam āviśatu mama prakāśībhavatv ity arthaḥ / athavā yatretyātmā nirdiśyate na śarīram / bhāgam ityatra ca pūrvavad ādāyeti śeṣaḥ / svaratiś ca gatyarthaḥ / yasmin nihitānīndriyāṇi viṣayasyāṃśaṃ svam ādāya vijñānenopalabhyārtham abhigacchanti / īśvaro gopāyitā ca sa mām āviśatv iti / animiṣam iti gatam / ātmagatim ātmajñānam / ayam apy upaniṣasvarṇa eva / pūrvo devatāviṣayaḥ / ayam ātmaviṣaya iti viśeṣa iti / 
-253 
-us a construal of this line that treats it as providing validation for a theme he often propounds 
-in this own prose, what we might call the mimetic soteriology of the Nairuktikas. The core 
-idea, which we have now encountered many times, is that when the meanings of a particular 
-passage of śruti are mastered, the ritualist becomes able to ritually identify himself with the 
-deity (tadbhāvya) who is subject of the hymn and attains his traits and powers. From this 
-perspective, the real purpose of the Veda is that it offers a series of something akin to Tantric 
-sādhanās that help one to assume a range of divine forms. 
-In contrast, the second “spiritual teaching” offers a doctrine akin to the typical 
-Upaniṣadic teaching of the field and the knower of the field. Returning to the solar metaphor 
-but now linking it up with the physics of sense-perception we find among the Nyāya teachers 
-and Vaiśeṣikas, here the human body is said to be full of rays that radiate outward from an 
-indwelling god who is at once the enjoyer and the protector. Prefiguring later Kaula doctrines 
-of the sense goddesses, here the “share” offered to the god are the objects of sense perception 
-and their properties, which the gods cook and eat when we have sense experiences. This is how 
-sense objects become graspable by awareness. Understanding this process and then explaining 
-it—in the manner of the nirāha practice we encountered earlier, a process that would likely 
-entail intellectually grasping all the correlative linkages within such a system—is said to be 
-how one obtains the highest insight. 
-In the final teaching, the focus shifts from the relationship between the god and the 
-human body—its role as indwelling force—to understanding how the “knowledge of the self” 
-relates to what is almost a quasi-devotional form of Vaidika worship. When our texts proclaims 
-“may he, [the lord] Īśvara and the protector [gopā], enter me. . . . because the going to the self 
-means the knowledge of the self,” it is quite plausible that Skandasvāmin is alluding to a 
-254 
-practice where the Upaniṣadic teachings about non-difference with the highest reality were 
-used to induce deity possession. 
-Quite apart from the altogether astounding observation that Skandasvāmin’s 
-Niruktabhāṣyaṭīkā and the Ṛgvedārthabodha have interwoven within their exegesis ample 
-evidence for reconstructing not one but multiple pre-Śaṅkara traditions of proto-Vedānta, even 
-a very brief encounter with this arcane textual landscape should have conveyed to the reader 
-that in classical India, the meaning and purpose that the Vedas held for Brāhmaṇas—as a 
-source of religious inspiration and learned reflection—can scarcely be accounted for within a 
-single tradition of exegesis, let alone reduced to the empty signifier of Brāhmaṇical hegemony 
-that much of our literature assumes. When Skandasvāmin treats the word dhīra—which in 
-classical parlance would be seen as meaning steadfast—correctly as derived from root dhī in 
-the sense of knowledge, or when he attends to the semantic different between a verb in the 
-parasmaipada and ātmanepada as indicating actions the benefit the other as opposed to 
-oneself, he shows us just how well and carefully he can read the Vedic language. For 
-Skandasvāmin, unlike for the usual exegetes, Vedic speech is not semantically and 
-syntactically akin to normal usage but obeys its own rules and demands its own specific 
-lexicons. Succinctly, Skandasvāmin’s writings are a testament to the fact that, even after the 
-Gupta age, there remained many people who not only read the Veda for its content, but brought 
-to this activity a conceptual tool kit that was still rooted in a fluency in the technical dimensions 
-of Vaidika ritual as well as its specific grammatical traditions. For such people, Vaidika 
-knowledge was no mere cultural patrimony, but a living and self-sufficient tradition that 
-enabled the ritualist to know the world and to see and experience his gods. 
-255 
-Now as the reader may very well be aware, the tradition of Pūrva Mīmāṃsā—a term 
-that often is simply, but erroneously, treated as synonymous with Vedic Hermeneutics— 
-approaches the study and use of Vedic textuality from an intellectual perspective that in almost 
-every regard is diametrically opposed to the meaning oriented and experientialist Vaidika 
-worldviews we have just been exploring. As Francis Clooney has shown us in Thinking 
-Ritually, ever since the composition of the Mīmāṃsā Sūtras sometime around the turn of the 
-Common Era, Mīmāṃsā propounded a doctrinal orientation where “the sacrifice does not 
-revolve around human values” and “learning to sacrifice compels the Mīmāṃsaka to 
-reorganize his view of the world, displacing himself and his own concerns.”214 In Clooney’s 
-reconstruction, even more so than is the case with his successors, Jaimini rejects the idea that 
-what happens within the domain of ritual amounts to a separate kind of sacred space, that 
-particular Vedic textualities have specific properties, and that the discourse around the Veda 
-entails the invocation of any supernatural or transcendent elements. Working from the 
-assumption that there is precious little difference between Vedic and ordinary language at the 
-level of semantics, Jaimini even seems to reject the notion that the ritual produces after its 
-completion any special kind of imperceptible effect—such as the apūrva proposed by Śabara 
-and his successors. For Clooney, it is thus not that the components that make up Vedic 
-discourse are unique that gives it its power, but rather that “the Vedic arranges the ordinary in 
-a particular way for an extraordinary reason.”215 As Clooney rather bluntly puts it: 
-Jaimini eschews the esoteric. Words do not have hidden / revealed meanings which place them and the Veda outside the realm of the ordinary. Just as there are no particular sacred or divine localities, words are not vehicles of units of sacred meaning.216 
-214Francis Clooney, Thinking Ritually: Rediscovering the Pūrva Mīmāṃsā of Jaimini (Vienna: De Nobili Research Library, 1990), 125. 215Clooney, Thinking Ritually, 134. 216Clooney, Thinking Ritually, 133. 
-256 
-In Jaimini’s system, while all action is propelled by artha—the artha in question is not 
-meaning but rather a specific need. In the case of the Veda, it is the need of the text itself to be 
-enacted that takes precedent, and this is precisely what Jaimini means when he speaks of 
-dharma—in the singular—as injunctive force (codanā), and injunctive force as the conceptual 
-core of Vedic ritual. Unlike in the case of building a house, where, if you were to change your 
-mind you would just stop building, once commenced, Vedic rituals presents a claim upon the 
-ritual actor that supersedes mere human needs and particularized desires. Jaimini argues that 
-the force of the Vedic injunction is thoroughly separate from the content contained within any 
-particular injunction. In short, just as human needs are decentered, so too is the issue of 
-meaning. That one “should”—or rather, one must—perform the sacrifice is the most important 
-dimension of any ritual sequence. The exact character of what needs to be done in order for 
-the sacrifice to be successful is therefore thoroughly subordinated to the initial impulse to 
-sacrifice. Analogously, Jaimini proposes that what human beings desire, more than anything 
-else, is the result—not some particular aim. For this reason, the exact nature of the result of a 
-particular sacrifice is itself a subordinate concern as what takes priority is whether the rite is 
-in any way efficacious in the first place. Essentially, early Mīmāṃsā teaches that human aims 
-(puruṣārtha) are by definition supplementary to the aims of the sacrifice itself.217 It is the aims 
-of the sacrifice (kratvartha)—and not of any agent—that form the necessary preconditions for 
-its execution. 
-From a modern perspective, Skandasvāmin offers us a superfluity of semantics—too 
-much meaning—and has almost too much invested in pinning down the significances every 
-last word or particle could possibly convey. Jaimini’s approach, in contrast—at least as it is 
-217Clooney, Thinking Ritually, 141–48. 
-257read by his commentators—proposes an internal hierarchy within the text that centering terse 
-verbal commands, treats most of Vedic textuality as mere after thought.218 While 
-Skandasvāmin offers us, once again, representations of too many discrete and mutually 
-exclusive points of view to keep track of, each of them proposed by a separate interpretive 
-community whose perspective he is eager to include and honor, by proposing that the real key 
-to reading the Veda is an extra-textual hermeneutical method that is equally appropriate across 
-all the useful parts of the canon, Jaimini sets out to erase any traces of lineage- and community- 
-specific distinctiveness in traditions of Vedic interpretation. Finally, if Skandasvāmin 
-reimagines the world of the Veda as an extended conceptual romance between the sacrificer 
-and his love, lady language, that culminates in the ritualist becoming a god, for Jaimini, human 
-beings in Vedic ritual are used and disposed of in the same manner as wooden spoons. As 
-Clooney argues, speaking very much like the constructive theologian he would soon become, 
-the transcendent dimension of Vedic discourse “occurs when the performer find himself in a 
-world which accounts for his viewpoint without making him the center of the world. He is 
-acknowledged, evaluated, placed, used, in a system which does not exist for his own sake.”219 
-Surreptitiously, we might also say that the “system” in question also proposes a 
-“decentering” of the Veda itself as a knowledge system—in all its śākhā, procedural, and 
-genre-based specificity. In place of the cultivation of the erudition of a Vaidika autodidact, 
-Jaimini and especially his commentators effectively advocate that the subject formation 
-218Just how much of this conceptual project is presented by the Mīmāṃsā Sūtras themselves and how much is projected onto the work by the commentators beginning with Śabara is a matter requiring further inquiry. Clooney appears to be locating some key antecedents for such internal hierarchization of content in the root text’s subordination of inherited ritual materials to a set of paribhāṣā meta-rules that are equally concerned with the proper parsing of statements and syntax at the level of the sentence and the proper identification of a primary ritual form within a set of related ritual actions. Perhaps the most lucid discussion of this essential dimension of Mīmāṃsā discourse as it is carried out by the exegetical tradition is Lawrence McCrea, “The Hierarchical Organization of Language in Mīmāṃsā Interpretive Theory,” Journal of Indian Philosophy 28 (2000): 429–459. 219Clooney, Thinking Ritually, 149. 
-258 
-constitutive of a Brāhmaṇical identity should be founded instead on the mastery of the 
-Mīmāṃsaka exegetical method itself, for this alone provides a hermeneutical skeleton key to 
-what they deem an otherwise irrational, contradictory, even meaningless inherited cultural 
-patrimony. In short, much like the study of literature has done since the 1980’s, Mīmāṃsā 
-substitutes the contextualized study of particular sources for the mastering of a theory and 
-method viewed as equally applicable to a vast range of texts. Just as literary theory—for all its 
-interpretive power—is discontinuous with long-standing Western traditions of rhetoric and 
-taste, but instead represents an importation of an intellectual orientation that had its origins in 
-other disciplinary and cultural domains, so too is it tempting to view Mīmāṃsā as an analogous 
-phenomenon—what happens when brilliant people come to a text without inheriting a sense 
-of its wider context. In light of our own investigation of the multiplicity of ways of being and 
-thinking Brāhmaṇa, we would do well in this regard to look at this tradition, not as it imagines 
-itself—the center of Brāhmaṇical normativity—but as one claimant among many to the role of 
-official Vedic interpreter, promoting one canon as constitutive of being Brāhmaṇa. Indeed, it 
-is tempting to see the tradition’s embrace of a hermeneutical approach—with few obvious 
-genetic ties to the types of reading practices we have just encountered—that does things with 
-and to texts while actively advocating that we do not need to read most of what is in them as 
-an expression of an original alterity to an internally diverse Brāhmaṇical “mainstream” that 
-was organized around a whole constellation of divergent concepts and orientations—just not 
-ones that dispense with most of the contents of their tradition. 
-Until very recently, most of the academic focus on the Mīmāṃsaka exegetical tradition 
-has taken up the study of the commentarial reception of the work’s first two sūtras220—which 
-220As McCrea observes, “Mīmāṃsā perhaps because it deals so intimately and exhaustively with the arcane details of Vedic ritual, has received comparatively little attention from modern scholars of Indian philosophy, and what 
-259 
-in the hands of the exegetes Śabarasvāmin (ca. fifth century CE) and Kumārila Bhaṭṭa (ca. 
-seventh/eighth century CE) are largely dedicated to offering an intellectual refutation of the 
-claims of Buddhist philosophical systems carried out in the formal idiom of śāstric 
-considerations of logical dependencies and veridicality. In contrast, comparatively little 
-attention has been directed towards how the next hundred pages of the text, pretty much from 
-Mīmāṃsā Sūtra 1.1.4–2.2, while engaging with some philosophical analysis of the eternality 
-of words, also addresses itself to the coopting or refutation of a myriad of non-philosophical, 
-but either pedagogical or speculative perspectives from within Vedic traditions. A central focus 
-of this portion of the text’s eternalization of the Vedic word is the denigration of the role played 
-by Vedic pedagogy—and the human effort it entails—in the transmission and perpetuation of 
-a meaningful Veda. It is also an assault on the part played by human agency in the making 
-manifest of the Veda’s power. It is in this spirit, after our encounter with the mimetic theory 
-of Vedic performative apotheosis advocated by Skandasvāmin, that we must read in a new 
-light how Mīmāṃsā Sūtra 1.14 refutes an objector who says that people make words (śabdaṃ 
-kuru) by telling us that, as in the case of the phrase gomayaṃ kuru (make cow dung), the Vedic 
-ritualist is merely a collector of someone’s shit.221 It is also for this same reason that Mīmāṃsā 
-next progresses (1.27) to discrediting that there is an affiliation of specific Vedic texts—with 
-specific textual contents—to particular śākhās and their ancestral speakers. 
-attention it has received has focussed almost exclusively on matters dealt with in the first pāda of the first adhyāya of the Mīmāṃsāsūtra (the so-called tarka-[“reasoning”] pāda), in which the epistemological and ontological views which form the groundwork of the system are explained and defended. The standard practice in general surveys of Mīmāṃsā (and in the summaries of Mīmāṃsā views included in most histories of Indian philosophy) has been to draw a sharp distinction between “philosophical topics” (i.e. topics dealt with in the tarka-pāda) and “Mīmāṃsā topics proper” (i.e. the interpretive questions dealt within the remaining fifty-nine pādas of the Mīmāṃsāsūtra), and to treat the latter topics as of minor importance or to ignore them altogether.” Lawrence McCrea, “The Hierarchical Organization of Language,” 429. 221Kasinatha Vasudeva Abhyankar, ed., Śrīmajjaiminipraṇīte Mīmāṃsādarśane (Pune: Anandasrama, 1966), vol. 1, pg. 16. 
-260 
-In the Śabarabhāṣya in particular, that the implicit as well as explicit target of much of 
-this polemic is quite pointedly the tradition represented by the Nairuktakas is made evident by 
-a rather remarkable rhetorical decision made by Śabara to take up the arguments and examples 
-offered by Yāska’s major pūrvapakṣin and repurpose them as an integral part of his own 
-siddhānta. Yāska’s commentary on Nirukta 1.15 famously contains an argument with a 
-dissenting voice named Kautsa, who proposes that Vedic mantras have no meaning and then 
-proceeds to offer examples of statements contained in the Veda that could not possibly be 
-meaningful or true. 
-If you aim to ascertain the meaning of mantras, this is a useless activity, for the mantras have no meaning. This is to be established by the following arguments: 1) Mantras use fixed expressions and have a fixed word order. 2) The contents of mantras that are clear are already enjoined by a brāhmaṇa text. For example: the mantra “O wide-spreading one, spread out widely” is followed by the brāhmaṇa “thus he spreads out”; and the mantra “Let me pour out” is followed by the brāhmaṇa “and so he pours out.” 3) Mantras have impossible meanings. Consider the mantra: “O herb, protect him”; or “O axe, do not harm him,” which someone pronounces while harming. 4) Mantras have contradictory meanings. Consider the following two mantras: ‘There is only one Rudra, no second” and “On earth there are countless thousands of Rudras”; or “Without enemy were you born, O Indra” and “Indra conquered a hundred armies at the same time.” 5) A mantra orders someone who already knows what to do: “Speak to the fire that is being kindled.” 6) A mantra states that the goddess Aditi is everything: “Aditi is the sky, Aditi is the atmosphere.”. . . 7) The meanings of certain words in mantras are not clear such as amyak [Ṛg Veda 1.169.3].222 
-In fact, for Yāska and his commentator Skandasvāmin, it is precisely Kautsa’s 
-presentation of these arguments that provide them with the occasion for articulating the 
-methodological and theological focus of their discipline in the manner we have explored in the 
-previous section, much of which is framed around the refutation in sequence of each of these 
-222 While I first noted this connection between the Nirukta’s pūrvapakṣin and Śabara’s siddhāntin independently in 2006, writing about the matter in my MA thesis, subsequently Johannes Bronkhorst has drawn our attention to this dynamic in his Śabda Reader (2018), from which the above translations are lightly adapted. Johannes Bronkorst, A Śabda Reader: Language in Classical Indian Thought (New York: Columbia University Press, 2018), 68. 
-261 
-objections. There is thus no mistaking the fact that, while he adds in some examples of his 
-own—raising nine points in place of Kautsa’s seven—Śabarasvāmin frames his own 
-deconstruction of Vedic meaning under the very same proof texts and objections. 
-Are mantras intended to be expressive of meaning or are they not intended to be expressive of meaning? Do they play a role in the sacrifice through making their meaning known, or through mere recitation? If through mere recitation, the mantra “I cut the grass to make a seat for the gods” should not necessarily be used in connection with cutting grass. If, on the other hand, they play a role through referring, the mantra whose auxiliary nature is known from the context cannot play a role elsewhere than in that context. As a result, the mantra could then only be used in connection with cutting grass, even in the absence of a statement to that effect. 
-[First argument:] We hold that mantras play a role in the sacrifice through their mere recitation. Why? Because the same meaning is repeated in brāhmaṇa passages. A brāhmaṇa passage directs the priest exactly in respect of that which also the mantra can express. The statement in a brāhmaṇa “he spread out the sacrificial cake with the mantra “O wide-spreading one, spread out widely” is pointless if mantras play a role in the sacrifice through referring. But if mantras play a role in the sacrifice through mere recitation, their use must be stated, and indeed, it has been stated. It follows that mantras do not play a role in the sacrifice through the expression of their meaning. . . . [Second argument:] Because the order in mantras is fixed. . . . 
-[Fifth argument:] Mantras fix their object with regard to something that is insentient, as in [the statement] “O herb, protect him.” Such mantras, if they played a role in the sacrifice by way of making their meaning known, would instruct an herb to protect the sacrificial animal. But that herb, being insentient, cannot be instructed. There is however nothing wrong if mere utterance is the purpose of mantras. [Sixth argument:] The meaning of mantras contains contradictions, as in “Aditi is the sky, Aditi is the atmosphere.” . . . Another example of contradictory mantras is “There is only one Rudra, no second” as against “on earth there are countless thousands of Rudras.” . . . [Eighth argument:] It is completely impossible to understand the meaning of certain mantras. Examples are anyak. . . jarbharī.”223 
-In his subcommentary on this section of Śabara’s Bhāṣya, Kumārila in turn direct his 
-polemic even more specifically against the Nirukta tradition of exegesis: 
-Jaimini (1.2.48): The fact of learning the meaning of the mantras not being mentioned in the sentence laying down the study of the Veda is due to the fact of such knowledge not having any connection [with the performance of the sacrifice]. 
-223Bronkorst, A Śabda Reader, 69–71. 
-262 
-Kumārila: If, at the time of the study of Veda, the mention of the meaning were of any use, then it would certainly have been mentioned in the injunction, but as a matter of fact, such is not the case, as it bears no connection to the actual performance of the sacrifices. As for the learning of the meaning [in the same manner a text is learnt and utilized, this is not enjoined,] because [the ascertainment of the meaning of the mantra] is an ordinary act, like washing and so forth.224 
-While is it unclear whether he knows Skandasvāmin’s writings directly, Kumārila’s 
-final pejorative remark comparing Vedic pedagogy that transmits semantic understanding to 
-an “ordinary act, like washing” amounts to a repudiation of Skandasvāmin’s positive 
-valorization of quotidian acts of skill acquisition as a paradigm for understanding the mastery 
-of Vedic knowledge. For, if activities “such as the cooking of rice or the activity of the artisan 
-(śilpin)” were to provide the “qualification (adhikāra) on the part of human beings that arises 
-from knowledge regarding these activities” in precisely the same way “that the one who studies 
-by means of the transmission of that discipline knows [the Veda] correctly, but another person, 
-incorrectly or not at all,” then extra-disciplinary Pūrva Mīmāṃsā and its vision of Brāhmaṇical 
-privilege loses its justification as a comprehensive knowledge system.225 Contrary to Śabara 
-and Kumārila’s dismissals of “knowing meaning” as simply serving indexical, descriptive, and 
-performative semantic functions, as we have seen, the kinds of multifaceted reading strategies 
-we have encountered in Skandasvāmin are equally invested in exploring how contact— 
-especially sustained contact—with Vedic language transforms the subjectivities and ultimately 
-the ontology of the Vedic practitioner. In a humbler register, also in evidence in the 
-224Śabara, Mīmāṃsāsūtrabhāṣya 1.2.48. Mīmāṃsādarśana, vol. 1, pg. 156: vidyāvacanasamyogāt // 1.2.48 // yat tv akarmakāle ’vahanti mantreṇa māṇavako na pūrṇikāvahantiṃ prakāśayitum icchatīti / ayajñasaṃyogād, na yajñopakārāyaitat prakāśayitum icchati / nanu prakāśanānābhyāso ’kṣarābhyāsaś ca paricoditaḥ / ucyate / saukaryāt prakāśanānabhyāso durgrahatvāc cākṣakarābhyāsaḥ / Kumārila, Tantravārttika: yady api pūrvapakṣe ’yam abhiprāyo nopanyastas tathā ’pi saṃbhavād upanyasyate / yadi hi svādhyāyakāle ’rthavacanam upayujyeta tatas tadāśrīyeta na tv evam asti karmabhir asaṃyogāt / tadanabhyāsas tu prokṣaṇādivat saukaryāt // The translation of the sūtra and Kumārila’s Tantravārttika is adapted from the translation of Ganganatha Jha, ed., Tantravārttika: A Commentary on Śabara’s Bhāṣya on the Pūrvamīmāṃsā Sūtras of Jaimini (Calcutta: Asiatic Society of Bengal, 1924), pg. 99. 225 Recall our earlier discussion of Niruktabhāṣyaṭīkā 1.16. 
-263 
-Ṛgvedārthabodha, Veda from this perspective is also valuable because it provides ethical and 
-“spiritual” guidance in the context of one’s daily life outside the realm of ritual. In short, 
-despite its many technicalities, it amounts to “another way of knowing” akin to what in our 
-discourse is often naively dubbed “Eastern Philosophy.” Far more than Buddhists—whose 
-intellectual prowess they at least grudgingly respect—if there is anything that Mīmāṃsakas 
-abhor, it would be “Eastern Philosophy” and its touchy-feely spirituality. It thus in the spirit of 
-a reductio ad absurdum dismissal of such a perspective that Śabarasvāmin follows up his use 
-of Kautsa with the following incisive passage: 
-Jaimini: [It is not authoritative] because of the contradiction between what has been perceived and scripture. 
-Śabara: “The mind is a thief. Speech lies.” Statements of this sort are not authoritative in regard to dharma, because this is supplementary elaboration of established fact. Even if it is construed by means of a suppletive exegetical strategy and so forth, this would necessarily result simply in the notion that stealing and lying are things that should be done. And thus, the prohibition on stealing and lying would be unable to be practiced. . . . Nor is there a case of optionality [between two equal injunctions] because of the unevenness [in regard to the two respective authorities]. One is a vidhi to be optionalized. One is a perception. 
-Kumārila, Tantravārttika: A statement about the mind stealing or speech speaking falsehood, whether existing or not existing, does not achieve any veridicality with regard to dharma or its own object. Now, however, one might construe, by means suppletion and so forth, in the following manner: because of the primacy of the mind and speech regarding the activity in all bodies, their [mind and speech’s] actions are to be imitated also by the other sense faculties. [Hence, if the mind is a thief, the hand should go steal things.] If this were the case, there would be a contradiction with scripture, because, if this were so, then [stealing and not stealing] would be being enjoined and prohibited [at the same time].Were this the case, it would be in the same manner as with the sixteen-fold [sacrifice, which one scriptural source permits and another prohibits,] [and] there would be an optionality [maybe you could steal if you wanted to, or in certain contexts]. 
-But someone else argues: there is an uneveness [of the two relative authorities] because of it being [a vidhi] that is to be conjectured/inferred [as opposed to the direct injunction forbidding stealing explicitly]. But one might object even though the vidhi [implicit in the statement] is extremely “weak,” that it is equal in strength with the prohibition concerning taking things for yourself that is subordinated to that. And thus, it will be 
-264 
-stated that the prohibition does not originate in [this example] in the domain of the injunction. True. This is a case where there is non-obtainment [of an injunction] without resorting to śāstra [i.e., you do not steal is not something the Veda says, the prohibition against acquiring for yourself is not an explicit statement one should not steal, which is only found in the dharma literature]. . . . 
-Thus, in this regard it will be stated that, if it should be construed as in the case of taking for oneself, then on the part of taking falsehood and stealing, if they are engaged in it without having any śāstra, then the prohibition [that is a censuring of lying and stealing] is established as being independent of an injunction. Thus, it blocks the vidhi that is being inferred, and therefore, it is a bad thing [to steal and lie].226 
-Within the circumscribed terms of the scholastic game the Mīmāṃsakas are playing— 
-mostly with themselves—it has already been “proven” that there are only a delimited set of 
-things that a Vedic passage can accomplish. Since this type of semantic function does not make 
-the list, Śabara and his sub-commentator are free to proceed by heading down the less than 
-obvious intellectual path that a statement such as “the mind is a thief” might be construable as 
-hiding an injunction guiding human action: “thou shall steal,” if you will. The problem stems 
-from the fact that the Vedic canon never explicitly forbids theft, at least not in the context of a 
-statement possessing the proper grammatical form. Bhāṭṭa Mīmāṃsā argues that if a Vedic 
-sentence is to be read as self-evidently containing an injunction, it ideally includes a verbal 
-root that is formed with the loṭ, luṭ, or liṇ (imperative, future periphrastic, and optative) verbal 
-suffixes. Present tense verbs, for example, do not tell us to do anything. This, incidentally, is a 
-226Śabara, Mīmāṃsāsūtrabhāṣya 1.2.2, Mīmāṃsādarśana, vol. 1, pg. 107–108: stenaṃ manaḥ, anṛtavādinī vāg ity evaṃjātīyakānāṃ dharmaṃ prati aprāmāṇyam / bhūtānuvādāt / vipariṇāmādibhir api kalpyamāne steyaṃ mṛṣodyaṃ ca kartavyam ity āpatati / tac cāśakyaṃ steyānṛtavādapratiṣedham abādhamānenānuṣṭhātum / na ca vikalpaḥ, vaiṣamyāt / ekaḥ kalpyo vidhiḥ, ekaḥ pratyakṣaḥ // Kumārila, Tantravārttika: vāṅmanasayor vidyamānam avidyamānaṃ vā steyānṛtavadanam ucyamānaṃ dharme svārthe ’pi vā na prāmāṇyaṃ pratipadyate / atha tvadhyāhārādibhir evaṃ kalpyeta vāṅmanasayoḥ sarvaśarīreṣu ceṣṭāḥ prati prādhānyād itarabhūtendriyair api taccaritam anuvartitavyam iti tataḥ śāstravirodhaḥ / tatraitat syāt / vihitapratiṣiddhatvāt ṣoḍaśyādivad vikalpya iti / itaras tu kalpanīyakḷpatvena vaiṣamyam āha / nanu cātyantadurbalo ’pi vidhis tadadhīnātmalābhena pratiṣedhena tulyabalo bhavatīti “pratiṣedhaḥ pradeśe ‘nārabhya vidhāne ca” ity atra vakṣyate / satyam / yasya śāstram antareṇāprāptir asti tatraitad evam / yat punar arthaprāptaṃ niṣidhyate tatra vidhyanabhyanujñayaiva labdhātmānaḥ pratiṣedhā balīyāṃso bhavantīti / tatraiva vakṣyate— arthaprāptavad iti ced iti / steyānṛtavādayoś ca vinaiva śāstreṇa pravṛttayor vidhinirapekṣo ’vasthitaḥ pratiṣedha iti kalpyaṃ vidhiṃ bādhyate / tasmād ānarthakyam / 
-265 
-rather convenient strategy as it enables Mīmāṃsā to dismiss much of the Śrautasūtra 
-literature—which offer directions on how to perform sacrifices—as irrelevant to its project. 
-Even so, perhaps because there are some statements Mīmāṃsā is intent on including 
-that are framed in this manner, the tradition offers strategies for inferring a weaker kind of 
-injunction—extrapolating from statements we do possess. In this case, there is a verified 
-statement about not taking up the results of the sacrifice for one’s own personal benefit while 
-performing as the ritualist—and this is what is being discussed in the above passage by Śabara 
-and especially Kumārila. If we were to accept that “the mind is a thief” also offered us a weakly 
-inferred injunction, then, based on the existence of two competing and contradictory 
-injunctions of the same weight, you would conceivably have the option of stealing or not 
-stealing. This is why Kumārila is so intent on ruling out that stealing can be associated even 
-with an inferable injunction, because once we determine that this kind of weak statement 
-favoring it does not exist, we are still left with the statement against “taking property to benefit 
-oneself,” which without any competition becomes the governing dictum. It is only because an 
-injunction exists that tells us not to steal and lie that stealing and lying can be treated as “bad 
-activities.” In other words, there is nothing that makes lying and stealing—or for that matter 
-killing—intrinsically different from the commission of any other act proscribed by Vedic 
-injunction. 
-What this kind of learned analysis causes us to miss is that by drawing us into this kind 
-of intellectual gymnastics, which take considerable time to master, the Mīmāṃsakas are 
-redirecting and deflecting our attention away from the possibility of much more straight 
-forward reactions to the passages provided by Śabara. What we have in mind is the sort of 
-obvious reader responses engendered by an encounter with the Upaniṣads, of the sort 
-266 
-exemplified by this impromptu teaching offered by the twentieth-century Godman Sathya Sai 
-Baba in one of his satsangs: 
-You hear talks and read books, instead you have to search within and subdue the mind. The mind is a thief! You must get hold of the thief and drive him out. Because of the mind, man loses peace.227 
-As we have seen in the early Sāṃkhya and Nyāya sources and especially in 
-Skandasvāmin’s delineation of an extra-textual form of oral teaching called upaniṣad that like 
-in the Sāṃkhya and Nyāya texts makes use of “real-world examples and extended cognitive 
-metaphors as illustrations,” this kind of engagement with scripture on the Indian subcontinent 
-and beyond is hardly a product of modernity. Where such phenomena occasionally impinge 
-into the textual record, we find that over period of a thousand years dictums like “the mind is 
-a thief” have floated freely across theological, linguistic, and geographical communities— 
-surfacing, for example, in the Chinese writings of Ch’oe ch’i-wŏn,228 a ninth-century advocate 
-of Mind Only Yogācāra, in the seventeenth-century Marathi Dāsabodh of Rāmdās, and the 
-twentieth-century oral poetry of quasi literate Rajasthani Bhaṭs.229 There is a deep and pan- 
-Asian history of this sort of continued repurposing of an oral repertoire—loosely rooted in 
-scriptural inspirations—by performers and charismatic pedagogues alike that offers its own 
-impression of the nature of literary and religious discourses that provide both solace and 
-guidance. Part of what Mīmāṃsā is doing is making sure that none of that mode of discourse 
-production, even in its most scholastic incarnations, ever has a chance to take a seat at the table 
-where the canons of what constitutes “real knowledge” get deliberated. 
-227Charlene Leslie-Chaden, ed., A Compendium of the teachings of Sathya Sai Baba (Bangalore: Sri Sathya Sai Towers Pvt Ltd, 2004), 604. 228See for example John Jorgensen, “Representing Wonch’uk (613-696): Meditations on Medieval East Asian Buddhist Biographies,” in Religion and Biography in China and Tibet, ed. Benjamin Penny (New York: Routledge, 2013), 83. 229Jeffrey Snodgrass, Casting Kings: Bards and Indian Modernity (New York: Oxford University Press, 2006), 8. 
-267Mīmāṃsā is clearly engaged in legitimate efforts to make as philosophically airtight as 
-possible the case for the Veda as a singular special mode of discourse whose veridicality is 
-uniquely unassailable. As a wide range of other scholarship has demonstrated, it achieves these 
-efforts by, for example, dismissing the claims that Veda is an authored text, assigning the gods 
-a minor and not causally significant role in Mīmāṃsā discourse, and denying that it is possible 
-for human beings—even special ones—to have direct access to the reality of subtle things, 
-forces, and concepts through methods like yogic perception. At the same time, it is no accident 
-that virtually all of these interpretive choices simultaneously discredit competing non- 
-philosophical approaches—be they Brāhmaṇical, śramaṇa, or other—to Indic religiosity and 
-conceptualizing religious authority. As Larry McCrea has elegantly argued: 
-[Mīmāṃsakās] are often described as the most “orthodox” upholders of the Vedic tradition, but even a cursory survey of the central works of the Mīmāṃsā tradition is sufficient to reveal that their positions were often quite radical, placing them at odds with most or all rival philosophical systems, even those within the “Hindu” fold. They were by and large skeptical about, or outright deniers of, many of the stock elements of Hindu cosmology—for example, the existence of gods, the cyclical dissolution and reemergence of the cosmos, the possibility of liberation from the cycle of death and rebirth. Similarly, the Mīmāṃsā position on yogic perception is decidedly at odds with what we might describe as “mainstream opinion” among Sanskrit philosophers. In opposition to virtually all other schools of thought in pre-modern India, the Mīmāṃsakas totally reject the possibility of yogic or supernatural perception. . . . 
-What sets the Mīmāṃsakas apart from nearly all of their rivals is their understanding of how it is that scriptures can contain reliable information on such matters. Rival accounts of scriptural validity—both those of extra-Vedic rivals such as the Buddhists and Jains, and of those who upheld the validity of the Vedas, such as the Naiyāyikas— take the reliability of their scriptures to derive from the knowledgeability of their authors. Intuitively enough, they take the position that scriptures should be understood to be reliable insofar as it can be determined that those who composed them knew whereof they spoke. The remembered and recorded words of “seers” such as the Buddha and the Jina are seen as valuable insofar as they give us access to truths which they could perceive, but we cannot. It is, above all, against such claims of personal authority in matters of dharma that the Mīmāṃsakas direct their fire. It is therefore not primarily the existence of yogic perception, but its usefulness as a means for validating scriptural claims, that they wish to deny. They do offer arguments against the very possibility that any person could have the sort of extraordinary perceptual powers 
-268 
-claimed for the Buddha and the like; but, crucially, they argue further that even if this were possible—even if certain individuals really did have the power to perceive dharma, for instance—this would be of no help to ordinary people—to people like ourselves who are not yogis—in gaining knowledge of dharma for themselves. Due to this focus on the statements of yogis and their putative validity, the issue he confronts is not so much an ontological question—Do yogis actually exist?—but an epistemological one—How, if at all, could one reliably determine whether the statements of any self-proclaimed yogi are reliable or not? 
-The upholders of yogic perception, and of the authorial model of scriptural authority, need to argue that their yogis, and specifically the authors of their scriptures, have direct and privileged access to certain truths—about the nature of the universe, the soul or its absence, our fate after death, and so on—that are totally beyond the range of what ordinary people can know by their own devices. The value of scriptures lies precisely in their capacity to transmit to us the knowledge of those who can perceive what we cannot. But, one of the key strategies of Kumārila’s argument in the Codanāsūtra is to show that—even if we were to admit the existence of yogis—the privileged access to truth that is claimed for them, far from making their words a valuable source of knowledge for ordinary persons, actually renders them entirely useless to us. He attempts to show that the perceptually privileged status ascribed to yogis would create an unbridgeable epistemic divide between us and them, such that their own knowledge, however accurate it might be, would necessarily remain inaccessible to us. . . . 
-There is simply no way one can satisfactorily evaluate the knowledge claims of purported seers or yogis, unless one can confirm independently that they really do know truly what they claim to. Yet one cannot do this unless one has the same extraordinary perceptual capacities that they do. Hence, the statements of those who claim extraordinary perceptual powers can be held valid only insofar as they are redundant— we can only know them to be true when they tell us what we are able to find out for ourselves.230 
-Approaching the same archive from the perspective of an archaeologist, Michael Willis 
-has shown us how the Pūrva Mīmāṃsakas’ attitude problem when it comes to external 
-authorities is a prominent feature not only of its exchanges with philosophical rivals, but also 
-in its engagement with Gupta state policy as it pertains to royal sovereignty, property rights, 
-and types of property management, especially when they would result in the institutionalization 
-of non-Mīmāṃsaka ritual. Willis observes that “in the name of the Vedic tradition,” Śabara 
-230Lawrence McCrea, “‘Just Like Us, Just Like Now’: The Tactical Implications of the Mīmāṃsā Rejection of Yogic Perception,” in Yogic Perception, Meditation, and Altered States of Consciousness, ed. Eli Franco (Vienna: Verlag der Österreichischen Akademie der Wissenschaften, 2009), 56–70. 
-269 
-“was determined to demolish, in detail and with finality, the operative assumptions of pūjā,” 
-231 a topic we will return to in chapter 10 of this work, but also that more generally that he was 
-effectively at war with the dominant social contract of his day, in which kings accumulated 
-merit by engaging in public works projects and bestowing land in perpetuity upon worthy 
-recipients originating within a range of communities. Willis’s argument is worth quoting at 
-some length: 
-Śabara's insistence on the primacy of the Vedas meant that he rejected the operative assumptions of the copper-plate charters. Śabara does not mention the charters per se, but he does deal with similar merit-making activities, like the digging of tanks. Acts of this kind may be enjoined in smṛti-texts, he says, but because they are not corroborated by the Veda and because smṛti-texts are the work of human authors. . . they are not infallible. Thus, acts like the digging of tanks may be disregarded. . . . He is not, we must note, against the digging of tanks or other activities of this kind. It may be useful to dig a tank for a host of practical reasons, but in the absence of Vedic authority, it is not right to assume that this act will bring merit or some other intangible result, like a felicitous rebirth. 
-This explains why the Mīmāṃsakas were not happy with the operative assumptions of the charters. . . . The charters appealed to the Mahābhārata to show that kings held absolute title to the earth and that, based on this, they were authorised to make gifts of land. . . . To recap: kings gain merit through land-grants and will, as a consequence, enjoy heaven after death. Inversely, those who overturn land-grants or assent to such actions will end up in hell. . . . 
-The Mimamsakas took exception to this not because land-grants were necessarily a bad thing – Vedic pundits were frequent beneficiaries – but because the conceptual framework was inherently flawed. Firstly, the Mahābhārata had no authority because it was unreliably human in origin. . . . Secondly, the charters used this questionable source to make claims about the intangible consequences of giving land. The idea that a king would enjoy heaven as a result of this act of giving was, quite simply, not substantiated by the Veda. The Vedas say svargakāmo yajeta, “he who desires heaven should sacrifice”; the Vedas do not say that “he who desires heaven should make grants of land.” So the propositions in the charters are entirely bogus.232 
-231Michael Willis, The Archaeology of Hindu Ritual: Temples and the Establishment of the Gods (New York: Cambridge University Press, 2009), 208. 232Willis, The Archaeology of Hindu Ritual, 211–12. 
-270 
-Before we move on to the rest of Willis’s exceptionally convincing argument, it is 
-worth pausing for moment and recognize what it is that Śabara is adamantly rejecting. As we 
-shall see in the next chapter, copper plate charters are legal documents, copies of which were 
-held by both the owners of land and the ruling powers. They offer a documentary record, not 
-only of who owns and what, but delineating patterns of tribute and taxation. The “digging of 
-tanks and so forth,” as a part of iṣṭāpūrta, not only formed the foundation of social service and 
-infrastructure building in classical and medieval India, but represented religious practices 
-believed to produce merit that can be traced much further back into the textual documentary 
-record than Pūrva Mīmāṃsā itself. Furthermore, in challenging the Mahābhārata as a guide to 
-royal conduct, Mīmāṃsakas are rejecting not only the authority of tradition of the Epics 
-themselves, but because the Epics, as in the Udyogaparvan, offer distillations of the types of 
-oral codes of warrior comportment that even in the time of Āpastamba were still recognized as 
-the supplementary dharmas observed by Kṣatriyas, they are effectively dismissing the 
-svadharma of many of the Kṣatriya clans. While our sources—ironically mostly copper 
-plates—tell us quite a bit about the Brāhmaṇical agrahāras and their pattern of settlement 
-during this period, there is nothing conclusive in the documentary record pertaining 
-specifically to the social position of Mīmāṃsaka exegetes. In the absence of external evidence, 
-the only reason we have ascribed to Pūrva Mīmāṃsā in the classical and medieval period such 
-a lofty position within the social order of their day is the esteem in which such traditions would 
-come to be held in the early modern period. But if you look at just the evidence we have before 
-us—that these are people who reject most of the religious and social norms of their society and 
-are trying to come up with reasons that you really do not have to pay your taxes or recognize 
-as legitimate the dominant patterns of property ownership within society—another possibility 
-271 
-presents itself, namely, that Mīmāṃsā is the sovereign citizen movement233 of its day, a bunch 
-of educated and opinionated cranks supported by a sinecure with questionable relationships to 
-polite society. The plausibility of such a counternarrative comes into even sharper focus when 
-we turn to Willis’s argument and look at how the Mīmāṃsakas interrogate the rights of kings: 
-The starting point for the charters was the idea that kings held title to the earth. This was a fundamental on which the whole business of giving land rested. Śabara’s views on this matter are brought forward in Śabarabhāṣya 6: 7: 2 where he deals with the injunction that in the Viśvajit sacrifice the yajamāna should give away everything he owns. The basic problem is whether the king as “lord of the earth” (sārvabhauma) is able to give the earth away. Śabara's view is that the earth cannot be given away because it belongs to all men without distinction. Moreover it cannot be given away because this would require ownership and people are found to be the owners of individual plots and fields, not of the entire terrestrial globe. So while some might hold that the king as “lord of the earth” may give the earth away, Śabara notes that the “lord of the earth” enjoys ownership no different from other men. The peculiarity of the king’s lordship derives from the fact that he is obliged to protect and preserve the produce of others, from which he receives an appropriate share in the form of tax. This alone he possesses, not the earth. “From all this,” Śabara concludes, “it follows that the earth cannot be given away.” 
-Although Śabara’s concern was with ritual rather than polity, his conclusions are highly politicised. Through his use of the word sarvabhāuma, Śabara was making a deliberate excursus into the loaded terminology of the Gupta political world. Amarasiṃha, one of Śabara’s contemporaries, defined the universal monarch as a king who was sārvabhauma. Among learned men living in north India during the fifth century, who could have possibly doubted that all this referred directly to the Gupta emperor? Śabara, in effect, was attacking the constitution of Gupta power. . . at least to the extent that the king’s conquest of the world and its ritual enactments. . . gave the king special powers over the earth as a whole. . . . 
-The Mīmāṃsakas had fairly obvious reasons for taking this stand. Quoting one of their own aphorisms back at them, we may say: “Also we find motives” [Mīmāṃsāsūtra 1: 3: 2: 4). The most obvious motive, from the historical perspective of Gupta times, was their dislike of temple-gods and attendant religious practices. If the king assumed 
-233On the sovereign citizen movement, which claims that governments are illegitimate and ordinary, usually white, citizens can choose which taxes they should pay and which laws they should follow, see the Southern Poverty Law Center, “Sovereign Citizens Movement,” https://www.splcenter.org/fighting-hate/extremist- files/ideology/sovereign-citizens-movement, accessed 4/25/23. For a history of the movement and its relation to the American Judicial system, see “Sovereign Citizens Movement,” Wikipedia, last modified 4/25/23, https://en.wikipedia.org/wiki/Sovereign_citizen_movement, as this is a rare instance where this often dubious online resource offers the clearest distillation of the relevant literature along with a concrete history. 
-272 
-absolute title to the earth, lands could be appropriated and assigned to temple-gods as inalienable endowments. Specific cases of this are documented by Gupta-period copper-plates. . . . Several charters from central India record how villages were reorganised into devāgrahāra-s and given over to temple-gods under the control of new elites. The king’s orders dictating the terms of these arrangements were addressed to the village residents, including cultivators and brāhmaṇas. We know nothing about these people otherwise, but there can be little doubt that the brāhmaṇas already living in the villages would have resented the insinuation of state power and the expropriation of village resources by a new-fangled temple-priest from the outside. These brāhmaṇas would have heartily agreed with the Mīmāṃsakas that the temple-cult was an innovation based on false premises.234 
-Prior to the era of the European Enlightenment, pretty much anywhere in the world, 
-people do not critique the ruling powers and their disciplinary practices with this kind of 
-aplomb unless they either have their own armies or dwell far away from the court in question. 
-And indeed, when it comes to speaking about how one should rely upon and defer to the 
-authority of localized authorities, Śabara and Kumārila sing a markedly different tune. In the 
-Bhāṣya, when the social world and its problems are treated not as pure distant abstractions, the 
-words of our author and his sub-commentator often express a marked anxiety—or even 
-paranoia—about of the position of Brāhmaṇas and the ubiquitous nature of fraudulent attempts 
-at coopting or undermining their authority. 
-Perhaps the most vivid reflection that the discourse of early Mīmāṃsā offers on the 
-socially precarity inherent to their delineation of Brāhmaṇical authority is a long and difficult 
-passage in the Tantravārttika of Kumārila. The discussion begins by dismissing a Vedic proof 
-text in which the speakers reflect existentially on their status as Brāhmaṇas, but then rather 
-atypically descends into a charming rant about how difficult it is to confirm that any particular 
-person is a Brāhmaṇa on purely empirical grounds, in part because Brāhmaṇa women are 
-unreliable and might be sleeping with the help. The passage concludes with Kumārila 
-234Willis, The Archaeology of Hindu Ritual, 212–14. 
-273 
-confronting with considerable discomfort the existence of competing paradigms in which 
-Brāhmaṇa-hood is not a matter of birthright, but produced by ācāra, the product of prolonged 
-austerities, or a changeable status reflecting one’s current state of ritual purity. 
-Let us take this apart a piece at a time: 
-S: [There is] a contradiction with what is perceived. It is not that we know thus—“Are we Brāhmaṇas or are we not Brāhmaṇas?” This statement serves no purpose because it is not productive of any action. Thus, this is the [real] sense [of the statement]: “We do not know whether we are Brāhmaṇas or not Brāhmaṇas.” But, this [statement] is not authoritative because it is in contradiction with perceived facts.235 
-Kumārila: For, it is not the case that even the ignorance, or the doubt, or the inversion, about Brāhmaṇa-ness is employed in a ritual in whatsoever portion. Nor is this possibly a stuti verse, because it is in contradiction with perception. And it is not the case that it is authoritative, because this statement inculcates ignorance about the independent nature of Brāhmaṇa-hood. 
-Pūrvapakṣin: How, then, is this [statement] a contradiction with perception, when the demarcation of Brāhmaṇa-hood and so forth [as it presents itself] in different bodies that all have the same form (ākāra) is discernable only based on the authority of scripture? 
-K: It is not the case that this [topic is solely] dependent upon [the knowledge we gain from] śāstra, because it [Brāhmaṇa-hood] is well known in the world, as in the case of a tree [existing in the world] and so forth. 
-P: How then again, is this [category of] being Brāhmaṇa well known in the world? 
-K: We say it is by perception. 
-P: How is it the case, then, that those who are not aware [on the basis of direct perception] of the relation between mother and father do not grasp [Brāhmaṇa-hood] when it is not told to them, when the people in question are standing there right in front of their eyes? 
-Because of the lack of ability [of perceiving Brāhmaṇa-hood], just as with the case of discerning tree-hood and so forth [which, like knowing about any abstract category is] dependent on a prior education concerning these designations.236 
-235Śabara, Mīmāṃsāsūtrabhāṣya 1.2.2, Mīmāṃsādarśana, vol. 1, pg. 108–109: aparo dṛṣṭavirodhaḥ / na caitad vidmo vayaṃ brāhmaṇā vā smaḥ, abrāhmaṇā veti akriyārthatvād anarthakam / athāyam arthaḥ / naivaitaj jñāyate, kiṃ vā brāhmaṇā vayam utābrāhmaṇā eveti pratyakṣaviruddham apramāṇam / 236Kumārila, Tantravārttika on 1.2.2, Mīmāṃsādarśana, vol. 1, pg. 108–110: na caitadvidma ityārṣeyavaraṇaśeṣo ’bhimataḥ / sa cāyaṃ kriyātatsambandhyanabhidhānāt tadviṣayatvenāpramāṇam / na hi brāhmaṇa- 
-274 
-Śabara and Kumārila both begin on safe territory, parsing the statement: “Are we 
-Brāhmaṇas or not Brāhmaṇas?” not as an example of existential self-reflection, but simply a 
-disguised presentation of two contradictory claims—“We are Brāhmaṇas and we are not 
-Brāhmaṇas.” Had Śabara ended there, this whole discussion would never have happened, but 
-instead he says this statement is in contradiction with “perceived facts.” The problem is that, 
-as Kumārila’s imagined opponent quickly points out, there is nothing at all self-evident about 
-the notion that our “perceptions” can tell us there is a thing called “Brāhmaṇa-ness.” Sure, we 
-see individual people and call them Brāhmaṇas, but it is a matter of philosophical contestation 
-whether abstract categories themselves have independent existence. It is even less clear that 
-we can evaluate who is and who is not Brāhmaṇa without resorting either to the authority of a 
-śāstric source inferior in authority to the Veda or relying on the second-hand testimony of other 
-people. The problem is that neither of these sources measure up to Mīmāṃsā’s own definitions 
-of what constitutes a valid authority. Essentially, as Kumārila has already discussed at 
-considerable length by this point in his works, this is because śāstra, to say nothing of human 
-authorities, is a fallible product of the human mind and people frequently lie. 
-Kumārila and his interlocutors’ first exchange need not detain us. It is essentially a 
-repetition of a longstanding series of philosophical arguments concerning whether we see 
-“abstract classes of things” and then infer the existence of individuals, or whether individual 
-things present themselves first to human perception and we then infer the existence of abstract 
-tvājñānasaṃdehaviparyayāḥ kenacid aṃśena karmaṇy upayujyante / na ca pratyakṣaviruddhā stutiḥ sambhavati / na ca svantantrabrāhmaṇatvājñānapratipādanena prāmāṇyam / kathaṃ punar ayaṃ dṛṣṭavirodho yadā samānākāreṣu piṇḍeṣu brāhmaṇatvādivibhāgaḥ śāstreṇaiva niścīyate / nāyaṃ śāstraviṣayo lokaprasiddhatvād vṛkṣatvādiivat / kathaṃ punar idaṃ lokasya prasiddham / pratyakṣeṇeti brūmaḥ / kasmāt punar mātāpitṛsambandhānabhijñāś cakṣuḥsaṃnikṛṣṭeṣu manuṣyeṣv anākhyātaṃ na pratipadyate / śaktyabhāvāt / yathā vṛkṣatvaṃ prāgabhidhānavyutpatteḥ / naitat tulyaṃ vṛkṣatvaṃ prāgabhidhāyakavyāpārāj jātyantaravyava- cchinnaṃ svavyaktiṣv anugataṃ śākhādimadrūpeṇa dṛśyate / na tu brāhmaṇatvam / api ca / vyutpannaśabdo ’pi nimittāntarād ṛte naiva pratipadyate / 
-275 
-categories—such as Brāhmaṇa-hood. Mīmāṃsā, of course, takes the first position as 
-axiomatic. The next argument, in contrast, is much more relevant to our own inquiry, for it 
-begins by arguing that we can rule out that the cause of Brāhmaṇa-hood is any feature of 
-Brāhmaṇical experience that Brāhmaṇas share with other twice-borns and then suddenly 
-diverges into a paranoid xenophobic and misogynistic diatribe about how the seamy activities 
-of bad Śūdras and cheating Brāhmaṇa women spoil our otherwise pristine intellectual models. 
-P: And it is not that the sacred thread (upavīta) and the instruction (adhyayana) and so forth is that facilitating cause [of being Brāhmaṇa], because of [these features] being common to the three varṇas. And things like instruction (adhyāpana) and so forth are dubious/indeterminate [as factors] because they are incompatible with Kṣatriyas and Vaiśyas who have distinct comportment. And all of this is indeterminate because of it being conceivable among bad Śūdras [that such comportment might be taken up]. . . . 
-K: In this case, with regard to the recollecting the caste of the agent of production—[of Brāhmaṇa-ness—i.e., the mother]. . . . the nature of a relationship between the producer and produced is perceptible on the part of the mother alone. Furthermore, on the part of the others it is inference or the testimony of an authoritative person that is understood to be the cause [of that sort of knowledge about the paternity of the child]. . . . It is not that we must consequently say that since there is not perception immediately on the part of everybody, that as a consequence there is no perception on the part of those discerning people with the skill [to evaluate claims].237 
-Just as he later will in regard to Brāhmaṇical comportment, Kumārila has to accept the 
-stance that neither the possession of a sacred thread nor participation in Vedic instruction can 
-be the causes of Brāhmaṇa-hood, because otherwise he would be stuck admitting that if a Śūdra 
-slipped into the pāṭhaśālā, attended all the classes, and received all the saṃskāras, he too 
-237Kumārila, Tantravārttika on 1.2.2, Mīmāṃsādarśana, vol. 1, pg. 108–110: na copavītādhyayanādi nimittam / varṇatrayasādhāraṇatvāt / adhyāpanādy api bhinnācārakṣatriyavaiśyapratiyogitvāt saṃdigdham / sarvaṃ ca duṣṭaśūdreṣu sambhāvyamānatvād aniścitam / yas tv avicāritasiddham eva pratipadyeta sa śuktikām api rajataṃ manyamānaḥ krīṇīyāt / naiṣa doṣaḥ / kvacid dhi kācij jātigrahaṇa itikartavyatā bhavatīti varṇitam etat / tena yathaivālokendriyānekapiṇḍānusyūtiśabdasmaraṇavyakti-mahattvasaṃnikarṣākāraviśeṣādayo ’nyajātigrahaṇe kāraṇaṃ tathaivātrotpādakajātismaraṇam / ayaṃ cotpādyotpādakasaṃbandho mātur eva pratyakṣo ’nyeṣāṃ tv anumānāptopadeśādyavagataḥ kāraṇaṃ bhavati / na nāvaśyaṃ pratyakṣāvagatam eva pratyakṣanimittaṃ bhavati / cakṣurāder anavagatasyāpi nimittatvadarśanāt / āntarālikasmṛtivyavahitam api cendriyasambandhānusāri pratyakṣam ity etat sādhitam / na ca yat sahasā sarvasya pratyakṣaṃ na bhavati tan nipuṇato ’pi paśytāṃ na pratyakṣam ity etad apy uktam eva / 
-276 
-would become a Brāhmaṇa indistinguishable from his classmates, a position that his values 
-will not permit him to accept. And so, after further discussions about how we can infer the 
-presence of an abstract category by consistently observing the same set of features in individual 
-discrete subjects or objects, Kumārila turns to establishing that there is actually one person 
-who directly observes every stage in the causal process that results in the production of a 
-Brāhmaṇa boy. That person is the Brāhmaṇa boy’s mother who effectively causes him to be a 
-Brāhmaṇa. Provided she tells “an authoritative person” (śiṣṭa) “with discerning skill” that the 
-boy is hers, our author suggests that this should be acceptable testimony for establishing 
-paternity, and thus the presence of Brāhmaṇa-hood needs to be treated as a perceivable and 
-valid social fact in the world. His opponent, however, will have none of this, and he throws 
-Śabara and Kumārila’s own words about the unreliability of people in general and women in 
-particular right back at them: 
-P: [No,] because, as he himself will say later, there is the possibility of the transgression on the part of the woman, this relationship [between Brāhmaṇa-hood and its presence or absence in the child] is difficult to know. . . . 
-K: Nor is it the case that it is reasonable given the perception of deviance on the part of women in some cases, that we can conceive that being true in all cases. 
-P: However, it is not reasonable to make a [reliable] inference that is contrary to worldly experience. . . . 
-K: By a concerted effort, those from great families—they protect themselves. And for that very reason, for the sake of not forgetting the lineage of their fathers and grandfathers, by kings and by Brāhmaṇas, samūha documents are put forth. And likewise, in each family, due to the recollection of faults and qualities [that run in the family], the engaging and ceasing in action is seen to take place in conformity to that. . . . 
-P: [No,] for it is seen that even women who are transgressing have offspring engendered by her own husband [i.e., a woman might cheat but still happen to conceive her husband’s child]. But on the part of those women [who are transgressing], the enjoyment of inauspicious fruits would be brought about by that transgression. But, there is not [in that case] an instance of varṇa mixing on the part of the offspring. Is 
-277not necessarily the case that transgression takes places only with people of other varṇas; and there would not the consequence of belonging to another varṇa on the part of an offspring produced belonging to the same varṇa. . . . 
-K: For it is not that this restriction about the measure of man is to be understood by a worldly standard. Therefore, even if there is a conformity, by some certain facilitating cause, just as is the case with the knowledge of divisions of male and female cuckoos, to a certain extent, just so, Brāhmaṇa-hood and so forth are understandable through perception that is grasped through lineage or memory or direct visual perception. Therefore, there is on the part of this statement—[that says “it (Brāhmaṇa-hood) is not known”]—a contradiction with perception.238 
-The problem here is not simply that sometimes Brāhmaṇa women sleep with someone 
-who is not their husband and not a Brāhmaṇa, and that this intercourse produces a child that is 
-passed off as pure-blood Brāhmaṇa boy. The larger issue is that if we can claim that our 
-knowledge of what Brāhmaṇa-hood is based solely on the sum total of sensory perceptions we 
-and our society have had of people who are labelled Brāhmaṇas, the whole dataset is potentially 
-dubious. We quite simply have no way of determining beyond a reasonable doubt if the iconic 
-examples we have selected as models for establishing the canons of Brāhmaṇa-ness actually 
-possessed Brāhmaṇa blood. Kumārila’s response to this problem is altogether extraordinary. 
-Quite unlike how Śabara had dismissed as dubious the intellectual foundations behind copper 
-plate production, Kumārila leans heavily on the existence of a paper trail. As we shall see in 
-the next chapter, contrary to our assumptions that documentary records were marginal to the 
-238Kumārila, Tantravārttika on 1.2.2, Mīmāṃsādarśana, vol. 1, pg. 108–110: stryaparādhāt tu durjñāno ’yaṃ sambandha iti svayam eva vakṣyati / na ca tāvanmātreṇa pratyakṣatā hīyate / na hi yad giriśṛṅgam āruhya gṛhyate tad apratyakṣam / na ca strīṇāṃ kvacid vyabhicāradarśanāt sarvatraiva kalpanā yuktā / lokaviruddhā- numānāsambhavāt / viśiṣṭena hi prayatnena mahākulīnāḥ parirakṣanty ātmānam anenaiva hetunā rājabhir brāhmaṇaiśca svapitṛpitāmahādipāramparyāvismaraṇārthaṃ samūhalekhyāni pravartitāni / tathā ca pratikulaṃ guṇadoṣasmaraṇāt tadanurūpāḥ pravṛttinivṛttayo dṛśyante / na ca bhartṛvyatirekakṛtena varṇasaṃkaro ’parādhena jāyate / dṛśyate hy aparādhinīnām api svabhartṛnimittaḥ prasavaḥ / tadparādhanimittas tu tāsām aśubhaphalopabhogo bhaven na tv apatyānāṃ varṇasaṃkaraḥ / na ca niyogato varṇāntarair eva saha pramādaḥ / savarṇena cotpāditasya naiva varṇāntaratvāpattiḥ / saṃkarajātānām api ca punar utkarṣāpakarṣābhyāṃ saptame pañcame vā ’nyataravarṇāpattiḥ smaryate / tatra tv etāvanmātram āgamikaṃ pratyetavyam / na hy aṃ puruṣeyattāniyamo laukikapramāṇagamyaḥ / tasmāt saty api sārūpye yathā kenacin nimittena strīpuṃskokilādivibhāgajñānaṃ tathaiva darśanasmaraṇapāramparyānugṛhītapratyakṣagamyāni brāhmaṇa- tvādīnīti bhavaty ajñānavacanasya pratyakṣavirodhaḥ / 
-278 
-workings of South Asian institutional cultures, medieval India was swimming in ephemeral 
-paperwork, much of which was preserved in localized centers housing records. What Kumārila 
-tells us is that in practical terms, if you want to determine the caste or specific background of 
-an important person, the best way to do this is by consulting the vaṃśāvalis produced by 
-families and the paperwork issued by a samūha—a collectivity or council—that delineates who 
-is who and who owns what. Intriguingly, Kumārila’s interlocutor seems to agree with our 
-author on the authoritativeness—or at least the uncritiquable status of such sources—however 
-much their inclusion is borderline philosophically incoherent—for, of course, paperwork can 
-lie just as easily as a person. Thus, for Kumārila as much as Skandasvāmin, “the beginningless 
-transactionality” of the quotidian social world animated by a decidedly non-scholastic logic 
-has its own power that cannot be disregarded. 
-Kumārila’s opponent issues his next critique in response to Kumārila’s poorly thought- 
-out remark that we can also infer paternity based on features that “run in the family,” and 
-conversely, that we can discern that a caste transgression has been committed based on the bad 
-things that happen to the line after the transgression has been committed. Our objector’s 
-response is something like the following. When bad things happen to people, this is of course 
-a sign that they transgressed some rules—but what it does not tell us is which rules and it 
-certainly is not evidence invalidating paternity claims. In fact, even if a woman habitually 
-cheats on her husband, we still do not have proof that, if she conceives, the baby is not his. The 
-problem is that we do not just see a baby, examine it and its traits, and say “that’s a mixed caste 
-baby, his mother must have transgressed.” The reason we cannot do this is because the presence 
-or absence of Brāhmaṇa-hood in mixed caste babies is not available to our perception. In short, 
-however much Kumārila may want to assert that there are a range of resources for establishing 
-279 
-Brāhmaṇa-hood as a social fact, and that therefore our śruti text “are we Brāhmaṇas or are we 
-not Brāhmaṇas” is in contradiction with the canon of human perceptions, he still has not yet 
-made his case. 
-Since, as we have just seen, saying that the presence or absence of Brāhmaṇa-hood is 
-perceptible on the basis of lines of descent is a weak argument—because in any particular case 
-we cannot determine the degree of correspondence between the actual set of circumstances 
-that engendered a child and the corresponding public discourse about heredity—the temptation 
-is to argue that we can “see” Brāhmaṇa-hood by inferring it from the behavior of people we 
-call Brāhmaṇas. However, if the presence or absence of Brāhmaṇa-hood is determined based 
-on directly perceptible modes of comportment—or even is caused by that kind of 
-comportment—this raises even more problems that threaten to upend the “orthodox” 
-Brāhmaṇical social order, for it creates a dynamic where it is impossible to differentiate 
-between “actual Brāhmaṇa-hood” and Brāhmaṇa-like affect. 
-Kumārila: Of whomsoever Brāhmaṇa-hood and so forth are conditioning factors of their conduct, for them there is in fact a perceptible contradiction [in relation to the passage “are we or are we not Brāhmaṇas,”] to the extent [that they engage in that conduct.] 
-But it does not follow that there is any veridical authority in regard to the divisions of the varṇas as having as their conditioning factor ācāra. For, if Brāhmaṇas and so forth are established to have certain conducts that are enjoined, that would lead to the logical fallacy of circular reasoning [where conduct determines Brāhmaṇa-hood and Brāhmaṇa-hood determines conduct.] The conduct [ācāra] of Brāhmaṇas and so forth is, under that pretext, [the only thing that] is called Brāhmaṇa and so forth. 
-And it is not that there is establishment of the fact that any given person at the time of auspicious conduct is a Brāhmaṇa and at the time of inauspicious conduct the same person is a Śūdra. In just the same way, by a single effort, on the part of those who are both afflicting some people and favoring of others, there would be the contradiction of possessing Brāhmaṇa-hood and non-Brāhmaṇa-hood [just as we find in the proof text]. And this, however, is inculcated by such types of proofs. 
-280 
-It is also not that the aggregation (samudāya) of austerities (tapas) and so forth is itself a defining feature of Brāhmaṇa-hood. And saṃskāra [making one a Brāhmaṇa] is not produced by that [austerity]. And caste is not inferable by it [by the fact that one is performing austerities]. . . . 
-Therefore, according to the previous principle itself, given that the division of classes is differentially established, we must say that statements of this sort—“he is a Śūdra for the month”—are statements that are for the purpose of censuring action and for the purpose of inculcating the deficiency of the actions undertaken on the part of members of the three varṇas [and that these statements are not talking about people swapping castes]. . . Because of the [statements expressive of] ignorance and doubt and inversion not serving as means for accomplishing anything [in ritual,] then these statements are useless.239 
-Kumārila’s core objective here is to show that if the cause of being Brāhmaṇa, or even 
-being identified by others as a Brāhmaṇa, is simply that a person in public behaves like a 
-Brāhmaṇa—which as we have just seen is one of the few ways “being Brāhmaṇa” might be 
-groundable in ordinary sense perceptions—the integrity of the category Brāhmaṇa collapses. 
-From his perspective, the state of affairs that results from this is a self-evidently absurd 
-outcome of the sort that should lead a person to discard a line of inquiry. From the perspective 
-of a social historian, however, the other possibilities that Kumārila raises and then discounts 
-are far more interesting than his actual argument. 
-The alternative models of being Brāhmaṇa considered and condemned by Kumārila are 
-that 1) the features of what we call Brāhmaṇa-hood are simply to be inferred from what people 
-239Kumārila, Tantravārttika on 1.2.2, Mīmāṃsādarśana, vol. 1, pg. 108–110: yeṣām apy ācāranimittā brāhmaṇatvādayas teṣām api dṛṣṭavirodhas tāvad asty eva na tv ācāranimittavarṇavibhāge pramāṇaṃ kiṃcit / siddhānāṃ hi brāhmaṇādīnām ācārā vidhīyante, tatretaretarāśrayatā bhavet / brāhmaṇādīnām ācāras tadvaśena brāhmaṇādaya iti / sa eva śubhācārakāle brāhmaṇaḥ punar aśubhācārakāle śūdra ity anavasthitatvam / tathaikenaiva prayatnena parapīḍānugrahādi kurvatāṃ yugpadbrāhmaṇatvābrāhmaṇatvavirodhaḥ / etābhir upapattibhis tv ayaṃ pratipādyate / na tapaādīnāṃ samudāyo brāhmaṇyam / na tajjanitaḥ saṃskāraḥ / na tadabhivyaṅgyā jātiḥ / kiṃ tarhi mātāpiṭrjātijñānābhivyaṅgyā pratyakṣasamadhigamyā / tasmāt pūrveṇaiva nyāyena varṇavibhāge vyavasthite māsena śūdrībhavatīty evamādīni karmanindāvacanāny atha vā varṇatrayakarmahānipratipādanārthānīti vaktavyam / pūrvavac cātrāpi kḷptatvāt pratyakṣasya kalpyenājñānavidhinā saha vikalpo na sambhavati / api ca tatrānuṣṭhānātmakatvād bhaved api na tv atra vasturūpāṇām aikātmyenāvikalpyatvāt / ko hi tadvedeti pūrvavad evājñānasaṃśayaviparyayāṇām anaupayikatvād ānarthakyam / niścitavedaprāmāṇyaiś ca traividyavṛddhair vijñāyamānatvāt svārthe ‘py ānarthakyam / vikalpābhāvaś cānantaroktavat / 
-281 
-we call Brāhmaṇas are doing, 2) the adoption of a certain ācāra is the only thing one might 
-mean by Brāhmaṇa-hood, 3) a specific ācāra is the cause of Brāhmaṇa-hood, 4) Brāhmaṇa- 
-hood and caste itself are simply matters of ritual purity engendered by rites and actions—and 
-not lasting identities, such that when engaged in “auspicious conduct,” a person “is a 
-Brāhmaṇa, and at the time of inauspicious conduct the same person is a Śūdra,” 5) Brāhmaṇa- 
-hood is more generally simply ethical benevolent behavior and non-Brāhmaṇa-hood is its 
-absence, 6) Brāhmaṇa-hood is an ascetic observance or can be acquired through ascetic 
-observances. 
-Rather remarkably, each of these arguments is not an imagined straw man but 
-accurately represents alternative modalities for conceptualizing “being Brāhmaṇa” found 
-across a range of ancient sources. In fact, we have seen some of these possibilities pop up in 
-our own investigation, for the first option is quite close to Āpastamba’s model of sāmayācārika 
-dharmas being founded on the Veda and other things also observed by the communities we 
-call Vaidika, option three is very close to Skandasvāmin’s vision of Brāhmaṇa-hood as 
-something produced through sustained pedagogy, and option four is akin to what Caley Smith 
-has suggested about the earlier functioning of the hierarchies of the Puruṣasūkta as a hierarchy 
-of favor and disfavor, with the Śūdra corresponding to a disgraced lower status that nonetheless 
-can redeem itself through later participation in rituals like soma drinking. Perhaps even more 
-to the point, the last two models—that Brāhmaṇa-hood, in the sense of being a religious 
-exemplar, is defined and produced through upright ethical behavior—and that Brāhmaṇa-hood 
-really means a life of ascetic observances— are a perfect match to the models Nathan 
-McGovern has independently recovered from the early Pali and Ardhamāgadhī sources.240 
-240 McGovern, The Snake and the Mongoose. 
-282 
-There, they represent competing—and in the case of the Brāhmaṇa as professional ascetic— 
-likely more archaic models of Brāhmaṇa-hood than the householder-centered paradigm first 
-articulated by the Dharmasūtras whose express purpose was in fact to eclipse its predecessors. 
-That as late as the seventh-century Kumārila still sees these imagined “other ways” of being 
-Brāhmaṇa as alternatives that need be challenged and discredited, as opposed to passed over 
-in silence, strongly suggests that two hundred years after the Guptas were history, at least in 
-some places, what was entailed by “being Brāhmaṇa” remained an open and contested canon. 
-Kumārila’s and Śabara’s anxieties do not emerge organically as natural, if unwelcome 
-consequences of the internal logic of their philosophical system. Like the “hostile” or least 
-competing forces with which they coincide, they impinge on the system from the outside, the 
-product of a shared Indic consensus about the nature of social reality and the dynamics that 
-makes it function. Despite their divergent methodological and theological perspectives, 
-virtually all of our authors share an extra-scholastic social imaginary in which the quotidian 
-world is viewed as running on the exchange of knowledge, goods, and services. These plays 
-of transactionally are enacted within and made possible by institutional spaces—like 
-Kumārila’s local hall of records—all of which possess considerable disciplinary dimensions, 
-which is to say they not only structure people’s experience in relation to specific expectations 
-about behavior and comportment, but they also punish and correct when these norms are 
-transgressed. 
-Just as importantly, this quotidian world is viewed as running on long standing 
-relationships—such as that between teacher and student—within which, over time, the social 
-actor in the dominant position comes to condition the abilities, responses, behaviors, and 
-subjectivity of the people under their direction. Much as, in the Kauṣītaki Brāhmaṇa, the dying 
-283 
-father touches one by one the parts of the body of his eldest sons, at each step proclaiming he 
-is giving him his eyes, giving him his voice, giving him his hands, giving him his mind—so 
-that at the end the father becomes the son—education and training are seen as entailing both 
-the mastery of canons of knowledge and skills as well as the transfer of at least some of the 
-teacher’s habitus—one might even say subjectivity. One could well argue that such a model 
-also decenters the human—at least the individuated subjectivity of specific people—in favor 
-of imagining of the individual as a bundle comprised of skills, knowledge, and social role, all 
-transferrable, inheritable and inhabitable. Even so, thinking in terms of transactional worlds 
-intrinsically operates in dynamic tension with a conceptual model of the sort held by Mīmāṃsā 
-that privileges at the center of its knowledge system the needs of a sacrifice—that serves no 
-human end—and thus is not a transaction at all. As we have seen, such thinking also deeply 
-problematizes Mīmāṃsā’s conceptualization of privileges, rights, and obligations. When, as 
-we have begun to do in this chapter, we place śāstric reflections on the logic of the social 
-towards the center of any emic Indic approach to social theory, and resituate the imagined 
-consensus position articulated by traditions like Mīmāṃsā as aspirational canons for what is 
-often an imagined organizing of concepts, things, and people, Indic civilization in the classical 
-period begins to look rather different. 
-Perhaps the most perceptive and critical engagement with both the problems and 
-promise posed by a world where knowledge is transferrable and identity fungible is offered by 
-one of India’s earliest theologians, a figure who despite his brilliance nonetheless is rarely 
-characterized as a Brāhmaṇical thinker and usually excluded from the non-specialist study of 
-both Indian religions and philosophy. The Pāñcārthika Pāśupata Kauṇḍinya appears to have 
-written his Bhāṣya on the second-century Pāśupatasūtra around the fourth century of the 
-284 
-Common Era, which makes him one of the more archaic voices in our canon. In the words of 
-the most learned living scholar of the tradition, Peter Bisschop: 
-The sūtra teaches a set of rules for ascetics whose single object of devotion is Rudra and whose ultimate goal is the end of all suffering (duḥkhānta). The path starts with bathing in ashes (bhasmasnāna) and ends with union with Rudra (rudrasāyujya). While the sūtra displays strong Brahmanical tendencies, it is unique in prescribing an ascetic path that ultimately transcends the ritual life of orthodox Brahmanism, both in words and deeds. Only male Brahmins who had received Vedic initiation were allowed to take up the Pāśupata regimen, but their subsequent ascetic career involved the breaking of all boundaries and stipulations of Brahmanical life. . . . 
-While the individual who took initiation in the Pāśupata ascetic cult was by definition a twice-born male, coming from a respectable orthodox brahmin family and cleared of all debts, once initiated in the cult he left behind his former orthodox way of life and entered a new community in which a strict new regime was observed. Instead of bathing three times a day in water, the Paśupata was to bathe in ashes; instead of worshiping the gods and ancestors he was to worship Rudra alone; etc. In the words of PāSū 2.7: amangalaṃ cātra maṅgalaṃ bhavati “And here what is inauspicious becomes auspicious.” Things that are usually prohibited are here prescribed. The regimen ends on the cremation ground (PaSū 5.30: śmaśānavāsī), the most polluted of places. . . . 
-The path of the Pāśupata ascetic is divided by the commentator Kauṇḍinya—but notably not by the Pāśupatasūtra itself. . . into five successive stages, which each have their own rules and sets of behavior: 1. In the first stage the ascetic resides in a temple and worships God by laughing, dancing, singing, bellowing like a bull, paying homage, and muttering mantras. He bathes in ashes at sunset, noon, and sundown. 2. In the second stage he goes out into the world and acts under a disguise, without showing that he is actually a Pāśupata. He behaves like a madman, pretends to be crippled or asleep, and acts indecently. 3. In the third stage the Pāśupata withdraws to a cave or a deserted house, where he lives on alms and contemplates Rudra all the time. 4. In the fourth stage he goes to a cremation ground and lives on whatever he may find. He does not leave the cremation ground but dies there. 5. Following his death, the soul enters the fifth and final stage, in which he experiences the end of all suffering, is fully joined with Rudra, and obtains all qualities of Rudra. Final release is provided by the grace of God.241 
-Shorn of its commentary, as well as Kauṇḍinya’s theorization of its teachings organized 
-in five stages, the Pāśupatasūtra offers the adept collections of injunction and prohibitions 
-paired with a proto-Śaiva liturgy. Instead of these strictures governing and ordering the 
-241Peter Bisschop, “Vedic Elements in the Pāśupatasūtra,” in Farnah: Indo-Iranian and Indo-European Studies in Honor of Sasha Lubotsky, ed. Lucien Beek, et. al. (New York: Beech Stave Press, 2018), 1–6. 
-285 
-performance of an external sacrifice, all of these teachings instead apply to the Pāśupata 
-sādhaka, who in essence gradually transforms the entirety of his life experience into a sacrifice 
-offered to Rudra that culminates in bringing to an end his human sociality and his own 
-subjectivity. The reason this is necessary is that the sūtras themselves teach that it is being 
-human that is the cause of powerlessness and suffering. As we shall see, the solution to this 
-core existential problem in essence is a form of sustained mimesis through which the 
-practitioner replaces his own habitus with one revealed and enacted by his god. Kauṇḍinya 
-infuses this barebones picture with a sophisticated epistemological, ontological, and 
-sociological account of the nature of reality deeply in dialogue with archaic traditions of both 
-Sāṃkhya and Vaiśeṣika. An excellent place for making sense of the specific contributions of 
-this system is then to begin our engagement with it at a place where it is self-evidently 
-emending a shared canon of values. 
-The Pāśupatasūtras discusses yama and niyama in its first chapter, and the text’s terse 
-delineations of injunctive prohibitions provide Kauṇḍinya a rather substantial platform for 
-retheorizing the practices he has inherited in the language of formal philosophical 
-argumentation.242 Like a majority of “Brāhmaṇical traditions,” the Pāśupatasūtra prescribes a 
-set of strictures—conceptually distinct from the main observances that define Pāśupata identity 
-as forming the necessary preconditions for the adoption of an ascetic life. As usual, the list 
-includes non-harming (ahiṃsā), brahmacaryā, speaking truth (satyavāda), and not stealing 
-(asteya).243 Rounding out these four common virtues—bringing them into alignment with the 
-242Citations from the text based are based on Krishnananda Sagar, ed., Pāśupatasūtram (Varanasi: Acharya Krishnananda Sagar, 1987). 243Kauṇḍinya, Pāśupatasūtrabhāṣya 1.9.36–39: ucyate prasiddhā yamāḥ ahiṃsādaya iti / atra tv anyeṣām / ahiṃsā brahmacaryaṃ ca satyāsaṃvyavahārakau / asteyam iti pañcaite yamā vai saṃprakīrtitāḥ // akrodho guruśuśrūṣā śaucam āhāralāghavam / apramādaś ca pañcaite niyamāḥ saṃprakīrtitāḥ // 
-286 
-pentadic structures so frequent in the Pañcārtha system—the Pāśupatas introduce a fifth 
-stricture: non-transactionality (asaṃvyavahāra). 
-tathā asaṃvyavahāras tantre siddhaḥ // PSBh_1.9:137 
-In the same way, in this system, the rejection of transactionality is established. 
-In what way [is it established]? On the basis of the instruction: dumb, insane, undead, or unmanifest. For it is not the case that here in this world the dumb, the insane, the undead or the unmanifest perform transactions. For this reason, here in this system the rejection of transactionality is established. 
-And furthermore, transactionality is said to be twofold. There is the transactionality related to buying and selling, and the transactionality relating to the king and to the collectivity. For one who holds the right to engage in either of these, it becomes inevitable that he will hurt someone else and he will hurt himself. If it is the case that he causes himself harm, then by this, in this very world, he experiences suffering. If he causes harm to someone else, in that case also the result is that his adharma—which bears the fruit of suffering and so forth—piles up. [And] by this, in the hereafter, he experiences intense suffering. Because of this, in regard to both [harming oneself and others], transactionality must be abjured. 
-For, it is also [said]: “The one who performs sins and the one who praises sins, the companion, and the enjoyer [of the fruits of such an action]—they all have the same karma.” 
-And it is stated: “Regarding selling, it is the great flaw, since from sales, a human being falls. The same fault applies regarding buying, therefore one should abjure it. One who enacts hidden sin, whoever he is, he does not know me. For although he is released for the juridical deliberation of human beings, he is not released from sin.” 
-It is also stated: “The sun and the moon, the wind and the fire, the sky, the earth, the water, the heart and the god of death, both the day and the night and at the two junctures and dharma— each one knows the conduct of a man.” . . . 
-The noble-minded person who does not undertake action, whose conduct is not arrogant, who does those things indicated in the śāstras, and who is restrained in regard to the yamas and niyamas—in regard to these things, he becomes a sage without old age and death.244 
-244Kauṇḍinya, Pāśupatasūtrabhāṣya 1.9.138–152: kasmāt / avyaktapretonmattamūḍhopadeśāt / neha loke avyaktapretonmattamūḍhāḥ saṃvyavahāraṃ kurvanti yasmād / ‘trāsaṃvyavahāras tantre siddhaḥ / saṃvyavahāraś ca punar dvividhaḥ / tad yathā krayāvakrayasaṃvyavahārā rājakulasaṃvyavahāraś ceti / ata ekatareṇāpy atrādhikṛtasyātmapīḍā parapīḍā cāvarjanīye bhavataḥ / tatra yady ātmānaṃ pīḍayati tenehaiva loke 
-287As is often a feature of his compositional style,245 Kauṇḍinya begins his analysis by 
-incorporating what is likely an older commentarial perspective that explains the prohibition on 
-transactional activity on the basis of it conflicting with the injunctions god has given. In doing 
-so he refers to chapter 3, which outlines the performance of what other sources call a vow of 
-madness (unmatta). Through adopting inappropriate behavior, the Pāśupata ascetic cultivates 
-the experiences of shame, provoking assault and experiencing social death in public places as 
-a means of transferring his bad karma to those who assail him. Even here, we should note, this 
-archaic logic is already dependent on the notion that karma is transferrable. To this initial 
-explanation, Kauṇḍinya then amends a searing theological critique of saṃvyavahāra as 
-referring not simply to commercial exchange (krayāvakrayasaṃvyavahāra) but to human 
-sociality and its institutions—the world of clans and of kings (rājakulasaṃvyavahāra). What 
-he argues is that human sociality— defined by acts of exchange—is irredeemably, irreducibly, 
-and in a very special way inseparable from the experience and perpetuation of suffering. 
-Sounding almost exactly like the two Brāhmaṇas in the Suvarṇasaptati, Kauṇḍinya proclaims 
-that in order to buy and sell things but also to interact with kings and other social bodies, it is 
-necessary to either hurt oneself or to hurt others. He also asserts, against Mīmāṃsā and the 
-normative legal tradition—the latter he knows surprisingly well—that sin is entirely an 
-duḥkhī bhavati / syāt paraṃ pīḍayati tatrāpy asyādharmo duḥkhādiphalaḥ pracīyate / tenāmuṣmin loke tīvraṃ duḥkham anubhavati / tasmād ubhayathāpi saṃvyavahāro varjanīyaḥ / bhavati hy api / yaś ca pāpaṃ prakurute yaś ca pāpaṃ praśaṃsati / sahāyaś copabhoktā ca sarve te samakarmiṇaḥ / uktaṃ hi / vikraye tu mahān doṣo vikrayāt patate yataḥ / eṣa eva kraye doṣas tasmāt taṃ parivarjayet // pracchannaṃ kurute pāpaṃ na me jānāti kaścana / mucyate janavādebhyas tasmāt pāpān na mucyate // punar apy uktam / ādityacandrāv anilo ‘nalaś ca dyaur bhūmir āpo hṛdayaṃ yamaś ca / ahaś ca rātriś ca ubhe ca saṃdhye dharmo hi jānāti narasya vṛttam // nārambhaśīlo na ca dambhaśīlaḥ śāstropadiṣṭāni karoty adīnaḥ / yameṣu yukto niyameṣu caiva munir bhavaty eṣv ajaro ‘maraś ca // 245Peter Bisschop has shown in regard to other passages in the Bhāṣya that Kauṇḍinya draws upon more than one set of prior interpretations from lost Pāśupata theological works engaging with the Sūtras and that some of these explanations diverge quite sharply from his own established position. See for example Peter Bisschop and Hans Bakker, “Pāśupatasūtras 1.7–9 with Commentary of Kauṇḍinya,” in The Tantric Reader, ed. Somadeva Vasudeva (forthcoming). 
-288 
-ontological matter, between man, god, and the universe, and not a socially mediated one that 
-can be expiated through court order. 
-Just how thoroughly Kauṇḍinya’s ethical critique of transactionality is grounded in his 
-epistemological and ontological vision becomes evident when we turn to the final chapter of 
-the Bhāṣya, which offers the injunctions for dwelling in cave, an abandoned house, or the 
-cremation grounds. During this portion of the Pāśupata adept’s sādhanā, his major focus is 
-cultivating his capacity for severing (chedana) his remaining connections to worldly existence. 
-This process does not simply entail cultivation of a sustained capacity for focus and mental 
-restraint in regard to how one makes use of the senses as well as the objects of the senses— 
-features our discourse shares with Nyāya, Vaiśeṣika, and Pātañjalian yoga. At the most 
-fundamental level, as our commentator explains, severing or severance (chedana/cheda) is 
-nothing other than a divorce from embracing or being entangled in the state of being of the self 
-(ātmabhāvaviśleṣaṇamātra).246 
-What Kauṇḍinya teaches is that the self (ātman) in practice is hopelessly riddled with 
-defects (doṣa). By this he means not only that human subjectivity is marred by moral 
-shortcomings and restrictions of capacity, but, rather pointedly, that the real meaning of the 
-term “flaw (doṣa) is sound, touch, form, taste, and smell.”247 In other words, it is the sense 
-impressions themselves that are constitutive of the particularization of identity and it is these 
-very same impressions that are the source of human suffering. As we will see momentarily, it 
-246Kauṇḍinya, Pāśupatasūtrabhāṣya 5.34.6–11: iha tu yata indriyāṇi jetavyāni yo jetā yayā jetavyāni yathā jetavyāni / yatprayojanaṃ jetavyāni yasmiṃś ca jite jitāni bhavanti tad vakṣyāmaḥ / tathā yasyātmavṛttir adhyayanadhyānasmaraṇādi ca vakṣyāmaḥ / tathā yata ātmā chettavyaḥ chettāraṃ chedakaraṇaṃ chedaprayojanaṃ / chedyaṃ chittiṃ yasmin chinne chinnaṃ bhavati tad vakṣyāmaḥ / taducyate chittvā / atra chedo nāma ātmabhāvaviśleṣaṇamātram / vicchedavacanād gamyate / 247Kauṇḍinya, Pāśupatasūtrabhāṣya 5.34.16–19: atra doṣāḥ śabdasparśarūparasagandhāḥ / kasmāt / kāmārjanādimūlatvāt / yasmād uktam / kāmaḥ krodhastathā lobho bhayaṃ svapnaś ca pañcamaḥ / rāgo dveṣaś ca mohaś ca // 
-289 
-is when these sense impressions are transformed into internal conceptualizations, mediated 
-through a unitary sense of self (ahaṃkāra), that the play of desire and aversion necessarily 
-commences. On the level of human self-perception, this gives rise to the questioning mind, 
-which asks: “Who am I?” “Where do I come from?” “Who do I belong to?” “What causes 
-what?” “What should and should not be eaten?” “What is true and false?” On the level of 
-external action, these same inputs are productive of human sociality.248 
-To understand how this works, we need to reflect a bit more on our author’s theorization 
-of the flaw and its relationship to sense impressions. 
-And how are they doṣas? Because they destabilize consciousness (cittavaicitye). They are called doṣas because they cause defects (dūṣayanti). They cause defects because they make the sādhaka, dedicated to study and dhyāna and so forth, one whose mind is scattered. Thus, there are defects.249 
-From Kauṇḍinya’s perspective, the illusory force we call human agency—the choices 
-we make about what to do with our lives as well as where and how we direct our attention— 
-are largely the products of how external forces act upon us, colonizing our consciousness and 
-shaping or deforming our behavior. Kauṇḍinya’s explanation of what causes these defects 
-(doṣas)—a force he calls hetujāla—is confusing and entirely eccentric from what we find in 
-our other commentarial and Tantric sources.250 Instead of construing the term hetujāla— 
-roughly network of causation—as a singular conceptual entity—he instead treats it as 
-248Kauṇḍinya, Pāśupatasūtrabhāṣya 5.39.40–41: acetanatvād abhoktṛtvād atanmayatvāc ca / tathā ajñānaduḥkham api ahaṃkārasatkṛtagātro na jānan ko ‘haṃ kuto ‘haṃ kasyāhaṃ kena vā bandhanena baddho ‘ham iti kiṃ kāraṇaṃ kim akāraṇaṃ kiṃ bhakṣyaṃ kim abhakṣyaṃ kiṃ peyaṃ kim apeyaṃ kiṃ satyaṃ kim asatyaṃ kim jñānaṃ kim ajñānam ityajñānaduḥkhaṃ puruṣa evānubhavati / 249Kauṇḍinya, Pāśupatasūtrabhāṣya 5.34.110–113: doṣāś ca katham / cittavaicitye / dūṣayantīti doṣāḥ / dūṣayanti yasmād adhyayanadhyānādiniṣṭhaṃ sādhakaṃ vicittaṃ kurvantīti doṣāḥ / 250Kauṇḍinya, Pāśupatasūtrabhāṣya 5.34.128: yasmād āha hetuḥ / atra heturadharmaḥ / kasmāt / cittacyutihetutvāt yasmāt tenāviṣṭaḥ sādhako ‘dhyayanasmaraṇādibhyaś cyavatītyato ‘trādharmo hetuḥ dharmastu sthityādihetuḥ / āha kasyāyaṃ hetuḥ / ucyate jālasya / atra yadā adharmaḥ kūṭastho ‘nārabdhakāryas tadā heturityucyate / yadā tv ajñānavāsanāvaśāddhṛtyā sthityādibhāvam āpannastadā jālākhyāṃ labhate / kasmāt / jālādivat samūhasyetyarthaḥ / anyasya tanmayakāraṇasyābhāvāt / jālasyeti ṣaṣṭhī chedanaśeṣatve vartate / 
-290 
-comprised of two components—the net and the cause. The cause (hetu) of the accumulation of 
-defects, he tells us, is adharma, which in a mechanistic fashion akin to what we find argued 
-by the Vaiśeṣikas automatically attracts negative experiences and misfortune and shapes and 
-aligns our capacities to make us ever more perfect receptors of such inputs. The net (jāla), in 
-contrast, appears to play a role somewhat akin to the ālayavijñāna in Buddhist Yogācāra 
-discourse; it is the conditioned space in which such latent negativities come to fruition by 
-manifesting as the consequences that structure human experience. 
-Sense impressions, we learn, adhere to us in accords with the character of our past 
-actions. At the same time, they also form the foundation for our tendencies for acquiring things 
-and sensations and desiring things and sensations, which in turn engender further layers of 
-conditioning in this life and the next. Thus, it is these core doṣas—the sense impressions—that 
-form the necessary preconditions for human activities, the canon of actions—of procuring, 
-protecting, destroying, association, and harming (arjanarakṣaṇakṣayasaṅgahiṃsā)—that 
-make up the totality of possibilities for how human beings can relate to each other.251 As our 
-commentator makes clear, the first of these, the category of procuring (arjana) largely 
-corresponds to our author’s earlier discussion of the transactional (saṃvyavahārika). As a 
-matter of convenience, it is here we will focus our analysis. 
-By arjana what is meant is the procuring of sense objects on the part of those who have a caste identity—[these are such things as] accepting gifts, conquest, buying and selling and debt. In the case of these actions, when there is the acquisition of sense objects, then, there comes to exist the affliction of the self or of others; those two are inevitable. Among those two options, if one afflicts oneself, by this, right here in this world, he becomes one who suffers. If he afflicts another, in that case also, he amasses adharma, which has the result of producing suffering. And no one else experiences that suffering, rather the agent himself experiences it.252 
-251Kauṇḍinya, Pāśupatasūtrabhāṣya 5.34:20: tathā arjanarakṣaṇakṣayasaṅgahiṃsādayo doṣāḥ / 252Kauṇḍinya, Pāśupatasūtrabhāṣya 5.34:21–25: arjanaṃ nāma pratigrahajayakrayavikrayanirveśyādiṣu varṇināṃ viṣayārjanopāyāḥ eteṣu ca viṣayāṇām arjane vartatātmapīḍā parapīḍā vā avarjanīye bhavataḥ / tatra 
-291 
-As we have been seeing, in Kauṇḍinya’s discourse, the agent that experiences suffering 
-is hardly a transcendental entity. Instead, Kauṇḍinya teaches that the raw materials out of 
-which this self is constituted are the two forms of perception (pratyakṣa), consisting of, as we 
-have seen, 1) that which derives from the senses, and 2) self-awareness. From a philosophical 
-perspective, these elements together form the necessary conditions for inferential reasoning, 
-which represents the other mode apart from direct perception for acquiring accurate 
-knowledge.253 When our sense impressions are ordered in accordance with preexisting 
-schematics—such as dharma, adharma, time, place, and so forth—veridical knowledge 
-(pramāṇa) concerning the precise logical relationships that exist between the different objects 
-of our perception becomes possible. Our internal perception of cognitions occurring within 
-consciousness functions in an analogous fashion, as they only become accessible to us when 
-they are conceptualized in terms of features like good and bad, spatiality and temporality. This 
-almost Kantian account of epistemology is complicated by what are, to us at least, two rather 
-surprising insights: first, that a descriptive account of human perception offers us a prescriptive 
-regiment for optimizing our experience of life, and second, as we have seen, that it is in part 
-such transcendental categories that bind the human soul, condemning it to suffer. In 
-Kauṇḍinya’s understanding, the human condition is one of absolute powerlessness and 
-restricted agency, and the quintessential bound soul is the Sāṃkhyan philosopher, who wastes 
-yady ātmānaṃ pīḍayati tena ihaiva loke duḥkhī bhavati / syāt paraṃ pīḍayati tatrāpyasyādharmo duḥkhādiphalaḥ saṃcīyate / tac ca duḥkhaṃ nānyo ‘nubhavati kartaivānubhavati / 253Kauṇḍinya, Pāśupatasūtrabhāṣya 1.1.44: tatra pratyakṣaṃ dvividham indriyapratyakṣam ātmapratyakṣaṃ ca / indriyapratyakṣam indriyārthāḥ śabdasparśarūparasagandhaghaṭāhāḥ vyākhyānatāpamūtrapurīṣamāṃsalavaṇa- prāṇāyāmaiḥ siddham / ātmapratyakṣaṃ tadupahārakṛtsnatapoduḥkhāntādi vacanāt siddham . . . . paramārthatas tv indriyārthasambandhavyañjakasāmagryaṃ dharmādharmaprakāśadeśakālacodanādyanugṛhītaṃ sat pramāṇam utpadyate / ātmapratyakṣaṃ tu cittāntaḥkaraṇasambandhasāmagryam / anumānam api pratyakṣapūrvakaṃ cittātmāntaḥkaraṇasambandhasāmagryaṃ ca dharmādharmaprakāśadeśakālacodanādismṛtihetukam utpattyanu- grahatirobhāvakālādi / 
-292 
-his time enumerating and delineating the various elements that make up the realm of 
-experience. 
-From Kauṇḍinya’s perspective, the Sāṃkhyan has gone astray because he has 
-underestimated the mutability of the objects and subjects that make up the world by attributing 
-to each taxonomic unit specific fixed traits and propensities. Informed by his epistemological 
-account of how both direct sense impressions and the mental recollections and reformulation 
-of these impressions are simultaneously informed by consciousness and inflect it, Kauṇḍinya 
-surmises that even brief interactions create changes in the participating objects and subjects. 
-Thus, the forging of sustained logical connections between disparate things results in an 
-exchange of properties that, over time, reconstitutes the participants into new kinds of entities 
-with new propensities and behaviors. Such a model renders patently absurd what to the 
-Pāśupata are the naïve notions to which so much of Indic Philosophy subscribes: that any a 
-priori insights can arise from the discursive recovery of the logical connections between the 
-mutable objects that constitute our environment. In this regard, Kauṇḍinya presents a 
-substantial departure from the optimistic philosophical verve of our earlier empiricist systems 
-that set out to view reality just as it is—yathābhūta—and then benevolently transfer that 
-understanding to others. 
-One measure of just how seriously Kauṇḍinya takes his social constructivism—which 
-unlike many of its more common Western analogues is attentive to the fact that it is not only 
-the environment through which the social agent moves but also the subjectivity of the social 
-agent itself that are mutually constituted in the interactions between human beings and their 
-environment—is to be found in his brief but telling presentation of Pāśupata praxis as a form 
-of social identity. The sūtra upon which our author comments reads simply liṅgadhārī— 
-293 
-literally, an agent who bears a liṅga. As is well known, the term liṅga is a particularly 
-polyvalent term of art that offers a range of context-specific meanings. In formal philosophical 
-discourse, depending on the school of thought and precision of usage, it can refer to the probans 
-within a syllogistic argument, a point of inferential reasoning, or more broadly to the indexical 
-and significatory—one is tempted to say semiotic—functions of language. In Śaiva theological 
-discourse, the liṅga does not “represent” anything but simply is—to borrow a term from 
-cellular biology—the pluripotent power and presence of Śiva on earth. This presence takes 
-shape as the iconic (vyakta), semi-iconic (vyaktāvyakta), and most famously the often phallic 
-shaped aniconic (avyakta) foci of worship, all of which during this early period are equally 
-referred to as liṅgas. Finally, in transactional human discourse, the term liṅga is a not especially 
-euphemistic but not overtly lewd word for the human penis. Succinctly, Kauṇḍinya has a 
-multitude of conceptual registers upon which he could potentially draw in making sense of a 
-primary source that shorn from its commentary in sequence simply says “refuse (nirmālya),” 
-“bearing the liṅga (liṅgadhārī),” “dwelling in a structure (āyatanavāsī),” and yet nonetheless, 
-this is what he chooses: 
-liṅgadhārī || Pāśupatasūtra 1.6: Ones who bear a semiotic system.254 
-In this case, just as for people of others varṇas and stages of life, the semiotic system is the makers/producers of the respective divisions among the āśramas. 
-Among those, for the householder on the one hand, the semiotic system (liṅga) is: three garments, a bamboo staff, a water jug, shaving of the mustache, and a sacred thread. 
-Likewise, for the brahmacārī also, the semiotic system is: staff, water jar, belt made of muñja grass, sacred thread, skin of a black deer, and so forth. 
-Likewise, for the forest dweller as well, the semiotic system is: bearing dreadlocks, a beard, [wearing] aged bark [garments], and a water pot. 
-254For a very different approach to the use of semiotics in the study of Tantric traditions, see Christian Wedemeyer, Making Sense of Tantric Buddhism: History, Semiology, and Transgression in the Indian Traditions (New York: Columbia University Press, 2014). 
-294 
-In the same manner, for the ascetic, the semiotic system is: a three-part staff, a shaved head, a water pot, saffron garments, a water strainer, and brush. 
-Thus, in this case [that of the atyāśrama] also, the semiotic system [signifying] eligibility for pāśupatayoga is the thing that produces a respective division within the āśramas [i.e., the atyāśrama]— bathing in ash, lying down in ash, bathing in ash again, the ritual refuse, a single cloth and so forth. It is absorbed into one’s own body (svaśarīralīna), and it is pāśupata—that is the cause of the production of knowledge, both worldly and otherwise. 
-It is called liṅga because it is absorbed and because it embraces. And bearing that, one becomes a liṅga bearer.255 
-In the early modern Deccan—perhaps even earlier—the bearing of physical liṅgas, 
-made of stone or some other lasting material, becomes the key indexical feature that defines 
-participation within many non-Brāhmaṇa Śaiva communities, both from the perspective of 
-initiates and outsiders. At roughly the same time, as Elaine Fisher has shown in her monograph 
-on Hindu Pluralism, for the Smārta-Śaivas of the Tamil country in the sixteenth and 
-seventeenth century—the bearing of the signs of the atyāśrama vow—here understood simply 
-as the three lines of ash taken from the ritual fire known of as tripuṇḍra—forms an integral 
-part of “wearing your identity on your forehead.”256 As such, bearing the tripuṇḍra is one part 
-of a strategy whereby Brāhmaṇa Śaivas differentiate themselves from their near rivals within 
-the context of an emerging social sphere defined by sectarian difference. Though a distant 
-ancestor to both of these discursive formations, Kauṇḍinya’s conceptualization of the 
-liṅgadhārin proves substantively different. First of all, palpably present in its absence from the 
-255Kauṇḍinya, Pāśupatasūtrabhāṣya 1.6.1–8: liṅgadhārī // 1.6 / atra yathānyeṣām api varṇāśramiṇām āśramaprativibhāgakarāṇi liṅgāni bhavanti / tatra gṛhasthasya tāvad vāsas trayaṃ vaiṇavī yaṣṭiḥ sodakaṃ ca / kamaṇḍalu sottaroṣṭhavapanaṃ yajñopavītādi liṅgam / tathā brahmacāriṇo ‘pi daṇḍakamaṇḍalumauñjīmekhalā- yajñopavītakṛṣṇājinādi liṅgam / tathā vānaprasthasyāpi karīracīravalkalakūrcajaṭādhāraṇādi liṅgam / tathā bhikṣos tridaṇḍamuṇḍakamaṇḍalukāṣāyavāsojalapavitrasthalapavitrādi liṅgam / evam ihāpi yad etat pāśupatayogādhikaraṇaṃ liṅgam ity āśramaprativibhāgakaraṃ bhasmasnānaśayanānusnānanirmālyaika- vāsādiniṣpannaṃ svaśarīralīnaṃ pāśupatam iti laukikādijñānajanakaṃ tat / līyanāl liṅganāc ca liṅgam / tad dhārayan liṅgadhārī bhavati / 256See Elaine Fisher, Hindu Pluralism: Religion and the Public Sphere in Early Modern South India (Oakland: University of California Press, 2017), 128–32. 
-295 
-Bhāṣya as a whole is the notion of the iconic śivaliṅga. Where our text uses the same terms 
-that will come to constitute the classical Śaiva triad of the iconic image (vyakta), the icon with 
-faces (vyaktāvyakta), and the regular liṅga (avyakta), it is always when Kauṇḍinya is referring 
-to different habituses adopted by a practitioner and never in reference to material objects. Thus, 
-when Pāśupatasūtra 3.1 refers to the avyaktaliṅgin, the intended meaning is the phase in 
-Pāśupata praxis where the practitioner ceases to go about in public bearing the semiotic 
-referents (liṅga), which are such indications of status as rebathing in ash, wearing the ritual 
-refuse, and having the single garment. 
-Just as importantly, Kauṇḍinya does not frame being a Pāśupata as a sectarian identity. 
-Instead, he views it as a stage of life (āśrama) or a mode of comportment (maryādā), 
-conceptual frames that belong as much to the juridical as to “theological” discourse.257 In fact, 
-our author’s argument is that the liṅga is constitutive of Pāśupata identity in precisely the same 
-way and for exactly the same reasons as are the special implements and modes of comportment 
-associated with other āśramas. The argument is that in each of these cases, the aforementioned 
-elements at once communicate a specific social identity and serve as the tools of the trade 
-productive of that identity. Loosely speaking then, they are saṃskāras both in the ritual sense 
-of marking shifts in the life cycle and in the philosophical sense proposed by Praśastapāda. 
-That is to say, in “being practiced” through repeated conjunctions of the mind and the self over 
-an extended duration of time that forges connections between earlier and subsequent cognitions 
-and experiences, they produce a superfluity of saṃskāra, or what we call, colloquially, being 
-a natural at something, or more technically, perfecting a habitus. Apart from the inauspicious 
-257See, for example, Kauṇḍinya, Pāśupatasūtrabhāṣya 1.7.1–3: atha bhasmanirmālyaval lokādiprasiddham āyatanam / āṅ iti maryādāyāṃ bhavati / yasmād ete gṛhasthādayaḥ prayataniyataśucisādhvācārāḥ svasvamaryādayopatiṣṭhante yajanti ca śāntikapauṣṭikādibhiḥ kriyābhir iti / 
-296 
-(amaṅgala) dimensions of the individual ingredients that make up being a Pāśupata Brāhmaṇa, 
-the only matter of substantive divergence between Kauṇḍinya’s understanding and normative 
-approaches to acculturation is that the Pāśupata habitus—the semiotic system integral to him 
-being a bearer of the atyāśrama liṅga—is ultimately absorbed into the practitioner’s own body 
-(svaśarīralīna). What our commentator is suggesting is that unlike other habitus patterns that 
-inflect composite and context-specific identities, Pāśupata praxis ultimately amounts to a 
-person becoming simply a walking liṅga for a single semiotic system. The goal of this system 
-is nothing more than the production of a kind of embodied agent, the content of whose 
-subjectivity consists solely of the instantiation and transmission of Pāśupata praxis as it was 
-revealed when Śiva himself took manifest form. As we will see momentarily, taken as a whole, 
-it is precisely this process that our texts intends when it speaks of yoga as the conjunction of 
-the lord and the self (ātmeśvarasaṃyogo yogaḥ). 
-As Peter Bisschop has demonstrated,258 Kauṇḍinya’s Bhāṣya is often but erroneously 
-identified as the earliest source that offers us the myth of Lakulīśa as the founder of the 
-Pāśupata tradition. Our text itself, however, tells a somewhat different story.259 In place of the 
-apotheosis of a human teacher, god himself—apart from Bhagavān, no name is ever given— 
-is said to have taken on (āsthāya) a human form (manuṣyarūpī) by entering into a unmarked 
-258See Peter Bisschop, “Once again on the Identity of Caṇḍeśvara in Early Śaivism: A Rare Caṇḍeśvara in the British Museum,” Indo-Iranian Journal 53 (2010): 233–249. Bisschop’s larger argument will form a major point of interest in our own explorations in the final section of chapter 6, where the god Caṇḍeśvara, some of whose iconography Lakulīśa usurps, will feature prominently. 259Kauṇḍinya, Pāśupatasūtrabhāṣya 1.1.39–40: manuṣyarūpī bhagavān brāhmaṇakāyam āsthāya kāyāvataraṇe avatīrṇa iti / tathā padbhyām ujjayinīṃ prāptaḥ / kasmāt / śiṣṭaprāmāṇāt cihnadarśanaśravaṇāc ca / atyāśramaprasiddhaṃ liṅgam āsthāya pravacanam uktavān bhasmasnānaśayanānusnānanirmālyaika- vāsograhaṇād adhikaraṇaprasiddhyarthaṃ ca svaśāstrokte āyatane śiṣyasambandhārthaṃ śucau deśe bhasmavedyām uṣitaḥ / ato rudrapracoditaḥ kuśikabhagavān abhyāgatyācārye paripūrṇaparitṛptyādyutkarṣa- lakṣaṇāni viparītāni cātmani dṛṣṭvā pādāv upasaṃgṛhya nyāyena jātiṃ gotraṃ śrutam anṛṇatvaṃ ca nivedayitvā kṛtakṣaṇam ācāryaṃ kāle vaidyavad avasthitam āturavad avasthitaḥ śiṣyaḥ pṛṣṭavān bhagavan kim eteṣām ādhyātmikādhibhautikādhidaivikānāṃ sarvaduḥkhānām aikāntiko ‘tyantiko vyapoho ‘sty uta neti / athoktaparigrahādhikāralipsāsu parāpadeśenopadeśe sacchiṣyasādhakapāṭhaprasiddhyarthaṃ kāraṇapadārthādhi- gamārthaṃ cātmani parāpadeśaṃ kṛtvā bhagavān evoktavān / 
-297corpse of a Brāhmaṇa at a place whose single defining feature is it is where the descent 
-(avatīrṇa) into the body (kāyāvataraṇa) took place. Thus, in contrast to the later tradition 
-offering a particularizing mythologization of Kāyārohaṇa in Gujarat as sacred center and 
-Lakulīśa as sacred teacher, our text proceeds in a stripped down almost anti-mythological vein. 
-Apart from marking the location of God’s descent, Kāyāvataraṇa plays no further role in this 
-imaginary. In place of specific stories about god’s incarnation and travels, of the sort one finds 
-for example in the Nepalese Skanda Purāṇa, we are simply told that the Lord reaches Ujjain 
-on foot (padbhyāṃ ujjayinīṃ prāptaḥ). In Ujjain, just as he had taken on a human body (kāyam 
-āsthāya) the Lord now “takes on the semiotics” (liṅgam āsthāya) of the well-known state of 
-being beyond the āśramas (atyāśramaprasiddha). In doing so, he recites instructions 
-(pravacana) consisting solely of the injunctions that will come to define Pāśupata praxis. 
-Apparently, this teaching proves compelling, as a certain person named Kuśika recognizes the 
-signs of a completely established habitus of fullness of being and perfect contentment in the 
-teacher (paripūrṇaparitṛptyādyutkarṣalakṣaṇāni), and the opposite of these traits within his 
-own being (viparītāni cātmani) falls before the feet of the Lord. The Lord’s first impulse is to 
-inquire after Kuśika’s gotra, jāti, and whether he has any debts. Only after he is convinced that 
-his new recruit is indeed a Brāhmaṇa in good standing does he accept him as a disciple. In this 
-way, the lord as teacher, acting in his capacity as a physician (vaidyavat) begins to explain the 
-remedy for the disease that is worldly suffering. 
-Now, as Hans Bakker has suggested in his at once insightful and problematically 
-constructive theological essay “The Gospel of Kauṇḍinya,” Pāśupata praxis is often seen as a 
-path of divine mimesis, which Bakker insists is akin to the imitatio dei found in the traditions 
-298 
-of late medieval Christianity.260 The basic idea, as we shall see momentarily, is that through 
-acting in imitation of Rudra, over time the adept becomes Rudra and steadily divests himself 
-of his humanity. That is to say, the text asserts that through acquiring the traits and behaviors 
-that are constitutive of another entity while suppressing one’s own normative features and 
-behaviors, it is possible, in purely logical terms, to become a rudra on earth. The practitioner 
-directs his focus to apprehending the deity, and sidelines his discursive mental capacities by 
-occupying it with the incessant repetition of mantras as well as the recollection of narrative 
-mythological episodes that constitute a closed Śaiva system of referentiality—all of which 
-reinforces his mental focus. He disciplines his body so that his daily practice ritualizes all of 
-his behavior. In this way he becomes virtually indistinguishable from how his god behaved 
-when he too came to earth. 
-A closer look at Kauṇḍinya’s argument, however, reveals a slightly more subtle 
-dynamic, though ironically one that is actually a closer match with its proposed European 
-analogue. Thomas Kempis, of course, did not presume to model the ideal Christian’s 
-comportment after Elohim who made the Leviathan or the effervescent holy ghost, but 
-proposed—though the details of how this is to be interpreted depend on sectarian affiliation— 
-a more delimited and partial mimesis of the aspect of God called Christ. In a similar spirit, 
-Kauṇḍinya teaches that while the nature of god is play (krīḍā), “his activity, insomuch as it 
-consists of proclaiming the doctrine, is for the sake of bestowing grace (anugraha).”261 Thus, 
-the Pāśupatasūtra and its exegetical tradition offer themselves as a body of teachings that 
-260Hans Bakker, “The Gospel of Kaundinya: The Descent of God in Gujarat and the Practice of Imitating God,” in Myths, Martyrs, and Modernity. Studies in the History of Religions in Honour of Jan N. Bremmer, ed. Jitse Dijkstra, et. al. (Leiden: Brill, 2010), 517–29. 261Kauṇḍinya, Pāśupatasūtrabhāṣya 1.1:33–34: krīḍānimittā īśvarapravṛttiḥ, anugrahārthā cācāryasya pravacanavaktṛtve pravṛttiḥ / 
-299 
-address themselves solely to the grace bestowing aspect of God as instantiated in the form in 
-which the lord descended. In other words, Kauṇḍinya teaches that the Pāśupatācārya is 
-engaged in a mimetic replication—not of the totality of Paśupati’s nature, but rather of the 
-single aspect of god’s potential that embodies favor and grace, a state of being most perfectly 
-embodied in the virtual cipher that the later tradition would come to call Lakulīśa. And who 
-exactly is this one who would become “Lakulīśa”? He is the corpse of a generic Brāhmaṇa 
-stripped of all other defining characteristics, and his disciples in turn are empty vessels that are 
-to be reanimated as perfected embodiments of the doctrinal contents of their system. 
-As Bakker points out, it is central to the tradition’s theology that the Pāśupata adept 
-does not secure salvation simply through his own efforts “at meditation, study, and so forth,” 
-but instead through a willful exchange of activity on the part of both the Lord and his disciple, 
-“as in the case of two rams.” It is this process—ontically pluralistic and yet aimed at a 
-dissolution of the individual soul as it merges in the lord, offering a logic of exchange where 
-the currency is not sentiment and affect, but actual ontic qualities and perhaps most 
-importantly, resolutely anti-social, that the early Pāśupatas called bhakti. Commenting upon 
-sūtra 2.20, which literally reads “But in Śaṅkara, no other bhakti,” drawing upon both formal 
-grammatical analysis and Nairuktika analysis along with the resources he inherits from lost 
-Pāśupata sources, Kauṇḍinya offers the following interpretation: 
-The meaning of bhakti is a mode for becoming (bhāvanā). By the particle tu, what is intended is particularization. How? Those who are possessed by hubris are degraded and reduced to the status of thieves. Through particularization, they stand at a distance from Śaṅkara. 
-Why is he called Śaṅkara? Because of his being the one who produces pleasure and nirvāṇa in their entirety, he is Śaṅkara. When we say “in Śaṅkara” [locative function], it is meant in the sense of an immediate connection (aupaśleṣika)—in close proximity or in the presence of (sannidhana) [god]. Bhāvanā should be done “in Śaṅkara” and in no one else—this is the sense. As it is said: 
-300 
-“When a coarse entity is engaged with mind, body, and speech, by that practice [the coarse entity] is removed.262 And therefore, one should engage with that which is spiritually beneficial. The great souled ones who sacrifice constantly, thinking only of the highest self (adhyātma), say: What you think about, you come to consist of that. This is the eternal secret. Whether one is going about, standing, lying down, or is awake or even asleep, one must enact bhāvanā in Śaṅkara if one should desire the union of the self (yogam ātmanaḥ).” . . . 
-Thus, one must maintain unbroken connection (upaśleśitavya) to the state of being in Śaṅkara—not in any other—this is the intended meaning.263 
-Outside of the Nirukta itself, this is one of the earliest reflections on the conceptual 
-semantics of bhakti in the history of Sanskrit thought. As we can see it looks almost nothing at 
-all like what we would have expected. In our typical scholarly imaginary, “bhakti” is presumed 
-to be the product of a simple and effusive “cultural” if not linguistic vernacular, a religion of 
-the heart instead of the head.264 It is also often explicitly placed in opposition to Sanskrit 
-learning and Brāhmaṇism, for as the Bhajagovindastotra famously proclaims, “the rules of 
-Pāṇinian grammar will not save you at the time of death, so worship Govinda” (saṃprāpte 
-262This exact meaning of this phrase in its original context is rather unclear. Kauṇḍinya seems intent, however, on treating it as a teaching about removing the doṣas, which degrade consciousness and are constitutive of human subjectivity. 263Kauṇḍinya, Pāśupatasūtrabhāṣya 2.20.2–14: nānyabhaktis tu śaṃkare // bhaktir bhāvanetyarthaḥ / tuśabdo viśeṣaṇe // katham / ye harṣeṣv abhisaktāḥ dūṣyataḥ taskaratvam āpannāḥ te viśeṣeṇa tu śaṃkarād dūrasthā bhavanti / śaṃkaraḥ kasmāt / samastasukhanirvāṇakaratvāc chaṃkaraḥ / śaṃkare ityaupaśleṣikaṃ saṃnidhānam / śaṃkare bhāvanā kartavyā nānyatrety arthaḥ / uktaṃ hi / karmaṇā manasā vācā yad aślakṣṇaṃ niṣevate / tadabhyāso haratyenaṃ tasmāt kalyāṇam ācaret // evam ete mahātmānaḥ prāhur adhyātmacintakāḥ / yac cittas tanmayo bhāvo guhyam etat sanātanam // gacchaṃs tiṣṭhan śayāno vā jāgrac caiva svapaṃs tathā / śaṃkare bhāvanāṃ kuryād yadīcched yogam ātmanaḥ // . . . . evaṃ śaṃkare bhāva upaśleṣitavyo nānyatrety arthaḥ / 264Thus, for example, in his masterful and moving A Storm of Songs: India and the Idea of a Bhakti Movement, Jack Hawley writes: “’Bhakti,’ as usually translated, is devotion, but if that word connotes something entirely private and quiet, we are in need of other words. Bhakti is heart religion, sometimes cool and quiescent but sometimes hot—the religion of participation, community, enthusiasm, song, and often of personal challenge, the sort of thing which coursed through the Protestant Great Awakenings in the history of the United States. It evokes the idea of a widely shared religiosity for which institutional superstructures weren’t all that relevant, and which, once activated, could be historically contagious—a glorious disease of the collective heart. It implies direct divine encounter, experienced in the lives of individual people. These people, moved by that encounter, turn to poetry, which is the natural vehicle of bhakti, and poetry expresses itself just as naturally in song.” John Stratton Hawley, A Storm of Songs: India and the Idea of a Bhakti Movement (Cambridge, MA: Harvard University Press, 2015), 2. 
-301 
-sannhite kāle, na hi na hi rakṣati ḍukṛñkaraṇe).265 It is thus a violation of virtually all of our 
-expectations about what devotional religion should look and feel like that Kauṇḍinya 
-approaches “making this concept of bhakti come alive” by subjecting it to rigorous 
-grammatical analysis. 
-In essence, Kauṇḍinya develops a scholastic approach to devotional theology from a 
-careful parsing of the different possible logics that could underlie a case relationship. Without 
-getting into too many details, Pāṇini’s explanation of the locative in sūtra 1.4.45, “ādhāro 
-adhikaraṇam—the locative is the locus,” is further defined by his commentator Patañjali as 
-having three dimensions, each of which is logically distinct: immediate contact (aupaśleṣika), 
-a relationship of pervasion (abhivyāpaka), and indexical referencing of subject matter 
-(vaiṣayika). As the grammarians famously and repeatedly explain, when you say gaṅgāyāṃ 
-ghoṣaḥ, “a house on the Ganges,” a person may be communicating multiple discrete messages. 
-This might mean, for example, our house is on the ghaṭs touching the river (that would be the 
-aupaśleṣika relationship), that the monsoon has flooded the city and your house is literally 
-floating down stream (abhivyāpaka), or, metaphorically, that in our household, we are “all 
-about the Gaṅgā,” the wall are covered with pictures of the river, people are always talking 
-about going down to the river, so on and so forth. The other classic example offered by the 
-grammatical tradition of a relationship defined by immediate contact (aupaśleṣika)—“he sits 
-on the mat” (kaṭe śete)—further clarifies the logic under discussion, namely, that we are talking 
-about a relationship where the agent and the locus are in close constant contact. Succinctly in 
-our example, the Pāśupata adept is the agent and the mat, well—the mat is Śaṅkara. Whether 
-265For a learned and elegant dismantling of this trope centered upon the archive of early modernity, the reader is advised to consult Anand Venkatkrishnan, Mīmāṃsā, Vedānta, and the Bhakti Movement (PhD diss., Columbia University, 2015). 
-302 
-he is awake or asleep, going about, standing still, or lying down—which is to say, 
-euphemistically, in every phase of human experience—the adept must maintain unbroken 
-contact mental and somatic connection with the state of being in which his deity always abides. 
-Where particularities not pertaining directly to Śaṅkara interpolate themselves into his 
-experience, the adept comes to “stand at a distance from Śaṅkara”—in other words, he ceases 
-to maintain a bhakti relationship. 
-While our author exclusively uses traditional Brāhmaṇical scholastic resources from 
-the sciences of language as well as early Nyāya and Vaiśeṣika philosophy to make sense of 
-what bhakti “means,” he turns to mostly lost scriptural sources when he needs to explain what 
-it does—which is to say how it enacts its divorce from the state of being of a conditioned self 
-(ātmabhāvaviśleṣaṇa), the contents of whose consciousness have been constituted out of 
-flawed sense impressions. When the ancient Pāśūpata masters proclaimed that “whatever you 
-think about, you come to consist of that: this is the eternal secret,” this instruction was not 
-offered in the spirit of personal empowerment but rather as a cautionary tale impelling the 
-practitioner to maintain unbroken focus on the Lord. For Kauṇḍinya, bhakti is at least as much 
-about a process of deletion—the removal of coarse and deformed traits and propensities—as 
-it is about completion. Bhakti, in essence is something like creating a copy of some but not all 
-of the directories found on a computer onto an external hard drive. Much like an external hard 
-drive may have already used for other purposes but still can be hooked up to a computer, the 
-Pāśupata adept—until recently an ordinary Brāhmaṇa male who had undergone a normative 
-process of socialization—first has to establish a firm and unbroken connection with the Lord. 
-If the transfer is to be successful, the agent and locus must “recognize” each other. Then, 
-through the mimetic form of conditioning of habitus that is bhāvanā, a portion of the contents 
-303 
-of what was on the grand computer that is God gradually gets copied onto the external drive 
-that is the subjectivity of the Pāśupata adept. It is this physical replacement of human traits 
-with god’s traits that undoes the particularization that creates ontic distance from the deity. 
-This habitus of embodying the exemplary religious practitioner who merely replicates 
-what the Lord did when he first descended is itself, however, temporary, for once it is has 
-become naturalized into the practitioner’s experience, he is instructed to suppress it. Assuming 
-the guise and behaviors of an impoverished and mentally feeble degenerate, the practitioner, 
-previously a respected member of the social world, reenters into normative society at the very 
-bottom of the hierarchy, deliberately seeking out situations in which he will be humiliated and 
-abused so that any remaining traces of negative karma will be transferred onto his assailants 
-and any vestiges of attachment to varṇa and āśrama will be destroyed. Having courted a direct 
-experience of social death, this new acolyte of the Pāśupata perfecti takes a vow of silence, 
-and ends his days abiding without thoughts or language in an empty cave or cremation ground 
-intoning the praṇava mantra. Instead of building a community of devotees joined together by 
-shared practice and affect—which, as we shall see in chapter 3, is an integral dimension of 
-post-Gupta Śaiva bhakti discourse—the conceptual work that bhakti does within this system 
-has as its express purpose the breaking of all social connections and bonds and ties to shared 
-human experiences. 
-In spite of his impassioned critique of a transactional world that brings those who 
-participate within it nothing more than suffering, Kauṇḍinya’s writings and the social forms it 
-promotes are very much a product of the sociological and intellectual currents of a Brāhmaṇa 
-ecumene within a specific moment in Indic history. The Brāhmaṇical conceptual vocabulary 
-to which it repeatedly appeals, against our inherited expectations, displays a heightened 
-304 
-concerned or anxiety about the realities of things as they are (yathābhūta) as we access them 
-through our perception. It at best acknowledges, but by no means centers, varṇāśramadharma 
-systematicities, treating them as one among many components of human sociality. It is acutely 
-attuned to ethical problematics. It is heavily invested in theorization about pedagogy and 
-acculturation and devoted to imagining the teacher—sacred or secular—as dedicated to 
-guiding the pupil away from danger and relieving their suffering. That such a “Brāhmaṇism” 
-is so much less familiar to us than our standard, Dharmaśāstra-centric and Mīmāṃsā-inflected 
-vision of “being Brāhmaṇa” and Brāhmaṇical normativity is a reflection not of its tertiary 
-nature, but of generations of scholarship that have confined its rereading and reading “within 
-the lines” defined by inherited expectations. 
-This chapter has offered us an exciting glimpse of the sort of alternative intellectual 
-history of Brāhmaṇisms and their multiple relations to the social that become possible when 
-we set aside our presumptions about a pre-given “mainstream” Indian ideology and instead 
-simply look at the sort of things one finds at any given historical moment across of a range of 
-sources. One of consequences of taking the multiplicity of “being Brāhmaṇa” seriously is that 
-it removes from our tool kit as scholars the ready correlation of the mere presence of 
-“Brāhmaṇa names” or “references to the Vedas” within a specific part of our documentary 
-record with specific ideological and theological values. Not only does setting aside these 
-preconceived notions prepare us for the rich and varied religious landscapes of the early 
-medieval Deccan to which we will soon be turning our attention, whose systematicities are 
-poorly aligned with our standard inherited account of the Brāhmaṇical world order, it also will 
-place us on firm historical ground when, in the last few chapters, we turn to recovering specific 
-historical moments when the form of Brāhmaṇical governmentality we have presumed to be 
-305 
-without beginning—of the Brāhmaṇa as a non-sectarian manager of the religious and 
-institutional lives of the population across caste lines—emerges within the realm of learned 
-śāstra and general and Dharmaśāstra in particular for the first time as a prescriptive norm 
-embraced by orthodoxy that demonstrably wields institutional power in the service of 
-actualizing its values. 
-Instead of pursuing that particular project any further, however, in the next few 
-chapters, we will turn away from the recovery of emic frameworks, such as shared 
-conceptualizations about the nature of human sociality, found within forms of knowledge 
-production carried out by elite intellectuals. In their place, we will begin to attend instead, to 
-paraphrase Sumit Guha, to the powers that enforced and enacted those visions as they were 
-mediated through social institutions and quotidian transactional practices. 
-306 
+
+Chapter 1: Defamiliarizing the Brāhmaṇical World
+
+This chapter engages with disparate and often difficult material culture and textual sources in the service of conveying some rather straightforward observations that I argue form the foundation of any philologically and historically responsible reading of particularized premodern Indic social realities as opposed to a narrow band of prescriptive doctrinal formulations. Most importantly, it seeks to demonstrate on empirical grounds some of the hermeneutical stumbling blocks that are posed by our easy embrace of conceptual frameworks like “Brāhmaṇism” and “Brāhmaṇical identity.” All too often, scholars of Hindu traditions treat these frameworks as if their content were self-evident, internally consistent, and cohesive—that is to say, as trans-historical categories—as opposed to ones that are historically and geographically contingent, internally contested, and constantly and often self-consciously evolving. Perhaps even more problematically, much of what has been called the sociological approach to the study of premodern Indian religion conflates the reconstruction of “social context” with the superimposition onto particularized archives of a delimited purportedly unchanging canon of “Brāhmaṇical normativity” centered upon a single interpretive perspective. To be quite blunt, as will become clear when you have reached the end of this chapter, such analysis consistently derives its precepts from one specific subset of Dharmaśāstra writings that are heavily inflected by the Pūrva Mīmāṃsaka exegetes. In essence, denuded of historicity, a single scholastic position is envisioned as representing the unchanging and virtually unchallenged heart of Brāhmaṇical tradition. The “sociological imagination” then proceeds to account for “historical change” as the series of self-perpetuating ideological contestations occurring within the binary of Brāhmaṇa/non-Brāhmaṇa conflict as
+[[P129]]
+they unfold within historical time. Indian history—its distant past as much as its present—thus becomes a narration of the irreconcilable clash between two ideologically static forces correlated with specific social forms—whether we call these Brāhmaṇa and Śramaṇa or Hindu and Subaltern—with “Brāhmaṇical normativity” almost always enacting the role of hegemon, a model that matches poorly with the fluid negotiations of meaning and identity so often evident in our documentary and textual records.
+
+This chapter begins to hint at the possibilities presented by “undoing this binary,” for it is precisely this shift in our perspective that will make the very different modes of analysis that follow in subsequent chapters possible. Perhaps most pointedly, we will come to see how our exclusive focus on an essentialized vision of what constitutes “the Brāhmaṇical worldview”—particularly in regard to questions about the social order—has deflected our attention away from more robust approaches to re-theorizing Indic sociality. In this spirit, after some small efforts in the disaggregation of “Brāhmaṇical normativity,” this chapter will conclude by attending to two quite significant features of much of the “classical” Brāhmaṇical discourse conducted in scholastic Sanskrit that are hardly ever reflected upon outside of highly specialist circles and play almost no role in our reflection on the nature of Indic religion. The first feature is a tradition of empiricism with a pluralistic vision of the nature of authority within which different modes of knowledge are viewed as intrinsically circumscribed by discipline, community, and spatiality. The second is a widely shared, and unduly neglected, emic conceptualization found in the classical sources about the transactional nature of the social world and the problematic mutability of socially constructed identity. Though discourse of this sort is surprisingly not uncommon in the realm of early *śāstra*, any consideration of such conceptual frames is almost entirely absent from our literature within which “Brāhmaṇism” is
+[[P130]]
+habitually equated with the a priori prescriptivist application of textualized norms ultimately derived from a unified canon of knowledge practices rooted in the Veda. It is in this spirit that the present exploration offers itself as a corrective—attending to neglected diversity within what has been presumed to be a univocal discourse.
+
+We might then speak of the Brāhmaṇical not as a single ideology or identity but as itself existing within a spectrum of possibilities—of thick and thin expressions—offering different ways of “doing Brāhmaṇa.”[^131_90] Rather than fixating on some imagined essentialization as forming the defining feature of “Brāhmaṇism,” we might instead attend to sites and disciplinary structures where “doing Brāhmaṇa” is most likely to occur. In alignment with M. Srinivasan’s storied notion of “Sanskritization,” such a model enables us to make sense of how “doing Brāhmaṇa” is not necessarily inexorably linked to “Brāhmaṇa bodied persons.”[^131_91] And
+[[P131]]
+if Brāhmaṇa is a thing one does at least as much as thing one is, it also follows that we cannot reduce all of the activities of the “Brāhmaṇa-bodied” to a simple expression of some unitary “Brāhmaṇical ideology.”
+
+[^131_90]: While the present context is not the right place to make this argument in detail, in speaking of “doing Brāhmaṇa,” I gesture towards the productive intellectual work that could be done adapting theoretical models for the use of South Asianists from the field of gender studies, which with great felicity conceptualize and write about fluid negotiations of meaning and identity related to questions of how identity is performed and defined. Over the past several decades, in problematizing our essentialized notions of gender and its normativity, scholars of gender and sexuality approaching their subject from a range of perspectives have counselled exchanging a conceptual model of fixed gender roles for one of performativity and replacing a language of “being x” with a language of “doing x,” such that we now speak not of “being gendered” but instead of “doing gender.” While not denying individual agency, much of gender theory discourse has also reoriented us towards attending as much to the sites and institutional space where, in context-specific ways that often do not cohere together, gender is negotiated and translated. Gender, from this perspective, is not some static “reality” but either made most apparent—or even effectively fashioned—during moments of transactional exchange both within and across socialities. As Candace West and Don Zimmerman have argued in their seminal work, “Doing Gender,” which is largely responsible for initiating initiating such conversations: “Gender depictions are less a consequence of our ‘essential sexual natures’ than interactional portrayals of what we would like to convey about sexual natures, using conventionalized gestures.” Candace West and Don Zimmerman, “Doing Gender,” *Gender and Society* 1, no. 2 (1987): 130. Since its publication in 1987, the conceptual model first offered by “Doing Gender” has sparked a number of interesting critiques and conversations, which have extended this type of thinking to questions of race and, to some extent, class. There is much here indeed from which the scholar of South Asia—whether or not their focus of inquiry relates specifically to issues of gender—would benefit. For a taste of some of these refinements, see Sarah Fenstermaker and Candace West, ed., *Doing Gender, Doing Difference: Inequality, Power, and Institutional Change* (New York: Routledge, 2002).
+
+[^131_91]: As first articulated in the writings of the anthropologist M. Srinivasan in his structuralist ethnographic study, *Religion and Society among the Coorgs of South India*: “The caste system is far from a rigid system in which the position of each component caste is fixed for all time. Movement has always been possible, and especially so in the middle regions of the hierarchy. A low caste was able, in a generation or two, to rise to a higher position in the hierarchy by adopting vegetarianism and teetotalism, and by Sanskritizing its ritual and pantheon. In short, it took over, as far as possible, the customs, rites, and beliefs of the Brahmins, and adoption of the Brahminic way of life by a low caste seems to have been frequent, though theoretically forbidden. This process has been called ‘Sanskritization’ in this book, in preference to ‘Brahminization’, as certain Vēdic rites are confined to the Brahmins and the two other ‘twice-born’ castes.” M. Srinivasan, *Religion and Society among the Coorgs of South India* (Calcutta: Asian Publishing House, 1965), 30.
+
+## Undoing the Binary
+
+The royal road (*rājapath*) in the administrative center of New Delhi connects the India Gate to the palatial Rashtrapatibhavan, which now[^132_92] houses the nation’s president. Designed in the waning days of the British *Rāj* by the exceptionally talented—to say nothing of opinionated— architect Edwin Lutyens, “Luytens’s Delhi” was constructed with the explicit intent of translating into space a transparent message of imperial dominance.[^132_93] In this spirit, the stately but now vacant pavilion that sits behind the India gate once framed a seventy-two-foot-tall image of the British monarch King George V. The original intent was that the royal road would run from George’s feet straight past the gardens into the Durbar Hall. It was in this royal audience chamber that the Viceroy of India would receive visitors on the British king’s behalf. Edwin Lutyens was the son-in-law of the viceroy of India, Robert Bulwer-Lytton, who promulgated the Vernacular Press Act—commencing the censorship of “sedition in the oriental languages.” Quite unlike his theosophically inclined wife, who would become an early promoter of Krishnamurthy, Edwin Lutyens shared many of his father-in-law’s prejudices towards Indian people and Indic culture. It was in such a spirit that during his first visit to the
+[[P132]]
+sub-continent in 1912, in response to the suggestion that his forthcoming commissions for new structures to be built in India should draw upon long standing Indic traditions, Lutyens responded:
+
+> Personally, I do not believe there is any real Indian architecture or any great tradition. . . . And as for the Hindoo tradition, Hindon’t I say. It is not architecture—the best just [the work of] clever children, though I own to some of their detail being beautiful.[^133_94]
+
+While by 1929 his attitudes towards Indic material culture had softened considerably, in designing the center of India’s new capital, Lutyens remained adamant that while the buildings he envisioned might be enlivened by certain decorative motifs—such as elephants and bells—drawn from an Indic visual repertoire, it was vital that the core structural and conceptual elements of the structure remain unambiguously and undilutedly classical and European. To ensure the pedigree of his project, Lutyens expressly forbid the employing of traditional Indian draftsmen in the drawing up of the architectural plans for the new urban center, lest their values inflect or infect the final product. This vision in which the Indic stood as mere after-thought continued to animate the final implementation of Lutyen’s design, with a single but telling exception. For when it came time to crown the Rashtrapatibhavan with a dome, Lutyens’s design offered a visual synthesis deliberately marrying East and West. Succinctly, aesthetic and structural features from the pantheon of Rome, commissioned by the emperor Hadrian in the second century of the Common Era, were combined with elements from the great Buddhist *stūpa* at Sāñcī, inaugurated by the Emperor Asoka in the third century before the Common Era. In other words, when Lutyens reached back into the Indic past in
+[[P133]]
+search of a suitably imperial idiom, he homed in on a visual language representative of a long dead civilization.
+
+[^132_92]: In the inordinate amount of time that elapsed between the composition of this chapter in 2018 and its release, radical transformations within Indian politics have all but obliterated the built landscape under discussion, placing this critique of its ideological excesses in a very different light than was intended.
+
+[^132_93]: On Lutyens and Delhi, see for example Andrew Hopkins and Gavin Stamp, ed., *Lutyens Abroad* (Rome: British School at Rome, 2002), 181–207; Jane Ridley, *The Architect and his Wife: A Life of Edwin Lutyens* (London: Chatto & Windus, 2002).
+
+[^133_94]: While secondary sources seem to disagree about the original source of this remark, which Lutyens appears to have recycled several times, Tristram Hunt, in his lively new history of the contributions of colonialism to urbanization, ascribes Lutyens’s comments to a letter written to Lady Emily in 1912 during Lutyens’s first tour of India. See Tristam Hunt, *Cities of Empire: The British Colonies and the Creation of the Urban World* (New York: Metropolitan Books, 2014), 365.
+
+Rather ironically, given that his government and its successors would become all but synonymous with the place, Pandit Jawaharlal Nehru was not fond of Lutyens’s Delhi, which seemed to speak to him in an ideological vocabulary hostile to the Indian people and anathema to democratic values. At his direction, the durbar hall was for a time denuded of its royalist pretensions through converting it into a museum for Indian antiquities—especially free- standing sandstone sculptures from premodernity—and opening it up to the public. It was only in the 1960’s, in a somewhat delayed spirit of anti-colonial self-reflection and nationalist self- assertion, that the Indian state reimagined this landscape. Almost simultaneously, the statute of King George was removed from the grounds and the durbar resumed its function as an audience hall for receiving foreign dignitaries, not on behalf of an Indian king, but of a democratic polity. So that it could be made to accommodate such pomp and circumstance, the gallery of Indian antiquities housed within the Durbar Hall were removed to the National Museum—again with a single exception. Motivated by some combination of a simple nod to aesthetics and the explicit intent of communicating a message, a single standing image of the historical Buddha Siddhārtha Gautama, crafted from red sandstone in Mathurā in the fifth century of the Common Era, was not merely retained but installed in the most prominent of places. In the space where a king would preside in audience before his people, down into the present day, at the center of Indian government the Buddha still stands watching over the nation.
+[[P134]]
+
+> \[Image: Rashtrapatibhavan, Durbar Hall. R: Detail of Buddha. L: Durbar Hall presided over by Buddha in center.\]
+
+As we will see momentarily, Siddhārtha standing in the halls of government represents a transposition into shared lived space of a conceptual structure integral to how much of the historiography composed in India after Independence imagines and emplots its premodern past in a manner that has palpable consequences for its present. Outside of Himachal, Assam, and Ladakh, we must remember, up until Independence, Buddhism had been a marginal force on the Indian subcontinent for more than half a millennium. In any case, it is vital that we recognize that the Buddha that stands in the Durbar Hall is not in any meaningful sense the historical Siddhārtha Gautama, whether as the teacher of dependent origination, the symbolic focus of transregional monastic *habitus*, or the terrifying lord who dwells in the vaginas of a thousand women. Instead, untethered from these histories, this Buddha is best understood as an act of the modern political imagination.
+
+When such an articulation remains set in such a domain—one that is proscriptive and not descriptive—it is downright uncharitable to begrudge Indian nationalists of various
+[[P135]]
+persuasions for doing what nationalists have been doing for centuries, namely, rummaging around in the past’s attic in search of an internally coherent “native” symbolic vocabulary around which to marshal popular sentiment and affect in the service of specific ends. In his brilliant adaptation and digestion of the work of the Dutch historian Ivo Schöffer, in reference to the Dutch intellectual project in the early sixteenth century of seeking their own roots a thousand years in the past among the barbarian tribe known of as the Batavians that unsuccessfully resisted Roman rule, Simon Schama has written of the strategic use of such quasi-historical elements as providing “a retrospective formulation of criteria for national legitimacy.”[^136_95] As Schama has shown, in resisting the rule of the Holy Roman Emperor after the death of Charles V and asserting in its place a right to localized republican rule, the proto- technocratic, proto-capitalist burghers of the Low Countries in the era before Rembrandt reimagined themselves as the direct lineage descendants of an axe welding, bear skin wearing, tribe of Batavian noble savages and the heirs to their system of governance. Moreover, they did this in spite of the fact that the people in question had effectively ceased to exist by the second century of the Common Era. In fact, the Batavians are only known to us as a result of their failed attempt in 69 CE at resisting oppressive direct Roman Rule, which they claimed was in violation of a longstanding social contract between their people and the *imperium*.
+[[P136]]
+Schama argues that—as absurd as this identification might seem on the surface—what the Dutch sought to locate in this deep imagined past was no mere hoary cultural patrimony. Instead, they cogently sought out structured precedents—almost analogous to case law—that provided at once a justification for their recently undertaken actions as well as a guide for future strategic choices.
+
+[^136_95]: See chapter 2, “Patriotic Scripturalism,” especially pg. 68–80. Simon Schama, *The Embarrassment of Riches: An Interpretation of Dutch Culture in the Golden Age* (New York: Random House, 1988). Schama presents this formulation on page 80.
+
+The reason the work you have in your hands—which is certainly not about Buddhism and largely not concerned with what we typically think of when we speak of modernity—has commenced with this seeming digression on the political imagination and its relation to the question of historicity is that it is my assertion that the Indian nationalist project has returned to the past in a manner that makes not Buddhism—but a certain image of the Buddha—as its own iteration of the Batavians. And just as Dutch held up the Batavians—an imagined community if ever there was one—and against considerable evidence to the contrary offered them as evidence that they were “never really Roman,” the project with which we are concerned none too subtly implies “we were never really ‘Hindu,’” with that contested term standing in anachronistically for a variegated host of civilizational values.
+[[P137]]
+Even if one is not terribly invested in exploring this phenomenon at any length for its own sake, grappling with implications of this choice are a necessity if one’s aim is to exorcise the ghosts of the present in the service of a responsible study of the past on its own terms. As we will see in a moment, to say that the modern Indian state resumes or renews an intellectual genealogy rooted in an imagined *śramaṇa* democratic culture—the so-called world of the *gaṇa-saṅgha*, which is said to have disappeared by the end of the fourth century CE—is tantamount to proclaiming that the social, religious, and discursive formations that are presumed to replace it have no meaningful place within the genealogy of the Indian state. In fact, it carries with it—implicitly as well as explicitly—an emplotment that projects into the discourses of the past the assumption that the values and ideals of the post-*gaṇa-saṅgha* age can be reduced to systematic inversions of proto-democratic norms and principles, choices that result in a withering away of the types of institutional spaces the modern state holds dear. When we read these archives solely in search of identifying and plucking out antecedents—however repellent—of something familiar, the elements we have selected tend to assume an outsize importance and the rest is treated as so much dross. Often, as we shall see, our interest is disproportionate to the rhetorical, conceptual, theological or political work such elements are performing *in situ*. Succinctly, as has gradually become recognized even by its proponents, this mode of historiography simplistically places much of the pre-Islamic history of the subcontinent in direct opposition to the present. Perhaps most pertinently for our purposes, without divesting from this type of domineeringly presentist imagination, it becomes all but impossible to perceive the much neglected Indian medieval—our actual focus of study— as something other than the waiting room of a specific teleology or some awful misbegotten mistake the nation was birthed to emend.
+[[P138]]
+For this reason, the present chapter sets out to execute with some concision a series of discrete but interrelated tasks. We will begin by exploring the historiographical model articulated by Romila Thapar since the nineteen eighties, which treats the Gupta-Vākāṭaka era as “a threshold age” during which Indic society began to divest itself of the representative and proto-rationalist sensibility of *saṅgha* sociality. It is important to note that many of the individual elements that will make up the critique of this deeply influential model on both empirical and theoretical grounds have actually been articulated in the writings of Thapar’s own students as well as, to some degree, compositions by Thapar herself. Nevertheless, outside of the specialist circles of Gupta-Vākāṭaka studies, this model has remained so deeply influential for the emplotting of pre-colonial Indian political and religious history that it must be wrestled with. As we will see, even if we confine ourselves to the familiar evidence in the wider secondary literature, a philologically responsible reading of these archive and an archeologically sound reading of their corresponding material culture complicates any imagined notions of a one-to-one correspondence between particular discursive articulations— what is often crudely labelled “ideology”—and the valorization of specific social structures. Succinctly, not only do we find Buddhists engaged in what is deemed ideologically “Hindu” behavior, but there is scarcely any reason to believe that the iconic quasi- representative institutions identified with the *gaṇa* and *saṅgha* along with the mercantile and speculative cultures they supposedly fostered suffered decline with the advent of “Hindu” rule.
+[[P139]]
+In fact, as we shall explore more fully in chapter 2, any periodization of community representation and guild systems as superseded by the royal rule of a newly exploitative state runs aground of the persistent, even much expanded, attention to such institutions present within the Sanskrit traditions of Dharmaśāstra well into the thirteenth century. That such concerns are no mere scholastic affectation but correspond to the situation “on-the-ground” throughout the subcontinent is rendered unmistakable by the continued proliferation of these same terms of art, often accompanied by elucidative descriptions of the specific quotidian matters that fall under their purview in medieval documentary records preserved in a multitude of languages. In a similar spirit, the evidence for “economic decline” occurring in tandem with monarchical rule is much overblown. Far from valorizing classical civilization or defending the ethics of a Hindu golden age, the intention here is simply to show that our “hypertropically presentist intellectual agendas” aligns poorly with a historical record that, invested in its own decidedly premodern worldview, is largely uninterested in answering any of the questions we incessantly keep asking of it.
+[[P140]]
+From critical reflection on historiography, at long last, we will then turn to some the texts themselves. Attending to the “Brāhmaṇical” discourse “on the threshold,” we will query our sources in regard to their own understandings concerning the nature of social reality—or what we might call “social theory.” In particular, by looking at the writings of Skandasvāmin, the oldest surviving commentator on the Vedas, Śabara and Kumārila, those storied Pūrva Mīmāṃsaka articulators of orthopraxy, and the seemingly heterodox yet nonetheless resolutely “Brāhmaṇa,” Pāśupata theologian Kauṇḍinya, we will encounter at least the on the surface an astounding degree of heterogeneity at the very moment when “Brāhmaṇism” is supposedly consolidating its post-Vedic identity.
+
+Quite simply, we will find that, on the surface, what it comes to understanding the nature of reality, the role of texts, and what constitutes a human higher good, these people agree about very little. It is thus all the more significant that a major point of convergence is in their shared understanding of nascent theory of the social world grounded in quotidian institutions, a realm that in Skandasvāmin’s words is governed “by an unending transactionality.” In violation of the normative assumptions that govern so much of our literature, this Indic conceptualization of the social is inflected by—but by no means reducible to—questions of caste and the ideology of *varṇāśramadharma*, which seems instead to operate as a second order mechanism governing the distribution of social goods as well as social worth.
+[[P141]]
+Our somewhat cursory introduction to these historiographically driven conundrums as well as an initial recovery of some of the decidedly more constructive emic formulations of sociality as they operate in the context of classical South Asian religion and society will lay a foundation essential to the process of discovery that animates the coming chapters. There, we will look in more detail at the social role of quotidian textuality, especially in its relation to law, the juridical foundations of epistemic and religious diversity, the way early medieval values are conveyed by the material culture, the life-world of the people who managed and quite literally built such institutions, something of the history of their development and of the precise circumstances under which this *episteme* was deliberately dismantled.
+
+## The Past is Not Precedent: “Secular” Snakes or “Secular” Mongooses?
+
+Compiling talks delivered over the course of several decades that offer a laudable defense of the liberal democratic Indian state against the forces of communalism, in *Indian Society and the Secular*, the renowned Indian historian Romila Thapar returns to the research program with which she began her career in search of explicit lessons that the Indian past might bestow on the Indian present.[^141_97] In *From Lineage to State: Social Formations in the Mid-First Millennium B.C. in the Ganga Valley*, Thapar had offered a groundbreaking account of the process of early
+[[P142]]
+urbanization in North India that for decades of Indian students of history and social sciences has become as familiar as catechism.[^142_98] Against an earlier nationalist perspective that anachronistically projected sophisticated social formations into the deep past, Thapar stressed the discontinuity between the insular hereditary patterns of knowledge and property transmission in the Vedic world and the nascent cosmopolitan logic of pre-classical *janapada* territories. Otherwise closely aligned with the structural anthropology of the day, Thapar’s narrative culminates, on the one hand, with the displacement of the ancient India representative republic—the *gaṇasaṅgharājya*—in which the king was purportedly an employee of the state, by the classical model of divinely mandated Indian kingship exemplified by the imperial Guptas, and on the other, by the replacement of a society centered upon the householder (*gahapati/gṛhapati*)—which she incongruously associates with *śramaṇa* traditions—to one centered upon the landowner. While in her earlier work the relevance of this emplotment to the political arena in the twentieth century is understated, in the addresses that make up *Indian Society and the Secular*, the descriptive and presentist nature of this model is rendered transparent.[^142_99]
+
+> As far back as 500 BC emerging kingdoms in the Ganga plain began to supersede the clans, and the beginnings of urbanisation brought further changes. There was at this time a strong endorsement of social ethics. Buddhist thought maintained that ethical behavior was socially determined and did not derive from the deity, a clear separation of ethics from religion. The centrality of social ethics is a significant part of our cultural inheritance.
+
+From Thapar’s perspective, which seems to be in many ways more aligned with the more capacious French language discourses on *laïcité* than it is with the Anglo-American tradition of the separation of church and state, promoting a secular understanding of the world
+[[P143]]
+entails not only promulgating a world order within which religious institutions have no coercive pull over social practices but also a conceptual framework in which religious concerns are shown to have no causal or explanatory power in regard to the larger world, except in the circumscribed realm of personal subjectivity and belief. While, in her treatments of Brāhmaṇical thought, “Hindu philosophy” is distilled down to a series of explanations that the world works the way it does because of the will of god and therefore rational inquiry into the beliefs and values that underlie the natural world as well as social praxis is to be abjured, *śramaṇa* thinkers, we are told, rejected such “conservative views” in favor of nascent rational skepticism.
+
+> The debates were sharp and contentious, the Buddha describing some participants as wriggling like eels around an argument, quibbling over the finer points. Logic was the lamp of learning. They held that the universe is self-created, and according to some its source is the combining of the four elements—earth, air, fire and water. These elements also create the body with its tangible proof of life, which gets terminated at death. There is no immortality, no soul, and everything dies at death.
+> They argued further that evidence can come only from perception and from defining a cause, and not from inference—smoke can only be identified if a fire can be perceived. Knowledge comes from the perceptions of bodily sense organs. One should rely on evidence, causation, and rationality, and not on Fate or supposed divine sanction. Rituals are invented by brahmans just to earn a living. Caste is an artificial creation and is not divinely ordained. Laws are also man-made and can be changed. . . . The Buddhists and Jains propagated the establishing of social ethics as the mainspring of human behavior, whereby the laws and values of society should relate to how one treat’s one fellow human beings. . . . These ideas were constantly debated. They were clearly in opposition to Vedic Brahmanism, and to the later Puranic Hinduism.[^143_100]
+
+Elsewhere, Thapar offers even more pointed observations:[^144_101]
+
+> Secularism adopts a code of social ethics that challenges the acceptance of inequalities, where these are proposed by religious ideologies. Rights have to be sought after and established through codes and practices, and they have to be backed by a philosophy. . . which does not require recourse to divine intervention or formal religious institutions. There is an element of what might be called proto-secularism available from earlier traditions, should contemporary Indians wish to draw on it. . . . Drawing from the past
+[[P144]]
+> has the potential to assist in the secularizing of society without creating a complete disjuncture with what is regarded as tradition.
+
+While the identification of the secular state as operating primarily as an agent for challenging inequalities seems itself anachronistically divorced from the realities of the global neo-liberal state, there is nothing at all ambiguous about the binary that Thapar is intent upon fostering. A focus on secular humanitarian ethics, as well as advocacy for a desacralized representative state, and the championing of rationalist inquiry—often arriving at materialist conclusions—represent the contribution made by “earlier traditions”—most prominently, Buddhism—to the ideology of modern Indian society. As for “Brāhmaṇism’s” purported patrimony to the nation, that is largely reducible to an almost anti-ethical “acceptance of inequalities” that are “proposed by religious ideologies”—in short, a vision of the social contract defined entirely in terms of its points of deviation from the norms of the modern state.
+
+> In India, social organization took the form of a caste structure, and this was continued to the present day. The theory of the system is contained in the idea of *varṇa*. The four *varṇas* are first mentioned in a hymn of the *Ṛg Veda* as emerging from the sacrifice of a primeval man. . . . \[Caste\] has to do with the social and economic status, the nature of power, and the question of purity and pollution. . . . *Varṇa* appears to have represented the theory of the structure and may best be translated by the word “group”. *Jāti* relationships represent the actual way in which society functioned. . . . *Varṇa* became what sociologists have called ‘the ritual rank’, whereas *jāti* was the indication of the actual status.[^144_102]
+
+Now only a fool, or an ideologue, would be inclined to deny either the existence of caste—of *varṇa* and *jāti* as social realities as well as conceptual categories—or its stubborn persistence throughout Indian history.[^145_103] What is more questionable, however is what—if
+[[P145]]
+anything—we gain analytically from treating this as a continuous “system,” with *varṇa* serving as what amounts to an emic approach to social theory. From Thapar’s perspective, the utility of such a model is quite clear, for it establishes two clear lines of descent for discrete conceptualizations of the social corresponding to the defenders and opponents of the Nehruvian state. Proto-secular ideals—just as in Lutyens’s dome—thus themselves represent a neutral and potentially unifying conceptual substratum obscured by the dominance of “Brāhmaṇism” and its social forms. Prior to the arrival of Islam, Indian history then becomes the field within which these two opposing forces, Brāhmaṇa and *śramaṇa*—snake and mongoose—have battled for control over what constitutes institutional and social normativity.[^146_104] Whatever their ideological usefulness and social benefit, however, this type of
+[[P146]]
+programmatic emplotment bears little relation with what emerges from a close reading of the documentary and prescriptive record. Not only does the correlation between modern political ideals, enlightenment rationality, and humanist ethics and their supposed premodern analogues usually prove either specious or evident in both imagined camps, but our sources present us with a story—on the part of both parties—that is often about contestation over the inscription, appropriation, and re-appropriation of the same lexical items and conceptual frames—be they *dharma*, Brāhmaṇa, or *duḥkha*—within a shared adherence to similar or identical social forms that are neither recognizably Hindu or *nāstika* but unmistakably Indic.
+
+As we will see momentarily, more than two hundred years of reflection on caste as a social form and *varṇa* as its “ideology”—much of it of exceptional quality and insight—has come at the expense of all but the most cursory engagement with other, often complementary, emic reflections on the nature of the dynamics that govern social reality that have consistently travelled within the same discursive spaces. These discussions take as their point of focus not the delineation of idealized social hierarchies but rather something akin to the epistemological and institutional basis for the mechanics of cultural reproduction. Our sources offer us contestations around a series of questions—what is the relationship between social identity and more capacious delineations of the human? To what degree are social identities acquirable things? To what degree are they innate and immutable? What is the mechanism for inculcating a way of being in the world linked to a specific location in the social world and what safeguards are in place or should be in place that ensure minimal disruptions of longstanding social hierarchies?
+[[P147]]
+The discussions engendered by these questions are very much in dialogue with the social forms of caste and the institutions that perpetuate it, but they unfold in a manner that may strike many readers as rather unfamiliar, indeed jarringly at odds with our image of South Asia as a place where, as Sheldon Pollock once argued, theory most often precedes and even sublimates praxis. Instead, what one finds, in the most elevated of theological and intellectual domains, is the consistent pairing of the expected approach of *śāstra*—meta-scholastic reflection and arcane epistemology—with an unmistakably quotidian language and logic that is distinctly related to a particularized transactional social world centered around concrete institutions and their “best practices” as well as commercial exchange. More than a matter of mere anecdotes, such discussions amount to a nascent approach to social theory—albeit one that is never codified into a specific genre—that steadily informs intellectual and theological argumentation in substantive and unrecognized ways. As we shall see as this chapter draws to a close, perhaps nowhere is this made clearer than in regard to the anxiety and ennui shared by a range of classical thinkers, writing within or just after Thapar’s threshold times, regarding both the mutability of caste identity and the transactionality of the social world. Far from representing the theoretical dimension of the social framework itself, within such discussions, *varṇa* emerges as a second order mechanism—one among many—governing the patterns of distribution of resources, rights, and cultural capital.
+
+To query our sources in this manner is not, to be clear, a denial of the significance of questions pertaining to ritual rank and matters of purity in the history of Indic thought. It is rather, a recognition, as Sumit Guha has observed, in engaging with writings of the Islamic legal historian Marion Katz, that the function of “the law of purity \[that\] also defines community boundaries \[though especially prominent in specific sociological domains\] ‘is
+[[P148]]
+always one of the meanings of the law’”—which is to say that complex premodern systems of value and the prescriptive formations that help make those values “real” and actualizable are not easily reducible to singular instrumentalist functions, particularly ones that perfectly align with familiar forms expected by inhabitants of a modern secular society.[^148_105] As Guha himself has masterfully argued in *Beyond Caste: Identity and Power in South Asia*, *past and present*, a work that though largely early modern and colonial in its historical focus and “secular” in its disinterest in the discourses we define as religious, looms large in the conceptual imagination that informs the present work, though such “purity markers were especially elaborate in South Asia. . . it is a mistake to focus on the markers of social boundaries and ignore the powers that enforced them.”[^148_106] It is in this spirit that Guha advocates that historical sociology in South Asia “start from the common form of caste and caste-like bodies—their bounded corporate character”[^148_107] and attend to the precise internal regulatory mechanisms that made them function as well as specific techniques that were constitutive of the discourses they produced and perpetuated. We will explore such matters in considerable detail in the coming chapters, for they form the essential foundation of a historically responsible recovery of medieval religious Indic life within the various institutions in which it was enacted.
+
+[^141_97]: Romila Thapar, *Indian Society and the Secular* (New Delhi: Three Essays Collective, 2016). Our focus is on the first third of the text, which reprints a series of addresses, “The Role of Religion in Political Conflicts,” given at Uppsala in March 1995, “Indian Society and the Secular” at Jamia Millia Islamia in August 2015, “Redefining the Secular Mode for India” at the Mayday Café in September 2012, as well as the essay “Is Secularism Alien to Indian Civilization,” reprinted from T. Srinivasan, *The Future of Secularism* (Delhi: Oxford University Press, 2007). All of these works, in other words, involve Thapar speaking to broader audiences in the mode of popularizing public intellectual as opposed to specialist academic. The varied contexts of their delivery, however, including venues not part of the world of the South Asian Academy, are indicative of the fact that their author sees herself as presenting a conceptual and ideological framework she personally finds valuable as opposed to deploying a heuristic pedagogical tactic that serves the particular needs of the Indian undergraduate and graduate student body.
+
+[^142_98]: Romila Thapar, *From Lineage to State: Social Formations in the Mid-First Millennium B.C. in the Ganga Valley* (Delhi: Oxford University Press, 1984).
+
+[^142_99]: Thapar, *Indian Society and the Secular*, 122.
+
+[^143_100]: Thapar, *Indian Society and the Secular*, 56–57.
+
+[^144_101]: Thapar, *Indian Society and the Secular*, 93.
+
+[^144_102]: Romila Thapar, *The Past and Prejudice* (Delhi: National Book Trust, 2007), 28–30. This book offers minor revisions of a series of lectures delivered on All India Radio on three consecutive days in 1972.
+
+[^145_103]: It is vital here that we distinguish between two radically distinctive intellectual moves in the meta-discourse on caste, one of which is of profound intellectual value and the other which deploys a philosophical sleight of hand in the service of precisely the sort of obfuscatory reactionary political project that Thapar so rightly and bravely has spent a lifetime confronting. Quite simply, it is one thing, in the context of historical and sociological inquiry, to argue that our working conceptualization of “caste” as *themat*a and its social impact have been heavily impacted by the colonial encounter as well as the concomitant erasure of a social form centered around personal and community relations with a Hindu monarch and his court, positions elegantly and in many ways quite convincingly articulated by Nicholas Dirks and Susan Bayly. In similar spirit, as Fukuzawa has masterfully demonstrated, one might also conclude that “caste’s” now all but iconic essentialization in terms of rigid hierarchies has much to do with the post-seventeenth-century political project of the Peshwa State, which set out to reify what were previously more fluid and multifaceted patterns of context inflected social relations. Whether we accept such models or subject them to further critique, in all three of these cases the positions in question emerge out of a sustained engagement with extensive and until that time utterly neglected spatially and historically specific archives containing materials in both Indic and European languages and reflective of broad spectrum of points of view. In other words, these intellectual products have an empirical foundation that subsequent scholarship is free to return to with renewed, divergent, and critical interest. In contrast, the “intellectual project” of Balagangadhara and his disciples, most notably Jakob De Roover, to remove any consideration of caste from the study of South Asia on the grounds that the notion is a “Western invention,” is founded on the deliberate conflation of the absence from emic discourse of a singular unifying term, like the Portuguese “casta,” used in describing a collection of logically interrelated social forms with the overt denial that the phenomena that the term “casta” has synthetically grouped together themselves had any social reality prior to the colonial encounter. Even more problematically, this largely Ghent based thought collective further asserts that the underlying social forms that organized pre-colonial South Asia cannot possibly be the subject for further, more careful academic analysis because all of the conceptual tools one might use to think about these forms, starting with ideas of “hierarchy” and “conflict,” are irredeemably Western in their origin and Christian theological in their conceptual content. Under the guise of promoting a dialogical engagement with emic conceptual frameworks, in and of itself a worthy task that will be undertaken throughout the present work, this mode of scholarship replaces an account of the non-Western past overdetermined by the concerns of Western historiographies with the past as an enigmatic and innocent blank screen onto which the apologetics and prejudgments of the contemporary Indian public can be readily projected.
+
+[^146_104]: Emerging from a primarily Buddhological setting, Nathan McGovern’s recent monograph *The Snake and the Mongoose: The Emergence of Identity in Early Indian Religion*, opens with a masterful historicization of this trope that convincingly demolishes its typical invocation as proof-texting the supposed perennial nature of this imagined binary of Brāhmaṇa and *śramaṇa* as bitter enemies. McGovern’s core argument, with which we will engage momentarily, has had profound influence on the positions taken in the present chapter. Nathan McGovern, *The Snake and the Mongoose: The Emergence of Identity in Early Indian Religion* (New York: Oxford University Press, 2018).
+
+[^148_105]: Sumit Guha, *Beyond Caste: Identity and Power in South Asia, Past and Present* (Leiden: Brill, 2013), 2. Marion Katz, *Body of Text: The Emergence of the Sunni Law of Ritual Purity* (Albany, NY: SUNY Press, 2002), 205.
+
+[^148_106]: Guha, *Beyond Caste*, 2–3.
+
+[^148_107]: Guha, *Beyond Caste*, 2.
+
+Now as it so happens, one of the most prominent appearances of these kind of “caste- like bodies” with “their bounded corporate character” in our documentary record that comes accompanied with some specific discussion of the internal regulatory mechanisms that made them function is precisely the style of governmentality enacted by the “corporate body”—the *gaṇasaṅgharājya* itself—that “Brāhmaṇical” royal rule is supposed to have supplanted. Ironically, perhaps the most infamous locus of ascription for this formulation in the documentary record occurs precisely at that moment of its alleged defeat with the rise of the Imperial Guptas. In telling this story, Indian historiography typically singles out one single portion of a single text, the Allahabad inscription of Samudragupta (ca. 335/40–375/80), the first Gupta king of consequence. Thus, for example, as Ashish Kumar has recently written about these passages:
+[[P149]]
+
+> The Allahabad pillar inscription of Samudragupta. . . claims that among other feats of his all forest kings (*āṭavika-rājas*) were reduced to the status of servants (*parīcārakīkṛta*) and frontier rulers (*pratyanta-nṛpati*) and the \[heads of\] the *gaṇasaṅghas*. . . were made to pay tribute (*kara*), obey his orders, visit the royal court for obeisance (*praṇāmāgamana*) and execute royal orders. . . . It would seem that the direct intervention of the Guptas stimulated the transformation of the political *gaṇa- saṅghas* into monarchies. . . . The Allahbad pillar inscription mentions the name Sanakānīka along with the names of *gaṇasaṅghas* such as Mālava, Ārjunanāyana, and Yaudheya. Sanakānīka therefore was a *gaṇa-saṅgha*,* which had accepted the Gupta authority. In the Udayagiri cave inscription of Candragupta II, Sankānīka Mahārāja. . . is mentioned as the grandson of Mahārāja Chagalaga and the son of Mahārāja Viṣṇudāsa. The designation Sanakānīka Mahārāja clearly shows that the Sanakānīka *gaṇa-saṅgha* had been transformed into a monarchy by the time of Candragupta II.[^150_108]
+
+Read through the lens of the present, Samudragupta’s political agenda—clearing out and subordinating the tribals paired with the disempowering of proto-democratic social
+[[P150]]
+formations—offers a charter myth of “the imagined best practices” of the “Brāhmaṇical” state. When one turns to the inscription itself however, this transparent narrative runs aground of the rather pertinent and startling fact that nowhere does the inscription in question ever mention the “*gaṇasaṅgharājya*.” In fact, it does not identify the political rivals of Samudragupta with any specific value systems whatsoever and still less does it frame their conflict in conceptual or ideological terms. Rather conspicuously, and this is true for many of the Gupta inscriptions, it is decidedly uninterested in questions of caste or *varṇa*, which is nowhere in our text used to legitimate royal rule. Instead, the Allahbad inscription’s imaginary in these passages is purely spatial and geographical. Its rhetorical focus is just as invested in the celebration of Samudragupta’s magnanimity to his defeated rival as it is in an exaltation of his disciplinary and military power and prowess.
+
+Even the material dimension of the inscription itself as positioned in relation to its surrounding environment offers us a similarly ambiguous story. Samudragupta’s inscription was engraved on the same *stela* that records eight discrete inscriptions from the Mauryan King Aśoka—perhaps the most famous patron in the history of Buddhism. It is quite significant that Samudragupta has directed the engraver to record his message directly beneath the Aśokan inscription without in any way impacting its legibility. His decision in this matter stands in contrast to that of his direct contemporary, the Vākāṭaka King Rudrasena. While also inserted onto an Aśokan pillar, Rudrasena’s inscription—celebrating the virtues of animal sacrifice— is executed in tandem with converting the material object of the upright Aśokan pillar into a horizontal platform for carrying out animal sacrifice, and thus plausibly represents a deliberate debasement and repudiation of the message of the original. While in the absence of further evidence such reflections represent mere speculation, at the very least, when it comes to the
+[[P151]]
+Allahbad inscription, there is just as much evidence on hand to read Samudragupta’s respectful reuse of this material object as communicating a message of continuity with a past which we might label non-Brāhmaṇical— as opposed to offering a self-conscious break from its norms.
+
+Furthermore, even if we accept that the political entities labelled Mālava, Ārjunanāyana, and Yaudheya—the latter two apparently representing communities from whose ranks were drawn many of the military commanders that dominated the Mauryan army—were all during the rise of the Guptas still being administered as *gaṇasaṅghas*, contrary to Ashish Kumar’s hypothesis, the documentary record is still ambiguous as to whether— besides paying tribute—the social forms in these societies really do undergo irrevocable transformations under the Guptas, for the sole evidence provided is a fragmentary record at Udayagiri near Vidiśa that simply informs us that Sanakānīkasya Mahārā \[presumably *rājan*] who attends to the feet of King Candragupta (*śrīchandraguptapādānuddhātasya*) made a philanthropic donation of an undisclosed nature. Intriguingly, our text’s term for philanthropic donation—*deyadharma*—is itself a term typically akin to what we find in the Prakrit sources and is usually assigned to a Buddhist imaginary. For Sanakānīka to be a personal name would be grammatically bizarre,[^152_109] so it is more plausible it refers to an otherwise unattested community. As Thapar herself has noted in other contexts, in earlier sources freed from other strong indications of a royal paradigm, titles like *rājan* often only mark authoritativeness and do not actually designate a king. In fact, as anyone who has travelled in either the northern Deccan, where Vidiśa is located, or its southern reaches might be inclined to recognize, even today the title *mahārāj* in a range of languages serves as a typical honorific as opposed to a fixed title. It is applied to a range of types of otherwise illegible high-status figures—from
+[[P152]]
+*sants* and *yogins*, to local big men, even—much to my embarrassment—both playfully and earnestly, to myself, all without in any way implying a contracted association characterized by social dependency. In the absence of strong evidence additional—again, we have none—it is equally plausible that the title *mahārāja* as applied “to the one who belongs to the Sanakānīkas” represents either an inherited scribal convention for identifying a high status donor or is the sort of social moniker other people would apply to big men and other “special people” so as to render their position in the social hierarchy legible at the court.
+
+Some circumstantial support for such a conjecture—that the evidence on the ground for simple transition in social form is weak indeed—is provided by an inscription found at Mandasaur, for it in fact speaks of the authorities in Mālava calculating the date according to the standard established by a *gaṇa* (*mālavānāṃ gaṇasthityā*) more than a hundred years after this social institution supposedly vanished in the region.[^152_110] Though the inscription again speaks ambiguously in passing of localized Mahārājas, its main focus suggests substantial continuities with older social form, for it records in great detail the efforts of the exceptionally learned and devout descendants of emigre Gujarati artisans (*śilpin*)—many of whom were weavers—to renovate their temple using community resources. As A. L. Basham, in offering his own detailed analysis of our text has observed, the inscription is composed in a high poetic idiom that freely plagiarizes from the “description of Ujjayinī in Kālidāsa’s *Meghadhūta*”—indeed it is our earliest reception history of his poetry.[^153_111] This is all the more astounding as it was commissioned by the collectivity (*śreṇī*) of weavers—a caste identity usually assumed to be
+[[P153]]
+rather low in status—themselves, who, we were told, were honored by kings as if they were his own sons (*nṛpatibhis sutavat \[sic\]*) while, rejoicing, they dwelt in their own city (*nyasyanta pure*). Again evoking a sociality that transgresses our normative expectations of immutable hierarchy and fixed professions, we learn that while some (*kecit*) of their descendants persisted in excelling at their hereditary occupation (*svakarmmanyādhikās*) others (*anyair*) became astrologers (*jyotiṣam*), knowers of the self (*ātmavadbhih*), master archers (*dhānurvvaidyaṃ*), tellers of elaborate tales (*vichittrakathāvidaḥ*) and ones who, upholding proper comportment (*vinaya*), recited or instructed regarding the nature of *dharma*.
+
+In short, within a few generations, emigre artisans—dwelling equidistant between Ujjain and Udaipur—had come to occupy social and occupational niches operating virtually across the entire spectrum of *varṇa*-specific roles. Independent of their occupation, however, the *śilpins* at Mandasaur are represented as adopting a comportment—speaking truth, restraining the senses, assisting other living beings, cultivating a heart that is at once compassionate and resolute—instantly recognizable as belonging to religious authorities in general and revered ascetics in particular. One additional appellation, especially, which seems to depict our artisans as if they were “the undying ones”—the gods—on a journey in the world (*lokayātrāmaraiḥ*)[^154_112] seem also to be suggesting their equation with “the gods on the earth”— in other words, with Brāhmaṇas.
+[[P154]]
+Now this particular social dynamic of a single community ostentatiously appropriating for itself all manners of authority is very likely quite specific to the world of *śilpins*—artisans of all sorts—and their special cities, a topic that we will explore in considerable detail in chapter 6. For our present purposes, what is more important is this inscription presents us with a concrete example of collective action taken by a “corporate unit”—called *gaṇa* or *śreṇī*— that is made up of internally diverse social agents with a range of priorities. Unlike the Buddhist *saṅgha*, the *śreṇi* at Mandasaur was not comprised of a class of professional religious adepts whose vows would have entailed some degree of obedience to their superiors within a clearly established ecclesiastical hierarchy. Nevertheless, the inscription makes quite clear that the construction and renovation of this temple to the god of the Sun was undertaken, not by any individual big man, as is usually the case in our inscriptional record, but based on the singular and unitary command issued by a guild (*śreṇyādeśena*). Indeed, while our inscription delineates a range of discrete social functions executed by these weavers and former weavers, at no point does it ever offer us any personal names or particularized descriptions of social agents. The only proper subject is the guild itself which, through its incorporation (*śreṇībhūta*) makes use of conglomeration of the wealth of the community (*dhanasamudaya*) in the service of building an incomparable temple to the god of the Sun. In short, what we have here is a glimpse of the type of “representative” decision-making process, being enacted by theistic sun worshippers one might somewhat anachronistically label Hindu, constitutive of the mode of governmentality that Gupta style kingship is supposed to have replaced.
+
+Now, as anyone who has attempted to forge a consensus among a wide variety of people with their own agendas is all too painfully aware—especially when this requires each person putting something of their own skin in the game—agreement often does not arrive spontaneously of its own accord but has to be manufactured or even coerced. Independent of the institutionalization of other values and checks and balances, even the use of ballots in decision-making is not really indicative of anything like democratic values and indeed most collective agreements are hardly representative of anything but the dominant perspective.
+[[P155]]
+While our archives do not seem to preserve early accounts of the procedural approach to collective decision-making specific to the type of collective formation we have just been exploring, as Daniel Stuart, whose analysis is reproduced below, has brilliantly shown, *gaṇasaṅgharājya* as a mode of governmentality designed to manufacture consent is outlined in painstaking detail in the different transmissions of the Buddhist *Vinaya* codes. Taking as his focus “procedures for conflict resolution involving a majority vote (*yadbhūyaiṣīya*),” Stuart offers a gentle critique of Steve Collins’s already measured consideration of whether, given the existence of decision-making processes where wooden sticks were used as individual ballots, we can meaningfully speak of democracy within the Buddhist *saṅgha*, albeit one concerned not with the securing of individual rights but rather in the service of “achieving harmony and unanimity between monks.” As Stuart observes, after examining both narrative representations of instances where a majority vote is to be conducted found in the Pali Canon, and prescriptive accounts from the *vinaya*, in most of the sources, voting is understood as a last resort and its result is preordained, for only the position that aligns to “dharma” is ever allowed to win. In fact, “monks intent on separate aims” that diverge from the mainstream view of the *saṅgha* are represented as not merely misguided, but deliberately and actively malicious, for they attempt to disrupt a preexisting harmony of views within the community. According to the Mūlasarvāstivāda’s *Adhikaraṇavastu*, for example, it is only when such
+[[P156]]
+people arise and begin to organize that the vote is to be undertaken, and its express purpose is to make a public display of their marginality and to shame them. Under such circumstances, a facilitator for the vote is to be appointed by the community, whose primary purpose is not to be an impartial observer, but rather to discern the likely outcome of the vote and then to choose appropriate tactics designed to ensure that a particular—*dharmic*—outcome results.
+
+As Stuart shows us in considerable detail, the Theravada *Samathakkhandhaka’s* description of the origin of the practice of voting makes it rather apparent just how far we are from something recognizable as democracy. In this extended tale, purportedly from the time of the Buddha, which plays preface to a delineation of voting procedure, a certain group of monks, displeased by a particular decision arrived at by their community of monks, seek out in turn a council of many elders, and a different council comprised of three of elders, with the aim of overturning the decision. Only when the case has been decided three times with exactly the same undesirable outcome do they consult the Buddha, who then teaches them the three methods of voting—secret voting, ear-whispered voting, and public voting—designed to ensure *dharma* prevails. What the Buddha then prescribes is effectively three approaches to rigging the vote. For in the case of secret voting, the results are announced only if the arbiter notices that more *dharmic* ballots have been taken than *adharmic* ballots; in the case of whispering, the arbiter himself has spoken to each of the people to record their vote and can accurately tally what point of view will triumph; and in the final case of a public vote, the vote outcome is only to be declared if the right side has won. The Mahāsāṅghikavinaya’s even more elaborate description—so rich in particularized detail in its representation—should be enough to persuade even the most idealistic reader harboring a romantic view of ancient Buddhist—or general Indian—republican democracy that his investment in such notions is misguided:
+[[P157]]
+
+> Having been appointed, that monk makes voting sticks of two colors, one black and one white. He should not announce: “He who is a proponent of the *adharma* takes the black stick. He who is a proponent of the *dharma* takes the white stick.” He should \[instead\] announce thus: “He who holds this view should take the black stick. He who holds this view should take the white stick.” While the vote distributor is distributing the sticks, he should establish his mind in five *dharmas* inwardly and then distribute them. He should not support the *adharma* faction but should support the *dharma* faction. Upon completion of the distribution of voting sticks, he counts them, and if the *adharma* votes are even just one in the majority, he should not announce that “the *adharma* proponents are in the majority and the *dharma* proponents are in the minority.”
+>
+> He should make a distraction. . . dismissing \[the assembly\] from their seats. If the time for the early meal is near, he should announce: “Now is the early meal.” If it is time for the later meal, he should announce: “Now is the later meal.” If it is bathing time, he should announce: “Now is bath \[time\].” If the time for teaching the *dharma* is nearing, he should announce: “Now the time for the teaching of *dharma* has arrived.” If the time for teaching the discipline is nearing, he should announce: “Now the time for the teaching of the discipline has arrived.”
+>
+> It might happen that the proponents of *adharma* say: “We have won. Because of us, he has dismissed \[the assembly\] from their seats. We will not rise. We must, during this very sitting, settle the litigation.” Then at that time, in a small building-free of insects— on the edge of the monastery grounds, one should have a layman kindle a fire and proclaim: “Fire! Fire! Now disperse and extinguish the fire!” There being monks who are proponents of *dharma* in a nearby monastery, one should go there and summon them: “Elders, in the process of taking a vote, the *adharma* proponents are in the majority and the *dharma* proponents are in the minority. Elders, for the sake of the *dharma* you should go there. You should bring about a majority vote in favor of the *dharma* so that the Buddha, the *dharma*, and the community of monks flourish, and so that you yourself develop merits.” If, when they hear this, they don't come, they are guilty of a transgression.
+>
+> Once they have come, the voting sticks should be distributed and counted. If the white sticks are \[only\] in the majority by one, one should not announce: “Majority by one.” \[Rather,\] one should announce: “Those who hold this view are in the majority. Those who hold this \[other\] view are in the minority.”
+
+As Stuart concludes:
+[[P158]]
+
+> The performative mode of voting with a singular engineered outcome prescribed here—not to mention the fairly extreme measures that could theoretically be taken to bring about such an outcome—reveal enough. It seems that, by the time of the early centuries of the Common Era or possibly earlier, the community vote to settle litigation was primarily concerned with shoring up a unified front that conformed with norms as represented in doctrinal and disciplinary texts attributed to the Buddha. The vote was not for the sake of settling disputes with a view to representing an unmediated majority view, and it probably never was.[^159_116]
+
+Reading the *saṅgha*—and the “secular” *gaṇasaṅgha*, whose administrative models the early *śramaṇa* movements were modelling themselves after—in this light, as one among many coercive elite social bodies whose disciplinary procedures are not very different in substance from those deployed by a caste council, helps us to set aside for a moment our preconceived notions and our ethical and political investments in promoting certain modern social forms and agendas and recognize that, however laudable, they are largely irrelevant to the study of the premodern non-Western world and largely unhelpful if our aim is to understand it on some semblance of its own terms. Quite simply, if our choice is between advocating for an oligarchy that fixes the votes and an autocrat who divides his time between the battlefield and more pleasurable occupations, our personal stakes become very low as for interpreters of most ideological persuasions, we have no real investment in championing either perspective. Once producing either polemic or apologetics—and most of the scholarship that covers this terrain and that is not purely documentary in its orientation does either one or the other—is rendered basically unwarranted, the many striking conceptual continuities that at least by the time of the Guptas are operative between these two domains, as well as the often irreducible and unrecognizable heterogeneity that exists just as much within a reified category like “Brāhmaṇical” tradition as it does within the Buddhist *saṅgha*, are brought out into the open.
+
+[^150_108]: Ashish Kumar, “Subordinate Rulers under the Gupta Monarchs: Political Integration and State Formation in Central and Eastern India,” in *State, Power, and Legitimacy: The Gupta Kingdom*, ed. Kunal Chakrabarti and Kanad Sinha, (Delhi: Primus Books, 2018), 614–15. See the full volume for a representative sampling of the historiography on the Guptas from the past hundred years. For more recent work on the Gupta-Vākāṭaka age, especially informed by archaeological breakthroughs, see especially Michael Willis, *The Archaeology of Hindu Ritual: Temples and the Establishment of the Gods* (New York: Cambridge University Press, 2009); Michael Willis, “Later Gupta History: Inscriptions, Coins, and Historical Ideology,” *Journal of the Royal Asiatic Society of Great Britain and Ireland* 15 (2015): 131–150. Hans Bakker’s extensive publication record, especially his studies of the inscriptional record associated with Prabhāvatī Gupta, offer us particularly vivid alternative reconstructions of Gupta power politics and sociality. See for example Hans Bakker, “A Theatre of Broken Dreams Vidisha in the Days of Gupta Hegemony” in *Interrogating History: Essays for Hermann Kulke*, ed. Marti Brandtner and Shishir Kumar Panda (New Delhi: Manohar, 2006), 165–187; Hans Bakker, *Mansar. The Discovery of Pravareśvara and Pravarapura, Temple and Residence of the Vākāṭaka King Pravarasena II*. (Groningen: Library of the University of Groningen, 2008). http://irs.ub.rug.nl/dbi/4ccec5f085aa0. Hans Bakker, *The Vākāṭaka Heritage: Indian Culture at the Crossroads*, ed. Hans Bakker (Groningen: Egbert Forsten, 2004).
+
+[^152_109]: Though the observation is seemingly self-evident, all too often secondary literature on the Guptas has taken “Sanakānīka Mahārāj as a personal name.
+
+[^152_110]: J. F. Fleet, ed., *Corpus Inscriptionum Indicarum, Vol. III: Inscriptions of the Early Gupta Kings*, revised by Devadatta Ramakrishna Bhandarkar (New Delhi: Archaeological Survey of India, 1981 \[1888\]), 320–330. See also Richard Salomon, “New Inscriptional Evidence for the History of the Aulikaras of Mandasor,” *Indo-Iranian Journal* 32 (1989): 1–36.
+
+[^153_111]: See the reprinted in A. L. Basham, “The Mandasor Inscription of the Silk-weavers,” in *State, Power, and Legitimacy: The Gupta Kingdom*, ed. Kunal Chakrabarti, and Kanad Sinha (Delhi: Primus Books, 2018), 642.
+
+[^154_112]: This is a bad, or least highly nonstandard compound formation. I have treated it as if there were an implied *upamitasamāsa*.
+
+[^159_116]: Stuart, “Legislating Consent,” 254.
+
+## Being Brāhmaṇas? Following the Rules or Adapting to Circumstances “Just as They Are”?
+
+In his recent monograph *The Snake and the Mongoose*, which in fact opens by problematizing Romila Thapar’s use of this image of snake and mongoose—Brāhmaṇa and *śramaṇa*—locked in eternal combat, Nathan McGovern has argued that the tendency of our historiography to impose “an intrinsic dichotomy between the “Brāhmaṇical” and the “non- Brāhmaṇical” in the form of Brāhmaṇa and *śramaṇa*—treating the two identities as motivated by an innate antagonism and mutual antipathy—is not well supported by our textual record. Indeed, McGovern suggests that Buddhism could not have “arisen in opposition to a preexisting Brāhmaṇism” for the simple reason that what we call Brāhmaṇism itself is being articulated at the very same historical moment as the flourishing of *śramaṇa* cultures and is in fact a product of many of the same social and historical forces. Instead, McGovern suggests:
+
+> We should understand all three traditions as having emerged out of a period of dialectical identity formation. In particular, I will argue that Buddhism, Jainism, and Brahmanism/Hinduism emerged out of a period of contestation over the category Brahman, which all of them sought to claim. Buddhism and Jainism were not intrinsically “non-Brahmanical” simply by virtue of being *śramaṇa* traditions; rather, they both sought, but ultimately failed, to articulate a vision of Brahmanhood rooted in *śramaṇic* ideals of renunciation. Similarly, Hinduism is not rooted in “the” Brahmanism of ancient India; rather, it is rooted in one particular ancient articulation of Brahmanhood that (1) sought but ultimately failed to reject *śramaṇic* ideals of renunciation but (2) did succeed in arrogating the category Brahman to itself.[^160_117]
+
+Through a series of close readings, especially of the Aśokan inscriptions and early strata within the Pali Canon, McGovern directs our attention to a collection of discourses in which the “historical” Buddha and his disciples self-identify as Brāhmaṇas, equate religious excellence and moral virtue with Brāhmaṇa-hood, and argue against the Brāhmaṇa-hood of Vedic ritualists. Whereas earlier scholarship has typically viewed these texts as rhetorical
+[[P160]]
+polemics proffered by a minority tradition against dominant norms, McGovern argues convincingly for reading them as inscriptions and reinscriptions within the underdetermined lexical field that is the term Brāhmaṇa to which is being ascribed competing notions of what constitutes a religious exemplar. Within this rich play of possibility, identity based on bloodlines—which is to say, the logic of *varṇa*— functions as but one among many potential determinative factors.
+
+Perhaps most consequentially for our own imminent investigations, which will engage with similar conceptual issues in the context of vastly different textual archives, McGovern proposes that the reason “the early literature of the Jains and Buddhists is replete with claims that the founder. . . as well as monks and nuns who successfully follow his example. . . are Brahmans”[^161_118] is because these texts understand the lexeme Brāhmaṇa, not as alluding to a genetically inherited social identity, but as primarily denoting the social role of any ascetic who practices celibacy (*brahmacaryā*). McGovern then proceeds to demonstrate that in early *śramaṇa* discourses, the lexemes *brahmacaryā* and *brahmacārin*, extensively applied to both Buddhist and Jain religious professionals, communicate not only the celibate observances of the practitioner, but also convey the literal denotative meaning of both of the terms, namely, that the person in question observes the conduct (*caryā*) or juridical comportment (*ācāra*) that makes someone a Brāhmaṇa. Building on earlier arguments first made by Timothy Lubin in his dissertation, McGovern offers a convincing case that, far from representing a second order and essentially “eccentric” reimagining of Brāhmaṇa identity, the delineation of Brāhmaṇical comportment as essentially an ascetic observance we find throughout much of early *śramaṇa*
+[[P161]]
+discourse, though offering its own innovations, represents an organic continuation of pre- classical Vedic conceptualizations of “being Brāhmaṇa.” In other words, in asserting that, regardless of their genetic patrimony, they were Brāhmaṇas, celibate *śramaṇas* arguably had a stronger claim to representing “traditional understanding” than did the Dharmaśāstra- composing twice-born householders whose iconoclastic reinscription of the term we now take completely for granted.
+
+[^160_117]: Nathan McGovern, *The Snake and the Mongoose*, 4–5.
+
+[^161_118]: Nathan McGovern, *The Snake and the Mongoose*, 85.
+
+While McGovern presents us with a study of a specific historical moment said to terminate somewhat before an imagined classical Gupta consolidation, there is ample evidence that we should treat his analysis as but one discrete and important chapter in a very long story. Adequately told, it would reach at least as far back as the tale of Satyakāma Jābāla in the plausibly pre-Buddhist *Chāndogya Upaniṣad*, who, in candidly telling his teacher Hāridrumata Gautama that his mother had so many extramarital affairs that the identity of his father—and thus proof of *varṇa*—is unrecoverable, demonstrates his Brāhmaṇa-hood on the basis of his truthfulness. It would likewise reach at least as far forward as the late-twentieth-century strategic deployment of *varṇa* among the *bhaṭs* of Rajasthan, who alternately have adopted Brāhmaṇa and Dalit identities in the advancement of community interests. Perhaps most pertinently for our present purposes the archive reconstructed by McGovern also presents us with a quite specific rhetorics for articulating Brāhmaṇa-hood as founded either on an ethos of excellence and ethical integrity or, as we have already begun to explore, one of performing sustained austerities. We will reencounter these registers repeatedly throughout our study, first, in chapter 3, as it becomes virtually constitutive of Śaiva visions of lay normativity, then in chapters 6 and 7 as it is transferred into a range of vernacular non-Brāhmaṇa social registers,
+[[P162]]
+and finally in the final chapter of our study, where it acts as a key dialogical partner for the capacious reimagining of a new kind of Brāhmaṇa-hood emerging in the realm of Dharmaśāstra on the cusp of early modernity.
+
+While McGovern has restricted his own focus to the question of the “Brāhmaṇa,” the mode of analysis he proposes complements a series of prior studies, many of them either directed by or conducted in response to the work of Patrick Olivelle, that, through careful philological work in the domain of *Begriffsgeschichte*—or conceptual history—have identified similar discursive patterns regarding other key moments in the concept formation of notions we think of as quintessentially Brāhmaṇical. Olivelle’s terse but pithy distillation of these revolutionary discoveries, which occupies the first nine pages of *Hindu Law: A New History of Dharmaśāstra* is far more jarringly iconoclastic than even its own author has until recently been aware.[^163_121] Here, building on Olivelle’s earlier work, which locates both the notion of *āśrama* and the lexeme *dharma* (in place of the rather marginal Vedic *dharman*) itself as at best an Aśokan or slightly post-Aśokan era articulation, we learn that such concepts and lexical items as the householder (*gṛhastha* as opposed to the conceptually distinct *gṛhapati*), the twice-born (*dvija/dvijāti*)—even the notion of Āryavārta—first appear in the surviving sources
+[[P163]]
+in the last two centuries before the Common Era, in many cases after the composition of the earliest works of the *Dharmasūtras*. In confirmation of McGovern’s thesis of the contested nature of the term, Olivelle identifies several places in the Aśokan inscriptions where the term Brāhmaṇa is used in reference to a particular kind of *pāṣaṇḍa*, or heretic, while also observing that—much to his surprise, the general language of *varṇa* or specific notions such as the Śūdra are conspicuously absent, which he suggests is indicative of their operation at this time largely as a community-specific scholastic fiction. While Olivelle himself still reflexively reads the ideological articulation of the “Aśokan reforms” as “greatly under\[mining\] Brahmanical exceptionalism,”[^163_122] the evidence he has supplied us with, as well as archives to which we will turn as the chapter draws to a close, suggest other possibilities. Is “Brāhmaṇism” as such— once it has been denuded of the vast majority of the constituent elements one would use to introduce “Brāhmaṇical thought and social forms” to a class of undergraduates—even a meaningful conceptual model in reference to this period? What would be its defining features? Indeed, perhaps we should question our ready trans-historical equation of Brāhmaṇas and the corpuses they interpret and produce with a unitary notion of “Brāhmaṇical” privilege and a singular conceptual focus on the legitimation of a specific social order, for as we shall soon see, our archives seem to suggest a decidedly more complicated story.
+
+For example, in their work on contextualizing the Upaniṣads, Signe Cohen[^164_123] and Caley Smith have called into question efforts to periodize the composition of the corpus solely on the basis of doctrinal “developments,” for what they have found is that specific theological
+[[P164]]
+concepts—for example, a strong “theistic” focus—appear to be originally aligned with specific parts of the Vedic Corpus—in this case the *Ṛg Veda*—and originally are transmitted in isolation from each other within specific Vedic *śākhās* and *caraṇas*. The same dynamic, it seems, also to hold true in regard to the use of *varṇa* itself as an overarching conceptual frame, for after its famous pseudo appearance in *Ṛg Veda* 10.90—where in fact the term is not present—outside of the associated of lineages associated with the *Yajur Veda*, especially the White *Yajur Veda*, it largely disappears from Vaidika discourse as a central concern, replaced by a more typical binary of *brāhmaṇa* and *kṣatriya*. As Caley Smith, building upon the work of Theodore Profferes, argues in his forthcoming historicization of the legitimating use of the Veda in Vedic literature:
+
+> The *puruṣasūkta* is perhaps most famously perceived to be the origin of the *varṇa* system, which comprises four social castes into which a person can be born. While the word *varṇa* is not mentioned in the *puruṣasūkta* itself, the text does provide a list similar to what will be found in the later *varṇa* system. Vedic texts which follow, however, almost never present this list in toto. What Vedic texts are interested in is determining who is a *brāhmaṇa* and subordinating *kṣatriyas* to *brāhmaṇa*. When the full list is taken up, it is often difficult to draw any real conclusions. Consider this example from the *Śatapatha Brāhmaṇa*:
+>
+> > *catvā́ro vai várṇāḥ / brāhmaṇó rājanyò vaíśyaḥ śūdro ná haitéṣām ékaścaná bhavati yaḥ sómaṃ vámati sa yád dhaitéṣām ékaścit syāt syā́d dhaiva prā́yaścittiḥ* / (*ŚBr* 5.5.4.9)
+> >
+> > Four are the *varṇas*: *brāhmaṇa*, *rājanya*, *vaíśya*, and *śūdra*. He who vomits Soma does not become any one of those (*varṇa*). Should he be any one of those (*varṇa*), there would only be an expiation (in that case).
+>
+> This passage from a Middle Vedic texts tells us little about what *varṇa* is, only that it is a status which one can become, presumably by participating in the Soma pressing, so long as one does not vomit ones Soma. Further, should one who already has this status vomit Soma, they must do an expiation to regain good standing. This is striking because it suggests *varṇa* is not something you are born with, but something you attain. Further, it seems to indicate that *śūdras* are not excluded from the Soma pressing.
+>
+> This corroborates the findings of Nathan McGovern, who finds that the early Buddhist and Jain concept of a *brāhmaṇa* is not an inherited characteristic either, it is a status attained by completing a *brahmācārya*, a program of restricted behavior that involves,
+[[P165]]
+> among other things, celibacy. It is because of their practices not because of their births that early Buddhist and Jain ascetics consider themselves to be *brāhmaṇas*. McGovern 2018 demonstrates that it is the post-Mauryan *Dharmasūtras*, which advocate an ideology of householder supremacy, that appropriate the term from ascetics and instead biologize it into an inherited caste. If this is true for the term *brāhmaṇa*, it is very likely that the other *varṇas* were not conceived of as inherited status either. What can we make of this list in *puruṣasūkta* if we free ourselves of anachronistic assumptions?
+>
+> What I speculate this that what this particular verse of the *puruṣasūkta* might be doing is listing a hierarchy of honors, one mapped vertically with the body of the man elevated to suzerain over the clans. In this schema, the *vaíśya*, linked to the *viś*, defines the neutral position. The *rājaníya*, as a potential *rājan*, represent one accorded high honor by the leader. In an honor culture, for someone’s honor to be elevated, the honor of someone else must be degraded. As Graeber (2011:175) reminds us “honor is a zero- sum game.” In this schema, the *śūdra* represents someone who is dishonored. Note that no concept of slavery, cultural exteriority, birth, or permanency seems to be present here. It is clear from the *puruṣasūkta*, the *śūdra* is still a part of the body politic, just as the feet are still a part of the body. The *śūdra* is still a part of the tribal alliance, just a demoted part. To this system of honor rankings, the Vedic poets slip the *brāhmaṇa* just above the rest, but still subordinate to their patron, represented by the *puruṣa*. Recall that one of the ways the Rigvedic peoples referred to themselves was as the *pañcajana* ‘the five folks’, which I argued represents a social geography which centers the map on the leader of the tribal alliance and marginalized the other clans to four cardinal directions. What if what the *puruṣasūkta* does is take a distinction of center vs. periphery and creates a vertical taxonomy of the *pañcajana*, not as five spaces but quite literally as five (*pañca*) persons (*jana*)? Let us try to produce an alternative model based on what we know about Vedic social occasions: 1) the *puruṣa*, as patron hosts the other four persons as guests, 2) the *brāhmaṇa*, 3) the *rājaníya*, the honored guest to whom honors are due, 4) the *vaiśya*, a neutral position, and 5) the *śūdra*, the dishonored guest who perhaps owes a debt of honor. If this is the case, all of these positions would be subject to constant renegotiation through public ritual. This is exactly what *Śatapatha Brāhmaṇa* 5.5.4.9 seems to indicate, that *varṇa* can be gained by drinking Soma. Perhaps this explains the homology of the *brāhmaṇa* with the “mouth” as he is in charge of this drinking ceremony. . . . This is, of course, a thought experiment, but it is remarkable what kind of system is actually quite plausible when we consider the Vedic social structure in its own context without retrojecting the *Dharmasūtras* onto them.[^166_124]
+
+While such matters would prove fruitful domains for further future inquiry, for our purposes it is the sociology of knowledge on display in these examples that is most
+[[P166]]
+significant—wherein, just like the family book of the *Ṛg Veda*, before their codification into a text, it is common for specific re-inscribable lexemes and ideas to continue for generations to travel within delimited hereditary communities without the development of an overarching synthesis that crosses community—without the development, in other words, of a unifying “Brāhmaṇism.” For indeed, this type of sociology of text seems very much to govern the composition of two of the earliest three *Dharmasūtras*,[^167_125] the work of Āpastamba, which travels within its own *caraṇa* and *śākhā* in the line of the Black *Yajur Veda* and which Olivelle now ascribes to the third to late second century BCE and Baudhāyana, also of the Black *Yajur Veda*, but compiled in perhaps the first century BCE. As textual analysis reveals, the much later work of Baudhāyana is already dialogical with Gautama’s *Dharmasūtra*, which rather significantly, as we shall see, is not a product of traditional in-lineage Vaidika textual production. This extra- canonical status also holds for Vasiṣṭha’s *Dharmasūtra*, for the *Mānavadharmaśāstra* itself, as well as, quite plausibly, for the *Jaimini Mīmāṃsāsūtras*, all of which effectively attempt— outside of the domains of what until this time had been “normal” Vaidika knowledge production, to articulate a set of meta-rules and metalanguage that is no longer lineage and text specific. In fact, it would seem that it is precisely the theorization offered by this evolving extra-canonical textual corpus that produces most of the contents that make up the conceptual object we commonly call Brāhmaṇism. But as McGovern’s work has begun to suggest, in a world that has already given rise to many competing modes of “doing Brāhmaṇa,” many of which not only predate this meta-language but, through assuming new forms, continue to
+[[P167]]
+compete with and persist alongside our seemingly familiar reified Brāhmaṇism through the medieval and often down into the present, equating this metalanguage with “Brāhminical thought” in toto at best is akin to mistaking part for whole.
+
+Some of what is at stake begins to become apparent when we turn briefly to comparative reading of the earliest four *Dharmasūtras*, a genre that as Olivelle has argued effectively emerges as a response to the roughly Aśokan and post-Aśokan era social contestations we have just been exploring. Though the territory in question, unlike practically everything else we will explore in the present work, is well trod ground, it is valuable to read it in anew with the recognition that it offers us an account of the historical emergence, not just of specific concepts in Brāhmaṇical discourse, of but of evolving models of “being Brāhmaṇa” that at the time represented one among many possibilities. Furthermore, when we read these texts contextually and not teleologically, the conceptual possibilities offered by our earliest sources are revealed not as historic dead ends, but a constitutive of paradigms that also persist into the Indian present.
+
+Thanks to Olivelle’s earlier work on the *āśrama* system, which he has continued to refine and develop, it has been well known for decades that each of these texts present us with divergent models in regard to the stage of life, with the oldest Āpastamba advocating the adoption of each as distinctive and optional paths in life, Gautama asserting that only the role of the householder is sanctioned and dismissing the notion of other paths in a single verse, Baudhāyana, in the older short recension offering a lengthy refutation of the very idea of ascetic celibacy without which the *āśrama* system of collapses, and Vasiṣṭha, writing as late as the first century CE, while emphasizing the superiority of the householder, also allows for optionality. Indeed, by Vasiṣṭha’s time, the need to defend the multiplicity of *āśrama* has
+[[P168]]
+vanished, such that he can simply dedicate his seventh chapter to the system as a whole without the accompanying apologetics. Other observations Olivelle has subsequently made periodizing developments in this literature have received comparatively less attention. Only Vasiṣṭha and proto-Baudhāyana, for example, know of a place called Āryavārta. Āpastamba in fact does not even use the term of art *gṛhastha*, the central social conceptualization at the heart of all later Dharmaśāstra.
+
+Āpastamba and Gautama do not seem to know of the practice of a Brāhmaṇa wearing at all times a sacred thread of any form, let alone the single cord prescribed in the later texts. Āpastamba, and plausibly also Gautama—if we treat its last chapter as an interpolation—know nothing of the idea of a legal council. Āpastamba knows nothing of twice-borns or of Yavanas, and has precious little interest in kings. Examples of this sort could be proliferated endlessly— in fact, that is a good deal of the focus of Olivelle’s two-hundred- and thirty-four-page synoptic comparison of these four texts—but amidst all these details there is the danger of losing sight of the big picture. From a broader perspective, what is perhaps most significant is that, when we read them as discrete traditions, the early *Dharmasūtras* offer us a range of competing models of the scope and function of what will become the genre of Dharmaśāstra itself. As we will see in the coming chapters, despite the dominant stance in our historiography that this process of innovation and experimentation effectively comes to a halt with the composition of the *Mānavadharmaśāstra*, which then becomes the gold standard for all subsequent *dharma* discourses, conceptual possibilities suggested by Āpastamba in particular—the oldest of our sources—continue to provide key parts of the juridical framework evident in the post-Manu legal discourses that animated much of the world of the early medieval, especially in the Deccan.
+
+Āpastamba begins his treatise by telling us that “we” will explain (*vyākhyāsyāmaḥ*) the *sāmayācārika dharmas*—an odd term otherwise unattested in this form that Olivelle in his original translation renders “accepted customary laws.”[^170_126] *Dharma*, we should note here, is quite pointedly in the plural. *Dharmas*, in other words, are many. So too are the sources of authority (*pramāṇa*) that establish the *dharmas*. First, we are told, there is the *dharmajñasamaya*. Then, there is also the Veda. While the latter concept is perfectly transparent, the first notion is decidedly less so. *Dharmajña*, likely in the sense of knowers of a nascent Dharmaśāstra, is relatively straightforward. More tricky is the notion of *samaya*, which Olivelle originally deemphasizes in rendering it as “acceptance by those who know the Law”—but which, in light of the fact that it has now appeared twice in two successive sentences, clearly must have served as a particular term of art. While in the absence of contemporary or early attestations a more precise rendering is problematic, Olivelle’s later observations, in the footnotes to his *Dharma Reader*, where he connects our passage with a use of the term in the *Rāmāyaṇa*—Rāma is said to be knowledgeable regarding the “accepted customs connected with the world”[^170_127] (*samayācāre laukike*)—as well as in his essay “Dharmaśāstra: a Textual History” in the anthology *Hinduism and Law*, where he re-renders *sāmayācārika* as “conduct that is normative and accepted by a community,”[^170_128] gestures in the direction of *samaya* representing a plurality of social practices. In this manner, the use of
+[[P170]]
+*dharmajñasamaya* implicitly suggests the existence of other forms of *samaya*, conceptually distinct from those outlined in detail in the Dharmaśāstras themselves.
+
+In this way, the use of *dharmajñasamaya* implicitly suggests the existence of other forms of *samaya*, conceptually distinct from those outlined in detail in the Dharmaśāstras themselves. As we will see in chapter 3, this is precisely the meaning that has become ascribed to the term in the post-Manu Dharmaśāstras as the Gupta-Vākāṭaka age draws to a close. In Āpastamba’s formulation, in fact, the topic of the *Dharmasūtra* is not *dharma* itself but rather a specific set of *sāmayācārika dharmas*, partly arising directly from the Veda and partly from the community that is producing our text. And what this suggests is that these prescriptions, rather than being universalizable, pertain specifically to this community. The main intellectual focus of the Āpastamba *Dharmasūtra*, then, is the presentation of a delimited set of strictures that make possible the maintenance of the forms of ritual purity that form the preconditions of performing a specific canon of ritual acts. This is then complemented by some scattered, almost deferential, reflections on worldly customary law, mostly in terms of how it impacts the types of ritual agents under discussion. In short, Āpastamba presents a vision of how to order one particular type of life as opposed to a comprehensive approach to classifying and ordering the world.
+[[P171]]
+Returning to the opening of his text, after defining the scope of the *Dharmasūtra*, Āpastamba then offers us a programmatic presentation of the system of four *varṇas* within *śāstra*, probably one of the earliest, which forms a pair with its equally brief account of the doctrine of untouchability found in the second division.[^172_129] In both cases, the defining features of these discourse is their terseness—the discussion of *varṇa*, for example, simply communicates that the system is a successive hierarchy with the Brāhmaṇa at the top and that everyone except Śūdras who abstain from sinful action can be initiated, undertake Vedic study, set up the sacred fires and benefit from these actions. Śūdras, in contrast, receive glory (*niḥśreyas*) through serving the other *varṇas*. From here on in, however, our text is largely disinterested in thinking through such concerns—indeed in thinking about the socialities of specific *varṇa* identities almost at all—except in terms of specifying the specific adaptations of ritual details that need to be applied when a Kṣatriya or Vaiśya, as opposed to a Brāhmaṇa, engages in particular practices during their studentship under the direction of a teacher who is instructing them in the Veda.
+
+Most of the first of the text’s two divisions is solely concerned with delineating the social role of either the temporary or permanent *brahmacārin* engaged in Vedic study and practice, and the responsibilities and mode of comportment through which he relates to his teacher and his teacher in turn relates to him. Intriguingly, according to Āpastamba, such instruction includes both the inculcation of the Vedic texts and their related practices as well as non-Vedic *saṃhitās* (*samāhito ’brahma*) for the mastery of these “will bear fruit for him just like the Veda” (*brahmavedeva tasmin phalaṃ bhavati*).[^172_130] Having another body of knowledge and skill set is vital for the Vaidika, for later we will learn that adherence to *dharma* is not for the sake of worldly affairs (*laukikam arthaṃ*).[^172_131] At best, our author tells us, as in the case of a tree, which takes a long time to bear fruit an occasional fruit but in the interim provides us with its shade and fragrant scent, adherence to this *dharma* has some pleasant incidental benefits. Warding off the “deceptions” promulgated by hypocrite, crooks, and perhaps most tellingly, *nāstikas*, Āpastamba tells us that a person intent on *dharma* should model his behavior on that which is accepted by the community of the righteous (*āryas*), who
+[[P172]]
+maintain their integrity, as it applies in all regions. He then explicitly forbids Brāhmaṇas— except in a time of trial—from engaging in commerce, and outlines the activities which could cause him to fall from *varṇa*.[^173_132] In a rather telling departure from the disciplinary nature of the later tradition, which treats the community’s commitment to monitoring and punishing individual violations of *dharma* as an integral part of *dharma* discourse, Āpastamba teaches that if a righteous person notices that someone else has engaged in activities that result in a fall from caste, he should not tell anyone.[^173_133] Instead, he is simply to avoid the ritually impure person while engaged in carrying out his religious duties. Once again, the focus is primarily on the ritual dimensions of sociality.
+
+In Āpastamba, this rather succinct delineation of causes of falling from caste and acquiring ritual faults is immediately followed by a much more extensive treatment of the practice of *ādhyātmikayoga* intimately linked with the teaching of the *Katha Upaniṣad*.[^173_134] Unlike in the rest of the *Dharmasūtras*, here yoga is at once prescribed for all the *āśramas* but mostly closely conceptually linked to the temporary or permanent Vedic student, as opposed to the forest hermit or ascetic. Very much in alignment with the teaching of *Kathā Upaniṣad*, which it frequently paraphrases, the text prescribes that it is the *samaya* that participants in all four *āśramas*— nothing is said of caste in particular—should learn to recognize within all living things the presence of the very same stainless and unslayable one who dwells within all living beings in the cave of the heart. Those who do so become immortal. This is to be accomplished, the text tells us, through restraining the senses, engaging with what is beneficial
+[[P173]]
+and abstaining from what is not, developing non-attachment, through uprooting negative tendencies, such as anger, excitement, rage, greed, confusion, hypocrisy, malice, lying, overeating, calumny, envy, lust, ire, lack of self-control, and by practicing virtues, such as speaking truth, gentleness, tranquility, self-restraint, not harming living beings, and non- cruelty. In other words, a combination of technique and ethical self-cultivation are the means that bring about the realization of the self, which our text treats as the supreme goal of human life. Another striking feature of this discourse, which will disappear in the normative realm of Dharmaśāstra, is that, in a departure from what will become a Brāhmaṇical norm, yoga does not here serve as method of expiation and its physical disciplines are not linked with the punishment of the body to purge impurities and transgressions.
+
+Such an approach stands in considerable contrast, for example, with what we find in the *Mānavadharmaśāstra*, where yogic praxis has become an afterthought associated with the elderly, but is very much akin to the centrality that yoga will be granted in the *Yājñavalkyasmṛti*. Quite unlike in Yājñavalkya, however, where the practice of yoga is strongly conceptually associated with ritual expiation, and yoga’s associated virtues and focus on liberation is integral only to the *dharma* of renouncers (*yatidharma*), in Āpastamba, yoga, its virtues and benefits are equally available to the perpetual Vedic student and the householder as well as the ascetic classes. While rejected by the later Dharmaśāstra, this social model— which carves out a space for teacher, student, and householder as effectively a kind of lay ascetic—will prove to be integral dimension of the religious ecologies of the medieval Deccan, as we shall see in future chapters.
+
+The second division of Āpastamba discusses the social roles ascribed to the other *āśramas* and famously offers a theorization of the *āśrama* system and a defense of *āśrama*
+[[P174]]
+optionality. More pertinently for our purposes, it also offers an exceptionally early and decidedly unsystematic treatment of what it calls the *dharma* of region (*deśadharma*) and clan (*kuladharma*), concepts that will prove integral to the legal landscape of the early medieval world.[^175_136] Here, these terms encompass such features as, the proper professions for three of the *varṇas* (Śūdras are not mentioned), the use of ritual expiation, under the supervision of a king or other authority figures as a punishment for transgressions (but not any discussion of the punishments themselves), yielding to vehicles, people who carry heavy loads, women and the sick when out of the road, rules governing marriage, offspring, property, and inheritance. Unexpectedly, Āpastamba treats the doctrine that one’s deeds in past lifetimes determined one’s *varṇa* in the present life, and that good and bad deeds committed in the present will determine one’s place in the social hierarchy in the future, not as an integral part of Vaidika theology, but as a feature of the *dharmas* of region and clan.
+
+[[P175]]
+What is on offer here is not a legal canon, but rather an entextualization highlighting a few key dimensions of a much larger extra-textual body of knowledge, which Āpastamba understands as not actually falling under the purview of what will come to be called Dharmaśāstra literature. In the section on *kula* and *deśadharma*, this is state of affairs is perhaps made most evident in our author’s explicit statement that, while the rules for conduct in warfare are to be learned from another source, righteous people (*āryas*) proclaim that people who have surrendered or are fleeing from the battle are not to be killed, representing in effect the grafting on the sort of ethical restraints endemic to our text onto a system of praxis that may not have emphasized such principles. Conceptually distinct from the *kula* and *deśadharma*s, the text’s final sections outline the *dharmas* of a king, which include the building of infrastructure within which sacred fires are maintained, the protection of subjects and employment of surrogate authorities, and the collection of taxes. In contrast to the time and care dedicated to each minute feature of *brahmacaryā* life, all of these are discussed in so little detail that in practical terms their institutionalization would be entirely unfeasible except in reference to comprehensive bodies of knowledge external to the present discourse. Significantly, Āpastamba’s treatment of what constitutes violation of the law within specific domains as well as the appropriate punishment for specific transgressions all fall under the purview of the *dharma* associated with kings, not—as in later sources—under a category of “legal proceedings” within which both authoritative persons acting in the absence of the king hold juridical authority.
+
+It is the manner in which Āpastamba closes his treatise, however, that renders plain that his divergence from the totalizing vision we tend to associate with Dharmaśāstra as a discipline and treat as the animating feature of Brāhmaṇical thought is not merely a reflection of the text’s archaism but is integral to our author’s worldview.[^176_137] Mastering *dharma*, we learn, is not acquired just through textual study, but through a process of the emulation of those who embody the standard (*lakṣaṇa*), and such people are to be found in all the *janapadas* (*sarvajanapadeṣu*). Our author concludes by telling us the remainder (*śeṣa*) of what constitutes knowledge (*vidyā*) is to be found among women and *śūdras* (*strīṣu śūdreṣu*)—these teachings are affiliated with the *Atharva Veda*. Indeed, the final sentence of the text suggests, that in
+[[P176]]
+addition to the forms of *dharma* that our *sūtra* teaches, the rest of the *dharmas* (*dharmaśeṣān*) are to be learned from women (*strībhyaḥ*) and from people from all the castes (*sarvavarṇebhyaḥ*). In short, it teaches us that *dharmas* and the norms they communicate are many and the knowledge about them both resides within and applies to specific discrete communities and demographics.
+
+[^170_126]: Since these works are readily available for consultation by the interested reader, from now on, throughout this section, except in cases of close reading, the page numbers for the Sanskrit and for Olivelle’s translation will be cited. Patrick Olivelle, *Dharmasūtras*: The Law Codes of Āpastamba, Gautama, Baudhāyana, and Vasiṣṭha (Delhi: Motilal Banarsidass, 2000), 24–25: *athātaḥ sāmayācārikān dharmān vyākhyāsyāmaḥ / dharmajñasamayaḥ pramāṇam / vedāś ca* /
+
+[^170_127]: Patrick Olivelle, ed. and trans., *A Dharma Reader: Classical Indian Law* (New York: Columbia University Press, 2017), 337.
+
+[^170_128]: Patrick Olivelle, “Dharmaśāstra: A Textual History,” in *Hinduism and Law: An Introduction*, ed. Timothy Lubin, Donald. R. Davis, Jr., and Jayanth K. Krishnan (New York: Cambridge University Press, 2010), 37.
+
+[^172_129]: Olivelle, *Dharmasūtras*, 24–25: *catvāro varṇā brāḥmaṇakṣatriyavaiśyaśūdrāḥ // 4 // teṣāṃ pūrvaḥ pūrvo janmataḥ śreyān / aśūdrāṇām aduṣṭakarmaṇām upāyanam / vedādhyayanamagnyādheyaṃ phalavanti ca karmāṇi / śuśrūṣā śūdrasyetareṣāṃ varṇānām / pūrvasmin pūrvasmin varṇe niḥśreyasaṃ bhūyaḥ* /
+
+[^172_130]: Olivelle, *Dharmasūtras*, 32–33.
+
+[^172_131]: Olivelle, *Dharmasūtras*, 56–7.
+
+[^173_132]: Olivelle, *Dharmasūtras*, 58–59.
+
+[^173_133]: Olivelle, *Dharmasūtras*, 58–59: *doṣaṃ buddhvā na pūrvaḥ parebhyaḥ patitasya samākhyāne syād varjayet tv enaṃ dharmeṣu* /
+
+[^173_134]: Olivelle, *Dharmasūtras*, 58–61: Olivelle himself notices these textual interconnections in footnote 22.4 on page 494.
+
+[^175_136]: Olivelle, *Dharmasūtras*, 88–89. As is made evident by his remark on pg. 95 (*etena deśakuladharmā vyākhyātāḥ*), Āpastamba considers all of the rules between pg. 88–95, including sections on rules governing sexual intercourse, progeny, inheritance, as derived from *deśa* and *kula dharma* as opposed to Brāhmaṇical Dharmaśāstra.
+
+[^176_137]: Olivelle, *Dharmasūtras*, 114–15: *sā niṣṭhā yā vidyā strīṣu śūdreṣu ca / ātharvaṇasya vedasya śeṣa ity upadiśanti / kṛcchrā dharmasamāptiḥ samāmnātena / lakṣanakarmaṇāt tu samāpyate / tatra lakṣaṇam / sarvajanapadeṣv ekāntasamāhitam āryāṇāṃ vṛttaṃ samyagvinītānāṃ vṛddhānām ātmavatām alolupānām adāmbhikānāṃ vṛttāsādṛśyaṃ bhajeta / evam ubhau lokāv abhijayati / strībhyaḥ sarvavarṇebhyaś ca dharmaśeṣān pratīyād ity eka ity eke* //
+
+We have spent a good of time with Āpastamba’s interpretive project, not only because it complicates some of our received notions of the structure and function of Brāhmaṇical knowledge, but more precisely because key aspects of where it deviates from what is familiar prefigure developments in the legal and theological tradition that we will explore in some detail as this work progresses. Having in the first part of this chapter called into question romantic idealizations of the imagined continuities between the democratic humanism of the Nehruvian state and the cultural politics of ancient Buddhists, it would hardly do to substitute in their places some equally erroneous “recovery” of the secretly “liberal” sympathies of the oldest Brāhmaṇical writer on law. Even where there are apparent points of agreement with such norms, they are often the product of very different motivations. Contrary to the model promulgated by Thapar, quite common to Indological discourse, like many Brāhmaṇical thinkers, Āpastamba is deeply invested in questions of ethics and views ethical comportment as foundational to a life well lived to say nothing of a death well obtained. At the same time, not only does he have zero interest in our notions of “fairness,” but the concept itself would quite likely to him be utterly inconceivable. Āpastamba champions the necessity of receiving guidance from bodies of knowledge associated with such disparate communities as professional warriors, Śūdras, and women, not because he valorizes representing a range of voices as intrinsically desirable in and of itself, but rather because he has strong
+[[P177]]
+epistemological and theological commitment to a kind of pluralism that sees knowledge and praxis themselves as irreducibly context-specific and variegated. In this discourse, while our author’s promulgation of the norms of *varṇa* and untouchability are in no way in conflict with this embrace of pluralism, neither are the two features of his project closely associated either conceptually or rhetorically. Conspicuously absent from this vision is a notion of *dharma* in the singular as either a unitary framework that organizes and protects the world order or as the specific cultural patrimony of learned Brāhmaṇas that they are instructed to impose on others.[^178_138]
+
+In contrast, composed outside of the domain of what was then normative Vaidika knowledge production, the Gautama *Dharmasūtra*, from its inception aspires precisely to establish just such a totalizing project. “*Vedo dharmamūlaṃ*,” the text famously proclaims— the foundation of law is the Veda.[^178_139] Here and throughout the text, *dharma* is presented in the singular. Gautama immediately restricts the scope of what could constitute other sources of knowledge about *dharma* to the practices and tradition of those “who know the Veda.” In other words, all meaningful knowledge is in house. In his treatment of the role of Vedic student, now a formative stage of development in preparation for becoming a householder and not a life- path in and of itself, Gautama makes only a single reference to ethical character formation. Unlike in Āpastamba, in this text, ethical character formation is not explicitly required of a person in order for him to serve as authoritative source of knowledge. All that is necessary is
+[[P178]]
+that he knows the Veda. Gautama does not discuss yoga. In its place—as the means to soteriological fulfillment— he substitutes either performance of all of the forty sacraments conducted in tandem with ethical virtue or the completion of at least some of the sacrifices by a virtuous man. Our author proceeds to critique and reject, not just Āpastamba’s position that the *āśrama* system offers a series of equally valid choices, but the validity of all human social roles apart from being a householder.
+
+As his discourse is centered on establishing the exclusive legitimacy of the householder, his text intermingles the concerns previously assigned to the *deśa* and *kula dharma* or *dharma*, as well as some matters associated with kings, into the domain of householder *dharma*. *Dharma*, and by extension Dharmaśāstra, is here, quite possibly for the first time, treated as a unitary framework. The defense of this totalizing *dharma* is upheld by observances of the king in concert with Brāhmaṇas who know the Vedas. They are responsible for ensuring the way of life of all the *varṇas*, of conscious beings, and all of manner of animals. This socialization of a singular *dharma*, whose conceptual focus is no longer domain-specific and liturgical, demands a new kind of governmentality, in which the Brāhmaṇa becomes responsible for managing the social and reproductive mixing of castes as well as more pointedly focusing on caste and *varṇa* normativities. This perspective demands a much more detailed discussion of the behaviors and duties expected of social roles enacted by people like Śūdras. In Gautama, expiation and the transgression of norms are no longer private affairs impacting ritual success but have increasingly public and publicized consequences. It is for this reason, for example, that we suddenly encounter delineations of the criteria for both excommunication and readmittance to a caste. In essence, though the standards have been revised, we would do well to see such an approach as amounting to an overt codification of
+[[P179]]
+already extant insular attitudes typical of small towns the world over, where one’s reputation is everything and the social pecking order is maintained through an endless stream of gossip paired with intermittent public shaming.
+
+In this much more familiar variety of “Brāhmaṇism,” *dharma* is indeed presented as a singular framework that orders the social world. It is essential that we recognize, however, that even in Gautama and the more familiar facets of the classical Dharmaśāstra discourse, key features of the *dharma* discourses as they loom large in the India imagination, as it operated on the eve of colonialism and that indeed persist to some degree into the present, are nowhere in evidence. To put the matter pointedly, the Dharmaśāstra envisioned in these sources is not a system explicitly invested in the regulation of religious practice *in toto*. While fiercely defending a still emerging theory of Brāhmaṇical privilege—and offering a restricted vision of the form that the life of a twice-born might take and from which a non-twice born must abstain—it provides virtually no guidance either in regard to the vast majority of the ritual repertoire proffered by the Vedic corpus or in relation to the by this period already indisputably thriving world of non-Vedic practice, whether pertaining to the ubiquitous veneration of localized spirit guardians or the emerging—often imperially inflected—veneration of lineage deities and defied royalty. In regard to the twice-borns themselves—apart from denying the legitimacy of asceticism—it lays no claims on either the acceptable scope of their own extra- Vedic religious practices. Perhaps most importantly, in contradistinction to its early modern analogues, the emerging world of classical Dharmaśāstra has zero interest in the actual contents of the religious lives of non-twice-borns, besides prohibiting the access of Śūdras, untouchables, and the mixed castes to the use of Vedic *mantra* systems in their worship.
+[[P180]]
+In the Gautama *Dharmasūtra*—which is to say perhaps as late as the first century BCE— the ordering of the social world in a manner that maximizes its alignment with the ritual needs of an emerging class of twice-borns is not yet paired with a valorization of Sanskrit textuality, a specific hermeneutical approach to the interpretation of texts, or an explicit identification of these social values with the delimited geography of Āryavārta. In fact, what recent scholarship suggests is that the conceptual synthesis of each of these elements into a coherent whole is a product of the early centuries of the Common Era. The uneven inception of such developments is made evident in the last of the two major classical works of *Dharmasūtra*—the first-century BCE writings of Baudhāyana and the first-century CE Vasiṣṭha *Dharmasūtra*—both of which explicitly present themselves as in dialogue with Gautama’s text. Each of these works continues to develop the theory of *dharma* articulated in Gautama’s writings, with Baudhāyana affirming Gautama’s position on *āśrama* as well as his rejection of *kula* and *deśa dharmas*. Unlike Gautama and Vasiṣṭha, which are products of mode of textuality produced outside of traditional pedagogical spaces, the *sūtras* of Baudhāyana is the product of a specific lineage and for this reason it treats *dharma* not as extra-textual abstraction, but as linked with individual Vedic transmissions as opposed to some abstracted notion of a unified Vedic canon.[^181_141]
+
+This same *dharma*, however, can also be known on the basis of “the tradition” (*smārta*) \[among those who know the Veda], and the conventions of “cultured people”—which again
+[[P181]]
+means those who have studied the Veda and its components. Thus, in Baudhāyana—unlike in Āpastamba’s model—a singular *dharma*—which undergirds everything—remains the exclusive intellectual property of the community of twice-borns. For the first time in our surviving discourse, Baudhāyana forges a connection between the holders of authority specific to the realm of Dharmaśāstra and an emerging notion within the new world of *śāstra* of an educated Brāhmaṇical elite. In this way—the *dharmajñasamaya* of Āpastamba—representing one among many sorts of knowledge holders—are conflated with the *śiṣṭa*, and the specific domain where such people are operative—which in Āpastamba could be any *janapada*—is restricted to the land of where the black antelope wanders, Āryavārta. As Olivelle among others have noted, Baudhāyana draws these definitions quite explicitly from the mid-second-century *Mahābhāṣya* of Patañjali—which is to say, he joins together a prescriptive approach to the perfection and regulation of social behavior that privileges textualized norms over lived social practice with a prescriptive approach to regulation of the language that famously privileges textualized norms over lived social practice. Whether the innovator here is Baudhāyana himself or this development preceded him in other sources for which we simply lack attestation is uncertain. What is clear, however, is that this conceptual leap is not only absent from Patañjali’s intellectual project itself, but is explicitly in contradiction with his own understanding. As Olivelle has observed, albeit in the service of making a substantively different argument:
+
+> The *dharma* taught in the Dharmaśāstra has little to do with the Vedas but reflects the actual practices of local groups; the *Dharmaśastras* themselves are nothing but the textualization of such practice. Evidence from texts belonging roughly to the last three centuries before the Common Era indicates. . . this appears to have been the view of. . . the grammarians Kātyāyana and Patañjali, and Āpastamba. . . . Kātyāyana, in his *Vārttikas* on Pāṇini’s *Aṣṭādhyāyī*, makes a distinction between what is found in the Veda (*vede* and *vaidika*) and what is prevalent in the world (*loke* and *laukika*). . . . At least in Patañjali’s understanding of Kātyāyana, the category of *laukika* (worldly) does
+[[P182]]
+> not apply simply to what ordinary people say and do but to norms of behavior encoded in textualized forms that are certainly Dharmaśāstric injunctions. . . . In his comments on Pāṇini 1.1.47 (I:115), Patañjali’s statement *naiveśvara ājñāpayati nāpi dharmasūtrakārāḥ* (“Neither does the Lord command nor do the authors of the *Dharmasūtras* declare\]. . . . \[In this context,] it is more probable, however, that \[instead of referring to God or the Veda, as later commentators suggest,] *īśvara* refers to the king, in which case the authors of *Dharmasūtras* parallel the king in authority to pronounce on matters of public importance.[^183_142]
+
+In the larger passage from which this is drawn, which offers us an earlier stage in his theorization of the history of *dharma* literature, Olivelle is intent on recovering a prehistory of Dharmaśāstra textuality. In doing so, perhaps anachronistically, he suggests the close association—if not identity—of what Patañjali calls the *Laukika* and the realm of Dharmaśāstra. This is a position, probably no longer adhered to by Olivelle, that Madhav Deshpande’s studies in the early grammatical literature of the semantic range of the terms *loka/laukika* very much calls into question. As Deshpande observes, while inclusive of the Dharmaśāstra style *vidhis* of the sort that Olivelle highlights, in the discourse of the early grammarians, the “worldly” also incorporates a range of what we might deem anthropological and historical observations. Following something akin to the model we find in Āpastamba, in short, the grammarians can just easily be read as advocating a framework where different modes of knowledge are situated in discrete domains. Such a reading would be in alignment with what, beyond its evidentiary value for historicizing the contents of *dharma* literature, is probably the grammatical literature’s major contribution to this discussion, namely, its explicit rejection of the central claim of all of the post- Āpastamba *Dharmasūtras*. Succinctly, while the *dharma* literature’s fundamental claim is that it is founded upon the Veda or the Vedas, the
+[[P183]]
+grammarians explicitly situate the entire discourse on *dharma* as a worldly affair conceptually distinct from the realm of the Veda. In short, what to us now seem to be the self-evident interconnection between these conversations represents not an organic development but what at the time must have seemed a subversive redeployment of two originally tangentially associated or even oppositional intellectual visions.
+
+Attending to the disjunctures in and among the *Dharmasūtras*, it becomes clear that our sense of the unity of this conversation within a single “Brāhmaṇical” frame is the product of a hermeneutics of coherency external to the texts themselves. Within the surviving corpus, it is in Vasiṣṭha, composed two hundred years before the glory days of Gupta-Vākāṭaka rule, that both the constitutive elements of this second order meta-language as well its compositional strategies—especially the logic of subordinate inclusion—first become evident. The most important feature of Vasiṣṭha from its inception is that it adopts a conceptual and rhetorical framework that deliberately and consistently aligns itself with Pūrva Mīmāṃsā approaches to Vedic exegesis. In fact, Vasiṣṭha’s opening verse—*athātaḥ puruṣaniḥśreyasārthaṃ dhamajijñāsā*”—is self-evidently a paraphrase of Jaimini Mīmāṃsā Sūtra 1.1—“*athato dharmajijñāsā*.”[^184_144] In this way, Vasiṣṭha aims to put to rest any lingering suspicions that the legal discourse on *dharma* is a pretender to the realm of Vaidika knowledge as well as any remaining ambiguity that the knowers of legal *dharma* in this world and knowers of *dharma* in its ritual sense might be different people or belong to discrete divisions within the community. Directly paralleling standard Mīmāṃsaka accounts of the process of obtaining *apavarga*, in this spirit we are assured that “the one who knows *dharma* and follows it is a righteous man (*dhārmika*). Such a man becomes pre-eminent in this world and wins heaven
+[[P184]]
+after death (*svargalokaṃ samaśnute*).” Furthering closing considerable conceptual gaps between these conversations, attending to a line of argumentation that famously will be developed by Śabarasvāmin in the fifth century, Vaisiṣṭha also asserts that legal *dharma* adheres to the same standard as ritual *dharma*, as being identifiable as something that, in contrast to worldly affairs, “lacks a tangible motive.”[^185_145]
+
+Much like Jaimini imposes upon the Veda an extra-textual metalanguage for reading into the variegated corpus a unitary method and purpose, Vasiṣṭha attempts something analogous in the realm of the *Dharmasūtras*. Thus, while he restores to the discussion constituent elements we found in Āpastamba that the subsequent authors had expunged—such as the legitimacy of all four *āśramas*, the inclusion of *deśa* and *kula dharma*, and sanctioning of yoga as a part of Brāhmaṇical knowledge (though this later feature is already present in portions of Baudhāyana of contested authenticity)—in each case, their inclusion is predicated on a recasting of the values that previously animated the notion in question. Yes, we can accept four *āśramas*, but only if there is no choice among them. Yes, we can include regional and lineage *dharma* that are extra-Vedic, but only if they do not impinge in any way on the subjects in the *Dharmasūtras*. And yes, yoga has a place in Brāhmaṇical knowledge, but in the context of purification and expiation, not as a soteriological means. Succinctly, Vasiṣṭha’s inclusivism is a matter of coopting and dismantling the individual parts that make up a coherent, competing, and nonetheless Brāhmaṇical worldview within which *dharmas* are necessarily multiple and forms of knowledge are domain- and community-specific.
+
+Now in our usual emplotments of the history of Brāhmaṇical knowledge systems, the sort of story we have just been telling amounts to an origin story—not just about
+[[P185]]
+Dharmaśāstra—but about *śāstra* itself—which is to say about virtually all learned non- aesthetically oriented textual production in the Indic world that preceded the vernacular revolution. This perspective, essentially Marxist and materialist in its intellectual origins, amounts to an account of how a prescriptive, hierarchical, and totalizing approach in which theory precedes practice superseded actual analytical engagement with the world of experience. Such a stance has been perhaps most cogently and eloquently articulated in the early writings of Sheldon Pollock:
+
+> This empowerment of *śāstra*, however, represents a development toward normative discourse that comes only over time. The nature and function of *śāstra* in the classical period are rather different from its late vedic antecedent. If we consider some of our earliest *śāstras*, namely the *vedāṅgas*, it becomes apparent that *śāstra* had initially a thoroughly descriptive character. The rules formulated for grammar, metrics, or phonetics were intended in the first instance to name, order, and describe the disparate and complex linguistic phenomena of the *vedas* in order that these texts might be more exactly preserved and transmitted. . . .
+>
+> This I think can be demonstrated textually, but it also is the conclusion that the cultural logic of the vedic tradition invites us to draw: Precisely because they are *vedāṅgas* or “ancillaries to the *vedas*,” they must in essence be descriptive, having never been meant as guides to the practical activity of generating additional vedic materials.
+>
+> Several examples of the fundamentally descriptive thrust of the *vedāṅgas* are readily provided. The *Nirukta* is not a lexicon designed with Dr. Johnson’s purpose of providing a standard for correctness and propriety (a lexicon, as in the words of the Plan, that seeks to “fix the \[English\] language),” which appears to be the purpose of Sanskritic dictionaries from the *Amarakoṣa* onward. Its one source is a list of obscure words (the *Nighantu*) found in the *vedas*, and for this list it functions as a commentary, or rather a kind of semantic analysis indicating the “real” meanings of those words. It is thus in a way similar to the “glossaries” of medieval England, the descriptive antecedents to the normative Johnsonian lexicon. Its purpose was simply to aid in interpreting the hieratic discourse of the *vedas*. In the same way, the *chandaḥśāstra* was not designed to provide apprentice *rṣis* with the metrical rules for constructing (“seeing”) new vedic *sūktas*. Piṅgala’s work describes the metric of the *vedas* in order to reveal its orderly pattern and so render it more easily assimilable, thereby guarding against corruption of the sacred texts. The *vedāṅgas*, thus, are in their very nature taxonomical, not stipulative; descriptive, not prescriptive.
+>
+> *Śāstra* did not for long preserve this non-legislative character. In fact, the mutation is apparent already in the *vedāṅgas* themselves. For they include a great deal of (by
+[[P186]]
+> definition irrelevant) secular material, in comparison with which the vedic is in fact relatively sparse (*chandaḥśāstra* and *vyakāraṇa* are conspicuous examples; no rationale for including *laukika* material in the *vedāṅgas* is offered by the tradition, so far as I can tell). Any such recording of cultural data may have the effect, perhaps a natural and inevitable effect, of establishing authoritative principles. In ancient India, however, there were special factors, which we shall examine, that contributed to transforming *śāstra* into a rigorously normative code, enabling it to speak in an injunctive mood, with the authority appropriate to vedic *vidhis*. *Śāstra* would seem thereby to lose irrecoverably its participation in the dynamic symbiosis with practice that we are accustomed to presuppose in any competent ‘theoretical” formulation. Or perhaps more accurately, the understanding of the interaction between the two now takes on a distinctive and in some ways anomalous character with important consequences for cultural history. For here, on a scale probably unparalleled in the pre- modern world, we find a thorough transformation—adopting now Geertz’s well-known dichotomy of “models of” human activity into “models for,” whereby texts that initially had shaped themselves to reality so as to make it “graspable,” end by asserting the authority to shape reality to themselves. . . .
+>
+> As is well known, the *Suśrutasaṃhitā* urges the student to examine cadavers carefully and subject them to anatomical scrutiny, “For it is only by combining both direct observation and the information of the *śāstra* that thorough knowledge is obtained.” The *Carakasaṃhitā* confirms this view, asserting that “Of all types of evidence, the most dependable is that directly observed,” and, in a memorable epigram, proclaiming that “The wise understand that their best teacher is the very world around them.” Such voices, however. . . may with some justice be viewed as oppositional, and in any case are pretty much in the minority. The dominant ideology is that which ascribes clear priority and absolute competence to *shastric* codification.[^187_146]
+
+As is well known, Pollock would continue on to attribute this, from his perspective, inexorable development of learned discourse along this prescriptive track—allegedly divorced from “reality”—with some warrant to the Vedic exegetical tradition of Pūrva Mīmāṃsā. As Pollock and his students have convincingly demonstrated, Mīmāṃsā develops a deeply sophisticated departicularizing and dehistoricizing model for reading both individual texts and textual corpuses prescriptively and as having a singular unitary meaning. In the process, it develops powerful interpretive tools—whose subtle parsings of how language can have different rhetorical and cognitive force finds no equal in the history of human thought until the twentieth century—that become wildly influential in such diverse intellectual environments as the realms of Vedānta and Sanskrit poetics. And to be sure, Mīmāṃsā does indeed set out to inscribe the term *śāstra* itself as consisting of simply—*vidhi* and *pratiṣedha*—prescription and prohibition. But as the very examples Pollock has just provided above inadvertently demonstrates, its efforts to this effect are more aspirational than actual, representing but a single current among internally variegated Brāhmaṇical models of knowledge production.
+[[P187]]
+As we have just seen, alongside the *Nirukta* tradition of Vedic semantic analysis, Pollock identifies two early works of medical literature—the *Suśrutasaṃhitā* and the *Carakasaṃhitā*— as emblematic of the empirically oriented road not taken in the history of Brāhmaṇical thought. In essence we are again offered a simple binary between two imagined extremes, the notion that, as the *Caraka* argues, “The wise understand that their best teacher is the very world around them” and the realm of “*śāstric* codification.” What makes this model so problematic is that, since the early twentieth century, more capacious and inclusive historicazations of the emergence of *śāstra* have identified the *Caraka* itself as the formative antecedent for the Indian traditions of logical analysis and inferential reasoning, knowledge systems that are at least as fundamental and influential as Pūrva Mīmāṃsā in constituting the style and substance of what we call *śāstra*.
+
+Developing a line of argumentation first suggested by the great nineteenth-century scholar of logic and Pali Satis Chandra Vidyabhusana,[^189_147] over the past three decades, a project based out of the University of Vienna has been critically editing the *Caraka* in tandem with the earliest complete works of Indian Logic belonging to the school of Nyāya philosophy. In doing so, Karin Preisendanz, Ernst Prets, and their students have demonstrated that Indian philosophical approaches to examination (*parīkṣā*), the identification of causes (*hetu*), the reading of inferential indications (*liṅga*) that grant us indirect knowledge about an underlying phenomenon, even debate (*vāda*) itself are deeply conceptually and rhetorically indebted to the diagnostic and deliberative discourses of Early Āyurveda. In contextualizing the circa first/second-century CE *Caraka*, Preisendanz has in turn shown that our earliest medical literature is the product, not only of the same intellectual milieu that produced the *Nyāyasūtra*, but specifically of the discursive space we first find articulated by “the authors of the religio- philosophical treatises assembled in the *Vārṣṇeyādhyātma* group of chapters found in the *Mokṣadharma* section of the *Mahābhārata*”[^189_148]—which is to say our earliest recoverable moments in the history of Sāṃkhya and Vaiśeṣika philosophy. Perhaps most significantly from our perspective, in an important but neglected article entitled “Reasoning as a Science, its Role
+[[P189]]
+in Early Dharma Literature and the Emergence of the Term Nyāya,” Preisendanz conclusively shows us that these very same influences that inform the Cāraka—profoundly empiricist in their orientation—are integral to the earliest strata of the literature on *nīti* and *dharma*. In the case of the discourse on *dharma* in particular, such traces are strongest not when the *Dharmasūtras* are engaged in the conceptualizations of law as a “religion of everyday life” but rather when they turn to the evidentiary realm of legal proceedings, which demands the weighing of competing claims and the evaluation of evidence. Developing upon Preisendanz’s premises, within the quotidian realm of the court, decisions need to be arrived at— not in accordance with injunction (*yathāvidhi*) as Mīmāṃsā would have it—but, by careful reasoning (*tarka*) “after deliberation (*abhyūhya*). . . according to the actual state of affairs/situation) \[*yathāsthānaṃ*].” Succinctly, the very same texts—especially Gautama and Vasiṣṭha—where the prescriptive and disciplinary model we call Brāhmaṇical normativity is first being articulated also contain within them other conceptualizations of what “Brāhmaṇical knowledge production” or even “doing Brāhmaṇa” might be, models that as we will see momentarily, find much more robust realization in other decidedly Brāhmaṇical social domains. Without committing to either the valorization or denigration of “empirical” or “this worldly” concerns and the type of context- and site-specific transactional navigation that addressing such matters successfully demand, what our sources make clear is that, just as much as their *śramaṇa* rivals, Brāhmaṇical thinkers and social actors were very much engaged in this domain.
+[[P190]]
+Until very recently, simply because we have lacked much in the way of appropriate sources that could be unambiguously dated to before the fourth or fifth century, what systematic Brāhmaṇical knowledge might have looked like before the Gupta Era—even whether much of that sort of thing existed at all outside the realm of Veda, Law, and grammar—has been open to wild speculation. Perhaps most pointedly, Johannes Bronkhorst and to a lesser extent James Fitzgerald have proposed that, since we cannot find them in the narrow pool of demonstrably early sources, most of the theological and philosophical features we view as constitutive of “Brāhmaṇical religions,” as opposed to a Brāhmaṇical sociality founded upon caste strictures, must themselves be Gupta era developments.[^191_149] This framework posits that much of Brāhmaṇical thought, including the doctrinal dimensions of the *Mahābhārata*, is produced *en masse* under the Guptas, and that it is simply a pastiche of older non-Brāhmaṇa notions newly retrofitted to a Brāhmaṇical social model. Brāhmaṇical modes of reasoning as well as soteriology are thus read as unidirectionally appropriated from an *śramaṇa* intellectual milieu that critiqued but did not dialogue with comparatively primitive pre-speculative proto-Brāhmaṇical traditions. Building on his much more plausible “out of Magadha” postulation of a separate geographical site of origin for early *śramaṇa* thought around the fifth century BCE, Bronkhorst in particular postulates that we should see places such as Gandhāra as the real post Magadha era “center” of early Indic civilization representing an autonomous intellectual and sociological non-Brāhmaṇical domain within which Brāhmaṇas and the logic of caste played little or no part. The recovery, editing, publication, and continuing study of two corpuses—one in Gāndhārī and the other in Sanskrit—that, as both carbon dating and paleographical analysis conclusively demonstrate, offers us
+[[P191]]
+manuscripts penned between the second century BCE and the second century CE, offer a serious challenge to such suppositions and thankfully, from our perspective, places our discussion of these matters on much firmer ground.
+
+As Richard Salomon, who initiated the thriving field of Gāndhārī studies has recently shown, for example, the otherwise unattested Gāndhārī language *Bahubuddhakasūtra* is preserved in a first-century BCE manuscript, making it a near contemporary of both the Gautama and Baudhāyanadharmasūtras. This is a proto-Mahāyāna work that offers a series of the lives of the Buddha within a Bodhisattva inflected framework. It seems to be an original composition specific to the Gandhāra region and the Gāndhārī language. And yet, much to the consternation of those who would see a world free from “Brāhmaṇism” as a world where “Brāhmaṇical normativity” and the discourse of caste finds no place, the *Bahubuddhakasūtra’s* fifth chapter delineates “the social classes of the Buddha” with the express purpose of communicating the message that “buddhas are always *kṣatriyas* or Brahmans; they never belong to any other class.”[^192_151]
+
+While it is problematic to speculate about the entire corpus—since much of it remains unpublished and unstudied—if we take the sampling of sources in translation presented by Richard Salomon in his recent anthology as representative, Gāndhārī Buddhist writings offer us a strikingly familiar set of “demographic preferences.” While Buddhas can be either Brāhmaṇas or Kṣatriyas, disciples of the Buddha mentioned in these texts certainly include Vaiśyas. This is to say that directly contemporary to the emergence of the *dvijāti* as lexeme and concept, independent of any appeal to the Vaidika sources, Buddhists in Gandhāra are
+[[P192]]
+adhering to a comparable notion of ritual or religious eligibility (*adhikāra*). At least so far as I can determine, where humbler sort of professions—such as artisans or potters—make their appearance in these texts, it is in the accounts of the previous lives of the Bodhisattvas and the disciples of the Buddha. Entirely typical in this regard is the tale of Ajñāta Kauṇḍinya—notice his Brāhmaṇa *gotra* name—who in his past life as a potter provided resources and shelter to a *pratyekabuddha* during the rainy season.[^193_152] This is to say, in precisely the manner the Brāhmaṇical legal texts prescribe, he acted like a good *śūdra* and offered service to a member of the higher castes. Though the notion is nowhere stated explicitly, the moral of the tale is that as a result of this appropriate action, the potter obtained rebirth as the sort of person—namely, a Brāhmaṇa-bodied person—who might benefit more directly soteriologically from the Buddha’s teachings. What are not in evidence in these sources, in contrast, are the numerous contestations or inscriptions of Brāhmaṇa-hood as a cultivatable or ethical status of the sort McGovern has so convincingly recovered from other early parts of the Buddhist canon. Rather than offering a refutation of McGovern’s analysis, however, such region and canon specific discursive patterns should instead be read as indicative of the fact that our imagined Buddhism—just like our imagined “Brāhmaṇism”—was not a monolithic doctrinal formulation wedded to particular social forms, but instead internally diverse, contested, and contradictory in its relations to forms of knowledge, sociality, and power.
+
+Incidentally, though they offer us examples of literary, philosophical, and doctrinal commentary in a manner akin to *śāstra*, another thing we do not find in the published Gāndhārī sources is evidence of a robust intellectual environment that nurtures philosophical debate (*vāda*) within the Buddhist *saṅgha* let alone across communities. Whereas in contemporary
+[[P193]]
+and near contemporary Brāhmaṇical sources in Sanskrit—such as the *Dharmasūtra* literature and the Āyurvedic texts—terms of art like *vivāda* are treated as referring to competing legal claims or a legitimate conceptual dispute within the discourse, which in either case needs to be resolved based on an examination of evidence, in the Gāndhārī commentary on the “Sūtra of Chanting Together,” *vivāda* is a purely pejorative term for wrongful dissent. Instead of demanding an examination of competing claims so that one might arrive at a correct understanding of circumstances—“just as they are”—here, *vivāda*, founded on destructive and wrongful emotions and impulses, is simply a disrespectful behavior, resulting from an undeveloped and unpurified mind, that must be snuffed out. This is to say, that both terminologically as well as conceptually, these early Gāndhārī sources show little if any dialogical engagement with the terms of art and modes of conceptualization seemingly native to the interrelated empiricism invested discursive spaces reconstructed by Preisendanz.
+
+If the Gāndhārī sources point to unexpected sociological continuities with an emerging canon of standards linked to one particular articulation of a normative Brāhmaṇism, the recovery and publication (though sadly not complete translation) of what Eli Franco has called “The Oldest Philosophical Manuscript in Sanskrit” offers us unmediated access to at least some of what a debate conducted between many types of Buddhists and many types of Brāhmaṇas would have looked like during the first and second centuries of the Common Era. Discovered in a cave in Chinese Turkestan, we owe the preservation of so-called Spitzer manuscript, to say nothing of the publication of the works of Franz Kafka, to the remarkable Jewish
+[[P194]]
+intellectual and Indologist named Moshe Spitzer. A friend of Martin Buber, Franz Rosenzweig and Gershom Scholem, Spitzer has been working with the text at the Prussian Academy of Sciences and when he fled Berlin for Israel in 1939, for much of the original was destroyed in the war. Despite never publishing his edition in progress, he preserved the work in transcript and photographs and Franco’s study of this materials is made possible by his efforts.
+
+Within Indology and the study of South Asian religion, the Spitzer manuscript is known almost exclusively for its attestation of what is probably the oldest summary of the *Rāmāyaṇa* found in a non-Brāhmaṇa source,[^195_155] and more importantly, for a fragmentary list of the internal divisions of the *Mahābhārata* that can be plausibly read as suggesting that at the beginning of the Common Era, the *Mahābhārata* was only two thirds as long as what we find in the critical edition and was missing such key parts of the text as the *Virāṭa*, *Anuśāsana*, and *Svargārohana Parvans*. Ironically, it is on the basis of this very same unannotated list that scholars like Bronkhorst and Fitzgerald have envisioned an ur-Epic that was theologically and ideologically a very different sort of document than what we have before us.[^195_156] When placed in the context of the contents of the rest of the Spitzer manuscript, however, which appears to begin with a digest of a range of types of Brāhmaṇical knowledge and then eventually moves on to offering dialectical engagements founded on the use of formal logic conducted among different types of Buddhists, but also with archaic traditions of Sāṃkhya, Vaiśeṣika, and Mīmāṃsā, this story
+[[P195]]
+of cultural, conceptual, and stylistic discontinuities seems less and less plausible. Indeed, except around the margins—as say for example, when Spitzer’s Vaiśeṣikas offer a model where *guṇas* are an additional ontological category—the overwhelming impression one gets in trying to read this rather long and badly damaged text is that by the first century or so of the Common Era, both the style and substance of Indian philosophical debate—among Brāhmaṇas just as much as Buddhists—had been in existence for a number of centuries.
+
+To simply highlight in sequence a few interesting moments in this rather difficult work, the contents of the Spitzer manuscript include: a summary of the doctrine of Ājīvakas that neither *dharma* nor *adharma* bear any result, explorations of the nature of suffering and liberation, an introduction to Sāṃkhya and Vaiśeṣika ontologies, a theory of both Buddhist and non-Buddhist approaches to veridical knowledge (*pramāṇa*), our *Mahābhārata* and *Rāmāyaṇa* sections, an engagement with Dharmaśāstra and the discipline of the arts, the representation of the omniscient Buddha as knowing the Vedas and *śāstra*—including the disciplines of dancing and singing, various doctrines of *mokṣa* that posit the liberation of a lasting self, whether garlic (*laśuna*) has different effects on Brāhmaṇas, a consideration of how the examination (*parīkṣā*) of the body produces dispassion, a debate about whether *saṃsāra* has a beginning, a refutation of the existence of a supreme deity responsible for everything, an argument about whether the Buddha’s words could be true since they are in Prakrit, a discourse on love and compassion and their difference from attachment, a consideration of whether consciousness is intrinsically pure, and a refutation of the idea that is constitutive of reality. All of the above are followed by a delineation of the rules of philosophical debate and a whole lot of philosophical back and forth among Buddhists and with Vaiśeṣikas, Sāmkhyans and Mīmāṃsakas. This later
+[[P196]]
+material—the only portions of the text that Franco has critically edited as opposed to transcribed—occupies the majority of the surviving portions of the manuscript.
+
+When we turn to the sociological and doctrinal but not strictly “philosophical” dimensions of our text—though much of it is still in shambles—what we find is hints of the veneration of the god Nārāyaṇa, some sort of soteriological *ādhyātmika* approach to *mokṣa* ((*s*)arvveṣu hi bhūteṣu *sagu\[ṇe\]*. . . . *opadeśā mokṣādhigamaḥ*),[^197_157] and a Dharmaśāstra that believes in multiple *āśramas*—at least *gṛhasthāśrama*[^197_158] and \[*vā*\]*naprasthā*[^197_159]—multiple forms of differentiated *dharmas*—the *svadharma* of Kṣatriyas (*yajanam addhyayana\[ṃ\] dānam iti*) and what is likely one associated with kings, (*parānugrahakṛtā taddharmmalakṣaṇa\[ṃ\] sarvvavarṇṇeṣu*),[^197_160] as well as legal proceedings and rules concerning which things are to be eaten and not eaten. In some of the most complete portions of the text, we are also offered a canon of worldly entextualized knowledge as it appears in the first few centuries of the Common Era. This is inclusive of musical *śāstra* (*gandharvaveda*)—though we only hear about rhythms (*tāla*)—medicine (*cikitsā*), war (*yuddha*), accounting (*gaṇa*), and knowledge of writing or scripts (*emd. libijñānam* to *lipijñānaṃ*), *Kāmaśāstra*, *kāvya*, commentarial writing, storytelling, skill in song and dance, craft (*śilpa*)— defined as comprised of the work of the blacksmith (*karmmāra*), washer person or rope maker (*rajaka*), craftsmen/sculptor (*takṣaka*), one who works with red lac (*jatukāraka*), a hunter who uses a spear (*kuntakāraka*), and potter (*kumbhakāraka*), and astrology. Unexpectedly, this entire canon is defined as “Brāhmaṇical knowledge” and the occasion for its delineation is a debate about what it really means to say the Buddha is omniscient, namely, does this imply he
+[[P197]]
+potentially could know everything or that he actually actively had comprehensive command of the contents of all knowledge systems. Surprisingly, the Spitzer manuscript’s *siddhānta* holds to the latter stance, telling us that the Buddha had memorized all of the Vedas and their *aṅgas* and all forms of “Brāhmaṇical” *śāstric* knowledge —a category which as we can see strangely encompasses accounting, scribal practice, and the whole range of Śūdra craftsmen professional knowledge.
+
+The Spitzer manuscript’s engagement with Brāhmaṇical philosophy in its various forms is even more detail laden and particularized and a careful study of the evidence it provides—which cannot be attempted here—has the potential to substantively alert our sense of the floruit of Indian philosophical debate. Indeed, for example, in regard to Sāmkhya in particular, our first- to second-century text envisions a school of thought to which Kapila, Pañcaśikha, and unnamed others have already offered their diverse contributions. Interestingly, in its presentation of the lineage, unlike the *Sāṃkhyakārikā*, the text excludes from its delineation both Āsuri—who is typically placed right after Kapila but before Pañcaśikha—and also offers no mention of Īśvarakṛṣṇa, the author of the *Sāṃkhyakārikā* itself. Yet at the same time, it provides indications that it is well acquainted with the type of “theistic Sāṃkhya” that is typically assumed to have played no role in early formal philosophical discourse.[^198_161] No one, however, could look at the Spitzer manuscript, where
+[[P198]]
+Sāṃkhya positions are asserted alongside those of Buddhist schools of thought, Vaiśeṣika, and Mīmāṃsā in a language replete with *pakṣas*, *pūrvapakṣas* and *siddhāntas*—all asserted using abstract ablative constructions—technical determinations of logics of inherency (*anvaya*), logical fallacy conflicting premises (*virodha*) and refutation based on undesirable consequences (*prasaṅga*), probans (*liṅgas*), primary causes, facilitating cause and effects (*kāraṇa*, *nimitta*, and *kārya*), latent and completed effects (*adattaphala* and *dattaphala*), correct determination and ascertainment, things to be established and means of establishing them (*sādhya*, *sādhaka*, and *sādhana*), to say nothing of lots of talk about the durability of sounds, words, and pots, and conclude that what they are encountering is anything other than robust and mature registers of Brāhmaṇical and non-Brāhmaṇical philosophical reasoning.
+
+Within his edition and transcription of the second/third-century Spitzer manuscript, Franco has identified a number of direct textual parallels with a work called the *Tarkaśāstra*.[^199_162] Ascribed by later tradition to Vasubandhu, this early work of Buddhist logic is preserved only in its Chinese translation which was composed by the Indian Buddhist Paṇḍita Paramārtha around 550 CE. Paramārtha, who seems to have been born somewhere around Ujjain and who died somewhere in what is now China, was one of the few Indian pandits to successfully make that long journey and the only scholar of his sort to transmit both Buddhist and Brāhmaṇical sources. On the basis of its date of translation, scholarship has typically assumed that the *Tarkaśāstra* itself was at best a work of the mid-fifth century and thus that the same would hold true for the two additional and otherwise unattested works of Brāhmaṇical philosophy— the *Vaiśeṣika Daśapadārthī* and *Sāṃkhya Suvarṇasaptati*—transmitted alongside it in
+[[P199]]
+Paramārtha’s canon. Our translator, however, has characterized these three works as representative of basically contemporary interlocutors for their respective schools of thought. Now that we can comfortably place arguments of the sort that we find the *Tarkaśāstra* as already present within second/third-century philosophical discourse, this characterization assumes a rather different significance. For even though they have typically been assumed to be Gupta or post-Gupta compositions, both of Paramārtha’s “Brāhmaṇical” works in terms of both their form and their content have been long recognized by scholarship as offering a glimpse of a particularly early stage in the development of tradition. What the Spitzer manuscript suggests is that such texts look archaic because they are archaic and in fact can plausibly be treated as early Gupta or even pre-Gupta era compositions.
+
+In particular it is the second work, the *Sāṃkhya Suvarṇasaptati* that will occupy our attention.[^200_163] Not only is it doctrinally archaic—as has long been noted,[^200_164] it offers numerous textual parallels to materials found cited as the works of ancient writers in the later commentaries—but its theological and sociological content, much of it couched in a narrative style eerily reminiscent of Buddhist story telling traditions, speak of an internally diverse Brāhmaṇical world within which there are a multitude of ways of being and doing Brāhmaṇa but surprisingly few traces of the type of “Brāhmaṇical normativity” we typically infer must have governed the silent majority of social arrangements as they appeared on the ground.
+[[P200]]
+The *Suvarṇasaptati* opens with an encounter between a Brāhmaṇa named Āsuri, who is reveling in the *dharma* of a householder (*āsure ramase gṛhasthadharmeṇa*) and the compassionate (*mahākaruṇya*) and semi-divinized sage Kapila, whose very nature is an expression of *dharma*, *jñāna*, *vairāgya*, and *aiśvarya*.[^201_165] Kapila’s initial teaching is not concerned with Sāṃkhya doctrine in particular, but rather admonishes Āsuri for being a Brāhmaṇa who has abandoned *brahmacaryā*. In short, it provides confirmation of McGovern’s thesis that side by side with the Dharmaśāstra models, there existed a likely older conceptual model in which Brāhmaṇa-hood was primarily defined by celibate ascetic observances. In response to Kapila’s critique, Āsuri abandons the *gṛhasthadharma* and becomes Kapila’s disciple. Just as in this narrative interlude, the first teaching presented in the body of the *Suvarṇasaptati* is not Sāṃkhya-specific knowledge, but instead a philosophical and theological dictum, widely shared across the boundaries of Brāhmaṇical and *śramaṇa* schools of thought during this period. Succinctly, like most forms of classical philosophy apart from Pūrva Mīmāṃsā, our text teaches that the foundational concern of human existence is the problem of suffering.
+
+Invoking a Vaidika framework already established in the *Nirukta*, the author of the *Suvarṇasaptati* characterizes suffering as taking three forms, the spiritual (*ādhyātmika*), the material or physical (*ādhibhautika*), and the supernatural (*ādhidaivika*).[^201_166] In offering us two examples of forms of knowledge that can assist in annihilating suffering, the *Survaṇasaptati*
+[[P201]]
+presents us with the dual paradigms of Āyurveda and the Veda. This interpretive choice is quite evocative of the deep history philosophical discourse we have been exploring in which high scholastic discourses emerge in close relation to quotidian empirically oriented disciplines, such as medicine, which have a diagnostic approach to understanding “things just as they are.” When our author makes use of the category of Veda, it is not as an abstraction or a source of injunction but in reference to the specific semantic messages—mostly supportive of soteriology—communicated in particular textual passages. While most of these are drawn from the *Ṛg* and *Yajur Veda*, as we shall see, he also draws upon works not typically affiliated with that canon. This investment in a Vaidika mode of engaging with Vedic textuality travels in tandem with a representation of the religious landscape that prominently features Vedic deities. Perhaps most tellingly, instead of being represented as a foolish “also-ran” to the great gods of *bhakti*—the typical trope in Epic and *Purāṇa*—our text treats Indra and his rituals as iconic invocations of mainstream religious veneration.
+
+Thus, Vaidika knowledge from our author’s frame of reference represents an assumed intellectual mainstream that nonetheless needs to be made sense of using a markedly different approach than we typically associate with Brāhmaṇical reading strategies. It is surely no accident that the *Suvarṇasaptati’s* delineation of the forms of “external knowledge” (*bāhyajñāna*)—as comprised of the *vedāṅgas* (*śikṣā*, *vyākaraṇa*, *kalpa*, *jyotiṣa*, *chanda*, and *nirukta*)—and the *vidyāsthānas*—quite noticeably makes no mention of Mīmāṃsā, though this school of exegesis features prominently in a comparable place within the later Sāṃkhya works of exegesis. This is likely because our author’s analysis of scriptural text shows no indication of being influenced by Mīmāṃsaka reading strategies—which privilege particular types of verbal expressions—but instead align him with the semantic focus of which we find echoes in the style of reading scripture practiced by the followers of Yāska. As a source of *techne* as opposed to doctrine, however, in the *Suvarṇasaptati*, Vedic knowledge is understood as entirely devoted to *laukika* modes of knowing. These are then—of course—contrasted with the liberating knowledge derived from Sāṃkhya.
+
+Perhaps nowhere is the *Suvarṇasaptati’s* at once informed—one might even say “insider” perspective—and yet at the same time skeptical or disenchanted attitude towards “Brāhmaṇical” knowledge more clearly displayed than in how it frames its criticism of the impassioned mind that inevitably engenders transmigration.[^202_167] Unexpectedly, but altogether unmistakably, our text singles out human beings who “by means of their passion for *rājasic* activity (*anena rājasarāgena*) obtain rebirth in *saṃsāra*, among the classes ranging from the realm of Brahmā down to the birds” (*brahmasthānāditiryagjātiparyante saṃsāre janmopādatte*) through identifying “some people who think (*kaścin manyate*) ‘I enact the great act of philanthropy! I perform that which is to be done on behalf of the gods, which is the great *yajña*! I drink the soma, I will experience bliss in the other world!’ (*ahaṃ mahādānācārami*, *mahāyajñadevakāryaṃ karomi*, *somarasa\[ṃ\] pibāmi*, *paraloke sukhanubhaviṣyāmi*).”[^203_168] In other words, the canon exemplifying zealous orientations that block soteriological attainment is virtually identical with highest forms of practice and knowledge extolled in the early Veda. And, while our text assigns Brāhmaṇas who scrupulously carrying out their ritual obligations to rebirths in domains ranging from the god realms to incarnation as a ghoul (*piśācajāti*) or animal (*tiryag-jāti*), it conspicuously refuses to draw a connection between the human categories of *varṇa* and *jāti* and specific karmic destinies. Indeed, not only is any *varṇa* other than that of a Brāhmaṇa never discussed in our text—let alone *varṇa* as a system—but the
+[[P203]]
+*Suvarṇasaptati’s* representation of social reality and prescriptive norms on the ground, in narrative and parable, diverges quite jarringly from the social forms we would anticipate for premodern India. For while it offers us tales of merchants and their caravans travelling Pataliputra to Ujjain, of blind men, wandering ascetics, and many accounts of power of kings, the world it depicts is one in which the Brāhmaṇical *pariṣad* comprised of learned Dharmaśāstrins wields little disciplinary power.
+
+It is in this regard that we must attend to our text’s reimagining of the category of *dharma* as more a matter of ethics than ritual comportment. According to our author, *dharma*, which here bears no explicit connection to the Veda, is indeed comprised of prescriptions and restrictions (*yama* and *niyama* instead of *vidhi* and *niṣedha*). Instead of injunctions, however— the category of *yama* is comprised of non-enmity (*adveṣa*), doing good work for the teacher (*ācāryasatkāra*), maintaining internal and external purity (*antarbahiḥ śaucaṃ*), restraints on food and drink (*annapānanigraha*), and not being careless (*apramāda*)—and the category *niyama* consists of not harming (*ahiṃsā*), not stealing (*asteyam*), speaking truth (*satyavacana*), and *brahmacarya*—with most of the *yamas* and all but the last of the *niyamas* being treated as incumbent on human beings in general. Such a framing not only represents a departure from the worldviews we find in the *Dharmaśāstras*, but it specifically subordinates the key focuses of works of Dharmaśāstra like Gautama—with their privileging of comportment and purity strictures—such that these become one among many elements in the discourse.
+
+Just as our text takes a different approach to construing Vedic textuality, mythology, and orthopraxy, so too does it offer a markedly different impression of what constitutes Brāhmaṇical identity. Like all of the early Sāṃkhya commentaries, in characterizing the type of social agents who know the twenty-five categories (*pañcaviṃśatitattvajña*) and through
+[[P204]]
+them achieve liberation, the *Survaṇasaptati* twice invokes a source it calls the *mokṣa gāthā*. This floating verse tells us that the knowers of the twenty-five categories dwell in an *āśrama* and may bear matted locks (*jaṭī*), have shaved heads (*muṇḍī*) or a top knot (*śikhī*).[^205_169] This characterization is much akin to one our text highlights in its own long and highly repetitive narrative vignettes, which stylistically bearing a striking resemblance to the early Buddhist canon. The two passages on which we will focus in particular both occur in the last of our text’s three divisions. On the surface, the first tale resembles an early foray into the world of the qualitative sociological survey, for in it a Brāhmaṇa student seeks out a whole bunch of different types of Brāhmaṇas, queries them with the exact same question—having known what have you gone forth? (*kiṃ buddhvā pravrajito ‘si*)—and then records their answers. Underneath all of this of course lies a specific didactic point, for the number of Brāhmaṇas queried conveniently corresponds to the text’s delineation of types of “enjoyments” (*tuṣṭi*). Nonetheless, the numerous, detailed, and highly idiosyncratic representations of different modes of “being Brāhmaṇa” on display here, while serving no obvious function in furthering the text’s main arguments, possess an air of almost anthropological verisimilitude, evocative of a world to which we otherwise have very little access.
+
+The first Brāhmaṇa, for whom Indian philosophy was apparently a purely abstract intellectual exercise, responds by telling us that he renounced the world when he gained the understanding that something called *pradhāna* is the cause of the three realms. Lacking further levels of understanding, we are told, he did not achieve his soteriological goal.[^205_170] If the first
+[[P205]]
+Brāhmaṇa’s answer was banal and expected, the second perspective is quite surprising. The second Brāhmaṇa says that while the doctrine that *pradhāna* is the cause the world is important, the means to liberation demands the practice of what he calls *upadāna*—“the instrument for the proper procedure of practice utilized by all the ones who have gone forth.”[^206_171] The first three components of this *upadāna*, the triple staff (*tridaṇḍa*), the water vessel (*kuṇḍika*), and the saffron robes (*kaṣāya*), represent the typical accoutrements of Brāhmaṇical ascetic. It is the final component, euphemistically called the “auspicious thing” (*maṅgala*) that proves so surprising, for most of its five components—a sheath of ash \[on the body] (*bhasmakośika*), wearing the *rudrākṣas* (*rudrākṣamaṇi*), having a body wrapped in a three-fold thread/cloth (*tritantuveṣṭitakāyatvaṃ*), the recitation of *mantra* (*mantrapaṭhana*), and, perhaps most bizarrely, installing a *kuśa* vine on the top of one’s dreadlocks (*jaṭāgre kuśavallīsthāpana*), are evocative of a Śaiva ascetic. In this early form of Śaiva tradition, however, it appears that it is neither doctrine, nor initiation, but conduct alone that makes possible liberation.
+
+In contrast, Brāhmaṇas three, four, and five all appeal to the privileging of specific doctrinal notions, whether it is through fleshing out of the notion of the *pradhāna* in relation to questions of the eternal and noneternal and the conscious or unconscious, or factoring in the roles played by time—perhaps in the sense of sustained concerted effort in sustaining practice and understanding—or fate, maybe even just good luck—as the keys to obtaining liberation. Rather ambiguously, while treating each in sequence as inadequate, instead of simply
+[[P206]]
+dismissing these perspectives as wrong views, the *Suvarṇasaptati* categorizes them collectively as the *nimitta tuṣṭis*, seemingly suggesting that each of these approaches can represent a necessary, if not sufficient, part of Sāṃkhya religious life. We next encounter— surprise surprise—five more Brāhmaṇas, who again offer us tantalizing glimpses of the very unexpected social world in which they live. As we shall see, perhaps most interestingly, for the first and the last of these Brāhmaṇas, the motivation for renouncing the world is framed in abstract existential and ethical terms and not as a response to personal disappointments and failures. Here is how the first Brāhmaṇa answers:
+
+> He asks the first Brāhmaṇaḥ: Knowing what have you gone forth? \[The Brāhmaṇa] responds:
+>
+> There are five types of sense objects in world. Occupations (*vṛtti*) are for the purpose of accumulating those objects. Whether it is agriculture (*kṛṣi*), protecting cattle (*pāśupālyaṃ*), serving the king (*rājasevā*), or mercantile activities (*vāṇijya*)—all of those are bad activities. Or, let’s say, having abandoned those four occupations—let a person \[instead] steal things! This additional occupation of accumulating things is a bad activity because of the *niyama* \[*asteya* (one should not steal)], because it afflicts oneself as well as another (*svaparapīḍā*). Having seen these occupations are bad, I desire to go forth.[^207_172]
+
+Our first Brāhmaṇa arrives at the rather understandable conclusion that it is impossible to participate in the transactions of the professional world without engaging in unethical action or hurting other people. And so, instead of going to graduate school like similar minded people do today, he renounces the world and takes to the road without ever even getting involved in the transactional professional life and responsibilities expected of a young householder. Apart from its basic message, two features of our first Brāhmaṇa’s discourse are pertinent to our own investigation. First, our Brāhmaṇa’s critique of the transactional world bears a striking
+[[P207]]
+resemblance to a similar but much more extended treatment of the same topic in the oldest surviving work of Śaiva commentary, the fourth-century *Pāśupatasūtrabhāṣya* of Kauṇḍinya. These connections will become self-evident when we turn to Kauṇḍinya’s critique of the world of transactions at the conclusion of this chapter. Such parallels are particularly intriguing in light of the Śaiva elements—associated with the practice of *upadāna*—that, independent of a recognizable Śaiva theology, our text seems to have suggested at least sometimes play a supplementary role in the religious life of a Sāṃkhya adept.
+
+What is more even jarring however is that the social world our Brāhmaṇa is condemning is hardly the domain of *varṇāśramadharma* we would anticipate. Our Brāhmaṇa’s moral conundrum is predicated on disavowing a decision to pursue a vocation in either agriculture (*kṛṣi*), protecting cattle (*pāśupālyaṃ*), serving the king (*rājasevā*), or mercantile activities (*vāṇijya*), and this moral dilemma is only meaningful if he was potentially free to choose from among those activities. And yet, apart from the role of serving a king, the traditional strictures of our familiar forms of Brāhmaṇical knowledge expressly forbid a Brāhmaṇa from engaging in any of these activities except perhaps during a temporary time of crisis.[^208_173] What is equally interesting is that missing from this list of options—indeed missing from the entirety of the *Suvarṇasaptatati* itself—are any representation of the traditional roles usually assigned to Brāhmaṇas, such as scholar, legalist, or professional Vedic ritualist, which are often imagined—at least in theory—as providing refuge from a world governed by violence and impurity.
+
+Much in alignment with what contemporary anthropology and sociology have shown us in studying modern ascetic demographics, our next several householder Brāhmaṇas
+[[P208]]
+renounce the world in response to personal disappointment. The first one becomes distraught because he is unable to protect his hard-won private property, while the other renounced the world when he recognized that his desire for material things outstripped his capacity for acquiring them. In contrast, the last person who is asked offers a vivid denunciation of the world as a place where professional success is inseparable from acts of violence.
+
+> I am capable of seeking for the obtainment of what is not obtained; having obtained it, I protect it so it is not destroyed. Having enjoyed it, I am capable of getting stuff again. If I want something better, then I am capable of getting that also. That being the case, why have I gone forth?
+>
+> Because another is harmed by the fourfold occupation for accumulating things. If I am not violent, then this occupation is not successful. If I am a farmer, I would have to cut down grass and trees. If I were a warrior, then I would have to kill people. Or otherwise, I would have to steal other people’s money—and then I would have to kill other people. Or if I were a merchant than I would have to speak falsehood with my own voice. All faults arise in the world along with sense objects. Having known that fault, I desire to go forth.[^209_174]
+
+The last Brāhmaṇa is essentially an older and wiser version of the first. Just like his predecessor, he envisions a social world out of joint with the Dharmaśāstra—but strangely in alignment with much of our inscriptional record— where successful Brāhmaṇas become farmers, warriors, merchants and thieves—everything, that is, but professional householder Brāhmaṇa scholars and Vedic ritualists. Not only do the Brāhmaṇas in our text scarcely ever behave like “typical Brāhmaṇas,” the work does not affiliate professions with *varṇa* nor does it ever provide any positive conceptual content to its category of Brāhmaṇa. In fact, all of the Brāhmaṇas on display when we encounter them are either renouncers or in the process of becoming renouncers.
+[[P209]]
+A similar dynamic is on display in another curious tale, which this time is framed as a teaching about the power of philanthropy in accomplishing one’s goals (*dānasiddhi*). In this heartwarming story, a Brāhmaṇa who is hated and despised by his community—we never learn if this is due to prejudice or for wholly warranted reasons—buys his way back into the good graces of society and is then able to purchase salvific knowledge.
+
+> A certain Brāhmaṇa is hated by people, and knowing that others hated him, for that reason goes forth. He having gone forth, the *ācārya* along the *tīrthas* also hates him. He does not give knowledge \[to him]. Having himself realized his meager fortune, he goes to dwell in another village. Then, he says to himself, “This country is devoid of Brāhmaṇas. I will dwell here for the rainy season.” Having gone and dwelt there, he obtains a lot of alms. He offers what is left over to the friends, relatives \[of the rural folk] all the way up through to the cow herder woman. In that village, all the people become affectionate.
+>
+> \[When] he is desiring to complete his rainy season retreat, all the people give him other clothes and a three-part staff. Then the festival to Indra (*śakrotsava*) draws near, so he says to the people, “Who will come to my *mahājanapada* in order to see this festival with me? If you wish to go, all you folks should go, having first given some special thing or other to me. Having gone there \[to the *mahājanapada*], he goes to the *gurukula*. Picking out the best stuff, he honors the *ācārya*. Then, he subdivides the leftovers in sequence for the students. Now, the teacher and all the friendly people all like him. Then, the guru gives him knowledge. And by that knowledge he obtains the ultimate knowledge, then he obtains *mokṣa*. This is the *siddhi* achieved through philanthropy.[^210_175]
+
+Among the many peculiar features of this in some ways very cynical story, one thing that stands out is that this is essentially a tale of outcasting in which neither a formal process of shunning or nor formal procedure of expiation for readmittance is in evidence. Our ascetic goes to a place where there are no other Brāhmaṇas—a term that plausibly here really means
+[[P210]]
+renouncers. There, the local people, who once again are unexpectedly well off for “Śūdras” and other “uncivilized” folk, reflexively interact with him in much the same way as we saw in the Gandhāran account of the *pratyekabuddha* and the potter. Instead of simply piling up the alms he is offered, our Brāhmaṇa cleverly converts it into good will. And so, when the four months of the rainy season are over and it is time for the late August festival dedicated to Indra, our previously unfortunate person is able to return to the normative social world in the company of a huge following of followers or well-wishers who also have bestowed upon him a concrete material fortune. Again, in contradistinction to the Dharmaśāstra, which forbids the selling of knowledge, our previously disgraced Brāhmaṇa uses his new social capital and wealth to effectively purchase a guru.[^211_176] This teacher then abandons his past negative judgements of the potential disciple and confers on him his highest teachings. All of these activities take place in a world where the strictures of “Brāhmaṇical normativity” seem to be nowhere in evidence.
+
+A similar attitude where *śāstra* engages with a surprisingly transactional view of the world which is utterly uninvested in the promotion of *varṇāśramadharma* is on display throughout much of the earliest register of Brāhmaṇical *śāstra* that is not conceptually indebted to the lineage of the Mīmāṃsakas. Thus, works such as the *Daśapadārthī*, *Patañjaliyogaśāstra*, and *Āgamaprāmāṇya* of Gauḍapāda—the foundational texts of Vaiśeṣika, Yogadarśana, and the non-Mīmāṃsā inflected form of Advaita Vedānta, all do not incorporate the naturalization of a specific social order as a part of their interpretive project. Much as we saw in the *Suvarṇasaptati*, when such texts treat the matter of how *karma* informs human destiny the discussion is always about how meritorious actions leads either to the
+[[P211]]
+obtaining of a human birth or soteriological success and how unbeneficial actions engender transmigration into the body of an animal or creature, rather than about where *karma* ought to place a person within the strictly human social pecking order. Far from making efforts in terms of naturalizing specific human social circumstances into the fabric of reality, these texts take great pains not to draw such connections. Succinctly, the rhetorical strategy of invoking a conceptual connection between the theorization of natural kinds (*jāti*) and human caste taxonomies (*jāti*), which has become commonplace in early modern *śāstra* in both Sanskrit and the vernacular, is entirely absent from this early discourse. To be quite clear, many if not most of these texts were likely the product of a social world organized around an implicit or explicit social hierarchization that bore at least a family resemblance to the logic of caste and class. What is pertinent here is that such sociality is incidental to the vision of *śāstra* on offer, except perhaps in as much as it contributes to creating a leisure class in a position to produce the kind of discourse of which these texts preserve some traces.
+
+By the time we reach a textual world roughly contemporary with the world of the Guptas and Vākāṭakas, the dynamics have begun to shift—from utter disinterest within much of the realm of *śāstra* to tangential incorporation. Our most compelling and intellectually interesting example is the oldest complete commentarial work from the tradition of Nyāya, the fifth-century *Nyāyabhāṣya* composed somewhere in south India by the scholar variously referred to as Vātsyāyana and Pakṣilasvāmin.[^212_177] We can acquire a better sense of the rhetorical place which the consideration of *varṇāśramadharma* occupied within the world of early Nyāya by examining the two places where the concept makes an appearance—never as the central
+[[P212]]
+focus—within Pakṣilasvāmin’s arguments. In the first case, our author argues against the position, asserted by Gautama in his *Dharmasūtra*, that there is only a single valid *āśrama*— that of the householder—and that the soteriological orientation of ascetics is proscribed by the Veda. In the second, he attempts to refute a Cārvaka’s claims that the committing of good and bad deeds alike bear no subsequent and substantive consequences. Thus, in the first case the focus is on arguing for the necessary multiplicity of modes of knowing and authoritative sources, while in the second Pakṣilasvāmin aims to establish that there is a moral order to the universe. In both instances, the logic of *varṇa* makes an at best cameo appearance.
+
+Much of the investigation of *apavarga* in the fourth division of the *Nyāyasūtras* engages directly and antagonistically with a doctrine closely akin to that propounded in the Gautama *Dharmasūtra*. As represented in this *Bhāṣya*, in much the same manner as has been discussed at length by Olivelle, Gautama’s core position is that there is no specific injunction that mandates the existence of more than one *āśrama*—and for this reason, for a twice-born, only the occupation of a householder is valid. Since the performance of the ritual duties of a householder and the payment of the three debts (*ṛṇa*) incumbent on every human being is the work of a lifetime, Gautama asserts that there is no place in the human world for the practice of renunciation nor for its soteriological orientation. Both of these then must be forbidden by the Veda. Pakṣilasvāmin’s initial response observes that, while there are no specific injunctions in favor of multiple *āśramas* within the Vedic corpus, neither does it contain any explicit prohibitions. And, while he will go on to provide ample textual support, drawing especially on the *Atharva Veda*, to the effect that the Vedic corpus displays an investment in soteriological aims that Gautama’s impoverished social model cannot fulfill, more fundamentally, what he provides the reader is a competing sociology of knowledge founded on a rejection of the
+[[P213]]
+ascription of veridical authority solely to the Vedic corpus that is at the heart of Gautama’s project, in favor of a very different vision of the forms that true knowledge might take. The passage is worth quoting at some length:
+
+> The assertion that “there is only a single householder *āśrama* and not any others” is untenable, because no such explicit prohibition has been revealed \[in scripture]. . . .
+>
+> And, injunction operates on the basis of eligibility, as with other disciplines of knowledge, just as other *śāstras* explicitly provide injunctions regarding their own respective eligibilities, and not regarding \[eligibility] for another subject matter. Thus, this *brāhmaṇa* passage systematizing the householder \[*āśrama*] provides explicit inunctions regarding its own eligibility, and not regarding other *āśramas*, because of the lack \[of such injunctions].
+>
+> As for the argument that the Dharmaśāstra lacks validity, this position would have the undesirable consequence of the destruction of the world (*loka-uccheda*) because of the erasure of the activities/law (*vyavahāra*) \[that applies to] living beings. And, these authorities cannot be non-authoritative because they have the same seers and speakers \[for their authors as do the Vedas]. . . . Because of the differentiation of domains based on subject, their authoritativeness is subject-specific \[*viṣayavyavasthānāc ca yathāviṣayaṃ prāmāṇyaṃ*\]. The subject matter of *mantra* and *brāhmaṇa* is one thing, and the subject matter of *Itihāsa* and *Purāṇa* is something else. *Yajña* \[is the subject of] *mantra* and *brāhmaṇa*, worldly conduct \[is the subject of] *Itihāsa* and *Purāṇa*, the subject of Dharmaśāstra is the differential application of the law in the world (*lokavyavahāravyavasthānam*). In these matters, everything cannot be established by any one of these \[genres], and thus they are means of veridical knowledge within their respective domains, just like with the sense organs and so forth \[with regard to their appropriate sense objects\].[^214_178]
+
+One of the central arguments of the present work is that, just as much as the far more famous Mīmāṃsā inflected vision of prescriptive, totalizing, and hierarchical *śāstra*
+[[P214]]
+reconstructed by Sheldon Pollock, the worldview that Pakṣilasvāmin here so eloquently is giving voice to—already suggested by Āpastamba, which we will encounter again and again in many forms and registers—needs to be understood as a core Brāhmaṇical worldview, the understanding of which is absolutely essential if one is to make sense of the premodern Indic world. Fundamentally, it amounts to an *epistemic* assumption that the forms of knowledge and modes of authority that make the world work are intrinsically diverse, contextually bounded, and site- and community-specific. In other words, it offers a theory of interpretation that is antithetical to the reading practices derived from Pūrva Mīmāṃsā—reading discourses as unitary and univocal—that are fundamental to so many *śāstras*. As we can see from its appearance here in a work of Nyāya—later in this chapter we also encounter it within our earliest work of Vedic commentarial exegesis—though often overlooked, such a perspective is hardly absent from or marginal to the mainstream scholastic tradition. More importantly, however, in contradistinction to Mīmāṃsā and its modes of knowing, as the next thousand pages will make plain, once you start looking for it, across a range of social locations a similar orientation is evident in the realms of quotidian and pragmatic, the juridical, the theological, ritual prescription, and the theorization and ordering of space at almost every register of discourse—Brāhmaṇa and non-Brāhmaṇa—in the Indic medieval world in general and that of the Deccan in particular.
+
+Like most scholars of Nyāya, Pakṣilasvāmin believes that perception (*pratyakṣa*), tradition (*āgama*) inclusive of but not reducible to the Vedic corpus, and inferential reasoning (*anumāna*) are three conceptually distinctive but equally valid means for acquiring veridical knowledge about our world. Just as the means of acquiring knowledge are various, so too are the type of human authorities—those who possess the reputation of being valid veridical authorities or *āptapramāṇa*—in which such knowledge is situated. It is hardly an accident then
+[[P215]]
+that our author integrates his most strident and effusive defense of the notion *āptapramāṇa* immediately following his analysis of Vedic authority and how one might properly construe the Vedic sentence. After informing us, in an idiom akin to Mīmāṃsā, that the Vedic sentence is to be analyzed in terms of its possible functions as injunction (*vidhi*), providing supplementary information or encouragement (*arthavāda*), and repetition or reinforcement (*anuvāda*), Pakṣilasvāmin circumscribes these hermeneutical principles so that they apply solely to Vedic language. He then proceeds to challenge as misguided the assertion that veridical authority (*prāmāṇya*) resides with the Veda alone. While in alignment with the *sūtra* in the root text that closes out the chapter, our author begins by asserting the authoritative person (*āpta*) has veridical authority for the same reason the Āyurvedic texts hold veridical authority—because what they direct proves consistently efficacious—Pakṣilasvāmin then proceeds to make an ethical and soteriological argument not native to the *Nyāyasūtra* that establishes the authoritative person as a valid source of knowledge on rather more surprising and expansive grounds.
+
+> On what basis is there veridical authority ascribed to the *āpta*? \[We say, because] they see things directly (*sākṣātkṛtadharmāṇaḥ*), they want to communicate things as they are (*yathābhūta*). \[From seeing things directly, they discern] “you have to discard this, that’s the way to get rid of it, you have to get this, and that’s the way to get it.” They feel compassion (*anukampante*) for living beings.
+>
+> \[The *āpta* reflects,] “These living beings who have no knowledge of themselves, have no other source of knowledge apart from instruction. . . . They can neither avoid what is bad for them nor desire what is good, or if they do not, they have no well-being and they cannot resort to anything else.
+>
+> Come on! Let us teach them things as we see them (*yathādarśanam*—also according to our system)—just as they are (*yathābhūtam*)— after listening, they will know! What to avoid, they will avoid, and what to get, they will get it. Whoever accepts this instruction (*upadeśa*) founded upon the veridical authority of the *āpta*. . . . Putting it
+[[P216]]
+> into practice, there will be the accomplishing of their objective. This is the veridicality of the teaching of the *āpta* and the veridicality of the *āpta*.[^217_179]
+
+Instead of envisioning human authorities as the impersonal embodiments of a canon of traditional prescriptions, here the learned teacher, whether his subject is salvation or something else entirely, embodies an ethos of compassion. He offers his instruction so that other living beings, who lack the *upadeśa*, can avoid the unnecessary suffering that results from making destructive choices, and ultimately will be able to obtain their objectives. Succinctly, the teacher is imagined as a quotidian *bodhisattva*, who teaches specific *dharmas* as opposed to a singular Buddha *dharma*. Departing from the teaching of the root text—or for that matter from philosophical positions of the sort that we will find most memorably formally articulated in Dharmakīrti some centuries later[^217_180] that construct *āptapramāṇa* as vehicle for explaining the veridicality of the word of the Buddha—Pakṣilasvāmin proposes that all valid human authorities have veridical knowledge because “they see things as they are”—which is to say they have direct apperception of some aspect of reality. In an unmistakable fashion, in doing so our author repeatedly redeploys a specific and much discussed term of art— *sākṣātkṛtadharma*—that since the time of Yāska’s *Nirukta* has been reserved for explaining the mechanism through which the Vedic *ṛṣis* “saw” the fabric of reality and on the basis of
+[[P217]]
+which were able to transpose that reality into text in the form of the Veda. In introducing the category of veridical authority that resides in a person, Pakṣilasvāmin audaciously ascribes this capacity for “seeing things as they are”—the *sākṣātkṛtadharmatā*—as being equally a property of the *ṛṣis*, the *āryas*, and even of the *mlecchas*—which is to say the non-Sanskrit world. For, he tells us, “that is how the business/transactionality (*vyavahāra*) that pertains to all beings operates. . . . Gods, human beings, and the animals all engage in transactional conduct by means of these very *pramāṇas*, and there are no others.”[^217_181]
+
+The “business of how all beings operate” is also very much the focus of the second major passage in our text where notions of *varṇāśramadharma* are invoked—indeed the only place in the text where the whole compound appears. Here the objective, by hook or by crook, is to prove that, even though, as Sāṃkhya philosophy has argued, *karma* cannot be directly perceived, it can be established to exist based on a valid veridical proof. Since Nyāya, as we have seen, privileges reasoning outward from a real-world example (*dṛṣṭānta*), here, much of the focus is reasoning about the mysteries of life and reproduction. In accordance with the rather specific—but normative within the realm of *śāstra*—interpretation of what constitutes a valid causal connection, our author asserts if it were simply the case that the combination of physical elements and seeds contributed by the mother and father in concert with the right kind of action was the cause of human reproduction, then sexual intercourse would always and invariably produce a baby. Since, as we can see, this is not in fact the case, Pakṣilasvāmin proposes all of these contributing factors must simply supplement the real cause of conception,
+[[P218]]
+which he proclaims is nothing other than the entrance of *karma* into the embryo to be. In this way, he suggests through inference we can arrive at the certain understanding that *karma* is real and that therefore moral choices do have consequences. Then, almost as an afterthought, as if he is not so sure that he has satisfactorily proven his point and offered a real challenge to those who do not believe there is a philosophical basis for human morality, Pakṣilasvāmin very uncharacteristically concludes by offering the following argument from authority.
+
+> Finally, \[we explain how this theory is] in opposition to the *Āgama*. Indeed, there are many teaching that arise from the *upadeśa* of the sages about what should be done and what to avoid. The result of these teachings is that embodied beings engage in what should done and avoid what should be avoided according to their social class (*varṇa*) and their stage of life (*āśrama*). . . . And these two types of positive and negative action are at odds with what you say, namely, that there is no good or bad action, the distribution of pleasure and suffering on the part of a human being is not caused by *karma*. . . . That the creation of bodies is not caused by *karma* and that the distribution of pleasure and suffering is not caused by *karma* is nothing but the wrong view of the worst of sinners.[^219_182]
+
+Pakṣilasvāmin here defers not to a canon of knowledge, but to the teachings of various *ṛṣis* that are said to be scattered about in various places. In other words, he sees even Vedic knowledge as distributed across various domains. It is these diverse teachings, operating within a modality distinct from that which animates our *śāstra*, that underwrite the *dharmas* of the various *varṇas* and *āśramas*. The intellectual role of formal Brāhmaṇical *śāstra* is not to dedicate its intellectual project to upholding these norms, but simply, when appropriate, to gesture in the direction of the proper authority responsible for that domain. *Varṇa* and *āśrama* are offered as specific examples, not of a system that must itself be defended and upheld to ensure the survival of the world and place of Brāhmaṇas in it, but of the more general principle
+[[P219]]
+that there is a differentiated arrangement and application of positive and negative results across human lives that makes human choice meaningful.
+
+While this is the closest our commentary ever comes to seeking to naturalize *varṇāśramadharma* or Brāhmaṇical privilege into the fabric of reality, in contrast, our author is strongly committed to treating an ethical framework uninflected by caste identity and stage of life as integral to the order of things. Our author does not seem to understand such features of human experience as passion (*rāga*), delusion (*moha*), enmity (*dveṣa*) and so forth simply as subjective emotional states, but rather as objective elements in the world of experience that have a casual force in the production of the human body and actively structure human experience.
+
+This is a feature the *Bhāṣya* shares with the exegetical tradition on the *Vaiśeṣikasūtras*, which, as far back as can be documented much more radically treats what we tend to think of as ethical norms as embodied in discrete types of ontic substances made up of their own special kind of atoms. In a much more archaic vein, as translated by Paramārtha, the pre-fourth-century *Daśapadārthī*, for example, understands pleasure (*sukha*), suffering (*duḥkha*) but also such things as enmity (*dveṣa*) and *dharma* and *adharma* as *guṇas* functioning in the same manner as color, taste, smell, number, and weight—they are objective features that modify the logically simple forms of substances by imbuing them with specific behaviors.[^220_183] Within this framework, *dharma* and *adharma* are in fact types of stuff that when they stick to a person mechanistically produce specific consequences by polarizing them to him or her. Like a
+[[P220]]
+magnet, they attract certain categories of experiences and repel others. From this perspective, *adharmic* acts produce negative results and ultimately bad rebirths for the same reason that dropping your breakfast into a dumpster full of rotting garbage will render it inedible and even cause it to smell putrid. Abstaining from *adharmic* acts thus becomes no more of an ethical virtue than not eating your breakfast after it has been marinated in rotting dumpster refuse is a sign of fastidiousness.
+
+By the time we reach the seventh-century *Padārthasaṃgraha* of Praśastapāda, however, the archaic logic of the *Daśapadārthī* as well as the sort of more substantively ethicalized worldview we have been engaging with in the *Nyāyabhāṣya* have become fused with a greater degree of investment in upholding the familiar norms of the Dharmaśāstras within the context of Vaiśeṣika-specific knowledge production.[^221_184]
+
+> Moral law is a quality that belongs to the realm of the human (*dharmaḥ puruṣaguṇaḥ*). It is the cause of pleasure, the beneficial, and liberation for the agent. It is not accessible to sense perception. It is innately in opposition to the particulate atoms \[that make up] happiness. It is born from a purified intentionality regarding the conjunction of inner subjectivity and the *puruṣa*. It is the efficient cause for there being particular means enjoined for members of various *varṇas* and *āśramas*. Its means are enjoined in the *Śrutis* and *Smṛtis*, and they are correlated to those possessing various *varṇas* and *āśramas* based on relationships of generality and particularity and they are activities that involve actions and substances.
+>
+> Within this category, the universal \[*dharmas* are as follows]—*śraddhā* with regard to *dharma*, nonviolence, being for the benefit of all beings, speaking the truth, not stealing, personal regulation, sincerity/good intentions (*anupadhā*), abandoning anger. . . *bhakti* to a particular deity, fasting, not being intoxicated.
+>
+> For the Brāhmaṇas, Kṣatriyas, and Vaiśyas, there are sacrificing, Vedic study, and philanthropy. The ones particular to the Brāhmaṇas \[specifically] are officiating at sacrifices, teaching, being the recipients of gifts. And the *saṃskāras* are enjoined according to *varṇa*.
+[[P221]]
+> The directives of the Kṣatriya are directly protecting the people, punishing negative actions, not turning back in battle, and the *saṃskāras* are belonging to one’s own family \[*svakīya*\]. For Vaiśyas, \[they are] buying and selling, agriculture, animal husbandry, and the *saṃskāras* are “one’s own.” For the Śūdra \[they are] being dependent on the prior *varṇas* and the rites are without \[Vedic] *mantras*.
+>
+> But, for the various *āśrama* possesors, regarding the *brahmacārin* dwelling in the *gurukula*, they are enjoined according to one’s own *śāstra*—such things as the desire to serve the *guru*, observing begging, and kindling the fire, abstaining from meat and honey, from sleeping during the day, and from ointments and salves.
+>
+> Or \[for] the householder who has taken a wife, who is either *snātaka* or *vidyāvrata*, \[they are] the practicing in the evening and the morning of the five *mahāyajñas*. . . . by means of wealth that is accumulated from householder affairs (*śālina*) and non- domestic business, \[and the practicing of] the obligatory daily ritual. . . . and \[in so much as one is able,] also the practice of the things classified as *somayajña* such as the *agniṣṭoma* and so forth, as well as things classified as *haviryajña* such as *agnyādheya* and so forth, *brahmacarya* during the intervals when the wife is not fertile, and the production of offspring. . . .
+>
+> For all three, in the final stage of life for one possessing *śraddhā*, having always not given \[a reason to fear] to all beings, having renounced one’s own ritual activities, being not negligent in regard to *yama* and *niyama*, and for the one who has gone forth there is the practice of sustained contemplation in reference to the six *padārthas*. With regard to visible purposes, there are these means. And with regard to *bhāvaprasāda/bhavaprasāda* \[grace for living beings, grace from Śiva], there is the arising of *dharma* from the union of the self with the mind.[^222_185]
+[[P222]]
+In violation of our expectations, we have had to go six-hundred years into the Common Era to find a scholastic composition that—at least on the surface—matches our presuppositions of a proper Brāhmaṇical philosophy that engages in the intellectual activity of legitimating “Brāhmaṇical” social norms from within a recognizably theistic framework. Rather ironically, the author from whose pen this formulation arises is viewed by a tradition as an eccentric, a rather unorthodox Pāśupata theologian who, inspired by his extra-Brāhmaṇical Śaiva commitments, introduces the problem of “god” as the creator into Indian philosophy in a manner that will find few defenders—outside of other Pāśupata Brāhmaṇa intellectuals, such as the Nyāya scholars Uddyotakāra, Udayana, and Bhāsarvajña. In other words, the very features we reflexively assign to the center are in actuality peripheral, and the phenomenon under discussion here is something akin to how it is the *mleccha* Scythians—and not the Prakrit-using Brāhmaṇa Śuṅgas—who with all the zeal of a convert took up Sanskrit as the language of the inscriptional record and the court, an embrace that, as Sheldon Pollock has demonstrated, results in fundamental and lasting shifts in Sanskrit’s discursive function.[^223_186] This is to say, rather than representing a core conceptual feature of *śāstra*, Praśastapāda has imported his approach into the world of *śāstra* from somewhere else.
+
+For our purposes, several of the less obvious features of Praśastapāda’s analysis are particularly salient, for they align him in interesting ways with the type of conceptualization we have now seen at work in Āpastamba and a range of subsequent sources. As we have just seen, in keeping with his method wherein acts of analysis consist of identifying both the universal and particularizing features of an object of study, our author theorizes *dharma* as comprised of two components: universal and particular *dharmas*. First, there are a laundry list
+[[P223]]
+of universal norms. This is comprised of features we could call ethics (nonviolence, existing for the benefit of all beings, speaking the truth, not stealing, personal regulation, sincerity/good intentions, abandoning anger) but also of “religious”—what is often somewhat anachronistically labelled *Purāṇic*—acts and orientations (belief in the efficacy of *dharma*, *bhakti* to a particular deity, fasting) almost entirely absent from the *Dharmaśāstras* themselves—in fact actively proscribed by them—until the twelfth century. These apply equally to all human beings—not just ascetics, as some of post-Gautama *dharma* literature would have it.
+
+Praśastapāda’s treatment of particular (*viśeṣa*) *dharmas*—a frame that in and of itself represents a departure from the singular nominalized *dharma* we find in the post-Āpastamba *Dharmasūtras*—is itself comprised of two sub-components. Obviously, pretty much following the canonical formulations in Manu and Yājñavalkya, there are the strictures specific to *varṇa* and *āśrama* as prescribed in the Brāhmaṇical literature. At the same time however, for most social roles, the text also alludes to additional sets of directives, variously labelled “the *saṃskāras* belonging to one’s own family \[*svakīya*], the *saṃskāras* that are “one’s own,” as well as those “enjoined according to one’s own *śāstra*.” From the context it is transparently clear that quite unlike how we have typically but—as we shall see many times in the coming chapters—often erroneously construed invocations of “*svadharma*” as simply a shorthand referencing back to the strictures of caste and class as delineated in Dharmaśāstra, Praśastapāda here is alluding to a number of conceptually distinctive systematicities that represent the norms among specific clans and communities. In doing so, while privileging a certain eclectic implementation of Dharmaśāstra norms, he also participates in the pluralistic legal and social imaginaries on which we will focus in the coming chapters. Indeed elsewhere in his text, in a
+[[P224]]
+manner that represents a logical extension of attitudes we have now seen a range of sources starting from Āpastamba, while discussing the power of yogic perception to provide us with accurate information about the world, Praśastapāda rather eloquently gives voice to the idea that authoritative knowledge about the world—that perceives directly circumstances just as they really are—is not the exclusive property of special and unitary class of elite people, but in fact can be found in the most unlikely of places:
+
+> In the *ṛṣis*, the creators of tradition. . . by virtue of a conjunction between the internal organ (*manas*) and the self, and of a special merit, an intuitive cognition (*pratibhā*) arises, which furnishes an infallible vision regarding objects which exceed sensorial faculties and belong to the past, the future or the present—such as *dharma*—, and which may, or may not, figure in revealed texts. This form of cognition is, primarily, widespread among the divine seers, but sometimes it may also occur among ordinary beings, as when a little girl says “Tomorrow, my brother will come, it is my heart to say so.”[^225_187]
+
+Where our author makes perhaps his most important contribution, however, is in his theorization of *saṃskāra* itself as at once a natural process, a social process, and an integral part of the formation of cultural and professional subjectivities. Without discarding the physics of his system, as a consequence of *dharma* itself becoming overtly ethicalized, the process of the transfer of properties between substances is reimagined in a much more conceptually sophisticated manner, such that a physics of property exchange is supplanted by a theory of how pedagogy informs the constitution of identities. Rather tellingly, the passages in question almost immediately precede the discussion of *dharma* we have just been exploring and in the framework of the larger chapter, provide the necessary overarching conceptual framework that makes sensible a subordinate explication of *dharma* as a human property.
+
+> *Saṃskāras* are threefold: speed (*vega*), subjectivity formation (*bhāvanā*), and establishing fixed character (*sthitisthāpaka*). Speed arises from an action connected to
+[[P225]]
+> a particular efficient cause with regard to an object bearing a form that is made up of the five substances. Speed is \[caused by] a fixed continuous sequence of activity and perception, as in the case of touch. It is intrinsically in opposition to a particular conjunction of substances \[the touching of substances is the opposite of motion—when a moving object hits something, it stops moving or slows down]. . . .
+>
+> The *saṃskāra* called *bhāvanā*, however, being a quality of the self, is the cause of recognition and memory with regard to objects experienced, heard, or seen. It is intrinsically in contradiction with suffering \[in other words, subject and identity formation processes enacted through recollection repel suffering molecules]. It is born from a sustained cognition that arises from respect \[*ādara*] towards sustained skilled practice. From the conjunction of the self and the mind, which is dependent upon a skilled cognition, there is “a skilled abundance of *saṃskāra*” that arises with regard to a surprising/wonderous/atypical thing/circumstance. As, for example, from the seeing of a camel on the part of a southerner.
+>
+> With regard to domains such as the *vidyās*, *śilpa*, and athletics, which are being practiced, from the conjunction of mind and self, from an earlier and subsequent cognition that was dependent upon sequential *saṃskāras* regarding that very object— there arises a superfluity of *saṃskāra* (*saṃskārātiśaya*).”
+>
+> Having established the mind through effort, in the eye, on the part of one who is desiring to see an unprecedented object, like the seeing of the fall of a comet, there is a cognition of respect (*ādara*); from the conjunction of the mind and the self that is dependent on that \[*ādara*], there arises the superfluity of *saṃskāra* (*saṃskārātiśaya*).[^226_188]
+[[P226]]
+We need to pause for a moment—maybe catch our breath—and allow ourselves time to assimilate just how, well, weird Praśastapāda’s world really is, what a marked departure it represents from the sort of discourse we expect from premodern Indic society. Praśastapāda in a certain fashion, is in fact “naturalizing” the norms of human society into the structures and processes that order the universe. The problem is, it is the wrong sort of naturalizing. Where the Marxists would have anticipated we would encounter a mythagogue, what we have found instead is a worldview much closer to that of a modern neuroscientist. The production of particular types of human propensities and subjectivities—including those prescribed in the Veda—is akin to creating the right circumstances whereby static earth “flows” by becoming a landslide. Just as what we call speed is the product of the repetition in time of “a fixed continuous sequence of activity and perception,” so too does is the formation of specific subjectivities and capacities the product of “repeated acts of recognition and recollection with regard to objects experienced, heard, or seen.” When Praśastapāda is saying that “practice makes perfect”—in the sense of accomplishing the cultivation of a particular skill or habitus within a person—from his perspective he is simply stating a law of physics indistinguishable from the principle that an object in motion will stay in motion unless acted upon by an equal and opposite force. He labels this process *bhāvanā*, which along with *yoga* and *dhyāna* are often conflated together to mean “meditation,” and he treats what we call “meditation” as exactly the same phenomenon as the thing we have labelled the mechanics of cultural reproduction. From his perspective—again in an almost mechanistic fashion, the cultivation of specific *habitus* and subjectivity is “is born from a sustained cognition that arises from respect (*ādara*) towards sustained skilled practice.” In other words, not only do you have to do what you are doing repeatedly using the right procedures over an extended period, but you must do
+[[P227]]
+this with a spirit of “respect”—the word is often used in reference to the proper way to receive a guest in one’s home— towards the intended attainment.
+
+Praśastapāda seems to associate the point in this process where the thing you are doing ceases to be an external artificial imposition and because an automatic reflex integrated into one’s subjectivity—much like the mental “click” in language learning when you cease to have to keep looking up all the forms and suddenly look at sentence and just “read it”—with several discrete phenomena. Most commonly, as in the domain of “*vidyās*, *śilpa*, and athletics,” after you practiced the same thing for a long time in a consistent manner and then reflect upon your practice, eventually you attain something akin to mastery over the discipline. In this context, by superfluity of *saṃskāra* (*saṃskārātiśaya*), Praśastapāda seems to be talking about what we call real and lasting learning. At the same time, our author also seems to carve out a rather large space for moments of pure inspiration. Presented with either an unexpected encounter with “a surprising or wonderous thing”—such as a camel on the part of a southerner, who presumably never sees camels—or encountering an obscure thing one has always longed to see—as in the rare occasion of a comet being visible in the sky—our minds form vivid and lasting mental impressions without having to do all the hard work of sustained practice conducted over a long period of time.
+
+Details aside, Praśastapāda’s theory amounts to proposing a physics of culture that treats the human condition as almost infinitely malleable and conditionable so long as one practices an activity—regardless of whether it is primarily physical or mental in nature— consciously and respectfully over an extended period of time or has an inspiring peak experience that transforms subjectivity. As we will see, though some particular features of how his model works are expressions of particularly Vaiśeṣika ontologies, what he has offered
+[[P228]]
+amounts to a more robust theorization of a widely held Indic model of the social, of a transactional world full of context-specific algorithms that gradually reformat a person or thing so that they become aligned with a specific norm. In this world, whether one valorizes or is uninvested in it, *varṇāśramadharma* always exists juxtaposed to other systematicities in a manner that poses the possibility and its related anxieties that “the other” can over time come to resemble a Brāhmaṇa and a Brāhmaṇa can be conditioned into becoming an Other.
+
+## The World of Men and the Language of the Gods: Three Brāhmaṇical Reflections on Being in the World and Becoming Brāhmaṇa
+
+The final section of this chapter is dedicated to placing three parallel reflections on this same basic topic side by side in a manner that brings to light their common features and presuppositions. The works in question are drawn from the oldest work of Vedic exegesis, the most important commentators in the tradition of Pūrva Mīmāṃsā, and finally, the oldest work of Śaiva commentary.
+
+As the Imperial Guptas faded from history, somewhat in the late fifth or sixth century in the vicinity of Valabhi, a Brāhmaṇa exegete set out to comment comprehensively on Hinduism’s oldest scripture, the *Ṛg Veda*.[^229_189] With diligence and erudition, drawing upon a
+[[P229]]
+range of inherited exegetical resources, Skandasvāmin’s “Knowledge of the meaning of the *Ṛg Veda*” (*Ṛgvedārthabodha*) explicates scripture, word by word, phrase by phrase, line by line, identifying mytho-poetic allusions, reflecting on the theological import of the hymns and drawing connections between the world of the text and the lived human experience of his day. In light of the shared predilections of Western philologists and traditional Sanskrit scholastics for invoking the authority of very old things, one might anticipate that the oldest surviving *śāstric* commentary on the Vedic corpus would occupy a place of pride in the scholastic imagination of the two interpretive communities that dedicate themselves to the study and preservation of Indic knowledge. The textual record, however, tells a different story. For when people like the fourteenth-century Sāyaṇa and his successors bring our author up in passing, it is clear that his writings are merely being mined for references and not actually being read and engaged with in terms of their overall intellectual project. Western scholarship, for its part, until the past decade, has passed the text by in silence.
+[[P230]]
+What might account for this set of circumstances? When you open a book, as a rich body of recent scholarship has made evident, we bring to the page certain expectations, inflected by categories such as genre and audience, about what a text should say and how it should be structured—in the simplest terms, about what a book is for. We anticipate a work of scholarship will openly defend a point of single point of view; and yet, apart from insisting emphatically that the Veda is suffused with semantic meaning, Skandasvāmin abjures this task. We expect the commentator to guide us in understanding what is and is not important in his sources; Skandasvāmin eschews these judgements. We expect that when an author proffers mutually exclusive interpretations of the exact same materials, at the very least, he will prioritize their plausibility and relevance. Skandasvāmin instead presents us with what amount to ecumenical hermeneutical surveys, juxtaposing alternate understandings after assigning them to discrete interpretive communities.
+
+Texts that fail to meet our very basic criteria for what texts should do sometimes pass as *avant garde* curiosities. More commonly however, they are judged the same way one would perceive a student’s essay that lacked a thesis and presented conflicting and contradictory evidence within a format that offers little evidence of structuring principles: we brand them as failures. The oldest systematic scholastic reflection on the *maṇḍalas* of the *Ṛg Veda* is not the product of a lack of sophistication nor is it the result of a haphazard attempt at meeting a deadline imposed from above. At once enigmatic and seemingly pedestrian, Skandasvāmin’s writings align poorly with the sensibilities of your average Sanskrit intellectual, to say nothing of his modern academic counterparts, precisely because our author starts from a different premise about what motivates the composition and circulation of texts. He offers a diverging perspective on how we should encounter the meaning they bear, which is in turn predicated on
+[[P231]]
+a different understanding of the nature the social world than we typically expect to be operative in an Indic context. As we have seen throughout this chapter, Skandasvāmin’s understanding is by no means eccentric, but rather reflects an integral dimension, expressed in this case from an exegetical as opposed to prescriptive or philosophical perspective, of the same pluralistic *episteme* that animated what is often imagined as the Indic medieval world. Thus, for the present purposes, Skandasvāmin will serve as an ideal cultural ambassador into unfamiliar terrain who makes explicit a deeply rooted way of seeing and ordering the world that has largely eluded the scholarly imagination. Writing from within the canon of Vedic textuality, just as much as the prescriptive sources we have been examining thus far, he offers a challenge to our presuppositions about the nature of Brāhmaṇical thought, the univocality of its social purport, and the ideological apparatuses it underwrites, presenting in its place a more nuanced story of ongoing contestations more reflective of the documentary and textual record. For his part, our Vedic exegete offers the following analogy. A man travels down one road, without knowing the path, which is indicated through usage or convention. In front of him, in the distance, he sees another person, a wise person. The wise person turns and travels down the path. The first man reflects, “he went by that path, I also ought to go by that path,” and turns and follows after. Knowledge, Skandasvāmin tells us, “is just like that.”[^232_190]
+
+To understand where Skandasvāmin was coming from, and where he intends to go in his intellectual endeavors, we have to start with the fundamentals of his system, most importantly, what our author intends when he speaks of meaning (*artha*). Skandasvāmin is intellectually invested in the belief that the etymology of words (*nirukti*) tells us something
+[[P232]]
+fundamental about the ontological nature of the things to which they refer and their most basic nature and behavior. As far as we can tell, this message is first theorized within the seventh- century BCE *Nirukta* of Yāska, which comments on a traditional collection of obscure Vedic words called the *Nighaṇṭu*. A simple traditional exemplification of how this mode of analysis works will prove most illuminating. In the spirit of Indian philosophy with its endless ruminations on cows, let us begin with a bull. As Peter Scharf has argued, a sentence such as *vṛṣabhaḥ vṛṣāt*, \[it is called] bull on account of the sprinkling, does not merely identify the verbal root from which a nominal formation is constructed, but “explains the reason that the nominal word means what it does.” As Skandasvāmin himself colorfully clarifies in his own *Nirukta* commentary, “\[this is] because it excessively (*atikrama*) sprinkles (*vṛṣati*) seminal fluid (*retas*).”[^233_192] Keeping in mind this logic— that the naming of a thing or concept is inextricable from its core behavior, here is how our author makes sense of the meaning of “meaning” (*artha*). “\[It is called] meaning because it “goes” (*ṛ*).”[^233_193] Offering an account sure to astonish most readers of *śāstra*, Skandasvāmin clarifies that meaning in general, including the meaning of scripture, operates in accordance with “a beginningless transactionality (*vyavahāra*),” just as “gold and other such things” “goes” from one man to another, “meaning is just like that.” Our author next proceeds to raise one of the fundamental problematics in the history of Indian philosophy, namely, the nature of the relationship between the enunciated word and the meaning it bears. Are we to understand that if meaning is transferred when we speak words, that meaning ceases to be when the sound of the phonemes fade? Eschewing
+[[P233]]
+what for centuries will become a matter of profound reflection generative of incredible speculations about the nature of human cognitive processes, Skandasvāmin offers this rather concrete and simple answer. Of course not: “It is not that meaning gets concealed along with the word when the word departs. Just like, when the master departs, gold and so forth remains behind, it does not go \[and disappear] along with the master \[when he is absent].” Meaning is just like that. Skandasvāmin repeats this homology of “meaning” (*artha*) with gold and other discrete concrete material things that intrinsically bear value repeatedly throughout his writings. In doing so, he is quite clearly playing upon the polysemantics of the lexeme *artha*, which can of course, in other contexts, mean wealth and worldly attainments. Just as consistently, and perhaps even more significantly, he avoids invoking the other most common signification associated with this lexeme, namely, *artha* in the sense of target or purpose. As will soon become evident, it is precisely this disentangling of semantics from a uniform teleology that animates his intellectual vision. When, in his *Ṛgvedārthaboda*, Skandasvāmin says he is writing a work on the “the knowledge of the meaning of the *Ṛg Veda*,” he is engaged in a conceptually different intellectual activity from that of the typical Sanskrit intellectual.[^234_194] For him, “meaning” is not a distillation of a point of view (*sāra*). It is not the construal of the intentionality (*tātparya*) of an author or a text. It is certainly not a polemic that aims at
+[[P234]]
+establishing the exclusive authoritativeness of a school of thought. Meaning is nothing more or less than a compendium of all of the possible accepted readings, responses, and understandings present within a textual field presented by interpretive communities. One might even say that for Skandasvāmin, the sense of purpose that imbues a text is displaced from where we would tend to locate it, making judgements about the text and by means of the text, to the site of transmission itself. Just as the purpose of a bull (as opposed to a steer) is fulfilled in its fecundity, in order for the world to work as it should, meaning must “go”: it is meaning’s very nature to be socially circulated, and meaning finds its fulfillment in that continued transference. Veda, in essence, is *āmnāya*, “that which is handed down,” and thus by its nature an expression of this logic of transfer. While, according to Skandasvāmin, the scriptures themselves originate as the compositions of the individual *ṛṣis*, the knowledge that supplements them, in his understanding, is the product of a multigenerational agglutinative collective effort.
+
+Since, from our author’s perspective, the Veda is merely a burden until one masters its meaning, the efficacy of the Veda itself is here imagined as effectively socially mediated.[^235_195] From this perspective, the capacity for knowing the meaning of the Vedas is not some intrinsic trait nor the result of some inexplicable mystery. In the service of clarifying the exact internal logic which he aims to invoke, Skandasvāmin again illustrates this dynamic through narrative vignette. If a blind man cannot see a post, this is not because the post is hidden nor is the post in any way responsible for failing to be seen, for the fault lies in the damaged eyes of the perceiver. In the same way, it is not that the Vedas are difficult or obscure, or that they represent
+[[P235]]
+a special case of a form of textuality that most people intrinsically cannot fathom. In fact, a person is deemed not suited for understanding the Veda solely because he is not “conditioned by the disciplines of *Nirukta* and *Vyākaraṇa*.” Our author continues:
+
+> Just as in the *janapada*, \[with regards to] those human activities that are performed, such as the cooking of rice or the activities of the artisan (*śilpin*), which consist of the fashioning of paintings and so forth, there is a qualification on the part of human beings that arises from knowledge regarding these activities, in that same way, the one who studies and practices by means of the transmission of that discipline (*Nirukta*), he knows correctly, but another person, incorrectly or not at all. . . .
+>
+> Therefore, nothing that has an unclear meaning for any person by whom the meaning of the *mantras* is studied or practiced. And moreover, the transmission (*āmnāya*) of the discipline is a tradition (*pārovaryam*). The one who “knows a lot” among those knowers who know by means of it, in this world, is worthy of praise, and not another one who construes \[meaning] out of fancy or knows little. Therefore, having become a person who knows a lot, through the *paramparā* of *āgama*, by means of the disciplines of *Nirukta* and *Vyakāraṇa*, then he becomes able to know the meaning of the words that are not clear.[^236_197]
+
+In this extraordinary passage, Skandasvāmin argues for the essential consonance of all the seemingly distinctive processes whereby human beings acquire the knowledge and skill that makes possible the activities that make up their world. He argues that there is no essential difference between the mundane affairs required of every household, such as learning to cook, the practices that are specific to, and constitutive of, the identities of particular caste communities, such the artistic skill of the *śilpin*, and Brāhmaṇical knowledge itself. For, whatever sort of status one might ascribe to the collective patrimony that makes up the ritual
+[[P236]]
+and social responsibilities of a Brāhmaṇa, Skandasvāmin insists that this is all mere dead weight unless it is married to the acquisition of grammatical and semantic understanding of the scriptures, modes of knowledge that are themselves acquired through the usual logic of pedagogical immersion and acculturation. In short, Skandasvāmin introduces us to the vital understanding, which will animate our own explorations, that different communities and their interpretive and social practices, though serving distinct ends and embodying divergent values, operate as functional equivalents.
+
+Diverging from Yāska’s own opinions, our author even entertains the possibility that this state of affairs is not merely a reflection of the waning of the strength and quality of men in the current age of decline, but in fact has always been a part of the order of the world. It is not that today there are no special Brāhmaṇas, but rather that Brāhmaṇas have never been that special. This is most evident in our author’s commentary on what is perhaps the most famous non-technical portion of Yāska’s *Nirukta*, namely, its discussion of the emergence of *śāstra*.[^237_198] This difficult passage, which has been the subject of an outstanding close reading by Albrecht Wezler, permits many interpretations, but in the most general terms it can be understood as proclaiming that, while, in the distant past the *ṛṣis* performed the *sākṣātkṛta* of *dharma*, in subsequent time (*avare*), such a capacity declined and human beings had to take recourse to learning from texts. Skandasvāmin offers two explanations of this famously difficult passage. In the second, which is treated in a perfunctory fashion, he seems to follow Yāska, who asserts that what the passage means is that once upon a time, the *ṛṣis* could “see” the ontic building blocks that made up the order of the world, and the tragedy of our age is that this capacity has
+[[P237]]
+been lost. From this perspective, the emergence of *śāstra*, transmitting an understanding of the Vedic scriptures, needs to be understood as a stopgap measure that aimed to salvage the tradition in light of the irrevocable disappearance of the original capacity of the seers for directly accessing the sacred.
+
+More intriguingly, however, Skandasvāmin expends considerably more effort outlining a rather different understanding of what it means for the *ṛṣis* to have had direct perception, which offers a decidedly different understanding of the place that textuality occupies in the cosmic order.
+
+> Because *dharma* is beyond the senses, on account of the impossibility of direct perception, by the word *dharma* here, the *mantras* and the *brāhmaṇas* are intended. . . . How is it (*dharma*) directly perceived by \[the sages]? \[Well,] at the time that there takes place a dissolution of the universe, prior to the creation of the next universe. . . . the sages remember the *mantras* and *brāhmaṇa* texts that were studied \[by them] in the prior creation. . . . Whoever remembers a certain thing, that is “seen” by him. In other words, it is directly perceived by him; that is said on the part of him to be the knowledge of a sage. To whatever extent someone has the knowledge of a sage, to that extent it is directly perceived by him. That is sagely revelation \[in the form of text.] However, whatever else is not directly perceived, even by him, that is \[acquired] only from having studied through instruction \[regarding] that \[subject].[^238_199]
+
+The sages, in other words, are simply a special subset of people who, on account of their particular *karma*, have the potential for carrying the memory of what they have studied from eon to eon and incarnation to incarnation. Even for such extraordinary people, however, this special capacity must be complemented by the normative processes of formal study through which knowledge of the Vedic system must be acquired. Skandasvāmin continues:
+[[P238]]
+
+> It is not the case that what has been experienced in another birth is necessarily not remembered, for we see that even in the modern era (*adyatve ’pi*) that people who remember their \[past] births only remember a little bit. Even if certain sages arise in every creation, then, even so, due to the influence of the particular merit that was produced prior to this creation, the people who have such *karmas* arise having taken on those names. Therefore, in a single creation, that which is remembered by the sage named Viśvāmitra, in another creation is also remembered only by someone named Viśvāmitra. . . .
+>
+> With this intention in mind, this is stated: they became the sages by whom *dharma* is directly perceived. \[In contrast,] those inferior folks of inferior capacity who lived in a later time who did not directly perceive the *dharmas* through reserves of ability \[*śaktibhāra*] as they lacked the particular merit that would have been acquired in past cycles of creation. They passed down the *mantras* through \[knowing] the text and its meaning by means of the method of the teacher-student \[relationship].[^239_200]
+
+In other words, even if you have the good fortune to be the authentic Viśvāmitra of the modern world, even then you are not born with the knowledge of the scriptures on the tip of your tongue. Just like everyone else, you have to reacquire your wisdom through formal socially mediated study. The important distinction is that, when you reencounter certain parts of the texts, perhaps even confined to the *maṇḍalas* authored by Viśvāmitra, an act of recognition takes place, along the lines of “hey, I remember writing that,” and the contents of that part of the scripture resurfaces in your conscious mind. All other human beings, Skandasvāmin tells us, including all the other twice-born, are “the ones without power” who receive instruction in the context of the guru-disciple relationship and “acquire the meaning from books.” Books and the *śāstric* knowledge they embody, our author tells us, are simply “means” (*upāya*) revealed out of compassion so that those without power can grasp the knowledge of the Veda through sustained study. Succinctly, the right and ability to make use
+[[P239]]
+of Vedic learning is purely a matter of social acculturation and study. Or, to put things more pointedly, at the heart of a text composed in the service of inculcating the meaning that animates the Veda and makes the rituals work, Skandasvāmin has just explained away the doctrine of Brāhmaṇical privilege.
+
+In both the *Ṛgvedārthabodha* and *Niruktabhāṣyaṭīkā*, Skandasvāmin becomes most noticeably impassioned when talking about a single subject, namely, that the Veda has meaning and that the comprehension of that meaning is inseparable from the efficacious performance of the rituals. Our author is emphatic in his insistence that this state of affairs has little to do with the special nature of Vedic textuality, but instead must be understood as an expression of the fact that conscious understanding of what a person is doing is integral to the successful execution of most of human activity, for it is through the use of language that we establish our connections with the individual agents and objects that make up the world.
+
+Whereas Yāska touches upon the importance of justifying semantic study mostly in passing, simply for the most part assuming the self-evident value of his chosen field of study, Skandasvāmin frames both of his texts precisely as responding to an unspecified worldview that sees the Veda as devoid of semantic meaning. His target, as we shall see momentarily, is almost certainly the Pūrva Mīmāṃsā school of ritual exegesis, that has come to be treated as synonymous with traditional scholastic reflection on the Veda and is perceived as informing most sophisticated forms of *śāstric* textual composition. In contradistinction to the more familiar exegetical methods pioneered by Pūrva Mīmāṃsā, which are also fundamental to Vedānta in almost all its iterations, which single out a delimited category of speech acts, either in the form of ritual injunctions or the great statements (*mahāvākyas*) of the Upaniṣads as the most important dimension of Vedic textuality, treating the rest of the text as providing different
+[[P240]]
+sorts of supplementary and clarificatory information inferior in value, Skandasvāmin taxonomizes five types of speech acts (*praiṣa*, *karaṇa*, *kriyamāṇānuvādin*, *japa* and *anuvacana*), as constitutive of scripture without proposing that there is in any particular relationship or hierarchy operating among them.[^241_201] They are simply defined in terms of offering logically distinctive types of syntactical relationships within a clause or sentence. As we see in Skandasvāmin’s example, “You pacifiers (*śāmitāra*), you should commence the pacification (*ārabhadhvaṃ*) with the divine beings,”[^241_202] the *praiṣa* is roughly analogous to the more familiar injunctive statement (*vidhi*) insomuch as it is a speech act formed around an imperative verb with a particular type of case relationship that offers us something akin to the Mīmāṃsā formula of “do x by means of y.” In the most general terms, the *karaṇa* provides
+[[P241]]
+something analogous to the immediate context in which an event is taking place or an agent is situated with the Vedic hymn, whereas the *kriyamāṇānuvādin* provides us with additional details about a subject or object, sometimes something as banal as “the boys have nice clothes.”[^242_203]
+
+By reorienting the discourse away from fixating upon the purpose of the Veda, in other words, what acts does the text compel us to do, towards a concern with the meanings of the Veda, Skandasvāmin articulates a discourse where each of these kind of speech acts is equally important, and where most fundamentally, all of them are equally dependent on a semantic understanding of the scripture. Meaning as he argues, is an integral component of all aspects of Vedic ritual. It is through language that we identify the nature of the ritual being performed. It is the words, serving as devices for memory, that are constitutive of the tradition that perpetuates the transmission of scripture and its functions. Mere rote recitation (*uccāraṇamātra*) is incapable of fulfilling any of these functions. When it comes to the rituals called *śastra* and *stavana*, integral components of any *soma* sacrifice, the function of the text is to offer praise of the subjects, objects, and agents that participate in the ritual. Whereas as for Mīmāṃsā, mere praise (*arthavāda*) is the emptiest of textual registers, at best offering additional encouragement that compels the ritual actor to carry out the ritual injunctions, for Skandasvāmin, it is rituals of praise that offer the best insight into the efficacy of semantic understanding of the ritual, the centrality of conscious intentionality to worship, and the fruitlessness of the mere rote repetition of words. As our author explains in *Ṛgvedārthabodha*:
+
+> For *śastra* and *stavana* are praise. And praise is said to be the establishing of the fact that a property bearer has a relationship (*sambandha*) with the properties, not merely the utterance of letters \[in the context of rote learning or ritual]. For, in ordinary usage, it is not said to be the case that one “praises” \[a person or thing] even if the verses \[being recited] have the sense of praising, in so far as one is just enunciating the
+[[P242]]
+> syllables of a *śloka* or the *Ṛg Veda* if it is done merely for the purpose of practicing or learning.[^243_204]
+
+As he clarifies in his *Bhāṣya* on the *Nirukta*, “regarding the syllables of the *Ṛg Veda*, which are suited for praise. . . one indicates this \[type of speech] by saying, he praises!” In other words, when one says that the god Agni is great, this emically speaking is no mere hyperbole. Instead, it entails the identification and sustained conscious awareness of the fact that greatness is ontically linked to the god of fire. By extension—and here is where such pedantry pertains most to our interests—so long as the speaker intones Agni’s greatness, everything and everyone that is logically affiliated with and subordinate to the subject of praise partakes of the same qualities. Far beyond offering a particular exegetical method, Skandasvāmin is making an ontological argument, akin to the naturalism we have seen earlier among the philosophers, that accounts for how the manipulation and deployment of language impacts and transforms the world. Skandasvāmin sees the semantic properties we ascribe to a subject, for example, through the use of adjectives, as substances like atoms. Just like Vaiśeṣika atoms, they are transferred or stick to some types of objects and agents possessing one kind of nature and are repelled by objects and agents with a different nature. Skandasvāmin’s assertion is that it is a conscious act of cognizing the meaning of a text that compels the power of language and the content it conveys to “stick.”
+
+It is for this reason, as our author tells us, that without a conscious understanding of language, the ritualist is like dry firewood that fails to burn and his efforts are like the milking of a barren cow. Such a dynamic hold true, our author asserts, even in regard to the mere recitation (*uccāraṇamātra*) of text, which serves as the proverbial punching bag throughout
+[[P243]]
+both of his commentaries. Even if all you want to do is hone your mastery of the text of the Veda, or rapidly recite it in the service of acts of expiation or self-improvement, it is still necessary to engage in the cognitive act of identifying which deity is the governing force behind each hymn. In this regard, Pūrva Mīmāṃsā in fact is in firm agreement with the etymological tradition. But whereas Mīmāṃsā sees identifying the deity as having a purely indexical function, offering a sort of premodern Dewey Decimal System that helps one organize and rapidly retrieve Vedic hymns, Skandasvāmin views this interpretive act as the efficacious heart of his system of exegesis.
+
+> To the one who knows the meaning of speech, the goddess Vāc surrenders her own body, with its many parts. . . . When it is said “it describes,” what is intended is it causes to be illuminated. . . .
+>
+> The one who knows the meaning glosses (*nirāha*) the speech. And, therefore, whatever deity he identifies, he experiences alignment/identification with the state of that very deity (*tataś ca yāṃ yāṃ devatāṃ nirāha tasyās tasyās tādbhāvyam anubhavati*). Thus, because of the possibility of taking on that state, \[the root text says,] there is steadfast companionship of him along with speech. In the *Bhāṣya* \[of Yāska], the statement of the meaning is for the purpose of obtaining the status of being one who obtains ontic identity with the speech (*tadbhāvya*); he alone delights.[^244_205]
+
+Writing perhaps in the sixth century CE, Skandasvāmin is offering us a conceptual system that either prefigures or is influenced by something akin to early Tantric philosophies of language. Through the manipulation of language and the proper intoning of *mantras*, the practitioner becomes identified with of a state of the god who is speaking or the subject of the text. In essence, a new identity is generated, at least temporarily, through a sustained act of mimesis that results in a higher order state of enjoyment as well as ultimately the obtaining of
+[[P244]]
+soteriological aims. Instead of a particular set of esoteric rituals serving as the means for bringing about this effect, however, Skandasvāmin proposes that the means to supernatural power as well as liberation is the proper application of textual glosses in a manner that accounts for the plentitude of meaning they contain. When all of these components are aligned, the goddess of language herself takes the Vedic scholar as her companion and lover.
+
+As is so often the case when it comes to lovers of language, immersion in the experience of arcane and innumerable details effectively becomes an end in itself. In Skandasvāmin’s case, however, he has a rather good excuse, for the efficacy of the act of the gloss (*nirāha*) is in fact dependent on achieving a pedantic comprehensiveness—in cognizing all the meanings transmitted by traditions, without playing favorites. The result is a bookworm’s dream of erudition as the means of salvation and, for the scholar, an otherwise unobtainable breathtaking parade of the range of “orthodox” Brāhmaṇical modes of understanding that must have once existed. As such sources have largely been ignored by our own scholarly traditions, even though I am well aware of my considerable limitations as a scholar of Veda, we will look briefly at how our author engages with two rather famous passages from the *Ṛg Veda*, the closing line of the *Puruṣasūkta* and one of the “riddle hymns.” Let us begin with the first part of his explanation:
+
+> *yajñena yajñam ayajanta devās tāni dharmāṇi prathmāny āsan te ha nākaṃ mahimānaḥ sacanta yatra pūrve sādhyāḥ santi devāḥ // Ṛg Veda* 10.90
+>
+> The gods sacrificed the sacrifice by means of the sacrifice. . . .
+>
+> This is the concluding verse of the *ṛcs* that is \[used] for the fire churning. By the word *yajña* and so forth, the fire is said to be what is to be kindled, because of it being the instrument for accomplishing the *yajña*. And, by the one to be kindled which is a means for the *yajna*, they sacrificed the sacrifice—\[specifically,] the *āhavanīya* fire, which is
+[[P245]]
+> itself a means for the sacrifice. In other words, the sense is they have oblated the fire that is kindled into the *āhavanīya*.[^245_206]
+
+This is a passage that is typically read by later thinkers as offering a cosmogonic model. Often at the expense of the gods, who become instruments, it is read as centering the sacrifice itself—and with it the various ordering principles (*dharmans*) that sustain it—as providing the architectonic that orders a universe which runs on sacrifice. Our exegete, in contrast, begins by focusing on the specific and delimited ritual context, the kindling of the *āhavanīya* fire, in which what we call the *Puruṣasūkta* was to be recited. In this reading, this is not origin story for the world order at all, but simply for the *āhavanīya* fire.
+
+Having conveyed one meaning, in his typical fashion, Skandasvāmin now offers a conflicting interpretation proposed by a different school of thought:
+
+> Otherwise, by the word “by the sacrifice,” \[what is meant is] the word *agni* is a sacrificial animal (*paśu*), because of its being a means for the sacrifice. Regarding the fact of *agni* signifying a sacrificial animal, there is shown this statement in the *Brāhmaṇa*: *Agni* is the sacrificial animal” (*agniḥ paśur asīt*). By that sacrifice, specifically, the one concerning the side-fire, which is itself a means for the sacrifice, they sacrificed. \[What did they sacrifice?] The fire, which is the deity, itself being precisely a means for the sacrifice. Who did \[this]? The gods \[did it], being the givers of the butter oblations—in other words, the sponsors. By the term “these *dharmas*,” what is meant is ritual acts.[^246_207]
+
+In a spirit somewhat closer to the usual reading of the *Puruṣasūkta* as offering an account of Prajāpati the cosmic man who subdivides himself to produce the world of existence, by invoking a *bandhu* connection presented in the *Brāhmaṇa* literature—where somewhere
+[[P246]]
+practically everything gets correlated with everything else—this second reading identifies the fire with the *paśu* offering. It also seems to suggest a thoroughgoing equivalence between the gods sacrificing in primordial times, and the Brāhmaṇa gods on earth who sacrifice in the here and now—precisely the opposite of the interpretation Skandasvāmin will outline in the third reading of this very same text.
+
+What is most important for our purposes, however, is that this choose-your-own- adventure approach to reading does not take as its focus one of the only mentions of *dharmas/dharmans* in the early Vedic liturgy. And it is precisely this term that, correlated with the “orders” or “ordinances” in earlier parts of the hymn—especially the presentation of Brāhmaṇa as the head, the Kṣatriya as the arms, the Vaiśya the loins and the Śūdra as the feet— becomes the locus of ascription for the theological model of *varṇāśramadharma*. Now to be fair, this is the only portion of Skandasvāmin’s commentary on *Ṛg Veda* 10.90 that has been published. Though his focus in this specific context would not necessarily demand a discussion of how the text might offer the blueprint for a naturalized social order organized around the concept of caste, the character of his comments here and elsewhere—his published works seem to contain no discussion of *varṇa* or *jāti*, and as we have already seen his conceptual model rules out Brāhmaṇical privilege as typically conceived—strongly suggest that such concerns would have had little purchase within his larger intellectual project. This is to say that the oldest commentator on the *Ṛg Veda* not only personally abjures the typical doctrine of Brāhmaṇical privilege, but among the likely many dozens or even hundreds of interpretive approaches to reading the hymns of which he must have been aware, no credible voice was invested in reading such doctrinal concerns out of *Ṛg Veda* 10.90.
+
+The remainder of his commentary on the passage gives us a better sense of where the commentators would instead direct their focus, offering us some of the competing points of view:
+[[P247]]
+
+> The first ones means the very ancient ones. \[These rites] are not now conducted by anyone nowadays. . . . *Nākam*—that is an ordinary word designating the heavens/sky and the sun. Therefore, we should read *nākam* in the sense of either the celestial world or the sun \[not both]. The word *mahimānaḥ* means greatness, \[specifically] being great \[as an essential part of one’s nature and not a passing condition]. This a word that has the sense of an elided possessive suffix. The sense is the ones possessing \[greatness].
+>
+> “*Sācanta*” means they served—\[but the real] meaning is “they obtained.” *Yatra* means in which sky. And *pūrva* means in the first of all of them. Where the *sādhya* gods \[were] means, from the perspective of the etymologists, *sādhyas* are said to be rays. They say these words—the ones sitting in the sky, the ray, and the class of the god—\[are all synonyms].
+>
+> \[In contrast,] the historians say that “previously” \[*pūrva*] means in the *yuga* of the gods. . . . In reference to the human condition, they sacrificed by the sacrifice by means of the sacrifice for the sake of being/becoming gods.[^248_208]
+
+In violation of our usual reading of this verse as offering a charter myth for the primordial and atemporal character of the Vedic sacrifice, the perspective on offer here is primarily focused on making it clear that both the originary moment when the first sacrifice took place—as well as the actual sacrifices that were deployed—were profoundly different from how Vedic ritual is to be practiced today. This anxiety may in fact be motivated by our text’s euphemistic allusion to one of the most infamous deployments of the *Puruṣasūkta* within Vedic liturgy, where it is linked with the performance of the *puruṣamedha* or human
+[[P248]]
+sacrifice.[^249_209] While our first reader feels perfectly comfortable simply assigning this act to “very, very long ago,” the school of interpretation of the historians—a group of readers who seem to be obsessed throughout with questions of chronology and genealogy—seem intent on creating even more distance from our own experience by precisely assigning this event to a previous cosmic age.
+
+In any case, apart from some parsing of terms and forms aimed at maximizing the precision of the exact content that is to be derived from this verse, another major focus in this part of our commentary is demonstrating that it is the actual agents enacting the ritual who are the ones who obtain benefit from it. This is why it is so important that the verbal form *sevitavantaḥ*, which Yāska proposes, and which often has the sense of “to attend” or “serve,” is immediately replaced by a verb meaning “to obtain” (*prāptavantaḥ*). It is only if this type of reading is adopted that the ultimate significance of the hymn for the human world becomes clear. Much like our earlier works of philosophy, Skandasvāmin is interested in the implications that religion has for the general human condition (*mānuṣāvasthā*), not simply the impact on twice-borns, and from this final perspective—which may well be Skandasvāmin’s own because it surfaces also in passages of commentary that are not commenting on a scriptural verse—the point of performing the sacrifice, a ritual act we must remember that must be paired with complete semantic understanding of the text and all its meanings, is that “it is for the sake of becoming a god” (*devatvāya*).
+
+Perhaps the most vivid exemplification of how Skandasvāmin’s exegesis lends itself at once to mundane and mystical readings of Vedic textuality is his commentary on *Ṛg Veda*
+[[P249]]
+1.164. This is the so-called “All Gods Hymn” ascribed to Dīrghatamas, which, as Jamison and Brereton have observed, continues “to attract scholarly attention in part because it has continued to escape satisfying interpretation. . . . The complexity of the hymn derives especially from the multiplicity of reference of its verses, which connect ritual, cosmos, and person. Thus the verses frequently refer simultaneously to the ritual (*adhiyajñam*) and to the world (*adhidevatam*), especially to the sun, and sometimes also to the human body or the human being (*adhyātman*).”[^250_210] As Jamison and Brereton tell us, liturgically, the “All Gods Hymn” was deployed in the context of the *pravargya* rite as well as the *mahāvrata*—rituals that themselves once formed part of an archaic countertradition to the Vedic ritual normativity around which canonization processes centered—and exegetically it associates itself with the Āraṇyakas, perhaps the least well studied dimension of Vedic textuality. Perhaps the only part of its reception history that has been understood is the role our text plays in providing one of Vedānta’s great iconic images—found in the *Katha*, *Muṇḍaka*, *Bṛhadāraṇyaka* and *Svetāśvatara Upaniṣads*. In all of those places, we hear of two birds—inseparable—who sit upon the same branch of a tree. One eats the fruit while the other looks on. In its original instantiation, which forms of the focus of Skandasvāmin’s commentary, in Jamison’s translation Dīrghatamas says:
+
+> Two well-feathered (birds), yokemates and companions, embrace the same tree. Of those two the one eats the sweet fig; the other, not eating, keeps watch.
+>
+> Where (*yatra*) the well-feathered (birds) (*suparṇa*), never blinking, cry out for a share (*bhāga*) of immortality (*amṛta*) and for the ritual distributions, here the forceful herdsman (*gopā*) of the whole living world, the insightful one, has entered me, the naïve one.
+[[P250]]
+> Just that tree on which all the honey-eating, well-feathered ones settle and give birth, they say, has the sweet fig at its top. He who does not know the father will not reach up to that.[^251_211]
+
+As we might by now anticipate, Skandasvāmin’s reading of this passage proceeds from the position that there is no one single correct approach to reading the verse, but instead we must treat it as conveying a myriad of syntactically plausible interpretations. In his first reading, also adopted by Jamison and Brereton, the interpretation is that the answer to our riddle’s kenning is that the whole hymn is really a praise of the sun. For Skandasvāmin, this is simply the worldly, or *adhidaivata*, reading of the text, which travels alongside discrete spiritual and cosmological readings. These last two approaches are themselves also subject to an additional layer of what our commentator calls Upaniṣadic explanations, which offer a series of discrete proposals for reading the text in terms of what one might call a Vedic theistic as well as an epistemological orientation. Skandasvāmin’s Vedānta seems to represent an unstudied scholastic tradition of learned exegesis that is hundreds of years older than anything else that survives and logically unrelated to the tradition of the *Brahmasūtras*:
+
+> Yāska:
+>
+> \[The worldly reading]. . . *suparṇāḥ*, the well-feathered \[birds means] the well-flying sun-rays. . . . The portion (*bhāga*) is the nectar of the undying. . . . Lord \[from *ina*-\] of all \[from *viśvasya*] \[means] the Sun is the protector of beings. That one, the wise one, enters me who is *pāka*—here. *Dhīra* means *dhīmān* \[wise]. *Pāka* means “the one to be cooked.” The Sun knows the well-cooked—this is the hidden connection. . . as per the worldly reading.
+>
+> The spiritual reading \[is that]. . . *suparṇāḥ* \[means] the well-flying senses. The immortal’s portion pertains to gnosis. . . . Of all (*viśvasya*) \[means that] among senses, the self is protected/privileged. That one, the wise one enters me who is *pāka*. . . . *Dhīra* means *dhīmān* (wise). *Pāka* mean the one to be cooked. The Self knows the well- cooked. . . .
+>
+> Skandasvāmin:
+[[P251]]
+> The cosmological reading \[is that]. . . *suparṇāḥ* are name of the rays that abide in the circle of the Sun. We say that it is immortal (*amṛtasya*), because it is the cause of the life on the part of beings that breathe—it is similar to *amṛta* or has the property of non- death, or it is the water oblation defined as the “juice” of the earth.[^252_212]
+
+Just as in Yāska’s own brief comments on this line, having offered us three “literal” readings of the text provided by different traditions, Skandasvāmin now turns to applying three different approaches to exegesis on the text in the tradition of the Upaniṣads:
+
+> \[Thus, Yāska gives us the phrase] *upaniṣad-varṇa*. *Upaniṣad* here means the private knowledge (*rahasyavidyā*). *Varṇa* mean describing. So *upaniṣadvarṇa* is knowledge concerning the highest good—it is a commentary having \[the highest good] as its object. Or \[another explanation is that] for the sake of that \[the highest good], the *ācāryas* should sit nearby, and then the *ācārya* explains it \[the highest good] to them— thus there is the description of the *upaniṣad*.
+>
+> This is the interpretation corresponding to the deity—the term \[*adhidaivata*] is an indeclinable in the sense of a case usage. \[*Adhidaivata* here means] toward or with regard to the deity \[the locative of reference]. The knowledge \[*vijñāna*] is that of which the object is the deity because the *śruti* contains within it \[the means for] the production of identification with that (*tadbhāvya*—i.e., the deity). \[*Śruti* therefore] serves the highest good \[and] it is called *upaniṣadvarṇa*. The commentary is arrived at by the glossing of the *mantra*. . . .
+[[P252]]
+> Otherwise, the *adhyātma* meaning of this verse \[is]: Where \[*yatra*] means, in which body are established the rays \[*suparṇa*]. By this we mean the sense organs; the eyes and so forth are similar to rays because of their being illuminators. Of the immortal \[*amṛtasya*] means of the sense object, a thing that is knowable—a form and so forth. The portion (*bhāga*) means its own portion, being the sight, form, sound, smell and so forth. Unblinking (*animeṣaṃ*) means by means of *vijñāna* they heat up/incinerate—the sense is, they illuminate the self. \[In the body] there is situated the Lord \[*ina*], as the enjoyer. And the protector \[*gopā*], the protector of the village of all the senses, is the one with knowledge; he possesses insight. *Pāka*, a cooked thing, means that of which the insight \[*prajñā*] must be communicated \[i.e., you must gloss the meaning]. Right here means: may he enter the thing that is established, and may it become clear/illuminated to me.
+>
+> Or, *yatra* means that the *ātman* is indicated and not the body. . . . They approach the object that is to be obtained by *vijñāna*. May he, \[the lord] *Īśvara* and the protector \[*gopā*], enter me. Unblinking \[*animiṣaṃ*] means gone to—because the going to the self means, the knowledge of the self, and this also is simply the description of the *upaniṣad*. While the previous section has the deity as its object—the remainder is this \[final section] has as its object the self.[^253_213]
+
+Skandasvāmin understands the term *upaniṣad* as referring to two discrete but related domains. On the one hand, *upaniṣad* is a commentarial textual tradition—corresponding to the works we call Upaniṣads—that takes the highest good (*niḥśreyas*) as its conceptual focus. At the same time however, *upaniṣad* is also an extratext [[P254]] textual embodied didactic process—the space where the student comes up close to the teacher and receives esoteric instructions about the highest good, whether or not these instructions have any specific foundation in a proof source. In the first Upaniṣadic teaching—which is about the nature of deities—Skandasvāmin presents us a construal of this line that treats it as providing validation for a theme he often propounds in this own prose, what we might call the mimetic soteriology of the Nairuktikas. The core idea, which we have now encountered many times, is that when the meanings of a particular passage of *śruti* are mastered, the ritualist becomes able to ritually identify himself with the deity (*tadbhāvya*) who is subject of the hymn and attains his traits and powers. From this perspective, the real purpose of the Veda is that it offers a series of something akin to Tantric *sādhanās* that help one to assume a range of divine forms.
+
+In contrast, the second “spiritual teaching” offers a doctrine akin to the typical Upaniṣadic teaching of the field and the knower of the field. Returning to the solar metaphor but now linking it up with the physics of sense-perception we find among the Nyāya teachers and Vaiśeṣikas, here the human body is said to be full of rays that radiate outward from an indwelling god who is at once the enjoyer and the protector. Prefiguring later Kaula doctrines of the sense goddesses, here the “share” offered to the god are the objects of sense perception and their properties, which the gods cook and eat when we have sense experiences. This is how sense objects become graspable by awareness. Understanding this process and then explaining it—in the manner of the *nirāha* practice we encountered earlier, a process that would likely entail intellectually grasping all the correlative linkages within such a system—is said to be how one obtains the highest insight.
+
+In the final teaching, the focus shifts from the relationship between the god and the human body—its role as indwelling force—to understanding how the “knowledge of the self” relates to what is almost a quasi-devotional form of Vaidika worship. When our texts proclaims “may he, \[the lord] *Īśvara* and the protector \[*gopā*], enter me. . . . because the going to the self means the knowledge of the self,” it is quite plausible that Skandasvāmin is alluding to a
+[[P254]]
+practice where the Upaniṣadic teachings about non-difference with the highest reality were used to induce deity possession.
+
+Quite apart from the altogether astounding observation that Skandasvāmin’s *Niruktabhāṣyaṭīkā* and the *Ṛgvedārthabodha* have interwoven within their exegesis ample evidence for reconstructing not one but multiple pre-Śaṅkara traditions of proto-Vedānta, even a very brief encounter with this arcane textual landscape should have conveyed to the reader that in classical India, the meaning and purpose that the Vedas held for Brāhmaṇas—as a source of religious inspiration and learned reflection—can scarcely be accounted for within a single tradition of exegesis, let alone reduced to the empty signifier of Brāhmaṇical hegemony that much of our literature assumes. When Skandasvāmin treats the word *dhīra*—which in classical parlance would be seen as meaning steadfast—correctly as derived from root *dhī* in the sense of knowledge, or when he attends to the semantic different between a verb in the *parasmaipada* and *ātmanepada* as indicating actions the benefit the other as opposed to oneself, he shows us just how well and carefully he can read the Vedic language. For Skandasvāmin, unlike for the usual exegetes, Vedic speech is not semantically and syntactically akin to normal usage but obeys its own rules and demands its own specific lexicons. Succinctly, Skandasvāmin’s writings are a testament to the fact that, even after the Gupta age, there remained many people who not only read the Veda for its content, but brought to this activity a conceptual tool kit that was still rooted in a fluency in the technical dimensions of Vaidika ritual as well as its specific grammatical traditions. For such people, Vaidika knowledge was no mere cultural patrimony, but a living and self-sufficient tradition that enabled the ritualist to know the world and to see and experience his gods.
+[[P255]]
+Now as the reader may very well be aware, the tradition of Pūrva Mīmāṃsā—a term that often is simply, but erroneously, treated as synonymous with Vedic Hermeneutics— approaches the study and use of Vedic textuality from an intellectual perspective that in almost every regard is diametrically opposed to the meaning oriented and experientialist Vaidika worldviews we have just been exploring. As Francis Clooney has shown us in *Thinking Ritually*, ever since the composition of the *Mīmāṃsā Sūtras* sometime around the turn of the Common Era, Mīmāṃsā propounded a doctrinal orientation where “the sacrifice does not revolve around human values” and “learning to sacrifice compels the Mīmāṃsaka to reorganize his view of the world, displacing himself and his own concerns.”[^256_214] In Clooney’s reconstruction, even more so than is the case with his successors, Jaimini rejects the idea that what happens within the domain of ritual amounts to a separate kind of sacred space, that particular Vedic textualities have specific properties, and that the discourse around the Veda entails the invocation of any supernatural or transcendent elements. Working from the assumption that there is precious little difference between Vedic and ordinary language at the level of semantics, Jaimini even seems to reject the notion that the ritual produces after its completion any special kind of imperceptible effect—such as the *apūrva* proposed by Śabara and his successors. For Clooney, it is thus not that the components that make up Vedic discourse are unique that gives it its power, but rather that “the Vedic arranges the ordinary in a particular way for an extraordinary reason.”[^256_215] As Clooney rather bluntly puts it:
+
+> Jaimini eschews the esoteric. Words do not have hidden / revealed meanings which place them and the Veda outside the realm of the ordinary. Just as there are no particular sacred or divine localities, words are not vehicles of units of sacred meaning.[^256_216]
+[[P256]]
+In Jaimini’s system, while all action is propelled by *artha*—the *artha* in question is not meaning but rather a specific need. In the case of the Veda, it is the need of the text itself to be enacted that takes precedent, and this is precisely what Jaimini means when he speaks of *dharma*—in the singular—as injunctive force (*codanā*), and injunctive force as the conceptual core of Vedic ritual. Unlike in the case of building a house, where, if you were to change your mind you would just stop building, once commenced, Vedic rituals presents a claim upon the ritual actor that supersedes mere human needs and particularized desires. Jaimini argues that the force of the Vedic injunction is thoroughly separate from the content contained within any particular injunction. In short, just as human needs are decentered, so too is the issue of meaning. That one “should”—or rather, one must—perform the sacrifice is the most important dimension of any ritual sequence. The exact character of what needs to be done in order for the sacrifice to be successful is therefore thoroughly subordinated to the initial impulse to sacrifice. Analogously, Jaimini proposes that what human beings desire, more than anything else, is the result—not some particular aim. For this reason, the exact nature of the result of a particular sacrifice is itself a subordinate concern as what takes priority is whether the rite is in any way efficacious in the first place. Essentially, early Mīmāṃsā teaches that human aims (*puruṣārtha*) are by definition supplementary to the aims of the sacrifice itself. It is the aims of the sacrifice (*kratvartha*)—and not of any agent—that form the necessary preconditions for its execution.
+[[P257]]
+From a modern perspective, Skandasvāmin offers us a superfluity of semantics—too much meaning—and has almost too much invested in pinning down the significances every last word or particle could possibly convey. Jaimini’s approach, in contrast—at least as it is read by his commentators—proposes an internal hierarchy within the text that centering terse verbal commands, treats most of Vedic textuality as mere after thought.[^258_218] While Skandasvāmin offers us, once again, representations of too many discrete and mutually exclusive points of view to keep track of, each of them proposed by a separate interpretive community whose perspective he is eager to include and honor, by proposing that the real key to reading the Veda is an extra-textual hermeneutical method that is equally appropriate across all the useful parts of the canon, Jaimini sets out to erase any traces of lineage- and community- specific distinctiveness in traditions of Vedic interpretation. Finally, if Skandasvāmin reimagines the world of the Veda as an extended conceptual romance between the sacrificer and his love, lady language, that culminates in the ritualist becoming a god, for Jaimini, human beings in Vedic ritual are used and disposed of in the same manner as wooden spoons. As Clooney argues, speaking very much like the constructive theologian he would soon become, the transcendent dimension of Vedic discourse “occurs when the performer find himself in a world which accounts for his viewpoint without making him the center of the world. He is acknowledged, evaluated, placed, used, in a system which does not exist for his own sake.”[^258_219]
+
+Surreptitiously, we might also say that the “system” in question also proposes a “decentering” of the Veda itself as a knowledge system—in all its *śākhā*, procedural, and genre-based specificity. In place of the cultivation of the erudition of a Vaidika autodidact, Jaimini and especially his commentators effectively advocate that the subject formation
+[[P258]]
+constitutive of a Brāhmaṇical identity should be founded instead on the mastery of the Mīmāṃsaka exegetical method itself, for this alone provides a hermeneutical skeleton key to what they deem an otherwise irrational, contradictory, even meaningless inherited cultural patrimony. In short, much like the study of literature has done since the 1980’s, Mīmāṃsā substitutes the contextualized study of particular sources for the mastering of a theory and method viewed as equally applicable to a vast range of texts. Just as literary theory—for all its interpretive power—is discontinuous with long-standing Western traditions of rhetoric and taste, but instead represents an importation of an intellectual orientation that had its origins in other disciplinary and cultural domains, so too is it tempting to view Mīmāṃsā as an analogous phenomenon—what happens when brilliant people come to a text without inheriting a sense of its wider context. In light of our own investigation of the multiplicity of ways of being and thinking Brāhmaṇa, we would do well in this regard to look at this tradition, not as it imagines itself—the center of Brāhmaṇical normativity—but as one claimant among many to the role of official Vedic interpreter, promoting one canon as constitutive of being Brāhmaṇa. Indeed, it is tempting to see the tradition’s embrace of a hermeneutical approach—with few obvious genetic ties to the types of reading practices we have just encountered—that does things with and to texts while actively advocating that we do not need to read most of what is in them as an expression of an original alterity to an internally diverse Brāhmaṇical “mainstream” that was organized around a whole constellation of divergent concepts and orientations—just not ones that dispense with most of the contents of their tradition.
+[[P259]]
+Until very recently, most of the academic focus on the Mīmāṃsaka exegetical tradition has taken up the study of the commentarial reception of the work’s first two *sūtras*[^260_220]—which in the hands of the exegetes Śabarasvāmin (ca. fifth century CE) and Kumārila Bhaṭṭa (ca. seventh/eighth century CE) are largely dedicated to offering an intellectual refutation of the claims of Buddhist philosophical systems carried out in the formal idiom of *śāstric* considerations of logical dependencies and veridicality. In contrast, comparatively little attention has been directed towards how the next hundred pages of the text, pretty much from Mīmāṃsā Sūtra 1.1.4–2.2, while engaging with some philosophical analysis of the eternality of words, also addresses itself to the coopting or refutation of a myriad of non-philosophical, but either pedagogical or speculative perspectives from within Vedic traditions. A central focus of this portion of the text’s eternalization of the Vedic word is the denigration of the role played by Vedic pedagogy—and the human effort it entails—in the transmission and perpetuation of a meaningful Veda. It is also an assault on the part played by human agency in the making manifest of the Veda’s power. It is in this spirit, after our encounter with the mimetic theory of Vedic performative apotheosis advocated by Skandasvāmin, that we must read in a new light how Mīmāṃsā Sūtra 1.14 refutes an objector who says that people make words (*śabdaṃ kuru*) by telling us that, as in the case of the phrase *gomayaṃ kuru* (make cow dung), the Vedic ritualist is merely a collector of someone’s shit.[^260_221] It is also for this same reason that Mīmāṃsā next progresses (1.27) to discrediting that there is an affiliation of specific Vedic texts—with specific textual contents—to particular *śākhās* and their ancestral speakers.
+[[P260]]
+In the *Śabarabhāṣya* in particular, that the implicit as well as explicit target of much of this polemic is quite pointedly the tradition represented by the Nairuktakas is made evident by a rather remarkable rhetorical decision made by Śabara to take up the arguments and examples offered by Yāska’s major *pūrvapakṣin* and repurpose them as an integral part of his own *siddhānta*. Yāska’s commentary on *Nirukta* 1.15 famously contains an argument with a dissenting voice named Kautsa, who proposes that Vedic *mantras* have no meaning and then proceeds to offer examples of statements contained in the Veda that could not possibly be meaningful or true.
+
+> If you aim to ascertain the meaning of *mantras*, this is a useless activity, for the *mantras* have no meaning. This is to be established by the following arguments: 1) *Mantras* use fixed expressions and have a fixed word order. 2) The contents of *mantras* that are clear are already enjoined by a *brāhmaṇa* text. For example: the *mantra* “O wide-spreading one, spread out widely” is followed by the *brāhmaṇa* “thus he spreads out”; and the *mantra* “Let me pour out” is followed by the *brāhmaṇa* “and so he pours out.” 3) *Mantras* have impossible meanings. Consider the *mantra*: “O herb, protect him”; or “O axe, do not harm him,” which someone pronounces while harming. 4) *Mantras* have contradictory meanings. Consider the following two *mantras*: ‘There is only one Rudra, no second” and “On earth there are countless thousands of Rudras”; or “Without enemy were you born, O Indra” and “Indra conquered a hundred armies at the same time.” 5) A *mantra* orders someone who already knows what to do: “Speak to the fire that is being kindled.” 6) A *mantra* states that the goddess Aditi is everything: “Aditi is the sky, Aditi is the atmosphere.”. . . 7) The meanings of certain words in *mantras* are not clear such as *amyak* \[*Ṛg Veda* 1.169.3].[^261_222]
+
+In fact, for Yāska and his commentator Skandasvāmin, it is precisely Kautsa’s presentation of these arguments that provide them with the occasion for articulating the methodological and theological focus of their discipline in the manner we have explored in the previous section, much of which is framed around the refutation in sequence of each of these
+[[P261]]
+objections. There is thus no mistaking the fact that, while he adds in some examples of his own—raising nine points in place of Kautsa’s seven—Śabarasvāmin frames his own deconstruction of Vedic meaning under the very same proof texts and objections.
+
+> Are *mantras* intended to be expressive of meaning or are they not intended to be expressive of meaning? Do they play a role in the sacrifice through making their meaning known, or through mere recitation? If through mere recitation, the *mantra* “I cut the grass to make a seat for the gods” should not necessarily be used in connection with cutting grass. If, on the other hand, they play a role through referring, the *mantra* whose auxiliary nature is known from the context cannot play a role elsewhere than in that context. As a result, the *mantra* could then only be used in connection with cutting grass, even in the absence of a statement to that effect.
+>
+> \[First argument:] We hold that *mantras* play a role in the sacrifice through their mere recitation. Why? Because the same meaning is repeated in *brāhmaṇa* passages. A *brāhmaṇa* passage directs the priest exactly in respect of that which also the *mantra* can express. The statement in a *brāhmaṇa* “he spread out the sacrificial cake with the *mantra* “O wide-spreading one, spread out widely” is pointless if *mantras* play a role in the sacrifice through referring. But if *mantras* play a role in the sacrifice through mere recitation, their use must be stated, and indeed, it has been stated. It follows that *mantras* do not play a role in the sacrifice through the expression of their meaning. . . . \[Second argument:] Because the order in *mantras* is fixed. . . .
+>
+> \[Fifth argument:] *Mantras* fix their object with regard to something that is insentient, as in \[the statement] “O herb, protect him.” Such *mantras*, if they played a role in the sacrifice by way of making their meaning known, would instruct an herb to protect the sacrificial animal. But that herb, being insentient, cannot be instructed. There is however nothing wrong if mere utterance is the purpose of *mantras*. \[Sixth argument:] The meaning of *mantras* contains contradictions, as in “Aditi is the sky, Aditi is the atmosphere.” . . . Another example of contradictory *mantras* is “There is only one Rudra, no second” as against “on earth there are countless thousands of Rudras.” . . . \[Eighth argument:] It is completely impossible to understand the meaning of certain *mantras*. Examples are *anyak*. . . *jarbharī*.[^262_223]
+
+In his subcommentary on this section of Śabara’s *Bhāṣya*, Kumārila in turn direct his polemic even more specifically against the *Nirukta* tradition of exegesis:
+
+> Jaimini (1.2.48): The fact of learning the meaning of the *mantras* not being mentioned in the sentence laying down the study of the Veda is due to the fact of such knowledge not having any connection \[with the performance of the sacrifice].
+[[P262]]
+
+> Kumārila: If, at the time of the study of Veda, the mention of the meaning were of any use, then it would certainly have been mentioned in the injunction, but as a matter of fact, such is not the case, as it bears no connection to the actual performance of the sacrifices. As for the learning of the meaning \[in the same manner a text is learnt and utilized, this is not enjoined,] because \[the ascertainment of the meaning of the *mantra*] is an ordinary act, like washing and so forth.[^263_224]
+
+While is it unclear whether he knows Skandasvāmin’s writings directly, Kumārila’s final pejorative remark comparing Vedic pedagogy that transmits semantic understanding to an “ordinary act, like washing” amounts to a repudiation of Skandasvāmin’s positive valorization of quotidian acts of skill acquisition as a paradigm for understanding the mastery of Vedic knowledge. For, if activities “such as the cooking of rice or the activity of the artisan (*śilpin*)” were to provide the “qualification (*adhikāra*) on the part of human beings that arises from knowledge regarding these activities” in precisely the same way “that the one who studies by means of the transmission of that discipline knows \[the Veda] correctly, but another person, incorrectly or not at all,” then extra-disciplinary Pūrva Mīmāṃsā and its vision of Brāhmaṇical privilege loses its justification as a comprehensive knowledge system.[^263_225] Contrary to Śabara and Kumārila’s dismissals of “knowing meaning” as simply serving indexical, descriptive, and performative semantic functions, as we have seen, the kinds of multifaceted reading strategies we have encountered in Skandasvāmin are equally invested in exploring how contact— especially sustained contact—with Vedic language transforms the subjectivities and ultimately the ontology of the Vedic practitioner. In a humbler register, also in evidence in the
+[[P263]]
+*Ṛgvedārthabodha*, Veda from this perspective is also valuable because it provides ethical and “spiritual” guidance in the context of one’s daily life outside the realm of ritual. In short, despite its many technicalities, it amounts to “another way of knowing” akin to what in our discourse is often naively dubbed “Eastern Philosophy.” Far more than Buddhists—whose intellectual prowess they at least grudgingly respect—if there is anything that Mīmāṃsakas abhor, it would be “Eastern Philosophy” and its touchy-feely spirituality. It thus in the spirit of a *reductio ad absurdum* dismissal of such a perspective that Śabarasvāmin follows up his use of Kautsa with the following incisive passage:
+
+> Jaimini: \[It is not authoritative] because of the contradiction between what has been perceived and scripture.
+>
+> Śabara: “The mind is a thief. Speech lies.” Statements of this sort are not authoritative in regard to *dharma*, because this is supplementary elaboration of established fact. Even if it is construed by means of a suppletive exegetical strategy and so forth, this would necessarily result simply in the notion that stealing and lying are things that should be done. And thus, the prohibition on stealing and lying would be unable to be practiced. . . . Nor is there a case of optionality \[between two equal injunctions] because of the unevenness \[in regard to the two respective authorities]. One is a *vidhi* to be optionalized. One is a perception.
+>
+> Kumārila, *Tantravārttika*: A statement about the mind stealing or speech speaking falsehood, whether existing or not existing, does not achieve any veridicality with regard to *dharma* or its own object. Now, however, one might construe, by means suppletion and so forth, in the following manner: because of the primacy of the mind and speech regarding the activity in all bodies, their \[mind and speech’s] actions are to be imitated also by the other sense faculties. \[Hence, if the mind is a thief, the hand should go steal things.] If this were the case, there would be a contradiction with scripture, because, if this were so, then \[stealing and not stealing] would be being enjoined and prohibited \[at the same time].Were this the case, it would be in the same manner as with the sixteen-fold \[sacrifice, which one scriptural source permits and another prohibits,] \[and] there would be an optionality \[maybe you could steal if you wanted to, or in certain contexts].
+>
+> But someone else argues: there is an uneveness \[of the two relative authorities] because of it being \[a *vidhi*] that is to be conjectured/inferred \[as opposed to the direct injunction forbidding stealing explicitly]. But one might object even though the *vidhi* \[implicit in the statement] is extremely “weak,” that it is equal in strength with the prohibition concerning taking things for yourself that is subordinated to that. And thus, it will be
+[[P264]]
+> stated that the prohibition does not originate in \[this example] in the domain of the injunction. True. This is a case where there is non-obtainment \[of an injunction] without resorting to *śāstra* \[i.e., you do not steal is not something the Veda says, the prohibition against acquiring for yourself is not an explicit statement one should not steal, which is only found in the *dharma* literature]. . . .
+>
+> Thus, in this regard it will be stated that, if it should be construed as in the case of taking for oneself, then on the part of taking falsehood and stealing, if they are engaged in it without having any *śāstra*, then the prohibition \[that is a censuring of lying and stealing] is established as being independent of an injunction. Thus, it blocks the *vidhi* that is being inferred, and therefore, it is a bad thing \[to steal and lie].[^265_226]
+
+Within the circumscribed terms of the scholastic game the Mīmāṃsakas are playing— mostly with themselves—it has already been “proven” that there are only a delimited set of things that a Vedic passage can accomplish. Since this type of semantic function does not make the list, Śabara and his sub-commentator are free to proceed by heading down the less than obvious intellectual path that a statement such as “the mind is a thief” might be construable as hiding an injunction guiding human action: “thou shall steal,” if you will. The problem stems from the fact that the Vedic canon never explicitly forbids theft, at least not in the context of a statement possessing the proper grammatical form. Bhāṭṭa Mīmāṃsā argues that if a Vedic sentence is to be read as self-evidently containing an injunction, it ideally includes a verbal root that is formed with the *loṭ*, *luṭ*, or *liṇ* (imperative, future periphrastic, and optative) verbal suffixes. Present tense verbs, for example, do not tell us to do anything. This, incidentally, is a
+[[P265]]
+rather convenient strategy as it enables Mīmāṃsā to dismiss much of the *Śrautasūtra* literature—which offer directions on how to perform sacrifices—as irrelevant to its project. Even so, perhaps because there are some statements Mīmāṃsā is intent on including that are framed in this manner, the tradition offers strategies for inferring a weaker kind of injunction—extrapolating from statements we do possess. In this case, there is a verified statement about not taking up the results of the sacrifice for one’s own personal benefit while performing as the ritualist—and this is what is being discussed in the above passage by Śabara and especially Kumārila. If we were to accept that “the mind is a thief” also offered us a weakly inferred injunction, then, based on the existence of two competing and contradictory injunctions of the same weight, you would conceivably have the option of stealing or not stealing. This is why Kumārila is so intent on ruling out that stealing can be associated even with an inferable injunction, because once we determine that this kind of weak statement favoring it does not exist, we are still left with the statement against “taking property to benefit oneself,” which without any competition becomes the governing dictum. It is only because an injunction exists that tells us not to steal and lie that stealing and lying can be treated as “bad activities.” In other words, there is nothing that makes lying and stealing—or for that matter killing—intrinsically different from the commission of any other act proscribed by Vedic injunction.
+
+What this kind of learned analysis causes us to miss is that by drawing us into this kind of intellectual gymnastics, which take considerable time to master, the Mīmāṃsakas are redirecting and deflecting our attention away from the possibility of much more straight forward reactions to the passages provided by Śabara. What we have in mind is the sort of obvious reader responses engendered by an encounter with the Upaniṣads, of the sort
+[[P266]]
+exemplified by this impromptu teaching offered by the twentieth-century Godman Sathya Sai Baba in one of his *satsangs*:
+
+> You hear talks and read books, instead you have to search within and subdue the mind. The mind is a thief. You must get hold of the thief and drive him out. Because of the mind, man loses peace.[^267_227]
+
+As we have seen in the early Sāṃkhya and Nyāya sources and especially in Skandasvāmin’s delineation of an extra-textual form of oral teaching called *upaniṣad* that like in the Sāṃkhya and Nyāya texts makes use of “real-world examples and extended cognitive metaphors as illustrations,” this kind of engagement with scripture on the Indian subcontinent and beyond is hardly a product of modernity. Where such phenomena occasionally impinge into the textual record, we find that over period of a thousand years dictums like “the mind is a thief” have floated freely across theological, linguistic, and geographical communities— surfacing, for example, in the Chinese writings of Ch’oe ch’i-wŏn, a ninth-century advocate of Mind Only Yogācāra, in the seventeenth-century Marathi *Dāsabodh* of Rāmdās, and the twentieth-century oral poetry of quasi literate Rajasthani Bhaṭs.[^267_229] There is a deep and pan- Asian history of this sort of continued repurposing of an oral repertoire—loosely rooted in scriptural inspirations—by performers and charismatic pedagogues alike that offers its own impression of the nature of literary and religious discourses that provide both solace and guidance. Part of what Mīmāṃsā is doing is making sure that none of that mode of discourse production, even in its most scholastic incarnations, ever has a chance to take a seat at the table where the canons of what constitutes “real knowledge” get deliberated.
+[[P267]]
+Mīmāṃsā is clearly engaged in legitimate efforts to make as philosophically airtight as possible the case for the Veda as a singular special mode of discourse whose veridicality is uniquely unassailable. As a wide range of other scholarship has demonstrated, it achieves these efforts by, for example, dismissing the claims that Veda is an authored text, assigning the gods a minor and not causally significant role in Mīmāṃsā discourse, and denying that it is possible for human beings—even special ones—to have direct access to the reality of subtle things, forces, and concepts through methods like yogic perception. At the same time, it is no accident that virtually all of these interpretive choices simultaneously discredit competing non- philosophical approaches—be they Brāhmaṇical, *śramaṇa*, or other—to Indic religiosity and conceptualizing religious authority. As Larry McCrea has elegantly argued:
+
+> \[Mīmāṃsakās] are often described as the most “orthodox” upholders of the Vedic tradition, but even a cursory survey of the central works of the Mīmāṃsā tradition is sufficient to reveal that their positions were often quite radical, placing them at odds with most or all rival philosophical systems, even those within the “Hindu” fold. They were by and large skeptical about, or outright deniers of, many of the stock elements of Hindu cosmology—for example, the existence of gods, the cyclical dissolution and reemergence of the cosmos, the possibility of liberation from the cycle of death and rebirth. Similarly, the Mīmāṃsā position on yogic perception is decidedly at odds with what we might describe as “mainstream opinion” among Sanskrit philosophers. In opposition to virtually all other schools of thought in pre-modern India, the Mīmāṃsakas totally reject the possibility of yogic or supernatural perception. . . .
+>
+> What sets the Mīmāṃsakas apart from nearly all of their rivals is their understanding of how it is that scriptures can contain reliable information on such matters. Rival accounts of scriptural validity—both those of extra-Vedic rivals such as the Buddhists and Jains, and of those who upheld the validity of the Vedas, such as the Naiyāyikas— take the reliability of their scriptures to derive from the knowledgeability of their authors. Intuitively enough, they take the position that scriptures should be understood to be reliable insofar as it can be determined that those who composed them knew whereof they spoke. The remembered and recorded words of “seers” such as the Buddha and the Jina are seen as valuable insofar as they give us access to truths which they could perceive, but we cannot. It is, above all, against such claims of personal authority in matters of *dharma* that the Mīmāṃsakas direct their fire. It is therefore not primarily the existence of yogic perception, but its usefulness as a means for validating scriptural claims, that they wish to deny. They do offer arguments against the very possibility that any person could have the sort of extraordinary perceptual powers
+[[P268]]
+> claimed for the Buddha and the like; but, crucially, they argue further that even if this were possible—even if certain individuals really did have the power to perceive *dharma*, for instance—this would be of no help to ordinary people—to people like ourselves who are not *yogis*—in gaining knowledge of *dharma* for themselves. Due to this focus on the statements of *yogis* and their putative validity, the issue he confronts is not so much an ontological question—Do *yogis* actually exist?—but an epistemological one—How, if at all, could one reliably determine whether the statements of any self-proclaimed *yogi* are reliable or not?
+>
+> The upholders of yogic perception, and of the authorial model of scriptural authority, need to argue that their *yogis*, and specifically the authors of their scriptures, have direct and privileged access to certain truths—about the nature of the universe, the soul or its absence, our fate after death, and so on—that are totally beyond the range of what ordinary people can know by their own devices. The value of scriptures lies precisely in their capacity to transmit to us the knowledge of those who can perceive what we cannot. But, one of the key strategies of Kumārila’s argument in the *Codanāsūtra* is to show that—even if we were to admit the existence of *yogis*—the privileged access to truth that is claimed for them, far from making their words a valuable source of knowledge for ordinary persons, actually renders them entirely useless to us. He attempts to show that the perceptually privileged status ascribed to *yogis* would create an unbridgeable epistemic divide between us and them, such that their own knowledge, however accurate it might be, would necessarily remain inaccessible to us. . . .
+>
+> There is simply no way one can satisfactorily evaluate the knowledge claims of purported seers or *yogis*, unless one can confirm independently that they really do know truly what they claim to. Yet one cannot do this unless one has the same extraordinary perceptual capacities that they do. Hence, the statements of those who claim extraordinary perceptual powers can be held valid only insofar as they are redundant— we can only know them to be true when they tell us what we are able to find out for ourselves.[^269_230]
+
+Approaching the same archive from the perspective of an archaeologist, Michael Willis has shown us how the Pūrva Mīmāṃsakas’ attitude problem when it comes to external authorities is a prominent feature not only of its exchanges with philosophical rivals, but also in its engagement with Gupta state policy as it pertains to royal sovereignty, property rights, and types of property management, especially when they would result in the institutionalization of non-Mīmāṃsaka ritual. Willis observes that “in the name of the Vedic tradition,” Śabara
+[[P269]]
+“was determined to demolish, in detail and with finality, the operative assumptions of *pūjā*,”[^270_231] a topic we will return to in chapter 10 of this work, but also that more generally that he was effectively at war with the dominant social contract of his day, in which kings accumulated merit by engaging in public works projects and bestowing land in perpetuity upon worthy recipients originating within a range of communities. Willis’s argument is worth quoting at some length:
+
+> Śabara's insistence on the primacy of the Vedas meant that he rejected the operative assumptions of the copper-plate charters. Śabara does not mention the charters *per se*, but he does deal with similar merit-making activities, like the digging of tanks. Acts of this kind may be enjoined in *smṛti*-texts, he says, but because they are not corroborated by the Veda and because *smṛti*-texts are the work of human authors. . . they are not infallible. Thus, acts like the digging of tanks may be disregarded. . . . He is not, we must note, against the digging of tanks or other activities of this kind. It may be useful to dig a tank for a host of practical reasons, but in the absence of Vedic authority, it is not right to assume that this act will bring merit or some other intangible result, like a felicitous rebirth.
+>
+> This explains why the Mīmāṃsakas were not happy with the operative assumptions of the charters. . . . The charters appealed to the *Mahābhārata* to show that kings held absolute title to the earth and that, based on this, they were authorised to make gifts of land. . . . To recap: kings gain merit through land-grants and will, as a consequence, enjoy heaven after death. Inversely, those who overturn land-grants or assent to such actions will end up in hell. . . .
+>
+> The Mimamsakas took exception to this not because land-grants were necessarily a bad thing – Vedic pundits were frequent beneficiaries – but because the conceptual framework was inherently flawed. Firstly, the *Mahābhārata* had no authority because it was unreliably human in origin. . . . Secondly, the charters used this questionable source to make claims about the intangible consequences of giving land. The idea that a king would enjoy heaven as a result of this act of giving was, quite simply, not substantiated by the Veda. The Vedas say *svargakāmo yajeta*, “he who desires heaven should sacrifice”; the Vedas do not say that “he who desires heaven should make grants of land.” So the propositions in the charters are entirely bogus.[^270_232]
+[[P270]]
+Before we move on to the rest of Willis’s exceptionally convincing argument, it is worth pausing for moment and recognize what it is that Śabara is adamantly rejecting. As we shall see in the next chapter, copper plate charters are legal documents, copies of which were held by both the owners of land and the ruling powers. They offer a documentary record, not only of who owns and what, but delineating patterns of tribute and taxation. The “digging of tanks and so forth,” as a part of *iṣṭāpūrta*, not only formed the foundation of social service and infrastructure building in classical and medieval India, but represented religious practices believed to produce merit that can be traced much further back into the textual documentary record than Pūrva Mīmāṃsā itself. Furthermore, in challenging the *Mahābhārata* as a guide to royal conduct, Mīmāṃsakas are rejecting not only the authority of tradition of the Epics themselves, but because the Epics, as in the *Udyogaparvan*, offer distillations of the types of oral codes of warrior comportment that even in the time of Āpastamba were still recognized as the supplementary *dharmas* observed by Kṣatriya. clans, they are effectively dismissing the *svadharma* of many of the Kṣatriya clans. While our sources—ironically mostly copper plates—tell us quite a bit about the Brāhmaṇical *agrahāras* and their pattern of settlement during this period, there is nothing conclusive in the documentary record pertaining specifically to the social position of Mīmāṃsaka exegetes. In the absence of external evidence, the only reason we have ascribed to Pūrva Mīmāṃsā in the classical and medieval period such a lofty position within the social order of their day is the esteem in which such traditions would come to be held in the early modern period. But if you look at just the evidence we have before us—that these are people who reject most of the religious and social norms of their society and are trying to come up with reasons that you really do not have to pay your taxes or recognize as legitimate the dominant patterns of property ownership within society—another possibility
+[[P271]]
+presents itself, namely, that Mīmāṃsā is the sovereign citizen movement[^272_233] of its day, a bunch of educated and opinionated cranks supported by a sinecure with questionable relationships to polite society. The plausibility of such a counternarrative comes into even sharper focus when we turn to Willis’s argument and look at how the Mīmāṃsakas interrogate the rights of kings:
+
+> The starting point for the charters was the idea that kings held title to the earth. This was a fundamental on which the whole business of giving land rested. Śabara’s views on this matter are brought forward in *Śabarabhāṣya* 6: 7: 2 where he deals with the injunction that in the *Viśvajit* sacrifice the *yajamāna* should give away everything he owns. The basic problem is whether the king as “lord of the earth” (*sārvabhauma*) is able to give the earth away. Śabara's view is that the earth cannot be given away because it belongs to all men without distinction. Moreover it cannot be given away because this would require ownership and people are found to be the owners of individual plots and fields, not of the entire terrestrial globe. So while some might hold that the king as “lord of the earth” may give the earth away, Śabara notes that the “lord of the earth” enjoys ownership no different from other men. The peculiarity of the king’s lordship derives from the fact that he is obliged to protect and preserve the produce of others, from which he receives an appropriate share in the form of tax. This alone he possesses, not the earth. “From all this,” Śabara concludes, “it follows that the earth cannot be given away.”
+>
+> Although Śabara’s concern was with ritual rather than polity, his conclusions are highly politicised. Through his use of the word *sarvabhāuma*, Śabara was making a deliberate excursus into the loaded terminology of the Gupta political world. Amarasiṃha, one of Śabara’s contemporaries, defined the universal monarch as a king who was *sārvabhauma*. Among learned men living in north India during the fifth century, who could have possibly doubted that all this referred directly to the Gupta emperor? Śabara, in effect, was attacking the constitution of Gupta power. . . at least to the extent that the king’s conquest of the world and its ritual enactments. . . gave the king special powers over the earth as a whole. . . .
+>
+> The Mīmāṃsakas had fairly obvious reasons for taking this stand. Quoting one of their own aphorisms back at them, we may say: “Also we find motives” \[*Mīmāṃsāsūtra* 1: 3: 2: 4). The most obvious motive, from the historical perspective of Gupta times, was their dislike of temple-gods and attendant religious practices. If the king assumed
+[[P272]]
+> absolute title to the earth, lands could be appropriated and assigned to temple-gods as inalienable endowments. Specific cases of this are documented by Gupta-period copper-plates. . . . Several charters from central India record how villages were reorganised into *devāgrahāra-s* and given over to temple-gods under the control of new elites. The king’s orders dictating the terms of these arrangements were addressed to the village residents, including cultivators and *brāhmaṇas*. We know nothing about these people otherwise, but there can be little doubt that the *brāhmaṇas* already living in the villages would have resented the insinuation of state power and the expropriation of village resources by a new-fangled temple-priest from the outside. These *brāhmaṇas* would have heartily agreed with the Mīmāṃsakas that the temple-cult was an innovation based on false premises.[^273_234]
+
+Prior to the era of the European Enlightenment, pretty much anywhere in the world, people do not critique the ruling powers and their disciplinary practices with this kind of aplomb unless they either have their own armies or dwell far away from the court in question. And indeed, when it comes to speaking about how one should rely upon and defer to the authority of localized authorities, Śabara and Kumārila sing a markedly different tune. In the *Bhāṣya*, when the social world and its problems are treated not as pure distant abstractions, the words of our author and his sub-commentator often express a marked anxiety—or even paranoia—about of the position of Brāhmaṇas and the ubiquitous nature of fraudulent attempts at coopting or undermining their authority.
+
+Perhaps the most vivid reflection that the discourse of early Mīmāṃsā offers on the socially precarity inherent to their delineation of Brāhmaṇical authority is a long and difficult passage in the *Tantravārttika* of Kumārila. The discussion begins by dismissing a Vedic proof text in which the speakers reflect existentially on their status as Brāhmaṇas, but then rather atypically descends into a charming rant about how difficult it is to confirm that any particular person is a Brāhmaṇa on purely empirical grounds, in part because Brāhmaṇa women are unreliable and might be sleeping with the help. The passage concludes with Kumārila
+[[P273]]
+confronting with considerable discomfort the existence of competing paradigms in which Brāhmaṇa-hood is not a matter of birthright, but produced by *ācāra*, the product of prolonged austerities, or a changeable status reflecting one’s current state of ritual purity.
+
+Let us take this apart a piece at a time:
+
+> S: \[There is] a contradiction with what is perceived. It is not that we know thus—“Are we Brāhmaṇas or are we not Brāhmaṇas?” This statement serves no purpose because it is not productive of any action. Thus, this is the \[real] sense \[of the statement]: “We do not know whether we are Brāhmaṇas or not Brāhmaṇas.” But, this \[statement] is not authoritative because it is in contradiction with perceived facts.[^274_235]
+>
+> Kumārila: For, it is not the case that even the ignorance, or the doubt, or the inversion, about Brāhmaṇa-ness is employed in a ritual in whatsoever portion. Nor is this possibly a *stuti* verse, because it is in contradiction with perception. And it is not the case that it is authoritative, because this statement inculcates ignorance about the independent nature of Brāhmaṇa-hood.
+>
+> *Pūrvapakṣin*: How, then, is this \[statement] a contradiction with perception, when the demarcation of Brāhmaṇa-hood and so forth \[as it presents itself] in different bodies that all have the same form (*ākāra*) is discernable only based on the authority of scripture?
+>
+> K: It is not the case that this \[topic is solely] dependent upon \[the knowledge we gain from] *śāstra*, because it \[Brāhmaṇa-hood] is well known in the world, as in the case of a tree \[existing in the world] and so forth.
+>
+> P: How then again, is this \[category of] being Brāhmaṇa well known in the world?
+>
+> K: We say it is by perception.
+>
+> P: How is it the case, then, that those who are not aware \[on the basis of direct perception] of the relation between mother and father do not grasp \[Brāhmaṇa-hood] when it is not told to them, when the people in question are standing there right in front of their eyes?
+>
+> Because of the lack of ability \[of perceiving Brāhmaṇa-hood], just as with the case of discerning tree-hood and so forth \[which, like knowing about any abstract category is] dependent on a prior education concerning these designations.[^275_236]
+[[P274]]
+Śabara and Kumārila both begin on safe territory, parsing the statement: “Are we Brāhmaṇas or not Brāhmaṇas?” not as an example of existential self-reflection, but simply a disguised presentation of two contradictory claims—“We are Brāhmaṇas and we are not Brāhmaṇas.” Had Śabara ended there, this whole discussion would never have happened, but instead he says this statement is in contradiction with “perceived facts.” The problem is that, as Kumārila’s imagined opponent quickly points out, there is nothing at all self-evident about the notion that our “perceptions” can tell us there is a thing called “Brāhmaṇa-ness.” Sure, we see individual people and call them Brāhmaṇas, but it is a matter of philosophical contestation whether abstract categories themselves have independent existence. It is even less clear that we can evaluate who is and who is not Brāhmaṇa without resorting either to the authority of a *śāstric* source inferior in authority to the Veda or relying on the second-hand testimony of other people. The problem is that neither of these sources measure up to Mīmāṃsā’s own definitions of what constitutes a valid authority. Essentially, as Kumārila has already discussed at considerable length by this point in his works, this is because *śāstra*, to say nothing of human authorities, is a fallible product of the human mind and people frequently lie.
+[[P275]]
+Kumārila and his interlocutors’ first exchange need not detain us. It is essentially a repetition of a longstanding series of philosophical arguments concerning whether we see “abstract classes of things” and then infer the existence of individuals, or whether individual things present themselves first to human perception and we then infer the existence of abstract categories—such as Brāhmaṇa-hood. Mīmāṃsā, of course, takes the first position as axiomatic. The next argument, in contrast, is much more relevant to our own inquiry, for it begins by arguing that we can rule out that the cause of Brāhmaṇa-hood is any feature of Brāhmaṇical experience that Brāhmaṇas share with other twice-borns and then suddenly diverges into a paranoid xenophobic and misogynistic diatribe about how the seamy activities of bad Śūdras and cheating Brāhmaṇa women spoil our otherwise pristine intellectual models.
+
+> P: And it is not that the sacred thread (*upavīta*) and the instruction (*adhyayana*) and so forth is that facilitating cause \[of being Brāhmaṇa], because of \[these features] being common to the three *varṇas*. And things like instruction (*adhyāpana*) and so forth are dubious/indeterminate \[as factors] because they are incompatible with Kṣatriyas and Vaiśyas who have distinct comportment. And all of this is indeterminate because of it being conceivable among bad Śūdras \[that such comportment might be taken up]. . . .
+>
+> K: In this case, with regard to the recollecting the caste of the agent of production—\[of Brāhmaṇa-ness—i.e., the mother]. . . . the nature of a relationship between the producer and produced is perceptible on the part of the mother alone. Furthermore, on the part of the others it is inference or the testimony of an authoritative person that is understood to be the cause \[of that sort of knowledge about the paternity of the child]. . . . It is not that we must consequently say that since there is not perception immediately on the part of everybody, that as a consequence there is no perception on the part of those discerning people with the skill \[to evaluate claims].[^276_237]
+[[P276]]
+Just as he later will in regard to Brāhmaṇical comportment, Kumārila has to accept the stance that neither the possession of a sacred thread nor participation in Vedic instruction can be the causes of Brāhmaṇa-hood, because otherwise he would be stuck admitting that if a Śūdra slipped into the *pāṭhaśālā*, attended all the classes, and received all the *saṃskāras*, he too
+[[P277]]
+would become a Brāhmaṇa indistinguishable from his classmates, a position that his values will not permit him to accept. And so, after further discussions about how we can infer the presence of an abstract category by consistently observing the same set of features in individual discrete subjects or objects, Kumārila turns to establishing that there is actually one person who directly observes every stage in the causal process that results in the production of a Brāhmaṇa boy. That person is the Brāhmaṇa boy’s mother who effectively causes him to be a Brāhmaṇa. Provided she tells “an authoritative person” (*śiṣṭa*) “with discerning skill” that the boy is hers, our author suggests that this should be acceptable testimony for establishing paternity, and thus the presence of Brāhmaṇa-hood needs to be treated as a perceivable and valid social fact in the world. His opponent, however, will have none of this, and he throws Śabara and Kumārila’s own words about the unreliability of people in general and women in particular right back at them:
+
+> P: \[No,] because, as he himself will say later, there is the possibility of the transgression on the part of the woman, this relationship \[between Brāhmaṇa-hood and its presence or absence in the child] is difficult to know. . . .
+>
+> K: Nor is it the case that it is reasonable given the perception of deviance on the part of women in some cases, that we can conceive that being true in all cases.
+>
+> P: However, it is not reasonable to make a \[reliable] inference that is contrary to worldly experience. . . .
+>
+> K: By a concerted effort, those from great families—they protect themselves. And for that very reason, for the sake of not forgetting the lineage of their fathers and grandfathers, by kings and by Brāhmaṇas, *samūha* documents are put forth. And likewise, in each family, due to the recollection of faults and qualities \[that run in the family], the engaging and ceasing in action is seen to take place in conformity to that. . . .
+>
+> P: \[No,] for it is seen that even women who are transgressing have offspring engendered by her own husband \[i.e., a woman might cheat but still happen to conceive her husband’s child]. But on the part of those women \[who are transgressing], the enjoyment of inauspicious fruits would be brought about by that transgression. But, there is not \[in that case] an instance of *varṇa* mixing on the part of the offspring. Is
+[[P277]]
+> not necessarily the case that transgression takes places only with people of other *varṇas*; and there would not the consequence of belonging to another *varṇa* on the part of an offspring produced belonging to the same *varṇa*. . . .
+>
+> K: For it is not that this restriction about the measure of man is to be understood by a worldly standard. Therefore, even if there is a conformity, by some certain facilitating cause, just as is the case with the knowledge of divisions of male and female cuckoos, to a certain extent, just so, Brāhmaṇa-hood and so forth are understandable through perception that is grasped through lineage or memory or direct visual perception. Therefore, there is on the part of this statement—\[that says “it (Brāhmaṇa-hood) is not known”]—a contradiction with perception.[^278_238]
+
+The problem here is not simply that sometimes Brāhmaṇa women sleep with someone who is not their husband and not a Brāhmaṇa, and that this intercourse produces a child that is passed off as pure-blood Brāhmaṇa boy. The larger issue is that if we can claim that our knowledge of what Brāhmaṇa-hood is based solely on the sum total of sensory perceptions we and our society have had of people who are labelled Brāhmaṇas, the whole dataset is potentially dubious. We quite simply have no way of determining beyond a reasonable doubt if the iconic examples we have selected as models for establishing the canons of Brāhmaṇa-ness actually possessed Brāhmaṇa blood. Kumārila’s response to this problem is altogether extraordinary. Quite unlike how Śabara had dismissed as dubious the intellectual foundations behind copper plate production, Kumārila leans heavily on the existence of a paper trail. As we shall see in the next chapter, contrary to our assumptions that documentary records were marginal to the
+[[P278]]
+workings of South Asian institutional cultures, medieval India was swimming in ephemeral paperwork, much of which was preserved in localized centers housing records. What Kumārila tells us is that in practical terms, if you want to determine the caste or specific background of an important person, the best way to do this is by consulting the *vaṃśāvalis* produced by families and the paperwork issued by a *samūha*—a collectivity or council—that delineates who is who and who owns what. Intriguingly, Kumārila’s interlocutor seems to agree with our author on the authoritativeness—or at least the uncritiquable status of such sources—however much their inclusion is borderline philosophically incoherent—for, of course, paperwork can lie just as easily as a person. Thus, for Kumārila as much as Skandasvāmin, “the beginningless transactionality” of the quotidian social world animated by a decidedly non-scholastic logic has its own power that cannot be disregarded.
+
+Kumārila’s opponent issues his next critique in response to Kumārila’s poorly thought- out remark that we can also infer paternity based on features that “run in the family,” and conversely, that we can discern that a caste transgression has been committed based on the bad things that happen to the line after the transgression has been committed. Our objector’s response is something like the following. When bad things happen to people, this is of course a sign that they transgressed some rules—but what it does not tell us is which rules and it certainly is not evidence invalidating paternity claims. In fact, even if a woman habitually cheats on her husband, we still do not have proof that, if she conceives, the baby is not his. The problem is that we do not just see a baby, examine it and its traits, and say “that’s a mixed caste baby, his mother must have transgressed.” The reason we cannot do this is because the presence or absence of Brāhmaṇa-hood in mixed caste babies is not available to our perception. In short, however much Kumārila may want to assert that there are a range of resources for establishing
+[[P279]]
+Brāhmaṇa-hood as a social fact, and that therefore our *śruti* text “are we Brāhmaṇas or are we not Brāhmaṇas” is in contradiction with the canon of human perceptions, he still has not yet made his case.
+
+Since, as we have just seen, saying that the presence or absence of Brāhmaṇa-hood is perceptible on the basis of lines of descent is a weak argument—because in any particular case we cannot determine the degree of correspondence between the actual set of circumstances that engendered a child and the corresponding public discourse about heredity—the temptation is to argue that we can “see” Brāhmaṇa-hood by inferring it from the behavior of people we call Brāhmaṇas. However, if the cause of being Brāhmaṇa, or even being identified by others as a Brāhmaṇa, is simply that a person in public behaves like a Brāhmaṇa—which as we have just seen is one of the few ways “being Brāhmaṇa” might be groundable in ordinary sense perceptions—the integrity of the category Brāhmaṇa collapses.
+
+> Kumārila: Of whomsoever Brāhmaṇa-hood and so forth are conditioning factors of their conduct, for them there is in fact a perceptible contradiction \[in relation to the passage “are we or are we not Brāhmaṇas,”] to the extent \[that they engage in that conduct.]
+>
+> But it does not follow that there is any veridical authority in regard to the divisions of the *varṇas* as having as their conditioning factor *ācāra*. For, if Brāhmaṇas and so forth are established to have certain conducts that are enjoined, that would lead to the logical fallacy of circular reasoning \[where conduct determines Brāhmaṇa-hood and Brāhmaṇa-hood determines conduct.] The conduct \[*ācāra*] of Brāhmaṇas and so forth is, under that pretext, \[the only thing that] is called Brāhmaṇa and so forth.
+>
+> And it is not that there is establishment of the fact that any given person at the time of auspicious conduct is a Brāhmaṇa and at the time of inauspicious conduct the same person is a Śūdra. In just the same way, by a single effort, on the part of those who are both afflicting some people and favoring of others, there would be the contradiction of possessing Brāhmaṇa-hood and non-Brāhmaṇa-hood \[just as we find in the proof text]. And this, however, is inculcated by such types of proofs.
+>
+> It is also not that the aggregation (*samudāya*) of austerities (*tapas*) and so forth is itself a defining feature of Brāhmaṇa-hood. And *saṃskāra* \[making one a Brāhmaṇa] is not produced by that \[austerity]. And caste is not inferable by it \[by the fact that one is performing austerities]. . . .
+[[P280]]
+> Therefore, according to the previous principle itself, given that the division of classes is differentially established, we must say that statements of this sort—“he is a Śūdra for the month”—are statements that are for the purpose of censuring action and for the purpose of inculcating the deficiency of the actions undertaken on the part of members of the three *varṇas* \[and that these statements are not talking about people swapping castes]. . . Because of the \[statements expressive of] ignorance and doubt and inversion not serving as means for accomplishing anything \[in ritual,] then these statements are useless.[^281_239]
+
+Kumārila’s core objective here is to show that if the cause of being Brāhmaṇa, or even being identified by others as a Brāhmaṇa, is simply that a person in public behaves like a Brāhmaṇa—which as we have just seen is one of the few ways “being Brāhmaṇa” might be groundable in ordinary sense perceptions—the integrity of the category Brāhmaṇa collapses. From his perspective, the state of affairs that results from this is a self-evidently absurd outcome of the sort that should lead a person to discard a line of inquiry. From the perspective of a social historian, however, the other possibilities that Kumārila raises and then discounts are far more interesting than his actual argument.
+
+The alternative models of being Brāhmaṇa considered and condemned by Kumārila are that 1) the features of what we call Brāhmaṇa-hood are simply to be inferred from what people
+[[P281]]
+we call Brāhmaṇas are doing, 2) the adoption of a certain *ācāra* is the only thing one might mean by Brāhmaṇa-hood, 3) a specific *ācāra* is the cause of Brāhmaṇa-hood, 4) Brāhmaṇa- hood and caste itself are simply matters of ritual purity engendered by rites and actions—and not lasting identities, such that when engaged in “auspicious conduct,” a person “is a Brāhmaṇa, and at the time of inauspicious conduct the same person is a Śūdra,” 5) Brāhmaṇa- hood is more generally simply ethical benevolent behavior and non-Brāhmaṇa-hood is its absence, 6) Brāhmaṇa-hood is an ascetic observance or can be acquired through ascetic observances.
+
+Rather remarkably, each of these arguments is not an imagined straw man but accurately represents alternative modalities for conceptualizing “being Brāhmaṇa” found across a range of ancient sources. In fact, we have seen some of these possibilities pop up in our own investigation, for the first option is quite close to Āpastamba’s model of *sāmayācārika dharmas* being founded on the Veda and other things also observed by the communities we call Vaidika, option three is very close to Skandasvāmin’s vision of Brāhmaṇa-hood as something produced through sustained pedagogy, and option four is akin to what Caley Smith has suggested about the earlier functioning of the hierarchies of the *Puruṣasūkta* as a hierarchy of favor and disfavor, with the Śūdra corresponding to a disgraced lower status that nonetheless can redeem itself through later participation in rituals like *soma* drinking. Perhaps even more to the point, the last two models—that Brāhmaṇa-hood, in the sense of being a religious exemplar, is defined and produced through upright ethical behavior—and that Brāhmaṇa-hood really means a life of ascetic observances— are a perfect match to the models Nathan McGovern has independently recovered from the early Pali and Ardhamāgadhī sources.[^282_240]
+[[P282]]
+There, they represent competing—and in the case of the Brāhmaṇa as professional ascetic— likely more archaic models of Brāhmaṇa-hood than the householder-centered paradigm first articulated by the *Dharmasūtras* whose express purpose was in fact to eclipse its predecessors. That as late as the seventh-century Kumārila still sees these imagined “other ways” of being Brāhmaṇa as alternatives that need be challenged and discredited, as opposed to passed over in silence, strongly suggests that two hundred years after the Guptas were history, at least in some places, what was entailed by “being Brāhmaṇa” remained an open and contested canon.
+
+Kumārila’s and Śabara’s anxieties do not emerge organically as natural, if unwelcome consequences of the internal logic of their philosophical system. Like the “hostile” or least competing forces with which they coincide, they impinge on the system from the outside, the product of a shared Indic consensus about the nature of social reality and the dynamics that makes it function. Despite their divergent methodological and theological perspectives, virtually all of our authors share an extra-scholastic social imaginary in which the quotidian world is viewed as running on the exchange of knowledge, goods, and services. These plays of transactionally are enacted within and made possible by institutional spaces—like Kumārila’s local hall of records—all of which possess considerable disciplinary dimensions, which is to say they not only structure people’s experience in relation to specific expectations about behavior and comportment, but they also punish and correct when these norms are transgressed.
+[[P283]]
+Just as importantly, this quotidian world is viewed as running on long standing relationships—such as that between teacher and student—within which, over time, the social actor in the dominant position comes to condition the abilities, responses, behaviors, and subjectivity of the people under their direction. Much as, in the *Kauṣītaki Brāhmaṇa*, the dying father touches one by one the parts of the body of his eldest sons, at each step proclaiming he is giving him his eyes, giving him his voice, giving him his hands, giving him his mind—so that at the end the father becomes the son—education and training are seen as entailing both the mastery of canons of knowledge and skills as well as the transfer of at least some of the teacher’s *habitus*—one might even say subjectivity. One could well argue that such a model also decenters the human—at least the individuated subjectivity of specific people—in favor of imagining of the individual as a bundle comprised of skills, knowledge, and social role, all transferrable, inheritable and inhabitable. Even so, thinking in terms of transactional worlds intrinsically operates in dynamic tension with a conceptual model of the sort held by Mīmāṃsā that privileges at the center of its knowledge system the needs of a sacrifice—that serves no human end—and thus is not a transaction at all. As we have seen, such thinking also deeply problematizes Mīmāṃsā’s conceptualization of privileges, rights, and obligations. When, as we have begun to do in this chapter, we place *śāstric* reflections on the logic of the social towards the center of any emic Indic approach to social theory, and resituate the imagined consensus position articulated by traditions like Mīmāṃsā as aspirational canons for what is often an imagined organizing of concepts, things, and people, Indic civilization in the classical period begins to look rather different.
+
+Perhaps the most perceptive and critical engagement with both the problems and promise posed by a world where knowledge is transferrable and identity fungible is offered by one of India’s earliest theologians, a figure who despite his brilliance nonetheless is rarely characterized as a Brāhmaṇical thinker and usually excluded from the non-specialist study of both Indian religions and philosophy. The Pāñcārthika Pāśupata Kauṇḍinya appears to have written his *Bhāṣya* on the second-century *Pāśupatasūtra* around the fourth century of the
+[[P284]]
+Common Era, which makes him one of the more archaic voices in our canon. In the words of the most learned living scholar of the tradition, Peter Bisschop:
+
+> The *sūtra* teaches a set of rules for ascetics whose single object of devotion is Rudra and whose ultimate goal is the end of all suffering (*duḥkhānta*). The path starts with bathing in ashes (*bhasmasnāna*) and ends with union with Rudra (*rudrasāyujya*). While the *sūtra* displays strong Brahmanical tendencies, it is unique in prescribing an ascetic path that ultimately transcends the ritual life of orthodox Brahmanism, both in words and deeds. Only male Brahmins who had received Vedic initiation were allowed to take up the Pāśupata regimen, but their subsequent ascetic career involved the breaking of all boundaries and stipulations of Brahmanical life. . . .
+>
+> While the individual who took initiation in the Pāśupata ascetic cult was by definition a twice-born male, coming from a respectable orthodox brahmin family and cleared of all debts, once initiated in the cult he left behind his former orthodox way of life and entered a new community in which a strict new regime was observed. Instead of bathing three times a day in water, the Paśupata was to bathe in ashes; instead of worshiping the gods and ancestors he was to worship Rudra alone; etc. In the words of *PāSū* 2.7: *amaṅgalaṃ cātra maṅgalaṃ bhavati* “And here what is inauspicious becomes auspicious.” Things that are usually prohibited are here prescribed. The regimen ends on the cremation ground (*PaSū* 5.30: *śmaśānavāsī*), the most polluted of places. . . .
+>
+> The path of the Pāśupata ascetic is divided by the commentator Kauṇḍinya—but notably not by the *Pāśupatasūtra* itself. . . into five successive stages, which each have their own rules and sets of behavior: 1. In the first stage the ascetic resides in a temple and worships God by laughing, dancing, singing, bellowing like a bull, paying homage, and muttering *mantras*. He bathes in ashes at sunset, noon, and sundown. 2. In the second stage he goes out into the world and acts under a disguise, without showing that he is actually a Pāśupata. He behaves like a madman, pretends to be crippled or asleep, and acts indecently. 3. In the third stage the Pāśupata withdraws to a cave or a deserted house, where he lives on alms and contemplates Rudra all the time. 4. In the fourth stage he goes to a cremation ground and lives on whatever he may find. He does not leave the cremation ground but dies there. 5. Following his death, the soul enters the fifth and final stage, in which he experiences the end of all suffering, is fully joined with Rudra, and obtains all qualities of Rudra. Final release is provided by the grace of God.[^285_241]
+
+Shorn of its commentary, as well as Kauṇḍinya’s theorization of its teachings organized in five stages, the *Pāśupatasūtra* offers the adept collections of injunction and prohibitions paired with a proto-Śaiva liturgy. Instead of these strictures governing and ordering the
+[[P285]]
+performance of an external sacrifice, all of these teachings instead apply to the Pāśupata *sādhaka*, who in essence gradually transforms the entirety of his life experience into a sacrifice offered to Rudra that culminates in bringing to an end his human sociality and his own subjectivity. The reason this is necessary is that the *sūtras* themselves teach that it is being human that is the cause of powerlessness and suffering. As we shall see, the solution to this core existential problem in essence is a form of sustained mimesis through which the practitioner replaces his own *habitus* with one revealed and enacted by his god. Kauṇḍinya infuses this barebones picture with a sophisticated epistemological, ontological, and sociological account of the nature of reality deeply in dialogue with archaic traditions of both Sāṃkhya and Vaiśeṣika. An excellent place for making sense of the specific contributions of this system is then to begin our engagement with it at a place where it is self-evidently emending a shared canon of values.
+
+The *Pāśupatasūtras* discusses *yama* and *niyama* in its first chapter, and the text’s terse delineations of injunctive prohibitions provide Kauṇḍinya a rather substantial platform for retheorizing the practices he has inherited in the language of formal philosophical argumentation. Like a majority of “Brāhmaṇical traditions,” the *Pāśupatasūtra* prescribes a set of strictures—conceptually distinct from the main observances that define Pāśupata identity as forming the necessary preconditions for the adoption of an ascetic life. As usual, the list includes non-harming (*ahiṃsā*), *brahmacaryā*, speaking truth (*satyavāda*), and not stealing (*asteya*). Rounding out these four common virtues—bringing them into alignment with the
+[[P286]]
+pentadic structures so frequent in the Pañcārtha system—the Pāśupatas introduce a fifth stricture: non-transactionality (*asaṃvyavahāra*).
+
+> *tathā asaṃvyavahāras tantre siddhaḥ* // *PSBh*\_1.9:137
+>
+> In the same way, in this system, the rejection of transactionality is established.
+>
+> In what way \[is it established]? On the basis of the instruction: dumb, insane, undead, or unmanifest. For it is not the case that here in this world the dumb, the insane, the undead or the unmanifest perform transactions. For this reason, here in this system the rejection of transactionality is established.
+>
+> And furthermore, transactionality is said to be twofold. There is the transactionality related to buying and selling, and the transactionality relating to the king and to the collectivity. For one who holds the right to engage in either of these, it becomes inevitable that he will hurt someone else and he will hurt himself. If it is the case that he causes himself harm, then by this, in this very world, he experiences suffering. If he causes harm to someone else, in that case also the result is that his *adharma*—which bears the fruit of suffering and so forth—piles up. \[And] by this, in the hereafter, he experiences intense suffering. Because of this, in regard to both \[harming oneself and others], transactionality must be abjured.
+>
+> For, it is also \[said]: “The one who performs sins and the one who praises sins, the companion, and the enjoyer \[of the fruits of such an action]—they all have the same *karma*.”
+>
+> And it is stated: “Regarding selling, it is the great flaw, since from sales, a human being falls. The same fault applies regarding buying, therefore one should abjure it. One who enacts hidden sin, whoever he is, he does not know me. For although he is released for the juridical deliberation of human beings, he is not released from sin.”
+>
+> It is also stated: “The sun and the moon, the wind and the fire, the sky, the earth, the water, the heart and the god of death, both the day and the night and at the two junctures and *dharma*— each one knows the conduct of a man.” . . .
+>
+> The noble-minded person who does not undertake action, whose conduct is not arrogant, who does those things indicated in the *śāstras*, and who is restrained in regard to the *yamas* and *niyamas*—in regard to these things, he becomes a sage without old age and death.[^287_244]
+[[P287]]
+As is often a feature of his compositional style, Kauṇḍinya begins his analysis by incorporating what is likely an older commentarial perspective that explains the prohibition on transactional activity on the basis of it conflicting with the injunctions god has given. In doing so he refers to chapter 3, which outlines the performance of what other sources call a vow of madness (*unmatta*). Through adopting inappropriate behavior, the Pāśupata ascetic cultivates the experiences of shame, provoking assault and experiencing social death in public places as a means of transferring his bad *karma* to those who assail him. Even here, we should note, this archaic logic is already dependent on the notion that *karma* is transferrable. To this initial explanation, Kauṇḍinya then amends a searing theological critique of *saṃvyavahāra* as referring not simply to commercial exchange (*krayāvakrayasaṃvyavahāra*) but to human sociality and its institutions—the world of clans and of kings (*rājakulasaṃvyavahāra*). What he argues is that human sociality— defined by acts of exchange—is irredeemably, irreducibly, and in a very special way inseparable from the experience and perpetuation of suffering. Sounding almost exactly like the two Brāhmaṇas in the *Suvarṇasaptati*, Kauṇḍinya proclaims that in order to buy and sell things but also to interact with kings and other social bodies, it is necessary to either hurt oneself or to hurt others. He also asserts, against Mīmāṃsā and the normative legal tradition—the latter he knows surprisingly well—that sin is entirely an
+[[P288]]
+ontological matter, between man, god, and the universe, and not a socially mediated one that can be expiated through court order.
+
+Just how thoroughly Kauṇḍinya’s ethical critique of transactionality is grounded in his epistemological and ontological vision becomes evident when we turn to the final chapter of the *Bhāṣya*, which offers the injunctions for dwelling in cave, an abandoned house, or the cremation grounds. During this portion of the Pāśupata adept’s *sādhanā*, his major focus is cultivating his capacity for severing (*chedana*) his remaining connections to worldly existence. This process does not simply entail cultivation of a sustained capacity for focus and mental restraint in regard to how one makes use of the senses as well as the objects of the senses— features our discourse shares with Nyāya, Vaiśeṣika, and Pātañjalian yoga. At the most fundamental level, as our commentator explains, severing or severance (*chedana/cheda*) is nothing other than a divorce from embracing or being entangled in the state of being of the self (*ātmabhāvaviśleṣaṇamātra*).
+
+What Kauṇḍinya teaches is that the self (*ātman*) in practice is hopelessly riddled with defects (*doṣa*). By this he means not only that human subjectivity is marred by moral shortcomings and restrictions of capacity, but, rather pointedly, that the real meaning of the term “flaw (*doṣa*) is sound, touch, form, taste, and smell.”[^289_247] In other words, it is the sense impressions themselves that are constitutive of the particularization of identity and it is these very same impressions that are the source of human suffering. As we will see momentarily, it
+[[P289]]
+is when these sense impressions are transformed into internal conceptualizations, mediated through a unitary sense of self (*ahaṃkāra*), that the play of desire and aversion necessarily commences. On the level of human self-perception, this gives rise to the questioning mind, which asks: “Who am I?” “Where do I come from?” “Who do I belong to?” “What causes what?” “What should and should not be eaten?” “What is true and false?” On the level of external action, these same inputs are productive of human sociality.
+
+To understand how this works, we need to reflect a bit more on our author’s theorization of the flaw and its relationship to sense impressions.
+
+> And how are they *doṣas*? Because they destabilize consciousness (*cittavaicitye*). They are called *doṣas* because they cause defects (*dūṣayanti*). They cause defects because they make the *sādhaka*, dedicated to study and *dhyāna* and so forth, one whose mind is scattered. Thus, there are defects.[^290_249]
+
+From Kauṇḍinya’s perspective, the illusory force we call human agency—the choices we make about what to do with our lives as well as where and how we direct our attention— are largely the products of how external forces act upon us, colonizing our consciousness and shaping or deforming our behavior. Kauṇḍinya’s explanation of what causes these defects (*doṣas*)—a force he calls *hetujāla*—is confusing and entirely eccentric from what we find in our other commentarial and Tantric sources. Instead of construing the term *hetujāla*— roughly network of causation—as a singular conceptual entity—he instead treats it as
+[[P290]]
+comprised of two components—the net and the cause. The cause (*hetu*) of the accumulation of defects, he tells us, is *adharma*, which in a mechanistic fashion akin to what we find argued by the Vaiśeṣikas automatically attracts negative experiences and misfortune and shapes and aligns our capacities to make us ever more perfect receptors of such inputs. The net (*jāla*), in contrast, appears to play a role somewhat akin to the *ālayavijñāna* in Buddhist Yogācāra discourse; it is the conditioned space in which such latent negativities come to fruition by manifesting as the consequences that structure human experience.
+
+Sense impressions, we learn, adhere to us in accords with the character of our past actions. At the same time, they also form the foundation for our tendencies for acquiring things and sensations and desiring things and sensations, which in turn engender further layers of conditioning in this life and the next. Thus, it is these core *doṣas*—the sense impressions—that form the necessary preconditions for human activities, the canon of actions—of procuring, protecting, destroying, association, and harming (*arjanarakṣaṇakṣayasaṅgahiṃsā*)—that make up the totality of possibilities for how human beings can relate to each other.[^291_251] As our commentator makes clear, the first of these, the category of procuring (*arjana*) largely corresponds to our author’s earlier discussion of the transactional (*saṃvyavahārika*). As a matter of convenience, it is here we will focus our analysis.
+
+> By *arjana* what is meant is the procuring of sense objects on the part of those who have a caste identity—\[these are such things as] accepting gifts, conquest, buying and selling and debt. In the case of these actions, when there is the acquisition of sense objects, then, there comes to exist the affliction of the self or of others; those two are inevitable. Among those two options, if one afflicts oneself, by this, right here in this world, he becomes one who suffers. If he afflicts another, in that case also, he amasses *adharma*, which has the result of producing suffering. And no one else experiences that suffering, rather the agent himself experiences it.[^291_252]
+[[P291]]
+As we have been seeing, in Kauṇḍinya’s discourse, the agent that experiences suffering is hardly a transcendental entity. Instead, Kauṇḍinya teaches that the raw materials out of which this self is constituted are the two forms of perception (*pratyakṣa*), consisting of, as we have seen, 1) that which derives from the senses, and 2) self-awareness. From a philosophical perspective, these elements together form the necessary conditions for inferential reasoning, which represents the other mode apart from direct perception for acquiring accurate knowledge. When our sense impressions are ordered in accordance with preexisting schematics—such as *dharma*, *adharma*, time, place, and so forth—veridical knowledge (*pramāṇa*) concerning the precise logical relationships that exist between the different objects of our perception becomes possible. Our internal perception of cognitions occurring within consciousness functions in an analogous fashion, as they only become accessible to us when they are conceptualized in terms of features like good and bad, spatiality and temporality. This almost Kantian account of epistemology is complicated by what are, to us at least, two rather surprising insights: first, that a descriptive account of human perception offers us a prescriptive regiment for optimizing our experience of life, and second, as we have seen, that it is in part such transcendental categories that bind the human soul, condemning it to suffer. In Kauṇḍinya’s understanding, the human condition is one of absolute powerlessness and restricted agency, and the quintessential bound soul is the Sāṃkhyan philosopher, who wastes
+[[P292]]
+his time enumerating and delineating the various elements that make up the realm of experience.
+
+From Kauṇḍinya’s perspective, the Sāṃkhyan has gone astray because he has underestimated the mutability of the objects and subjects that make up the world by attributing to each taxonomic unit specific fixed traits and propensities. Informed by his epistemological account of how both direct sense impressions and the mental recollections and reformulation of these impressions are simultaneously informed by consciousness and inflect it, Kauṇḍinya surmises that even brief interactions create changes in the participating objects and subjects. Thus, the forging of sustained logical connections between disparate things results in an exchange of properties that, over time, reconstitutes the participants into new kinds of entities with new propensities and behaviors. Such a model renders patently absurd what to the Pāśupata are the naïve notions to which so much of Indic Philosophy subscribes: that any *a priori* insights can arise from the discursive recovery of the logical connections between the mutable objects that constitute our environment. In this regard, Kauṇḍinya presents a substantial departure from the optimistic philosophical verve of our earlier empiricist systems that set out to view reality just as it is—*yathābhūta*—and then benevolently transfer that understanding to others.
+
+One measure of just how seriously Kauṇḍinya takes his social constructivism—which unlike many of its more common Western analogues is attentive to the fact that it is not only the environment through which the social agent moves but also the subjectivity of the social agent itself that are mutually constituted in the interactions between human beings and their environment—is to be found in his brief but telling presentation of Pāśupata praxis as a form of social identity. The *sūtra* upon which our author comments reads simply *liṅgadhārī*—
+[[P293]]
+literally, an agent who bears a *liṅga*. As is well known, the term *liṅga* is a particularly polyvalent term of art that offers a range of context-specific meanings. In formal philosophical discourse, depending on the school of thought and precision of usage, it can refer to the *probans* within a syllogistic argument, a point of inferential reasoning, or more broadly to the indexical and significatory—one is tempted to say semiotic—functions of language. In Śaiva theological discourse, the *liṅga* does not “represent” anything but simply is—to borrow a term from cellular biology—the pluripotent power and presence of Śiva on earth. This presence takes shape as the iconic (*vyakta*), semi-iconic (*vyaktāvyakta*), and most famously the often phallic shaped aniconic (*avyakta*) foci of worship, all of which during this early period are equally referred to as *liṅgas*. Finally, in transactional human discourse, the term *liṅga* is a not especially euphemistic but not overtly lewd word for the human penis. Succinctly, Kauṇḍinya has a multitude of conceptual registers upon which he could potentially draw in making sense of a primary source that shorn from its commentary in sequence simply says “refuse (*nirmālya*),” “bearing the *liṅga* (*liṅgadhārī*),” “dwelling in a structure (*āyatanavāsī*),” and yet nonetheless, this is what he chooses:
+
+> *liṅgadhārī* // *Pāśupatasūtra* 1.6: Ones who bear a semiotic system.[^294_254]
+>
+> In this case, just as for people of others *varṇas* and stages of life, the semiotic system is the makers/producers of the respective divisions among the *āśramas*.
+>
+> Among those, for the householder on the one hand, the semiotic system (*liṅga*) is: three garments, a bamboo staff, a water jug, shaving of the mustache, and a sacred thread.
+>
+> Likewise, for the *brahmacārī* also, the semiotic system is: staff, water jar, belt made of *muñja* grass, sacred thread, skin of a black deer, and so forth.
+>
+> Likewise, for the forest dweller as well, the semiotic system is: bearing dreadlocks, a beard, \[wearing] aged bark \[garments], and a water pot.
+[[P294]]
+> In the same manner, for the ascetic, the semiotic system is: a three-part staff, a shaved head, a water pot, saffron garments, a water strainer, and brush.
+>
+> Thus, in this case \[that of the *atyāśrama*] also, the semiotic system \[signifying] eligibility for *pāśupatayoga* is the thing that produces a respective division within the *āśramas* \[i.e., the *atyāśrama*]— bathing in ash, lying down in ash, bathing in ash again, the ritual refuse, a single cloth and so forth. It is absorbed into one’s own body (*svaśarīralīna*), and it is *pāśupata*—that is the cause of the production of knowledge, both worldly and otherwise.
+>
+> It is called *liṅga* because it is absorbed and because it embraces. And bearing that, one becomes a *liṅga* bearer.[^295_255]
+
+In the early modern Deccan—perhaps even earlier—the bearing of physical *liṅgas*, made of stone or some other lasting material, becomes the key indexical feature that defines participation within many non-Brāhmaṇa Śaiva communities, both from the perspective of initiates and outsiders. At roughly the same time, as Elaine Fisher has shown in her monograph on *Hindu Pluralism*, for the Smārta-Śaivas of the Tamil country in the sixteenth and seventeenth century—the bearing of the signs of the *atyāśrama* vow—here understood simply as the three lines of ash taken from the ritual fire known of as *tripuṇḍra*—forms an integral part of “wearing your identity on your forehead.”[^295_256] As such, bearing the *tripuṇḍra* is one part of a strategy whereby Brāhmaṇa Śaivas differentiate themselves from their near rivals within the context of an emerging social sphere defined by sectarian difference. Though a distant ancestor to both of these discursive formations, Kauṇḍinya’s conceptualization of the *liṅgadhārin* proves substantively different. First of all, palpably present in its absence from the
+[[P295]]
+*Bhāṣya* as a whole is the notion of the iconic *śivaliṅga*. Where our text uses the same terms that will come to constitute the classical Śaiva triad of the iconic image (*vyakta*), the icon with faces (*vyaktāvyakta*), and the regular *liṅga* (*avyakta*), it is always when Kauṇḍinya is referring to different *habitus* adopted by a practitioner and never in reference to material objects. Thus, when *Pāśupatasūtra* 3.1 refers to the *avyaktaliṅgin*, the intended meaning is the phase in Pāśupata praxis where the practitioner ceases to go about in public bearing the semiotic referents (*liṅga*), which are such indications of status as rebathing in ash, wearing the ritual refuse, and having the single garment.
+
+Just as importantly, Kauṇḍinya does not frame being a Pāśupata as a sectarian identity. Instead, he views it as a stage of life (*āśrama*) or a mode of comportment (*maryādā*), conceptual frames that belong as much to the juridical as to “theological” discourse.[^296_257] In fact, our author’s argument is that the *liṅga* is constitutive of Pāśupata identity in precisely the same way and for exactly the same reasons as are the special implements and modes of comportment associated with other *āśramas*. The argument is that in each of these cases, the aforementioned elements at once communicate a specific social identity and serve as the tools of the trade productive of that identity. Loosely speaking then, they are *saṃskāras* both in the ritual sense of marking shifts in the life cycle and in the philosophical sense proposed by Praśastapāda. That is to say, in “being practiced” through repeated conjunctions of the mind and the self over an extended duration of time that forges connections between earlier and subsequent cognitions and experiences, they produce a superfluity of *saṃskāra*, or what we call, colloquially, being a natural at something, or more technically, perfecting a *habitus*. Apart from the inauspicious
+[[P296]]
+(*amaṅgala*) dimensions of the individual ingredients that make up being a Pāśupata Brāhmaṇa, the only matter of substantive divergence between Kauṇḍinya’s understanding and normative approaches to acculturation is that the Pāśupata *habitus*—the semiotic system integral to him being a bearer of the *atyāśrama liṅga*—is ultimately absorbed into the practitioner’s own body (*svaśarīralīna*). What our commentator is suggesting is that unlike other *habitus* patterns that inflect composite and context-specific identities, Pāśupata praxis ultimately amounts to a person becoming simply a walking *liṅga* for a single semiotic system. The goal of this system is nothing more than the production of a kind of embodied agent, the content of whose subjectivity consists solely of the instantiation and transmission of Pāśupata praxis as it was revealed when Śiva himself took manifest form. As we will see momentarily, taken as a whole, it is precisely this process that our texts intends when it speaks of yoga as the conjunction of the lord and the self (*ātmeśvarasaṃyogo yogaḥ*).
+
+As Peter Bisschop has demonstrated, Kauṇḍinya’s *Bhāṣya* is often but erroneously identified as the earliest source that offers us the myth of Lakulīśa as the founder of the Pāśupata tradition.[^297_258] Our text itself, however, tells a somewhat different story.[^297_259] In place of the apotheosis of a human teacher, god himself—apart from Bhagavān, no name is ever given— is said to have taken on (*āsthāya*) a human form (*manuṣyarūpī*) by entering into a unmarked
+[[P297]]
+corpse of a Brāhmaṇa at a place whose single defining feature is it is where the descent (*avatīrṇa*) into the body (*kāyāvataraṇa*) took place. Thus, in contrast to the later tradition offering a particularizing mythologization of Kāyārohaṇa in Gujarat as sacred center and Lakulīśa as sacred teacher, our text proceeds in a stripped down almost anti-mythological vein. Apart from marking the location of God’s descent, Kāyāvataraṇa plays no further role in this imaginary. In place of specific stories about god’s incarnation and travels, of the sort one finds for example in the Nepalese *Skanda Purāṇa*, we are simply told that the Lord reaches Ujjain on foot (*padbhyāṃ ujjayinīṃ prāptaḥ*). In Ujjain, just as he had taken on a human body (*kāyam āsthāya*) the Lord now “takes on the semiotics” (*liṅgam āsthāya*) of the well-known state of being beyond the *āśramas* (*atyāśramaprasiddha*). In doing so, he recites instructions (*pravacana*) consisting solely of the injunctions that will come to define Pāśupata praxis. Apparently, this teaching proves compelling, as a certain person named Kuśika recognizes the signs of a completely established *habitus* of fullness of being and perfect contentment in the teacher (*paripūrṇaparitṛptyādyutkarṣalakṣaṇāni*), and the opposite of these traits within his own being (*viparītāni cātmani*) falls before the feet of the Lord. The Lord’s first impulse is to inquire after Kuśika’s *gotra*, *jāti*, and whether he has any debts. Only after he is convinced that his new recruit is indeed a Brāhmaṇa in good standing does he accept him as a disciple. In this way, the lord as teacher, acting in his capacity as a physician (*vaidyavat*) begins to explain the remedy for the disease that is worldly suffering.
+
+Now, as Hans Bakker has suggested in his at once insightful and problematically constructive theological essay “The Gospel of Kauṇḍinya,” Pāśupata praxis is often seen as a path of divine mimesis, which Bakker insists is akin to the *imitatio dei* found in the traditions
+[[P298]]
+of late medieval Christianity.[^299_260] The basic idea, as we shall see momentarily, is that through acting in imitation of Rudra, over time the adept becomes Rudra and steadily divests himself of his humanity. That is to say, the text asserts that through acquiring the traits and behaviors that are constitutive of another entity while suppressing one’s own normative features and behaviors, it is possible, in purely logical terms, to become a *rudra* on earth. The practitioner directs his focus to apprehending the deity, and sidelines his discursive mental capacities by occupying it with the incessant repetition of *mantras* as well as the recollection of narrative mythological episodes that constitute a closed Śaiva system of referentiality—all of which reinforces his mental focus. He disciplines his body so that his daily practice ritualizes all of his behavior. In this way he becomes virtually indistinguishable from how his god behaved when he too came to earth.
+
+A closer look at Kauṇḍinya’s argument, however, reveals a slightly more subtle dynamic, though ironically one that is actually a closer match with its proposed European analogue. Thomas Kempis, of course, did not presume to model the ideal Christian’s comportment after Elohim who made the Leviathan or the effervescent holy ghost, but proposed—though the details of how this is to be interpreted depend on sectarian affiliation— a more delimited and partial mimesis of the aspect of God called Christ. In a similar spirit, Kauṇḍinya teaches that while the nature of god is play (*krīḍā*), “his activity, insomuch as it consists of proclaiming the doctrine, is for the sake of bestowing grace (*anugraha*).”[^299_261] Thus, the *Pāśupatasūtra* and its exegetical tradition offer themselves as a body of teachings that
+[[P299]]
+address themselves solely to the grace bestowing aspect of God as instantiated in the form in which the lord descended. In other words, Kauṇḍinya teaches that the Pāśupata *ācārya* is engaged in a mimetic replication—not of the totality of Paśupati’s nature, but rather of the single aspect of god’s potential that embodies favor and grace, a state of being most perfectly embodied in the virtual cipher that the later tradition would come to call Lakulīśa. And who exactly is this one who would become “Lakulīśa”? He is the corpse of a generic Brāhmaṇa stripped of all other defining characteristics, and his disciples in turn are empty vessels that are to be reanimated as perfected embodiments of the doctrinal contents of their system.
+
+As Bakker points out, it is central to the tradition’s theology that the Pāśupata adept does not secure salvation simply through his own efforts “at meditation, study, and so forth,” but instead through a willful exchange of activity on the part of both the Lord and his disciple, “as in the case of two rams.” It is this process—ontically pluralistic and yet aimed at a dissolution of the individual soul as it merges in the lord, offering a logic of exchange where the currency is not sentiment and affect, but actual ontic qualities and perhaps most importantly, resolutely anti-social, that the early Pāśupatas called *bhakti*. Commenting upon *sūtra* 2.20, which literally reads “But in Śaṅkara, no other *bhakti*,” drawing upon both formal grammatical analysis and Nairuktika analysis along with the resources he inherits from lost Pāśupata sources, Kauṇḍinya offers the following interpretation:
+
+> The meaning of *bhakti* is a mode for becoming (*bhāvanā*). By the particle *tu*, what is intended is particularization. How? Those who are possessed by hubris are degraded and reduced to the status of thieves. Through particularization, they stand at a distance from Śaṅkara.
+>
+> Why is he called Śaṅkara? Because of his being the one who produces pleasure and *nirvāṇa* in their entirety, he is Śaṅkara. When we say “in Śaṅkara” \[locative function], it is meant in the sense of an immediate connection (*aupaśleṣika*)—in close proximity or in the presence of (*sannidhana*) \[god]. *Bhāvanā* should be done “in Śaṅkara” and in no one else—this is the sense. As it is said:
+[[P300]]
+> “When a coarse entity is engaged with mind, body, and speech, by that practice \[the coarse entity] is removed. And therefore, one should engage with that which is spiritually beneficial. The great souled ones who sacrifice constantly, thinking only of the highest self (*adhyātma*), say: What you think about, you come to consist of that. This is the eternal secret. Whether one is going about, standing, lying down, or is awake or even asleep, one must enact *bhāvanā* in Śaṅkara if one should desire the union of the self (*yogam ātmanaḥ*).” . . .
+>
+> Thus, one must maintain unbroken connection (*upaśleśitavya*) to the state of being in Śaṅkara—not in any other—this is the intended meaning.[^301_263]
+
+Outside of the *Nirukta* itself, this is one of the earliest reflections on the conceptual semantics of *bhakti* in the history of Sanskrit thought. As we can see it looks almost nothing at all like what we would have expected. In our typical scholarly imaginary, “*bhakti*” is presumed to be the product of a simple and effusive “cultural” if not linguistic vernacular, a religion of the heart instead of the head.[^301_264] It is also often explicitly placed in opposition to Sanskrit learning and Brāhmaṇism, for as the *Bhajagovindastotra* famously proclaims, “the rules of Pāṇinian grammar will not save you at the time of death, so worship Govinda” (*saṃprāpte*
+[[P301]]
+*sannhite kāle*, *na hi na hi rakṣati ḍukṛñkaraṇe*). It is thus a violation of virtually all of our expectations about what devotional religion should look and feel like that Kauṇḍinya approaches “making this concept of *bhakti* come alive” by subjecting it to rigorous grammatical analysis.
+
+In essence, Kauṇḍinya develops a scholastic approach to devotional theology from a careful parsing of the different possible logics that could underlie a case relationship. Without getting into too many details, Pāṇini’s explanation of the locative in *sūtra* 1.4.45, “*ādhāro adhikaraṇam*—the locative is the locus,” is further defined by his commentator Patañjali as having three dimensions, each of which is logically distinct: immediate contact (*aupaśleṣika*), a relationship of pervasion (*abhivyāpaka*), and indexical referencing of subject matter (*vaiṣayika*). As the grammarians famously and repeatedly explain, when you say *gaṅgāyāṃ ghoṣaḥ*, “a house on the Ganges,” a person may be communicating multiple discrete messages. This might mean, for example, our house is on the *ghaṭs* touching the river (that would be the *aupaśleṣika* relationship), that the monsoon has flooded the city and your house is literally floating down stream (*abhivyāpaka*), or, metaphorically, that in our household, we are “all about the Gaṅgā,” the wall are covered with pictures of the river, people are always talking about going down to the river, so on and so forth. The other classic example offered by the grammatical tradition of a relationship defined by immediate contact (*aupaśleṣika*)—“he sits on the mat” (*kaṭe śete*)—further clarifies the logic under discussion, namely, that we are talking about a relationship where the agent and the locus are in close constant contact. Succinctly in our example, the Pāśupata adept is the agent and the mat, well—the mat is Śaṅkara. Whether
+[[P302]]
+he is awake or asleep, going about, standing still, or lying down—which is to say, euphemistically, in every phase of human experience—the adept must maintain unbroken contact mental and somatic connection with the state of being in which his deity always abides. Where particularities not pertaining directly to Śaṅkara interpolate themselves into his experience, the adept comes to “stand at a distance from Śaṅkara”—in other words, he ceases to maintain a *bhakti* relationship.
+
+While our author exclusively uses traditional Brāhmaṇical scholastic resources from the sciences of language as well as early Nyāya and Vaiśeṣika philosophy to make sense of what *bhakti* “means,” he turns to mostly lost scriptural sources when he needs to explain what it does—which is to say how it enacts its divorce from the state of being of a conditioned self (*ātmabhāvaviśleṣaṇa*), the contents of whose consciousness have been constituted out of flawed sense impressions. When the ancient Pāśūpata masters proclaimed that “whatever you think about, you come to consist of that: this is the eternal secret,” this instruction was not offered in the spirit of personal empowerment but rather as a cautionary tale impelling the practitioner to maintain unbroken focus on the Lord. For Kauṇḍinya, *bhakti* is at least as much about a process of deletion—the removal of coarse and deformed traits and propensities—as it is about completion. *Bhakti*, in essence is something like creating a copy of some but not all of the directories found on a computer onto an external hard drive. Much like an external hard drive may have already used for other purposes but still can be hooked up to a computer, the Pāśupata adept—until recently an ordinary Brāhmaṇa male who had undergone a normative process of socialization—first has to establish a firm and unbroken connection with the Lord. If the transfer is to be successful, the agent and locus must “recognize” each other. Then, through the mimetic form of conditioning of *habitus* that is *bhāvanā*, a portion of the contents
+[[P303]]
+of what was on the grand computer that is God gradually gets copied onto the external drive that is the subjectivity of the Pāśupata adept. It is this physical replacement of human traits with god’s traits that undoes the particularization that creates ontic distance from the deity.
+
+This *habitus* of embodying the exemplary religious practitioner who merely replicates what the Lord did when he first descended is itself, however, temporary, for once it is has become naturalized into the practitioner’s experience, he is instructed to suppress it. Assuming the guise and behaviors of an impoverished and mentally feeble degenerate, the practitioner, previously a respected member of the social world, reenters into normative society at the very bottom of the hierarchy, deliberately seeking out situations in which he will be humiliated and abused so that any remaining traces of negative *karma* will be transferred onto his assailants and any vestiges of attachment to *varṇa* and *āśrama* will be destroyed. Having courted a direct experience of social death, this new acolyte of the Pāśupata *perfecti* takes a vow of silence, and ends his days abiding without thoughts or language in an empty cave or cremation ground intoning the *praṇava* *mantra*. Instead of building a community of devotees joined together by shared practice and affect—which, as we shall see in chapter 3, is an integral dimension of post-Gupta Śaiva *bhakti* discourse—the conceptual work that *bhakti* does within this system has as its express purpose the breaking of all social connections and bonds and ties to shared human experiences.
+
+In spite of his impassioned critique of a transactional world that brings those who participate within it nothing more than suffering, Kauṇḍinya’s writings and the social forms it promotes are very much a product of the sociological and intellectual currents of a Brāhmaṇa *ecumene* within a specific moment in Indic history. The Brāhmaṇical conceptual vocabulary to which it repeatedly appeals, against our inherited expectations, displays a heightened
+[[P304]]
+concerned or anxiety about the realities of things as they are (*yathābhūta*) as we access them through our perception. It at best acknowledges, but by no means centers, *varṇāśramadharma* systematicities, treating them as one among many components of human sociality. It is acutely attuned to ethical problematics. It is heavily invested in theorization about pedagogy and acculturation and devoted to imagining the teacher—sacred or secular—as dedicated to guiding the pupil away from danger and relieving their suffering. That such a “Brāhmaṇism” is so much less familiar to us than our standard, Dharmaśāstra-centric and Mīmāṃsā-inflected vision of “being Brāhmaṇa” and Brāhmaṇical normativity is a reflection not of its tertiary nature, but of generations of scholarship that have confined its rereading and reading “within the lines” defined by inherited expectations.
+
+This chapter has offered us an exciting glimpse of the sort of alternative intellectual history of Brāhmaṇisms and their multiple relations to the social that become possible when we set aside our presumptions about a pre-given “mainstream” Indian ideology and instead simply look at the sort of things one finds at any given historical moment across of a range of sources. One of consequences of taking the multiplicity of “being Brāhmaṇa” seriously is that it removes from our tool kit as scholars the ready correlation of the mere presence of “Brāhmaṇa names” or “references to the Vedas” within a specific part of our documentary record with specific ideological and theological values. Not only does setting aside these preconceived notions prepare us for the rich and varied religious landscapes of the early medieval Deccan to which we will soon be turning our attention, whose systematicities are poorly aligned with our standard inherited account of the Brāhmaṇical world order, it also will place us on firm historical ground when, in the last few chapters, we turn to recovering specific historical moments when the form of Brāhmaṇical governmentality we have presumed to be
+[[P305]]
+without beginning—of the Brāhmaṇa as a non-sectarian manager of the religious and institutional lives of the population across caste lines—emerges within the realm of learned *śāstra* and general and Dharmaśāstra in particular for the first time as a prescriptive norm embraced by orthodoxy that demonstrably wields institutional power in the service of actualizing its values.
+
+Instead of pursuing that particular project any further, however, in the next few chapters, we will turn away from the recovery of emic frameworks, such as shared conceptualizations about the nature of human sociality, found within forms of knowledge production carried out by elite intellectuals. In their place, we will begin to attend instead, to paraphrase Sumit Guha, to the powers that enforced and enacted those visions as they were mediated through social institutions and quotidian transactional practices.
+[[P306]] 
