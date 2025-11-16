@@ -1,2140 +1,1114 @@
 +++
 title = "04: Living in the Śaiva Age"
 +++
-Chapter 4: Living in the Śaiva Age: Three Embodied Encounters with Authority and Responsibility 
-Not by Birth, but by the Sword: A Śūdra Big Man Makes His Mark 
-Habbĕya Nāyaka was a singular hero (asahāyaśūra) who, by the power of his might, made 
-decapitated corpses dance upon the battlefield.474 One day (ŏndu dĕvasam), this great 
-warrior was reflecting to himself about the tales of other lone heroes of bygone days 
-(purātanar) when he heard some subhāṣitas being recited.475 It is a matter of some serendipity 
-that one of these Sanskrit verses has survived in stone down into the present day: 
-Despite what’s been written down in a legal document [lit., even if it is written in the śāsana], Fortune (Lakṣmī) does not go to the one who descends from a good family. Fortune (Lakṣmī) takes refuge in the sword; the earth is to be enjoyed by the vīras. Having abandoned what is not “suitable,” he returns to the suitable thing. There is not any limit or law (maryādā) on the earth. The earth is to be enjoyed by the vīras.476 
-Hearing these words changed Habbĕya Nāyaka's life. As the text somewhat 
-enigmatically tells us, when he heard the powerful people (ballavar) reciting these verses, 
-“commitment to the doctrine” (abhiprāyada naṃbugĕ) of the powerful people (ballavar) 
-entered his mind (manaṃbugaḷ). For the first time, “the merit of attainment arose in him” 
-(saṃpattugaḷga puṇyamĕ mŏdal’). For the first time, by the powerful people, who already 
-discerned that their values were in accord with his own martial virtues (nijapratāpānusārigaḷ), 
-he became recognized as one with the very same power. Succinctly, what our text is telling us, 
-474This is how I interpret the epithet uṭṭajiyiṃdaṭṭeyāḍisuva, taking āḍisuva as the participle “to cause to dance” with “aṭṭeya” in the sense of a decapitated corpse. In many of the warrior cultures of the Deccan, it is a convention that the thousandth person who is slain on a battlefield, if he is decapitated, spontaneously begins to dance, and that this marks a momentous moment in the battle. Part of what is being suggested here is that our Habbĕya Nāyaka has killed a whole lot of people. 475Raghavendra Swamirayacharya Panchamukhi, ed., Karnatak Inscriptions: (With Introductory Notes in English) (Dharwar: Kannada Research Office, 1941), no. 25, pg. 47: ŏṃdu dĕvasaṃ tān asahāyaśūran appudaṟiṃ purātanarapp’ asahāyaśūrara kathāprapaṃcagaḷ manavaraṃ kuṟuttu peḷda śubhāśitaṃgaḷmaṃ kēḷuttirddan. . . . ivu mŏdalāgĕ nijapratāpānusārigaḷappa palavu śubhāśitaṃgaḷaṃ ballavar kēḷisĕ / tāṃ ballarggĕ ballan āgiy av’ ĕllavaṟ’ abhiprāyada naṃbugĕ manaṃbugaḷ, ĕll’ ā saṃpattugaḷga puṇyamĕ mŏdal’ / 476Karnatak Inscriptions, pg. 47: na śrīkulakramaṃ yāti śāsanē likhitāpi vā / khaḍgam āśrayatē lakṣmī vīrabhōjyā vasundharā // asamartthaṃ parityajya samartthaṃ pratiyāti sā / prithi[vyāṃ] nāsti maryyādā vīrabhōjyā vasundharā // 
-468 
-in a surreptitious fashion, is that what Habbĕya Nāyaka discovered in that moment is that his 
-martial values and his virtues were the values and ideals of the Śākta Tantras. Guided by his 
-own guru (śrīmat) Vāmaśakti,477 under the direction of this new source of inspiration, Habbĕya 
-Nāyaka decided that a new temple should be dedicated to the lord Vīrabhairava, that it should 
-be filled with beautiful new images, and that the consecrated focus of worship inside its inner 
-sanctum should bear Habbĕya Nāyaka's own name. 
-Regardless of whether or not you are divinely inspired, temples cost money to build, 
-they need resources to maintain, and their artful execution is dependent on access to a skilled 
-labor pool. In this regard, at least at first glance, Habbĕya Nāyaka found himself in an 
-opportune position. Among his other duties, his guru Vāmaśakti seems to have been an 
-important guiding authority among the artisan castes and was responsible for their ritual 
-consecration as well as professional training. Indeed, much as it is today, Habbĕya Nāyaka’s 
-hometown of Shirshangi was perhaps the most important of the ritual and cultural centers for 
-artisan communities in the medieval Deccan. In fact, one of Habbĕya Nāyaka’s fathers-in-law, 
-a certain Teji Caṭṭagāvuṇḍa, descended from the six original families into whose hands the 
-Shirshangi land grant was entrusted so that the affairs of town would be justly administered on 
-behalf of the Kālamukha ascetics and their gods. In other words, our hero had all the right 
-kinds of support from the local establishment to carry out his project. He just needed to gather 
-up the resources.478 
-477While our text identifies Vāmaśakti as a Kālamukha, his predecessors and successors in the inscriptional record were typically labelled Mahāpāśupatas who observed the mahāvrata vow of a skull carrier, a frequent euphemism for Kāpālikas. Thus, for example, Vāmaśakti’s own guru Rudraśaktidevara is described as a mahāvratigaḷ mahāpāsupatadoḷaṃ. 478Like so many the events we are discussing, Habbĕya Nāyaka dedicates his temple during the reign of the Kalyāṇi Cāḷukyas, in this case, in the time of the last king in the line, Someśvara IV. Once again, apart from providing the date in the context of offering the regnal year, the Kalyāṇi Cāḷukya themselves are entirely absent from our story. Habbēśvara Bhairava seems to have been installed January 6, 1186 CE. The construction of the temple and all of its images apparently took just one year. 
-469 
-ā caṭṭagāvuṃḍana magaḷu habbĕya nāyakana hiriyanāyakiti mallavvĕ ā habbēśvaradēvara dēvālayadŏḷagĕ śrīmad umāmahēśvara dēvara pratiṣṭhĕyaṃ māḍiy ā dēvara nitya nivēdy’ akk’ ĕnd’//479 
-Inside of that Habbēśvaradēva Temple, Mallavvĕ, Habbĕya Nāyaka’s senior nāyakiti, the daughter of one Caṭṭagāvuṇḍa, had installed the venerable Umāmahēśvara, saying, “May that offering of food and naivēdya to the God never cease!”. . . . 
-479Karnatak Inscriptions, pg. 48: 
-470 
-On account of her copious fidelity to her husband and his storehouse of heroism, she is captivating! Malliyakka-nāyakiti is his [Habbĕya Nāyaka’s] beloved, and thus there are people praising her good fortune even to the very ends of the earth!480 
-480Karnatak Inscriptions, pg. 46: śauryyanidhi habbĕyanāyakanaṃ patibratādhikaguṇadiṃ manaṃgŏḷipa valla[bhĕ] tānĕnĕ malliyakkanāyakitiya bhāgyamaṃ pŏgaḷadirppa varārggaḷa bhūtaḷāgradŏḷū / 
-471 
-First, our inscription tells us, Habbĕya Nāyaka went and consulted with the artisans to 
-discuss logistics and run a cost benefit analysis. “The project is as follows; there is both brick 
-and stonework. For each individual brick and stone [used in construction,] there is the granting 
-of a thousand virtues and benefits. As for raising the funds, the process of accomplishing that 
-is as follows.”481 Apparently, either the price the artisans quoted was too much for Habbĕya 
-Nāyaka to commit to on his own, or otherwise he decided that this chance for acquiring merit 
-was too choice not to share with his peers. In either case, we find him taking the collection 
-plate around to other notable people in the region. Habbĕya Nāyaka purchases a plot of land 
-from his father-in-law, Teji Caṭṭagāvuṇḍa, who in turn then donates some of his own land to 
-the temple complex to provide for an everlasting oil lamp in the new temple. At least two of 
-the other hereditary landowners of Shirshangi’s six gāvuṇḍa lineages, Bācigāvuṇḍa and 
-Sātigāvuṇḍa, would also contribute fifteen acres each of rich black soiled land to the fund for 
-the new temple.482 Fifty farmers provide the resources for setting up an oil mill so that the 
-lamps lit to the god can be kindled in perpetuity, and the betel sellers provide the paan for the 
-god to enjoy. The remainder of the contributions, offered both by residents of Shirshangi as 
-well as visiting merchants and transient guests, take the form of the levying of nonvoluntary 
-charitable contributions to the temple, mostly in the service of financing seasonal festivals, 
-481Karnatak Inscriptions, pg. 47–48: aṃd’ ā ru karmmav iṣṭakākarma śiḷā karmmaṃ[ga]ḷ ĕnd’ ŏnd’ ŏndakkĕ sahasrādhikaguṇaphaḷadāyigaḷ ĕndu / śiḷākarmmadiṃ devāyatanamaṃ nirmmisuv’ upakramaman ĕttikŏṇḍu nijasaṃpatti vrittiy ĕnisi // 482 Although representatives of all six family lineages were present at the sale of Teji Caṭṭagāvuṇḍa’s land as well as during the festivities when the temple was inaugurated, only three lines of gāvuṇḍas in our inscription are directly identified as contributing donations. These are Teji Caṭṭagāvuṇḍa, Bācigāvuṇḍa of the Kāvagāvuṇḍas and Sātigāvuṇḍa of the Tippagāvuṇḍas. In light of the grammar, is possible that, though not specifically identified as a gāvuṇḍa, Bammayya of Haḷiyatara, who gave fifteen acres of black soil, and Kallaṇa of Karuvar, who gave the same, were also descendants of the other lineages’ original founding families. This still leaves us with one of the six gāvuṇḍa lines abstaining from making a donation. Whether this is the case is dependent on whether Haḷiyatara and Karuvar are names of clans or refer to different places. Regardless, that our text suggests that complex formulations related to identity and genealogy played an important role in the self-understanding even of local landed families hailing from the lower castes is worth noting. 
-472 
-such as the Caitra celebration of the god Habbēśvara, as well as key moments in the Tantric 
-ritual calendar, such as pavitrārohana, when initiates gather to renew their esoteric 
-commitments and be absolved of their sins through the recitation of the samaya codes of their 
-lineage before the image of the god. Surprisingly, the majority of these supplementary levies, 
-obtained from local and foreign merchants, are extracted in the form of gold coins (hāga). 
-Indeed, one is left with the impression that, just as he had intended, the dedication of Habbĕya 
-Nāyaka’s new temple was a momentous occasion in the institutional life of Shirshangi, 
-attended by a vast and diverse array of transregional—one might almost say international— 
-representatives hailing not only from virtually the entire spectrum of medieval India’s 
-mercantile guilds, but also from a range of religious backgrounds. 
-The svāmis of the honorable Ayyāvŏḷĕ 500. . . . who have obtained 500 vīra-śāsanas, who are ornamented by hosts of virtues, and who have truthfulness, purity, agreeable conduct, good policy, and discipline, those whose origins are in the family of Baladēva, Vasudēva, Khaṇḍaḷī, and Mūḷabhadra, those who have obtained Bhavatīdēvi’s boon and favour. The prominent and honorable Jayamŏyya Sĕṭṭi, who is a samaya- cakravarti; Sōvisĕṭṭi; the sĕṭṭis of the prominent merchant collective of eight trader towns (paṭṭaṇa); the sĕṭṭis of the 3,004 paṭṭana; all of those from the ubhaya-nānādesis. . . the bīras-vanigas; the basket makers (gavaṟagaḷ-um); the betel sellers; fifty farmers; all of the merchant’s guilds; 
-They were all assembled in Hirisingi at the Habbēśvaradēva temple.483 
-483Karnatak Inscriptions, pg. 49–50: svasti samastabhuvanikhyātapaṃcaśatavīra śā(s)analabdhānēkaguṇa- gaṇālaṃkrita- satyaśaucācārucāritranayavinayaruṃ baladēvavāsudēvakhaṇḍaḷīmūḷabhadravaṃśōdbhavaruṃ bhagavatīdēvilabdhavaraprasādarum appa śrīmad ayyāvŏḷiyaynūrbba svāmigaḷumu mukhya śrīmatu samĕya cakravartti jayamŏyya sĕṭṭiyaruṃ sōvisĕṭṭiyaruṃ mukhya ĕraḍaṟunūṟaṟĕṇṭuṃ paṭṭaṇada sĕṭṭiguttaruṃ sthaḷa samasta muṃmuridaṇḍaṃgaḷum kūḍi mūṟu sāsirada nālkuṃ paṭṭanada sĕṭṭiguttaruṃ samastav’ ubhayanānādēśigaḷum birudaruṃ bīravaṇigaruṃ gavaṟĕgaḷuṃ gātrigaruv ayvatt’ ŏkkaluṃ samasta nakharaṃgaḷuṃ hirisiṃgiyalu śrīmatu habbēśvaradēvara dēvāyatanadŏḷ aśēśaṃ bayisaṇigĕy āgirddu. . . / 
-I am profoundly grateful to my colleague and Kannada guru Tim Lorndale for the great dedication, erudition, and insight he has brought to bear in reading with me the long and difficult inscriptions in this chapter. I first became aware the significance for the study of Tantric knowledge systems of both of the key inscriptional texts used in the first portion of this chapter in 2015. I had set aside much of my time in the summer of 2017 for attempting to work on these sources with a range of scholars in Karnataka. In the end, perhaps because so much about these materials are irregular and uncertain, no one was willing to examine the work with me in a systematic manner. Feeling that these rich sources deserved better than merely picking out some pertinent details without considering the rhetorical structures in which those were embedded, I was delighted when Tim, who has among the finest senses of the grammar and the nuance of language of anyone in the academy today, committed himself to working 
-473 
-By the period under discussion, the Ayyāvŏḷĕ 500, originally based out of Aihole, was one of 
-the most important trading organizations in the world, dominating the commercial markets of 
-Karnataka, greater Andhra, the Konkana, eastern Maharashtra, Tamil Nadu and parts of Kerala, 
-with a sphere of activity that encompassed Java, Thailand, Burma and even mainland China, 
-all places where inscriptions related to their activities miraculously survive. Our inscription 
-also delineates the participation of a range of Jain mercantile authorities, perhaps not even from 
-the Deccan, the transregional organization of nānādeśis, active in Rajasthan as well as parts of 
-the Indo-Gangetic Plain, as well as the ruling authorities of a range of autonomous mercantile 
-towns (paṭṭaṇa). Thus, quite apart from its significance as an expression of Habbĕya Nāyaka’s 
-personal religious vision, the installation of a Tantric esoteric deity provided an opportunity 
-for the rather remote town of Shirshangi to serve as the preferred venue for an All-India trade 
-convention in which merchants from across the subcontinent hocked their wares with the levies 
-going to support the institutional life of the new temple. For Jains just as much as Śaivas and 
-Śākta-Śaivas, participation in this event was inextricable from honoring the presiding 
-authorities, especially the Kālamukha preceptor Vāmaśakti and the sponsor of the event, 
-Habbĕya Nāyaka himself. 
-For the sake of the worship of the god Habbēśvaradēva, there [in Hirisingi], they poured libation water (dhārāpūrbbaka māḍi) to Ācārya Vāmaśaktidēva. When a collection of betel, black pepper, and grain of the artisans (āvañci pañcavaṇṇige) were spread about, all disturbances were removed (sarvvā bādhe parihāravāgi). Sirikumāranāyaka, who is an honorable (mahāvṛddha) merchant and who is endowed with all honors, Ravināyaka, Kāṭūranāyaka, Baḷḷāranāyaka, Saṅgināyaka, Rāmadēvanāyaka, Paḍapanāyaka, Maṇavāla Sĕṭṭi, Ēḷinaṃbi Sĕṭṭi, Malĕyaca Sĕṭṭi, Koṇḍanaṃbi Sĕṭṭi and the Nānādēsi merchants, Lāḷa and Maḷĕyāḷa, were all gathered in Hirisingi as a great assembly (mahānāḍu); the great [samūha] of the hero-merchants 
-with me on this project. All arguments about the text as well as any of its errors are almost certainly my own. 
-474 
-(bīravaṇiga) granted one hāga-measure for each horse load that is for the worship of that Habbēśvaradēva that Habbĕya Nāyaka installed.484 
-Thus, at the ritual center of this whole affair, we find a Kālamukha guru engaged in 
-activities connected with disciples hailing from two very different communities. On the one 
-hand, almost unnoticed, are the representatives of the Pañcavaṇṇigĕ, who, as we shall see 
-represent in the medieval Deccan “the fifth” caste of artisans. It is this group of people who 
-design and built Habbĕya Nāyaka’s temple, who produced all of the mūrtis housed within it, 
-and who also seem to execute the apotropaic function of chasing away potential obstacles at 
-the ritual inauguration. In actuality, it is their efforts that laid the foundation for Habbĕya 
-Nāyaka attaining everlasting fame, and Shirshangi, as we shall see momentarily, was very 
-much their city. 
-The inscription we have been exploring, which offers Habbĕya Nāyaka’s testament, is 
-inscribed on a seven-foot-tall stela in the center of the ritual complex at Shirshangi. It is placed 
-at an almost equal distance between the two major focuses of worship. To its right lies the 
-temple of Habbēśvara, which preserves the images our warrior and his associates had 
-commissioned and consecrated. The adjacent shrine, which predates Habbēśvara, houses an 
-impressive and exquisitely rendered life-size image of Vīrabhairava, which likely predates our 
-hero’s contributions. Today it also doubles as a storehouse for sacks of grain. In other words, 
-much as it is today, the Habbēśvara temple represents an incidental interpolation into a 
-preexisting sacred landscape thoroughly dominated by a distinctly Śākta theology. 
-484Karnatak Inscriptions, pg. 50: ā habbēśvaradēvara dēvakāryārtthavāgiy alliy ācāryyaṃ vāmaśaktidēvarigĕ dhārāpūrbbakaṃ māḍiy ā puṇyadinadŏḷu āvaṃcipaṃcavaṇnigĕy’ aḍakĕ-mĕḷasu-dhāṃn[dh]ya-vargavan ēna hēṟidaḍaṃ sarvvā bādhĕ parihāravāgi catussamudra paryyaṃta naḍuvaṃtu biṭṭa ĕttaṟu matta [a]ydu. . . . svasti samastapraśastisahitaṃ śrīmanmahāvaḍḍabyavahāri sirikumāranāyakaruṃ ravināyakaruṃ kāṭūranāyakaruṃ baḷḷāranāyakaruṃ saṃgināyakaru rāmadēvanāyakaru paḍapanāyakaru maṇavāḷasĕṭṭi ĕḷinaṃbi sĕṭṭi malĕyacasĕṭṭi kŏṃḍanaṃbisĕṭṭi mukhya samasta lāḷamalĕyāḷa nānādēsigaḷu hirisiṃgiyalu mahānāḍāgi kuḷḷirddu dēsiya hiriya bīravaṇigaṃ habbĕya nāyaka pratiṣṭhisida habbēśvaradēvara dēvakāryakkĕ kudurĕgĕ pratēka biṭṭa hāgav’ ŏndu // 
-475 
-Shirshangi Devī: the Kuladevī of modern Viśvakarmans. 
-476 
-Seated in the easeful position (lalitāsana) evocative of royal power, the goddess at Shirshangi 
-represents one of the most spectacular examples of a visual idiom for representing what was 
-certainly an esoteric Śākta deity inflected by a distinctively Kāpālika iconography. 
-Vīrabhairava: Consort of Shirshangi Devī, Habbĕya Nāyaka’s kuladeva 
-477Details of the base of Shirshangi Devī’s pedestal. 
-Details of the ghouls on the right and left side at the feet of Vīrabhairava. 
-Most evidently, the representations of ghouls in reverie encircling the base of her mūrti as well 
-as the image of the dog on the right rearing up and lapping up the blood that drips from the 
-severed head in one of the deity’s many hands not only replicate directly, almost certainly 
-executed in the same hand, the details on her consort Vīrabhairava’s pedestal, in more general 
-terms they invoke iconography that form a standard part of representation of Bhairava from 
-478 
-the time of the Cāḷukyas onward. Thus, in spite of the fact that her public cult is now suffused 
-with a rather saumya form of Śrīvidyā, the goddess at Shirshangi is physically unmistakably 
-represented as an image of Bhairavī. 
-In light of evidence from Nepalese art historical sources, in which we find visual 
-representations of the esoteric pantheons of the classical Śākta corpus that largely disappeared 
-in the Indian context and that are clearly intended to serve as aides for esoteric visualization, 
-certain features of the composition of the image are rather suggestive.485 Unlike the typical 
-supple presentation of lalitāsana, the goddess’s foot is stiffly aligned with the very center of 
-the base of her spine, almost as if she is engaged in mūlabandha. Her back is perfectly straight, 
-and her eyes resemble the inward turned gaze of a yogin in śāmbhavī mudrā. Somewhat more 
-subtly, the modelling of the goddess’s hands, which are more delicate on the left side and more 
-dominating on the right, may well hint at the integration of Śiva and Śakti. The sword and 
-triśūla in her right hands and noose486 and ḍamaru in her left in their placement seemingly 
-mimic the iḍā and piṅgalā nāḍīs of the subtle body, and the negative space by the crown of her 
-head is suggestive of the superimposition of the trident that is the hallmark of the daily ritual 
-practice of the Trika Tantras. The name of her consort, Vīrabhairava, is associated in the 
-surviving Śākta canon with a discrete body of theology of and ritual, nearly all of which is 
-directly concerned with Kaula ritual worship that entails consort practices in the context of a 
-melana with the yoginīs. With the exception of a visualization of the deity possibly interpolated 
-485For a glimpse of how this may have worked in an Indic, or at least Kashmiri context, one may consult André Padoux “Maṇḍala’s in Abhinavagupta’s Tantrāloka” in Maṇḍalas and Yantras in the Hindu Traditions, ed. Gudrun Bühnemann (Leiden: Brill, 2003), 225–238, the diagram on pg. 238 being particularly instructive. For some Nepal-specific cases, see Sthaneshwar Timalsina, Language of Images: Visualization and Meaning in Tantras (Asian Thought and Culture) (New York: Peter Lang, 2015), and Sthaneshwar Timalsina, Tantric Visual Culture: A Cognitive Approach (New York: Routledge, 2015). 486My thanks to Christopher Wallis for suggesting that this was a noose and not, as I had originally assumed, a rather eccentric khaṭvāṅga. 
-479 
-into the unpublished Yogakhaṇḍa of the Manthanabhairava associated with the tradition of the 
-Western Transmission, all the available sources, namely, the fourth ṣaṭka of the 
-Jayadrathayāmala, the lost Bhargaśikhā known to Abhinavagupta and Jayaratha, the 
-Śrīkularatnoddyota, the Devīdvyardhaśatikā, as well the eleventh-century paddhati of 
-Vimalaprabodha, the Kālikulakramārcana, are products of the pre-philosophical tradition that 
-forms the ritual foundation of the Kāli Krama, a Kāpālika-affiliated form of Kaulism that 
-incorporates into its theology and praxis, albeit in a subordinated manner, substantial elements 
-from the system of the Trika.487 That such an association is not implausible is suggested by the 
-explicit mention of related pantheons of deities, at sites where sadly the mūrtis themselves have 
-not survived, in virtually contemporary inscriptional record associated with other artisan 
-centers in the Deccan.488 Not only were these spaces under the control of Kālamukhas akin to 
-Vāmaśakti, but, as an extensive documentary record makes evident, the governing “secular” 
-local authorities were frequently allied with the gāvuṇḍas at Shirshangi. As we shall see, that 
-the surviving literature on Śākta pratiṣṭhā in use in this region was openly associated with the 
-Jayadrathayāmala offers tentative confirmation that this is the sort of scriptural resources that 
-animated the ritual life at Shirshangi in the medieval period. Indeed, as we will explore in detail 
-in chapter 6, these very materials were used by the Kālamukha ācāryas in training and initiating 
-their artisans. 
-If this sort of text critically informed doxographical analysis is how the modern 
-academic scholar of Tantra sets out to contextualize the types of evidence to which we now 
-487All of the text listed above are currently unpublished. My sincere thanks to Mark Dyczkowski for searching through his editions in progress of these unpublished works and letting me consult the relevant passages so that my assumptions about the distribution of references to Vīrabhairava, made on the basis of the texts initially available to me, much of them through the decades of efforts on the part of Dyczkowski and his team, could be corroborated in light of a more comprehensive exploration of the canon. 488We will explore one of these sources in the middle of the present chapter. 
-480 
-have access, in his inscription, Habbĕya Nāyaka himself proposes an almost entirely different 
-sort of interpretive context for making sense of his world and the place that the veneration of 
-esoteric deities plays in human history. Indeed, rather unusually, the non-documentary portion 
-of the inscription reads like a work of constructive theology intent upon weaving a 
-teleologically oriented narrative that explains how past circumstances converged to make 
-Habbĕya Nāyaka become the sort of person who could, “having performed that Bhairava 
-Installation, which was the abode for Prasanna Bhairava. . . become famous.”489 Towards this 
-end, our text tells a rather bizarre story, explaining that Habbĕya Nāyaka’s character and 
-accomplishments are the inevitable consequences of descending from his family line as well 
-as growing up in the special environment that Shirshangi provides. 
-Habbĕya Nāyaka begins his story in the most unlikely way imaginable, by offering an 
-explanation of how his family fell from caste and were expelled from polite society: 
-The incarnation of his line runs as follows (tadvaṃśāvatārav’ ĕnt’ ĕndŏḍĕ): 
-In an excellent Vaiśya family, when one man married a virgin girl from a Śūdra family, they, too, became known as the “undesirables” (bayisu), since it is said that the world did not desire the son that was born to that householder. In that clan, there was a woman who was a padminī. . . who knew [a special] way to produce offspring. One day, the one who arouses the three worlds, the Churning Bhairava (mathanabhairava), by means of his līlā, “played” (ramiyisidaṃ) in that beautiful woman.490 
-Either because of a sexual encounter with the god himself or with a human sādhaka 
-surrogate standing in for the deity, the padminī rapidly becomes pregnant. Somewhat 
-inconveniently for the narrative, the miraculous product of that union is a daughter named 
-Padmāvatī. Thankfully, the divine virtues of superhuman male virility and female fecundity, 
-489Karnatak Inscriptions, pg. 48: śrīmatu prasaṃnabhairavadhāmaman ā bhairavapratiṣṭhĕymaṃ prōddāma habbĕya nāyakan ī mahi pŏgaḷuttiralu vinirmmisi nĕgaḷdaṃ. 490Karnatak Inscriptions, pg. 45: vara vaiśarŏḷ’ ŏrvvaṃ kuḍiyara kūsaṃ maduvĕniltŏḍ’ ā daṃpatig’ ādaradiṃ puṭṭida sutaraṃ dharĕ baisar ĕnalkĕ bhaisarĕnisidar avargaḷū // ā kŏladŏḷ ŏrvva lōkōṃnatĕ puṭṭalaṟidu bhuvanatrayaluṇṭākamada mathana bhairavan ā kāṃtĕyŏḷ ŏrmmĕ līlĕyiṃ ramiyisidaṃ // 
-481 
-once infused into a blood line, are transmitted down through the generations. In turn, 
-Padmāvatī, through divine virility (devatāvīrya) and unfailing virility (amoghavīrya), bears a 
-son named Mallidēva. Born by means of a boon (vāraputra), he is said to be, in fact, the son 
-of Līḷābhairava. Mallidēva drives the “impure things” away from the Kiṣkindha mountains, 
-establishing himself as the local power.491This best among the vīras dedicates all his family 
-and extended kin network in perpetuity to Līḷābhairava, who “at that time, became both the 
-deity of their kula and the deity in their home.”492 At this moment, Mallidēva was transformed 
-into an ugramāhēśvara, a ferocious form of the special class of person whose status we have 
-just explored in the preceding chapter. All of his subsequent descendants, we are told, are born 
-with special auspicious marks,493 confirming their special collective destiny. Habbĕya 
-Nāyaka’s grandfather, a certain Hiriya Habbĕya Nāyakan, seems to have blood line 
-connections with this line. 
-Seven generations from the lineage’s first recorded encounter with traditions of the 
-Bhairavasiddhānta, Habbĕya Nāyaka’s father, one of Hiriya Habbĕya Nāyaka’s six sons, made 
-his way to Shirshangi. There, despite being a noble representative of the fourth lineage 
-(caturthavaṃśad’), in other words a Śūdra, by subduing the enemies of the people, Bācahuli 
-became the local big man, taking for his wife a woman of the clan (kulāṃganĕ), also of 
-491I have left out from my representation several passages that explore the relationship between Mallidēva and the maṇḍaleśvara Bammidēva, who grants him a title. Bammidēva can tentatively be identified with a warrior of that name who served the Kalyāṇi Cāḷukya kings and whose line for a time held office in Belvadi Karnatak Inscriptions, pg. 45–46: dēvatāvīryyav’ amōghavīryyav’ appudaṟin ā padminījātĕy appa padmāvatigĕ puṭṭida putran ā līlābhairavana varaputran’ ā girīṃdradŏḷu malaprahārīnadyubhaya nikaṭamaṃḍalakkĕ maṃḍalikan ādaṃ tadvaṃśajātānēkaran ēkapadantĕ bhadralakṣaṇasamaṃnvitaru vanavaratānūnadānayutar’ ĕnisidar avarŏḷagĕ // nĕgaḷda rasāsavārimadanōgramahēśvaran āda biṃnaṇaṃ bĕgasila dāniy āda kaḍu cāgitanaṃ jagad ŏrvva gaṇḍan ād’ agaṇita vikramōrjjitaguṇaṃ nriparŏḷu nigaḷaṃkamallan ād’ agalada vīravāraḷa[vu] maṇḍalikāgraṇi mallidēvanaṃ // maṇḍalika baṃmidēvana kŏṇḍā[ṭa]da mŏdala bēgīva vĕsaru taṃḍadin ā biruduman ŏḷakŏṇḍaṃ maṃḍalikamallidēvan udātta // 492Karnatak Inscriptions, pg. 46: tatsaṃbandhikarggĕllavā līlābhairavanĕ kuladĕyvamuṃ manĕdĕyvamu[n] ādan alli // 493Karnatak Inscriptions, pg. 45–46: ādaṃ tadvaṃśajātānēkaran ēkapadantĕ bhadralakṣaṇasamaṃnvitaru vanavaratānūnadānayutar’ ĕnisidar avarŏḷagĕ // 
-482 
-incomparable beauty and virtue.494 The text suggests that their child, our hero, was himself 
-then conceived in a rather unusual fashion. 
-Having united itself, the whole world caused Habbĕya Nāyaka, a treasury of heroism (śauryanidhi), and [about whom is said] that his power is overwhelming in its manifestation (atiprakaṭav), to come to life.495 
-Everything about this passage, as well as the one which precedes—which uses many 
-of the same terms of art we find in earlier parts of the genealogy which relate accounts of 
-conception occurring in association with Tantric practice—suggests that Habbĕya Nāyaka was 
-not so much “born” as deliberately made. In other words, he is a product of a Kaula ritual rite 
-designed to produce a superhuman child, an exemplum of the phenomenon that the great 
-Kashmiri polymath Abhinavagupta, who also seems to have the product of such circumstances, 
-labels being “born from the yogini” (yoginībhū). It is for this reason, as we shall soon see, that 
-even before he awakens to a new kind of conscious self-understanding, Habbĕya Nāyaka 
-functions as a living embodiment of many of the virtues associated with the Bhairava that is 
-his god. If Habbĕya Nāyaka was able to become a singular hero and ultimately Tantric virtuoso 
-by virtue of his line of descent, the text he commissions is equally adamant in its emphasis on 
-how the town of Shirshangi itself provided the perfect conditions for actualizing this potential. 
-Again, the conditions that help fashion Shirshangi’s inhabitants into exceptional people have 
-their roots in the deep history of its environment. The name Shirshangi is a corruption of 
-Ṛṣyaśṛṅgapura, a name it derives from being the birthplace of the sage Ṛṣyaśṛṅga, a sacred 
-494The remainder of the verse commences a long excursus offering a family genealogy peppered with birudas. Karnatak Inscriptions, pg. 46: nirupama kīrtti bācahuliy’ aṃganĕ sadguṇi bāciyakkanā taruṇiya naṃdanaṃ hiriya habbĕya nāyakan ĕṃba satyasāgarana bhaṭapravīrana kulānganĕy’ aggada tŏṃḍiyakkan’ ā taruṇiya sūnu bācahuliyaṃganĕg’ ārddŏrĕ balliyakkanŏḷu // 495Karnatak Inscriptions, pg. 46: sakaladharitri taṃna kĕḷĕgŏṇḍu bardduṃkuvud’ ĕṃba balup atiprakaṭav’ ĕnippa śauryanidhi habbĕya nāyakanaṃ / 
-483 
-personage in the treta yuga who was also conceived under peculiar circumstances.496 Our text 
-tells us that in ancient times, the sage Vibhāṇḍaka chose this place, in the shadow of the 
-Kiṣkindha mountains, to perform his meditation and austerities. The sage was so singularly 
-intent on achieving liberation, to the exclusion of all other objectives 
-(kaivalyaphaḷaikāṃkṣĕyalladaṃnya phaḷākāṃkṣĕyanuḷidu), that his intentionality came to 
-suffuse the very landscape, such that animals like deer and serpents, which have a natural 
-enmity towards each other, felt compelled to live in harmony.497 As the centuries went by, 
-Vibhāṇḍaka produced within his body a vast storehouse of tejas, which took the form of 
-amoghavīrya. This profound vitality made him enormously attractive, so one day, when the 
-apsaras Mañjughoṣā was flying by, she became spell-bound by his body. Descending down to 
-earth, the naughty celestial beauty reached her hand down into the sage’s lap while he was 
-deep in meditation and started touching what our text somewhat euphemistically calls “his 
-horn (śṛṅgī).” When Vibhāṇḍaka became aware of this unwanted stimulation, the sage became 
-enraged, came out of meditation, and cursed Mañjughoṣā to turn into a doe. 
-As it so happens, it was the apsaras who ended up having the last laugh. Sometime 
-later, still in the form of a female deer, Mañjughoṣā dove into a pool of water and surprised the 
-sage by surfacing nearby him. When he saw her captivating eyes, for some inexplicable reason, 
-the sage lost all of his hard-won self-control. Ejaculating wildly, Vibhāṇḍaka quite literally 
-saturated the landscape with a flood (vīryaugha) of many centuries worth of alchemically 
-transmuted seminal fluid. In the process, much of his virility and merit became an integral and 
-496The story has gone through many permutations and reaches a semblance of what is seen here by the Bhāgavata Purāṇa. See, for example MBh. 3.110–113. Though he plays in major role in the Vālmīki Rāmāyāṇa, there Ṛṣyaśṛṅga’s conception is alluded to only in passing and the focus is on the story of his childhood and youth spent without any contact with women. 497Karnatak Inscriptions, pg. 42: mrigakhagasarīśṛpaprāṇigaḷalli nisarggavairamaṃ tŏrĕdā sānugaḷŏḷu cariyipuvĕnalājñĕgĕ śāṃtigĕ nōṃtarārvvibhāṃḍaka munivŏlu // ēkāki nispṛhaṃ śāṃtyākaranĕnĕ kūḍĕ nĕgaḷdu kaivalyaphaḷaikāṃkṣĕyalladaṃnya phaḷākāṃkṣĕyanuḷidu tanmunīṃdraṃ nĕgaḷdaṃ. 
-484 
-lasting part of the Shirshangi’s environment. In this way, it intrinsically became a place at once 
-aligned with both esoteric spirituality and tremendous physical power.498 
-At the same time, Mañjughoṣā rapidly became pregnant with this ill-fated couple’s 
-unwanted child. When she gave birth to the boy, he emerged with an immense single horn 
-(śṛṅgī) growing out from the center of his forehead, evocative of his parents’ earlier initial 
-encounter. Horrified, Mañjughoṣā decides to expose her infant to the elements, hoping the sun 
-would kill him.499 Though badly burned, Ṛṣyaśṛṅga not only survives, but, apart from his other 
-adventures, which our text passes over in silence, he grows up to become the surrogate force 
-that makes possible the continuation of the solar race of Kṣatriya kings in the line of Raghu. 
-Thus, when king Daśaratha finds himself unable to conceive, it was Ṛṣyaśṛṅga who provided 
-the means that made possible the birth of Rāma, Lakṣmaṇa, Śatrughna, and Bharata. Indeed, 
-as the inscription tells us, enroute back from slaying the demon king Rāvaṇa, Rāma and 
-Lakṣmaṇa, accompanied by Hanuman, made a point of stopping in the village, and in the spirit 
-of the Śivadharmaśāstra, set out consecrating liṅgas in the domain that made their conception 
-possible in the first place.500 
-498Karnatak Inscriptions, pg. 42–43: kāṇalŏḍanĕ // askaḷitacittanācētaskaḷanĕ[yĕ]na vaśavĕnisi pŏṟapŏṃṇmuvarētaskaḷanĕgĕ nāṇcutatiduḥkhāṃnvitanabjadaḷadŏḷaṃtadanāṃtaṃ // marĕviḍiyāghrāyisĕ munivaravīryyavamōghavīryyavappudariṃdā marĕvĕṇnagarbhbhadiṃdavatarisidanŏrvvaṃ kumārakaṃ śṛ(ṃ)gayuyutaṃ // āgaḷū. . . . adĕṃtĕṃdŏḍĕ maṃjughōṣĕyĕṃbaccarasĕyŏrmmĕrāgadiṃ rāgāṃdhĕyāgi śṛṃgiyĕṃba brahmarṣiyanuṣṭhānaṃgĕyvutirddudanariyadĕ taṃna savagāṇikĕyara sāraṃṅgĕvōptavakadinā śṛṃgiyiṃ śriṃgiyaṃ sōkuvaṃtĕ sōṃki pōpāgaḷavaḷgĕ muni munidu nīṃ dĕsĕbiddaṃ marĕyaṃtĕ vāyi taṃdĕyappudariṃ marĕyāgĕṃdu śāpamaṃ kuḍĕ kōpakkaṃji śāpamaṃ kaiykŏṃḍu maguḷĕbaṃdavara padapadmakkĕṟagi yānajñānadiṃ niṃmanavajñĕgĕydĕnĕndigĕ viśāpa nimittamaṃ bĕsivĕnĕ vibhāṃḍakamuniya vīryyada dĕsĕyiṃ. 499Karnatak Inscriptions, pg. 43: ĕnĕ muniprakṣōbhadiṃ khēdamaṃ putralōbhadinati pramōdamaṃ taḷĕdu tatsamayavaṃ pārddirppĕdĕ (rpudu)vaṃtavĕllaṃ taṃna bayakĕyŏḷŏḍagūḍi kūḍĕ kṛtārtthĕyādaḷittalū // janani bisuṭṭu pogĕ khararōciya tīkṣṇamarīci kāyda kabbunavĕnalaggaḷaṃ bisupanāgisidā nĕladŏḷu. 500Karnatak Inscriptions, pg. 44: putraraṃ paḍĕdanalli rāmalakṣmaṇaru rāvaṇaṃ mŏdalāgi samastadānavaraṃ saṃharisi maguḷdayōdhyĕgĕ baruttaṃ kiṣkiṃdhaparvvatōpakaṇṭhada tanmunīṃdrāśramakkĕ baṃdalli nija nāmāṃkita rāmēśvara lakṣmaṇēśvara hanmaṃtēśvaraṃgaḷaṃ pratiṣṭhisidariṃ. 
-485 
-Though we have only begun to scratch the surface of the rich literary character and 
-fascinating philological texture of the central inscription at Shirshangi, for our purposes, before 
-we return to thinking about how Habbĕya Nāyaka fits into the picture we have been 
-assembling, it is best to briefly attend to the larger conceptual frameworks that the text presents, 
-many of which will prove integral to understanding the world of the medieval Deccan across 
-a wide range of media, linguistic registers, and rungs within the social hierarchy. Two points 
-are particularly salient. The first is that the circumstances in which a thing or person comes 
-into being largely shape its character and incline it to a certain kind of nature. Nowhere is such 
-a dynamic more perfectly instantiated than in the case of Ṛṣyaśṛṅga, whose defining feature, 
-the śṛṅga on his forehead, is the direct by product of his mother’s violating touch of his father 
-Vibhāṇḍaka’s rather different sort of “horn” in the instant before his otherwise inconceivable 
-conception. Thus, while it is easy to see how such first principles could prove synergistic with 
-the logic of caste, imagined as type of biological-spiritual determinism that distributes value 
-and purpose along predetermined lines, as the examples we have been exploring make evident, 
-this logic is neither reducible to caste frameworks nor is it necessarily an ideological byproduct 
-of such thinking that inevitably reinforces given strictures. 
-Indeed, in the same way that the circumstances of conception structure to some degree 
-a human destiny, the same principle holds true when it comes the production of objects of 
-material culture, the construction of buildings, and even the land itself. Much as we can think 
-of vyavasthā, the differential application of site-specific rules in the legal realm, as pertaining 
-to specific human communities in a manner that assigns to them sometimes mutually 
-incommensurable ways of being in the world aligned with distinct principles, our sources 
-imagine a sort of vyavasthā, operating upon the land itself that makes specific sites fit for 
-486 
-specific behaviors. Significantly, as our Pratiṣṭhā Tantras will explore in greater detail, not only 
-does the presence of saints and supernatural beings for a sustained period of time in a single 
-place create “sacred space,” but what it generates, based on the internal condition and mental 
-state of the agent in question, are radically different types of energetically charged spaces 
-aligned to the cultivation of different human and nonhuman propensities and emotions. On a 
-more mundane level, the same logic structures the activities of artisan castes, especially when 
-they are involved in designing temples or other forms of urban planning. Much in the same 
-manner as is somewhat more familiar from the popular reception of Chinese traditions of Feng 
-Shu’i, different quadrants of the space inside and surrounding the future building are conceived 
-of being more or else suited to distinct types of activities and of bearing varying degrees of 
-auspiciousness and inauspiciousness, with all of these features being further inflected by 
-calendrical concerns and changing temporal conditions. An integral dimension of designing a 
-building or town thus entails choosing a space that has a minimum number of inauspicious 
-spaces and situating the building in a manner so as to maximize the alignment of its intended 
-function with the innate character of the surrounding space. In essence, in the medieval Deccan 
-there is no such thing as neutral or common space; for all spaces are conceptualized as 
-internally differentiated to some degree in their nature and function. 
-The second principle that our text makes evident is that even in hyper-specialized 
-domains, like the sacred field of Shirshangi, multiple systems of meaning are constantly at play 
-addressing a range of intended audiences. Under such circumstances, a single story, image, or 
-event is necessarily inflected in a manner that intentionally communicates a range of discrete 
-meanings. In light of the unmistakably Tantric conceptual systematicities evident in other 
-portions of our inscription, the manner in which the retelling of the stories of Vibhāṇḍaka and 
-487Ṛṣyaśṛṅga seemingly invoke such resonances is most likely not accidental. Instead of 
-generically engaging in austerities, as in Purāṇic and Epic sources, and thereby threatening the 
-god Indra in his quest for power, Vibhāṇḍaka is depicted as a soteriologically oriented Tantric 
-yogin, generating the very same power of unfailing virility (amoghavīrya) that the rest of the 
-inscription associates with both Bhairava and his devotee Habbĕya Nāyaka. 
-The descent of the apsaras Mañjughoṣā—beautiful sound—taking the place of the epic 
-Urvaśī, who no longer serves as messenger from the gods but is propelled by her own will and 
-desire, is framed to resemble the arrival of a yoginī attracted to the life force of the adept.501 
-When Vibhāṇḍaka succumbs to her charms, in a manner that mirrors the rhetoric of Śākta 
-revelation, he releases a veritable flood (ogha/augha) of his power and potential, which in 
-perpetuity is transmitted to those who are fit to receive it. Confirming such connections, in 
-Shirshangi today the space where “the ṛṣi did his practice” is located a mile or so down the 
-road from the main temple complex. In the shadow of the Kiṣkindha mountains, one passes an 
-image of Kālī and a large well full of brackish water and then finds oneself entering a series of 
-caves now called Siddheshwar Gumphe. Entering the main cavern, the explorer is confronted 
-with images of seven mothers, a Gaṇeśa, a Viṣṇu, as well as a large liṅga, all done in the same 
-exceptionally skilled hand that executed the images in the Habbēśvara temple. 
-501 Indeed, in an intriguing textual parallel from the Brahmāṇḍa Purāṇa, Mañjughoṣā and the other classical apsarases actually are recast as the retinue of the Krama goddess Kālasaṃkārṣinī. Brahmāṇḍa Purāṇa 3.33.20: tatra devīṃ samabhyarcya pūrvajanmani kumbhaja / vasantyapsarasāṃ vṛndaiḥ sākaṃ gandharvapuṅgavāḥ // mahārājñīguṇagaṇāngāyanto vallakīsvanaiḥ / kāmabhojaikarasikāḥ kāmasannibhavigrahāḥ /sukumāraprakṛtayaḥ śrīdevībhaktiśālinaḥ // gomedakasya śālastupūrvaśālasamākṛtiḥ / tadantare yoginīnāṃ bhairavāṇāṃ ca koṭayaḥ / kālasaṅkarṣaṇīmaṃbāṃ sevante tatra bhaktitaḥ // gomedakamahāśālāntare mārutayojane / urvaśī menakā caiva rambhā cālaṃbuṣā tathā // urvaśī menakā caiva rambhā cālaṃbuṣā tathā / mañjughoṣā sukeśī ca pūrvacittirghṛtācikā / kṛtasthalā ca viśvācī puñjikasthalayā saha // tilottameti devānāṃ veśyā etādṛśo 'parāḥ /gandharvaiḥ saha navyāni kalpavṛkṣama dhūni ca // pibantyo lalitādevīṃ dhyāyantyaśca muhurmuhuḥ / 
-488 
-Panel of the mothers from inside Habbēśvara temple. 
-According to the one-eyed Liṅgāyat pūjāri who tends the place—and who does not let 
-non-initiates descend further into the caves or take pictures—until twenty years ago, the 
-complex was frequented by naked avadhūtas and other sorts of śivayogins who would descend 
-into the passages, which supposedly contain additional images, to worship the goddess and her 
-consort on auspicious occasions, especially eclipses and the full moon. 
-489 
-Detail of the Cāmuṇḍā and Gaṇeśa in the Habbēśvara temple. The workmanship and iconography on Gaṇeśa and the Saptamāṭrkā panel in Siddheshvar Gumphe (where photography was not permitted) is quite similar. It is worth nothing that in the version of the story the pūjāri told about the origin of this place 
-(which corresponds roughly with the tale as it is related in publications sold near the temple), 
-the sage Vibhāṇḍaka is entirely absent, replaced by Ṛṣyaśṛṅga. While performing his 
-austerities, instead of an apsaras, Ṛṣyaśṛṅga has an encounter with the goddess Kālī, who is 
-attracted by his tejas. 
-490 
-From Nāyaka to Īśvara: Worship and Become the God, or What Does It Mean to Be a Hero? 
-śāśvatamūrtti śauryanidhi habbĕya nāyakanaṃ prasaṃnahabbēśvaradēvanŏldu paripālisutirkkĕ. . . . trijagadubharitaṃ sukhātmakaṃ. . . . prasaṃnabhairavananurāgadiṃ kuḍugĕ habbĕya nāyakagīpsitārtthamaṃ // baladiṃ habbēśvarananubaladiṃ śrīmatu prasaṃnabhairavana mahābaladiṃ habbĕya nāyakanĕ lōkadŏḷu sakaḷa bala samaṃnvitanādaṃ // 
-May Prasannahabbēśvaradēva, whose form is eternal (śāśvatamūrti), whose nature is pleasure (sukhātmakaṃ), who is a treasury of heroism (śauryanidhi), be the protector of Habbĕya Nāyaka. . . . Prasannabhairava who is bowed to by the three worlds. . . . may he, out of his love (anurāgadiṃ), give to Habbĕya Nāyaka whatever he desires. . . . Habbĕya Nāyaka became all powerful (sakaḷabalasamaṃvitanādaṃ) in the world on account of the support of Habbēśvara (baladiṃ habbēśvarananubaladiṃ) and the great power (mahābaladiṃ) of Prasannabhairava.502 
-502 Karnatak Inscriptions, pg. 40–41. 
-491 
-As we can see, Habbĕya Nāyaka’s inscription at the center of Shirshangi begins with an act of 
-reverence that at the same time functions as constructive theology. On the surface, we are told 
-that Habbĕya Nāyaka owes everything he has and everything he is to his god. And yet, the very 
-act of delineating what makes Bhairava great provides the reader with a point of reference for 
-fostering the growing recognition, mirroring that of our hero, that Habbĕya Nāyaka himself 
-embodies these self-same virtues. After the praise of Bhairava, the text offers a celebration of 
-the Kuntaladēśa, a lock of hair on the young beauty that is India, and then introduces the 
-peerless place called Ṛṣyaśṛṅga by telling us the story of its origins. It is only after thirty verses 
-recounting the stories we have already explored that the inscription reintroduces our hero. 
-Before we learn anything else about him, we are informed that the everlasting land of 
-Ṛṣyaśṛṅga is a field for the heroes (vīrakṣētra) where the four codes of samaya are observed 
-and upheld (catussamĕya samuddharaṇar) so long as the sun and the moon will persist.503 The 
-nāyaka who carries out this task of protecting the place (abhirakṣisu) is a treasure house of 
-heroic virtue and fortitude (śauryadhairyanidhi) and he has the name Habbĕya. In essence, 
-virtually everything we learn about this human warlord is designed to foster the recognition in 
-the audience that the god and his devotee do the same sorts of things and have the same nature. 
-503Here again, as a matter of parsimony, several lines of kāvya tropes and dependent clauses not pertaining to our purposes, have been excised. Karnatak Inscriptions, pg. 44: dhātriyŏḷadu munuśāṃtakṣētraṃ riśipaḷḷiyĕnisitīgaḷu vīrakṣētravĕnisittu śatrukuḷatrāsigĕ habbaṇaṃgĕ nĕlĕyādudariṃ // susthaḷaviṃtidu caṃdrārkkasthāyi cirāyudāyiyĕnagĕṃdŏlaviṃdāsthāna vastu nāyakanāsthaḷadŏḷu śauryyadhairyanidi sukhavirddaṃ. . . . savayacchalavēvudŏ dharmmamanŏdavipudaṃtuvĕnutĕvadanĕsagi catussamĕya samuddharaṇarĕnippamaḷa yaśaśrīgĕ nōṃtaṟaruvarggauṃḍatu // * agaṇitaguṇaraṟuvarggauṃḍugaḷiṃdaṃ riśyaśriṃgi pĕsarvĕttudadaṃ migĕ habbĕyakanāyakanāvagavabhirakṣisuvanĕṃdŏḍĕ vaṇnipudō. 
-As for the four samayas, based on the inscription itself, we can confirm that two of the traditions whose norms are to be defended are that of the Kālamukhas themselves (sometimes simple labelled Maheśvara) and those of the Jains. As a canonical category, often the set is filled out by identifying the other protected traditions as those of Vaiṣṇavas and the Bauddhas. By the end of the twelfth century, however, this last term is sometimes replaced with a term signifying explicitly non-sectarian Vaidika commitments. 
-492 
-Indeed, just as the god Prasannabhairava is entreated to give his devotee whatever he 
-desires (kuḍugĕ īpsitārtthamaṃ) to the human beings who depend upon him Habbĕya Nāyaka 
-also bestows what is desired (abhīṣṭamaṃ kuḍuva).504 Habbĕya Nāyaka’s journey of self- 
-discovery, which culminates in the moment when he hears the subhāṣita proclaiming, “the vīra 
-must enjoy the earth,” amounts to recognizing that being a warrior and being a vīra are two 
-related but different things. In the somewhat obscure language of the medieval Deccan, 
-Habbĕya Nāyaka initially saw himself as simply a distillation of alpha (gaṇḍa) male virtues. 
-If one were to say (ĕnalu): “ who (ār) are the best men (aggada gaṇḍar) among the heroes of the world-famous Kuntala?” They are the sitagara gaṇḍa. If one were to say: “who are the men who subdue the power of thieves?” They are the sitagara gaṇḍa; If one were to say: “who are the men who fight the opposing enemies?” They are the sitagara gaṇḍa. Heroism, of this type (sitagara gaṇḍa), will become formidable in Habbĕya Nāyaka.505 
-The alpha male (gaṇḍa) who chases away the despicable people who prey upon the towns folk 
-and the steal the livestock is both a social identity with its own ethos as well as a designated 
-professional function of providing protection (pālana) originally associated with the Kṣatriya 
-class in the Dharmaśāstra literature. In this role, wielding a bow, Habbĕya Nāyaka repeatedly 
-rode into battle, acting not on behalf of some foreign lord, but in the service of maintaining the 
-autonomy of his community, which, as an akṣayavṛtti nominally governed by religious 
-authorities, does not fall under the purview of the state. Indeed, he boasts, somewhat 
-mysteriously, that he eschews the arrogance that comes with royal titles,506 instead himself 
-504It is interesting that this title is followed shortly thereafter by a claim that Habbĕya Nāyaka was one who performed a ritual using the sākṣarika, presumably some sort of homa involving Śākta mantras. This incidentally provides confirmation that following his epiphany, captured in stone, Habbĕya would have received formal Tantic dīkṣā including instruction in ritual and the transmission of the mantras from Vāmaśakti. Karnatak Inscriptions, pg. 47: abhīṣṭamaṃ kuḍuvagurbbina cāgiyanaḷki bhītiyiṃ śaraṇĕnĕ kāva dēvananiḷāvaḷĕyaṃ pŏgaḷdappudŏldu sākṣarikanidhānanaṃ nĕgaḷda habbĕya nāyakanaṃ guṇātmanaṃ // 505Karnatak Inscriptions, pg. 45: kṣitinuta kuntaḷōrvvarĕya vīrarŏḷ aggada gaṃḍar ār ĕnalu / sitagara gaṃḍan ĕṃba khalar’ urkan aḍaṃgipa gaṇḍar ār ĕnalu / sitagara gaṃḍan ĕṃba malĕd’ āntaran ikkuva gaṇḍar ār ĕnalu / sitagara gaṃḍan ĕṃb’ adaṭu habbĕya nāyakanŏḷu viggurvviku[ṃ] // 506Karnatak Inscriptions, pg. 46: birudara darppamaṃ kiḍipa / 
-493 
-offering protection to those who seek refuge. Our inscription offers us fascinating glimpses of 
-this stern and magnanimous paternalistic ideology. On the one hand, Habbĕya Nāyaka never 
-lies, nor does he suffer those around him to utter anything other than the truth.507 He is 
-merciless in battle to his enemies, and yet at the same time, if those he has defeated attempt to 
-surrender, apparently unlike other warriors who ridicule and then butcher prisoners of war, 
-Habbĕya Nāyaka lets them take sanctuary. Turning his attention towards the warriors in his 
-own band who disparaged these codes of honor, he skewers such honorless men on the spot 
-with his sword.508 But heroism of “this type” is something different than the true patrimony 
-offered him by his lineage. Like all those who observe Śiva’s dharma as it is taught in the 
-Śivadharmaśāstra, from the moment we meet him, Habbĕya Nāyaka is introduced to us as an 
-incarnation of Rudra (rudrāvatāra), in this case, specifically instantiating the pramathagaṇa 
-Nīlalohita.509But like his grandsire Mallidēva before him, Habbĕya is both a ferocious and 
-great lord (mahā-īśvara), in other words a maheśvara in the Śivadharma’s own terms, as well 
-as an ugramaheśvara, a terrifying god on earth who bears the blood of Bhairava in his veins, 
-whose storehouse of heroic virtue (śauryanidhi) was with him from the moment of conception. 
-Once Habbĕya Nāyaka discovers that the lord he has worshipped as Habbēśvara is not 
-merely the family deity of his clan, but is in fact the same esoteric Bhairava whose power and 
-grace underwrites both the ritual center at the heart of his home and the esoteric theology of 
-ācāryas who preside over the land he protects, Habbĕya Nāyaka’s sense of what his dharma 
-entails becomes more expansive. Like his eternal god, Habbĕya wants to ensure that he is able 
-507Karnatak Inscriptions, pg. 45: husiyaṃ husimātaṃ sairisan ĕnduṃ naṃnikāṟa naṃnigĕ saṃtasav’ ĕyduvan’ int’ idu bhāvisĕ habbĕya nāyakaṅgĕ salĕ sahajaguṇaṃ / 508Karnatak Inscriptions, pg. 45: yĕṟagi śaraṇ’ ĕndu bāḷadĕ haṟigaṇḍ’ ind’ ātan ēvan’ ĕnd’ ulivana bāy ŏṟay’ ā gal kūralagaṃ kiṟihadĕ māṇḍapanĕ habbaṇaṃ vijitaraṇaṃ / 509Karnatak Inscriptions, pg. 47: śrīmaṃnīlalōhita rudrāvatāra śrī vīrabhairavadēvadivya śrī pādapadmārādhakaṃ parama[ṃ]ḍaḷa sūṟĕkāranmappa śrīmatu habbĕya nāyakaṃ nija bhujabaḷōpārjjita saṃpattiyiṃ sukhadin anubhavisuttirdd’ / 
-494 
-to carry out his duties as protector in perpetuity. And so, out of the goodness of his heart or 
-mind (sumanasadoḷ), Habbĕya Nāyaka himself provides the vṛtti for a temple at once dedicated 
-to the god of his clan and the lord of the universe who rescued his line from untouchability.510 
-This is to say, somewhat in the matter of an endowed university chair, he arranges the funding 
-and logistics for multigenerational economic support of the range of professionals, ritualists, 
-dancers, teachers, attendants, that make a temple function. In this way, even after he dies, 
-through the medium of the god he installs he can continue, in a palpable, concrete way, to 
-protect and preserve the people of the region where his family found refuge. 
-When Habbĕya Nāyaka “makes the virtuous offering (puṃṇyada baḷiv),” quite often a 
-euphemism for a human sacrifice, he “obtains in lasting form all the virtues” (puṃṇyaṃgaḷuṃ 
-dŏrĕkŏḷ).511 At this moment of supposed spiritual realization, it becomes possible for his name 
-to become the name of the god, for the two have become one.512 And so he declares before the 
-vast assembled public, “Īśvara alone will become manifest” (īśvaranĕy akkuv ĕmbudan), and 
-performs the installation of the god. In short, what our text seems to offer is a precious example 
-of the popular reception of the esoteric teachings of the Śākta and especially Kaula Tantras. 
-Much as we saw in the preceding chapter, it offers us palpable proof that teachings of these 
-texts that called into question the ontological foundation of the social order as rooted in 
-questions of caste had a real-world impact. It is difficult to imagine a Brāhmaṇical āgrahāra 
-playing host to a vast international trade convention comprised primarily of wealthy Śūdras 
-and Vaiśyas from a range of backgrounds and religious identities. It is unfathomable that such 
-an affair would be presided over by antinomian yogins under the direction of a Śūdra warrior 
-510Karnatak Inscriptions, pg. 49: habbĕya nāyakaṃ sumanadŏḷu tān ittan ī vrittiyaṃ / 511Karnatak Inscriptions, pg. 47: ā puṃṇyada baḷiv iḍid’ ĕll’ ā puṃṇyaṅgaḷuṃ dŏrĕkŏḷguṃ / 512Karnatak Inscriptions, pg. 47: ā dēvarkkaḷa hĕsarĕy akkuv’/ īśvarapratiṣṭhĕyaṃ māḍidavan / īśvaranĕy akkuv ĕmbudan / ā dēvara pĕsar ātana pĕsar akkuv ĕnd’ aṟidukŏḷvud’ ā dēvāyatanam / 
-495 
-who proudly introduces himself by telling the story of how his family was outcaste in a prior 
-generation, an event that in the end proved serendipitous, for it made possible their esoteric 
-initiations and his own liberation. At the same time, Habbĕya Nāyaka’s testament offers a 
-fascinating quotidian reception relating to the teaching in late Kaula sources of the essential 
-unity of self with the supreme reality in accordance with that classic dictum “in order to 
-worship the god, one must be become the god.” 
-Whatever He Says Becomes Mantra: The Kālamukhas and the Śākta Tantras 
-On the very bottom of the large stela, the artisan Sātoja tells us, the śāsana at Shirshangi has 
-been written in modern Kannada (pŏsagaṃnaḍa). As we have witnessed, under the direction 
-of the singular Habbĕya Nāyaka, the poet Sajanatilaka, whose work we have been reading, 
-crafted a text of striking originality that repeatedly bends preexisting conventions in service to 
-new ends. In a rather surprising manner, however, for his second maṅgala verse to 
-Prasannabhairava, instead of composing something “new,” Sajanatilaka chose to simply 
-recycle someone else’s composition, a pattern that continues on and off for the next five verses. 
-[Shirshangi version 1186 CE] bhāḷākṣadyuti bāḍavāgnigĕ jaṭājūṭaṃ pravāḷakkĕ sarppāḷaṃkāram adāhikōṭigĕ karōṭīmālĕ śaṃkhāḷig’ ā bhīḷadhvānam udīrṇnaghōṣak’ ĕṇĕy āgalu prōllasadbhairavaśrīlīḷākṛtivŏlu manaṃgŏḷsitō ratnākaraṃ śrīkaraṃ ||513 
-[Kukkunur version, 1168 CE] bhāḷākṣadyuti bāḍavāgnigĕ jaṭājūṭaṃ pravāḷakkĕ sarppāḷaṃkāram adāhikōṭigĕ karōṭīmālĕ śaṃkhāḷig’ ā-| bhīḷadhvānav’ udīrṇnaghōṣak’ ĕṇĕy āgalu kāḷikābhairavaśrīlīlākritivōl manaṃgŏḷisitō ratnākaraṃ śrīkaraṃ ||514 
-The beam from his third eye is like the submarine fire. His mass of dreadlocks is like coral. He is adorned with a snake like the sun that has set.515 His necklace of skulls is 
-513Karnatak Inscriptions, pg. 41. 514Pandurang Bhimarao Desai, ed., A Corpus of Inscriptions in the Kannada Districts of Hyderabad State, Hyderabad Archaeological Series vol. 18 (Hyderabad: Archaeological Department, Government of Andhra Pradesh, 1958), 64. 515 All of the printed editions of both of these texts given the reading udāhikōṭigĕ, which yields no sense at all. When Dr. Saddaksaraih and Dr. Srinivas Padigar, both of the university of Dharwad, sat with me and examined the paleography of portions of the śāsanas from photographs I had taken, they arrived at the conclusion that 
-496 
-like a garland of conches. His formidable din is like its tumultuous roar. Doesn’t the generous ocean grab hold of your mind? 
-Just like the form of the auspicious play of the blissful Bhairava/the Bhairava who belongs to the Goddess Kāḷikā. 
-Incongruously, given that in both cases we are speaking of landlocked sites a thousand 
-miles from the seashore, both of these verses systematically homologize the traits of ferocious 
-Bhairava with the profound power of the sea. Indeed, despite the fact that they are dedicated 
-to different forms of Bhairava, the inscription at Shirshangi offers a virtually verbatim 
-reproduction of its predecessor. Given that in neither case does the verse in question pertain in 
-any recognizable fashion to the specific form of the deity under worship at these places, it 
-seems plausible to suggest that neither is the original. Instead, what we are dealing with are 
-traces of otherwise lost chancellery conventions for the representing of Śākta deities. In other 
-words, places like Shirshangi were not quaint outliers operating in relative isolation. They were 
-important nodes of circulation integral to a wider discursive pattern in which heavily 
-networked esoteric centers effectively defined the medieval Deccan. 
-Despite the fact that Habbĕya Nāyaka managed to host a veritable “Who’s Who” of the 
-international trade establishment of his day, the extensive documentary records associated with 
-Kukkunur and the originary settlers of this sacred center offers a much more promising archive 
-for beginning the process of reconstructing these important dynamics. Thus, in an inscription 
-from 956 CE, at the ritual center of Bagali, fifty miles from their home, the old families of 
-Kukkunur assembled together with their peers from neighboring Kogali and also Masivadi 
-though damaged the akṣara is most likely an a, but were unable to parse what the term might mean. In making sense of this text, I follow Tim Lorndale’s ingenious conjecture that ahi means the sun and not snake, offering a bit of a play on words, and that ada, though unattested in this form, is an adjective derived from the root ad “to sink” formed in the same manner as the adjectival form āḻa from the root āḻ, also in the sense of “to sink.” 
-497near distant Kolhapur, more than two hundred miles to the east.516 Amid a panoply of erotic 
-apotropaic carvings, including what is probably the oldest instantiation of the infamous 
-gadhegāl of Maharashtra, where a donkey violates a woman, warning off those inclined to 
-commit vandalism and theft, these networked collectivities played host to the representatives 
-of the Rāṣṭrakūṭa King Kṛṣṇa III, the famed builder of the Kailāsa Temple at Ellora, whose 
-daṇḍanāyaka came to the region just for the occasion from the Koṅkana to honor Bagali’s 
-Śaiva bhaṭṭāraka. Though the records are sadly damaged, Kukkunur seems to have received 
-patronage from the Rāṣṭrakūṭas since the time of Amoghavarṣa I (800–878 CE). It was either 
-in his reign or shortly thereafter that the surviving oldest temple complex in Kukkunur, the 
-Navaliṅgēśvara Temple, among the most important surviving examples of free standing 
-Rāṣṭrakūṭa temple architecture, was constructed. Thus, from the ninth to the middle of the 
-thirteenth century, when the central ritual complex was abruptly dismantled and its officiants 
-and inhabitants evicted, Kukkunur received unbroken patronage and frequent pilgrimage from 
-across virtually the entire spectrum of the regional and imperial powers in the medieval 
-Deccan. Just like we saw at Shirshangi, indeed using many of the same verses, Kukkunur is 
-introduced through an extended series of pun laden stock phrases lauding the Kuntala country. 
-It is beautiful like the locks of hair of a woman (kuntala). It is higher up on the body, and thus 
-more exalted, than the middle region that is Madhyadeśa or the girdle belt (kañcī) that is 
-Kancipuram. The district of Bĕḷvalavādi, in turn, is proclaimed to be the diadem that adorns 
-516R. Shama Sastry, South Indian Inscriptions, vol. IX, Part 1: Kannada Inscriptions from the Madras Presidency (Madras: Government Press, 1939), no. 66, pg. 38. The summary there runs as follows: “Dated Śaka 878, corresponding probably to A. D. 956 December 23 Tuesday. It refers itself to the reign of the Rāshṭrakūṭa king Akāḷavarsha-Kannaradēva [Krishna III]. The king’s Mahāsāmanta Ṛoṭṭayya ruling over Māsivāḍi hundred-and- forty, Kōgaḷi-five-hundred and Kukkanūr thirty, made a grant of the whole of the revenue raised from Bābandi to Paśupatibhaṭṭa, the Ūroḍeya of Bāḷguḷi. Another chief named Dhōrapayya is also said to have made some gift. As the inscription is damaged, the nature of the gift cannot be made out.” 
-498 
-this precious lock of hair. Kukkunur is its crowning glory. In the midst of all this rote 
-chancellery language, however, something of a more pointed message begins to assert itself as 
-the śāsana’s author begins to tell us some incongruous and unexpected things grounded in a 
-decidedly Śākta worldview. 
-Previously, when the [goddess] “destroyer of demons” grabbed and squeezed the Daityas with her hand, [the earth,] becoming full of the juice of their [daityas’] fat, obtained the name Medinī (endowed with fat). In the world, Kuntala country appears beautifully, like the beautiful hair of a woman from the Bhārata country. The Kuntala country is like the hair of that woman. . . . It is to be cared for by the mahājanapadas, and it is an abode for garlands of sumanas flowers, and a lot of gold and jewels. The Kuntaladēśa alone, in which Kāḷikā, Jyēṣṭhĕ, and Kapāḷīśa have taken up residence, is the best [place] among all the other countries. And it is because of their [i.e., Kāḷikā, Jyēṣṭhĕ, and Kapāḷīśa] greatness that there is a foundation for the accumulation of merit in that place.517 
-Introducing for the first time the distinctive rhetorical register that animates this śāsana, 
-through lens of its epithet Medinī—quite literally “the fatty one”—the earth and its origins are 
-reimagined. In place of the expected story of the earth, originating when the boar incarnation 
-of Viṣṇu dredged up Bhūdevī out of the cosmic ocean, which had borne strong imperial 
-implications since at least the time when this imagery was adopted by the Gupta kings as their 
-royal emblem, our inscription tells a different story where royal power is entirely displaced by 
-the goddess herself as rescue gives way to slaughter. This world, we are told, acquired its 
-nature in the aftermath of the goddess taking some demons into her fists and crushing them 
-into a pulp such that their vital juices dripped down and were absorbed by the world. The 
-world, in other words, quite literally emerges from the palm of the goddess’s hand and it is her 
-power, inseparable from the aftermath of violent acts of sacrifice, that gives our reality its rasa. 
-517A Corpus of Inscriptions, 64: ĕnĕ cĕlviṃ lavaṇābdhi suttuvirĕ mun daityarkkaḷaṃ daityamarddani kāypiṃ piḍid’ ŏtti piṇḍutirĕ tanmēdōrasaṃ tīvi mē / diniy ĕṃb’ aṃkamanāḷd’ iḷāvaḷayadŏḷu (ḷ) / śrībhāratōrbbīviḷāsinig’ ŏppaṃbaḍĕdirda kuṃtaḷadavŏlu śrīkuntaḷaṃ śōbhikuṃ. . . . śrīmajjanasēbyaṃ sumanōmāḷā bahu suvarṇna ratnāśrayav’ ĕṃ[|*][b’ ī mahimĕyin ĕṇĕy ādud’iḷāmahiḷĕya kuṃtaḷakkĕ kuṃtaḷadēśaṃ // 7 // dēśaṅgaḷŏḷagĕ kuṃtaḷadēśamĕ migil alli kāḷikājyēṣṭhĕ kapāḷīśar nnĕlasida sukṛtada rāśigĕ nĕlĕyāda maimĕyiṃ bhūtaḷadŏḷ // 8 // 
-499 
-Just as the earth became savory because the goddess slew some demons, in the process 
-of imbuing it with new power, the Kuntaladēśa derives its fame and glory as the foremost place 
-in the world because the very land has become imbued with a new kind of potency and promise. 
-In material terms, the auspicious origins of this place have produced a land of great fecundity. 
-Not only is this a place of considerable physical beauty, but the terrain abounds in gold, other 
-precious metals, and jewels, a state of affairs with a number of practical consequences. Thus, 
-the mountains in this region rank among the preferred mines of the Cāḷukya empire, and the 
-area abounds in goldsmiths, including some of the most respected master craftsmen patronized 
-by the Cāḷukyas. Indeed, several sites in the region, including Sudi, under the control of the 
-administration of Kukkunur itself, functioned as the premiere mints for the production of 
-coinage throughout the period, possessing their own distinctive dies and designs. For the same 
-reasons, the soil itself has miraculous properties, for it is said to be so hyper fertile that it 
-spontaneously renews itself with a fresh batch of new nutrients after each planting season in a 
-manner that ensures that fields never have to lie fallow. Finally, on the social level, Kukkunur 
-houses illustrious lines of pious Brāhmaṇas, and a hereditary administrative class of non- 
-Brāhmaṇa landed farmers who serve as its mahājanas, all of whom operate under the direction 
-of its long established line of illustrious and learned Kālamukha ācāryas. 
-As our text has begun to indicate, the source of all of this power and good fortune, 
-which is transferred to those who take up practice in that place, is Kukkunur itself, because 
-this is where the power of speech—made manifest in an awesome and terrifying form—to say 
-nothing of a pantheon of mostly ferocious esoteric deities, have resided in splendor for many 
-years, thriving under the care of yogins who call themselves Kālamukhas. This state of affairs 
-in and of itself is somewhat surprising, for recent scholarly literature has by and large placed 
-500 
-the Kālamukhas at some distance from a recognizably Tantric milieu. During the twelfth 
-century in particular, especially under the direction of the great Kālamukha siddha Kaḷēśvara, 
-whom we will encounter momentarily, through the production of a network of ritual centers, 
-at Ron, and Sudi, and quite possibly at Gajendragad, the artisans and Kālamukuha ācāryas 
-associated with Kukkunur extended their influence throughout the central Deccan. Apart from 
-Kukkunur itself, the most spectacular of the nodes in this network today are certainly the ruins 
-found at Sudi, which are comprised of three intact temples and a spacious step 
-well. While in the tenth century the town seems to have maintained a special ritual relationship 
-with the Kāpālikas of Lakṣmēśvara, due to a raid by the Cōḻa king, the social dynamics in the 
-city were temporarily disrupted. Under the direction of Āhvahamalla/Someśvara I himself, the 
-council of the town, whose kāryacintakas were comprised of six gāvuṇḍa lineages and eight 
-sĕṭṭis, most likely in this case founding artisan families, had to be reinstated along with their 
-samaya. At this point, either a different line of self-identified Kālamukha ācāryas moved in, 
-or the older line in evidence from the tenth to the middle of the thirteenth century, when the 
-land grant is abruptly discontinued and the inscriptional record suddenly stops, reimagined 
-itself to suit the changing tenor of the times. Regardless, the governing institutional authorities 
-on the ground remained constant, for the same original founding families are in evidence from 
-501 
-the tenth to the middle of the thirteenth century, when the land grant is abruptly discontinued, 
-and the inscriptional record suddenly stops. 
-One of the most fascinating features of the Sudi corpus, perhaps not so surprising in 
-light of what we have already seen of the region’s topography and resources, is the consistent 
-reccurrence in its inscriptional record of artisans, especially goldsmiths and jewelers, many of 
-whom also seem to have been serving as mahājanas. Thus, for example, in 1075, a jeweler by 
-the name of Maddisĕṭṭi makes a series of donations to the Acalēśvara temple.518 Likewise, in 
-1103, a key resident of the town, Uttōja, chief goldsmith to Vikramāditya VI himself, makes 
-518C. R. Krishnamacharlu, et. al., ed., South Indian Inscriptions vol XI, pt. 1: Bombay-Karnatak Inscriptions, vol. 1, pt. 1 (Madras: Government Press, 1940), no 109, pg. 106. 
-Sudi’s spectacular stepwell. Note that there are three alcoves for installing deities. 
-502 
-an offering of gold to the god Kammaṭēśvara, the generic name for the kuladeva of the artisan 
-castes who work with precious metals, who typically assumes the form of Bhairava. Indeed, 
-the inscriptional record seems to suggest that during the late eleventh and early twelfth century 
-Sudi served as an important site for the minting of gold coins.519 In functional terms, it was a 
-central hub in the economic networks of circulation in the region. Should he be assigned by 
-his superiors in the wider ranging monastic network to provide oversight to such a community, 
-regardless of his personal interests and predilections, a particular Kālamukha preceptor of 
-necessity would have found himself operating not just as an initiatory guru to such 
-communities, providing them with soteriological benefits, but also as a caste guru intimately 
-involved in the business of his people. At Sudi, this would have likely entailed not only some 
-direct involvement in both the pedagogy and production process associated with the specific 
-artisanal crafts of the goldsmith and jewelers, especially in relation to objects produced for use 
-in a temple context, but also in regard to the transactional economic activities that defined a 
-community responsible for the production of legal tender as well as the determination of price 
-floors and ceilings and general liquidity. In other words, no matter how learned he might be 
-in śāstra or exalted in his attainments from the successful execution of Tantric sādhanās, the 
-professional life of a Kālamukha ācārya abounded in banal responsibilities largely conditioned 
-by the particular character of the places where he was posted and the sets of site-specific 
-obligations which he has inherited. 
-At the same time, Sudi also seems to have been an important esoteric center. In 
-particular, the temple now called Joḍukalaśa, on account of its strange double domed structure 
-connected by an internal maṇḍapa, which in the inscriptional record is repeatedly connected 
-519Krishnamacharlu, South Indian Inscriptions vol XI, pt. 1, no. 114, pg. 112. 
-503 
-both to the goldsmith and jeweler communities as well as the governing Kālamukha 
-authorities, seems to have played a key role in the esoteric ritual life of the region. 
-Sudi: Joḍukalaśa temple exterior. 
-504 
-Though much of the exterior relief work is heavily eroded, as in the images on the left, which 
-depicts Bhairava seated upon throne made from a serpent, or the one on the right, which seem 
-to represent an introspective ācārya in a moment of relaxation, one can still see traces of a 
-distinctively Śākta esoteric program. This impression is reinforced by the unique structure of 
-the temple’s two garbhagṛhas, each of which presents us with a triad of alcoves clearly 
-intended for housing an image for worship surrounding a central liṅga. Our exploration of 
-Kukkunur will offer us a tantalizing possibility for making sense of the triad. In particular, 
-505 
-above the two alcoves, in the second extra chamber of these alcoves, we find a beardless figure 
-in a strange, pointed hat that in later centuries, especially under the Seuṇa Yādavas and 
-Hoysalas, will come to represent the standard image of a Śākta adept who is not a bearded 
-ācārya. 
-Detail: Interior of garbhagṛha of Joḍukalaśa, one of three images of adepts. 
-Note the similarity of his hat to those associated with the Vajrayāna, especially in Tibet. 
-506 
-Before the text sadly breaks off, on the main śāsana in situ, the inscription at Joḍukalaśa 
-speaks of how the great yogin Kaḷēśvara of Kukkunur contributed to the renovation of this site. 
-Above the stela, we find what is likely a portrait of Kaḷēśvara himself, for it is striking in its 
-resemblance to a similar figure we find over the great inscription in the maṇḍapa at Kukkunur 
-from 1167 CE, whose striking similarities to Habbĕya Nāyaka’s text we have already explored 
-and to whose rich representations of the social place of Tantric knowledge we now turn. 
-Over the course of occupying a number of distinct offices, the siddha Kaḷēśvara 
-compiled an impressive and varied range of accomplishments. Indeed, at times our text seems 
-to alternate between the register we might anticipate from hagiography and something more 
-suited to a medieval CV. In particular, despite the fact that the subject under discussion will 
-also be represented as a highly charismatic living saint, our text is keenly committed to 
-repeatedly invoking the yogin’s pedigree and institutional affiliations. 
-507He [Kaḷēśvara] has obtained the office of sthānācārya of temple of the goddess Jyēṣṭhā, who is the best in the world. . . . He is also the ācārya to the nine maṭhas, which embrace the greatness that are the nine liṅgas, as well as overseeing the temples and maṭha of Śrīmūlasthāna, Siṅgēśvara, Rācēśvara, Cauṇḍēśvara, and Vikramēśvara of Arambaravi, in the beautiful capital city of the Sindha lineage. Kaḷēśvara, esteemed rājaguru and Saiddhāntikarāja, became famous on the basis of the reputation he acquired while holding the office of guru to mahāmaṇḍalēśvara Pērmmāḍi, a lord born in the Sindha lineage, and to the celebrated mahāmaṇḍaleśvara Cāvuṇḍa.520 
-520A Corpus of Inscriptions, 67: variṣṭhĕyara jyēṣṭhĕyara sthānācāryatvamuman alliya navaliṃga- mahīmāliṃgitam appa sōmeśvaradēvara navamaṭhācāryatvamumaṃ śrīmatsiṃdakuḷānvayarāja-rājadrājadhāni yaraṃbaraviya / śrīmūlasthāna-siṃgēśvara-rācēśvara-cauṃḍēśvara-vikramēśvara-dēvāyatana-maṭhācāryatva- mumaṃ taḷidu / sthira siṃdānvaya jāṭamaṃḍalikarŏḷ / śrīmanmahāmaṃḍalēśvara-pĕrmmāḍī narēśvaraṃg’ abhimataṃ śrīmanmahāmaṃḍalēśvara cāvuṃḍa narēśvaraṃgĕ gurugaḷu tāvāda pĕṃpiṃ kaḷēśvara- saiddhāṃtikarāja- rājagurugaḷu vikhyātiyaṃ tāḷdidar // 
-508 
-As you can see, the manner in which the text introduces the figure on which it will 
-focus is eerily reminiscent of the “few brief remarks” we proffer today when introducing an 
-esteemed senior scholar, right down to such details as the fact that the most recent institutional 
-affiliation, offices and accomplishments of the speaker are listed first. At the time when our 
-śāsana was composed, it seems that Kaḷēśvara had relatively recently assumed sacerdotal and 
-administrative authority over the Jyeṣṭhā temple, which seems to have been among the most 
-powerful and prestigious Śākta strongholds in the Deccan. Sometime before this took place, 
-he had already assumed control of both the Navaliṅgēśvara temple at Kukkunur as well as the 
-“nine maṭhas,” an institutional framework that surfaces repeatedly in the inscriptional record 
-throughout the region, the exact nature of which remains unclear. Since the business portion 
-of our inscription is focused on recording a visit to the Jyeṣṭhā temple by a daṇḍanāyaka 
-serving the Sindha line of kings, whose family we learn had long been reverent devotees of 
-this goddess, Kaḷēśvara’s office as rājaguru to the Sindha kings and responsibilities overseeing 
-ritual centers in their royal capital are emphasized at the expense of other responsibilities and 
-offices. A regional power whose capital city of Erambagive, modern day Yelaburga, lay a mere 
-fifteen kilometers from Kukkunur, in previous centuries the Sindha line had served as 
-important allies to the late Kalyāṇi Cāḷukyas. During the period we are discussing, they were 
-key allies of the upstart Kalachuris, and in subsequent centuries they would play strategically 
-vital roles for both the Hoysalas, and especially the Seuṇa Yādava kings, Once the text has 
-placed our Kālamukha ācārya institutionally, next we learn something of his education and its 
-associated pedigree. 
-Among the Kālamukha order of the Nakharēśvara temple at Sudi, by whom the āvaḷis are honored, the firm-minded, chief muni, Srī-Kaḷēśvara—the king of those engaged in vows—attained fame. Among the Kālamukhas, honored by the great Sindha lineage, the most excellent of ācāryas, Somēśvara, had a student Vigrahēśvarabudha the 
-509 
-learned. His student was Yogēśvara, the rājaguru, endowed with a multitude of merit. His chief student was Kaḷēśvara, the Saiddhāntika rājaguru, the sole refuge for wise men. 
-He has embraced a state of peace praised by the śivayogins. He has embraced the doctrine of the Śaivasiddhānta. He has embraced a pure heart of the sort praised by the sage folk, Noble Kaḷēśvara has embraced the role of guru of the world.521 
-As we can see, Kaḷēśvara’s preceptorial line descends from a lineage of Kālamukhas 
-“by whom the āvaḷis are honored,” a phrase we shall explicate momentarily, who were based 
-out of the town of Sudi. The institutional center for these yogins, much as it was for the gold 
-smith and jeweler artisan castes in that region, was Nakhareśvara, the temple that is today 
-called Joḍukalaśa. As opposed to offering a full genealogy of the ascetic line, the text presents 
-us with the names of three generations worth of gurus: Yogēśvara, Vigrahēśvara, and 
-Somēśvara. These are Kaḷēśvara’s dīkṣā, parama, and parameṣṭhi gurus. This is to say, it offers 
-just the sort of information one would need to perform any of a variety of forms of gurupūjā 
-in which these three figures are invoked ritually as synecdochally invoking an imagined 
-unbroken transmission comprised of both human and nonhuman teachers. As we can see, the 
-teachers under discussion are only superficially differentiated; Vigrahēśvara seems to have 
-been renowned for his learning, for instance, and Yogēśvara for the merit he presumably 
-acquired through performing austerities. It is difficult to tell whether such appellations are 
-purely tropical or if they are informed by actual knowledge about these particular people. Much 
-more evident is the fact that Kaḷēśvara’s office as rājaguru seems to be at least partially 
-inherited from his own guru, for Yogēśvara occupied the same post. As none of the preceding 
-521A Corpus of Inscriptions, 67: sthiramati sūṃdiya nagarēśvara-kāḷamukhānvavāyamānyāvaḷiyŏḷu dŏrĕvĕtta munīśvaravarŏḷ dŏrĕvĕttaṃ śrīkaḷēśvara bratīrājam / varasiṃdānvyamānyakāḷamukharŏḷu sōmēśvarācārya- varyyara śiṣyar mmunivigrahēśvara budharu tacchiṣyar udyadguṇā / kara yōgēśvara dēvarājagurugaḷu tacchiṣyamukhyar kkaḷēśvara saiddhāṃtikarāja rājagurugaḷu vidvajjanaikāśrayaru // śāntiyan appukĕydu śivayōgijanastutan āda śaivasiddhāṃtaman appukĕydu samunīṃdrajanastutanāda sātvika|svāṃtaman appukĕydu sujanastutanāda kaḷēśvarāryya saiddhāṃtikarāja rājaguru lōkagurutvaman ĕydĕ tāḷdidaṃ // 
-510 
-teachers occupied the office, and both the Sindha kings’ presence in the region as well as the 
-temple complexes themselves long predate the aforementioned line, the position does not seem 
-to be strictly speaking “hereditary.” 
-Kaḷēśvara’s accomplishments, which have earned him the title of guru of the world, on 
-the other hand, seem to represent a step up from those of his own teacher, for he is only the 
-rājaguru, but quite specifically is said to have played the separate roles of the scholastic (śikṣā) 
-and initiatory (dīkṣā) guru of the descendants of the royal Sindha line, while at the same time 
-operating as the chief ācārya responsible for ritual installations (akhilapratiṣṭhācārya) as well 
-as the teacher of the “Śivasiddhānta.” Indeed, as the concluding portion of our text, before the 
-imprecatory verses, will makes plain, by virtue of occupying so many different social roles, 
-Kaḷēśvara effectively was perceived as containing multitudes. 
-He is honored by all living beings as endowed with yama-niyama-svadhyāya- adhyāyana-dhāraṇā-mauna-anuṣṭhāna-japa-ṣaḍaṅgopahāra and so forth. 
-When it comes to the innumerable forms of logical reasoning, to grammar, to Purāṇa, to literature, drama, the one act play, to the Mahābhārata and to the Kāmasūtra, he is like another Brahmā. 
-He is the one by whom Parameśvara is ritually installed in the midst of the lotus of one’s own heart. 
-For both himself and for others, he is an overlord of mantras in so much as he washes away sin. They are all washing the feet of that best of ācāryas Kaḷēśvaradeva, the royal preceptor. They performed the required support for the daily and occasional worship of the goddess Jyeṣṭhā, Navaliṅgādhīśvara, and Someśvara, providing funding for the feeding of ascetics and for the repair of whatever is broken cracked and decayed that pertains to those temples.522 
-522A Corpus of Inscriptions, 69–70: yamaniyamasvadhyāyadyānadhāraṇāmaunānuṣṭhānajapa-ṣaḍaṃgōpahārādi- saṃpannar akhiḷaprāṇiprasaṃnar / anēkatarkkabyākaraṇapurāṇakābyanāṭakanāṭikābharatavātsyāyanādividyā- sārāsāravicāracārucaturānanar / madanamadajagapaṃcānanar / nijahṛdayakamaḷamadhyādhyāsitaparamēśvarar / svaparapāpaprakṣāḷanamaṃtrādhīśvarar / ĕnipa śrīmatsiddhāṃti rājaguru kaḷēśvaradēvācāryyavaryyara pādaprakṣāḷanaṃ gĕyd’ ā sĕlagarava jyēṣṭhādēviy ĕnipa jyēṣṭādēviya navaliṃgādhīśvara sōmēśvaradēvara nityanaimittikapūjĕgaṃ tapōdhanar āhāradānakkav ā dēvāyatanaṃgaḷa khaṃḍasphuṭitajīrṇnōddhārakkav ĕndu dhārāpūrbbakam āgĕ biṭṭar ā sthaḷada hŏlavērĕy ĕṃt’ ĕnĕ // 
-511 
-While introducing the dāna being offered by a regional nāyaka and his horse trader 
-uncle who is in charge of the accounts from Gujarat, the text here presents in sequence a ready 
-taxonomy of Kaḷēśvara’s credentials. First, Kaḷēśvara’s identity as Kālamukha is invoked 
-through the by now quite familiar stock catalog of yogic attainments and virtues that define the 
-office. In this case, the text has been interestingly emended to incorporate two distinctively 
-non- rhetorical Śaiva practices of great antiquity, namely, the upsaṃhāra of the Pāśupatas 
-where worship is accompanied by song, dance, non-semantic verbal ejaculations, and 
-instrumental music, and the distinctively Śaiva practice of ṣaḍaṅga yoga, already known to the 
-Nepalese Skanda Purāṇa. In the next verse, in contrast, effectively credentialing him in the role 
-of śikṣā guru, Kaḷēśvara is defined in terms of his scholastic accomplishments regarding 
-“secular” mainstream śāstric subjects of the sort that would prove pertinent to the education of 
-a prince. In the third verse, in contrast, we encounter Kaḷēśvara in his role as the dīkṣā guru, 
-installing the supreme lord in the heart of his devotees. Finally, in performing pūjā not only 
-for himself but on behalf of others (parārthapūjā) and purifying his devotees of the stains 
-accrued through both ritual and worldly transgressions, Kaḷēśvara acts as rājaguru, at once 
-overlord of mantras and master of council (mantrādhīśvara). In other words, insomuch as he 
-is acting in a specific socially prescribed role, Kaḷēśvaradeva is presented as perfectly 
-instantiating the key dimensions of that role and nothing else. All of this stands in 
-contradistinction to our usual presuppositions, namely, that evocations of the charismatic and 
-magical abilities on the part of a certain special individual served the common-sense real-world 
-function of conferring greater authority and thereby “legitimating” religious actors. As we shall 
-see, among his own close circle of devotees, Kaḷēśvara is prized as an omniscient being with 
-such enormous yogic attainments that he is capable of making reality itself bend to his will and 
-512 
-his whim. And yet, strangely enough, not a hint of these extraordinary capacities makes it onto 
-his CV. Were we so inclined, we could now attend to a multitude of inscriptional sources from 
-throughout the Deccan, and also from Orissa, that are concerned with rendering the 
-professional lives of Kālamukha preceptors in just this register. While all of these texts would 
-benefit from this sort of close reading, the conventions of the genre render them less than ideal 
-for furthering a more particularized understanding of the place that Kālamukhas occupied in 
-the religious imaginaries of the medieval world. What renders the Kukkunur inscription such 
-an invaluable source for our understanding is that, rather unusually, in this text, the expressive 
-professional register we have already been exploring operates in dynamic tension with a 
-decidedly different way of talking about religion among the Kālamukhas, one that offers the 
-promise of effectively overturning the nascent consensuses emerging in our scholarly 
-literature. 
-In emphatically labelling our Kālamukha preceptor as Śivasiddhāntā- 
-cārya, Saiddhāntika rājaguru and Saiddhāntikarāja our text would seem to be offering an 
-almost painfully transparent account of Kaḷēśvara’s theological predilections. A person 
-cursorily reading this text would be forgiven from concluding that, despite presiding over a 
-goddess temple housing some deities with peculiar names, our Kālamukhācārya was a staunch 
-adherent to the doctrinal system of the Śaiva Siddhānta. Often perceived to represent the 
-ideological center at the heart of the Śaiva Age (Sanderson 2009), by the twelfth century, the 
-Śaiva Siddhānta had evolved into a dualistic system, largely conforming to Brāhmaṇical social 
-norms, which proclaimed the existence of an ontological difference between the embodied 
-human soul and the supreme lord. From this perspective, god, in the form Sadāśiva, operates 
-513 
-in a pure realm estranged from materiality and involves himself in the functions of our sad 
-fallen world only through intermediary powers. In our historiography, despite some evidence 
-in the ritual literature itself for the cross-pollination of mantras and practices across 
-communities, such religious formations are viewed as inviolable doctrinal unities that are both 
-socially and doctrinally hostile to their proximate rivals. Reading further, however, the 
-evidence on hand calls into question all such presuppositions: 
-Speaking of the comprehensiveness of his knowledge, there is no other siddhānta he does not know completely. There are no mantras he does not know in full. No Āgama remains unknown to him. Kaḷēśvara, it must be said, is veritable mine of esoteric wisdom. 
-Kaḷēśvara, the disciple of the wise, extracted (uddharisi) his definitive doctrine (siddhānta) from the Transmission of the Siddhas (Siddhāvaḷi), the Śākta Transmission (Dēvyāvaḷi), the Siddhānta Transmission (Sōmasiddhāntāvaḷi),523 and the Śaiva Transmission (Śivāgamāvaḷi): there took place the abhiṣeka [of disciples] in that very place.524 
-In violation of our assumptions about the nature of Kālamukha religious culture, which 
-has until now, apart from contestations over the significance of the practice of bearing a skull 
-ubiquitously associated with the community, been mostly shrouded in mystery, our text has 
-unambiguously just shown us that Kaḷēśvara was actively engaged in the study and practice of 
-the Śākta Tantras. He was not merely a grudging participant in such streams of esoteric 
-knowledge in the service of professionalization, desperately struggling to keep up with the 
-trends of the time. Rather, the evidence at hands demands that we envision him as a veritable 
-Abhinavagupta of the Deccan, immersing himself in the study of the entire spectrum of esoteric 
-knowledge, from the classical Śaiva Siddhānta, to the newer revelations of the Kaula Siddha 
-523Many thanks to Somadeva Vasudeva for suggesting to me that this was the intended referent. 524A Corpus of Inscriptions, 67: aṟiyada siddhāṃtaṃ nĕṟĕy’ aṟiyada maṃtraṃgaḷ aṟiyad’āgama vĕḷĕyŏḷu | pĕṟav’ ill’ĕnĕ nĕṟĕd’ aṟivinŏḷ aṟivina kaṇiy’ĕnisidaṃ kaḷēśvaradēvaṃ // siddhāvaḷi dēvyāvaḷi siddhāṃtāvaḷi / śivāgamāvaḷi nĕṟĕd’ ī siddhāṃti kaḷēśvara budhan uddharisi jalakkan’ ādan’ urbbītaḷadŏḷu // 
-514 
-lineages, the Śākta Tantras, and even the texts of the Kāpālikas, with the aim of crafting his 
-own conclusive doctrinal position. In other words, Kaḷēśvara is called the Śaivasiddhāntikarāja 
-not because he follows Sadyojyotis, Bhaṭṭa Rāmakaṇṭha II, and the rest, but because he 
-audaciously aspires to have his doctrine become the siddhānta, or settled position, that 
-comprises Śaiva knowledge. If this ambition is itself something new, Kaḷēśvara’s allegiance 
-to such systematicities seems to have been inherited through his lineage, which defined itself 
-at the inception as “the Kālamukha order of the Nakharēśvara temple at Sudi, by whom the 
-āvaḷis are honored.” As our passages makes plain, the āvaḷis in question are none other than 
-Siddhāvaḷi, Devyāvaḷi, Siddhāntāvaḷi, and Śaivāgamāvaḷi. In other words, the Kālamukhas at 
-Sudi proudly proclaim that they practiced, preached, and transmitted the Tantric canon in all 
-of its many forms. Sudi in turn, especially the eccentric second chamber at the Joḍukalaśa 
-temple, seems to have served as a venue for initiating their adepts. Such evidence, quite simply, 
-has major consequences for the existing historiography on religion in the medieval Deccan. 
-In his seminal work The Kāpālikas and Kālāmukhas: Two Lost Śaivite Sects, which to 
-this day remains the only book that most scholars of Indian religions both in India and the West 
-consult on the subject, David Lorenzen introduces his focus of study by observing quite 
-candidly: Judging from the large number of epigraphs recording donations to Kālāmukha temples and maṭhas, these ascetics must have wielded considerable influence in the region. Unfortunately, few indications of their beliefs and ritual survive apart from the information which can be gleaned from these epigraphs. They reveal the existence of at least two major divisions of the Kālāmukha order—the Śaktipariṣad and the Siṃha- pariṣad.525 
-525David Lorenzen, The Kāpālikas and Kālāmukhas: Two Lost Śaivite Sects (Delhi: Motilal Banarsidass, 1972), 98. 
-515 
-There is much to commend about this pioneering work, which offers to date the only 
-substantive survey of a portion of the relevant epigraphical archives offered from the 
-perspective of a scholar of religion as well as some masterful mapping of specific preceptorial 
-lineages across regional boundaries. Quite apart from only having access to a small fraction of 
-the relevant materials, for in fact Lorenzen at every turn understates the ubiquity of Kālamukha 
-aligned institutions across the entire Deccan especially between the tenth and 
-thirteenth centuries, Lorenzen labors under some presuppositions that do not serve his analysis. 
-Like many authors, despite the fact that only an infinitesimal percentage of the corpus contains 
-any specifications of varṇa, by simple virtue of the fact that they are holding sacerdotal office, 
-he simply assumes that all the Kālamukha preceptors under discussion must be Brāhmaṇas. 
-However, practically our only specific delineations of the caste identity of Kālamukha gurus 
-are found in inscriptions associated with the earlier records of the Siṃhapariṣad. These are 
-mostly located in Telangana and Andhra Pradesh on the edges of the Kalyāṇi Cāḷukya world. 
-In other institutional contexts, in contrast, either the evidence mitigates against such 
-conclusions or it is simply absent. Furthermore, the unstudied material culture related to these 
-communities, as we shall see in the next chapter, effectively speaks for itself in outing the 
-Tantric commitments of at least the Śaktipariṣad. 
-Such presuppositions lead Lorenzen to challenge as distortive polemic what is surely 
-the most famous, and perhaps most accurate, synopsis of Kālamukha social practices in 
-Sanskrit discourse. This brief but important passage derives from the Śrīvaiṣṇava ācārya 
-Rāmānuja’s discussion of the order in his Śrībhāṣya, which offers a commentary on the 
-Brahmasūtrabhāṣya of Bādarāyaṇa from an explicitly Śrīvaiṣṇava perspective. 
-It is stated that this doctrine of Paśupati must be abjured, because it is in opposition to the Veda and it is absurd. The four divisions who follow that doctrine are said to be as 
-516 
-follows: the Kāpālikas, the Kālāmukhas, the Pāśupatas, and the Śaivas. They all follow the tattvaprakriyā, which is opposed to the Veda, and they imagine artificial processes for obtaining the highest good that do not actually result in beatitude. They assert there is a difference between the material and instrumental cause and that Paśupati is the instrumental cause. Likewise, [they assert] that the means to the highest good is the bearing of mudrās and a banner.526 
-In his critique of Lorenzen, to which we will turn momentarily, Alexis Sanderson 
-translates the next portion of Rāmānuja’s doxographical portrait in the following manner: 
-The Kālāmukhas too are outside the Veda; [for] they claim to be able to obtain miraculously all that they desire whether visible or invisible simply by eating from a bowl fashioned from a human skull, bathing in the ashes of the dead, eating them [mixed with their food ?], carrying a club, installing a pot containing alcoholic liquor527 and worshipping their deity in it, practices which all the Śāstras condemn.528 
-Missing from serious consideration in both Sanderson’s and Lorenzen’s analysis is any 
-discussion of the lines that immediately follow this discussion, which offer considerable insight 
-into the sort of social values Rāmānuja identified with the Kālāmukhas. Just as he had done 
-earlier for the Kāpālikas, effectively outlining a ritual praxis similar to what we find advocated 
-in the Picumata Brahmayāmala, Rāmānuja begins by quoting a snippet of a lost Kālamukha 
-scripture: A bracelet of rudrākṣa beads in the hand, and one single matted lock on the head, a skull and the bath with ashes”: these and so forth are all well known in the Śaiva scriptures. And they say that, by means of a particular ritual, just about anyone, even if they originate from a different caste, obtains Brāhmaṇa-hood and they say that they obtain the highest āśrama, as per the quotation “In an instant, merely through the entrance that is dīkṣā, he becomes a Brāhmaṇa. From assuming the skull vow, a man becomes an ascetic.529 
-526Rāmānuja, Śrībhāṣya 2.2.35: idānīṃ paśupatimatasya vedavirodhād asāmañjasyāc ca anādaraṇīyato’cyate / tanmatānusāriṇāś caturvidhāḥ, kāpālāḥ kālāmukhāḥ pāśupātāḥ śaiveti / sarve caite vedavirūddhāṃ tattvaprakriyām aihikāmuṣmikaśreyaḥsādhanakalpanāṃ ca kalpayanti / nimittopādānayor bhedaṃ nimittakāraṇam ca paśupatimācakṣate/ tathā niḥśreyasasādhanam api mudrikāpaṭakadhāraṇādikam / 527We will encounter Kālamukhas making use of scriptures that prescribe just this practice in the chapter 6. 528Alexis Sanderson, “The Lākulas: New Evidence of a System Intermediate between Pāñcārthika Pāśupatism and Āgamic Śaivism,” The Indian Philosophical Annual 24 (2006): 183. Rāmānuja, Śrībhāṣya 2.2.35: tathā kālāmukhā api kapālapātrabhojanaśavabhasmasnānatatprakāśanalaguḍadhāraṇasurākumbha sthāpana- tadādhāradevapūjādikam aihikāmuṣmikasaphalaphalasādhanam abhidadhati / 529Rāmānuja, Śrībhāṣya 2.2.35: rudrākṣakaṅkaṇaṃ haste jaṭā caikā ca mastake/kapālaṃ bhasmanā snānam. . . . ityādi ca prasiddhaṃ śaivāgameṣu / tathā kenacit kriyāviśeśaṇa vijātīyānām api brāhmaṇyaprāptim 
-517Despite his disgust with their content, Rāmānuja, who apparently had access to 
-doctrinal sources not accessible to us, has clearly done his homework. Thus, we are offered 
-such the overlooked details as the fact that he defines these communities as following 
-tattvaprakriyā, which is to say a system of ritual practice centered around different approaches 
-to visualizing the ascent of the soul through a hierarchy of worlds (tattva) entirely unknown to 
-the Brāhmaṇical sources. Even more obscurely, in speaking not only of the mudrās but of 
-banners (paṭaka) borne by such Śaiva ascetics, our author seems to show some awareness of 
-sub-category of ascetic called the dhvajin, whose existence in this period has only come to 
-light recently through Vasundhara Filliozat’s discovery of the Pampāmāhātmya.530 
-More generally speaking, Rāmānuja’s understanding of Kālamukha sociality is that it 
-is founded on the theological presupposition that dīkṣā liberates one not only from ontological 
-bondage but from the strictures that inform the caste of one’s birth. From what we can see, 
-such initiation takes two forms, a general commitment that transmutes one into a Brāhmaṇa, 
-and the assumption of the vow of the skull carrier, which places one either outside the āśrama 
-system or causes one to become an atyāśrama ascetic in the proper Pāśupata sense of the turn. 
-Essentially, what Rāmānuja describes is a social vision consonant with the one we explored in 
-the preceding chapter as propounded in the Śivadharma and its commentary. Perhaps we 
-should not be so surprised. This is, after all, the opening message communicated by the oldest 
-surviving Śaiva scripture, the Niśvāsatattvasaṃhitā, a product of a discursive world that 
-predates the codification of the Śaiva Siddhānta as a discrete school of thought, which in its 
-uttamāśramaprāptiṃ cāhuḥ / ‘dīkṣāpraveśamātreṇa brāhmaṇo bhavati kṣaṇāt / kāpālaṃ vratamāsthāya yatir bhavati mānvaḥ’/ 530Vasundhara Filliozat, Kālāmukha and Pāśupata Temples in Dharwar (Chennai: Kuppuswami Sastri Research Institute, 2001). 
-518 
-opening chapter offers precisely the teaching that dīkṣā liberates anyone, even an antyajāti 
-And indeed, in the writings of the Deccan, such anxieties that link the institutionalized social 
-realities of Śaiva ascetics engaged in Tantric practices and their lay communities are in 
-evidence as late as the writings of Rāghavāṅka, (fourteenth century), whose rendering of the 
-āśrama in which Durvāsas and his Dalit caste daughters dwell, a clear roman de clef for a 
-Kālamukha compound, plays such an important role in the Hariścandramahākāvya. In short, 
-there was nothing secret at all about the—depending on your perspective—socially liberative 
-or obscenely transgressive divergent social norms that abounded in the medieval Deccan even 
-if your place of origin was somewhere else. 
-If the social reality we are gradually reconstructing is a good fit with our documentary 
-evidence, nevertheless, it poses serious problems for even the most learned scholarly 
-treatments of the nature of the Kālamukha traditions founded on a painstaking and ingenious 
-reading of a deeply fragmentary textual record. In his magisterial mini-monograph, “The 
-Lākulas: New Evidence of a System Intermediate between Pāñcārthika Pāśupatism and 
-Āgamic Śaivism,” drawing upon a host of unpublished manuscript sources that offer scriptural 
-doxographies of different sub-communities of Śaivas, Alexis Sanderson conclusively argues 
-that the earliest strata of his sources differentiates between what he labels “the path of 
-mantras,” which effectively amounts to what is commonly labelled Tantra, and the 
-Mantramārga’s formative antecedents among the Atimārga, namely, the Pāśupatas and 
-Lākulas.531 He then masterfully proceeds to offer us the surviving accounts of Lākula or 
-Lokātīta practices on the basis of which, drawing solely on Lorenzen, he confirms that these 
-communities can be identified with the mostly mysterious Kālamukhas of the Deccan. 
-531In subsequent lectures and publications, Sanderson has emended this taxonomy to include a tradition of pre-Tantric Kāpālikas among the Atimārgic traditions. 
-519 
-Sanderson identifies two sources that make sense of the vow enacted by an ascetic, one 
-drawn from the Niśvāsamukha’s taxonomy of types of Śaivas, and the other from the nominally 
-Saiddhāntika Mataṅgapārameśvara. The first of these runs as follows: 
-I have taught [you] the Atyāśramavrata. Hear now the Lokātīta. Touched with the five Brahmamantras and initiated, he should wander. He should carry a skull-topped staff (khaṭvāṅgaḥ) and [an alms-bowl fashioned from] a human cranium (kapālam). He should have matted locks (sajaṭaḥ) or shave his head bald (muṇḍaḥ). He should wear a sacred thread (yajñopavītam) made from the hair [of the dead] and he should adorn himself with a chaplet fashioned from human skullbones. He may wear nothing but a strip of cloth to cover his private parts. He must smear himself with ashes and decorate himself with celestial ornaments. 
-Seeing all things as Rudra in essence he should hold firmly to his observance as Rudra’ s devotee. He may eat and drink anything. No action is forbidden to him. He should remain immersed in contemplation of Rudra, thinking “None but Rudra can save me. He is the deity supreme.” Provided that he has first understood the [Lākula] cosmic hierarchy of eleven [levels] he should practice this observance, remaining free of all inhibition (nirviśaṅkaḥ).532 
-Here, again in Sanderson’s translation, are some essential portions drawn from the 
-ninth paṭala of the Mataṅgapārameśvara: 
-Now, O best of sages, I shall describe in brief the holy observance of Rudra (rudravratam), as a result of which the wandering adept, whose ascetic practice is openly displayed (vyaktatapasaḥ) [at this stage], wins without doubt full control of the world moving and immobile, and by following the prescriptions of the Section of Observance (caryāpādaḥ), experiences manifestation of that eternal liberation which, O brahmin, has come down through the tradition of the Śivaśāstras. 
-When a man has turned away in this manner from impure desire and loathing wisdom suddenly arises [in him] roused by the will of God. He will then become a fervent initiate devoted to the propitiation of Rudra (rudrārādhanatatparaḥ). With the permission of his Guru he should take a trident and do Japa in silence and tranquility of mind, seated on ashes, detached from possessions, eating what he may obtain as alms. He should go at night to a Liṅga which is the only one within a radius of five leagues (ekaliṅgam), or to a cremation ground (śmaśānam), or to the foot of a tree, and there he should commence the practice of his observance with his awareness inwardly focused, in a state of undistracted concentration, wearing a single garment or none, free of anger and unaccompanied by an assistant (asahāyavān). The wise [initiate], should repeatedly (satatam) purify the site by examining it carefully [to remove any insects 
-532Sanderson, “The Lākulas,” 165. 
-520 
-and the like that he might harm]. He should then lay down a covering of ash [on the ground] and then seat himself gently upon it. 
-He should contrive to rouse the hatred of the world [against himself] by feigning [misconduct, disabilities and the like] (aparamārthataḥ). As he does so he should meditate on [Rudra] with a heart free of taint and complete awareness, visualizing him as a radiant figure the size of one’ s thumb, shining liking a ball of lightning in the calix of the lotus of his heart, with each of the parts of his body clearly distinct, five-faced, three-eyed, his crest adorned with the sickle moon. When he has visualized [him in this way] he should immerse himself in him entirely, [thinking] ‘Without a doubt this is who I am’ . Meditating [thus] he should wander day and night, ever mindful of the Vyomavyāpi mantra with its auxiliaries and Brahmas, eating little and full of resolution, indifferent to [extremes such as] heat and cold, ever benevolent and compassionate, contemplating, O best of sages, that the universe rests on his identity or that his identity pervades this universe, conquering his mind through yoga Nourished by the radiant power of his observance (caryātejopabṛmhitaḥ) the adept experiences the height of joy even as others verbally abuse or strike him. He should look on the whole world as his kin, thinking that nobody is either better or worse than himself. By manifesting this behaviour he experiences an inner joy.533 
-In his analysis Sanderson is primarily concerned with documenting the many 
-continuities between this mode of religiosity and the more familiar Atimārga practices of the 
-Pāñcārthika Pāśupatas, such as the Lākulas “contriving to rouse the hatred of the world” by 
-feigning misconduct in the manner of the third stage of Pāśupata practice about which so much 
-has been written. He is also intent on connecting Lākula ritual practices to the elaborate 
-taxonomies of distinctive Śaiva cosmologies recoverable, if often in residual forms, from a 
-close reading of Tantric chapters of the ontological hierarchies that make up the many subtle 
-worlds that overlap with our own. Indeed, it is on this basis that he is able to confirm that one 
-of what Lorenzen has identified as among our earliest explicitly Kālamukha inscriptions 
-contains a veiled reference to the scriptural canon and taxonomies that the Śaiva Āgamas treat 
-as the defining resources for the Lākula tradition. And it is on this basis that Sanderson suggests 
-that, though he seems not fully aware of the extent of this phenomenon, the predominant 
-533Sanderson, “The Lākulas,” 205–206. 
-521 
-religious community in medieval Deccan were Atimārga adepts adhering to a lost canon of 
-scriptures, whose core theology involved a gnostic style ascent into the higher realms as well 
-as a radical renunciation of all forms of action as the culminating phase of spiritual practice. 
-In light of our own explorations thus far, however, what should be equally evident is 
-how frequently the two specialized vows associated with ascetics who have taken up the skull, 
-about which Sanderson has written with such insight and eloquence, also make reference to an 
-assumed body of devotional values and social comportments shared by all rudrabhaktas that 
-have their point of origin in “Śivaśāstras”: in other words, in the Śivadharma and its successors. 
-As Rāmānuja tells us, Kālamukha culture seems to have been comprised of at least two 
-components. First, there is ritual inclusion in the community as a non-ascetic, an act which 
-entails the transmutation of the original caste of the initiate into that of a Brāhmaṇa. 
-Secondarily, as we have seen, one can become a yati through assuming a skull vow, which 
-seemingly must have entailed the types of practices about which Sanderson has written with 
-such clarity. 
-As straightforward a formulation as this might seems to us, however, it poses seriously 
-complications for the criteria that scholarship has used for identifying the features that 
-differentiate the Atimārga from Mantramārga traditions. In what is probably the most recent 
-distillation of cutting-edge scholarship on the subject, for example, in an essay contained in 
-the Continuum Companion to Hindu Studies, Dominic Goodall and Harunaga Isaacson have 
-argued: We have spoken of ‘continuity’, but what characterizes the shift from Atimārga to Mantramārga? How does the latter set itself apart? The new Tantric religion for the first time placed strong (perhaps equal) emphasis on two goals: liberation (mukti) and the enjoyment of supernatural powers (bhukti). Both goals were attained through the power of spells (vidyā, mantra), the propitiation and use of which required a ritual 
-522 
-technology of considerable complexity and both required initiation (dīkṣā). Now there may seem to be nothing very new here: initiation is required for the Atimārga too. . . . But these elements have been reconfigured and, in some cases, reinterpreted: the spells of the Mantramārga are with five exceptions (the five brahmamantras) not Vedic, and initiation (dīkṣā) is no longer simple a necessary rite of entrance into a new religion, as it has been for at least the Pāñcārthika Pāśupatas, but has become instead a transformative rite. Liberation is no longer brought about, as in the Atimārga, through a lengthy progression of post-initiatory practice, but is conceived of as being essentially the result of cutting the bonds by Śiva, acting through the guru and with mantras as his instruments, at the time of initiation. Furthermore, this liberation, conceived of both as release from suffering and at the same time as the realization of omniscience and omnipotence, was offered not only to brahmin males, as in the Atimārga, but to those of all varṇas and, in some cases, both sexes.534 
-Quite simply, the evidence at hand calls into question of the distinctiveness of nearly 
-every feature that Goodall and Isaacson have invoked as distinguishing the Atimārga. Working 
-in reverse order, as we have seen, Kālamukuha communities are identified with the initiation 
-of all varṇas and castes, a process that transmutes the adept into a Brāhmaṇa. In this sense, at 
-least, for them also, dīkṣā was understood as a transformative rite and not merely a rite of 
-passage. Quite apart from the brahmamantras, our Kālamukhas make open use of non-Vedic 
-mantras, especially the vyomavyāpin system, which the Siddhānta appropriates. Finally, as we 
-will soon explore, as part of their professional duties, Kālamukhācāryas were intimately 
-involved in magical practices both on their own behalf and in the service of various regional 
-powers. In fact, practically the only detail left standing is the supposedly “gradualist” nature 
-of Atimārga soteriology, as we have little evidence relating to such matters preserved in our 
-sources. This is not to say the historical development of traditions that Goodall, Isaacson, and 
-Sanderson have proposed is necessarily incorrect. Indeed, as Sanderson has noticed, some of 
-534Dominic Goodall and Harunaga Isaacson, “Tantric Traditions,” In Continuum Companion to Hindu Studies, ed. Jessica Fraizer (New York: Bloomsbury, 2011), 124–125. 
-523 
-the earliest strata of our inscriptional record concerning the Kālamukhas seemingly refer 
-directly to the lost canon of Pramāṇaśāstras that served as foundational Lākula scriptures. It 
-may well be the case that, in the mid-eighth century or earlier, the tradition was aligned with 
-distinctively Lākula doctrinal formulations, exclusively initiated Brāhmaṇas, primarily made 
-use of Vedic mantras, and was solely oriented towards soteriology. But traditions and their 
-institutions do not merely fossilize at their point of origin, and by at least the middle of the 
-tenth century, there are reasons to believe that, especially in greater Karnataka, the people 
-calling themselves Kālamukhas are committed to very different values and practices. Indeed, 
-by the eleventh century, there are strong indications that Kālamukha maṭhas throughout the 
-Deccan have become the primary sites for the practice of Tantric Śākta rituals and the 
-circulation of these scriptures. While the archive associated with Kukkunur transparently 
-communicates this state of affairs, in broader terms, the material cultural record requests that 
-such a reorientation was not only confined to the Kālamukhas based out of Sudi, but was also 
-at work within the Śaktipariṣad in general, to say nothing of the myriad of other localized 
-Kālamukha lineages attested to in our inscriptional record that our scholarship has scarcely 
-noticed. Quite apart from its thick description of the Tantric pantheons that called the place 
-home, what is particularly striking about the archive at Kukkunur is that it paints a vivid portrait 
-of the interplay between the quest for worldly power or supernatural attainments and more 
-soteriological aims. In hinting at how a single institution—indeed, a single person—adapted 
-itself to accommodate both these aspects of human longing for measure of transcendence, it 
-perhaps offers us glimpses of the process whereby the Lākula tradition merged into the streams 
-of the Tantras. 
-524 
-As we have seen, the crowning achievement of Kaḷēśvara’s professional career was not 
-when he assumed the office of rājaguru, but rather his appointment as the ruling authority at 
-the temple of Jyeṣṭhā at the heart of Kukkunur, a responsibility that had been preceded by his 
-assuming control over the Navaliṅgēśvara temple. As our inscription and material record 
-makes clear, both of these institutions have their own deep history only tangentially associated 
-with the specific line of Kālamukhas of Sudi, or from anywhere. As our text has already told 
-us, “the Kuntaladēśa alone, in which Kāḷikā, Jyēṣṭhĕ, and Kapāḷīśa have taken up residence, is 
-the best [place] among all the other countries. And, it is because of their [i.e., Kāḷikā, Jyēṣṭhĕ 
-and Kapāḷīśa] greatness that there is a foundation for the accumulation of merit in that place.” 
-In short, whatever merit human beings acquired from being in that place, or so the śāsana says, 
-resulted not from individual efforts but as consequence of being immersed in an environment 
-saturated in decidedly Śākta form of divine grace, mediated through pantheons derived from 
-the Picumata Brahmayāmala, in the case of Kapāḷīśa Bhairava, and through the Kālī Krama, 
-in the case of Kāḷikā. As the following passage makes clear, these two systems are mere 
-complements, however, to the central focus of worship at Kukkunur, who is Jyeṣṭhā, the 
-“eldest” goddess: 
-There are nine śivaliṅgas. Through his sovereign power, they are self-arising. There are nine śaktipīṭhas, which are to be praised by the world. On account of the “great” utsāvas the throngs of self-arising yoginīs, of which the eldest [authority] is the goddess Siddhayōgēśvara, never depart from this place, because this is said to be the field where there is the sexual union (sampuṭa) that is the dynamic pulsation (sphurattā) of Śiva and Śakti. Who can [possibly] describe Kukkanūru?535 
-At least for Śākta initiates into its esoteric traditions, Kukkunur it seems was perceived 
-as another Karavīra; incredibly sacred ground that bore continued witness to the yāmala of 
-535A Corpus of Inscriptions, 65: śivaliṃgaṃgaḷu svayaṃbhūprabhutĕyin ĕsĕv’ ŏṃbatt’ ĕnal śaktipīṭhaṃ bhuvanastutyaṃgaḷ ŏṃbatt’ ĕnal idu śivaśaktisphuratsaṃpuṭakṣētrav’ ĕnuttaṃ siddhayōgēśvaravara- sahajāyōginīvrātav’ atyutsavadiṃd’ alliṃdav’ ĕṃduṃ tŏlagar ĕnal ad’ ār baṇṇisar kukkanūraṃ // 
-525 
-Śiva and Śakti in a manner that made it an appropriate venue for the performance of Tantric 
-vīranāthas holding melanas where they consorted with yoginīs. Our text is unmistakably 
-inflected with the terms of art, such as sphurattā, specific to the tradition of the Trika, the ritual 
-foundation of what is commonly called Kashmir Śaivism. Moreover, and just to make certain 
-that connection is not overlooked, the eldest goddess is explicitly identified with the goddess 
-Siddhayogeśvara,536 from whom the oldest Trika scripture, the Siddhayogeśvarīmata, derives 
-its name. In other words, not only is Kaḷēśvara’s approach to the study and use of scripture 
-eerily reminiscent of the textual practices of Abhinagupta, but the context in which he is 
-operating is explicitly a Trika institution. Further confirming this identification, in a decidedly 
-more mainstream poetic idiom, in the long hymn of praise to the goddess preserved on the 
-same stela, which we will examine shortly, Jyeṣṭhā is repeatedly identified with the power of 
-language operating immanent throughout all living beings, a core theological tenet of the Trika 
-and its śāstra. 
-Diverging from the more pristine canons of the more familiar Śākta Tantras, both 
-within her own temple and in relation to the wider sacred geography at Kukkunur, 
-Siddhayogeśvara is presented as presiding over a series of what may well once have been 
-discrete networks of “local deities” as well as esoteric deities. Each of these networks carried 
-with it its own discrete systems of meaning as well as ritual responsibilities. In gaining 
-oversight over such a place, like any governing authority, a Kālamukha like Kaḷēśvara would 
-have found himself inheriting the responsibility and oversight to ensure that the traditional way 
-of doing things (pūrvamaryādā) and comporting oneself at each of these places was protected 
-536Notwithstanding the somewhat odd use of the masculine a stem in place of the expected Siddhayogeśvarī, this is perhaps the oldest name assigned to the goddess Parā. Such usages, as Dyczkowski has demonstrated, often directed towards specific theological ends, however, are not unknown for example in the Tantras dedicated to Kubjikā composed around this period. 
-526 
-and its internal integrity preserved. That is to say, regardless of personal commitments, much 
-like the British in Colonial India, a Kālamukha would have offered tacit de facto sanction for 
-a myriad of conflicting life-worlds. 
-The mother of the well-known primordial pīṭha (ādiya pīṭhad’), the ancient goddess, Cāmuṇḍidevi, Mahāmāya, the goddess of the tank, Vasantā, Kālyamba, Śāntikāri, and glimmering Śrīguptacāmuṇḍi; because of the accrual of merit [from] those Goddesses living [there,] Kukkanūr is pure/sacred. 
-On account of the arising of glory, among all those goddesses, who is the supreme goddess? Jyēṣṭhādevī! Because of her superior nature, she is known of as the senior- most goddess. She took up residency in that agrahāra. 
-In the east [of her temple] is Brahmēśvara, whose greatness is praised. Excellent Gaṇēśvara is placed in the south. Mūlēśvara in the west. In the north, is famous Mallikārjuna. When they are joined to the self-arisen nature, in the middle of them all, Śrījyēṣṭhĕ took up residence with great grace. 
-Since a liṅga became manifest in Somēśvara’s abode with the singular form of the terrible goddesses, like Bhadrakālī, and gods, such as Praḷayāntaka who were in the shining [sphurad-udyan] and rising maṇḍala of nine naves [navanābhamaṇḍala], [everyone] serves the navamaṭha. Therefore, in that place, Śrījyēṣṭhĕ, together with Praḷayāṃbĕ and Bhairava, shines forth. 
-When Kapāḷīśa and Mahāpraḷayāṃbĕ were established on their own excellent pīṭhas, to the left of Jyēṣṭhā, the goddess Kāḷikĕ took up residency. . . to grant (īyal) the wish[es] of her devotee[s].537 
-If we set aside the distinct but unverifiable possibility that she is called “eldest” because 
-she was installed first, a common feature of sacred geography in the Deccan even today, in 
-becoming “Jyeṣṭhā,” the eldest, the goddess of the Trika is given sovereignty over the other 
-537A Corpus of Inscriptions, 65: samasaṃd’ ādiya pīṭhad’ aṃbikĕ purāṇīdēvi cāmuṃḍidēvi mahāmāyĕ taḍāgad’ aṃbikĕ vasaṃtādēvi kāḷyaṃbĕ viśvamahīvaṃditĕ śāṃtikāri viḷasat śrīguptacāmuṃḍiy ĕṃba mahādēviyar irppa saipin’ ŏdaviṃdaṃ kukkanūr ppāvanaṃ // ā dēviyarkkaḷŏḷu mahimōdayadiṃ piriyaḷ ārgav’ ĕnip’ ŏḷpiṃ jyēṣṭhādēviy’ĕnisutuṃ jyēṣṭhādēvi tadagrahāradŏḷu nĕlĕgŏṃḍaḷu // aḍakaṃgŏṃḍirĕ mūḍal udghamahimaṃ brahmēśvaraṃ tĕṃkalŏḷ piḍid’ ŏppirppa gaṇēśvaraṃ paḍuval ā mūlēśvaraṃ sārkkĕyiṃ [|] baḍagalu bhūnuta mallikārjjunan ivaru śrīmatsvayaṃbhūtvamaṃ gĕḍĕgŏṃḍŏṃdirĕ madhyadŏḷu nĕlasidaḷu śrījyēṣṭhĕ sallīlĕyiṃ // sphurad-udyan-nava-nābhamaṃḍaḷadŏḷ irpp’ ā bhadrakāḷyādibhāsuradēvī-praḷayāntakādyamarar ēkākāradiṃ liṃgam āgirĕ / sōmēśvaravāsadŏḷ navamaṭhaṃ saṃsēvyam ĕnd’ alliy ādaradiṃdaṃ praḷayāṃbĕ-bhairavayutaṃ śrījyēṣṭhĕ rārājipaḷu // ŏlĕdu kapāḷīśa mahāpraḷayāṃbĕ nijōdghapīṭhadŏḷu tann’ ĕḍadŏḷu nĕlĕgŏḷĕ kāḷikĕ mŏdalŏḷunĕlĕgŏṃḍaḷu bhaktajanad’ abhīṣṭaman īyal // 
-527pantheons. It is possible that this also implies some degree of doctrinal superordination of the 
-sort that Sanderson has discussed at length, especially in the context of iconography and 
-cosmology, where the newest and most potent revelation is placed at the apex of a preexisting 
-great chain of being of the Tantric traditions in a manner that systematically subordinates the 
-other systems as focuses of reference, without however erasing their distinctiveness or 
-particularized contents. In this way, rather them representing life-worlds animated by their own 
-sets of values, competing Tantric pantheons are gradually transmuted into kalpa texts, 
-providing ritual details and supplementary information in contexts where the necessary details 
-or procedures are absent from the main root Tantras. 
-Geo-spatially, Jyeṣṭhā is here embedded in three different networks. In the first of these, 
-which seems to have extended over both the terrain of modern day Kukkunur as well as the 
-thirty villages it governed, she presides over a set of goddesses, all of them housed in structures 
-that are no longer extant, and at least one of whom seems to have been installed in a step well. 
-More immediately, the central temple of Jyeṣṭhā, which stood where our śāsana and maṇḍapa 
-are preserved today, is imagined to be placed in the center of four other temples. Two of these 
-still stand. To the immediate north of the maṇḍapa, in what was the old Brāhmaṇa quarter, one 
-can still see the ruins of Mallikārjuna, parts of which have been converted into housing. Oddly 
-enough, what our text calls the mūlasthāna today is called “Kaḷēśvara haḷe devara guḍḍi.” 
-Located in a roughly western direction three kilometers from the ritual center of the town, 
-under some garish layers of paint, Kaḷēśvara preserves an early Kalyāṇi Cāḷukya directed 
-renovation of core Rāṣṭrakūṭa structural features, which strongly resemble the mid-ninth 
-century structure found at Bagali, a place that, as we have seen, formed a key node in the wider 
-networks of circulation with which Kukkunur was associated. In the translation from textual 
-528 
-ideal to historically conditioned material reality, many compromises have to be made. While 
-in ideal terms, one would have envisioned these sites as framing the ādipīṭha, in actuality, they 
-stand at uneven distances scattered around the landscape. Finally, though no material remains 
-of the place survive, even in her own temple where she purportedly reigns supreme and 
-unchallenged, Siddhayogeśvara-Jyēṣṭhā is forced to accommodate house guests. It seems that 
-her image was flanked on the right by an image of Pralayāmbā and her Bhairava, each of whom 
-was housed on their own respective pīṭha. Presumably, given that “Kapāḷīśa, Jyēṣṭhĕ, and 
-Kāḷikā,” were paired together earlier in our text, since Kapāḷīśa Bhairava is her consort, the 
-mother of the dissolution is a euphemism for the goddess Aghorī and some iteration of the 
-tradition of the Picumata Brahmayāmala is being invoked. In a parallel fashion, an icon of 
-Kāḷikā was placed to Siddhayogeśvara’s left. Like so much in this tantalizing but decidedly 
-obscure passage, this goddess’s ritual identity is somewhat more ambiguous, for in various 
-places, our text will hint at her affiliation with Kālī-oriented traditions but also with the 
-Western Transmission of Kubjikā. As Mark Dyczkowski has eloquently demonstrated at great 
-length in the introduction to his reading of the Kumārikākhaṇḍa of the Manthānabhairava, this 
-pragmatic or context-dependent conflation of what scholarship has tended to think of as 
-distinctive pantheons is not merely the product of our own ignorance but in fact reflects a 
-deeper emic understanding in which historical difference is accounted for through complex 
-systems of homologization. 
-Once it has introduced the pantheon housed in Jyēṣṭhā’s temple in the heart of the field 
-of the siddhas, suddenly and abruptly, our text changes registers and offers us some precious 
-bits of vernacular liturgy, perhaps the only such texts to survive in the inscriptional corpus. 
-The first of these offers a long poetic praise of the power of the goddess Jyēṣṭhā, while the 
-529 
-second offers us a glimpse of systems of ritual magic enacted with the Navaliṅgēśvara temple. 
-Both hymns begin by affirming the fundamental ontological identity of all the deities present 
-in these places, whose natures are then inflected towards discrete ends through changes in 
-iconography. After an initial verse praising the goddess Kāḷikā, in which a series of 
-untranslatable puns set out to convey that by means of the power of death, she killed death 
-himself, usurping his place in the southern direction, the text resumes with a praise of the 
-mother of dissolution. 
-When she roars, the mother of the end of the world (Praḷayāṃbikē) draws the end of the world (pralaya) near. Bhairava, being “terrible [bhairava]” destroys the world. Kāḷikā, when she grows angry, will forcefully bind the tongue. 
-She (Jyēṣṭhā) paralyses their gait. Because of her they are afraid. She paralyzes the mind of the one who says: “what kind of woman is this?” She paralyzes the power of speech. Even an enemy does not mock Jyēṣṭhā. 
-To the one who cries “sanctuary,” she provides the fundamental fruit that is fearlessness. 
-With her winnowing fan, immediately, swinging [it] delightfully she snuffs out the flame of the lamp that is the life of the rogue, who, out of stupidity and blinded by intoxication, challenges [her]. It’s as if, at that moment, she subjects his body to the beak of her frightening crow. 
-Who would dare say that Jyēṣṭhā is a common [sāmānya] goddess? 
-What person can survive that great goddess, Mother Māri of insatiable thirst? She causes lightning to wither as it strikes, and she swallows time and death. Who is able to evade that goddess Kāḷikā?538 
-Quite apart from its poetic flourish, for our purposes, this astonishing passage is doing 
-two rather distinctive sorts of rhetorical work. At the most obvious level, it begins the process 
-538A Corpus of Inscriptions, 65–66: praḷayaman ĕydisutirppaḷu praḷayāṃbikĕ kĕḷardu bhairavaṃ bhairavan āg’ iḷiy irkkuvan ā kāḷikĕ muḷidaḍĕ kaḍupiṃdĕ kaṭṭuvaḷu nālagĕyaṃ // tāṃ bhayaman ŏdavisuttaṃ staṃbhisuvaḷu gatiyan ēvaḷ ĕṃdava matiyaṃ | staṃbhisuvaḷu. vāktatiyaṃ staṃbhisuvaḷu jyēṣṭhĕyalli pagĕv ēḍāgaṃ // śaraṇ’ ĕndaṃg’ abhayapradhānaphaḷamaṃ kaigūḍuvaḷu sŏrkkim ākarisuttirppa madāndhanappa khaḷan’ āyurddīpamaṃ taṃna cāmaradiṃ tŏṭṭĕnĕ naṃdĕ bīsi kaḷĕvaḷu tatkāyamaṃ taṃna bhīkarakākānanak’ āgaḷantĕ guṟimāḷpaḷu jyēṣṭhĕ sāmānyō // ĕṟaguva baṟasiḍilaṃ nĕṟĕd’ aṟĕyaṭṭuva kālamṛtyuvaṃ nuṃguva pēraṟikĕya pĕrmāriyan ār uṟadar bbardukāḍalārppar’ ā kāḷikĕyaṃ // 
-530 
-of “weaponizing” the core tenets of Trika theology. In the simplest terms, the classical tradition 
-imagines the universe as utterly pervaded by the garland of letters that make up the Sanskrit 
-alphabet, which are none other than the goddess Siddhayogeśvarī herself. The types of 
-consummate bibliophiles and spiritual enthusiasts that tend to be inclined to study and write 
-about the Trika and its śāstras, especially reading through the lens provided by the writings of 
-Abhinavagupta, often perceive this hyper-literary vision of a world permeated and made 
-beautiful by words in borderline utopian terms. In this regard, they offer a strong misreading 
-of tradition. If, from the perspective of a commentator like Bhāskara when he writes on the 
-Śivasūtras, the permeation of the world by semantic and phonemic entities who are nothing 
-other than the webs of goddesses under the control of the mistress of language offers an almost 
-dystopian vision of how language constrains human freedoms, in the vernacular Trika- 
-inflected text we have before us this same conceptual framework is redeployed in the service 
-of quotidian opportunism. Quite simply, since the goddess is already “in everything” in the 
-form of speech, to worship speech is synonymous with the worship of sovereignty over all 
-living beings. Conversely, the censure of speech and the goddess that embodies it intrinsically 
-renders a person powerless. These themes that will be made more clear in subsequent verses. 
-At the very same time our text gestures in the direction of lofty esoteric understandings 
-bound up in a philosophy of language at least somewhat indebted to Bhartṛhari, it 
-simultaneously is addressing itself to a very different social register, that of pan-regional 
-“vernacular” religious traditions whose textual foundations elude us, if they ever existed. 
-Already in the seventh century, when the Pallavas build the Kailāsanātha Temple at 
-Kanchipuram, worship of a seemingly non-Tantric mother goddess commonly referred to as 
-Jyeṣṭhā was so widespread in the Tamil country that these mainline initiates into the Śaiva 
-531 
-Siddhānta felt the need to incorporate a portrait of this deity, depicted as a portly, possibly 
-pregnant, middle-aged squatting female figure, onto the wall of their royal temple alongside 
-what is otherwise a purely Purāṇic pantheon. 
-Around this same time, the worship of this goddess spreads into Southern Karnataka 
-and from there into the western Deccan, where it undergoes some further transformations, 
-resulting in two core iconographic variants. Gradually, the squatting female figure becomes 
-younger and more alluring, along the way acquiring a crow as her emblem. As one approaches 
-the borders of Maharashtra, in contrast, prefiguring her early modern recasting as the goddess 
-of misfortune, Jyeṣṭhā’s crow is replaced by a donkey, she picks up a winnowing fan or broom, 
-and, hinting at her assimilation into the cremation ground-tinged world of the Śākta Tantras, 
-her companions are transmuted into ghouls and vetālas. Perhaps it is appropriate that at a place 
-like Kukkunur, situated between these two geographical and culture domains, Jyeṣṭhā seems 
-to have embodied an amalgamation of these currents, for our text mentions the killing beak of 
-her terrible crow, which pecks the rogue to death right after he has been struck by her 
-winnowing fan. 
-532 
-Jyeṣṭhā as she appears, respectively, throughout south India and in borderlands of the Marathawada 
-It is both tempting and plausible to relate these particular details to the physical image 
-at the shrine at Kukkunur. If this is the case, she would have been represented visually by the 
-pan- regional goddess Jyeṣṭhā, so far as ordinary pilgrims were concerned. Only adepts “in the 
-know” would recognize “her real identity” as Siddhayogeśvara. Such a reading, while 
-admittedly a matter of conjecture, would supply further rhetorical force to the verse in 
-question’s concluding statement, “Who would dare say that Jyēṣṭhā is a common (sāmānya) 
-goddess?” The message then would be that, appearances aside, what we are worshipping is not 
-some quotidian folk deity, but the esoteric source of all knowledge and power who can only 
-be accessed through the particularized (viśeṣana) knowledge provided by the special (viśeṣana) 
-Tantras, access to which is mediated through various specialized (viśeṣana) forms of initiation. 
-Indeed, the very next verse seems to provide further support for such a reading. Here 
-once again, the esoteric goddess at the center of the system is identified with the other major 
-trans- regional goddess worshipped throughout the Deccan and Tamil country: Mother Māri, 
-533 
-the goddess of plagues (Māriyammaṉ).539 As an early twentieth-century paddhati for her 
-worship printed in Grantha script proclaiming that her tradition is derived from “the Yāmalas” 
-makes clear, the story of how the poorly studied worship of this ubiquitous deity became 
-intermingled with entextualized forms of Śākta Tantra would be well worth telling. It appears 
-that such a dynamic is already well established in our period, for the anonymous author is once 
-again eager to overcode this “common goddess” with the tradition specific features of the 
-Kāḷikā of the high Tantras—in particular, invoking her as the one who “swallows time,” a 
-practice that lies at the center of the pre-philosophical Kālī Krama. As part of the same process, 
-in a lolībhūta540 of sorts, the identities of Jyēṣṭhā, Kāḷikā, and Siddhayogeśvara herself merge 
-together. Having sufficiently addressed the transactional identities of their goddesses and their 
-place in the wider culture, our anonymous poet returns to celebrating Jyēṣṭhā as instantiating 
-the power of speech that gives dominion over others. 
-539A definitive study of this important goddess has yet to be written. Despite the survival of a corpus of unpublished Tamil texts, thus far virtually all of the scholarship is solely anthropological in nature and presentist in orientation. None of these sources reflect a concrete awareness of the tradition’s antiquity. See for example Paul Younger, “A Temple Festival of Māriyammaṉ,” Journal of the American Academy of Religion 48 (1980): 493–517; Ina Marie Lunde Ilkama, From Chaste Wife to Village Goddess: A Study of Reṇukā-Māriyammaṉ and her Myths in and around Kanchipuram (MA Thesis, University of Oslo, 2012); Amy Alloco, “Taming the Fever Goddess: Transforming a Tradition in Southern India,” Manushi 140 (2004): 2–13. Amy Alloco, “Ritual Negotiations and Navigation in a Mariyamman Vow,” in Folklorists in Search of Roots: A Felicitation Volume, Published to Celebrate the 70th Birth Anniversary of Dr. Subash Chandra Bandopadhyay (Kolkata: Bangiya Sahitya Samsad, 2008), 265–278. 540In the working draft for his treatment of the subject in a future volume of the Tantrikābhidhānakośa, Somadeva Vasudeva glosses lolībhūta in the following manner: “The term लोल&भावः (lolībhāva, lolībhūta) denotes a state of indistinctness or instability that various entities assume when they merge together (syn. laya, saṃghaṭṭa, yāmala, sāmarasya). See Tantrasadbhāva 1.20cd–21ab: punar eva tu te sarva ekabhāvagatā prabho / lolībhūtā yathā santi tathā tvaṃ kathayasva mām, and 1.473ab: lolībhūtam idaṃ sarvaṃ śaktisthāne layaṃ gataḥ; Tantrāloka3.108cd: lolībhūtam ataḥ śaktitritayaṃ tat triśūlakam; Parātrīśikāvivaraṇa p.50 ll.17-18: viśvatra vācye viśvātmani vācakam api yadi viśvātmaiva tad evaṃ paraṃparācchādanalolībhāvātmā nirvahed adhyāsaḥ, na tv anyathā / na hi tricaturaṅgulanyūnatāmātre ‘pi paṭaḥ paṭāntarācchādakaḥ syāt. Kaulajñānanirṇaya 3.20d; Kubjikāmata 1.79; Jayaratha ad Tantrāloka 1.1: tasya yāmalaṃ = lolībhāvas. . . . Tantrālokaviveka 3.232: ya āveśaḥ parasparasaṅghaṭṭātmā lolībhāvaḥ, ibid 3.237: yaḥ parasparaṃ lolībhāvātmā sandarbhaḥ, Īśvarapratyabhijñāvivṛtivimarśinī 2 p. 233, p. 278; 3 p. 27, p.50, Kularatnoddyota 12. 16, Timirodghāṭana fol. 48 recto, Devīpañcaśatikā 2.55: lolībhūta parāśaktī ravisomakalodayaṃ prakāśānandayor antar (antar MS G, antā Dyczk.) ekākāratayā sthitā, Matasāra fol. 6r: tataḥ sa maithunaṃ bheje drāvaye <’>mṛtam uttamam / akampitena manasā lolībhāvavivarjitaḥ. Svacchandatantroddyota 4.296d explains it as identical with the state of sāmarasya: samo raso yasmin sa samaraso lolībhāvaḥ, ibid 4.299d: [lolībhūtam]. . . . avikalpaṃ vimṛśya tadviśrāntyaiva samarasīkuryāt.” 
-534 
-Moreover: 
-For all living beings, coming into being and the obtaining of greatness is brought about by the tongue. And that tongue is under her control. The livelihood of the world is solely dependent upon Jyēṣṭhā, is it not? 
-Among the people, there are those who are saying “the one who possesses a ‘good tongue,’ he will thrive.” Since that tongue remains under her direct control, when this is said, “who can thrive without taking the assistance of Kāḷikā?” 
-She causes the one who has pleased [her] to obtain wealth and the earth. She whose fame is unparalleled causes arrogant people to lose their wealth, their land. . . even their life. She makes them small. What else is to be said? 
-If someone, ignoring her, petitions the other gods, who are known through the worlds, for something that is desired and the gods, agree, saying: “You ask, and I will give what you requested!’ Well, then, 
-She causes the worshipper to forget his desire. She stands on his tongue. She causes him to beg for things he does not want. She causes his ruin to be brought about! Who is greater than that Jyēṣṭhā! 
-It’s like this: 
-When, because of his austerities, Kuṃbhakarṇa pleased Brahmā, and Brahmā, noticed him [and said] “I give you what you desire,” Jyēṣṭhā stopped Kuṃbhakarṇa from requesting the boon: “may there be no more gods (nirddĕvav’ akkĕ).” Standing on his tongue, she somehow made him request: “may there be sleep! (nidray’ akk’ ĕndu)” In this way, she is the one who destroyed Kuṃbhakarṇa’s brother (Rāvaṇa)! How great is Jyeṣṭhā’s prowess! 
-If having entered her refuge, another [devotee] beseeched, “may you destroy my enemy,” at that very instance she destroys his enemy. One who is not devoted to her alone says something like “Jyēṣṭhā, what kind of goddess is that?” What god can such a person take refuge with? He cannot save his own life. Tell me! Will she relent without devouring this stupid person!? 
-Therefore, when a desire [sammada] arises, he who desires the bringing about of some intended thing should meditate on Kāḷikā, visualize her (baṇṇipudu), petition her (ĕravigŏḷvudu), observe [her] vow[s], and enter her refuge (maṟĕyaṃ puguvud).541 
-541A Corpus of Inscriptions, 66: miguv āguṃ pōguṃ nālagĕyiṃ samanisuguv’ akhiḷa jīvigĕy’ ā nālagĕ taṃna vaśav ĕnalu jyēṣṭhĕgĕ lōkada bāḷkĕy’ ĕkkalāvaṇavaltĕ // janadŏḷagĕ nālag’ uḷḷ’ ātanĕ bāḷguv’ ĕnuttuv irppar ā nālagĕ nĕ / ṭṭanĕ taṃna basadĕ varttipud’ ĕnal ār kkāḷikĕya nĕravigŏḷḷadĕ bāḷvaru // ŏsayisid’ ātana vasuvaṃ vasumatiyuman ĕṃduv ŏdavipaḷu bĕsay isal ā / vasuvasumatiyasunisupugaḷan asamajasĕ kāḷikāṃbĕ kundisuttirppaḷu // adan ēn ĕṃbudŏ tannan ēḷisi jagatprakhyāta dĕyvaṃgaḷaṃ padĕd’ ārādhisĕ mĕcci dĕyvav ĕrĕ 
-535 
-Despite our text’s aspirations to resembling the phonic texture and easeful word play 
-of old Kannada kāvya, at the level of semantics, the sensibility on display here, apart from the 
-concluding verse, is much more akin to what we would expect from “folk” religion. Jyēṣṭhā is 
-depicted as neither particularly good or nor particularly bad but simply unimaginably powerful 
-and somewhat capricious. As opposed to her power over language being rendered in lofty 
-philosophical terms, as often the case in the Trika Tantras, where she is the fundamental ground 
-of consciousness that animates the conceptual and emotional processes within humans and 
-other beings, here her control over the power of speech and cognition operates in much more 
-gross terms. She controls men and demons alike, either through the power of her māyā, which 
-causes them to become deluded and forget things, or, rather charmingly, by quite literally 
-climbing on top their tongues, so that they are forced to misspeak. This, it seems, is what 
-happened to the gargantuan demon Kumbhakarṇa, the elder brother of Rāvaṇa, renowned just 
-as much for his marathon naps as he was for his formidable physical strength. He made his 
-initial entreaty to the gods, and not to Jyēṣṭhā, and so the boon he received was sleep (nidra) 
-instead of the destruction of the gods (nirddĕva) that he had originally intended. In contrast, 
-we are told, anyone who pays the goddess proper homage receives her favor, all of which 
-seems to take the form of quotidian things such as the destruction of enemies, wealth, or 
-political power. It is only in the instructions offered in the phalaśruti that concludes the hymn 
-where a ritual intention is to be formed that we begin to see hints of a much more formalized 
-nīṃ bēḍittan ittappĕv ĕṃ- / buduv ārādhakan iṣṭamaṃ maṟasi tajjihvāgradŏḷu niṃdu bēḍadudaṃ bēḍisi kēḍan ĕydisuvaḷ ār mmikkappar ā jyēṣṭhĕyaṃ // tapadiṃ nōḍirĕ kuṃbhakarṇnan ajanaṃ mĕccippuduṃ mĕccan ittappĕnn’ ĕṃd’ abjabhavaṃgĕ dānavaraṃ nirddĕyvav’akk’ ĕṃdu yā / cipudaṃ māndisi niṃdu nālagĕyŏḷ ĕṃduṃ nidrĕy’ akk’ ĕṃdu yācipudaṃ māḍisiy annanaṃ kiḍisidaḷu balpĕṃtuṭō jyēṣṭhĕya // pĕṟan ŏrbbaṃ maṟĕvŏkku madripuva nīṃ tīrcc’ ĕndŏḍ[ĕ] lōkav aḷk uṟĕ tadvairiyan āgaḷaṃtĕ tavipaḷu tān ĕṃdŏḍ’ ī tannanē | tĕṟadiṃ jyēṣṭhĕy’ ad’ ēvaḷ ĕṃd’ uṟadavaṃ tān āva. . . . // ŏsĕd’ āraṃ pŏrdd[a]yuv’ avar ĕsakaman uḍugisadĕ māṇaḷ ā jyēṣṭhĕyan ā- / r bbĕsayisi bāḷvavavar’ ākĕya gasaṇiyĕ bēḍ’ ĕṃdu divijar aḷkuttirpparu // adaṟiṃ kāḷikĕyaṃ nĕnĕvudu baṇṇipud’ ĕravigŏḷvud’ ā bratamaṃ nōṃ- / pudu maṟĕyaṃ puguvudu sammadavuṇmĕ nijēṣṭasiddhiyaṃ bayasuv’ avaṃ // 
-536 
-set of conceptualizations linked with specific ritual practices emerging from an unmistakably 
-Tantric discourse. Kāḷikā is to be meditated upon and invoked, the vows associated with her 
-cult are to be enacted and a devotional act of taking her refuge, as opposed to simply appeasing 
-her, are all stipulated as the building blocks of forming an efficacious relationship with the 
-deity. 
-Worship as “pure transaction” even more strongly informs the other portion of 
-liturgical text that our inscription transmits, which in this case is more closely associated with 
-the Navaliṅgēśvara temple that lies a few hundred paces to the west of the site where Jyēṣṭhā’s 
-temple once stood, and whose management was assigned to Kaḷēśvara shortly before he also 
-became responsible for Jyēṣṭhā’s temple. 
-Kaḷēśvara had obtained the office sthānācārya of the Goddess Jyēṣṭhā, who is the best in the world, and about whom it is said: 
-“By means of the deep-colored Kāḷikā, Jyēṣṭhā, and Kapāḷīśa, immobilization will be acquired; by means of the black-colored Bhadrakāḷi, Jyēṣṭhā, and Praḷāyāntaka, there is the removal of poison; by means of the smoke-colored Mahākāḷī, Jyēṣṭhā, and Makākāḷa, there is the removal of fever; by means of the black-colored Nīla Jyēṣṭhā and Bhadrakāla, there is vidveṣana; by means of the smoke-colored Nīlapatākinī Jyēṣṭhā and Indrabhañjana, there is saṅgrahaṇa; by means of the blue-colored Vṛddhakubji, Jyēṣṭhā, and Nīlagrīva, there is śānti; by means of the dark-colored Mahājyeṣṭhā and Mahāgrīva, there is vaśya-ākarṣaṇa and māraṇa; by means of the blood colored Bhañjanī, Jyēṣṭhā, and Supīṭha, there is eradication; by means of the blood-colored Prabhañjanī, Jyēṣṭhā, and Pīṭhanāyaka, all the siddhis will be acquired. What will happen is in accordance with the worshipper’s desire.542 
-In assuming the office of sthānācārya of the goddess Jyēṣṭhā’s temple as well as of 
-Navaliṅgēśvara, Kaḷēśvara was effectively placed in charge of an institution that combined the 
-542A Corpus of Inscriptions, 66–67: ā ghanavarṇnada kaḷikājyēṣṭhĕyiṃ kapāḷīśaniṃ staṃbhanaṃ kṛṣṇavarṇnada bhadrakāḷījyēṣṭhĕyiṃ praḷāyāṃtakaniṃ viṣaharaṇaṃ dhūmravarṇnada mahākāḷījyēṣṭhĕyiṃ mahākāḷaniṃ jvaraharaṇaṃ mahākṛṣṇavarṇnada nīlājyēṣṭhĕyiṃ bhadrakāḷaniṃ vidvēṣaṇaṃ mahādhūmravarṇnada nīlapatākinījyēṣṭhĕy iṃdrabhaṃjananiṃ saṃgrahaṇaṃ nīlavarṇnada vṛddhakubjijyēṣṭhĕyiṃ nīlagrīvaniṃ śānti śyāmavarṇada mahājyēṣṭhĕyiṃ mahāgrīvaniṃ vaśyākarṣaṇamāraṇaṃ raktavarṇnada bhaṃjanījyēṣṭhĕyiṃ supīṭhanin uccāṭanaṃ mahāraktavarṇnada prabhaṃjinījyēṣṭhĕyiṃ pīṭhanāyakaniṃ sarbbasiddhiy ārādhakan’ iccĕyiṃ savanisuguv ĕnipa jagadvariṣṭhĕyara jyēṣṭhĕyara sthānācāryatvamuman / 
-537most salient features of a slot machine and a war machine. Mentions of Jyēṣṭhā at this place 
-can be traced back at least to the beginning of the tenth century, so long before Kaḷēśvara was 
-born, petitioners had been coming here and commissioning programs of worship from the 
-pūjāris with the aim of healing their afflictions and killing, harming, or ruining their enemies. 
-It seems to be the case that this was done by entering into the Rāṣṭrakūṭa-period Navaliṅgēśvara 
-temple, which derives its name from the fact that is houses nine garbhagṛhas with nine liṅgas, 
-approaching the appropriate liṅga for the intended purpose, and invoking the form of Jyēṣṭhā 
-who is represented as having just the right sort of color and iconography for the type of magical 
-prayoga that is intended. In the version of the tradition we encounter here, these forms of the 
-goddess have been further mediated through a composite pantheon, comprised in each case of 
-goddess and consort, seemingly drawn somewhat at random from traditions of Kālī worship 
-(Bhadrakālī, Mahākālī), the Western Transmission and Śāmbhava path (Vṛddha Kubjī, Nīla 
-and Nīlapatākanī), as well as otherwise unplaceable local or Tantric traditions. It is quite likely, 
-however, that these identifications represent late or second-order appellations. Perhaps, 
-drawing upon his vast learning, they were even suggested by Kaḷēśvara himself. This veneer 
-notwithstanding, the conceptual roots of this practice seem at once more archaic and pre- 
-theological. In short, we are looking at an institution that had a life and an institutional culture 
-all its own for which our Kālamukhas are almost incidental caretakers. 
-Rather astonishingly, we owe the very existence of this extraordinary śāsana itself not 
-to an act inspired by the deep devotion of a devotee of the Kaḷēśvara and his community, but 
-because a long-standing frequenter of Jyēṣṭhā Devī returned to thank her for the services she 
-had granted to him and his family, and, apparently being a conscientious sort, decided he 
-should also thank the management and recommend them to future petitioners. Hariścandra, we 
-538 
-are told, “the ornament of great Kashmir from the sahāvāsi line,” was a great patron of learned 
-people. His daughter in turn, Caṇḍabāyi, herself renowned as “mother to a community of great 
-yogins” bore many illustrious children. One of these, Dhanugi, grew up, migrated to Karnataka, 
-and became a daṇḍanāyaka in the region. When he went to go worship the goddess and thank 
-her for her favor, his mother and elder sister accompanied him on the excursion. 
-The daṇḍanāyaka, together with his mother Caṇḍabāyi, who is called the mother to the collection of the best yogins, and his elder sister Laḷiyādevi, who is called Pārvatī, came to the Kukkunur, which is a great agrahāra. . . . 
-There, since that goddess had granted his desires several times previously, intent on making an additional endowment that is fit for that goddess, they performed a mahāpūjā to Kāḷikā and Jyēṣṭhĕ, the pre-eminent deities in the world. Daṃnugi and Lakhmīdēva, who was his maternal uncle, made a humble petition to the Kalachuri king, Niḥśaṅkhamalla Śaṅkamadeva. 
-On account of the king’s compassionate giving, they obtained the village of Selagaravan and along with the wastelands of Benatūr. . . as a sovereign gift that is exempt of all external impositions and is to be honored by all, as long as the moon and sun remain. On that date, they are washing the feet of the royal preceptor Siddhānti Kaḷēśvaradēva, who is: honored by all living beings as endowed with yama-niyama- svādhyāyādhyayana-dhāraṇā-mauna-anuṣṭhāna-japa-ṣaḍaṅgopahāra and so forth. When it comes to the innumerable forms of reasoning. . . .543 
-The passage continues with the resume of the professional accomplishments of 
-Kaḷēśvara with which we began our analysis. As this portion of the text makes plain, Dhanugi 
-and his family have come to thank the goddess Jyēṣṭhā and to honor her by expanding the 
-territory over which she holds sovereign control. Any benefit this rendered to the particular 
-543A Corpus of Inscriptions, 69: mahāpradhāna daṃnugi daṃḍanāyakaṃ karaṇaṃgaḷu yogīṃdravṛṃdajananiy ĕnisida nijajanani caṃḍabāyiyuṃ nijamahimāmainākāgrajĕyinipa nijāgrajĕ laḷiyādēviyuṃ bĕrasutaṃ māḷkĕya mahāgrahāraṃ kukkanūrgĕ bijayaṃgĕyd’ alliya kāḷikājyeṣṭĕgĕ jagadvariṣṭhĕgĕ mahāpūjĕyaṃ māḍi mun palavu sūḷuv ā dēviyiṃ tamm’ abhīṣṭitasiddhiy- ādudaṟin ā dēvigĕ takkavṛtti parikaḷpanĕyaṃ māḷpa saṃkaḷpadiṃ nijamātuḷan appa śrīmanmahāpradhānaṃ lāḷakhaṃḍĕyakāṟaradhiṣṭhāyakan aṇugaṃ sāhaṇādhipati mahāpracaṃḍadaṃḍanāyakaṃ lakhmīdēvayyaṃgaḷuṃ tānum karaṇaṃgaḷuṃ śrīmatkaḷacuricakravartti niśśaṃkamalla saṃkamadēvarasarggĕ biṃnapaṃgĕydu sakāruṇyadāna sarbbabādhāparihāraṃ sarbbanamasyam ā caṃdrākkasthāy āgĕy ā kukkanūra mūvattaṟa baḷiya bāḍavappa sĕlagaravan adaṟŏḷanādiyiṃ praviṣṭavāgirdda bĕnatūra hāḷvĕrasu pārameśvaradattiyāgĕ. . . . ā jagajj[y]ēṣṭhĕya kāḷikājyēṣṭhĕya sthānācāryar ĕnisi / svasti yamaniyamasvadhyāyadhyānadhāraṇāmaunānu-ṣṭhānajapaṣaḍaṃgōpahārādisaṃpannar akhiḷaprāṇiprasaṃnar / anēkatarkka. . . . / 
-539 
-Kālamukhas who were presiding at that time was purely incidental in its impact. You might 
-even say, as far as the patron was concerned, Kaḷēśvara the teacher was just a placeholder 
-(sthānācārya). Nevertheless, Dhanugi’s generous commissions rather serendipitously enabled 
-Kaḷēśvara and his circle to write their perspective into the historical record. It is hardly an 
-accident that, when our text begins to accommodate the life-world of the āvaḷi-honoring 
-Kālamukhas of Sudi and their living saint, we suddenly shift into a much more “vernacular,” 
-and thus idiomatic and grammatically irregular register of old Kannada that owes substantively 
-less influence to chancellery culture. 
-Having caused the scholars of mantra, tantra and yantra to be impressed, [Kaḷēśvaradēva] appeared [in] the world as māntrika, as tāntrika, and master of yantras. 
-He bears the command [of the goddess] (ājñā). He knows the mantras. He possesses the capacity to see past, present, and future. He augurs fate. He knows all the Śaivāgamas. 
-Such is Śrīrājaguru Kāḷeśvaradēva. 
-If scholars examine him, he is a grammarian, a śāstrī, a master of all logic, a scholar of poetry, a master of augury. He, Śrīrājaguru Kaḷēśvaradēva is omniscient Whatever he contemplated, became a god. Whatever he thought, became fate. Whatever he spoke became mantra. Whatever he explained, that was Tantra. Whatever perfect line he inscribed, that was yantra. [Whatever] he favored was accomplished. 
-Kaḷēśvara is like one’s natal home housing incomparable greatness. What siddhas and what ascetics are equal to that king of sages!544 
-Woven into this celebration of Kaḷēśvara’s many virtues and talents, which, in their 
-richness exceed the formal conventions of professional self-presentation, we find what is 
-544A Corpus of Inscriptions, 67–68: sakaḷōrvvarĕ mĕccalu māṃtrikatāṃtrikayāṃtrikarkkaḷaṃ mĕccisi māṃ- / trikan ĕnĕ tāṃtrikan ĕnĕ yāṃtrikan ĕnĕ dharĕ sŏgayipaṃ kaḷēśvaradēvaṃ // āryan akhilapratiṣṭhācāryaṃ siṃdānvāyaśikṣādīkṣā- / cāryyaṃ śivasiddhāṃtācaryyaṃ śrīrājaguru kaḷēśvaradēvaṃ // 38 // ājñādharanĕnĕ dharĕ maṃtrajñaṃ traikāladarśiy ĕnĕ dhāriṇi daivajñaṃ śaivāgamasarbbajñaṃ śrīrājaguru kaḷēśvaradēvaṃ // tajñar pparīkṣisalu śabdajñaṃ śāstrajñan akhiḷatarkkajñaṃ kā- / vyajñaṃ daivajñaṃ sarbbajñaṃ śrirājaguru kaḷēśvaradēvaṃ // nĕnĕdudĕ děvyvav’ ĕṃd’ aduvĕ maṃtrav’ udāharisittĕ taṃtravōy ĕnĕ samarēkhagŏṃḍaduvĕ yanṃtrav’ anugrahisittĕ siddhiy ĕṃb’ anupamamāda maimĕgĕ tavarmmanĕyāda kaḷēśvarabratīṃdrana dŏrĕ pāṭi pāsaṭi samaṃ sariy ārggaḷa siddhatāpasar // 
-540 
-essentially a meditation on the nature of authority. Is authority founded on the mastery of 
-certain skills? Is it a matter of holding a specific office? Does it come from digesting a canon 
-of knowledge, either in the form of secular learning or esoteric scripture? Or is it something 
-more? Kaḷēśvara’s devotees begin by presenting him as an expert at pretty much everything. 
-On their own terms, he impresses the adepts in “mantra-tantra” who use spells, prayogas 
-drawn from scripture, and diagrams charged with magical power towards various quotidian 
-ends. And so, when he is in their company, they think he is one of them. In much the same 
-spirit, when learned śāstrins challenge him to display his knowledge of the śāstras, poetics, as 
-well as his mastery of the śāstras on augury, in the eyes of such people Kaḷēśvara appears as 
-if he were the most masterful of scholars. His credentialing in the various streams constitutive 
-of Tantric knowledge is if anything even more impressive. We learn he bears the command 
-(ājñā), either of the goddess Kālī or Kubjikā, which means he acts as a custodian of her augha 
-and has the right to teach her Tantras, to act as her surrogate on earth and to oversee and 
-perform the entire panoply of rituals that comprise her tradition. He has mastered many systems 
-of mantras by successfully completing their puraścaraṇa. Through yogic practice he has 
-attained the ability to see past, present, and future and read the signs about the success or failure 
-of future endeavors. In short, Kaḷēśvara “knows everything.” In Abhinavagupta’s terms, 
-Kaḷēśvara has been comprehensively demonstrated to be a fit vessel for the transmission and 
-teaching of the Tantras, epitomizing the model of “learned gnosis” advocated in the classical 
-Śākta Tantras. This is a domain where Tantric knowledge means “knowledge that is derived 
-from or is about a corpus of texts called Tantras.” Within such a paradigm, the perfect guru is 
-essentially an anonymous or indistinct figure whose function is to flawlessly instantiate and 
-541 
-transmit divinely revealed Tantras without the slightest trace of his own egoity or personality 
-interfering in the process. 
-Kaḷēśvara’s devotees, however, rather astonishingly conclude by invoking a decidedly 
-different understanding of the nature of their teacher. The passage is worth citing once again 
-in full: 
-Whatever he contemplated, became a god. Whatever he thought, became fate. Whatever he spoke became mantra. Whatever he explained, that was Tantra. Whatever perfect line he inscribed that was yantra. [Whatever] he favored was accomplished. 
-Kaḷēśvara is like one’s natal home, housing incomparable greatness. What siddhas and what ascetics are equal to that king of sages!545 
-In his recent dissertation, Ben Williams has helpfully identified a reconceptualization 
-of the nature “Tantric authority,” first evident in the late Śākta Tantras themselves and then in 
-the Kaula and siddha traditions that inform the Kashmiri Trika exegetes. In the initial phase, 
-virtually for the first time, the descent and transmission of specific forms of Tantric knowledge 
-is ascribed to individual—indeed, individuated—at least nominally human agents, such as 
-Matsyendranātha. In the second, in what Williams has referred to as representing the “mature 
-Kaula idiom of religious authority,” 
-Each individual guru in the lineage is not just a faithful transmitter of the letter of scripture that extrinsically governs their religious lives. More precisely, they are tasked with “reenacting” the revelatory truths in the form of a “sudden unfolding” in the “visionary consciousness” of their “own inner reality.” Therefore, the exercise of religious authority is now dynamically rooted in the divine identity of the individual Siddha master. This model of revelation helps explain an extraordinary feature in writings of post-scriptural authors in the Krama, namely their “readiness to innovate.” The words inspired by the inner realization of these Siddhas are tantamount to scripture, and no longer need to conform strictly to the fixed doctrine of an external scriptural canon.546 
-545A Corpus of Inscriptions, 68. 546Benjamin Williams, Abhinavagupta’s Portrait of a Guru: Revelation and Religious Authority in Kashmir (Ph.D. diss., Harvard University, 2017), 199. 
-542 
-William’s focus is primarily the multigenerational revelations of the teachers of the 
-Kashmiri Krama, who, beginning with Jñānanetranātha, pen self-ascribed works of revelation 
-that incorporate effusive accounts of the circumstances surrounding their own spiritual 
-experiences. Williams argues that these are then redeployed in the lineage pedagogically as 
-skillful means for facilitating in future generation of disciples the mimetic “re-experience” of 
-the processes that brought about the liberation of the original revealers. William’s major point 
-is that this reconceptualization of the nature of religious authority as grounded in the direct 
-experience of liberated Śākta gurus makes possible a sea-change in values through which the 
-authoritative word of a liberated guru replaces revealed scripture as the primary source of 
-religious guidance. As he convincingly demonstrates, it is this sort of conceptualization that 
-informs Abhinavagupta’s core interpretive project in the Tantrāloka, a magisterial work that 
-in essence sets out to reconceptualize and in a sense replace the diverse Tantric canons the 
-great siddha polymath has set out to synthesize. In this respect, it is not Tantra but second order 
-Tantraśāstras, like the Tantrāloka, that are seen as providing the most effective and informed 
-vehicle for liberating bound souls of various natures and predilections. As Williams 
-demonstrates, throughout his writings, Abhinavagupta repeatedly invokes his own experiences 
-and spiritual autobiography as proof of the authenticity and efficacy of the systems of practice, 
-understanding and belief that he presents. Indeed, if I understand him correctly, Williams 
-seems to suggest that the rhetorical structure of the Tantrāloka as a whole is deeply informed 
-by this distinctly Kaula post-scriptural model of charismatic authority. 
-Williams’s model provides a useful point of reference not only in terms of the real 
-continuities we see between his sources and our own text, and what further light this sheds on 
-the religious ecologies of the medieval Deccan, but also in terms of bringing into sharper relief 
-543 
-the substantial divergences between the two discursive worlds. In many ways, the parallels are 
-uncanny. Kaḷēśvara, as we have already seen, in a manner eerily akin to Abhinavagupta’s 
-project in the Tantrāloka, “extracted (uddharisi) his definitive doctrine (siddhānta) from the 
-Transmission of the Siddhas (Siddhāvaḷi), the Śākta Transmission (Devyāvaḷi), the Siddhānta 
-Transmission (Somasiddhāntāvaḷi), and the Śaiva Transmission (Śivāgamāvaḷi),” and then 
-initiated his disciples into the resulting new system of praxis. In as much as he oversees a ritual 
-center dedicated to Siddhayogeśvarī, Kaḷēśvara is also, of sorts, a master of the Trika. Within 
-the context of the distinctively divergently textured small selection of verses we have just been 
-exploring, Kaḷēśvara is represented not just as being a perfect conduit for existing traditions 
-but as a source of revelation in his own right, a liberated being whose every action instantiates 
-and communicates spiritual insight. Just as Williams writes that “his words are tantamount to 
-scripture,” our text proclaims, “whatever he taught, that was Tantra.” Such similarities are not 
-circumstantial. Our text itself asserts quite baldly that Kaḷēśvara has studied the siddha 
-transmissions and made use of them in implementing his doctrine, and that he has done so in 
-a place specifically dedicated to the types of cremation ground-tinged sexual encounters with 
-the yoginīs that also lie at the heart of the scriptural tradition of the Kālī Krama. And indeed, 
-the evidence cementing such a connection has been hiding right in front of us all this time. 
-Unlike some other lines that bear initiatory names such as -śakti and -rāśi, like all of the 
-Kālamukhas in his lineage, and indeed in many others, Kaḷēśvara’s last name ends in Īśvara. 
-As we will see when we consult some of the Tantric scriptural sources that were used at 
-Kukkunur in chapter 6, in this register of discourse, x-īśvara and x-nātha are used 
-interchangeably. Indeed, had chancellery conventions deemed it more appropriate to 
-systematically make use of the other moniker—in other words, had we began our analysis 
-544 
-talking about Kaḷanātha overseeing the temple of Siddhayogeśvarī—much of the materials we 
-have explored in this chapter would seem much less jarring. For here and there, one can discern 
-echoes of this sort of understanding, or at least formative antecedents to what will become core 
-tropes of post-Tantric esoteric yogin traditions. After all, is not a verse such as “One who is 
-not devoted to her alone, says something like “Jyēṣṭhā, what kind of goddess is that?” What 
-god can such a person take refuge with? He cannot save his own life. . . . Will she relent without 
-devouring this stupid person!?” a precursor to early modern floating verses such as “If Śiva is 
-angry, the guru will save you, but if the guru is angry even Śiva cannot save you”?547 And does 
-not Jyēṣṭhā’s assertion that she holds the tongue of men in her hands read like an antecedent to 
-Gorakṣanātha’s dictum, “control the tongue and the penis and you control the world”? In other 
-words, all these years, key formative antecedents to the Nātha yogins have been hiding from 
-us in plain sight, inside the monasteries of the Kālamukhas. 
-All that being said, there are equally substantive differences that demand our attention. 
-Most notably, invocations of charismatic and individual centered authority presented in the 
-two different discourses perform essentially the opposite kind of rhetorical work. As Williams 
-has demonstrated, in the writings of Abhinavagupta, the “mature Kaula idiom of religious 
-authority,” the religious individual attainment of an omniscient Siddha, along with a detailed 
-autobiographical account of his preceptorial line, becomes the primary means of authenticating 
-a composition and situating its relative authority within a scale of other texts. In contrast, in 
-violation of the typical expectations of scholars of religion, in the Kukkunur śāsana, 
-547śive ruṣṭe gurus trātā gurau ruṣṭe na kaścana / tasmāt sarva prayatnena śrīguruṃ śaraṇaṃ vrajet // Variations on this verse appear in, for example, Rudrayāmala 2.66, Kaṅkālamālinītantra 3.25, Śrīvidyārṇava Tantra 2.18, Kulārṇava Tantra 12.49, Candrajñānāgama 2.82, Gurugītā 1.79, 1.88, Mantrakaumudī 3.7, Nigamasāranirṇaya, Śāktānandataraṅgiṇī, the Tattvacintāmaṇi of Purṇānanda 2.51, the Bṛhattantrasāra of Kṛṣṇānanda Vāgīśa 1.6, Devīgītā 6.26, and Bhāskararāya’s Setubandha on Nityāṣoḍaśikārṇava. A version of the verse is also present in old Marathi translation in the late-twelfth-century Vivekasindhu. Most of these citations are slightly post- thirteenth century. 
-545 
-Kaḷēśvara’s status as an omniscient being and sui generis source of revelation is not only never 
-invoked as a means of further legitimating his authority, but it is actually actively excluded 
-from discussions of his credentials and professional career as an esteemed religious authority. 
-As we have seen, our text is almost obsessed with delineating chains and sources of 
-authority. Virtually all of these, however, are institutionally derived, the product of holding co- 
-currently a series of increasingly exalted offices that themselves confer connections to specific 
-types of political and religious actors. Just as significantly, with one important exception, 
-which will be the focus of chapter 6, these offices are not primarily defined in specifically 
-doctrinal terms. Or rather, one might say that in many cases, Tantras were something that were 
-“learned on the job,” with the question of which Tantras being less a matter of personal interest 
-than of professional necessity. In other words, quite apart from the fact that the marvelous texts 
-of one of them have survived while the other’s teachings, if they were ever written down, have 
-not, perhaps the key distinction between a Kaḷēśvara and Abhinavagupta is that Abhinavagupta 
-did not have to hold down a day job. More than an amusingly flippant remark, it is a compelling 
-suggestion that the radically different texture of the Tantric exegetical tradition as they 
-manifest in Kashmir and the much less well understood, understudied and yet unquestionably 
-more influential Tantric socio-imaginaries that dominated the medieval Deccan have their 
-roots precisely in this sociological difference. As far as we can tell, figures like Somānanda 
-and Bhaṭṭa Rāmakaṇṭha II did not have to run a bank, preside over huge public celebrations on 
-a regular basis, travel between the hundreds of different branches of their monastery, or be 
-forced into a crash course in the particular paddhati associated with a new shrine when they 
-suddenly got a “promotion.” Nor, from what we can see of religion in Kashmir, were they 
-juridically and liturgically responsible for overseeing the ritual and pragmatic needs of the 
-546 
-huge internally differentiated publics that inhabited the dozens if not hundreds of villages 
-incorporated within their domain. Perhaps most fundamentally, as the patterns of citation in 
-the Tantrāloka demonstrate again and again, none of the people through whose writings we 
-have learned most of what we think we know about Tantra occupied a position where they 
-were responsible for overseeing the religious activities centered around a large temple 
-complex. Most pointedly, none of them served as caste gurus for the communities of artisans 
-that built such temples. Unlike Kaḷēśvara, none of them, in other words served as sthānācāryas, 
-harnessing their spiritual power to bring icons to life alongside teams of professional masons, 
-metal smelters, wood carvers, and stone sculptors. The often indeterminate picture we have of 
-Kālamukha culture stems in large part from our failures to consider these facets of the 
-Mantramārga traditions, its mediation through institutional as opposed to primarily doctrinal 
-frames, and the myriad of connections that exist between ritual technology and “technology” 
-in the more basic sense of specialized technical knowledge that makes possible the production 
-of specific forms of material culture around which then emerge specific modes of sociality. In 
-beginning to tell that story, we can gradually grapple with how the lineages that emerge out of 
-the Atimārga became the core vehicles for the transmission of the Mantramārga. We can begin 
-to make sense of why it is the case that, by the middle of twelfth century in the medieval 
-Deccan, when we hear a Kālamukha speak, everything he says “becomes mantra.” 
-Śivadharma Trumps Rājadharma: The Cāḷukya Kings of Kalyana in Their Own Words 
-As Murari Lal Nagar notes in passing in the introduction to his edition of Someśvara III’s 
-mahākāvya, “The Rise of Vikrama” (Vikramāṅkābhyudaya), in the process of telling the very 
-same story, Someśvara’s text draws so heavily upon the tropological reserves of his 
-547predecessor, the great Kashmiri poet Bilhaṇa, that his prose at times approaches paraphrase.548 
-And yet, to speak the prince’s work as either “derivative” or offering merely a corrective 
-political apologetics to the Kashmiri poet’s subtle and subversive vision does little justice to 
-Someśvara’s own considerable literary and intellectual accomplishments. Furthermore, it 
-entirely overlooks the fundamental dissonance between the two poet’s worldviews. If Yigal 
-Bronner has represented Bilhaṇa’s poetics as expressing a “defiant antilocal tone,” that sets 
-out to misprision549 “an environment devoid of cultural refinement” into the proper (Sanskrit) 
-cosmopolitan idiom palatable to an urbane Kashmiri, Someśvara demands to be read as 
-offering an unabashedly localizing literary language. Whereas the intellectual project of the 
-Sanskrit cosmopolis repopulates the world with India’s answer to Weberian ideal types—for 
-what else are the nāyaka, nāyikā, and the rest—in rendering a hyper-particularized textured 
-world in miniature, Someśvara’s art is almost anthropological. In short, as we shall see, to the 
-delight of the social historian of religion, what the Vikramāṅkābhudaya offers us is a “view 
-from somewhere,” and that somewhere is unmistakably the medieval Deccan. 
-The surviving portion of the Vikramāṅkābhyudaya is mostly dedicated to telling the 
-story of the circumstances surrounding the conception and birth of the children of the Cāḷukya 
-king Someśvara I, commonly called Āhavamalla (1042–1068 CE). In other words, Someśvara 
-III takes on the task of writing about his own grandfather in the prime of his life as well as the 
-prepubescent escapades of his own father and uncle. In doing so, our author takes over eighty 
-pages of dense Sanskrit prose to cover the same ground that Bilhaṇa dispensed in his first two 
-548Murari Lal Nagar, ed., Vikramāṅkābhyudayam: A Historical Sanskrit Campū by Śrī Someśvaradeva of Kalyāṇa (Baroda: Oriental Institute, 1966), xii. 549Most closely associated with the writings of the literary theorist Harold Bloom, misprision is a term of art that has come to be understood more generally as the offering of a strong misreading of a preexisting text, subject, visual element, or form in the service of at once imbuing materials with one’s own values and creating an air of distance between the new invention and its discomforting formative antecedents. 
-548 
-cantos in barely two hundred verses. The plot is very simple. Despite his royal prowess and 
-almost overly active libido, Āhavamalla and his wife failed to produce a son and heir, a fact 
-that brought them both great grief. Like so many desperate couples, the Cāḷukya king and his 
-wife seek out fertility counselling. This being medieval India, the guidance he receives, from 
-the finest Brāhmaṇa ritualists in the land, takes the form of a ritual program entailing 
-sponsoring and overseeing the performance of the sixteen mahādānas drawn from the classical 
-Dharmaśāstras. Against all expectations, the meticulous execution of Smārta ritual, of a sort, 
-results in the production, not of an ideal heir, but rather of a monster in human form. It is only 
-when, abandoning his learned councilors, Āhavamalla himself sets out on pilgrimage to 
-Srisailam and performs a regiment of grueling austerities, that the conception of the real king, 
-the great Vikramāditya VI, becomes possible. 
-As many scholars would be inclined, it is not entirely unfair to read a story like this as 
-an exercise in justifying the contested succession to the Cāḷukya throne, a “just so story” about 
-why, in defiance of the normative standards of primogeniture, it was right for the great 
-Vikramāditya VI to rebel against his elder brother, kill him, and then take the throne. But, as 
-is so often the case with kāvya, the plot of the poem and the work the poem sets out to perform 
-are two very different things. In his masterful essay on the Vikramāṅkadevacarita, which also 
-offers the only recent scholarly treatment of Someśvara’s text, Lawrence McCrea has argued 
-that Bilhaṇa’s poem offers a meditation on the inherently morally reprehensible nature of royal 
-power that concludes in rejecting “the very notion that kingly virtue can be meaningfully said 
-to exist at all, except as a kind of public relations ploy.”550 Bilhaṇa’s point, as McCrea tells us, 
-is that it is not the substance of the world, but the creative power of the poet, that creates value. 
-550Lawrence McCrea, “Poetry Beyond Good and Evil: Bilhaṇa and the Tradition of Patron-centered Court Epic,” Journal of Indian Philosophy 38 (2010): 506–507. 
-549 
-Virtue and character are acts of the imagination made real through aestheticized speech. 
-Projected onto the blank canvas of lived reality, through his craft, the poet makes a world that 
-is more real than the real. It is the evaluations and judgements embedded in his literary vision 
-that becomes reality for posterity. As McCrea so aptly puts it, “Bilhaṇa’s claim here, if taken 
-seriously, implies that it is poetry, and poetry alone, that lies at the root of our moral evaluation 
-of figures such as Rāma and Rāvaṇa. The fact that we admire Rāma and revile Rāvaṇa is solely 
-due to the power of Vālmīki’s great poem. If only Rāvaṇa had had the foresight to employ 
-Vālmīki himself, the status of the two could just as well be reversed, and we would all be 
-admonished to ‘Act like Rāvana, not like Rāma.’”551 As a careful reading will soon make 
-evident, Someśvara’s Vikramāṅkābhyudaya offers a systematic repudiation of this worldview 
-and the variety of relativistic social constructionism that gives it intellectual substance. Virtue, 
-Someśvara tells us, is very much a product of circumstance, and yet it is still very real and 
-operates a priori to the professionalized practices of hired literati. Inspiration and greatness, he 
-sets out to show us, are not the exclusive property of the poets of proper pedigree. On the part 
-of a faithful king, wise enough to reject the many intermediaries that attach themselves like 
-barnacles onto his office, these capacities can be received directly from the gods. While 
-Bilhaṇa is wary of and disgusted by the practice of royal power, Someśvara III is skeptical and 
-disenchanted regarding the adequacy of Brāhmaṇical normativity. His poem demands to be 
-read as repeatedly asserting that its maps do not correspond to Cāḷukya territory and towards 
-this end he consistently replaces the norms of the imagined universe of the Sanskrit cosmopolis 
-with the variegated messy realities of the Deccan, teaming with competing life-worlds, of the 
-sort we have already seen in contemporary inscriptions as well as within the Tantras. In other 
-551McCrea, “Poetry Beyond Good and Evil,” 507. 
-550 
-words, despite the fact that the Cāḷukya emperor is the well sired heir to the most powerful 
-throne in the Deccan, and our old friend Habbĕya Nāyaka, the local Śūdra big man with whom 
-we began this chapter, most certainly was not, in many ways the two men were inhabitants of 
-the same episteme, the contours of which have until now evaded the learned maps of the 
-modern scholarly imaginaries. 
-After some brief and now fragmentary verses, the Vikramāṅkābhyudaya begins with a 
-poetic tableau of the land, the waters, and the forests of Karnataka. Where Bilhaṇa commences 
-by attending to the two genealogies that pertain to his purposes, that of the Sanskrit poets on 
-the one hand and the mythical origins of the Cāḷukya kings on the other, Someśvara provides 
-us with a different kind of context, introducing the Kuntaladēśa in precisely the same manner 
-we find in the old Kannada inscriptions in what is the first of many unexpected convergences 
-between the disparate worlds of Sanskrit kāvya and literary Kannada. In contrast to the relative 
-concision with which he treats the topography, before we ever get to Kalyāṇa, Someśvara 
-proves loquacious and elegant in his opening description of “the people” (janavarṇana), the 
-first of many found in this kāvya, who are represented quite specifically in terms of their 
-relationship towards the Cāḷukya king. Here is how our king introduces the orders of varṇa: 
-He [the king] is being honored by the Brāhmaṇas, who have mastered the inquiry into the authorities regarding the words and sentences of all the Vedas, Smṛtis, and Purāṇas. They are committed to the practice of the occasional and obligatory rituals, such as the bath at the three times and the agnihotra, By them, the entire world is satisfied by the crops produced by rain clouds that have arisen from the cloud bank produced by the seven-fold chant, with abundant smoke that, emerging from the fire every season from oblations in seven continuous streams, imitates a garland of krauñca birds soaring in the silent sky. 
-He is accompanied by Kṣatriyas in the hundreds, who are intent on serving their Lord. Defeated on the field of battle, [these warriors] have taken [his] refuge. They are skilled in the arts concerning all weapons. They are ceaselessly engaged in the three actions that have the form of philanthropy, study, and commissioning sacrifices. 
-551 
-He is associated with Vaiśya folks, who have an abundance like that of the lord of wealth. Their wealth waxes from their business dealings, both legitimate and dishonorable. They subsist by the three means (trivṛtti) and are skilled in the three standards of measures. 
-He is made to look after the Śūdras, who are family men who subsist by a single livelihood of sales. . . . They are skilled in business, in war, in deploying slaves, and plowing the earth, and are intent on serving the three varṇas. 
-He is never without the fifth [varṇa], who are the innumerable śilpins and kārukas, such as painters, tailors, aṅkaśālikas (shop keepers?),552 sthapatis, 553iron workers, and cloth dyers. 
-Around the edges, he is attended to by the antyajātis who dwell in huts at the border of the villages. They are beautiful, with bodies black like a clan of cuckoo birds, and have very spontaneous sweet voices, with broken cowrie shells bound together next to one ear. . . . Their courtyards are strewn about with fragments of bones that are chewed incessantly by the dogs and crows and vultures. They are skilled in fashioning various sorts of cords/products (vaṭāra) encircled with leather.554 
-All of them are engaged in the accumulation of good deeds. All of them have the excellence that is produced by their own respective businesses. All of them have the conduct of insight sharp as the tip of kuśa grass. All of them are assisting others. All of them are not enduring the speech of the nāstikas. All of them are intent on the worshipping the gods. By all of them, endless wealth is produced.555 
-552Surely some other technical meaning is intended by this lexeme, as shop keepers makes little sense in this context, but the available lexicons do not seem to know other meanings for this term. 553Elsewhere, sthapati is often used as a synonym for sthānācārya or pratiṣṭhāpanācārya. Might these be our Kālamukhas, here lumped in among the artisans who they train and initiate? 554Much of the technical vocabulary in this verse remains obscure to me, I have simply translated around a number of terms, mostly in compound, that are not evident in the dictionaries. 555Someśvara, Vikramāṅkābhyudaya, pg. 4: samadhigatasakalavedasmṛtipurāṇetihāsapadavākyapramāṇavicāraiḥ trikālasnānāgni-hotrādinityanaimittikānuṣṭhānaniṣṭhaiḥ, pratyartupravartitasaptatantusantānahutahutavahodbhūta-niḥśabdagaganoḍḍīnakrauñcamālānukāribahala- dhūmastomasaṃpāditakādambinījanitaparjanyajanyamānauṣadhīparitoṣitāśeṣalokair brāhmaṇair upasevya- mānaḥ, dānādhyayanayajanarūpakarmatrayanirataiḥ sakala-śastravidyākuśalaiḥ samarāṅgaṇa-jitaiḥ śaraṇāgataiḥ prabhusevāparaiḥ kṣatriyaśatair upetaḥ, mānatrayanipuṇais traivṛtyupajīvibhiḥ satyānṛtavyāpārāsādita- mūlavṛddhibhir dhanādhipasamadhikasamṛddhibhir vaiśyajanair upapannaḥ, varṇatrayasevāparāyaṇair bhūmikarṣaṇadāsayogayuddhavyāpāravicakṣaṇair muṇḍavikrayaikajīvi(bhiḥ) kuṭumbibhiḥ śūdrair adhyāsitaḥ analpaśilpakārūkaiś citrakarasaucikāṅkaśālikarajasthapatilohakāraprabhṛtibhiḥ pañcamair avirahitaḥ grāmasīmānatakuṭīravasatibhir ekaśravaṇābhyarṇanibaddhasphuṭitavarāṭakair uparaṭitarjarjaritakarakṛtaveṇu- latikair vividhacarmavalitavaṭāra-ghaṭananipuṇair nīrandhragṛdhrakākakauleyakacarvitakīkasaśakalāvṛta- gṛhāṅgaṇaiḥ, kokilakulakālakalevarakāntibhiḥ sahajamadhurasvarair antyajātibhir upasevitopāntaḥ, sarvair api sukṛtārjananirataiḥ sarvair api nijanijavyāpārāsāditaprakarṣaiḥ, sarvair api kuśāgrīyaprajñāśālibhiḥ sarvair api paropakāraparaiḥ, sarvair apy asoḍhanāstikavacanaiḥ, sarvair api devapūjāparāyaṇaiḥ, sarvair api prakaṭitanirantarasaṃpattibhiḥ / 
-552 
-In this astonishing and peculiar passage, the typical stereotypes of the normative varṇa 
-system—Brāhmaṇas do ritual, Kṣatriyas fight, Vaiśyas trade, Śūdras serve—seamlessly fuse 
-together with an awareness of the realities on the ground during the medieval period, providing 
-our author with occasion for social commentary and even observational commedia. When 
-Someśvara talks about Brāhmaṇas, he talks about them both on their own terms, as 
-embodiments of Vaidika knowledge, while also suggesting the popular consciousness, evident 
-even today in the rural Deccan, that ordinary people value them because they think their rites 
-bring the rains. Speaking of Kṣatriyas, our author nods to their status as a class of warrior 
-patrons, and then brings out the more pertinent social facts that their ranks are comprised of 
-the folks the Cāḷukyas have defeated in battle such that their primary identity has become their 
-function as vassals. Someśvara is a keen and irreverent observer of the transactionalities of 
-daily life, and thus readily admits to prevalence of financial fraud within his kingdom. Along 
-similar lines, attending to actualities instead of ideals, our author is well aware that in a world 
-teaming with zamindar bhaḷāras with hundreds if not thousands of small farmers and slaves 
-under their direction, multicaste merchant guilds, and empowered vīras like Habbĕya, it would 
-be risible to represent the Śūdra as just comprising a servant class. Thus, against the inherited 
-canons, the category of the Śūdra must be emended. 
-Much more fundamentally and audaciously, as you can see in the above passage, 
-Someśvara begins his account of “who are the people” by drastically changing the scope of the 
-category of varṇa itself. Just as we have seen in the Piṅgalāmata as well as the inscriptions in 
-the greater region around Belvada, where both the esoteric prescriptive and the documentary 
-record tacitly recognize the existence of a “fifth varṇa,” Someśvara III also speaks of the so- 
-called paṇṇavaṇṇigĕ (pañcavarṇikā), the śilpins and painters, their caste gurus, and so forth, 
-553 
-whose institutional existence is carried out in the parallel world of the social imaginaries of the 
-Śaktipariṣad, which is linked to the land of the court by mutual regard but also, as we shall see, 
-by shared Śākta initiations. The king, we are told quite bluntly, is “is never without the five”: 
-in other words, the Cāḷukya world is inconceivable apart from its contract with the Śākta labor 
-pool whose energies quite literally enliven its institutions. 
-Finally, and perhaps most problematically from our perspective, Someśvara III’s 
-account of varṇa incorporates into the fold the people we call Dalits. In place of the 
-overdetermined negative judgements of normative tradition, the Cāḷukya king offers a vaguely 
-appalling pastoralist pastiche, wherein the antyajāti is rendered a sort of happy-go-lucky 
-singing uncle Remus whose beautiful black body and upbeat disposition belies the humble 
-circumstances to which society has consigned him. To the king’s credit, at least from a modern 
-sensibility, the Vikramāṅkābhyudaya’s treatment of varṇa concludes with the emphatic 
-insistence that all the aforementioned groups are engaged in meritorious actions, are skilled at 
-their work, are smart, and provide assistance to other people. Tellingly, Someśvara also asserts 
-that all these groups are devout worshippers of the āstika deities, an observation whose critical 
-tone is somewhat tempered by our author’s later tongue-in-cheek discussions of his nāstika 
-subjects and their institutions. 
-As our author is at pains to make clear, even in its expanded form, the system of varṇa 
-is completely inadequate for encompassing the scope of lived human reality. Nor is caste (jāti) 
-up to that task, for people are more than just the sum of what they do for a living. For this 
-reason, both in this description of the people (janavarṇana) in the first chapter, as well in the 
-continuation of this theme offered in the representation of Kalyana in the second, Someśvara 
-III presents to his readers a varṇanasaṃkara of professionalized and just plain human 
-554 
-behaviors, offering glimpses of people at work and people at play. Let us take a moment for a 
-few glimpses of some of the quotidian realities of the medieval Deccan—let us pause and meet 
-some of Someśvara’s “people”: 
-Some people are resplendent from the collection of the [colored] cloths that are bound together with knots, gems, and cowrie shells, undulating back and forth. Some people wear the lovely guise of the virile ones [vīra]. The borders [of their clothes] hang down, kissing their thighs. Their most excellent belts, in tiger skin, are wrapped about their back with wide dalaka leaves. 
-Some of these people, well, they’ve got Gaṇeśas, made of clay, perched in a vessel on top of their heads, to which are offered red kuṃkum and sindūra. . . . 
-Many people are dancing with nets of bells bound about their feet, following the playing of the mrḍaṅga. [The bodies of] those who are playing the mṛdaṅgas are white from the smearing of sandal paste, their heads bound up in garlands of flowers. Some of them make roars like lions, striking their mouths with their hands. . . . Some of these people, on the pretext of clearing their throats, make a rattling sound. . . . 
-Many people have assembled together and are satisfied from gifts of lots of tāmbūla. . . . Then, there are the folks who homes are fashioned immediately after sprinkling water. . . . Then, there are those who release their roosters for fighting. If their cocks win [the round,] they are released again. Their resting place is marked by boundary cloth. . . . They are comforted with the liquor for drinking that is set aside for the fighting folk, and the ground about their feet is stained with copious blood. . . .556 
-I think that the creator made the other countries first for the sake of practice; Having attained to excellence in artistry, after all that, he made this place which is the essence of creation. Who is capable of describing that Karṇāṭadeśa?557 
-556Someśvara, Vikramāṅkābhyudaya, pg. 5: dolāyamānaśaṅkhamaṇigranthikābaddhanetrapaṭachaṭāvirājitair, vyāghrakṛttikhacitavipuladalakapṛṣṭhapariveṣṭitavarapaṭṭikājānucumbilambamānāñcalacāruvīraveṣaiḥ, kaiścit śiraḥsamāropitasthālasthāpitasindūraraktakuṅkumārcitamṛṇamayavināyakaiḥ. . . mṛḍaṅgavādyānusāreṇa caraṇa- nibaddhakiṅkiṇījālakair bahubhir nṛtyadbhiḥ, kaiścit kusumamālāvanaddhamūrdhabhir malyajarasavilepana- dhavalair vādyamānamṛḍaṅgaghoṣaiḥ, karāhatamukhakṛtasiṃhanādair nāḍikākaraṇavyājakṛtakalakalair madhya- sthāpitamaryādaiḥ, bahalatāmbūladānaparitoṣitāyātasakalalokaiḥ, badarakaṇṭakāpāmārganimbaviracita- vicitravastrataraṅgavihitanīḍarakṣāvidhibhiḥ. . . kukkuṭair avadhūtoddhatakesarān prasāritākuñcitāvanamita- kandharān parasparacaraṇapraharaṇavañcanacaturānutpatanapūrvakasaṃghaṭanaviparyāsitasthānakān ruṣā nirantaramilitān, cañcupuṭakoṭipāṭitaśiraskānāhavārthaprativyāvarttanaprakaṭitālīkapalāyanān cañcudhāraṇa- pūrvakaṃ mūrdhni kṛtacaraṇaprahārān kaṇṭhobhayapārśvavinirgatārānutpāṭitakṛkāṭikān bahalakīlālaparilipta- bhūmibhāgān yodhakajanavidhīyamānapānīyapānasamāśvāsitān uttarīyāñcalavījyamānānantaḥ paṭadhāraṇa- dattaviśramān jayaparājayaikapakṣaviniścayāya punar vimucyamānān āsāditaikāntavijayān kukkuṭān yodhayadbhiḥ / 557Someśvara, Vikramāṅkābhyudaya, pg. 9: deśān anyān pūrvam abhyāsahetoḥ kṛtvā manye labdhaśilpaprakarṣaḥ / paścāc cakre yaṃ vidhiḥ sṛṣṭisāraṃ sa vyāvarṇyaḥ kair na karṇāṭadeśaḥ // 
-555 
-From the perspective of our author, it is only fitting that this place, Karṇātaka, which 
-excels all other places in the world, would leave great writers groping for the sort of language 
-and idiom that would capture its essence. And in a sense, the questions he poses, “vyāvarṇyaḥ 
-kair na karṇāṭadeśaḥ,” offers its own answer, for not only is this very strange Sanskrit, but, as 
-we will see repeatedly, rhetorical ejaculations of this sort form the structural glue that holds 
-the descriptive portions of this prose kāvya together. The typical structure is to introduce a 
-topic, offer many self-contained pen portraits illustrating different aspects of the subject, and 
-then to build to crescendo that culminates in a parenthetical aside along the lines of “who could 
-describe that,” or “what more is there to say,” or “what cannot be done [given the 
-aforementioned conditions we just been discussing],” immediately after which there is shift of 
-subject, focus, or sub-section. While the nature of Sanskrit prose remains notoriously 
-understudied and undertheorized, for apart from Yigal Bronner’s recent work on śleṣa and 
-“very long compounds,” Robert Hueckstedt’s 1985 monograph The Style of Bāṇa: An 
-Introduction to Sanskrit Prose Poetry remains the only study of this sort,558 even a cursory 
-engagement with pre-thirteenth century poetic Sanskrit prose reveals how jarringly out of step 
-Someśvara style is from the literary canons of “good” Sanskrit prose kāvya. Succinctly, one 
-can search high and low but neither Bāṇa nor Dhanapāla ever writes quite like this. In fact, 
-however, as you might have recognized, we have actually seen these rhetorical choices before. 
-For what is “sa vyāvarṇyaḥ kair na karṇātadeśaḥ,” “who can possibly describe the Karṇata 
-country”? Is it not in effect an act of back translation of a line analogous to “ār baṇnisar 
-kukkanūraṃ,” “who can possibly describe Kukkunur!” such as we found in the Kaḷēśvara 
-558Robert A. Hueckstedt, The Style of Bāṇa: An Introduction to Sanskrit Prose Poetry (Lanham, MD: University Press of America, 1985); Yigal Bronner, Extreme Poetry: The South Asian Movement of Simultaneous Narration (New York: Columbia University Press, 2010). 
-556 
-inscription? Indeed, is not this whole verse a linguistic transposition of a most familiar rhetoric, 
-“deśaṅgaḷŏḷagĕ kuntaḷa deśamĕ migiḷ,” among all the other countries the Kuntaladēśa is the 
-best”? As we have seen time and again, much of this language is rooted in chancellery formulas 
-that are refitted and repurposed to meet the needs of a range of circumstances. In short, 
-Someśvara III has adopted an unabashedly localizing literary language such that Sanskrit itself 
-is made Kannadiga, and Sanskrit kāvya ceases to be an insular unmarked world onto itself and 
-instead, notwithstanding its non-Jaina commitments, sits comfortably aside Ranna and the rest 
-of the great old poets. 
-Returning to grappling with our sources, the second chapter, adding to this already 
-varied gallery of devotees of Renukā Māt, (hence the cowrie shells), Kaula yogins, ordinary 
-devotees carrying out their vows, Pāśupatas of various sorts performing the upasaṃhāra 
-program of ritual worship, tāmbūla takers, proud new homeowners, and drunken sports men, 
-beaming with pride, Someśvara tells us about the inhabitants of Kalyana: 
-The city of Kalyana is encircled by: Brāhmaṇas, Kṣatriyas, Vaiśyas, Śūdras, daṇḍanāyakas, māṇḍalikas, sāmantins, sellers of sweetmeats, ministers, and Maharashtrians; by men who pick roots, paid labor, chief ministers; by Bhāgavatas, Pāśupatas, Jains, and Buddhists; by scholars, humble people, messengers, the patient, and the peaceful; by logicians, grammarians, tāntrikas, Purāṇics, poets, and mercenaries; by dancers, physicians, pimps. . . debaters, flutists, lute players, drummers. . . minstrels, conch blowers. . . 
-By commotion causers. . . by vetāla wranglers, by storytellers, painters, and various types of artisans; by jewelers and ones who examine gems. . . by astrologers, a those who know how to do augury based on the breath. . . by the one who knows omens and the ones who divine based on the behavior of birds. By various types of doctors, kāyasthas, scribes, elephant tenderers, by those who care for horses, by elephant salesman, by people who collect tolls, by the town crier, by ones who snare animals. . . by mariners, professional seductors, armorers, and practitioners of Gāruḍa medicine, by mantrins, by coquettes, by dancing girls, by singers. 
-And [Kalyana] is populated with those who come forth from the barbarian countries; from Laṅkā, Kalaha, from Kaṭāha from Makha, from Sohāra, from Revatīdvīpa. . . from the various countries [of our own land]. . . the seven Koṅkaṇas, Malaya, Kerala, and 
-557the Pāṇḍya and Drāviḍa countries; from Andhra, Kaliṅga, and from Gauḍa; from Kashmir, Ṭakka, and from the Turk land; from the Madhyadeśa, from the Cedi country; from Malava, from Lāṭa, and from Gujarat. 
-What more is there to say? This capital city called Kalyana, is the abode of all wonders, like the three worlds themselves.559 
-In place of the rhetorical invocation of the comprehensive and peerless nature of a great 
-society, founded on a restricted tropological canon of the sort that is common to kāvya, 
-Someśvara revels in this recounting of actual human diversity in miniature, including in his 
-presentation, as our translation alas cannot, a whole host of identities and their associated 
-paraphernalia that elude the grasp of our dictionaries. He has a special relish for cataloging the 
-outrageous, the unexpected, the picturesque, and the strange we see on display in his 
-Mānasollāsa, but at the same time the textured social world he depicts is more closely in tune 
-with what we find in our documentary records than it is to the imagined realities of most 
-Sanskrit and old Kannada mahākāvyas.560 The only thing barely in evidence in his world, in a 
-manner that strikes one as a quite deliberate response to Bilhaṇa’s braggadocio, is the role of 
-the learned Sanskrit poet itself, which here finds itself reduced to one name among many. 
-559Someśvara, Vikramāṅkābhyudaya, pg. 15: brāhmaṇa-kṣatriya-vaiśya-śūdra-daṇḍanāyaka-māṇḍalika-sāmanta- khaṇḍapāla-mantri-mahattara-maula-bhṛtya-mahāmātya-bhāgavata-pāśupata-ārhata-saugata-paṇḍita-vinīta-dūta- kṣāta-śānta-tārkika-śābdika-tāntrika-pāurāṇika-kavi-subhaṭa-bhaṭa-naṭa-vaṭhara-viṭa-vaṭu-pāṭahika-gāyaka- vādaka-vāṃśika vaiṇika-pāṇavika-maurajika-kāṃsyatālika-śāṅkhika-jārjarika-traivalika-kāhalika-ḍāṃvasika- vaitālika-kathaka-citrakara-vividhaśilpakaravaikaṭika-ratnaparīkṣaka-laghudīrghakṣurikākāra-svāṅgika- kuntakara-dhanurdhara-sellatomaracakrabhiṇḍipālādyanekaśastradhara-vividhagaṇaka-daivajña-svarodayajña- bhūbalajña-nimittajña-śukanajña-vividhavaidya-kāyastha-lekhaka-hastipaka-aśvavāstauraṅgika- hastivyāvaharārika-śaulkika-dhamanika-daṇḍapāśika-kalākuśala-sāmudrika-kitava-mahānasika-kuñcuki- gārudika-māntrika-vilāsinī-lāsikā-gāyikājana-parivṛtā; anayaiś ca siṃhalakalahakaṭāhabarbaramakhacohāra- revatīdvīpodbhavaiḥ gūrjaralāṭamālavika-cedimadhyadeśaṭakkaturuṣkakāśmīrakagauḍakaliṅgāndhradraviḍa- pāṇḍyakeralamalayasaptakoṅkaṇaprabhṛti-nānādeśasamāgatair ākīrṇā, kiṃ bahunā, trilokīva sarvāścaryaśālinī kalyāṇābhidhānā, rājadhānī / 560It would be remiss not to mention, if only in passing, that Someśvara’s compendium of the contents of Kalyāṇa incorporates celebrations of the many varieties of courtly courtesans as well as an extended discussion of the sumptuous confections produced for his kitchen, but a proper treatment of either subject would take us too far afield from the task at hand. For a study of the cooking portion of Someśvara III’s Mānasollāsa, the reader is directed to Andrea Lorene Gutierrez, A Genre of its Own: A History of Pākaśāstra and Other Culinary Writing of Early India (PhD diss., University of Texas at Austin, 2020). 
-558 
-Indeed, as we will encounter in the next chapter in more detail, one is reminded of the fact that 
-within the great Cāḷukya world, the quintessential representation of the poetic praising of the 
-ruler find expression not in the figure of the hyper-erudite male poet, be he Brāhmaṇa or 
-otherwise, but rather, rendered exquisitely in stone, emerges from the hand of a young female 
-aristocrat penning sophisticated praśastis in old Kannada. 
-Returning to our text, this quintessentially medieval Deccani celebration of diversity in 
-social function is paired with a measured recognition of the necessity of religious difference 
-that is also very much of its time. In light of our earlier considerations of the juridical 
-foundations of medieval religious diversity, its perhaps worth our time, before we turn to 
-thinking with the plot of the Vikramāṅkābhyudaya, to consider a bit of its treatment of religious 
-pluralism as it operates within the king’s capital city of Kalyāṇa itself. 
-[The temples of Kalyāṇa can be described:] 
-As if they are the stairway paths for ascending to heaven on the part of those who do good deeds, as if they are the incarnations of heaps of merit; as if they are a spectrum of fame made into treasuries; as if by the hands that are the waving flags from the fluttering of wind, they are casting sin far away; as if with the sounding of shrill bells they are dispersing bad actions; as if they are they are radiant with golden vessels that fashioned to resemble the auspicious breasts of Lakṣmī. . . . 
-Although they [the temples] are infinitely white, they are endowed with the fame from a long time/(that is very black); Although they are made of stone, they capture the mind; Although they are governed by Śiva, they cause desire (kāma) to wax; Although they contain Kṛṣṇa, they are not black (kṛṣṇa); Although they provide a seat for the sun, they are established by Jains; Although they are houses from Caṇḍikā, they are places of light; Although they contain the lords of obstacles, they make one without obstacles; Although they are the abodes of Sarasvatī, they are ones by whom great wealth (mahālakṣmī) is supported; 
-Although they exhaust [your] gold, they have great fortune (mahālakṣmī); Although they are the abodes of Mahākālī, they are seen to come forth from a lotus; Although they are very old, they have the state where “youth” (kumāra) is seen; 
-559 
-Although they are those in which the mothers (māṭrkā) have been fashioned, they have no letters (māṭrkā); 
-Although they house images of Bhairava/terrible images, they are lovely to behold; Although they are governed by Jains, they are covered in the clothes of the sky; Although they provide a home for the Buddha, they have accepted the state of having a stable existence.561 
-Succinctly, Someśvara takes advantage of a long series of nested clauses dedicated to 
-describing the sacred sites in his capital to try his hand at open mike night comedy—with 
-mixed success. Some of these puns make you wince. A few of Someśvara’s jokes, such as the 
-last one about the Buddhists, are actually funny. Regardless, two features of this discourse are 
-well worth attending to. The first is that the king throughout displays a playful irreverence 
-regarding the sacred landscape of the sort that might well threaten to hurt the feelings of some 
-modern pious Hindus. The second aspect is that, in representing nāstika spaces, there is an 
-added tinge of mocking condescension, reminiscent of the sort of stereotype driven mockery 
-of essentialized national difference that played such a key role in pre-twentieth-century Europe, 
-reminding us that a commitment to religious tolerance does not necessarily entail a purely 
-respectful engagement with “the other.” Nevertheless, it is worth noting that, underneath a bit 
-of hazing, the Cāḷukya king is eager to proclaim that the existence in the eleventh century not 
-only of Jains but of Buddhists dwelling in his capital city, forms a small part of what makes 
-Kalyana great. 
-561Someśvara, Vikramāṅkābhyudaya, pg. 10: sukṛtināṃ svargārohaṇaniśreṇimārgair iva mūrttībhūtaiḥ puṇyarāśibhir iva puñjīkṛtaiḥ kīrttisantānair iva samīraṇāndolanacañcalapatākāhastair agham iva dūram utsārayadbhiḥ vādyamānapaṭughaṇṭāṭaṇatkārair duṣkṛtam iva sphoṭayadbhiḥ puṇyalakṣmīpayodharair iva kalitakanakakalaśaśobhaiḥ. . . . atyantadhavalair api bahukālakhyātisahaiḥ, pāṣāṇamayair api cittaharaiḥ, harādhiṣṭhitair api parivarddhitakāmaiḥ / sakṛṣṇair apy akṛṣṇaiḥ, ādityādhyāsitair apy arhatpratiṣṭhaiḥ, caṇḍikāgṛhair api vasusadanaiḥ, savighneśvarair apy avighnakaraiḥ, sarasvatīniketanair api dhṛtamahālakṣmīkaiḥ suvarṇakṣayair api mahālakṣmīkaiḥ, mahākālīnilayair api paridṛṣṭakamalodbhavaiḥ pravṛddhair api darśitakumārabhāvaiḥ kalitamātṛkair apy amātṛkaiḥ prakaṭitabhairavamūrttibhir api sudarśanaiḥ, jinādhiṣṭhitair api sthagitadigambaraiḥ buddhādhyāsitair api svīkṛtasthirabhāvaiḥ / 
-560 
-Having set the scene, our author now introduces us to the line of our protagonists, the 
-Kalyāṇi Cāḷukyas themselves. In Bilhaṇa’s Vikramāṅkadevacaritra, the Cāḷukyas are said to 
-arise from “the hollowed hand,” or chalu, of Brahmā the creator himself, an account that makes 
-sense of the dynasties unusual name by way of folk etymology. Strangely enough, the Cāḷukya 
-king himself never even alludes to this supposedly foundational origin myth for his dynasty. 
-Indeed, with a few words about the well-known ancient stories of the royal line of the 
-line, Someśvara dispenses with all but a cursory attempt of making sense of the deep history 
-of his lineage. Instead, we are offered a descent in historical time, beginning, as all the 
-inscriptions of the period do, with king Satyāśraya, the defining mark of the Cāḷukya line, who 
-even to his alleged descendants mostly is just a name. Someśvara’s objective, rather straight 
-forwardly, is to make it clear that his Kalyāṇi Cāḷukyas represent a direct continuation of the 
-original Caḷukyas, who from the seventh century onward ruled at Badami. Towards this end, 
-mention is made of Pulakeśin and his victory over the Pallavas out of Kanchi, and a basically 
-accurate genealogy of the ruling kings of the line is presented. Regardless of whether there is 
-some merit to treating the two Cāḷukya lines as genetically linked, however, it is evident that 
-somehow in the intervening centuries, all but the most cursory sense of their storied ancestors 
-has been lost to the Kalyāṇi Cāḷukyas who seemingly are simply cribbing from vaṃśāvali lists 
-in the inscriptions. Contrary to Bilhaṇa’s claim that it is the poets who present us with the 
-lasting memory of the kings, it is not Pulakeśin’s court poet Ravikīrti who placed himself in 
-the company of Kalidāsa, but rather the bloodless vision of ancient unnamed bureaucrats, intent 
-on periodization and confirming property rights, who have granted these rulers some modicum 
-of lasting fame. And rather than being intrinsically fit for rule, in Someśvara’s account, 
-periodically throughout the generations, the splendor of the line is renewed through a direct 
-561 
-infusion of the favor of the goddess and the gods. Interesting enough, the identity of the acting 
-deity itself varies considerably such that, while Satyāśraya himself is said to have received the 
-favor of Viṣṇu (viṣṇuprasāda), Pulakeśin, we are told, had contact with Vīralakṣmī 
-(vīralakṣmīsamparka) and his great grandson in turn received the favor of an unspecified 
-Bhagavatī from worshipping the pair of her sandals. 
-The first figure whose actions are treated as consequential is Tailapa (957–997 CE), 
-the ruler generally credited with establishing the Kalyāṇi Cāḷukya dynasty. The king is 
-introduced to us, however, in a somewhat surreptitious manner, for first we must visit the lord 
-Nārāyaṇa as he rests on the serpent called endless time amidst the ocean of milk. When we 
-encounter Nārāyaṇa deep in yogic slumber, he is being pestered by the protectors of the world, 
-the guardians of the directions, the thirty major gods, and his two wives. The problem is the 
-usual one: evil forces are in power, and it is high time that Viṣṇu descends into the world to 
-kill the bad guys. 
-O god, you who are the refuge of all the world, who are the best at destroying the clans of the demons, you by whom the marvelous three steps (vikrama) were manifested, you of whom there is unquantifiable, unparalleled valor (vikrama), lord of the world, Janārdana, annihilator of the demon Kaṃsa, by whom Nanda was astonished by the lifting of Govardhana, by whom is produced the bliss of all the worlds, the one by which the lotus face of Lakṣmī is illuminated from the shimmering kaustabha gem. The weaver who fashions the cloth of saṃsāra—be gracious, O lord. By your grace, in the kṛta, tretā, and dvāpara yugas we became happy. By these incarnations, fish, turtle, boar, Narasiṃha, dwarf, the three Rāmas, and so forth, we were protected by you. But now, in the kali age, we need the lord himself to protect us. 
-Now, while you, O lord, have taken in fancy to dwelling in your in-laws’ house, distracted by dallying with Lakṣmī, we are being made to flee by the night walkers (niśācaras) that have taken human form, the very same ones you had previously destroyed. We have come to the refuge of the feet of the Lord.562 
-562Someśvara, Vikramāṅkābhyudaya, pg. 18–19: deva sakalajagaccharaṇya, danukuladalanavareṇya, pradarśitādbhutatrivikrama, nirupamāgaṇitavikrama, jagannātha, janārdana, kaṃsāsuravimardana, govarddhoddharaṇavismāpitananda, janitasakalabhuvanānanda, bhāsvatkaustubhakāntivikāsitalakṣmī- mukhāravinda, saṃsārapaṭanirmāṇakuvinda prasīda bhagavan / tava prasādāt kṛtatretādvāpareṣu yugeṣu sukhino vayam abhūma / matsyakacchapavarāhanarasiṃhavāmanarāmatrayādyavatārais tvayā parirakṣitāḥ / idānīṃ tu 
-562 
-All knowing Nārāyaṇa is already prepared for the occasion. In his response, he cuts to 
-the heart of the matter. 
-I know the deeds of the bad people, the rākṣasas called Rāṣṭrakūṭas. The earth has many impediments that are difficult to navigate. And sacrificing, patronizing sacrifices, and so forth does not take place. Therefore, in order to protect you now, I will cause the birth in the womb of Bonthādevī, wife of great virtue, of Satyāśraya, who excels this world, the sun of valor, through whose valor wealth accumulates, who is superior to the worlds/otherworldly. . . who has sloughed off the stain of the kali age by abiding in unwavering Kṣatriya conduct /that of Acyuta, arising from the lineage of the Cāḷukyas.563 
-Someśvara’s narrative collapses sacred and historical time, reading human political 
-history as the direct continuation of the unending story of how god periodically comes down 
-into the world to destroy evils that proved too much for human beings to handle. Indeed, the 
-conceptual framing at hand prefigures nearly everything that our literature has ascribed to the 
-cultural encounter between the people who would come to be called Hindus and their Muslim 
-rulers, suggesting perhaps that, regardless of their theological predilections and ethnic 
-identities, this was merely the common idiom for talking about one’s political rivals. Here 
-indeed the role of pratināyaka in this cosmic dharma is played by the poor Rāṣṭrakūṭas, by all 
-accounts a perfectly pakka early medieval dynastic power singularly unsuited to the role, who 
-had reigned on and off for past five hundred years, providing copious patronage throughout 
-the period for Vadika ritual sacrifices. Nevertheless, to fit the rhetoric, through an act of quite 
-literal demonization, they are pigeonholed into the role of the unrighteous rulers who oppress 
-the people and burden the earth and thus must be eradicated. Just as he came before in the form 
-kalau svāminaiva rakṣaṇīyāḥ / saṃprati punaḥ śvaśuragṛhanivāsabaddhakautuke lakṣmīvilāsarasike bhagavati bhavatpūrvanihatair eva manuṣyarūpadharair niśācārair upadrūyamāṇāḥ prabhoś caraṇaśaraṇatām āgatāḥ / 563Someśvara, Vikramāṅkābhyudaya, pg. 19: jānāmi duṣṭānāṃ caritraṃ rāṣṭrakūṭarākṣasānām / bahukaṇṭakā bhūmir duḥsañcarā vartate / yajanayājanādikaṃ ca na pravartate / tad idānī[ṃ a]haṃ yuṣmān rakṣituṃ cālukyakulodbhavasyobhayapakṣaviśuddhasyācyutakṣatriyacaritrasthānākalitakalikālakaluṣasya lokottarasatyā- śrayasya vikramopārjitavittasya vikramādityasya bhāryāyā mahāsatyā bonthādevyā garbhe janma kariṣyāmi / 
-563 
-of the Vaiṣṇava avatāras, Nārāyaṇa must descend again into the world, this time taking on the 
-guise of the Cāḷukya king. Having assented to this task, we leave the company of the gods as 
-the text aptly causes its reader to experience their own sort of descent back into the mundane 
-world. This whole prophetic vision, we suddenly discover, is in fact an auspicious dream in 
-the mind of the rājapurohita that he relates to the parents of the future Tailapa.564 Indeed, once 
-it is clear to the reader that divine sanction has been given for the task of overthrowing the 
-Rāṣṭrakūṭa imperium, our author does not bother to spell out the details of how they were 
-overthrown; we simply learn that they were, and the texture of the text regresses back to 
-fleshing out the crib notes on the royal panegyrics. Rather pointedly, the account that follows 
-of the most recent Cāḷukya kings simply elides most of the golden age of Kannada literature, 
-which mostly takes places under the next four rulers. It is as if history, mapped onto the 
-punctuated moments of divine intervention, begins with Tailapa and then begins again with 
-Someśvara III’s own grandfather. 
-Thus, while we might anticipate that vaṃśāvali as a genre takes as its focus telling a 
-story about continuities, the Vikramāṅkābhyudaya, at least in the portion that survives, attends 
-again and again to moments of discontinuity, centering its narrative first around the failure to 
-secure an heir and then on the further failure to secure a worthy heir. When we encounter him, 
-Āhavamalla is victorious in battle and enjoys the intimate company of thousands of women 
-beyond his wife. And yet, nevertheless, as his grandson’s poignant verse makes plain, he is 
-palpably unhappy. 
-Without a dear son, although the house courtyard is radiant with sovereign fortune 
-564Someśvara, Vikramāṅkābhyudaya, pg. 19: tataḥ prabhāte samutthāya kautukottaralamāna- sāvājyāvekṣaṇakṣaṇasamāgataṃ purohitaṃ samāhūya svapnaphalaṃ papracchatuḥ / tataḥ purohito ’pi harṣotkarṣaromāñcakañcukitagātraḥ sapramodam idam avādīt— suphalo bhavatv ayaṃ svapnaḥ / yuvayoḥ sa eva bhavagān jagattrayanāthaḥ śriyaḥ patiḥ putro bhaviṣyati / prajānāṃ svāsthyaṃ bhaviṣyati / dharmo vardhiṣyate / 
-564 
-(lakṣmī), who is dancing accompanied by ringing of the bells, with female elephants with tinkling golden bells, and sensuous women moving playfully to the lovely music struck upon the tambourine and beaten upon the drum—I see the courtyard as empty.565 
-Poor Āhavamalla would rather trade away such festive performances indicative of 
-worldly success for the pitter patter of little feet. In a similar spirit, his exceptionally erudite 
-wife, Mrs. Āhavamalla, in an utterly incomprehensible (to me at least) speech shot through 
-with the technical language of Vaiśeṣika ontology,566 concludes by proclaiming that she would 
-rather give away her station, to become a female slave who bears a lot of boys, than continue 
-to subsist in opulent sterility. 
-In their hour of need, as eventually becomes transparent, the grieving couple lean upon 
-the wrong sort of support. They go and ask the advice of Brāhmaṇas. Someśvara III, to be 
-clear, is no strong critic of caste nor does he hold any particular antipathy for the existence of 
-Brāhmaṇical knowledge as such. As far as he is considered, these are things are fine, indeed 
-sometimes necessary, but they belong in their own proper place. In the Vikramāṅkābhyudaya, 
-in a radical departure from the vision of Bilhaṇa, Brāhmaṇical knowledge is consistently 
-represented as overreaching in its ambitions and incomplete in its understanding, providing a 
-miśra mixture of both sound and deeply stupid advice. 
-The master has sort of given himself over to ceaseless worry, but to what avail? What is there that cannot be accomplished by the performance of dāna and tapas, correctly performed? What cannot be obtained from the best of Brāhmaṇas being satisfied? What is it that is hard to obtain when the Lord, the beloved of Bhavānī, is worshipped? 
-565Someśvara, Vikramāṅkābhyudaya, pg. 29: vādyamānamṛdaṅgamurajagīyamānasnigdhagītalīlā- caladvilāsinīkanakakiṅkiṇījhaṇatkārakareṇughaṇṭāraṇitanṛtyasāmrājyalakṣmīpariśobhitam api nandanam antareṇa śūnyaṃ paśyāmi gṛhāṅgaṇam / 566This seems to be a series of erudite śāstra jokes founded on plays on words that refer to both technical terms of art as well as a worldly dimension. Translating it into meaningful English while preserving both dimensions would be a real feat. Someśvara, Vikramāṅkābhyudaya, pg. 29: varam aṅgīkṛtātmajaguṇā nyāyavaiśeṣikī sthitiḥ / varam apatyaparivārā virodhanāmabarodhavadhūḥ / varaṃ paridṛṣṭavaṃśapravṛddhir vipinasthalī / varaṃ samāsāditaprasavaphalā latāvitatiḥ / varaṃ parigṛhītagarbhā ketakītatiḥ varam abhinandanīyanandanā samantānā niraśanabhūmiḥ / 
-565 
-For, even though he was old, through his wives’ consumption of the beautiful balls that were what remained from what has been offered to the fire by the sage Ṛṣyaśṛṅga, who was satisfied and full of immeasurable bhakti, did King Daśaratha not indeed obtain four sons, of whom Rāmacandra, tilaka on the line of Raghu, was the best?. . . . 
-Why say anymore? By the grace of Brāhmaṇas, there is nothing that cannot be obtained! 
-Therefore, for my lord also, some certain vidhi is to be enjoined that is capable of producing a lineage that is comparable to none other, [the performance of which is] proceeded by the satisfying of the Brāhmaṇas.567 
-The Brāhmaṇas begin obsequiously, but quickly their discourse moves on to a repeated 
-conflation of the efficacy of the rituals with the pleasing of Brāhmaṇas. While a normal feature 
-of the discourses related to varṇāśramadharma with their incessant invocations of the 
-Brāhmaṇa as a god on earth, in Someśvara’s writings, it is this attribution that is itself subject 
-to a throughgoing problematization. The Vikramāṅkābhyudaya, succinctly, sets out to 
-demonstrate that, contrary to commonplace rhetoric, the pleasing of Lord Śiva and the 
-gratification of Brāhmaṇas are not the same thing. Indeed, our story unfolds as essentially a 
-cautionary tale demonstrating that the very logic that animates the sponsoring of Smārta 
-ritual568 is itself not truly consonant with the type of worship that wins Śiva’s favor. As we 
-shall soon see, the Cāḷukya kings operate in a world populated by discrete and site-specific 
-religious modalities, each of which demands its own decorum. Indeed, the office of kingship 
-567Someśvara, Vikramāṅkābhyudaya, pg. 29–30: kim iti svāminā nirantaraṃ cintāyām ātmā samarpitaḥ / kim asti samyaganuṣṭhitānāṃ dānatapasām asādhyaṃ / kim asty alabhyaṃ paritoṣitebhyo vipravarebhyaḥ / kim asti durlabham ārādhite bhagavati bhavānīvallabhe / tathāhi nirbharabhaktibharaparitoṣita- ṛṣyaśṛṅgamunihutavahahutāvaśiṣṭacarupiṇḍāśanena patnīnāṃ vṛddho ’pi daśarathanarendraḥ kiṃ na lebhe raghuvaṃśatilakarāmacandrapramukhāṃś caturaḥ putrān. . . . kiṃ bahunā, brāhmaṇaprasādān na kiñcin na labhyate / tato devenāpi brāhmaṇaparitoṣaṇapūrvakam ananyasāmānyasanta[ti]samutpādanasamarthaḥ kaścid vidhir vidhātavyaḥ iti vijñapya tūṣṇīṃ tasthuḥ // 568Indeed, the role of these Smārta Brāhmaṇas represents a rare example in our textual record of a cultural attitude and set of practices that prefigures the Smārta theology of the dharmanibandhas of the later twelfth and thirteenth centuries, scarcely a trace of which is to be found in more elevated registers of dharma discourse. For more on the historicization of the discursive transformation, see especially chapters 9 and 10, wherein we will find learned defenses of somewhat parallel positions being articulated in the idiom of śāstra for the first time. 
-566 
-requires the ruler to seamlessly navigate between these distinctive realms several times in the 
-very same day. What our text depicts is a domain in which such code-switching is both 
-ubiquitous and usually carried out almost automatically, with very little self-reflexivity on the 
-part of the ritual actor. Indeed, while there is a pragmatic awareness that different contexts 
-demand different actions, there seems to be virtually no conscious understanding that this is 
-because the different ritual domains instantiate distinctive values and ideals and demand from 
-the ritual actor different sorts of ritual intentionality. 
-Momentarily convinced by his learned advisors, rising from his bed, Āhavamalla goes 
-about his morning routine under the guidance of his rājapurohita and his astrologer. After a 
-brief detour to the house of the god where he conducts his morning nitya ritual duties in 
-absolute privacy, returning to a more public space, the king takes a ritual bath. Coming to the 
-court, seated on his throne, he receives the praise of his courtiers and gives out the daily 
-philanthropy. As you can see, he directs much of the largesse to Brāhmaṇas. Ever so subtly 
-foreshadowing the force of the narrative, our author seems to suggest that these pious folks 
-have a number of rather laukika reasons, such as large families who will be needing dowries, 
-for promoting that the best kind of ritual is one where Brāhmaṇas get huge payouts. 
-With śraddhā and great respect, having a good mind, he [the king] gave perpetual dāna, including milk cows, gold, clothes, gems, elephants, horses, villages, and so forth, all of that stuff beyond measure, and that which was agreed upon by himself, to the best of the Brāhmaṇas, ones who came from other countries and those who were living in his own country, with lots of family members, who had established the sacrificial fires, who were engaged in performing weddings, upanayanas, and rituals, who had nice forms, who know the Vedas and the meaning of the Vedas and who have the conducts and the ācāra of a well-examined family.569 
-569Someśvara, Vikramāṅkābhyudaya, pg. 30: suparīkṣitakulācāraśīlebhyo vedavedārthavidbhyaḥ sumūrtibhyaḥ samāhitāgnibhyo yāgopanayanavivāhakaraṇodyatebhyo bahukuṭumbibhyaḥ svadeśanivāsibhyo deśāntarāgatebhyaś ca brāhmaṇavarebhyaḥ śraddhayā sanmānapuraḥsaraṃ godhenuhiraṇya-vāsoratnagajāśvagrāmādikaṃ yad abhimatam āt[m]anas teṣām ca tad akhilam aparimitaṃ nityadānam adāt / 
-567In a break from the usual schedule, following through on the suggestions of his 
-rājapurohita, Āhavamalla effectively convenes a Dharmaśāstra council, comprised of 
-representatives of a range of different opinions within the discipline, in the service of trying to 
-get a definitive answer regarding what is the best course of action for securing an heir. In 
-essence, instead of commissioning the composition of a text, the Cāḷukya king complies a 
-collection of citations from the dharma literature—or dharmanibandha—in human form. 
-Thus, having called together the purohita, the rājaguru, the Paurāṇikas, and Smārtas, those who are clever in the deliberation of Nyāya and Mīmāṃsā, those who are skilled in the Āgamic rituals of the Sauras, Pāśupatas and Vaiṣṇavas, he sought out what would be the means that would form the efficient cause of the production of a son. 
-They, having consulted the Purāṇas and Dharmaśāstras and having deliberated upon them, these best of Brāhmaṇas, resembling Atri, Bharadhvāja, Bhṛgu, Vasiṣṭha, Gautama, Viśvāmitra and Aṅgiras, they directed him in the following manner: “O king, by these sixteen mahādānas, the weighing of the man, the egg of Brahmā, the viśvacakra, hiraṇyagarbha, kalpavṛkṣa, kalpalatā, pañcalāṅgala, gosahasra, ratnadhenu, hiraṇyāśva, hastiratha, mahābhūtaghaṭa, saptasāgara, dharāhirṇaya, hayahiraṇya, and hiraṇyadhenu.570 
-“Having removed the sin that was produced a long time ago, out of the desire for a son, you who have a stainless mind and body should comprehensively worship the Lord of Pārvatī, who is the father of Kumāra who possesses śakti/has a spear. 
-“We also, our minds are completely satisfied by the charity and respect you have generated, will perform some particular rite suitable for producing a son. 
-“O great king, the attainment of the intended desires will take place. My lord should harbor no doubt in his mind.” 
-570 In her masterful social history of the vidyādāna or gift of knowledge, Florinda De Simini identifies the textual foundation of a particular catalog of mahādānas, closely approximating the one in our text, as first occurring in the Matsya Purāṇa. One can do no better than quoting her own explication of the category: “The great gifts described by Matsyapurāṇa 274–289 are the ‘gift of the man on the scales’ (tulāpuruṣadāna); the ‘gift of the golden embryo’ (hiraṇyagarbhadāna); the ‘gift of the Brahma-egg’ (brahmāṇḍadāna); the ‘gift of the wish- granting tree’ (kalpapādapadāna); the ‘gift of a thousand cows’ (gosahasradāna); the ‘gift of the wish-granting cow’ (kāmadhenudāna); the ‘gift of the golden horse’ (hiraṇyāśvadāna); the ‘gift of the horse carriage’ (aśvarathadāna); the ‘gift of the golden elephant chariot’ (hemahastirathadāna); the ‘gift of the five ploughshares’ (pañcalāṅgaladāna); the ‘gift of the earth’ (pṛthvīdāna); the ‘gift of the universal wheel’ (viśvacakradāna); the ‘gift of the wish-granting vines’ (kalpalatādāna); the ‘gift of the seven seas’ (saptasāgaradāna); the ‘gift of the jewel-cow’ (ratnadhenudāna); the ‘gift of the pot of elements’ (mahābhūtaghaṭadāna).” Florinda De Simini, Of Gods and Books: Ritual and Knowledge Transmission in the Manuscript Cultures of Premodern India (Berlin: De Gruyter, 2017), 32. 
-568 
-The great king, having drunk that nectarean speech with the añjali-like cavities of his ears, thought of himself, at that very time, as someone who has produced a son.571 
-Convinced that, the arrangements having been made, and much of the ritual outsourced, 
-his task was all but complete, Āhavamalla resumes the performance of the next stage of his 
-nitya ritual duties, which, once again, unlike all of his other commitments, are carried out in 
-his private ritual space in perfect solitude. Serendipitously for the modern historian of religion, 
-Someśvara III in his usual fashion eschews the euphemistic treatment of private worship 
-ubiquitous in Sanskrit discourse, in its place offering a staggering glimpse of the ritual system 
-that animated the greater Cāḷukya Imperium. 
-Thus, having entered the house [designated for] the pūjā of the god and having supplicated with himself with all eight limbs, on the ground that is smeared with the products of the cow, [Āhavamalla] seated himself in the lotus posture according to injunction. He on the part of whom the personal pūjā had been enjoined [deployed] mantra and mudrā, following the injunctions. 
-Then, having installed the Śrīkaṇṭha liṅga, constructed from the moonstone gem that produces a tender light like the moon with streams of expansive lustre, on a pīṭha inlaid with gems and made of gold, he bathed the liṅga with the five nectars and fragrant waters. Smearing it with sandal paste, haricandana, camphor, and the musk of the deer, he then offered the ritual worship with garlands made of bilva leaves with three branches and the karavīra flowers that are lovely and quite fragrant, flowers whose pericarps are the color of gold, the pale red veil of the mādhavī flower, with abundant bakula flowers, night-blooming lotuses and hundred-petal lotuses with beautiful petals, blooming fragrant jasmine, and the scent of the lovely campaka blossoms. Having offered [the god] the tāmbūla and the naivedya, fruits, rice, and things to be eaten of various sorts, [he performed the upasaṃhāra], dance, simple song, instrumental and classical music; he performed the Śiva worship accompanied by the sounding of bells. Offering lamps and camphor incense and dhūpa, consisting of the ten components, such as aguru and camphor, he worshipped. 
-571Someśvara, Vikramāṅkābhyudaya, pg. 30–31: tataḥ purohitarājagurupaurāṇikasmārtān nyāyamīṃāsā- vicācaracaturān saurapāśupatavaiṣṇavāgamakriyākuśalān samāhūya taiḥ saha putrotpattinimittaṃ ko vā syād upāya ity anveṣayāmāsa / tatas taiḥ purāṇadharmaśāstrāṇy avalokya vicārya cātribharadvājabhṛgu- vasiṣṭhagautamaviśvāmitrāṅgiraḥsadṛśair dvijottamair ittham abhihitaḥ— deva tulāpuruṣa-brahmāṇḍa- viśvacakra-hiraṇyagarbha-kalpavṛkṣa-latā-pañcalāṅgala-gosahasra-ratnadhenu-hiraṇyāśva-hastiratha- mahābhūtaghaṭa-sapta-sāgara-dharāhiraṇya-hayahiraṇyadhenubhir ity etaiḥ śoḍaśabhir mahādānair apanīya purākṛtaṃ duṣkṛtaṃ nirmalamanaḥkāyaḥ putrakāmyayā bhagavantaṃ śaktimat- kumārajanakaṃ pārvatīpatiṃ paripūjya / asmābhir api tvatkṛtasanmānadānaparituṣṭamānasaiḥ putrotpādanayogyā viśiṣṭā kācid iṣṭir anuṣṭhīyate / mahārāja sakalābhimatamanorathasiddhir bhaviṣyati / tatrabhavatā bhavatā cetasi na saṃśayo vidhātavyaḥ iti / abhidhāyo mahārājo ’pi karṇāñjalipuṭaiḥ paripīya vacanāmṛtaṃ tadānīm eva saṃjātaputram ātmānam amaṃsta / 
-569 
-Collecting himself by obstructing his conscious mind and sitting in silence, [Āhavamalla] performed the pūjā according to the obligatory daily injunction, [visualizing himself as] the Lord Svacchanda Bhairava (svacchandarūpiṇaṃ) who has five faces.572 
-Much to our astonishment, lurking at the heart of Cāḷukya power is nothing other than 
-the veneration of the terrifying deity Bhairava unmistakably mediated through a heavily 
-entextualized tradition rooted in Tantric practices. Quite apart from the normal trappings of lay 
-Śaiva pūjā, which preserve the upasaṃhāra program of worship of the old Atimārga Pāśupatas, 
-which privilege devotional music, Āhavahamalla’s obligatory ritual duties entail the use of 
-mantra, mudrā and esoteric meditative practices. These procedures serve the purpose of 
-transforming the king himself into a form of the god Svacchanda Bhairava.573 As his grandson 
-572In order to ensure that a modern reader can follow the logic of this passage, I have artificially subdivided what is essentially one very long sentence linked by a series of gerunds into several digestible parts. The key feature of this passage is that it presents us with a ritual sequence unfolding in chronological order that comprises a complete program of Tantric worship. Someśvara, Vikramāṅkābhyudaya, pg. 31: tataḥ praviśya devatāpūjāgṛhaṃ praṇamya ca sāṣṭāṅgaṃ gomayopaliptāyāṃ bhūmau padmāsanāsīno vidhivan mantramudrāvidhinā vihitātmapūjaḥ paścāt sauvarṇamayaratnakhacitapīṭhe pratiṣṭhāpya candrakāntaratnanirmitam ativitatakāntisantānaiś candrikām iva sāndrīkurvāṇaṃ śrīkaṇṭhaliṅgaṃ pañcāmṛtaiḥ sugandhisalilaiḥ snāpayitvā candanaharicandanakarpūramṛgamadarasena vilipya cārucampakasugandhisurabhivikacavicakilasupatra- śatapatrendupriyendīvarabahulabakulasamṛddhamādhavīpāṭalapaṭalasuvarṇavarṇakārṇikān sukumāragandha- karavīratriśākhabilvapatrādimālyaiḥ, samabhyarcyāgurukarpūrādidaśāṅgadhūpakarpūradīpavividhānnabhakṣya- phalanaivedyatāmbūlopahāraghaṇṭāravanṛtyagītavādyasaṅgītakapuraḥsaraṃ maunāsanamanonirodhena samā- hito bhūtvā svacchandarūpiṇaṃ bhagavantaṃ pañcavaktraṃ nityavidhinā samapūpujat / 573In a recent work, “The Śaiva Literature,” Alexis Sanderson surveys this canon in the following manner: “The Mantrapīṭha is dominated by the Svacchanda, also known as the Lalitasvacchanda, the Tantra of the cult of Svacchandabhairava and his consort Aghoreśvarī. This work is the pre-eminent text of this category in the scriptural accounts. It also the only one that has come down to us in its entirety. The only other works of this category that have reached us through citation or the incorporation of passages in compendia are its satellites: the Aghoreśvarīsvacchanda, the Dvādaśasāhasra-Mantrapīṭhasvacchanda, and the Rasasvacchanda. The importance of the Svacchanda is evident (i) from the fact that it has come down us in manuscripts in widely separated parts of the subcontinent, namely, the Kathmandu valley, Kashmir, and Tamilnadu, (ii) from the survival of various Paddhatis for worship and initiation based on it in the Kathmandu valley, and, above all, in Kashmir, where it became, with the Netra, the principal basis of the rituals of the region’s Śaivas down to recent times, and (iii) from the fact that it is the unacknowledged source of much of the wording and content of the prescription of the ritual of Saiddhāntika initiation set out by Bhojadeva in his influential Siddhāntasārapaddhati, stripped, of course, of all non- Saiddhāntika Mantras and deities, these being replaced by those of the Saiddhāntika Kālottara.” Alexis Sanderson, “The Śaiva Literature,” Journal of Indological Studies 24/25 (2012–2013): 36–37. On pg. 36, ftn. 132, Sanderson also observes: “The text was also well-known in Mālava, since it was utilized by Bhojadeva for his Siddhāntasārapaddhati, and in eastern India, since Vimalaśiva draws on it in his Vimalāvatī of AD 1101/2. It was also known in the Deccan, since its deity is referred to by Someśvara, the Western Cāḷukya king of Kalyāṇa in 3.731 of his encyclopaedic Mānasollāsa, composed in AD 1131.” Sanderson seems not to have noticed the passage currently under discussion, nor the entire chapter on the various iconographies of 
-570 
-transparently tells us, these rituals are no mere calendrically inflected trappings loosely 
-associated with the office. They represent the daily obligatory ritual procedure (nityavidhi) that 
-the king is obligated to perform if he is to maintain his ritual status and authority. His capacity 
-to engage in such procedures is almost certainly dependent on the Cāḷukya king bearing an 
-initiation into Śākta ritual system in which a male deity bearing the name of Svacchanda is 
-worshipped. With the evidence available to us, however, there is as of yet no way of 
-determining if the system in question is specifically the worship of Svacchandabhairava as 
-prescribed by the Svacchanda Tantra. By the eleventh century, both the deity 
-Svacchandabhairava and the textual resources provided by the Svacchanda Tantra, including 
-the cosmologies and the meditative and mantric praxes it prescribes, have been claimed by 
-religious communities across the entire spectrum of the traditions of the Mantramārga. Just as 
-the Svacchanda Tantra itself has drawn upon the proto Śaiva Siddhānta foundational scripture, 
-the Niśvāsaguhyasūtra, value systems as disparate as those of the overtly doctrinally nondualist 
-Trika Tantrasadbhāva, which advocates for the ritual worship of the yoginīs, and the 
-classically dualistic Śaiva Siddhānta paddhati, the Siddhāntasārāvali ascribed to the famous 
-Paramāra king Bhojadeva of Dhārā, which most assuredly does not, both extensively draw 
-upon the Svacchanda’s cosmological and mantra systems as a sort of Tantric source code for 
-filling in the gaps in its own ritual system. As a central focus of worship, the deity himself is 
-even more widely dispersed, surfacing for example in the Kubjikā Tantras, especially in the 
-form of Śikhāsvacchandabhairava, in the alchemical texts in the guise of various iterations of 
-Rasabhairava, and as the generic form of Mahābhairava in chapter 20 of the 
-Svacchandabhairava found in the Aparājitapṛcchā, a Pratiṣṭhā Tantra composed in Gujarat, with which we will engage in chapter 6. 
-571 
-Tantrasadbhāva.574 Until further evidence emerges, it suffices to say that, having become the 
-god, Āhavamalla worships the god with his very own hands, making offerings to a private 
-votary liṅga made of moonstone (candrakantā) called a Śrīkaṇṭhaliṅga, a focus of worship 
-absent from the surviving literature.575 
-In Someśvara’s brief representation, this Tantric pūjā is not marked as motivated by 
-some deep personal commitment to the theology of a particular stream of esoteric revelation. 
-Indeed, the pūjā is conducted without any invocation of a ritual intention. What we call Tantra 
-in this world, it seems, is simply part and parcel of royal office, something that has to be done 
-for a Cāḷukya king to remain a Cāḷukya king. Furthermore, this esoteric modality is at once 
-written into the daily routine and divorced from the transactional performances that fill the rest 
-of the king’s schedule, for unlike all of the rest of the activities in which he is engaged, 
-Āhavahamalla performs this part of his duties on his own, free from both learned professional 
-oversight on the one hand and sycophantic service on the other. As we shall see, the 
-Vikramāṅkābhyudaya appears to be offering an argument by example that such an approach is 
-the best way to worship Śiva. Indeed, there is scarcely anything indicating that the rest of the 
-king’s retinue has anything more than a vague understanding that the king observes some 
-unspecified private ritual practice. 
-Āhavamalla marks his completion of his private pūjā by putting on clean clothes. 
-Exiting the house of the god, he returns to work. He commissions the pavilions, made of 
-574Intriguingly, the vast first ṣaṭka of the Jayadarathayāmala noticeably diverges from this trend, for there Svacchanda appears solely as a subordinate entity among the Aṣṭabhairavas. 575Though serving as a supplement to the main immense stone liṅga, a moonstone liṅga remains in worship at the Bṛhadīśvara Temple at Gangaikonda Cholapuram, which was established as the new capital city of the Cōḻa kings by Rajendra I in 1035 CE, roughly contemporary with the narrative under discussion, thus suggesting this may represent an unnoticed feature of private systems of royal worship common to south India. 
-572 
-perishable materials, within which the sixteen mahādānas will be offered in the coming days. 
-He gets his daily report concerning foreign affairs, alliances, and wars. The king receives the 
-supplication of his long-standing vassals as well as of the princes whose kingdoms he has 
-recently conquered, who shower him with all sorts of gifts, priceless cloths, gold, elephants, 
-and horses, as they beg for his mercy and court his favor. In short, like the god he himself will 
-soon supplicate, the king is showered with flattery and riches by those who require his favor 
-to accomplish their own aims. Then the head cook comes out, twitches his brow, and the gong 
-rings. It is time for lunch, presented by female slaves with breasts as big as the serving bowls. 
-The king goes to the eating hall, accompanied by sensuous slaves, cooks, poison tasters, and 
-fellow diners. He eats his very sweet food, savors very sweet sights and having finished his 
-business for the day, retires for an afternoon of storytelling, entertainment, and erotic 
-recreation. The next two days unfold in a similar manner as he waits for the pavilions for dāna 
-to be constructed. 
-When the day of the great potlatch at last arrives, Āhavamalla assumes the role of 
-master of ceremonies, directing lavish presents and praise at the Lord who is Śiva, intent on 
-purchasing an heir through his efforts. 
-Then, desiring to obtain a son, accompanied by his queen who was in favorable mood, he began the procedure for the worshipping of the feet of Mahādeva, which bestows all desires. And every day, with a thousand golden kalaśas filled with the five nectars, he had performed (kārayāmāsa) the ceaseless abhiṣeka of Śiva. 
-He caused to be done (akāryata) the anointing with streams of kuṃkuṃ, moist kuṃkuṃ, the fragrant sandal paste, camphors that are unparalleled. He “did” the pūja with lots of flowers that have various sorts of fragrances, with many kinds of golden lotuses, with the required instrumental music, with singing, with lamps, with naivedya, and with dhūpa.576 
-576Someśvara, Vikramāṅkābhyudaya, pg. 33: tatas tanayalābhakāmo ’nukūlavartinyā mahādevyā saha sarvakāma-dasya mahādevasya caraṇārādhanavidhim ārabdhavān / pratidivasaṃ ca pañcāmṛtaparipūrṇasauvarṇakalaśasahasrair ajasram abhiṣekaṃ bhavasya kārayāmāsa / 
-573 
-In light of what will come after, it is perhaps worth noting at the outset that the key 
-verbs in this passage, the paraphrastic perfect kārayāmāsa and the imperfect causative passive 
-akāryata impart a causative meaning, evoking a clear sense that the king is not himself doing 
-the ritual, but merely having the ritual “done for him” by other people. After the completion of 
-these very involved and expensive festivities, that very night, the Cāḷukya king has a dream in 
-which a vaguely menacing ascetic appears before him. With his mass of tawny locks and bark 
-garment, his body smeared with ash, bearing the goad of Rudra and a flute, the yogin clearly 
-stands in for Lord Śiva himself. He imparts a devastating message. Expressing palpable disdain 
-for the arrogance of thinking that one could buy god’s favor as well as ridiculing the ridiculous 
-amount of money wasted on the sixteen mahādānas, the king is told that his efforts have been 
-utterly misguided and will result in terrible consequences. 
-O king, these austerities of yours are complete; in only a few days you will obtain a son. And yet, in just the same spirit that the worship of Lord Śiva was performed by you, a son was produced of the very same sort. [As] your inner faculties were seized by a tempestuous state, [for] you had become haughty, drunk on philanthropic practices involving the excessive expenditure of vast amounts of money, you have produced a son dominated by an excess of tempest (rājas) and torpor (tāmasa).577 
-In place of the notion that all you have to do is please the Brāhmaṇas to get your way, 
-Śiva’s vessel here invokes an older and more fundamental logic, which by now should be 
-familiar to us as it permeates the discursive worlds we have been exploring at a myriad of 
-registers: the ethical and intentional circumstances in which a thing or person comes into being 
-apārakarpūrasugandhicandanasāndrakuṅkumadravair vilepanam akārayat / vividhaparimalabahalakusumair vicitrakanakakamalair vihitadhūpadīpanaivedyagītavādyaiś ca pūjām akarot / 577Someśvara, Vikramāṅkābhyudaya, pg. 33: rājan paryāptam etena tava tapasā katipayair eva vāsarais tanayalābho bhaviṣyati / kiṃ tu nitāntabhūridraviṇadānamadagarvitena parigṛhītarājasabhāvāntakaraṇena tvayā yathārādhanaṃ bhagavato bhavasya vyadhāyi tathāvidha eva rajastamodhikas tavātmajo ‘bhāvi ity abhidhāya tirodadhe / 
-574 
-determines its intrinsic ontological nature. Far from representing mere ritual formula, the 
-intentions and mental attitudes cultivated by humans and other types of beings create the 
-character of the world they inhabit. The king and his wife, with their considerable academic 
-understanding of the conditionable nature of the human mind and human character, at once 
-realize the wisdom conveyed in this vision, and repent, lamenting their own foolishness. Here 
-the king tells his soon to be pregnant wife the very bad news. 
-O dear one, the ripening of bad deeds previously committed is difficult to overcome. Even though my mental habits had been naturally predominated by sattva since birth, since this bhāva came into being precisely on the force of an excess of rajas on my part, as I was engaged in the worship of my chosen deity for the sake of obtaining offspring, today, in fact, in the course of sleep, I was informed by Śiva that “your son will also be rājasic, for your mental operations had a rājasic state.” And thus, my heart is overcome, possessed by boundless sorrow. 
-Better than this obtaining of a bad son would be having no son at all. 
-Then again, a son with bad conduct is precisely the cause of affliction for the father, here in this world and the world beyond. . . . For, just like a sharp axe, he severs the branches that are the fame of the family that had flourished far and wide. For, the excess of rajas, like a hurricane, assails the eyes of all the people. For, the conduct of inertia that is not dispersed stains the foot like mud. For, one who is maddened by intoxication goes about just like an elephant without a goad. Like a serpent with a crooked path, he produces fear on the part of everyone. Like a wild horse, one who has a degraded mind does not stick to the path.578 
-Throughout the queen’s pregnancy, as is often the case in kāvya, the malignant nature 
-of her future child is readily apparent. In keeping with the circumstances of his production, 
-578Someśvara, Vikramāṅkābhyudaya, pg. 33: priye duratikramaḥ khalu purākṛtānāṃ duṣkarmaṇāṃ vipākaḥ / yato mamājanmasahajasattvapradhānacittavṛtter apy abhiṣṭāpatyalābhārtham iṣṭadevatārādhanapravṛttasya bhūyasā rājasa eva balād babhūva bhāvaḥ / adya kila svapnavidhau “rājasabhāvavṛtter bhavataḥ putro ’pi rājasa eva bhavitā” iti. bhargeṇāham abhihitaḥ / ata eva niratiśayaviśādāveśavaśīkṛtāśayo vartte / yasmād varam duṣputrād aputratā / durvinītaḥ punaḥ putraḥ santāpahetur eva pitror iha loke paratra ca. . . . tīkṣṇavṛttir hi kuṭhāra iva dūrapravṛddhavaṃśayaśaḥśakhāḥ khaṇḍayati / rajobahulo hi prabhañjana iva sarvajanānāṃ dṛśaḥ khedayati / avimuktajaḍavṛttir hi paṅka iva padaṃ kalaṅkayati / madoddhato hi dvirada iva niraṅkuśaḥ sañcarati / kuṭilagatir hi sarpa iva sarveṣāṃ bhayam upajanayati / duṣṭacitto hi śūkala iva na mārge calati / 
-575 
-which was suffused with excess of rajas and tamas, the future Someśvara II, the intended heir 
-to the throne, emerges a born sociopath. 
-With the passing of time, just like kali, he grew stronger. For no reason, although they were good folks, the prince intensely assailed his play companions. Alongside the other little boys, all the time, he played with fragments of human skulls and gambling die. He never bowed down to Brāhmaṇa folk with discipline and bhakti. On the pretense they were thieves, in play, he impaled birds on the peak of a spear. Even though they were just sketched in pictures, he severed the noses of attractive men with his nails.579 
-Rather than acquiescing to this horrible little monster someday coming into power, 
-Āhavamalla and his wife set out to secure a second superior son. This time, eschewing the 
-council of Brāhmaṇa ritualists, Āhavamalla takes matters into his own hands. Placing his 
-kingdom in the care of his advisors, committing himself to absorbing his mind completely in 
-unceasing contemplation of Śiva, he sets out on pilgrimage to Srisailam intent upon 
-worshipping the Lord in his home on top of the mountain. Entering through the southern gate, 
-the company first pauses at the old Bādāmi Caḷukya ritual center of Alampur to bathe in the 
-confluence of the Tungabhadrā River and worship Lord Brahmēśvara. Apart from its role as 
-sacred place, during the period in question, Alampur marked the external limit of the territory 
-to which the Kalyāṇi Cāḷukya kings were legally entitled. From this point onward, 
-Āhavamalla’s claims to royal privilege are suspended and he is merely a foreign guest in a 
-domain where Śiva himself reigns supreme. The poet Someśvara III uses this social reality as 
-the impetus for an extended metaphor that homologizes the terrain of Srisailam with dynamics 
-of a rājadhāni, a capital city like Kalyana. In short, just as we ourselves have discovered earlier, 
-our Cāḷukya royal poet is acutely aware that sacred fields, like any other undying land grant, 
-579Someśvara, Vikramāṅkābhyudaya, pg. 46: sa ca krameṇa kalir iva varddhmānaḥ sahacarān sādhūn api niṣkāraṇam eva nibiḍaṃ pīḍayāmāsa / sarvakālaṃ bālakaiḥ saha kharparakapālikākapardakaiś cikrīḍa / na kadācid api brāhmaṇajanaṃ sabhaktivinayaṃ praṇanāma / krīḍayā pakṣiṇaḥ samāropitacaurabhavān śūlaśikharam ārohayat. citralikhitānām api surūpāṇāṃ puruṣāṇāṃ nakhair nicakartta nāsām / 
-576 
-demand to be understood as sovereign spaces governed by their own internal logic of rule 
-running parallel and equally potent to the normative domain of the political. 
-Ascending to the peak of Śrīparvata, he imagined the girdle belt of that great mountain like the capital of a kingdom, a seat of radiant arrows/reeds, encircled by swordsmen /rhinoceroses, manifesting a collectivity of elephants/bears; 
-[He saw] cliffs that were like temples, their walls of stone and gold inlaid with lovely gems; 
-[He saw] the caves as if they were the houses for courtesans, in which collections of nāga women were established inside; 
-[He saw] herds of forest cows and buffalo that were like livestock; 
-[He saw] deposits of wealth that were like the treasuries of Kalyana, with various sorts of fortunes; 
-[He saw] the bowers with their streams and reservoirs as if they were bathhouses; 
-[He saw] the sage folk as if they were the community of the brahmapurī with their abodes in various places. And he thought that the sādhakas and the siddhas and the gods were like the city folk walking everywhere.580 
-As he ascends higher up onto the mountain, as he is brought into contact with features 
-of the landscape that have no mundane comparison, familiarity gives way to wonder. 
-In some places, there were fields of divine remedies unobtainable elsewhere; black citrakas, red vajra trees, yellow agastis, and white darpa grass, which are employed in the procedures (sādhanā) of alchemy (rasarasāyana) that produce longevity, youth, steadfastness, virility, luster and power, and that destroy death, fear, misfortune, disease, wrinkles, and gray hair. . . And in some places there were temples of the gods in which the deities were being worshipped by worshippers who were engaged in the attainment of wonderous siddhis of various sorts, the making of magic pills, the production of a yogadaṇḍa, wish-fulfilling gems, the sparśavaidhi and the siddhi of the sword, the sandals, the foot ointment that is capable of causing one to travel in the sky, the [gold] cloth, and the ointment for the tilaka of invisibility.581 
-580Someśvara, Vikramāṅkābhyudaya, pg. 38: śrīparvatasya kaṭakam ārohaṃs tasya mahāmahībhṛtaḥ prakaṭitakaraṭisamūhāṃ khaḍgibhir āvṛtāṃ rucirabāṇāsanāṃ rājadhānīm iva mekhalāṃ, ruciraratnakhacitakanakaśilābhittīni mandirāṇīva kandarāṇi antaḥsthitapātālavilāsinīsamūhāni gaṇikāgṛhāṇīva vivarāṇi, jīvadhanānīva vanamahiṣīgavayagokulāni, vividhasamṛddhīni kalyāṇakośa- bhavanānīva nidhānasthānāni, dhārāgṛhāṇīva sanirjharaprapātāni kuñjāni, tatra tatra vihitavasatiṃ brahmapurīsamājam iva munijanaṃ, sarvataḥ saṃcarataḥ pauralokān iva surasiddhasādhakān amanyata / 581Someśvara, Vikramāṅkābhyudaya, pg. 39: kvacana hastavinyastamastakasādhakajanānviṣyamāṇa- valīpalitarogadaurgatyamṛtubhayāpahāribalatejovīryasthiratāruṇyacirajīvanakārirasarasāyanasādhanopa- 
-577In an underplayed manner, our author communicates that the domain we are passing is 
-at once thoroughly suffused with Tantric knowledge while at the same time accommodating 
-the most cultivated forms of purely Brāhmaṇical asceticism. Someśvara’s portraits in miniature 
-of ascetic practice are some of the richest to survive from the literature of the period. In the 
-world of the medieval Deccan, the category of what constitutes a sage is truly capacious. 
-In this place. . . some of the ascetics, their bodies smeared with pure white ash, are laughing like Hara. Some have the surface of their matted locks bound about taut with a saffron yoga belt. Some have pleasing intellects attached to samādhi, which is perfected by the fruition of dhyāna, dhāraṇā, and so forth. On the part of some, there is the innate passion of being bound to the worshipping and bathing of the bāṇa liṅgas. And there are ones who are clever in the imparting of the Śaivāgamas and śāstras, which are made for the crossing over the ocean of saṃsāra which is difficult to cross. 
-There are ones by whom the surface of the earth is ornamented by an abundance of white fame like an autumn cloud. There by ones who are the grounds for the manifestation, through the most wonderful power of tapas, of the washing clean of the stain of the kali yuga. There are ones whose mental activities are devoid of the deformations produced by māyā. . . . There are ones whose masses of matted locks imitate the crest of smoke from the fire of austerities that is being ceaselessly kindled. . . . 
-There are ones of whom the palms of their hands are purified by a japa mālā that has a very beautiful form; it is a single string of pearls of that ornaments the fortune that is liberation (mokṣalakṣmī). . . Some are removing the mass of their hair as if it is a black stain. Some are carrying a stick as if it is for the sake of beating the dog that is the kali yuga. Some have had their thirst for the poison of saṃsāra cast off through the medicine that is tasting ceaselessly the nectar that is the bliss of the unparalleled brahman. 
-Some bear a palāśa staff. Some have bodies that shine brilliantly with a black antelope skin wrapped about them. Some have topknots. Some have shaven bald heads. Some have a white upavīta thread, and some are brahmācārins who bear loin cloths, bark garments, and belts of muñja grass that are purifying and wrapped about their hips. 
-They all live there. And among them, [he saw:] 
-yuktaśvetadarbhapītāgastiraktavajradrumakṛṣṇācitrakāṇy anyatrālabhyāni divyauṣadhikṣetrāṇi, kvacanādṛśyatilakāñjanapaṭagaganagamanakaraṇakṣamapādalepapādukākhaḍgasparśavaidhicintāmaṇi- yogadaṇḍaguṭikādivividhāścarya-karasiddhisādhana-samudyatārā-dhakārādhyamānadaivatāni devatāya- tanāni / kvacana śailodakasparśakarttari-cchāyākarttarī-saṃjīvana-tailopapadasalilapūrṇāni kuṇḍāni, kvacana śṛṅgārarasamṛgatṛṣṇikāvipralobhyamāna-kāmukamṛgābhiś cchāyāṅganābhir upaśobhamānāni sānūni, kvacana kucakalaśabahalakuṅkumāṅgarāgābhi-vyajyamānakhacarakāminījanāvagāhanavilāsān nirjharapravāhān / 
-578 
-Some like trees who were only drinking water; some who only consumed milk like children; some only consumed air like serpents; some went about eating leaves, bulbs, roots and fruits like forest animals; some were drinkers of smoke like they were assailed by phlegmatic diseases. 
-Some were devoted to japa likes ones with a forest vow; some bore matted locks like banyan trees; some bore crests like peacocks; some were delighted by dispassion as if they were fish; some who were accomplished in patience as if they were kings; Some who had delight in the confluence with nirvāṇa/air as if they were rainbows; some had been released/attained mokṣa like arrows; 
-Some of them had become happy as if they had obtained the nine wealths, like petitioners; some, like great poets delighted in the attachment to samādhi/like connoisseurs in the binding together of compounds. . . .582 
-On the other side of the āśramas of the sages, Āhavamalla come into the presence of 
-Mallikārjuna, the form of Śiva that resides at Sriailam. This time, instead of committing 
-himself to the ethos enjoined by varṇāśramadharma, he devotes himself to śivabhakti. 
-“My Lord excels all, you by whom grace is bestowed on the people of whom the minds are purified by bhakti! Be gracious, O Lord!” 
-Having exalted him with words of praise, he thus formed an intention, directly before the destroyer of Dakṣa’s sacrifice: 
-“Through your favor, O Lord, in order to produce a son whose fundamental nature is innately pure sattva, which is completely full of that which delights due to his multitude of extraordinary qualities, by whom the entire surface of the earth is overcome by his 
-582Someśvara, Vikramāṅkābhyudaya pg. 40–41: yatra ca kecit bhasmakopalāntarālasamākṛṣṭaharahasitadhavala- bhasitoddhūlitatanavaḥ kaṣā[y]ayogapaṭṭakagāḍhanibaddhajaṭāmaṇḍalāḥ, dhyānadhāraṇādisamṛddhisamiddha- samādhibandhabandhuramatayaḥ, [b]āṇaliṅgasnapanaparipūjananibaddhasahajaratayaḥ, dustarasaṃsārasāgara- samuttaraṇasetubhūtaśaivāgamaśāstropadeśaviśāradāḥ, śaradāmbudharaviśadatarayaśaḥprāgbhāravibhūṣita- bhuvanatalāḥ, kalikālakaluṣaprakṣālanādbhutatamatapaḥprabhāvāvirbhāvabhūmayo, māyāvikāravirahitamānasa- vṛttayaḥ, jñānānaladahyamānaduṣkarmendhanabhasmasamānoddhūlanabhūtayaḥ, nirantarapravardhamāna- tapognidhūmaśikhānukārijaṭākalāpā, yajñopavītamiṣatovabhrāntyā vāsukineva niṣevitakaṇṭhāḥ, mokṣalakṣmī- maṇḍana-mauktikaikāvalīsulalitarūpākṣa-sūtrapavitratakaratalāḥ, kecidasamatapaḥprabhāvaviniḥsāritāntara- saṃsārānurāga-sadṛśasamupalakṣymāṇakāṣāya-vasanadhāriṇaḥ, kṛṣṇaṃ kalmaṣam iva keśakalāpam apanayantaḥ, kalikālakauleyakatarjanārtham iva daṇḍam udvahantaḥ, asamaparabrahmānandāmṛta- satatāsvādanāpyāyana-nirākṛtasaṃsāraviṣatṛṣṇā yatayaḥ, kecid āṣāḍhinaḥ parihitakṛṣṇājinabhrājamānavapuṣaḥ, muṇḍitamuṇḍāś cūḍālāḥ, sitayajñopavītāḥ, kuśapavitrapatritapāṇayaḥ, kaṭipariveṣṭitapāvanamuñjamekhalā- valkalakaupīnadhāriṇo brahmacāriṇaś ca prativasanti / teṣu ca kāṃścit pādapān iva jalāhārān, bālakān iva payaḥpāyinaḥ, pannagān iva pavanāhārān, mṛgān iva phalamūlakandapatracāriṇaḥ, kaphapīḍitān iva dhūmrapān, vanavrātān iva japāraktān, nyaghrodhān iva jaṭādhāriṇaḥ, mayūrān iva śikhābhṛtaḥ, kātarān iva asaṅgarocitān, pārthivān iva kṣamāprasādhakān, śakracāpān iva nirvāṇasandhānarūcīn, bāṇān iva prāptamokṣān, arthina iva navaṃ dhanaṃ prāpya sukhībhavataḥ, mahākavīn iva samādhibandharasikān / 
-579 
-valor (vikrama) that is not common to this world, I by whom the attachment to all sense objects is cast off, I who have abandoned all adventitious attachments, perform austerities!”583 
-Whereas, under the guidance of Brāhmaṇas, ritual devotions amount to a form of high 
-end investing in karmic futures, under the guidance of Śiva, we learn that efficacious ritual 
-demands the purification of the mind and the deliberate affliction of the body. In his 
-representation of the ritual program undertake by Āhavamalla, his grandson Someśvara III 
-takes great pains to bring into sharp relief the contrast with the vision of religion praxis that 
-earlier had dominated the courtly setting in every domain apart from that of the private ritual 
-worship. Instead of a three-day lavish party, the king must commit himself for the duration and 
-must himself suffer. 
-From that moment on, every day, he bathed the three eyed lord with beautiful gold kalaśas, which were filled with water from the subterranean Gaṅgā. After that, he smeared the Lord with the essences of deer musk, camphor, sandal paste, and yellow sandal paste. And then, he performed a pūjā that was very auspicious with the five facilitating practices, with many types of flowers garlands that were fashioned with fragrant flowers of many sorts, as was enjoined. 
-Likewise, he performed ceaseless circumambulation of Virūpākṣa with his own two feet which, even though they had been engaged in the striking of crores of the crowns on the heads of adversarial kings, were tender by their very nature. 
-Although he was always made for endless pleasures, because of his being extremely sattvic, he subsisted solely on bulbs, roots, and water. Having taken up the rule of celibacy, he passed the nights/rid himself of women on a marriage bed made of stone. 
-What more is there to say? 
-Practicing that kind of tapas, exceedingly extreme; that which causes adversity to the senses, which drives away the sense objects; 
-583Someśvara, Vikramāṅkābhyudaya, pg. 43: jaya bhaktiśuddhamānasajanavihitānugraha, prasīda bhagavān iti stutipadair nutvā, saparyāpuraḥsaraṃ bhagavann asādhāraṇaguṇagaṇarāmaṇīyakaparipūrṇasahajasattva- mayaprakṛtim, alokasāmānyavikramākrāntasakalabhuvanatalaṃ tatprasādāt tanayam āsādayituṃ parihṛtanikhilaviṣayāsaṅgaḥ parityaktāvāntaravyāsaṅgas tapas ta[p]sye iti dakṣamakhamathanasya sumukham eva saṅkalpam akarot / 
-580 
-That which is the obstructer of momentary pleasures; That which is the impeder of obstacles; That which binds the modifications of the mind, that which leads astray the royal play; That which brings under dominion that which is most auspicious; That which is the agent of achieving the attainments most desired; 
-Unable to be practiced by others, which crosses beyond being an object of description, having crossed over the path of enumeration— austerity of a sort never seen before or heard of previously, he passed the time for an exceedingly long while.584 
-Tellingly, it is at midnight, when no Brāhmaṇical pūjā is prescribed, but when, as the 
-fourth sandhyā looms large in Śākta ritual, that divine presence graces the king. While the king 
-is performing worship inside the temple of Mallikārjuna, Śiva emerges as “a disembodied 
-voice from the belly of liṅga,”585 announcing to Āhavamalla that his boon has been granted. 
-Śiva tells us he is pleased by his austerities, “which were most difficult to endure,”586 and so 
-he directs Nārāyaṇa, “for the sake of protecting the world, to incarnate here in the Cāḷukya 
-lineage, in the same way as you did in the lineages of the Yādavas. And, thus by my grace, 
-what is desired by you has been directly obtained. In just a bit of time, the beloved of Lakṣmī 
-will delight you in the form of a son. And he will protect the earth.”587 In a fit of foolishness, 
-584Someśvara, Vikramāṅkābhyudaya pg. 43–44: tataḥ prabhṛti pratidinaṃ pātālagaṅgāsalilaparipūritaiś cāmīkaracārukalaśair bhagavantaṃ trilocanaṃ snapayāmbabhūva / tadanu haricandanacandanaghanasāramārga- dravair anulilimpa / tato vividhavihitasugandhikusumaviracitavicitramālyapañcopacārasubhagāṃ pūjāṃ cakāra / tathā pratibhaṭanarapatiśiraḥkirīṭakoṭitāḍananiratābhyām api svabhāvakomalābhyāṃ caraṇābhyām eva santataṃ virūpākṣaṃ pradakṣinīcakre / santatam anantasukhamayo ’pi mahāsattvatayā kandamūlajalair eva prāṇavṛttim akalpayat / parigṛhītabrahmacaryaniyamaḥ kalpitaśilātalatalpaḥ śarvarīr atyavāhayat / kiṃ bahunā, yadvirocakam indriyāṇāṃ, yadutsārakaṃ viṣayāṇāṃ, yadbādhakaṃ tātkālikasukhānāṃ yadduṣpraveśaṃ vighnānāṃ, yad[b]andhanaṃ cittavṛtteḥ, yanmohanaṃ rājyavilāsānāṃ yadvaśīkaraṇaṃ śreyasāṃ, yatsāṃsādhakaṃ manorathasiddhīnāṃ, tadanākarṇitapūrvam adṛṣṭacaram atītagaṇanāpatham atikrāntavarṇanāviṣayam anyair anuṣṭhātuṃ aśaktyam atitīvraṃ tapaś carann atibhūyāṃsam anehasaṃ nināya / 585Someśvara, Vikramāṅkābhyudaya, pg. 44: liṅgodarād aśarīraṃ vacanam udagāt / 586Someśvara, Vikramāṅkābhyudaya, pg. 44: “rājan, prasanno ’smi tavāham atiduḥsahais tapobhiḥ” alpīyasaiva kālena sakalam api tavābhivāñchitaṃ sampatsyate / 587Someśvara, Vikramāṅkābhyudaya, pg. 44: yad uta deva nikhilabhuvanābhayadānavyāpārabaddhādara, durdamadānavonmūlanapuraḥsaraṃ surādhipatyapratiṣṭhāpitapurandara, govarddhanadharaṇīdharoddharaṇa-samayaprakaṭīkṛtapracaṇḍadadordaṇḍasāra, sakalabhuvanānanditadaśāvatāra, yādavakule iva cālukyavaṃśe sakalajagadrakṣaṇāya madanugrahārthaṃ prasādabuddhyā punar avataraṇīyam atra bhavatā puruṣottamena iti, tataś ca mama prasādāt saṃpannam eva tava samīhitam acireṇaiva kālena kamalāvallabhas tvāṃ nandanabhāvenānandayiṣyati / pālayiṣyati ca saptapārāvāramekhalāparikalitāṃ viśvambharam / 
-581 
-the Cāḷukya king responds to direct revelation by deciding that, if one righteous son incarnating 
-a god is good, two would be even better, and starts up his austerities again. Lord Śiva is 
-decidedly not impressed. 
-O king, due to excessive churning, even from milk, the kālakūṭa poison was obtained. Thus, they say that in all cases, excess is hubris. Excessive in your expectation, because you are not satisfied despite the obtaining of a son who will conquer the world, you have manifested a tāmasic essence. Thus, another son will come into being who is made up of tamas, just like poison. Therefore, quickly return now to your own city.588 
-Like a disobedient child sent to his room, Āhavamalla returns to his capital city just in 
-time to start a family of his own. Sadly, this is just about where the extant text ends, offering 
-us just a taste of the respective childhoods of the various princes. About Vikramāditya VI we 
-learn very little of substance.589 In contradistinction to his dastardly brothers, from birth 
-onward he was both polite and righteous. When his horoscope is done, to the astrologer’s 
-astonishment, his splendor and destiny is seen to both resemble and rival his great ancestor 
-Tailapa, uprooter of the Rāṣṭrakūṭas, which in fact is hardly surprising, given that both men are 
-understood to be incarnations of Nārāyaṇa himself. Perhaps the only feature worth noting in 
-the presentation of the early ritual life of Vikramāditya VI as he receives the Vaidika 
-saṃskāras, each of which are described in loving poetic detail, and prepares for studentship is 
-that, alongside the detailed delineations of the prince’s Vaidika vidhāna, if just in passing, our 
-text alludes to the private performance of a separate set of ritual procedures, which 
-Vikramāditya VI dedicates to his kuladevatā. 
-588Someśvara, Vikramāṅkābhyudaya, pg. 44: rājann atimathanāt kṣīrād api kālakūṭam utpannam ity atiḥ sarvatra garhita iti vadanti / tvayā cātikāṅkṣiṇā jagadvijayiputralābhe ’py atṛptyā tāmasaṃ svarūpam āviṣkṛtam ity anyo ’pi viṣa iva tamomayas tanayo bhaviṣyati / tatas tvam idānīṃ tvarayā nijapurīṃ vraja iti/ 589 Indeed, what is presented matches almost perfectly the prescriptive contents outlined by Someśvara III in the second viṃśati of the Mānasollāsa characterizing the education of a prince. 
-582 
-In making sense of the hidden ritual life of the great Cāḷukya sovereign who ruled the 
-realm in relative peace for fifty years, overseeing a renaissance in the visual culture of the 
-medieval Deccan, whose influence was felt into the thirteenth century, as we might by now 
-anticipate, Bilhaṇa, his official biographer is of no help whatsoever. His Vikramāditya VI is a 
-thoroughly idealized instantiation of generalized virtues, whose theological leanings are 
-entirely opaque. Thankfully, once again, Someśvara III comes to our rescue, offering us a 
-tantalizing detail about his father’s “hobbies.” This time our source is not his son’s mahākāvya, 
-but rather his significantly more famous and yet equally under examined compendium of 
-knowledge, the Mānasollāsa.590 
-The fifth book of the Mānasollāsa offers a catalog of what are typically taken to 
-represent “courtly enjoyments.” The Sanskrit word used, krīḍā, has a substantively different 
-semantic field, and in content the chapter encompasses activities as varied as planting trees, to 
-hosting parties in which men and women consume liquor until the point of passing out, but for 
-the most part, the subject at hand seems to correspond to “secular” forms of recreation. 
-The eighteenth krīḍā, in contrast, outlines a very different sort of activity: vīrakrīḍā, 
-the midnight revelries of the initiated Śākta adept. It is here, tucked away at the end of his vast 
-compendium, that Someśvara III offers some candid biographical reflection on the true nature 
-of his father. 
-590Someśvara III’s Mānasollāsa was composed in 1129 CE. It has been published in two editions, which draw upon some distinct manuscript sources. A critical edition of the text, which is particularly corrupted in its fourth and fifth chapters, is sorely needed. R. Shama Sastry, ed. Mānasollāsa (Mysore: Oriental Library Publications, 1926); Gajanan K. Shrigondekar, ed., Mānasollāsa, 3 vols. (Baroda: Gaekwad Oriental Series, 1925, 1939, 1965). The work of Eric Gurevitch, on the ethos of premodern quotidian śāstras imagined as a secular discipline, locates important predecessors to our text in the Kannada-language śāstras that originate at the court of Jayasiṃha, the Kalyāṇi Cāḷukya ruler who reigned roughly four generations before the period we have been exploring. In particular, Someśvara III seems to draw upon a mostly unstudied work called the Lōkōpakāra, both substantively and rhetorically. Gurevitch’s work also traces the reception history of many of the secular social practices presented in our text down into the early modern period. Eric Gurevitch, Everyday Sciences in Southwest India (PhD diss., University of Chicago, 2022). 
-583 
-Now is stated the vīra revelry, which delights the minds of the steadfast. The revelry is made manifest by prior men who sought to attain siddhis. Therefore, that is to be done by virile men, and not by other kings. It is enacted by the great impetuous one (mahāsahāsika), who bears the form of Vikrāmaditya. . . who is the best among the vīras. It was shown by the lord of the virile ones (vīranātha), the king of the Śālivāhana, son of Kāntīśvara, who was served by Kālidāsa. And other various vīras played (khelitā) upon the surface of this earth. By that play, they all obtained great siddhi.591 
-Someśvara III’s verse is subtle in its implications, but it seems to speak of at least two 
-distinctive agents.592 On the one hand, there is the Vīranātha of the Śālivāhana age who has 
-Kālidāsa in his service, who “showed” the revelry. This is clearly the quasi-mythical 
-Vikramāditya of Ujjain, who features as the protagonist of two collections of kathā literature, 
-namely, the Vampire Tales and the Stories of the Thrones. Here, he has been slightly 
-reimagined from old style power-seeking sādhaka into an adept of the yoginīkula. On the other, 
-there is the mahāsahāsika, best among the vīras, who merely enacted the rite. This one, who 
-bears the form of Vikramāditya is none other than the Cāḷukya emperor, Vikramāditya VI, 
-who, his own son has just told us, was an initiated Śākta adept committed enough to his practice 
-have attained the exalted ritual authority necessary, as we shall see, to sport with the yoginīs 
-themselves. It seems that while, for his grandfather Āhavamalla, Śākta Tantric worship was 
-simply part and parcel of inheriting the family business, Vikramāditya VI, and also, as we will 
-see in the next chapter, his eldest son Mallikārjuna, was a siddhi-seeking true believer. To get 
-a sense of what a commitment would have entailed, it is worth our time to examine in some 
-591The text, as can be seen below throughout, is rather corrupt. Consulting the best manuscript, currently preserved at Baroda, to confirm readings will be absolutely necessary before publishing on this material. In the interim, building upon preliminary work done by Somadeva Vasudeva in the e-text he kindly shared with me in 2009, I present the un-emended text, offering readings drawn from both editions, with my own minor emendations. Mānasollāsa: idānīṃ kathyate vīrakrīḍā dhīramanoharā // siddhikāryai[r] naraiḥ pūrvaṃ krīḍ[eyaṃ] prakaṭīkṛtā / tenāsau vīrapuruṣaiḥ kartavyā netarair nṛpaiḥ // vikramādityarūpeṇa mahāsāhasikena sā / kṛtā [śū]draka[vī]reṇa vīrāṇāṃ pravareṇa ca // darśitā vīranāthena śālivāhanabhūbhṛtā / kāntīśvarasutenāpi kālidāsena sevitā // anyaiś ca vividhai[r] vīrai[r khelit]ā pṛthivītale / siddhiṃ ca mahatīṃ prāptās te sarve krīḍayānayā // 592 The damaged portion, not translated, may also speak of king Śūdraka as practicing this vow in the kṛta age. 
-584 
-detail the revelry of the Śākta adept, whose “play” is an act of mimesis of the terrifying 
-revelries of the great god Bhairava himself. 
-The rite seems to be subdivided into two conceptually distinct parts. The first involves 
-the attaining of various powers through summoning and subjugating various classes of 
-predatory quasi demonic beings. The second involves congress with the yoginīs, culminating 
-in making offering of flesh before the throne of the supreme goddess herself. 
-The sword, arrow, club, vessel, stick, clenched fist, canvas, khaṭi. Ointment, magical sandals, gem, vetāla, finger ring, and rasa. The ointment that allows one to see treasure (nidhi), coins, gambling die, and the power of speech. These are the eighteen siddhis; I will tell the characteristics of each of them in sequence.593 
-Just as it promises, the text then proceeds to outline the meaning of this rather eccentric 
-list of magical powers. For our purposes, we need only treat a few as representatives. The 
-siddhi of the arrow (bāṇa) makes it so that the arrows one fires, after hitting their target, are 
-returned to the hand of the archer. The siddhi of the vessel (pātrasiddhi) makes it so whatever 
-you wish for appears in you begging bowl.594 The siddhi of the fist (muṣṭhisiddhi), “which 
-destroys the poverty of the world,” is essentially the touch of Midas. Paṭasiddhi makes you 
-invisible; khaṭi siddhi makes whatever you write down come true; pādukā makes it so you can 
-travel with your new pair of sandals to any country in an instant; vetāla siddhi gives you 
-mastery over a vetāla, and rasasiddhi makes it so that the body overcomes old age and death, 
-just as iron is converted into gold.595 In short, these are useful abilities with a range of military 
-593Mānasollāsa: khaḍgo bāṇo gadā pātraṃ yaṣṭir muṣṭiṣ [paṭaḥ khaṭiḥ] / añjan[aṃ] pāduke ra[tn]aṃ vetālo ’ṅgulikā rasaḥ // nidhi[r va]rāṭikākṣau vāg ity aṣṭādaśasiddhayaḥ / pratyekaṃ lakṣaṇaṃ tāsāṃ kathayāmi yathākramam // Though closely aligned with the catalog we encountered already of powers achievable at Srisailam, this is a somewhat eccentric list of siddhis. For orienting oneself to the standard taxonomies of siddhis in the Śaiva literature, the reader is directed to Somadeva Vasudeva, “Powers and Identities: Yoga Powers and the Tantric Śaiva Traditions,” Yoga Powers, ed. Knut Jacobsen (Leiden: Brill, 2011), 265–302. 594This is precisely the practice that Rāmānuja ascribes to the Kālamukhas in his Śrībhāṣya. 595Mānasollāsa: avimuktā vimuktā vā gadā yasya kare sthitā / varān hanti gajān nityaṃ gadāsiddhir iyaṃ smṛtā // yasya haste sthitaṃ pātraṃ vāñchitāni prayacchati / pātrasiddhiḥ samākhyātā sarvakāmaphalapradā // karastha[yā] spṛśe[d y]aṣṭ[yā] yatsaṅkalp[ya]puraḥsthitam / tat tad eva bhavaty āśu sā siddhir yaṣṭisaṃjñitā // yat 
-585 
-and practical applications and it is easy to see why even an already powerful ruler would desire 
-to obtain such capacities. Any temptation most of us might have to write away for the relevant 
-correspondence course, however, is unlikely to survive the application process that the text 
-continues on to outline. 
-Therefore, it is to be enacted by a vīra who has the conduct of a real tiger, the steadfast one who is pure and true, who knows weapons and the mantras. 
-When half of the watch of the night is gone, in a city devoid of people walking about, with the assistance of sword and armor, he may go about unseen by anyone. He recollects the lord Narahari, the slayer of obstacles without remainder. Having meditated on Śiva, whose nature is pacification, the King, having meditated on the Lord of the bhūtas, having borne Caṇḍikā, the destroyer of all enemies, in his heart, he praises Vināyaka, the lord who destroys all obstacles. The king, having gone out from the house, attentively, should go quietly to a run-down temple. . . or a crossroads. He goes to a wide banyan tree or pipal tree that is very spread out, or likewise to the bank of lotus pond, [or] also to ancient groves, [or], his inner heart emboldened, to the middle of a river. [He will then see the]: 
-Piśācas, guhyakas, yakṣas, vetālas, great gaṇas, rākṣasas, great flesh eaters, pretas, and the fathers who live in the forest, the ones with flaming mouths, with great bodies. . . . The ones who are bald, flaming, crooked, long, short, ones with a big roar, ones made of skin and bones, poor, ones with great mouths, very terrifying long teeth, fierce faced, big tongues, big bellies. Some with three feet, some have one foot, some bear long heads. Some have eyes that are hollow holes, Others are ones whose eyes have been removed, or are licking very intensely.596 
-kiñcin muṣṭinādatte vastu tat kāñcanaṃ bhavet / muṣṭhisiddhiḥ samuddiṣṭā jagad[d]āridryanāśin[ī] // avaguṇṭhamātreṇa yenādṛṣṭo naro bhavet / paṭasiddhiḥ samud[diṣṭā] janānāṃ dṛṣ[ṭ]ivañcan[ī] // prāṇī vā yadi vāprāṇī yat kiñcil likhyate kṣitau / tādṛśaṃ tad bhavaty āśu khaṭisiddhir iyaṃ bhavet // añjanāñcitanetras tu ya[thā] ba[ddhaṃ vi]paśyati / jalastham api ta[t] samyag a[nayā‘ñja]nasiddhitaḥ // pādasthapāduk[o] deśam abhīṣṭaṃ yāti tatkṣaṇāt / pādukāsiddhir ity eṣā sarvadeśāptikāraṇam // garagrahāgniśastrebhyo mṛtyur eva na jāyate / maṇidhāraṇam[ā]treṇa maṇisiddhir iyaṃ matā // dāsavat kurute karma vetālo yasya nityaśaḥ / yena kṛtvā hy adṛśyaḥ syāt siddhir vetālajā hi sā // va[ktra]sthāṅgulikā yasya [valīp]alitavarjit[aḥ] / abhedyas tu bhavaty as[t]raiḥ siddhiḥ sāṅgulikābhidhā // kāñcanīkurute lohaṃ deham apy ajarāmaram / īdṛśo ‘sti raso yasya rasasiddhir yato hi sā // kṣitimadhyagataṃ dravyaṃ paśyatyāpnoti niścitam / nidhisiddhi[r b]udhaiḥ proktā dharmakāmārthasādhanī // dyūte nityaṃ jay[o ya]sya tasya siddhir varāṭikā / iyaṃ varāṭikāsiddhiḥ paradravyāpahāriṇī // cintit[aṃ] yācitaṃ dāyaṃ yasya yacchati pāśakaḥ akṣasiddhir iyaṃ khyātā dyūte lābhakarī nṛṇām // śucir bhūtvā naro yas tu citte saṅkalya bhāṣate / niścitaṃ tadbhavaty eṣā v[ā]ksiddhir abhidhīyate // 596Mānasollāsa: tasmād iyaṃ pravīreṇa sattvaśārdūlaśālinā / śastramantravi[d]ā kāryā dhīreṇa śucinā satā // sārdhayāme gate rātreḥ pure sañcāravarjite / kenāp[ya]lakṣit[o] gacchet khaḍgacarmasahāyavān // smaran narahariṃ devaṃ niḥśeṣagrahaghātakam / śivaṃ śivakaraṃ dhyātvā bhūtānām adhipaṃ nṛpaḥ // caṇḍikāṃ hṛdaye [dhṛ]tvā sarvaśa[tru]vināśinī[m] / stuvan vināyakaṃ devaṃ sa[r]vavighnavināśanam // nirgatya bhavanād bhū[paḥ] sāvadhānā[no] vrajec chanaiḥ / catvaraṃ tripathaṃ vāpi tathā j[īrṇaṃ] surālayam // viśālaṃ vaṭavṛkṣaṃ ca pippalaṃ ca suvistṛtam / tathā puṣkariṇītīraṃ purāṇopavanāny api // saritaś ca pragalbhānt[o] madhye gacchen mahāmanā[ḥ] // piśācān guhyakān yakṣ[ā]n vetāladyān mahāgaṇān / rākṣasān piśitāhārān pretān pitṝn [v]anasthitān // jvālāmukhān mahākāyān. . . . muṇḍitā[ñ] jvalitān vakrān dīrghān hrasvān mahāsvanān // 
-586 
-The reason why our text is tediously emphatic that only a professional Śākta adept with 
-a focused mind who is certain in his courage should undertake such efforts is that, as any 
-number of Tantras or, for that matter, experience with wild predators, make evident, the 
-slightest hesitation and these terrible things, the appearance of whom is enough to drive lesser 
-folks crazy, were believed to tear you bits. In his preparatory practices, the king has ritually 
-identified himself in sequence with Narasiṃha, with Śiva, quite specifically in the form of the 
-master of spirits, with goddess Caṇḍikā and finally with the lord of the gaṇas. In other words, 
-he has done his best to establish himself as ritually non-different from the various sorts of 
-higher order authorities that these types of beings view as their masters. As the text makes 
-plain, this initial show of dominance is the only way the adept can begin the process of binding 
-these things to his will. 
-Having seen these various sorts of deformed things, by means of giving food, the virile one endowed with delight597 should incite the desire of these meat eaters afflicted by hunger. The king should threaten those ones with terrible forms, and should assuage those who are afflicted. Some vetālas, when assailed by [his] valor, will go to servitude. Some other beings will become his servants when appeased by flesh offerings. Others, likewise, when pacified, will become his servants out of gratitude. 
-Such is the virility (śaurya) and heroism (sāhasa) of the king and his gallant power.598 
-This is a difficult passage and much about it remains obscure. The gist of the matter, 
-however, seems to be that the demonic denizens of the night, the literal niśacāras, can be won 
-asthicarmamayān dīnān mahāvak[t]rān bhayaṅkarān / dīrghadaṃṣṭrān karālāsyān mahājihvān mahodarān // tripādān [e]kapādāṃś ca tathā dīrghaśirodharān / gartākṣān nirgatākṣāṃś ca lelihānāṃ ca / 597Both editions here read mudānvita, “possessing delight” a term that is repeated several times. Without consulting the manuscripts, it is impossible to be certain, but emending to mudrānvita, “endowed with the mudrā,” would yield much better sense and confirm more closely to the proscriptive discussions of such encounters in the Tantras. 598Mānasollāsa: idṛgvidhān virūpāṃs tān dṛṣṭvā vīro mudānvitaḥ / lobhayetānnadānena kṣudhārtān piśitāśinaḥ // tarjayan bhīṣaṇākārān dīnān āśvāsayen nṛpaḥ / kecid[dā]satvam āyānti vetālāḥ śauryapīḍitāḥ // kecit kiṅkaratāṃ yātās tatra māṃsena tarpitāḥ / āśvāsitās tathā yānti kṛta[jña]tvena bhṛtyatā[m] // īdṛśaṃ nṛpateḥ śauryaṃ sāhasaṃ balam ūrjitam / 
-587to one’s service through a display of courage and feeding them meat. Depending on the species 
-at hand, as our text helpfully point out, however, the proper tactics one ought to deploy differ, 
-especially in regard to how much of a display of violent force is necessary before getting one’s 
-way. Vetālas, it seems, are particularly stubborn in this regard and demand a good initial 
-whacking if you wish to win their assistance. Once their spirits are broken, different types of 
-spirits make more or less agreeable slaves. Some genuinely attend to your needs and serve your 
-interests. Others merely submit to carrying out specific commands. In any case, once you have 
-filled the ranks of your otherworldly staff for cremation ground practices, it becomes possible 
-to move on to the highest kind of practice, what the Śākta Tantras call the melana: 
-[He then sees] them, abiding on the outskirts of the groves of the ancestors, assembled for the sake of forest revelry. . . . 
-Many yoginīs have arisen: those born not born from a womb and those born from the field, yoginīs arising spontaneously, ones arisen from samaya, the secret ones, and the manifest ones. 
-The first pīṭha is Jālandhara, the second is Kāmarūpa, the third one is Uḍḍiyāṇa, the fourth one is Ujjayanī. The main field is Kolhapur. There is Karahāṭa, Virāṭa, Pūrṇagiri, Śrīgiri, and Mukoṭaka,599 Śambhuśikhara, the Vindhyas and Citrakūṭa, and Nihāsaka, Ekāmraka, and Tibet, and Prāyaga, the Malaya [mountains], and Yelārapura. The kṣetras are of these various sorts. And yoginīs have arisen there that were not born from a womb or were born from a pīṭha. 
-The yoginīs born in a field are known as those “born from a field.” The yoginīs endowed with various sorts of powers by practices in other births, who take various forms in whichever other lifetimes, are known of as sahajā. The yoginīs [have come forth from the samaya] because of samaya conduct and samaya dīkṣā. 
-There are two types that have come forth from the samaya: born from the pīṭha and born from the field. They are twofold, on the basis of the division between secret and manifest. Wives, slaves, prostitutes, widows, and ascetics: they are not marked by their own actions, these ones are secret, and known to be fivefold. 
-Those yoginīs are known to be manifest that are yogamāṭrs, ḍākinis, pūtanās, śākinīs, and rūpikās. Having made their power manifest, they go about everywhere. Revatīs, 
-599This whole passage has particularly serious textual problems and the manuscript needs to be consulted. 
-588 
-śuṣkarevatīs, the ones adorned with fierce horse heads—they are installed all around at the end of the Devī’s lion throne. 
-The ones who are concealed yoginīs reveal their own form. They have a non- anthropomorphic form, adorned by gold and beauty. They are abounding in similarity to non-anthropomorphic beings. Sprinkled with pure water, they are seated on a divine throne, resplendent with a yak tail fan and umbrella.600 
-From our perspective, Someśvara’s byzantine speciation of the types of yoginīs can be 
-distilled down to the following observation.601 The category of yoginīs is comprised out of 
-600Mānasollāsa: dṛṣṭvā pitṛvanāntasthā vanyakrīḍārtham āgatāḥ // yoginyo ’pi samāyāt[ḥ] [śa]vārādhanatatparāḥ / yoginyas tatra bahudhā [‘yonijāḥ kṣetra]sambhavāḥ // sahajāḥ samayodbhūtā guptāś ca prakaṭā api / e[k]aṃ jāl[a]ndharaṃ pīṭhaṃ dvitīyaṃ kāmarūpakam // uḍḍiyāṇaṃ tṛtīyaṃ syāt turyam ujjayanī smṛtam / kṣetraṃ kolhāpuraṃ mukhyaṃ karahā[ṭe] ca vistṛtam // virāṭa[pūḥ pū]rṇagiri[ḥ] śrīgiriś ca [mu]koṭakam / [ś]ambh[u]śikharaka[ṃ] vi[ndhyaṃ] [citrakū]ṭaṃ nihāsakam // ekāmrakaṃ mahā[cīnaṃ] prayāgaṃ malayas tathā / [ye]lārapura[pa]llī ca kṣetrāṇy evaṃvidhāny api // tatra jātās tu yoginy[o ‘yonijāḥ pīṭhajāḥ smṛtāḥ] / [kṣetre] jātās tu yoginyaḥ [kṣetrajāḥ parikīrtitāḥ] / anya[janma]kṛtābhyāsā[d ya]tra kutrāpi janmani // nānāprabh[ā]vasa[m]pannā yoginyaḥ sahajā matāḥ / yoginyaḥ samayācārā[t ta)thā samayadīkṣayā // dvividhāḥ samayodbhūtā yoginyaḥ parikīrtitāḥ / pīṭhajā[ḥ] kṣetrajā vāpi sahajā[ḥ] s[a]mayodbhavā[ḥ] // guptaprakaṭabhedena dvividhās tā nirupitāḥ / bhāry[ā] dāsī ca veśyā ca vidhavā ca tapasvinī // svakarmabhir alakṣyās tā guptāḥ pañcavidhāḥ smṛtāḥ / prabhāvaṃ prakaṭīkṛtya sañcaranti samantataḥ // prakaṭās tās tu vijñeyā yoginyo yogamātaraḥ / ḍākinyaḥ pūtanāś caiva śākinyo rūpikās tathā // revatyo śuṣkarevatyo bhīmāśvamukhamaṇḍitāḥ / devīsiṃhāsanopānte niviṣṭās tāḥ samantataḥ // darśayanti nijaṃ rūpaṃ devatā yoginīvṛtā[ḥ] / tāsām amānuṣaṃ rūpaṃ kānt[a]kāñcanabhūṣitam // amānuṣyatulāḍhyaṃ tu virajombaravījitam / divyasiṃhāsanāsīnaṃ chatracāmaraśobhitam // 601Since the publication of White’s seminal Kiss of the Yoginī in 2003, which remains the most convincing treatment of the sociality of Śākta Tantra in relation to the medieval state, Tantric Studies has seen an efflorescence of both philological and contextual studies on yoginī traditions, much of its drawing upon previously unavailable textual evidence from manuscripts preserved in Nepal. David Gordon White, Kiss of the Yoginī: “Tantric Sex” in its South Asian Contexts (Chicago: University of Chicago Press, 2003). Based on her work on the Jayadrathayāmala, Olga Serbaeva has composed several short pieces. Olga Serbaeva Saraogi, “Can Encounters with Yoginīs in the Jayadrathayāmala be Described as Possession?” in ‘Yoginī’ in South Asia: Interdisciplinary Approaches, ed. István Keul (New York: Routledge, 2013), 198– 212; Olga Serbaeva Saraogi, “Yoga from Yoginīs’ Point of View,” The Journal of Hindu Studies 8 (2015): 245–262; and especially, Olga Serbaeva, “The Varieties of Melaka in the Jayadrathayāmala: Some Reflections on the Terms Haṭha and Priya,” in Goddess Traditions in Tantric Hinduism: History, Practice and Doctrine, ed. Bjarne Wernicke Olesen (New York: Routledge, 2016), 51–73. Serbaeva’s dissertation treats the taxonomies of kṣetrajā, sahajā, yonijā, kulajā and so forth, following Tantrasadbhāva chapter 16, portions of which she translates. Especially important for our analysis are pg. 116–127, which build directly upon the conceptual models and evidence presented in Kiss of the Yogini, especially regarding the evidence from the Kaulajñānanirṇaya. Olga Serbaeva, Yoginīs in Śaiva Purāṇas and Tantras: Their Role in Transformative Experiences in a Historical and Comparative Perspective (PhD diss., University of Lausanne, 2006). 
-Of the series of publications produced by Shaman Hatley on related matters, the most relevant for our purposes remains the chapter on yoginīs in the dissertation, Shaman Hatley, The Brahmayāmalatantra and the Early Śaiva Cult of Yoginīs (PhD diss., University of Pennsylvania, 2007), especially pg. 153–162, as well as Shaman Hatley, “Sisters and Consorts: Representations of Women in the Brahmayāmala,” in Tantric Communities in Context, ed. Nina Mirnig, Marion Rastelli, and Vincent Eltschinger (Vienna: Australian Academy of Sciences, 2019), 49–82. This nicely complements Judit Törzsök, “Women in Early Śākta Tantras: Dūtī, Yoginī and Sādhakī,” Cracow Indological Studies 16 (2014): 339–367, offering the most carefully argued discussion in our literature of how early Śākta communities concretely empowered women 
-589 
-what to us seem like three distinct types of entities. First, there are things that are obviously 
-yoginīs, namely, entities belonging to classes of supernatural beings of a rather menacing 
-nature who come into existence under a range of circumstances. Second, there are human 
-women, who acquire this status either from birth or through the process of initiation. The social 
-role of these “hidden yoginīs” could be that of a wife, a slave, a prostitute, a widow, or an 
-ascetic. Finally, and most surprisingly, there are inanimate objects, such as the pātra vessels 
-into which goddesses are frequently found invoked worshipped in lieu of images even in the 
-modern Deccan. In a somewhat impressionistic way, the sum toto of this canon of entities is 
-associated with a composite sacred landscape in which the standard set of pīṭhas is emended 
-so as to incorporate distinctively Deccani sites.602 In place of the more intricate cosmic 
-hierarchies and (female authority) pecking orders one often encounters in the Tantras, here, the 
-relative priority and authority of the different types of yoginīs, be they monster, women, or 
-female adepts as part and parcel of their “liberation theology.” The rest of Hatley’s work nevertheless also demands consulting: Shaman Hatley, “Converting the Ḍākinī: Goddess Cults and Tantras of the Yoginīs between Buddhism and Śaivism,” in Tantric Traditions in Transmission and Translation, ed. David Gray and Ryan Richard Overbey (New York: Oxford University Press, 2016), 37–86; Shaman Hatley, “Śakti in Early Tantric Śaivism: Historical Observations on Goddesses, Cosmology, and Ritual in the Niśvāsatattvasaṃhitā,” in Goddess Traditions in Tantric Hinduism: History, Doctrine, and Practice, ed. Bjarne Wernicke Olesen (New York: Routledge, 2015), 16–32; Shaman Hatley, “Goddesses in Text and Stone: Temples of the Yoginīs in Light of Tantric and Purāṇic Literature,” in Material Culture and Asian Religions: Text, Image, Object, ed. Benjamin Fleming and Richard Mann (New York: Routledge, 2014), 195–225; Shaman Hatley, “From Mātṛ to Yoginī: Continuity and Transformation in the South Asian Cults of the Mother Goddesses,” in Transformations and Transfer of Tantra in Asia and Beyond, ed. István Keul (Berlin: De Gruyter, 2012), 99–129. Someśvara’s taxonomies are perhaps closest to those found in chapter 16 of the Tantrasadbhāva, though that work does not discuss the category of the non-animate yoginī. 602Note that Pūrṇagiri has been removed from its typical place in the set of core pīṭhas and grouped among other places in the greater Deccan. In its usual spot, it has been replaced by Ujjayini, which in this orthographical variation often refers not to the famous site of the Mahākāla temple in Madhya Pradesh but instead to a center in central Karnataka that at this period seems to have been controlled by Kāpālikas. More self-evidently Deccani sites include Kolhapur, Citrakūṭa (in Maharashtra), Śambhuśekhara (likely Śambhuśṛṅgi in eastern Maharashtra) and Ellurapura (which is beyond question modern Ellora). As we have seen before, the precise location of the Malaya Mountain, an important node in these networks, currently eludes identification. Many of the remaining readings are questionable; the characterization of Citrakūṭa as “the place where no one laughs” seems particularly dubious and probably another toponym should be supplied. Virāṭapura is likely Mayurbhanj in Orissa, located close to Ekāmraka. 
-590 
-water pot, seems immaterial, for all of them are to be addressed collectivity in the very same 
-way: 
-The king, being not agitated, having seen that marvelous divine form, seated on the lion throne, should propitiate the goddesses with blood and flesh. Having bowed with bhakti, without fear, he should worship with mantras. Then, the goddesses, being pleased by his heroism, bestow siddhis. That lotus-eyed [king] takes up all of the siddhis that were highly desired. Thus, having obtained the siddhis, the king should go to his own temple. 
-In the morning, showing the people his attainment of siddhi, he is delighted.603 Thus is described the terrifying vīra revelry, which causes happiness to arise.604 
-Given what we have seen thus far, that the king should conclude a successful evening 
-of phantasmagorical revelry by retiring to the ritual center attached to his own home, 
-presumably to ritually and emotionally decompress from his harrowing affair, is perhaps 
-unsurprising. After all, liturgically speaking, the liminal terrain through which he just traversed 
-and the types of imagined spaces that would have been invoked and projected into the ritual 
-space are not terribly different. Someśvara’s concluding remark, in contrast, should give us 
-pause, for with it he suggests that there was some measure for the public acknowledgement 
-and even adulation of what we have always been inclined to conceive of as among the most 
-clandestine and highly transgressive of esoteric rituals. It is to this strange dynamic of hiding 
-a secret in plain sight, of mustering a tacit acknowledgement on the part of a wider public 
-unconcerned with delving into the details, to which we will next turn our attention. 
-603Or emend to mudrānvita, displaying mudrā. 604Mānasollāsa: akṣo[bhyo] [v]īkṣya bhūpālo divyaṃ rūpaṃ ta[da]dbhutam / piśitaṃ rudhiraṃ bhūri devīnāṃ parikalpayet // bhaktyā praṇamya nirbhītas tato mantraiḥ prapūjayet / vitaranti tato devyaḥ siddh[ī]ḥ [ś]auryeṇa toṣitā[ḥ] // siddh[īr] abhīpsitāḥ sarvā [gṛhnātyutpa]laloca[na]ḥ) / evaṃ siddh[ī]ḥ samāsādya nṛpo yāyāt svamandiram // janānāṃ darśayan prātaḥ siddhilābhaṃ mudānvitaḥ / ity evaṃ kathitā bhīmā vīrakrīḍā sukhodayā // 
-591 
+
+Chapter 4: Living in the Śaiva Age: Three Embodied Encounters with Authority and Responsibility
+
+## Not by Birth, but by the Sword: A Śūdra Big Man Makes His Mark
+
+Habbĕya Nāyaka was a singular hero (asahāyaśūra) who, by the power of his might, made decapitated corpses dance upon the battlefield.[^468_474] One day (ŏndu dĕvasam), this great warrior was reflecting to himself about the tales of other lone heroes of bygone days (purātanar) when he heard some *subhāṣitas* being recited.[^468_475] It is a matter of some serendipity that one of these Sanskrit verses has survived in stone down into the present day:
+
+> Despite what’s been written down in a legal document [lit., even if it is written in the *śāsana*], Fortune (Lakṣmī) does not go to the one who descends from a good family. Fortune (Lakṣmī) takes refuge in the sword; the earth is to be enjoyed by the *vīras*. Having abandoned what is not “suitable,” he returns to the suitable thing. There is not any limit or law (*maryādā*) on the earth. The earth is to be enjoyed by the *vīras*.[^468_476]
+
+Hearing these words changed Habbĕya Nāyaka's life. As the text somewhat enigmatically tells us, when he heard the powerful people (*ballavar*) reciting these verses, “commitment to the doctrine” (*abhiprāyada naṃbugĕ*) of the powerful people (*ballavar*) entered his mind (*manaṃbugaḷ*). For the first time, “the merit of attainment arose in him” (*saṃpattugaḷga puṇyamĕ mŏdal’*). For the first time, by the powerful people, who already discerned that their values were in accord with his own martial virtues (*nijapratāpānusārigaḷ*), he became recognized as one with the very same power. Succinctly, what our text is telling us,
+
+[^468_474]: This is how I interpret the epithet *uṭṭajiyiṃdaṭṭeyāḍisuva*, taking *āḍisuva* as the participle “to cause to dance” with “*aṭṭeya*” in the sense of a decapitated corpse. In many of the warrior cultures of the Deccan, it is a convention that the thousandth person who is slain on a battlefield, if he is decapitated, spontaneously begins to dance, and that this marks a momentous moment in the battle. Part of what is being suggested here is that our Habbĕya Nāyaka has killed a whole lot of people.
+[^468_475]: Raghavendra Swamirayacharya Panchamukhi, ed., *Karnatak Inscriptions: (With Introductory Notes in English)* (Dharwar: Kannada Research Office, 1941), no. 25, pg. 47: *ŏṃdu dĕvasaṃ tān asahāyaśūran appudaṟiṃ purātanarapp’ asahāyaśūrara kathāprapaṃcagaḷ manavaraṃ kuṟuttu peḷda śubhāśitaṃgaḷmaṃ kēḷuttirddan. . . . ivu mŏdalāgĕ nijapratāpānusārigaḷappa palavu śubhāśitaṃgaḷaṃ ballavar kēḷisĕ / tāṃ ballarggĕ ballan āgiy av’ ĕllavaṟ’ abhiprāyada naṃbugĕ manaṃbugaḷ, ĕll’ ā saṃpattugaḷga puṇyamĕ mŏdal’ /*
+[^468_476]: *Karnatak Inscriptions*, pg. 47: *na śrīkulakramaṃ yāti śāsanē likhitāpi vā / khaḍgam āśrayatē lakṣmī vīrabhōjyā vasundharā // asamartthaṃ parityajya samartthaṃ pratiyāti sā / prithi[vyāṃ] nāsti maryyādā vīrabhōjyā vasundharā //*
+
+[[P468]]
+in a surreptitious fashion, is that what Habbĕya Nāyaka discovered in that moment is that his martial values and his virtues were the values and ideals of the Śākta Tantras. Guided by his own guru (*śrīmat*) Vāmaśakti,[^469_477] under the direction of this new source of inspiration, Habbĕya Nāyaka decided that a new temple should be dedicated to the lord Vīrabhairava, that it should be filled with beautiful new images, and that the consecrated focus of worship inside its inner sanctum should bear Habbĕya Nāyaka's own name.
+
+Regardless of whether or not you are divinely inspired, temples cost money to build, they need resources to maintain, and their artful execution is dependent on access to a skilled labor pool. In this regard, at least at first glance, Habbĕya Nāyaka found himself in an opportune position. Among his other duties, his guru Vāmaśakti seems to have been an important guiding authority among the artisan castes and was responsible for their ritual consecration as well as professional training. Indeed, much as it is today, Habbĕya Nāyaka’s hometown of Shirshangi was perhaps the most important of the ritual and cultural centers for artisan communities in the medieval Deccan. In fact, one of Habbĕya Nāyaka’s fathers-in-law, a certain Teji Caṭṭagāvuṇḍa, descended from the six original families into whose hands the Shirshangi land grant was entrusted so that the affairs of town would be justly administered on behalf of the Kālamukha ascetics and their gods. In other words, our hero had all the right kinds of support from the local establishment to carry out his project. He just needed to gather up the resources.[^469_478]
+
+[^469_477]: While our text identifies Vāmaśakti as a Kālamukha, his predecessors and successors in the inscriptional record were typically labelled Mahāpāśupatas who observed the *mahāvrata* vow of a skull carrier, a frequent euphemism for Kāpālikas. Thus, for example, Vāmaśakti’s own guru Rudraśaktidevara is described as a *mahāvratigaḷ mahāpāsupatadoḷaṃ*.
+[^469_478]: Like so many the events we are discussing, Habbĕya Nāyaka dedicates his temple during the reign of the Kalyāṇi Cāḷukyas, in this case, in the time of the last king in the line, Someśvara IV. Once again, apart from providing the date in the context of offering the regnal year, the Kalyāṇi Cāḷukya themselves are entirely absent from our story. Habbēśvara Bhairava seems to have been installed January 6, 1186 CE. The construction of the temple and all of its images apparently took just one year.
+
+[[P469]]
+*ā caṭṭagāvuṃḍana magaḷu habbĕya nāyakana hiriyanāyakiti mallavvĕ ā habbēśvaradēvara dēvālayadŏḷagĕ śrīmad umāmahēśvara dēvara pratiṣṭhĕyaṃ māḍiy ā dēvara nitya nivēdy’ akk’ ĕnd’//[^470_479]*
+
+Inside of that Habbēśvaradēva Temple, Mallavvĕ, Habbĕya Nāyaka’s senior *nāyakiti*, the daughter of one Caṭṭagāvuṇḍa, had installed the venerable Umāmahēśvara, saying, “May that offering of food and *naivēdya* to the God never cease!”. . . .
+
+[^470_479]: *Karnatak Inscriptions*, pg. 48:
+
+[[P470]]
+On account of her copious fidelity to her husband and his storehouse of heroism, she is captivating! Malliyakka-nāyakiti is his [Habbĕya Nāyaka’s] beloved, and thus there are people praising her good fortune even to the very ends of the earth![^471_480]
+
+[^471_480]: *Karnatak Inscriptions*, pg. 46: *śauryyanidhi habbĕyanāyakanaṃ patibratādhikaguṇadiṃ manaṃgŏḷipa valla[bhĕ] tānĕnĕ malliyakkanāyakitiya bhāgyamaṃ pŏgaḷadirppa varārggaḷa bhūtaḷāgradŏḷū /*
+
+[[P471]]
+First, our inscription tells us, Habbĕya Nāyaka went and consulted with the artisans to discuss logistics and run a cost benefit analysis. “The project is as follows; there is both brick and stonework. For each individual brick and stone [used in construction,] there is the granting of a thousand virtues and benefits. As for raising the funds, the process of accomplishing that is as follows.”[^472_481] Apparently, either the price the artisans quoted was too much for Habbĕya Nāyaka to commit to on his own, or otherwise he decided that this chance for acquiring merit was too choice not to share with his peers. In either case, we find him taking the collection plate around to other notable people in the region. Habbĕya Nāyaka purchases a plot of land from his father-in-law, Teji Caṭṭagāvuṇḍa, who in turn then donates some of his own land to the temple complex to provide for an everlasting oil lamp in the new temple. At least two of the other hereditary landowners of Shirshangi’s six *gāvuṇḍa* lineages, Bācigāvuṇḍa and Sātigāvuṇḍa, would also contribute fifteen acres each of rich black soiled land to the fund for the new temple.[^472_482] Fifty farmers provide the resources for setting up an oil mill so that the lamps lit to the god can be kindled in perpetuity, and the betel sellers provide the *paan* for the god to enjoy. The remainder of the contributions, offered both by residents of Shirshangi as well as visiting merchants and transient guests, take the form of the levying of nonvoluntary charitable contributions to the temple, mostly in the service of financing seasonal festivals,
+
+[^472_481]: *Karnatak Inscriptions*, pg. 47–48: *aṃd’ ā ru karmmav iṣṭakākarma śiḷā karmmaṃ[ga]ḷ ĕnd’ ŏnd’ ŏndakkĕ sahasrādhikaguṇaphaḷadāyigaḷ ĕndu / śiḷākarmmadiṃ devāyatanamaṃ nirmmisuv’ upakramaman ĕttikŏṇḍu nijasaṃpatti vrittiy ĕnisi //*
+[^472_482]: Although representatives of all six family lineages were present at the sale of Teji Caṭṭagāvuṇḍa’s land as well as during the festivities when the temple was inaugurated, only three lines of *gāvuṇḍas* in our inscription are directly identified as contributing donations. These are Teji Caṭṭagāvuṇḍa, Bācigāvuṇḍa of the Kāvagāvuṇḍas and Sātigāvuṇḍa of the Tippagāvuṇḍas. In light of the grammar, is possible that, though not specifically identified as a *gāvuṇḍa*, Bammayya of Haḷiyatara, who gave fifteen acres of black soil, and Kallaṇa of Karuvar, who gave the same, were also descendants of the other lineages’ original founding families. This still leaves us with one of the six *gāvuṇḍa* lines abstaining from making a donation. Whether this is the case is dependent on whether Haḷiyatara and Karuvar are names of clans or refer to different places. Regardless, that our text suggests that complex formulations related to identity and genealogy played an important role in the self-understanding even of local landed families hailing from the lower castes is worth noting.
+
+[[P472]]
+such as the Caitra celebration of the god Habbēśvara, as well as key moments in the Tantric ritual calendar, such as *pavitrārohana*, when initiates gather to renew their esoteric commitments and be absolved of their sins through the recitation of the *samaya* codes of their lineage before the image of the god. Surprisingly, the majority of these supplementary levies, obtained from local and foreign merchants, are extracted in the form of gold coins (*hāga*). Indeed, one is left with the impression that, just as he had intended, the dedication of Habbĕya Nāyaka’s new temple was a momentous occasion in the institutional life of Shirshangi, attended by a vast and diverse array of transregional—one might almost say international— representatives hailing not only from virtually the entire spectrum of medieval India’s mercantile guilds, but also from a range of religious backgrounds.
+
+The *svāmis* of the honorable Ayyāvŏḷĕ 500. . . . who have obtained 500 *vīra-śāsanas*, who are ornamented by hosts of virtues, and who have truthfulness, purity, agreeable conduct, good policy, and discipline, those whose origins are in the family of Baladēva, Vasudēva, Khaṇḍaḷī, and Mūḷabhadra, those who have obtained Bhavatīdēvi’s boon and favour. The prominent and honorable Jayamŏyya Sĕṭṭi, who is a *samaya-cakravarti*; Sōvisĕṭṭi; the *sĕṭṭis* of the prominent merchant collective of eight trader towns (*paṭṭaṇa*); the *sĕṭṭis* of the 3,004 *paṭṭana*; all of those from the *ubhaya-nānādesis*. . . the *bīras-vanigas*; the basket makers (*gavaṟagaḷ-um*); the betel sellers; fifty farmers; all of the merchant’s guilds;
+
+They were all assembled in Hirisingi at the Habbēśvaradēva temple.[^473_483]
+
+[^473_483]: *Karnatak Inscriptions*, pg. 49–50: *svasti samastabhuvanikhyātapaṃcaśatavīra śā(s)analabdhānēkaguṇa- gaṇālaṃkrita- satyaśaucācārucāritranayavinayaruṃ baladēvavāsudēvakhaṇḍaḷīmūḷabhadravaṃśōdbhavaruṃ bhagavatīdēvilabdhavaraprasādarum appa śrīmad ayyāvŏḷiyaynūrbba svāmigaḷumu mukhya śrīmatu samĕya cakravartti jayamŏyya sĕṭṭiyaruṃ sōvisĕṭṭiyaruṃ mukhya ĕraḍaṟunūṟaṟĕṇṭuṃ paṭṭaṇada sĕṭṭiguttaruṃ sthaḷa samasta muṃmuridaṇḍaṃgaḷum kūḍi mūṟu sāsirada nālkuṃ paṭṭanada sĕṭṭiguttaruṃ samastav’ ubhayanānādēśigaḷum birudaruṃ bīravaṇigaruṃ gavaṟĕgaḷuṃ gātrigaruv ayvatt’ ŏkkaluṃ samasta nakharaṃgaḷuṃ hirisiṃgiyalu śrīmatu habbēśvaradēvara dēvāyatanadŏḷ aśēśaṃ bayisaṇigĕy āgirddu. . . /*
+
+I am profoundly grateful to my colleague and Kannada guru Tim Lorndale for the great dedication, erudition, and insight he has brought to bear in reading with me the long and difficult inscriptions in this chapter. I first became aware the significance for the study of Tantric knowledge systems of both of the key inscriptional texts used in the first portion of this chapter in 2015. I had set aside much of my time in the summer of 2017 for attempting to work on these sources with a range of scholars in Karnataka. In the end, perhaps because so much about these materials are irregular and uncertain, no one was willing to examine the work with me in a systematic manner. Feeling that these rich sources deserved better than merely picking out some pertinent details without considering the rhetorical structures in which those were embedded, I was delighted when Tim, who has among the finest senses of the grammar and the nuance of language of anyone in the academy today, committed himself to working
+[[P473]]
+with me on this project. All arguments about the text as well as any of its errors are almost certainly my own.
+
+By the period under discussion, the Ayyāvŏḷĕ 500, originally based out of Aihole, was one of the most important trading organizations in the world, dominating the commercial markets of Karnataka, greater Andhra, the Konkana, eastern Maharashtra, Tamil Nadu and parts of Kerala, with a sphere of activity that encompassed Java, Thailand, Burma and even mainland China, all places where inscriptions related to their activities miraculously survive. Our inscription also delineates the participation of a range of Jain mercantile authorities, perhaps not even from the Deccan, the transregional organization of *nānādeśis*, active in Rajasthan as well as parts of the Indo-Gangetic Plain, as well as the ruling authorities of a range of autonomous mercantile towns (*paṭṭaṇa*). Thus, quite apart from its significance as an expression of Habbĕya Nāyaka’s personal religious vision, the installation of a Tantric esoteric deity provided an opportunity for the rather remote town of Shirshangi to serve as the preferred venue for an All-India trade convention in which merchants from across the subcontinent hocked their wares with the levies going to support the institutional life of the new temple. For Jains just as much as Śaivas and Śākta-Śaivas, participation in this event was inextricable from honoring the presiding authorities, especially the Kālamukha preceptor Vāmaśakti and the sponsor of the event, Habbĕya Nāyaka himself.
+
+[[P474]]
+For the sake of the worship of the god Habbēśvaradēva, there [in Hirisingi], they poured libation water (*dhārāpūrbbaka māḍi*) to Ācārya Vāmaśaktidēva. When a collection of betel, black pepper, and grain of the artisans (*āvañci pañcavaṇṇige*) were spread about, all disturbances were removed (*sarvvā bādhe parihāravāgi*). Sirikumāranāyaka, who is an honorable (*mahāvṛddha*) merchant and who is endowed with all honors, Ravināyaka, Kāṭūranāyaka, Baḷḷāranāyaka, Saṅgināyaka, Rāmadēvanāyaka, Paḍapanāyaka, Maṇavāla Sĕṭṭi, Ēḷinaṃbi Sĕṭṭi, Malĕyaca Sĕṭṭi, Koṇḍanaṃbi Sĕṭṭi and the *Nānādēsi* merchants, Lāḷa and Maḷĕyāḷa, were all gathered in Hirisingi as a great assembly (*mahānāḍu*); the great [*samūha*] of the hero-merchants (*bīravaṇiga*) granted one *hāga*-measure for each horse load that is for the worship of that Habbēśvaradēva that Habbĕya Nāyaka installed.[^475_484]
+
+[^475_484]: *Karnatak Inscriptions*, pg. 50: *ā habbēśvaradēvara dēvakāryārtthavāgiy alliy ācāryyaṃ vāmaśaktidēvarigĕ dhārāpūrbbakaṃ māḍiy ā puṇyadinadŏḷu āvaṃcipaṃcavaṇnigĕy’ aḍakĕ-mĕḷasu-dhāṃn[dh]ya-vargavan ēna hēṟidaḍaṃ sarvvā bādhĕ parihāravāgi catussamudra paryyaṃta naḍuvaṃtu biṭṭa ĕttaṟu matta [a]ydu. . . . svasti samastapraśastisahitaṃ śrīmanmahāvaḍḍabyavahāri sirikumāranāyakaruṃ ravināyakaruṃ kāṭūranāyakaruṃ baḷḷāranāyakaruṃ saṃgināyakaru rāmadēvanāyakaru paḍapanāyakaru maṇavāḷasĕṭṭi ĕḷinaṃbi sĕṭṭi malĕyacasĕṭṭi kŏṃḍanaṃbisĕṭṭi mukhya samasta lāḷamalĕyāḷa nānādēsigaḷu hirisiṃgiyalu mahānāḍāgi kuḷḷirddu dēsiya hiriya bīravaṇigaṃ habbĕya nāyaka pratiṣṭhisida habbēśvaradēvara dēvakāryakkĕ kudurĕgĕ pratēka biṭṭa hāgav’ ŏndu //*
+
+[[P475]]
+Thus, at the ritual center of this whole affair, we find a Kālamukha guru engaged in activities connected with disciples hailing from two very different communities. On the one hand, almost unnoticed, are the representatives of the Pañcavaṇṇigĕ, who, as we shall see represent in the medieval Deccan “the fifth” caste of artisans. It is this group of people who design and built Habbĕya Nāyaka’s temple, who produced all of the *mūrtis* housed within it, and who also seem to execute the apotropaic function of chasing away potential obstacles at the ritual inauguration. In actuality, it is their efforts that laid the foundation for Habbĕya Nāyaka attaining everlasting fame, and Shirshangi, as we shall see momentarily, was very much their city.
+
+The inscription we have been exploring, which offers Habbĕya Nāyaka’s testament, is inscribed on a seven-foot-tall stela in the center of the ritual complex at Shirshangi. It is placed at an almost equal distance between the two major focuses of worship. To its right lies the temple of Habbēśvara, which preserves the images our warrior and his associates had commissioned and consecrated. The adjacent shrine, which predates Habbēśvara, houses an impressive and exquisitely rendered life-size image of Vīrabhairava, which likely predates our hero’s contributions. Today it also doubles as a storehouse for sacks of grain. In other words, much as it is today, the Habbēśvara temple represents an incidental interpolation into a preexisting sacred landscape thoroughly dominated by a distinctly Śākta theology.
+
+### Shirshangi Devī: the Kuladevī of modern Viśvakarmans.
+
+[[P476]]
+Seated in the easeful position (*lalitāsana*) evocative of royal power, the goddess at Shirshangi represents one of the most spectacular examples of a visual idiom for representing what was certainly an esoteric Śākta deity inflected by a distinctively Kāpālika iconography.
+
+Vīrabhairava: Consort of Shirshangi Devī, Habbĕya Nāyaka’s kuladeva
+
+[[P477]]
+
+Details of the base of Shirshangi Devī’s pedestal.
+
+Details of the ghouls on the right and left side at the feet of Vīr
+
+
+Details of the ghouls on the right and left side at the feet of Vīrabhairava.
+
+Most evidently, the representations of ghouls in reverie encircling the base of her *mūrti* as well as the image of the dog on the right rearing up and lapping up the blood that drips from the severed head in one of the deity’s many hands not only replicate directly, almost certainly executed in the same hand, the details on her consort Vīrabhairava’s pedestal, in more general terms they invoke iconography that form a standard part of representation of Bhairava from
+
+[[P478]]
+the time of the Cāḷukyas onward. Thus, in spite of the fact that her public cult is now suffused with a rather *saumya* form of Śrīvidyā, the goddess at Shirshangi is physically unmistakably represented as an image of Bhairavī.
+
+In light of evidence from Nepalese art historical sources, in which we find visual representations of the esoteric pantheons of the classical Śākta corpus that largely disappeared in the Indian context and that are clearly intended to serve as aides for esoteric visualization, certain features of the composition of the image are rather suggestive.[^479_485] Unlike the typical supple presentation of *lalitāsana*, the goddess’s foot is stiffly aligned with the very center of the base of her spine, almost as if she is engaged in *mūlabandha*. Her back is perfectly straight, and her eyes resemble the inward turned gaze of a *yogin* in *śāmbhavī mudrā*. Somewhat more subtly, the modelling of the goddess’s hands, which are more delicate on the left side and more dominating on the right, may well hint at the integration of Śiva and Śakti. The sword and *triśūla* in her right hands and noose[^479_486] and *ḍamaru* in her left in their placement seemingly mimic the *iḍā* and *piṅgalā nāḍīs* of the subtle body, and the negative space by the crown of her head is suggestive of the superimposition of the trident that is the hallmark of the daily ritual practice of the Trika Tantras. The name of her consort, Vīrabhairava, is associated in the surviving Śākta canon with a discrete body of theology of and ritual, nearly all of which is directly concerned with Kaula ritual worship that entails consort practices in the context of a *melana* with the *yoginīs*. With the exception of a visualization of the deity possibly interpolated
+
+[^479_485]: For a glimpse of how this may have worked in an Indic, or at least Kashmiri context, one may consult André Padoux “Maṇḍala’s in Abhinavagupta’s Tantrāloka” in *Maṇḍalas and Yantras in the Hindu Traditions*, ed. Gudrun Bühnemann (Leiden: Brill, 2003), 225–238, the diagram on pg. 238 being particularly instructive. For some Nepal-specific cases, see Sthaneshwar Timalsina, *Language of Images: Visualization and Meaning in Tantras* (Asian Thought and Culture) (New York: Peter Lang, 2015), and Sthaneshwar Timalsina, *Tantric Visual Culture: A Cognitive Approach* (New York: Routledge, 2015).
+[^479_486]: My thanks to Christopher Wallis for suggesting that this was a noose and not, as I had originally assumed, a rather eccentric *khaṭvāṅga*.
+
+[[P479]]
+into the unpublished *Yogakhaṇḍa* of the *Manthanabhairava* associated with the tradition of the Western Transmission, all the available sources, namely, the fourth *ṣaṭka* of the *Jayadrathayāmala*, the lost *Bhargaśikhā* known to Abhinavagupta and Jayaratha, the *Śrīkularatnoddyota*, the *Devīdvyardhaśatikā*, as well the eleventh-century *paddhati* of Vimalaprabodha, the *Kālikulakramārcana*, are products of the pre-philosophical tradition that forms the ritual foundation of the Kālī Krama, a Kāpālika-affiliated form of Kaulism that incorporates into its theology and praxis, albeit in a subordinated manner, substantial elements from the system of the Trika.[^480_487] That such an association is not implausible is suggested by the explicit mention of related pantheons of deities, at sites where sadly the *mūrtis* themselves have not survived, in virtually contemporary inscriptional record associated with other artisan centers in the Deccan.[^480_488] Not only were these spaces under the control of Kālamukhas akin to Vāmaśakti, but, as an extensive documentary record makes evident, the governing “secular” local authorities were frequently allied with the *gāvuṇḍas* at Shirshangi. As we shall see, that the surviving literature on Śākta *pratiṣṭhā* in use in this region was openly associated with the *Jayadrathayāmala* offers tentative confirmation that this is the sort of scriptural resources that animated the ritual life at Shirshangi in the medieval period. Indeed, as we will explore in detail in chapter 6, these very materials were used by the Kālamukha *ācāryas* in training and initiating their artisans.
+
+[^480_487]: All of the text listed above are currently unpublished. My sincere thanks to Mark Dyczkowski for searching through his editions in progress of these unpublished works and letting me consult the relevant passages so that my assumptions about the distribution of references to Vīrabhairava, made on the basis of the texts initially available to me, much of them through the decades of efforts on the part of Dyczkowski and his team, could be corroborated in light of a more comprehensive exploration of the canon.
+[^480_488]: We will explore one of these sources in the middle of the present chapter.
+
+[[P480]]
+If this sort of text critically informed doxographical analysis is how the modern academic scholar of Tantra sets out to contextualize the types of evidence to which we now have access, in his inscription, Habbĕya Nāyaka himself proposes an almost entirely different sort of interpretive context for making sense of his world and the place that the veneration of esoteric deities plays in human history. Indeed, rather unusually, the non-documentary portion of the inscription reads like a work of constructive theology intent upon weaving a teleologically oriented narrative that explains how past circumstances converged to make Habbĕya Nāyaka become the sort of person who could, “having performed that Bhairava Installation, which was the abode for Prasanna Bhairava. . . become famous.”[^481_489] Towards this end, our text tells a rather bizarre story, explaining that Habbĕya Nāyaka’s character and accomplishments are the inevitable consequences of descending from his family line as well as growing up in the special environment that Shirshangi provides.
+
+Habbĕya Nāyaka begins his story in the most unlikely way imaginable, by offering an explanation of how his family fell from caste and were expelled from polite society:
+
+> The incarnation of his line runs as follows (*tadvaṃśāvatārav’ ĕnt’ ĕndŏḍĕ*):
+>
+> In an excellent Vaiśya family, when one man married a virgin girl from a Śūdra family, they, too, became known as the “undesirables” (*bayisu*), since it is said that the world did not desire the son that was born to that householder. In that clan, there was a woman who was a *padminī*. . . who knew [a special] way to produce offspring. One day, the one who arouses the three worlds, the Churning Bhairava (*mathanabhairava*), by means of his *līlā*, “played” (*ramiyisidaṃ*) in that beautiful woman.[^481_490]
+
+Either because of a sexual encounter with the god himself or with a human *sādhaka* surrogate standing in for the deity, the *padminī* rapidly becomes pregnant. Somewhat inconveniently for the narrative, the miraculous product of that union is a daughter named Padmāvatī. Thankfully, the divine virtues of superhuman male virility and female fecundity,
+
+[^481_489]: *Karnatak Inscriptions*, pg. 48: *śrīmatu prasaṃnabhairavadhāmaman ā bhairavapratiṣṭhĕymaṃ prōddāma habbĕya nāyakan ī mahi pŏgaḷuttiralu vinirmmisi nĕgaḷdaṃ.*
+[^481_490]: *Karnatak Inscriptions*, pg. 45: *vara vaiśarŏḷ’ ŏrvvaṃ kuḍiyara kūsaṃ maduvĕniltŏḍ’ ā daṃpatig’ ādaradiṃ puṭṭida sutaraṃ dharĕ baisar ĕnalkĕ bhaisarĕnisidar avargaḷū // ā kŏladŏḷ ŏrvva lōkōṃnatĕ puṭṭalaṟidu bhuvanatrayaluṇṭākamada mathana bhairavan ā kāṃtĕyŏḷ ŏrmmĕ līlĕyiṃ ramiyisidaṃ //*
+
+[[P481]]
+once infused into a blood line, are transmitted down through the generations. In turn, Padmāvatī, through divine virility (*devatāvīrya*) and unfailing virility (*amoghavīrya*), bears a son named Mallidēva. Born by means of a boon (*vāraputra*), he is said to be, in fact, the son of Līḷābhairava. Mallidēva drives the “impure things” away from the Kiṣkindha mountains, establishing himself as the local power.[^482_491]This best among the *vīras* dedicates all his family and extended kin network in perpetuity to Līḷābhairava, who “at that time, became both the deity of their *kula* and the deity in their home.”[^482_492] At this moment, Mallidēva was transformed into an *ugramāhēśvara*, a ferocious form of the special class of person whose status we have just explored in the preceding chapter. All of his subsequent descendants, we are told, are born with special auspicious marks,[^482_493] confirming their special collective destiny. Habbĕya Nāyaka’s grandfather, a certain Hiriya Habbĕya Nāyakan, seems to have blood line connections with this line.
+
+Seven generations from the lineage’s first recorded encounter with traditions of the *Bhairavasiddhānta*, Habbĕya Nāyaka’s father, one of Hiriya Habbĕya Nāyaka’s six sons, made his way to Shirshangi. There, despite being a noble representative of the fourth lineage (*caturthavaṃśad’*), in other words a Śūdra, by subduing the enemies of the people, Bācahuli became the local big man, taking for his wife a woman of the clan (*kulāṃganĕ*), also of
+
+[^482_491]: I have left out from my representation several passages that explore the relationship between Mallidēva and the *maṇḍaleśvara* Bammidēva, who grants him a title. Bammidēva can tentatively be identified with a warrior of that name who served the Kalyāṇi Cāḷukya kings and whose line for a time held office in Belvadi *Karnatak Inscriptions*, pg. 45–46: *dēvatāvīryyav’ amōghavīryyav’ appudaṟin ā padminījātĕy appa padmāvatigĕ puṭṭida putran ā līlābhairavana varaputran’ ā girīṃdradŏḷu malaprahārīnadyubhaya nikaṭamaṃḍalakkĕ maṃḍalikan ādaṃ tadvaṃśajātānēkaran ēkapadantĕ bhadralakṣaṇasamaṃnvitaru vanavaratānūnadānayutar’ ĕnisidar avarŏḷagĕ // nĕgaḷda rasāsavārimadanōgramahēśvaran āda biṃnaṇaṃ bĕgasila dāniy āda kaḍu cāgitanaṃ jagad ŏrvva gaṇḍan ād’ agaṇita vikramōrjjitaguṇaṃ nriparŏḷu nigaḷaṃkamallan ād’ agalada vīravāraḷa[vu] maṇḍalikāgraṇi mallidēvanaṃ // maṇḍalika baṃmidēvana kŏṇḍā[ṭa]da mŏdala bēgīva vĕsaru taṃḍadin ā biruduman ŏḷakŏṇḍaṃ maṃḍalikamallidēvan udātta //*
+[^482_492]: *Karnatak Inscriptions*, pg. 46: *tatsaṃbandhikarggĕllavā līlābhairavanĕ kuladĕyvamuṃ manĕdĕyvamu[n] ādan alli //*
+[^482_493]: *Karnatak Inscriptions*, pg. 45–46: *ādaṃ tadvaṃśajātānēkaran ēkapadantĕ bhadralakṣaṇasamaṃnvitaru vanavaratānūnadānayutar’ ĕnisidar avarŏḷagĕ //*
+
+[[P482]]
+incomparable beauty and virtue.[^483_494] The text suggests that their child, our hero, was himself then conceived in a rather unusual fashion.
+
+> Having united itself, the whole world caused Habbĕya Nāyaka, a treasury of heroism (*śauryanidhi*), and [about whom is said] that his power is overwhelming in its manifestation (*atiprakaṭav*), to come to life.[^483_495]
+
+Everything about this passage, as well as the one which precedes—which uses many of the same terms of art we find in earlier parts of the genealogy which relate accounts of conception occurring in association with Tantric practice—suggests that Habbĕya Nāyaka was not so much “born” as deliberately made. In other words, he is a product of a Kaula ritual rite designed to produce a superhuman child, an *exemplum* of the phenomenon that the great Kashmiri polymath Abhinavagupta, who also seems to have the product of such circumstances, labels being “born from the *yogini*” (*yoginībhū*). It is for this reason, as we shall soon see, that even before he awakens to a new kind of conscious self-understanding, Habbĕya Nāyaka functions as a living embodiment of many of the virtues associated with the Bhairava that is his god. If Habbĕya Nāyaka was able to become a singular hero and ultimately Tantric virtuoso by virtue of his line of descent, the text he commissions is equally adamant in its emphasis on how the town of Shirshangi itself provided the perfect conditions for actualizing this potential. Again, the conditions that help fashion Shirshangi’s inhabitants into exceptional people have their roots in the deep history of its environment. The name Shirshangi is a corruption of Ṛṣyaśṛṅgapura, a name it derives from being the birthplace of the sage Ṛṣyaśṛṅga, a sacred
+
+[^483_494]: The remainder of the verse commences a long excursus offering a family genealogy peppered with *birudas*. *Karnatak Inscriptions*, pg. 46: *nirupama kīrtti bācahuliy’ aṃganĕ sadguṇi bāciyakkanā taruṇiya naṃdanaṃ hiriya habbĕya nāyakan ĕṃba satyasāgarana bhaṭapravīrana kulānganĕy’ aggada tŏṃḍiyakkan’ ā taruṇiya sūnu bācahuliyaṃganĕg’ ārddŏrĕ balliyakkanŏḷu //*
+[^483_495]: *Karnatak Inscriptions*, pg. 46: *sakaladharitri taṃna kĕḷĕgŏṇḍu bardduṃkuvud’ ĕṃba balup atiprakaṭav’ ĕnippa śauryanidhi habbĕya nāyakanaṃ /*
+
+[[P483]]
+personage in the *treta yuga* who was also conceived under peculiar circumstances.[^484_496] Our text tells us that in ancient times, the sage Vibhāṇḍaka chose this place, in the shadow of the Kiṣkindha mountains, to perform his meditation and austerities. The sage was so singularly intent on achieving liberation, to the exclusion of all other objectives (*kaivalyaphaḷaikāṃkṣĕyalladaṃnya phaḷākāṃkṣĕyanuḷidu*), that his intentionality came to suffuse the very landscape, such that animals like deer and serpents, which have a natural enmity towards each other, felt compelled to live in harmony.[^484_497] As the centuries went by, Vibhāṇḍaka produced within his body a vast storehouse of *tejas*, which took the form of *amoghavīrya*. This profound vitality made him enormously attractive, so one day, when the *apsaras* Mañjughoṣā was flying by, she became spell-bound by his body. Descending down to earth, the naughty celestial beauty reached her hand down into the sage’s lap while he was deep in meditation and started touching what our text somewhat euphemistically calls “his horn (*śṛṅgī*).” When Vibhāṇḍaka became aware of this unwanted stimulation, the sage became enraged, came out of meditation, and cursed Mañjughoṣā to turn into a doe.
+
+As it so happens, it was the *apsaras* who ended up having the last laugh. Sometime later, still in the form of a female deer, Mañjughoṣā dove into a pool of water and surprised the sage by surfacing nearby him. When he saw her captivating eyes, for some inexplicable reason, the sage lost all of his hard-won self-control. Ejaculating wildly, Vibhāṇḍaka quite literally saturated the landscape with a flood (*vīryaugha*) of many centuries worth of alchemically transmuted seminal fluid. In the process, much of his virility and merit became an integral and
+
+[^484_496]: The story has gone through many permutations and reaches a semblance of what is seen here by the *Bhāgavata Purāṇa*. See, for example *MBh*. 3.110–113. Though he plays in major role in the *Vālmīki Rāmāyāṇa*, there Ṛṣyaśṛṅga’s conception is alluded to only in passing and the focus is on the story of his childhood and youth spent without any contact with women.
+[^484_497]: *Karnatak Inscriptions*, pg. 42: *mrigakhagasarīśṛpaprāṇigaḷalli nisarggavairamaṃ tŏrĕdā sānugaḷŏḷu cariyipuvĕnalājñĕgĕ śāṃtigĕ nōṃtarārvvibhāṃḍaka munivŏlu // ēkāki nispṛhaṃ śāṃtyākaranĕnĕ kūḍĕ nĕgaḷdu kaivalyaphaḷaikāṃkṣĕyalladaṃnya phaḷākāṃkṣĕyanuḷidu tanmunīṃdraṃ nĕgaḷdaṃ.*
+
+[[P484]]
+lasting part of the Shirshangi’s environment. In this way, it intrinsically became a place at once aligned with both esoteric spirituality and tremendous physical power.[^485_498]
+
+At the same time, Mañjughoṣā rapidly became pregnant with this ill-fated couple’s unwanted child. When she gave birth to the boy, he emerged with an immense single horn (*śṛṅgī*) growing out from the center of his forehead, evocative of his parents’ earlier initial encounter. Horrified, Mañjughoṣā decides to expose her infant to the elements, hoping the sun would kill him.[^485_499] Though badly burned, Ṛṣyaśṛṅga not only survives, but, apart from his other adventures, which our text passes over in silence, he grows up to become the surrogate force that makes possible the continuation of the solar race of Kṣatriya kings in the line of Raghu. Thus, when king Daśaratha finds himself unable to conceive, it was Ṛṣyaśṛṅga who provided the means that made possible the birth of Rāma, Lakṣmaṇa, Śatrughna, and Bharata. Indeed, as the inscription tells us, enroute back from slaying the demon king Rāvaṇa, Rāma and Lakṣmaṇa, accompanied by Hanuman, made a point of stopping in the village, and in the spirit of the *Śivadharmaśāstra*, set out consecrating *liṅgas* in the domain that made their conception possible in the first place.[^485_500]
+
+[^485_498]: *Karnatak Inscriptions*, pg. 42–43: *kāṇalŏḍanĕ // askaḷitacittanācētaskaḷanĕ[yĕ]na vaśavĕnisi pŏṟapŏṃṇmuvarētaskaḷanĕgĕ nāṇcutatiduḥkhāṃnvitanabjadaḷadŏḷaṃtadanāṃtaṃ // marĕviḍiyāghrāyisĕ munivaravīryyavamōghavīryyavappudariṃdā marĕvĕṇnagarbhbhadiṃdavatarisidanŏrvvaṃ kumārakaṃ śṛ(ṃ)gayuyutaṃ // āgaḷū. . . . adĕṃtĕṃdŏḍĕ maṃjughōṣĕyĕṃbaccarasĕyŏrmmĕrāgadiṃ rāgāṃdhĕyāgi śṛṃgiyĕṃba brahmarṣiyanuṣṭhānaṃgĕyvutirddudanariyadĕ taṃna savagāṇikĕyara sāraṃṅgĕvōptavakadinā śṛṃgiyiṃ śriṃgiyaṃ sōkuvaṃtĕ sōṃki pōpāgaḷavaḷgĕ muni munidu nīṃ dĕsĕbiddaṃ marĕyaṃtĕ vāyi taṃdĕyappudariṃ marĕyāgĕṃdu śāpamaṃ kuḍĕ kōpakkaṃji śāpamaṃ kaiykŏṃḍu maguḷĕbaṃdavara padapadmakkĕṟagi yānajñānadiṃ niṃmanavajñĕgĕydĕnĕndigĕ viśāpa nimittamaṃ bĕsivĕnĕ vibhāṃḍakamuniya vīryyada dĕsĕyiṃ.*
+[^485_499]: *Karnatak Inscriptions*, pg. 43: *ĕnĕ muniprakṣōbhadiṃ khēdamaṃ putralōbhadinati pramōdamaṃ taḷĕdu tatsamayavaṃ pārddirppĕdĕ (rpudu)vaṃtavĕllaṃ taṃna bayakĕyŏḷŏḍagūḍi kūḍĕ kṛtārtthĕyādaḷittalū // janani bisuṭṭu pogĕ khararōciya tīkṣṇamarīci kāyda kabbunavĕnalaggaḷaṃ bisupanāgisidā nĕladŏḷu.*
+[^485_500]: *Karnatak Inscriptions*, pg. 44: *putraraṃ paḍĕdanalli rāmalakṣmaṇaru rāvaṇaṃ mŏdalāgi samastadānavaraṃ saṃharisi maguḷdayōdhyĕgĕ baruttaṃ kiṣkiṃdhaparvvatōpakaṇṭhada tanmunīṃdrāśramakkĕ baṃdalli nija nāmāṃkita rāmēśvara lakṣmaṇēśvara hanmaṃtēśvaraṃgaḷaṃ pratiṣṭhisidariṃ.*
+
+[[P485]]
+Though we have only begun to scratch the surface of the rich literary character and fascinating philological texture of the central inscription at Shirshangi, for our purposes, before we return to thinking about how Habbĕya Nāyaka fits into the picture we have been assembling, it is best to briefly attend to the larger conceptual frameworks that the text presents, many of which will prove integral to understanding the world of the medieval Deccan across a wide range of media, linguistic registers, and rungs within the social hierarchy. Two points are particularly salient. The first is that the circumstances in which a thing or person comes into being largely shape its character and incline it to a certain kind of nature. Nowhere is such a dynamic more perfectly instantiated than in the case of Ṛṣyaśṛṅga, whose defining feature, the *śṛṅga* on his forehead, is the direct by product of his mother’s violating touch of his father Vibhāṇḍaka’s rather different sort of “horn” in the instant before his otherwise inconceivable conception. Thus, while it is easy to see how such first principles could prove synergistic with the logic of caste, imagined as type of biological-spiritual determinism that distributes value and purpose along predetermined lines, as the examples we have been exploring make evident, this logic is neither reducible to caste frameworks nor is it necessarily an ideological byproduct of such thinking that inevitably reinforces given strictures.
+
+[[P486]]
+Indeed, in the same way that the circumstances of conception structure to some degree a human destiny, the same principle holds true when it comes the production of objects of material culture, the construction of buildings, and even the land itself. Much as we can think of *vyavasthā*, the differential application of site-specific rules in the legal realm, as pertaining to specific human communities in a manner that assigns to them sometimes mutually incommensurable ways of being in the world aligned with distinct principles, our sources imagine a sort of *vyavasthā*, operating upon the land itself that makes specific sites fit for specific behaviors. Significantly, as our *Pratiṣṭhā Tantras* will explore in greater detail, not only does the presence of saints and supernatural beings for a sustained period of time in a single place create “sacred space,” but what it generates, based on the internal condition and mental state of the agent in question, are radically different types of energetically charged spaces aligned to the cultivation of different human and nonhuman propensities and emotions. On a more mundane level, the same logic structures the activities of artisan castes, especially when they are involved in designing temples or other forms of urban planning. Much in the same manner as is somewhat more familiar from the popular reception of Chinese traditions of Feng Shu’i, different quadrants of the space inside and surrounding the future building are conceived of being more or else suited to distinct types of activities and of bearing varying degrees of auspiciousness and inauspiciousness, with all of these features being further inflected by calendrical concerns and changing temporal conditions. An integral dimension of designing a building or town thus entails choosing a space that has a minimum number of inauspicious spaces and situating the building in a manner so as to maximize the alignment of its intended function with the innate character of the surrounding space. In essence, in the medieval Deccan there is no such thing as neutral or common space; for all spaces are conceptualized as internally differentiated to some degree in their nature and function.
+
+[[P487]]
+The second principle that our text makes evident is that even in hyper-specialized domains, like the sacred field of Shirshangi, multiple systems of meaning are constantly at play addressing a range of intended audiences. Under such circumstances, a single story, image, or event is necessarily inflected in a manner that intentionally communicates a range of discrete meanings. In light of the unmistakably Tantric conceptual systematicities evident in other portions of our inscription, the manner in which the retelling of the stories of Vibhāṇḍaka and Ṛṣyaśṛṅga seemingly invoke such resonances is most likely not accidental. Instead of generically engaging in austerities, as in Purāṇic and Epic sources, and thereby threatening the god Indra in his quest for power, Vibhāṇḍaka is depicted as a soteriologically oriented Tantric *yogin*, generating the very same power of unfailing virility (*amoghavīrya*) that the rest of the inscription associates with both Bhairava and his devotee Habbĕya Nāyaka.
+
+The descent of the *apsaras* Mañjughoṣā—beautiful sound—taking the place of the epic Urvaśī, who no longer serves as messenger from the gods but is propelled by her own will and desire, is framed to resemble the arrival of a *yoginī* attracted to the life force of the adept.[^488_501] When Vibhāṇḍaka succumbs to her charms, in a manner that mirrors the rhetoric of Śākta revelation, he releases a veritable flood (*ogha/augha*) of his power and potential, which in perpetuity is transmitted to those who are fit to receive it. Confirming such connections, in Shirshangi today the space where “the *ṛṣi* did his practice” is located a mile or so down the road from the main temple complex. In the shadow of the Kiṣkindha mountains, one passes an image of Kālī and a large well full of brackish water and then finds oneself entering a series of caves now called Siddheshwar Gumphe. Entering the main cavern, the explorer is confronted with images of seven mothers, a Gaṇeśa, a Viṣṇu, as well as a large *liṅga*, all done in the same exceptionally skilled hand that executed the images in the Habbēśvara temple.
+
+[^488_501]: Indeed, in an intriguing textual parallel from the *Brahmāṇḍa Purāṇa*, Mañjughoṣā and the other classical *apsarases* actually are recast as the retinue of the Krama goddess Kālasaṃkārṣinī. *Brahmāṇḍa Purāṇa* 3.33.20: *tatra devīṃ samabhyarcya pūrvajanmani kumbhaja / vasantyapsarasāṃ vṛndaiḥ sākaṃ gandharvapuṅgavāḥ // mahārājñīguṇagaṇāngāyanto vallakīsvanaiḥ / kāmabhojaikarasikāḥ kāmasannibhavigrahāḥ /sukumāraprakṛtayaḥ śrīdevībhaktiśālinaḥ // gomedakasya śālastupūrvaśālasamākṛtiḥ / tadantare yoginīnāṃ bhairavāṇāṃ ca koṭayaḥ / kālasaṅkarṣaṇīmaṃbāṃ sevante tatra bhaktitaḥ // gomedakamahāśālāntare mārutayojane / urvaśī menakā caiva rambhā cālaṃbuṣā tathā // urvaśī menakā caiva rambhā cālaṃbuṣā tathā / mañjughoṣā sukeśī ca pūrvacittirghṛtācikā / kṛtasthalā ca viśvācī puñjikasthalayā saha // tilottameti devānāṃ veśyā etādṛśo 'parāḥ /gandharvaiḥ saha navyāni kalpavṛkṣama dhūni ca // pibantyo lalitādevīṃ dhyāyantyaśca muhurmuhuḥ /*
+
+[[P488]]
+### Panel of the mothers from inside Habbēśvara temple.
+
+According to the one-eyed Liṅgāyat *pūjāri* who tends the place—and who does not let non-initiates descend further into the caves or take pictures—until twenty years ago, the complex was frequented by naked *avadhūtas* and other sorts of *śivayogins* who would descend into the passages, which supposedly contain additional images, to worship the goddess and her consort on auspicious occasions, especially eclipses and the full moon.
+
+[[P489]]
+### Detail of the Cāmuṇḍā and Gaṇeśa in the Habbēśvara temple. The workmanship and iconography on Gaṇeśa and the *Saptamāṭrkā* panel in Siddheshvar Gumphe (where photography was not permitted) is quite similar. It is worth nothing that in the version of the story the *pūjāri* told about the origin of this place (which corresponds roughly with the tale as it is related in publications sold near the temple), the sage Vibhāṇḍaka is entirely absent, replaced by Ṛṣyaśṛṅga. While performing his austerities, instead of an *apsaras*, Ṛṣyaśṛṅga has an encounter with the goddess Kālī, who is attracted by his *tejas*.
+
+[[P490]]
+## From Nāyaka to Īśvara: Worship and Become the God, or What Does It Mean to Be a Hero?
+
+*śāśvatamūrtti śauryanidhi habbĕya nāyakanaṃ prasaṃnahabbēśvaradēvanŏldu paripālisutirkkĕ. . . . trijagadubharitaṃ sukhātmakaṃ. . . . prasaṃnabhairavananurāgadiṃ kuḍugĕ habbĕya nāyakagīpsitārtthamaṃ // baladiṃ habbēśvarananubaladiṃ śrīmatu prasaṃnabhairavana mahābaladiṃ habbĕya nāyakanĕ lōkadŏḷu sakaḷa bala samaṃnvitanādaṃ //*
+
+> May Prasannahabbēśvaradēva, whose form is eternal (*śāśvatamūrti*), whose nature is pleasure (*sukhātmakaṃ*), who is a treasury of heroism (*śauryanidhi*), be the protector of Habbĕya Nāyaka. . . . Prasannabhairava who is bowed to by the three worlds. . . . may he, out of his love (*anurāgadiṃ*), give to Habbĕya Nāyaka whatever he desires. . . . Habbĕya Nāyaka became all powerful (*sakaḷabalasamaṃvitanādaṃ*) in the world on account of the support of Habbēśvara (*baladiṃ habbēśvarananubaladiṃ*) and the great power (*mahābaladiṃ*) of Prasannabhairava.[^491_502]
+
+[^491_502]: *Karnatak Inscriptions*, pg. 40–41.
+
+[[P491]]
+As we can see, Habbĕya Nāyaka’s inscription at the center of Shirshangi begins with an act of reverence that at the same time functions as constructive theology. On the surface, we are told that Habbĕya Nāyaka owes everything he has and everything he is to his god. And yet, the very act of delineating what makes Bhairava great provides the reader with a point of reference for fostering the growing recognition, mirroring that of our hero, that Habbĕya Nāyaka himself embodies these self-same virtues. After the praise of Bhairava, the text offers a celebration of the Kuntaladēśa, a lock of hair on the young beauty that is India, and then introduces the peerless place called Ṛṣyaśṛṅga by telling us the story of its origins. It is only after thirty verses recounting the stories we have already explored that the inscription reintroduces our hero. Before we learn anything else about him, we are informed that the everlasting land of Ṛṣyaśṛṅga is a field for the heroes (*vīrakṣētra*) where the four codes of *samaya* are observed and upheld (*catussamĕya samuddharaṇar*) so long as the sun and the moon will persist.[^492_503] The *nāyaka* who carries out this task of protecting the place (*abhirakṣisu*) is a treasure house of heroic virtue and fortitude (*śauryadhairyanidhi*) and he has the name Habbĕya. In essence, virtually everything we learn about this human warlord is designed to foster the recognition in the audience that the god and his devotee do the same sorts of things and have the same nature.
+
+[^492_503]: Here again, as a matter of parsimony, several lines of *kāvya* tropes and dependent clauses not pertaining to our purposes, have been excised. *Karnatak Inscriptions*, pg. 44: *dhātriyŏḷadu munuśāṃtakṣētraṃ riśipaḷḷiyĕnisitīgaḷu vīrakṣētravĕnisittu śatrukuḷatrāsigĕ habbaṇaṃgĕ nĕlĕyādudariṃ // susthaḷaviṃtidu caṃdrārkkasthāyi cirāyudāyiyĕnagĕṃdŏlaviṃdāsthāna vastu nāyakanāsthaḷadŏḷu śauryyadhairyanidi sukhavirddaṃ. . . . savayacchalavēvudŏ dharmmamanŏdavipudaṃtuvĕnutĕvadanĕsagi catussamĕya samuddharaṇarĕnippamaḷa yaśaśrīgĕ nōṃtaṟaruvarggauṃḍatu //* \* *agaṇitaguṇaraṟuvarggauṃḍugaḷiṃdaṃ riśyaśriṃgi pĕsarvĕttudadaṃ migĕ habbĕyakanāyakanāvagavabhirakṣisuvanĕṃdŏḍĕ vaṇnipudō.*
+
+    As for the four *samayas*, based on the inscription itself, we can confirm that two of the traditions whose norms are to be defended are that of the Kālamukhas themselves (sometimes simple labelled Maheśvara) and those of the Jains. As a canonical category, often the set is filled out by identifying the other protected traditions as those of Vaiṣṇavas and the Bauddhas. By the end of the twelfth century, however, this last term is sometimes replaced with a term signifying explicitly non-sectarian Vaidika commitments.
+
+[[P492]]
+Indeed, just as the god Prasannabhairava is entreated to give his devotee whatever he desires (*kuḍugĕ īpsitārtthamaṃ*) to the human beings who depend upon him Habbĕya Nāyaka also bestows what is desired (*abhīṣṭamaṃ kuḍuva*).[^493_504] Habbĕya Nāyaka’s journey of self-discovery, which culminates in the moment when he hears the *subhāṣita* proclaiming, “the *vīra* must enjoy the earth,” amounts to recognizing that being a warrior and being a *vīra* are two related but different things. In the somewhat obscure language of the medieval Deccan, Habbĕya Nāyaka initially saw himself as simply a distillation of alpha (*gaṇḍa*) male virtues.
+
+> If one were to say (*ĕnalu*): “ who (*ār*) are the best men (*aggada gaṇḍar*) among the heroes of the world-famous Kuntala?” They are the *sitagara gaṇḍa*. If one were to say: “who are the men who subdue the power of thieves?” They are the *sitagara gaṇḍa*; If one were to say: “who are the men who fight the opposing enemies?” They are the *sitagara gaṇḍa*. Heroism, of this type (*sitagara gaṇḍa*), will become formidable in Habbĕya Nāyaka.[^493_505]
+
+The alpha male (*gaṇḍa*) who chases away the despicable people who prey upon the towns folk and the steal the livestock is both a social identity with its own ethos as well as a designated professional function of providing protection (*pālana*) originally associated with the Kṣatriya class in the *Dharmaśāstra* literature. In this role, wielding a bow, Habbĕya Nāyaka repeatedly rode into battle, acting not on behalf of some foreign lord, but in the service of maintaining the autonomy of his community, which, as an *akṣayavṛtti* nominally governed by religious authorities, does not fall under the purview of the state. Indeed, he boasts, somewhat mysteriously, that he eschews the arrogance that comes with royal titles,[^493_506] instead himself
+
+[^493_504]: It is interesting that this title is followed shortly thereafter by a claim that Habbĕya Nāyaka was one who performed a ritual using the *sākṣarika*, presumably some sort of *homa* involving Śākta *mantras*. This incidentally provides confirmation that following his epiphany, captured in stone, Habbĕya would have received formal Tantic *dīkṣā* including instruction in ritual and the transmission of the *mantras* from Vāmaśakti. *Karnatak Inscriptions*, pg. 47: *abhīṣṭamaṃ kuḍuvagurbbina cāgiyanaḷki bhītiyiṃ śaraṇĕnĕ kāva dēvananiḷāvaḷĕyaṃ pŏgaḷdappudŏldu sākṣarikanidhānanaṃ nĕgaḷda habbĕya nāyakanaṃ guṇātmanaṃ //*
+[^493_505]: *Karnatak Inscriptions*, pg. 45: *kṣitinuta kuntaḷōrvvarĕya vīrarŏḷ aggada gaṃḍar ār ĕnalu / sitagara gaṃḍan ĕṃba khalar’ urkan aḍaṃgipa gaṇḍar ār ĕnalu / sitagara gaṃḍan ĕṃba malĕd’ āntaran ikkuva gaṇḍar ār ĕnalu / sitagara gaṃḍan ĕṃb’ adaṭu habbĕya nāyakanŏḷu viggurvviku[ṃ] //*
+[^493_506]: *Karnatak Inscriptions*, pg. 46: *birudara darppamaṃ kiḍipa /*
+
+[[P493]]
+offering protection to those who seek refuge. Our inscription offers us fascinating glimpses of this stern and magnanimous paternalistic ideology. On the one hand, Habbĕya Nāyaka never lies, nor does he suffer those around him to utter anything other than the truth.[^494_507] He is merciless in battle to his enemies, and yet at the same time, if those he has defeated attempt to surrender, apparently unlike other warriors who ridicule and then butcher prisoners of war, Habbĕya Nāyaka lets them take sanctuary. Turning his attention towards the warriors in his own band who disparaged these codes of honor, he skewers such honorless men on the spot with his sword.[^494_508] But heroism of “this type” is something different than the true patrimony offered him by his lineage. Like all those who observe Śiva’s *dharma* as it is taught in the *Śivadharmaśāstra*, from the moment we meet him, Habbĕya Nāyaka is introduced to us as an incarnation of Rudra (*rudrāvatāra*), in this case, specifically instantiating the *pramathagaṇa* Nīlalohita.[^494_509]But like his grandsire Mallidēva before him, Habbĕya is both a ferocious and great lord (*mahā-īśvara*), in other words a *maheśvara* in the *Śivadharma’s* own terms, as well as an *ugramaheśvara*, a terrifying god on earth who bears the blood of Bhairava in his veins, whose storehouse of heroic virtue (*śauryanidhi*) was with him from the moment of conception.
+
+Once Habbĕya Nāyaka discovers that the lord he has worshipped as Habbēśvara is not merely the family deity of his clan, but is in fact the same esoteric Bhairava whose power and grace underwrites both the ritual center at the heart of his home and the esoteric theology of *ācāryas* who preside over the land he protects, Habbĕya Nāyaka’s sense of what his *dharma* entails becomes more expansive. Like his eternal god, Habbĕya wants to ensure that he is able
+
+[^494_507]: *Karnatak Inscriptions*, pg. 45: *husiyaṃ husimātaṃ sairisan ĕnduṃ naṃnikāṟa naṃnigĕ saṃtasav’ ĕyduvan’ int’ idu bhāvisĕ habbĕya nāyakaṅgĕ salĕ sahajaguṇaṃ /*
+[^494_508]: *Karnatak Inscriptions*, pg. 45: *yĕṟagi śaraṇ’ ĕndu bāḷadĕ haṟigaṇḍ’ ind’ ātan ēvan’ ĕnd’ ulivana bāy ŏṟay’ ā gal kūralagaṃ kiṟihadĕ māṇḍapanĕ habbaṇaṃ vijitaraṇaṃ /*
+[^494_509]: *Karnatak Inscriptions*, pg. 47: *śrīmaṃnīlalōhita rudrāvatāra śrī vīrabhairavadēvadivya śrī pādapadmārādhakaṃ parama[ṃ]ḍaḷa sūṟĕkāranmappa śrīmatu habbĕya nāyakaṃ nija bhujabaḷōpārjjita saṃpattiyiṃ sukhadin anubhavisuttirdd’ /*
+
+[[P494]]
+to carry out his duties as protector in perpetuity. And so, out of the goodness of his heart or mind (*sumanasadoḷ*), Habbĕya Nāyaka himself provides the *vṛtti* for a temple at once dedicated to the god of his clan and the lord of the universe who rescued his line from untouchability.[^495_510] This is to say, somewhat in the matter of an endowed university chair, he arranges the funding and logistics for multigenerational economic support of the range of professionals, ritualists, dancers, teachers, attendants, that make a temple function. In this way, even after he dies, through the medium of the god he installs he can continue, in a palpable, concrete way, to protect and preserve the people of the region where his family found refuge.
+
+When Habbĕya Nāyaka “makes the virtuous offering (*puṃṇyada baḷiv*),” quite often a euphemism for a human sacrifice, he “obtains in lasting form all the virtues” (*puṃṇyaṃgaḷuṃ dŏrĕkŏḷ*).[^495_511] At this moment of supposed spiritual realization, it becomes possible for his name to become the name of the god, for the two have become one.[^495_512] And so he declares before the vast assembled public, “Īśvara alone will become manifest” (*īśvaranĕy akkuv ĕmbudan*), and performs the installation of the god. In short, what our text seems to offer is a precious example of the popular reception of the esoteric teachings of the Śākta and especially Kaula Tantras. Much as we saw in the preceding chapter, it offers us palpable proof that teachings of these texts that called into question the ontological foundation of the social order as rooted in questions of caste had a real-world impact. It is difficult to imagine a Brāhmaṇical *āgrahāra* playing host to a vast international trade convention comprised primarily of wealthy Śūdras and Vaiśyas from a range of backgrounds and religious identities. It is unfathomable that such an affair would be presided over by antinomian *yogins* under the direction of a Śūdra warrior
+
+[^495_510]: *Karnatak Inscriptions*, pg. 49: *habbĕya nāyakaṃ sumanadŏḷu tān ittan ī vrittiyaṃ /*
+[^495_511]: *Karnatak Inscriptions*, pg. 47: *ā puṃṇyada baḷiv iḍid’ ĕll’ ā puṃṇyaṅgaḷuṃ dŏrĕkŏḷguṃ /*
+[^495_512]: *Karnatak Inscriptions*, pg. 47: *ā dēvarkkaḷa hĕsarĕy akkuv’/ īśvarapratiṣṭhĕyaṃ māḍidavan / īśvaranĕy akkuv ĕmbudan / ā dēvara pĕsar ātana pĕsar akkuv ĕnd’ aṟidukŏḷvud’ ā dēvāyatanam /*
+
+[[P495]]
+who proudly introduces himself by telling the story of how his family was outcaste in a prior generation, an event that in the end proved serendipitous, for it made possible their esoteric initiations and his own liberation. At the same time, Habbĕya Nāyaka’s testament offers a fascinating quotidian reception relating to the teaching in late Kaula sources of the essential unity of self with the supreme reality in accordance with that classic dictum “in order to worship the god, one must be become the god.”
+
+## Whatever He Says Becomes Mantra: The Kālamukhas and the Śākta Tantras
+
+On the very bottom of the large stela, the artisan Sātoja tells us, the *śāsana* at Shirshangi has been written in modern Kannada (*pŏsagaṃnaḍa*). As we have witnessed, under the direction of the singular Habbĕya Nāyaka, the poet Sajanatilaka, whose work we have been reading, crafted a text of striking originality that repeatedly bends preexisting conventions in service to new ends. In a rather surprising manner, however, for his second *maṅgala* verse to Prasannabhairava, instead of composing something “new,” Sajanatilaka chose to simply recycle someone else’s composition, a pattern that continues on and off for the next five verses.
+
+> [Shirshangi version 1186 CE] *bhāḷākṣadyuti bāḍavāgnigĕ jaṭājūṭaṃ pravāḷakkĕ sarppāḷaṃkāram adāhikōṭigĕ karōṭīmālĕ śaṃkhāḷig’ ā bhīḷadhvānam udīrṇnaghōṣak’ ĕṇĕy āgalu prōllasadbhairavaśrīlīḷākṛtivŏlu manaṃgŏḷsitō ratnākaraṃ śrīkaraṃ //*[^496_513]
+
+> [Kukkunur version, 1168 CE] *bhāḷākṣadyuti bāḍavāgnigĕ jaṭājūṭaṃ pravāḷakkĕ sarppāḷaṃkāram adāhikōṭigĕ karōṭīmālĕ śaṃkhāḷig’ ā-| bhīḷadhvānav’ udīrṇnaghōṣak’ ĕṇĕy āgalu kāḷikābhairavaśrīlīlākritivōl manaṃgŏḷisitō ratnākaraṃ śrīkaraṃ //*[^496_514]
+
+> The beam from his third eye is like the submarine fire. His mass of dreadlocks is like coral. He is adorned with a snake like the sun that has set.[^497_515] His necklace of skulls is
+
+[^496_513]: *Karnatak Inscriptions*, pg. 41.
+[^496_514]: Pandurang Bhimarao Desai, ed., *A Corpus of Inscriptions in the Kannada Districts of Hyderabad State, Hyderabad Archaeological Series* vol. 18 (Hyderabad: Archaeological Department, Government of Andhra Pradesh, 1958), 64.
+[^497_515]: All of the printed editions of both of these texts given the reading *udāhikōṭigĕ*, which yields no sense at all. When Dr. Saddaksaraih and Dr. Srinivas Padigar, both of the university of Dharwad, sat with me and examined the paleography of portions of the *śāsanas* from photographs I had taken, they arrived at the conclusion that
+
+[[P497]]
+like a garland of conches. His formidable din is like its tumultuous roar. Doesn’t the generous ocean grab hold of your mind?
+
+Just like the form of the auspicious play of the blissful Bhairava/the Bhairava who belongs to the Goddess Kāḷikā.
+
+Incongruously, given that in both cases we are speaking of landlocked sites a thousand miles from the seashore, both of these verses systematically homologize the traits of ferocious Bhairava with the profound power of the sea. Indeed, despite the fact that they are dedicated to different forms of Bhairava, the inscription at Shirshangi offers a virtually verbatim reproduction of its predecessor. Given that in neither case does the verse in question pertain in any recognizable fashion to the specific form of the deity under worship at these places, it seems plausible to suggest that neither is the original. Instead, what we are dealing with are traces of otherwise lost chancellery conventions for the representing of Śākta deities. In other words, places like Shirshangi were not quaint outliers operating in relative isolation. They were important nodes of circulation integral to a wider discursive pattern in which heavily networked esoteric centers effectively defined the medieval Deccan.
+
+Despite the fact that Habbĕya Nāyaka managed to host a veritable “Who’s Who” of the international trade establishment of his day, the extensive documentary records associated with Kukkunur and the originary settlers of this sacred center offers a much more promising archive for beginning the process of reconstructing these important dynamics. Thus, in an inscription from 956 CE, at the ritual center of Bagali, fifty miles from their home, the old families of Kukkunur assembled together with their peers from neighboring Kogali and also Masivadi
+
+[[P498]]
+near distant Kolhapur, more than two hundred miles to the east.[^498_516] Amid a panoply of erotic apotropaic carvings, including what is probably the oldest instantiation of the infamous *gadhegāl* of Maharashtra, where a donkey violates a woman, warning off those inclined to commit vandalism and theft, these networked collectivities played host to the representatives of the Rāṣṭrakūṭa King Kṛṣṇa III, the famed builder of the Kailāsa Temple at Ellora, whose *daṇḍanāyaka* came to the region just for the occasion from the Koṅkana to honor Bagali’s Śaiva *bhaṭṭāraka*. Though the records are sadly damaged, Kukkunur seems to have received patronage from the Rāṣṭrakūṭas since the time of Amoghavarṣa I (800–878 CE). It was either in his reign or shortly thereafter that the surviving oldest temple complex in Kukkunur, the Navaliṅgēśvara Temple, among the most important surviving examples of free standing Rāṣṭrakūṭa temple architecture, was constructed. Thus, from the ninth to the middle of the thirteenth century, when the central ritual complex was abruptly dismantled and its officiants and inhabitants evicted, Kukkunur received unbroken patronage and frequent pilgrimage from across virtually the entire spectrum of the regional and imperial powers in the medieval Deccan. Just like we saw at Shirshangi, indeed using many of the same verses, Kukkunur is introduced through an extended series of pun laden stock phrases lauding the Kuntala country. It is beautiful like the locks of hair of a woman (*kuntala*). It is higher up on the body, and thus more exalted, than the middle region that is Madhyadeśa or the girdle belt (*kañcī*) that is Kancipuram. The district of Bĕḷvalavādi, in turn, is proclaimed to be the diadem that adorns
+
+[^498_516]: R. Shama Sastry, *South Indian Inscriptions*, vol. IX, Part 1: Kannada Inscriptions from the Madras Presidency (Madras: Government Press, 1939), no. 66, pg. 38. The summary there runs as follows: “Dated Śaka 878, corresponding probably to A. D. 956 December 23 Tuesday. It refers itself to the reign of the Rāshṭrakūṭa king Akāḷavarsha-Kannaradēva [Krishna III]. The king’s *Mahāsāmanta* Ṛoṭṭayya ruling over Māsivāḍi hundred-and- forty, Kōgaḷi-five-hundred and Kukkanūr thirty, made a grant of the whole of the revenue raised from Bābandi to Paśupatibhaṭṭa, the *Ūroḍeya* of Bāḷguḷi. Another chief named Dhōrapayya is also said to have made some gift. As the inscription is damaged, the nature of the gift cannot be made out.”
+
+[[P499]]
+this precious lock of hair. Kukkunur is its crowning glory. In the midst of all this rote chancellery language, however, something of a more pointed message begins to assert itself as the *śāsana’s* author begins to tell us some incongruous and unexpected things grounded in a decidedly Śākta worldview.
+
+> Previously, when the [goddess] “destroyer of demons” grabbed and squeezed the Daityas with her hand, [the earth,] becoming full of the juice of their [daityas’] fat, obtained the name Medinī (endowed with fat). In the world, Kuntala country appears beautifully, like the beautiful hair of a woman from the Bhārata country. The Kuntala country is like the hair of that woman. . . . It is to be cared for by the *mahājanapadas*, and it is an abode for garlands of *sumanas* flowers, and a lot of gold and jewels. The Kuntaladēśa alone, in which Kāḷikā, Jyēṣṭhĕ, and Kapāḷīśa have taken up residence, is the best [place] among all the other countries. And it is because of their [i.e., Kāḷikā, Jyēṣṭhĕ, and Kapāḷīśa] greatness that there is a foundation for the accumulation of merit in that place.[^500_517]
+
+Introducing for the first time the distinctive rhetorical register that animates this *śāsana*, through lens of its epithet Medinī—quite literally “the fatty one”—the earth and its origins are reimagined. In place of the expected story of the earth, originating when the boar incarnation of Viṣṇu dredged up Bhūdevī out of the cosmic ocean, which had borne strong imperial implications since at least the time when this imagery was adopted by the Gupta kings as their royal emblem, our inscription tells a different story where royal power is entirely displaced by the goddess herself as rescue gives way to slaughter. This world, we are told, acquired its nature in the aftermath of the goddess taking some demons into her fists and crushing them into a pulp such that their vital juices dripped down and were absorbed by the world. The world, in other words, quite literally emerges from the palm of the goddess’s hand and it is her power, inseparable from the aftermath of violent acts of sacrifice, that gives our reality its *rasa*.
+
+[^500_517]: *A Corpus of Inscriptions*, 64: *ĕnĕ cĕlviṃ lavaṇābdhi suttuvirĕ mun daityarkkaḷaṃ daityamarddani kāypiṃ piḍid’ ŏtti piṇḍutirĕ tanmēdōrasaṃ tīvi mē / diniy ĕṃb’ aṃkamanāḷd’ iḷāvaḷayadŏḷu (ḷ) / śrībhāratōrbbīviḷāsinig’ ŏppaṃbaḍĕdirda kuṃtaḷadavŏlu śrīkuntaḷaṃ śōbhikuṃ. . . . śrīmajjanasēbyaṃ sumanōmāḷā bahu suvarṇna ratnāśrayav’ ĕṃ[|*][b’ ī mahimĕyin ĕṇĕy ādud’iḷāmahiḷĕya kuṃtaḷakkĕ kuṃtaḷadēśaṃ // 7 // dēśaṅgaḷŏḷagĕ kuṃtaḷadēśamĕ migil alli kāḷikājyēṣṭhĕ kapāḷīśar nnĕlasida sukṛtada rāśigĕ nĕlĕyāda maimĕyiṃ bhūtaḷadŏḷ // 8 //*
+
+[[P500]]
+Just as the earth became savory because the goddess slew some demons, in the process of imbuing it with new power, the Kuntaladēśa derives its fame and glory as the foremost place in the world because the very land has become imbued with a new kind of potency and promise. In material terms, the auspicious origins of this place have produced a land of great fecundity. Not only is this a place of considerable physical beauty, but the terrain abounds in gold, other precious metals, and jewels, a state of affairs with a number of practical consequences. Thus, the mountains in this region rank among the preferred mines of the Cāḷukya empire, and the area abounds in goldsmiths, including some of the most respected master craftsmen patronized by the Cāḷukyas. Indeed, several sites in the region, including Sudi, under the control of the administration of Kukkunur itself, functioned as the premiere mints for the production of coinage throughout the period, possessing their own distinctive dies and designs. For the same reasons, the soil itself has miraculous properties, for it is said to be so hyper fertile that it spontaneously renews itself with a fresh batch of new nutrients after each planting season in a manner that ensures that fields never have to lie fallow. Finally, on the social level, Kukkunur houses illustrious lines of pious Brāhmaṇas, and a hereditary administrative class of non- Brāhmaṇa landed farmers who serve as its *mahājanas*, all of whom operate under the direction of its long established line of illustrious and learned Kālamukha *ācāryas*.
+
+As our text has begun to indicate, the source of all of this power and good fortune, which is transferred to those who take up practice in that place, is Kukkunur itself, because this is where the power of speech—made manifest in an awesome and terrifying form—to say nothing of a pantheon of mostly ferocious esoteric deities, have resided in splendor for many years, thriving under the care of *yogins* who call themselves Kālamukhas. This state of affairs in and of itself is somewhat surprising, for recent scholarly literature has by and large placed
+
+[[P501]]
+the Kālamukhas at some distance from a recognizably Tantric milieu. During the twelfth century in particular, especially under the direction of the great Kālamukha *siddha* Kaḷēśvara, whom we will encounter momentarily, through the production of a network of ritual centers, at Ron, and Sudi, and quite possibly at Gajendragad, the artisans and Kālamukuha *ācāryas* associated with Kukkunur extended their influence throughout the central Deccan. Apart from Kukkunur itself, the most spectacular of the nodes in this network today are certainly the ruins found at Sudi, which are comprised of three intact temples and a spacious step well. While in the tenth century the town seems to have maintained a special ritual relationship with the Kāpālikas of Lakṣmēśvara, due to a raid by the Cōḷa king, the social dynamics in the city were temporarily disrupted. Under the direction of Āhvahamalla/Someśvara I himself, the council of the town, whose *kāryacintakas* were comprised of six *gāvuṇḍa* lineages and eight *sĕṭṭis*, most likely in this case founding artisan families, had to be reinstated along with their *samaya*. At this point, either a different line of self-identified Kālamukha *ācāryas* moved in, or the older line in evidence from the tenth to the middle of the thirteenth century, when the land grant is abruptly discontinued and the inscriptional record suddenly stops, reimagined itself to suit the changing tenor of the times. Regardless, the governing institutional authorities on the ground remained constant, for the same original founding families are in evidence from
+
+[[P502]]
+the tenth to the middle of the thirteenth century, when the land grant is abruptly discontinued, and the inscriptional record suddenly stops.
+
+One of the most fascinating features of the Sudi corpus, perhaps not so surprising in light of what we have already seen of the region’s topography and resources, is the consistent reccurrence in its inscriptional record of artisans, especially goldsmiths and jewelers, many of whom also seem to have been serving as *mahājanas*. Thus, for example, in 1075, a jeweler by the name of Maddisĕṭṭi makes a series of donations to the Acalēśvara temple.[^502_518] Likewise, in 1103, a key resident of the town, Uttōja, chief goldsmith to Vikramāditya VI himself, makes
+
+[^502_518]: C. R. Krishnamacharlu, et. al., ed., *South Indian Inscriptions* vol XI, pt. 1: Bombay-Karnatak Inscriptions, vol. 1, pt. 1 (Madras: Government Press, 1940), no 109, pg. 106.
+
+### Sudi’s spectacular stepwell. Note that there are three alcoves for installing deities.
+
+[[P503]]
+an offering of gold to the god Kammaṭēśvara, the generic name for the *kuladeva* of the artisan castes who work with precious metals, who typically assumes the form of Bhairava. Indeed, the inscriptional record seems to suggest that during the late eleventh and early twelfth century Sudi served as an important site for the minting of gold coins.[^503_519] In functional terms, it was a central hub in the economic networks of circulation in the region. Should he be assigned by his superiors in the wider ranging monastic network to provide oversight to such a community, regardless of his personal interests and predilections, a particular Kālamukha preceptor of necessity would have found himself operating not just as an initiatory guru to such communities, providing them with soteriological benefits, but also as a caste guru intimately involved in the business of his people. At Sudi, this would have likely entailed not only some direct involvement in both the pedagogy and production process associated with the specific artisanal crafts of the goldsmith and jewelers, especially in relation to objects produced for use in a temple context, but also in regard to the transactional economic activities that defined a community responsible for the production of legal tender as well as the determination of price floors and ceilings and general liquidity. In other words, no matter how learned he might be in *śāstra* or exalted in his attainments from the successful execution of Tantric *sādhanās*, the professional life of a Kālamukha *ācārya* abounded in banal responsibilities largely conditioned by the particular character of the places where he was posted and the sets of site-specific obligations which he has inherited.
+
+At the same time, Sudi also seems to have been an important esoteric center. In particular, the temple now called Joḍukalaśa, on account of its strange double domed structure connected by an internal *maṇḍapa*, which in the inscriptional record is repeatedly connected
+
+[^503_519]: Krishnamacharlu, *South Indian Inscriptions* vol XI, pt. 1, no. 114, pg. 112.
+
+[[P504]]
+both to the goldsmith and jeweler communities as well as the governing Kālamukha authorities, seems to have played a key role in the esoteric ritual life of the region.
+
+### Sudi: Joḍukalaśa temple exterior.
+
+[[P505]]
+Though much of the exterior relief work is heavily eroded, as in the images on the left, which depicts Bhairava seated upon throne made from a serpent, or the one on the right, which seem to represent an introspective *ācārya* in a moment of relaxation, one can still see traces of a distinctively Śākta esoteric program. This impression is reinforced by the unique structure of the temple’s two *garbhagṛhas*, each of which presents us with a triad of alcoves clearly intended for housing an image for worship surrounding a central *liṅga*. Our exploration of Kukkunur will offer us a tantalizing possibility for making sense of the triad. In particular,
+
+[[P506]]
+above the two alcoves, in the second extra chamber of these alcoves, we find a beardless figure in a strange, pointed hat that in later centuries, especially under the Seuṇa Yādavas and Hoysalas, will come to represent the standard image of a Śākta adept who is not a bearded *ācārya*.
+
+Detail: Interior of *garbhagṛha* of Joḍukalaśa, one of three images of adepts.
+
+Note the similarity of his hat to those associated with the Vajrayāna, especially in Tibet.
+
+[[P507]]
+Before the text sadly breaks off, on the main *śāsana* in situ, the inscription at Joḍukalaśa speaks of how the great *yogin* Kaḷēśvara of Kukkunur contributed to the renovation of this site. Above the stela, we find what is likely a portrait of Kaḷēśvara himself, for it is striking in its resemblance to a similar figure we find over the great inscription in the *maṇḍapa* at Kukkunur from 1167 CE, whose striking similarities to Habbĕya Nāyaka’s text we have already explored and to whose rich representations of the social place of Tantric knowledge we now turn.
+
+Over the course of occupying a number of distinct offices, the *siddha* Kaḷēśvara compiled an impressive and varied range of accomplishments. Indeed, at times our text seems to alternate between the register we might anticipate from hagiography and something more suited to a medieval CV. In particular, despite the fact that the subject under discussion will also be represented as a highly charismatic living saint, our text is keenly committed to repeatedly invoking the *yogin’s* pedigree and institutional affiliations.
+
+[[P508]]
+> He [Kaḷēśvara] has obtained the office of *sthānācārya* of temple of the goddess Jyēṣṭhā, who is the best in the world. . . . He is also the *ācārya* to the nine *maṭhas*, which embrace the greatness that are the nine *liṅgas*, as well as overseeing the temples and *maṭha* of Śrīmūlasthāna, Siṅgēśvara, Rācēśvara, Cauṇḍēśvara, and Vikramēśvara of Arambaravi, in the beautiful capital city of the Sindha lineage. Kaḷēśvara, esteemed *rājaguru* and *Saiddhāntikarāja*, became famous on the basis of the reputation he acquired while holding the office of guru to *mahāmaṇḍalēśvara* Pērmmāḍi, a lord born in the Sindha lineage, and to the celebrated *mahāmaṇḍaleśvara* Cāvuṇḍa.[^508_520]
+
+[^508_520]: *A Corpus of Inscriptions*, 67: *variṣṭhĕyara jyēṣṭhĕyara sthānācāryatvamuman alliya navaliṃga- mahīmāliṃgitam appa sōmeśvaradēvara navamaṭhācāryatvamumaṃ śrīmatsiṃdakuḷānvayarāja-rājadrājadhāni yaraṃbaraviya / śrīmūlasthāna-siṃgēśvara-rācēśvara-cauṃḍēśvara-vikramēśvara-dēvāyatana-maṭhācāryatva- mumaṃ taḷidu / sthira siṃdānvaya jāṭamaṃḍalikarŏḷ / śrīmanmahāmaṃḍalēśvara-pĕrmmāḍī narēśvaraṃg’ abhimataṃ śrīmanmahāmaṃḍalēśvara cāvuṃḍa narēśvaraṃgĕ gurugaḷu tāvāda pĕṃpiṃ kaḷēśvara- saiddhāṃtikarāja- rājagurugaḷu vikhyātiyaṃ tāḷdidar //*
+
+[[P509]]
+As you can see, the manner in which the text introduces the figure on which it will focus is eerily reminiscent of the “few brief remarks” we proffer today when introducing an esteemed senior scholar, right down to such details as the fact that the most recent institutional affiliation, offices and accomplishments of the speaker are listed first. At the time when our *śāsana* was composed, it seems that Kaḷēśvara had relatively recently assumed sacerdotal and administrative authority over the Jyeṣṭhā temple, which seems to have been among the most powerful and prestigious Śākta strongholds in the Deccan. Sometime before this took place, he had already assumed control of both the Navaliṅgēśvara temple at Kukkunur as well as the “nine *maṭhas*,” an institutional framework that surfaces repeatedly in the inscriptional record throughout the region, the exact nature of which remains unclear. Since the business portion of our inscription is focused on recording a visit to the Jyeṣṭhā temple by a *daṇḍanāyaka* serving the Sindha line of kings, whose family we learn had long been reverent devotees of this goddess, Kaḷēśvara’s office as *rājaguru* to the Sindha kings and responsibilities overseeing ritual centers in their royal capital are emphasized at the expense of other responsibilities and offices. A regional power whose capital city of Erambagive, modern day Yelaburga, lay a mere fifteen kilometers from Kukkunur, in previous centuries the Sindha line had served as important allies to the late Kalyāṇi Cāḷukyas. During the period we are discussing, they were key allies of the upstart Kalachuris, and in subsequent centuries they would play strategically vital roles for both the Hoysalas, and especially the Seuṇa Yādava kings, Once the text has placed our Kālamukha *ācārya* institutionally, next we learn something of his education and its associated pedigree.
+
+> Among the Kālamukha order of the Nakharēśvara temple at Sudi, by whom the *āvaḷis* are honored, the firm-minded, chief *muni*, Srī-Kaḷēśvara—the king of those engaged in vows—attained fame. Among the Kālamukhas, honored by the great Sindha lineage, the most excellent of *ācāryas*, Somēśvara, had a student Vigrahēśvarabudha the
+
+[[P510]]
+> learned. His student was Yogēśvara, the *rājaguru*, endowed with a multitude of merit. His chief student was Kaḷēśvara, the *Saiddhāntika rājaguru*, the sole refuge for wise men.
+>
+> He has embraced a state of peace praised by the *śivayogins*. He has embraced the doctrine of the *Śaivasiddhānta*. He has embraced a pure heart of the sort praised by the sage folk, Noble Kaḷēśvara has embraced the role of guru of the world.[^510_521]
+
+As we can see, Kaḷēśvara’s preceptorial line descends from a lineage of Kālamukhas “by whom the *āvaḷis* are honored,” a phrase we shall explicate momentarily, who were based out of the town of Sudi. The institutional center for these *yogins*, much as it was for the gold smith and jeweler artisan castes in that region, was Nakhareśvara, the temple that is today called Joḍukalaśa. As opposed to offering a full genealogy of the ascetic line, the text presents us with the names of three generations worth of gurus: Yogēśvara, Vigrahēśvara, and Somēśvara. These are Kaḷēśvara’s *dīkṣā*, *parama*, and *parameṣṭhi* gurus. This is to say, it offers just the sort of information one would need to perform any of a variety of forms of *gurupūjā* in which these three figures are invoked ritually as synecdochally invoking an imagined unbroken transmission comprised of both human and nonhuman teachers. As we can see, the teachers under discussion are only superficially differentiated; Vigrahēśvara seems to have been renowned for his learning, for instance, and Yogēśvara for the merit he presumably acquired through performing austerities. It is difficult to tell whether such appellations are purely tropical or if they are informed by actual knowledge about these particular people. Much more evident is the fact that Kaḷēśvara’s office as *rājaguru* seems to be at least partially inherited from his own guru, for Yogēśvara occupied the same post. As none of the preceding
+
+[^510_521]: *A Corpus of Inscriptions*, 67: *sthiramati sūṃdiya nagarēśvara-kāḷamukhānvavāyamānyāvaḷiyŏḷu dŏrĕvĕtta munīśvaravarŏḷ dŏrĕvĕttaṃ śrīkaḷēśvara bratīrājam / varasiṃdānvyamānyakāḷamukharŏḷu sōmēśvarācārya- varyyara śiṣyar mmunivigrahēśvara budharu tacchiṣyar udyadguṇā / kara yōgēśvara dēvarājagurugaḷu tacchiṣyamukhyar kkaḷēśvara saiddhāṃtikarāja rājagurugaḷu vidvajjanaikāśrayaru // śāntiyan appukĕydu śivayōgijanastutan āda śaivasiddhāṃtaman appukĕydu samunīṃdrajanastutanāda sātvika|svāṃtaman appukĕydu sujanastutanāda kaḷēśvarāryya saiddhāṃtikarāja rājaguru lōkagurutvaman ĕydĕ tāḷdidaṃ //*
+
+[[P511]]
+teachers occupied the office, and both the Sindha kings’ presence in the region as well as the temple complexes themselves long predate the aforementioned line, the position does not seem to be strictly speaking “hereditary.”
+
+Kaḷēśvara’s accomplishments, which have earned him the title of guru of the world, on the other hand, seem to represent a step up from those of his own teacher, for he is only the *rājaguru*, but quite specifically is said to have played the separate roles of the scholastic (*śikṣā*) and initiatory (*dīkṣā*) guru of the descendants of the royal Sindha line, while at the same time operating as the chief *ācārya* responsible for ritual installations (*akhilapratiṣṭhācārya*) as well as the teacher of the “Śivasiddhānta.” Indeed, as the concluding portion of our text, before the imprecatory verses, will makes plain, by virtue of occupying so many different social roles, Kaḷēśvara effectively was perceived as containing multitudes.
+
+> He is honored by all living beings as endowed with *yama-niyama-svadhyāya- adhyāyana-dhāraṇā-mauna-anuṣṭhāna-japa-ṣaḍaṅgopahāra* and so forth.
+>
+> When it comes to the innumerable forms of logical reasoning, to grammar, to *Purāṇa*, to literature, drama, the one act play, to the *Mahābhārata* and to the *Kāmasūtra*, he is like another Brahmā.
+>
+> He is the one by whom Parameśvara is ritually installed in the midst of the lotus of one’s own heart.
+>
+> For both himself and for others, he is an overlord of *mantras* in so much as he washes away sin. They are all washing the feet of that best of *ācāryas* Kaḷēśvaradeva, the royal preceptor. They performed the required support for the daily and occasional worship of the goddess Jyeṣṭhā, Navaliṅgādhīśvara, and Someśvara, providing funding for the feeding of ascetics and for the repair of whatever is broken cracked and decayed that pertains to those temples.[^512_522]
+
+[^512_522]: *A Corpus of Inscriptions*, 69–70: *yamaniyamasvadhyāyadyānadhāraṇāmaunānuṣṭhānajapa-ṣaḍaṃgōpahārādi- saṃpannar akhiḷaprāṇiprasaṃnar / anēkatarkkabyākaraṇapurāṇakābyanāṭakanāṭikābharatavātsyāyanādividyā- sārāsāravicāracārucaturānanar / madanamadajagapaṃcānanar / nijahṛdayakamaḷamadhyādhyāsitaparamēśvarar / svaparapāpaprakṣāḷanamaṃtrādhīśvarar / ĕnipa śrīmatsiddhāṃti rājaguru kaḷēśvaradēvācāryyavaryyara pādaprakṣāḷanaṃ gĕyd’ ā sĕlagarava jyēṣṭhādēviy ĕnipa jyēṣṭādēviya navaliṃgādhīśvara sōmēśvaradēvara nityanaimittikapūjĕgaṃ tapōdhanar āhāradānakkav ā dēvāyatanaṃgaḷa khaṃḍasphuṭitajīrṇnōddhārakkav ĕndu dhārāpūrbbakam āgĕ biṭṭar ā sthaḷada hŏlavērĕy ĕṃt’ ĕnĕ //*
+
+[[P512]]
+While introducing the *dāna* being offered by a regional *nāyaka* and his horse trader uncle who is in charge of the accounts from Gujarat, the text here presents in sequence a ready taxonomy of Kaḷēśvara’s credentials. First, Kaḷēśvara’s identity as Kālamukha is invoked through the by now quite familiar stock catalog of yogic attainments and virtues that define the office. In this case, the text has been interestingly emended to incorporate two distinctively non- rhetorical Śaiva practices of great antiquity, namely, the *upsaṃhāra* of the Pāśupatas where worship is accompanied by song, dance, non-semantic verbal ejaculations, and instrumental music, and the distinctively Śaiva practice of *ṣaḍaṅga yoga*, already known to the Nepalese *Skanda Purāṇa*. In the next verse, in contrast, effectively credentialing him in the role of *śikṣā guru*, Kaḷēśvara is defined in terms of his scholastic accomplishments regarding “secular” mainstream *śāstric* subjects of the sort that would prove pertinent to the education of a prince. In the third verse, in contrast, we encounter Kaḷēśvara in his role as the *dīkṣā guru*, installing the supreme lord in the heart of his devotees. Finally, in performing *pūjā* not only for himself but on behalf of others (*parārthapūjā*) and purifying his devotees of the stains accrued through both ritual and worldly transgressions, Kaḷēśvara acts as *rājaguru*, at once overlord of *mantras* and master of council (*mantrādhīśvara*). In other words, insomuch as he is acting in a specific socially prescribed role, Kaḷēśvaradeva is presented as perfectly instantiating the key dimensions of that role and nothing else. All of this stands in contradistinction to our usual presuppositions, namely, that evocations of the charismatic and magical abilities on the part of a certain special individual served the common-sense real-world function of conferring greater authority and thereby “legitimating” religious actors. As we shall see, among his own close circle of devotees, Kaḷēśvara is prized as an omniscient being with such enormous yogic attainments that he is capable of making reality itself bend to his will and
+
+[[P513]]
+his whim. And yet, strangely enough, not a hint of these extraordinary capacities makes it onto his CV. Were we so inclined, we could now attend to a multitude of inscriptional sources from throughout the Deccan, and also from Orissa, that are concerned with rendering the professional lives of Kālamukha preceptors in just this register. While all of these texts would benefit from this sort of close reading, the conventions of the genre render them less than ideal for furthering a more particularized understanding of the place that Kālamukhas occupied in the religious imaginaries of the medieval world. What renders the Kukkunur inscription such an invaluable source for our understanding is that, rather unusually, in this text, the expressive professional register we have already been exploring operates in dynamic tension with a decidedly different way of talking about religion among the Kālamukhas, one that offers the promise of effectively overturning the nascent consensuses emerging in our scholarly literature.
+
+In emphatically labelling our Kālamukha preceptor as *Śivasiddhāntā-cārya*, *Saiddhāntika rājaguru* and *Saiddhāntikarāja* our text would seem to be offering an almost painfully transparent account of Kaḷēśvara’s theological predilections. A person cursorily reading this text would be forgiven from concluding that, despite presiding over a goddess temple housing some deities with peculiar names, our Kālamukhācārya was a staunch adherent to the doctrinal system of the Śaiva Siddhānta. Often perceived to represent the ideological center at the heart of the Śaiva Age (Sanderson 2009), by the twelfth century, the Śaiva Siddhānta had evolved into a dualistic system, largely conforming to Brāhmaṇical social norms, which proclaimed the existence of an ontological difference between the embodied human soul and the supreme lord. From this perspective, god, in the form Sadāśiva, operates
+
+[[P514]]
+in a pure realm estranged from materiality and involves himself in the functions of our sad fallen world only through intermediary powers. In our historiography, despite some evidence in the ritual literature itself for the cross-pollination of *mantras* and practices across communities, such religious formations are viewed as inviolable doctrinal unities that are both socially and doctrinally hostile to their proximate rivals. Reading further, however, the evidence on hand calls into question all such presuppositions:
+
+> Speaking of the comprehensiveness of his knowledge, there is no other *siddhānta* he does not know completely. There are no *mantras* he does not know in full. No *Āgama* remains unknown to him. Kaḷēśvara, it must be said, is veritable mine of esoteric wisdom.
+>
+> Kaḷēśvara, the disciple of the wise, extracted (*uddharisi*) his definitive doctrine (*siddhānta*) from the Transmission of the *Siddhas* (*Siddhāvaḷi*), the Śākta Transmission (*Dēvyāvaḷi*), the Siddhānta Transmission (*Sōmasiddhāntāvaḷi*),[^514_523] and the Śaiva Transmission (*Śivāgamāvaḷi*): there took place the *abhiṣeka* [of disciples] in that very place.[^514_524]
+
+In violation of our assumptions about the nature of Kālamukha religious culture, which has until now, apart from contestations over the significance of the practice of bearing a skull ubiquitously associated with the community, been mostly shrouded in mystery, our text has unambiguously just shown us that Kaḷēśvara was actively engaged in the study and practice of the Śākta Tantras. He was not merely a grudging participant in such streams of esoteric knowledge in the service of professionalization, desperately struggling to keep up with the trends of the time. Rather, the evidence at hands demands that we envision him as a veritable Abhinavagupta of the Deccan, immersing himself in the study of the entire spectrum of esoteric knowledge, from the classical Śaiva Siddhānta, to the newer revelations of the Kaula *Siddha*
+
+[^514_523]: Many thanks to Somadeva Vasudeva for suggesting to me that this was the intended referent.
+[^514_524]: *A Corpus of Inscriptions*, 67: *aṟiyada siddhāṃtaṃ nĕṟĕy’ aṟiyada maṃtraṃgaḷ aṟiyad’āgama vĕḷĕyŏḷu / pĕṟav’ ill’ĕnĕ nĕṟĕd’ aṟivinŏḷ aṟivina kaṇiy’ĕnisidaṃ kaḷēśvaradēvaṃ // siddhāvaḷi dēvyāvaḷi siddhāṃtāvaḷi / śivāgamāvaḷi nĕṟĕd’ ī siddhāṃti kaḷēśvara budhan uddharisi jalakkan’ ādan’ urbbītaḷadŏḷu //*
+
+[[P515]]
+lineages, the Śākta Tantras, and even the texts of the Kāpālikas, with the aim of crafting his own conclusive doctrinal position. In other words, Kaḷēśvara is called the *Śaivasiddhāntikarāja* not because he follows Sadyojyotis, Bhaṭṭa Rāmakaṇṭha II, and the rest, but because he audaciously aspires to have his doctrine become the *siddhānta*, or settled position, that comprises Śaiva knowledge. If this ambition is itself something new, Kaḷēśvara’s allegiance to such systematicities seems to have been inherited through his lineage, which defined itself at the inception as “the Kālamukha order of the Nakharēśvara temple at Sudi, by whom the *āvaḷis* are honored.” As our passages makes plain, the *āvaḷis* in question are none other than *Siddhāvaḷi*, *Devyāvaḷi*, *Siddhāntāvaḷi*, and *Śaivāgamāvaḷi*. In other words, the Kālamukhas at Sudi proudly proclaim that they practiced, preached, and transmitted the Tantric canon in all of its many forms. Sudi in turn, especially the eccentric second chamber at the Joḍukalaśa temple, seems to have served as a venue for initiating their adepts. Such evidence, quite simply, has major consequences for the existing historiography on religion in the medieval Deccan.
+
+In his seminal work *The Kāpālikas and Kālāmukhas: Two Lost Śaivite Sects*, which to this day remains the only book that most scholars of Indian religions both in India and the West consult on the subject, David Lorenzen introduces his focus of study by observing quite candidly:
+
+> Judging from the large number of epigraphs recording donations to Kālāmukha temples and *maṭhas*, these ascetics must have wielded considerable influence in the region. Unfortunately, few indications of their beliefs and ritual survive apart from the information which can be gleaned from these epigraphs. They reveal the existence of at least two major divisions of the Kālāmukha order—the *Śaktipariṣad* and the *Siṃha- pariṣad*.[^516_525]
+
+[^516_525]: David Lorenzen, *The Kāpālikas and Kālāmukhas: Two Lost Śaivite Sects* (Delhi: Motilal Banarsidass, 1972), 98.
+
+[[P517]]
+There is much to commend about this pioneering work, which offers to date the only substantive survey of a portion of the relevant epigraphical archives offered from the perspective of a scholar of religion as well as some masterful mapping of specific preceptorial lineages across regional boundaries. Quite apart from only having access to a small fraction of the relevant materials, for in fact Lorenzen at every turn understates the ubiquity of Kālamukha aligned institutions across the entire Deccan especially between the tenth and thirteenth centuries, Lorenzen labors under some presuppositions that do not serve his analysis. Like many authors, despite the fact that only an infinitesimal percentage of the corpus contains any specifications of *varṇa*, by simple virtue of the fact that they are holding sacerdotal office, he simply assumes that all the Kālamukha preceptors under discussion must be Brāhmaṇas. However, practically our only specific delineations of the caste identity of Kālamukha gurus are found in inscriptions associated with the earlier records of the *Siṃhapariṣad*. These are mostly located in Telangana and Andhra Pradesh on the edges of the Kalyāṇi Cāḷukya world. In other institutional contexts, in contrast, either the evidence mitigates against such conclusions or it is simply absent. Furthermore, the unstudied material culture related to these communities, as we shall see in the next chapter, effectively speaks for itself in outing the Tantric commitments of at least the *Śaktipariṣad*.
+
+Such presuppositions lead Lorenzen to challenge as distortive polemic what is surely the most famous, and perhaps most accurate, synopsis of Kālamukha social practices in Sanskrit discourse. This brief but important passage derives from the Śrīvaiṣṇava *ācārya* Rāmānuja’s discussion of the order in his *Śrībhāṣya*, which offers a commentary on the *Brahmasūtrabhāṣya* of Bādarāyaṇa from an explicitly Śrīvaiṣṇava perspective.
+
+> It is stated that this doctrine of Paśupati must be abjured, because it is in opposition to the *Veda* and it is absurd. The four divisions who follow that doctrine are said to be as
+
+[[P518]]
+> follows: the Kāpālikas, the Kālāmukhas, the Pāśupatas, and the Śaivas. They all follow the *tattvaprakriyā*, which is opposed to the *Veda*, and they imagine artificial processes for obtaining the highest good that do not actually result in beatitude. They assert there is a difference between the material and instrumental cause and that Paśupati is the instrumental cause. Likewise, [they assert] that the means to the highest good is the bearing of *mudrās* and a banner.[^518_526]
+
+In his critique of Lorenzen, to which we will turn momentarily, Alexis Sanderson translates the next portion of Rāmānuja’s doxographical portrait in the following manner:
+
+> The Kālāmukhas too are outside the *Veda*; [for] they claim to be able to obtain miraculously all that they desire whether visible or invisible simply by eating from a bowl fashioned from a human skull, bathing in the ashes of the dead, eating them [mixed with their food ?], carrying a club, installing a pot containing alcoholic liquor[^518_527] and worshipping their deity in it, practices which all the *Śāstras* condemn.[^518_528]
+
+Missing from serious consideration in both Sanderson’s and Lorenzen’s analysis is any discussion of the lines that immediately follow this discussion, which offer considerable insight into the sort of social values Rāmānuja identified with the Kālāmukhas. Just as he had done earlier for the Kāpālikas, effectively outlining a ritual praxis similar to what we find advocated in the *Picumata Brahmayāmala*, Rāmānuja begins by quoting a snippet of a lost Kālamukha scripture:
+
+> A bracelet of *rudrākṣa* beads in the hand, and one single matted lock on the head, a skull and the bath with ashes”: these and so forth are all well known in the Śaiva scriptures. And they say that, by means of a particular ritual, just about anyone, even if they originate from a different caste, obtains Brāhmaṇa-hood and they say that they obtain the highest *āśrama*, as per the quotation “In an instant, merely through the entrance that is *dīkṣā*, he becomes a Brāhmaṇa. From assuming the skull vow, a man becomes an ascetic.[^518_529]
+
+[^518_526]: Rāmānuja, *Śrībhāṣya* 2.2.35: *idānīṃ paśupatimatasya vedavirodhād asāmañjasyāc ca anādaraṇīyato’cyate / tanmatānusāriṇāś caturvidhāḥ, kāpālāḥ kālāmukhāḥ pāśupātāḥ śaiveti / sarve caite vedavirūddhāṃ tattvaprakriyām aihikāmuṣmikaśreyaḥsādhanakalpanṃā ca kalpayanti / nimittopādānayor bhedaṃ nimittakāraṇam ca paśupatimācakṣate/ tathā niḥśreyasasādhanam api mudrikāpaṭakadhāraṇādikam /*
+[^518_527]: We will encounter Kālamukhas making use of scriptures that prescribe just this practice in the chapter 6.
+[^518_528]: Alexis Sanderson, “The Lākulas: New Evidence of a System Intermediate between Pāñcārthika Pāśupatism and Āgamic Śaivism,” *The Indian Philosophical Annual* 24 (2006): 183. Rāmānuja, *Śrībhāṣya* 2.2.35: *tathā kālāmukhā api kapālapātrabhojanaśavabhasmasnānatatprakāśanalaguḍadhāraṇasurākumbha sthāpana- tadādhāradevapūjādikam aihikāmuṣmikasaphalaphalasādhanam abhidadhati /*
+[^518_529]: Rāmānuja, *Śrībhāṣya* 2.2.35: *rudrākṣakaṅkaṇaṃ haste jaṭā caikā ca mastake/kapālaṃ bhasmanā snānam. . . . ityādi ca prasiddhaṃ śaivāgameṣu / tathā kenacit kriyāviśeśaṇa vijātīyānām api brāhmaṇyaprāptim*
+
+[[P519]]
+Despite his disgust with their content, Rāmānuja, who apparently had access to doctrinal sources not accessible to us, has clearly done his homework. Thus, we are offered such the overlooked details as the fact that he defines these communities as following *tattvaprakriyā*, which is to say a system of ritual practice centered around different approaches to visualizing the ascent of the soul through a hierarchy of worlds (*tattva*) entirely unknown to the Brāhmaṇical sources. Even more obscurely, in speaking not only of the *mudrās* but of banners (*paṭaka*) borne by such Śaiva ascetics, our author seems to show some awareness of sub-category of ascetic called the *dhvajin*, whose existence in this period has only come to light recently through Vasundhara Filliozat’s discovery of the *Pampāmāhātmya*.[^519_530]
+
+More generally speaking, Rāmānuja’s understanding of Kālamukha sociality is that it is founded on the theological presupposition that *dīkṣā* liberates one not only from ontological bondage but from the strictures that inform the caste of one’s birth. From what we can see, such initiation takes two forms, a general commitment that transmutes one into a Brāhmaṇa, and the assumption of the vow of the skull carrier, which places one either outside the *āśrama* system or causes one to become an *atyāśrama* ascetic in the proper Pāśupata sense of the turn. Essentially, what Rāmānuja describes is a social vision consonant with the one we explored in the preceding chapter as propounded in the *Śivadharma* and its commentary. Perhaps we should not be so surprised. This is, after all, the opening message communicated by the oldest surviving Śaiva scripture, the *Niśvāsatattvasaṃhitā*, a product of a discursive world that predates the codification of the Śaiva Siddhānta as a discrete school of thought, which in its
+
+[^519_530]: Vasundhara Filliozat, *Kālāmukha and Pāśupata Temples in Dharwar* (Chennai: Kuppuswami Sastri Research Institute, 2001).
+
+[[P520]]
+opening chapter offers precisely the teaching that *dīkṣā* liberates anyone, even an *antyajāti* And indeed, in the writings of the Deccan, such anxieties that link the institutionalized social realities of Śaiva ascetics engaged in Tantric practices and their lay communities are in evidence as late as the writings of Rāghavāṅka, (fourteenth century), whose rendering of the *āśrama* in which Durvāsas and his Dalit caste daughters dwell, a clear *roman de clef* for a Kālamukha compound, plays such an important role in the *Hariścandramahākāvya*. In short, there was nothing secret at all about the—depending on your perspective—socially liberative or obscenely transgressive divergent social norms that abounded in the medieval Deccan even if your place of origin was somewhere else.
+
+If the social reality we are gradually reconstructing is a good fit with our documentary evidence, nevertheless, it poses serious problems for even the most learned scholarly treatments of the nature of the Kālamukha traditions founded on a painstaking and ingenious reading of a deeply fragmentary textual record. In his magisterial mini-monograph, “The Lākulas: New Evidence of a System Intermediate between Pāñcārthika Pāśupatism and Āgamic Śaivism,” drawing upon a host of unpublished manuscript sources that offer scriptural doxographies of different sub-communities of Śaivas, Alexis Sanderson conclusively argues that the earliest strata of his sources differentiates between what he labels “the path of *mantras*,” which effectively amounts to what is commonly labelled Tantra, and the *Mantramārga’s* formative antecedents among the *Atimārga*, namely, the Pāśupatas and Lākulas.[^520_531] He then masterfully proceeds to offer us the surviving accounts of Lākula or *Lokātīta* practices on the basis of which, drawing solely on Lorenzen, he confirms that these communities can be identified with the mostly mysterious Kālamukhas of the Deccan.
+
+[^520_531]: In subsequent lectures and publications, Sanderson has emended this taxonomy to include a tradition of pre-Tantric Kāpālikas among the Atimārgic traditions.
+
+[[P521]]
+Sanderson identifies two sources that make sense of the vow enacted by an ascetic, one drawn from the *Niśvāsamukha’s* taxonomy of types of Śaivas, and the other from the nominally Saiddhāntika *Mataṅgapārameśvara*. The first of these runs as follows:
+
+> I have taught [you] the *Atyāśramavrata*. Hear now the *Lokātīta*. Touched with the five *Brahmamantras* and initiated, he should wander. He should carry a skull-topped staff (*khaṭvāṅgaḥ*) and [an alms-bowl fashioned from] a human cranium (*kapālam*). He should have matted locks (*sajaṭaḥ*) or shave his head bald (*muṇḍaḥ*). He should wear a sacred thread (*yajñopavītam*) made from the hair [of the dead] and he should adorn himself with a chaplet fashioned from human skullbones. He may wear nothing but a strip of cloth to cover his private parts. He must smear himself with ashes and decorate himself with celestial ornaments.
+>
+> Seeing all things as Rudra in essence he should hold firmly to his observance as Rudra’ s devotee. He may eat and drink anything. No action is forbidden to him. He should remain immersed in contemplation of Rudra, thinking “None but Rudra can save me. He is the deity supreme.” Provided that he has first understood the [Lākula] cosmic hierarchy of eleven [levels] he should practice this observance, remaining free of all inhibition (*nirviśaṅkaḥ*).[^522_532]
+
+Here, again in Sanderson’s translation, are some essential portions drawn from the ninth *paṭala* of the *Mataṅgapārameśvara*:
+
+> Now, O best of sages, I shall describe in brief the holy observance of Rudra (*rudravratam*), as a result of which the wandering adept, whose ascetic practice is openly displayed (*vyaktatapasaḥ*) [at this stage], wins without doubt full control of the world moving and immobile, and by following the prescriptions of the Section of Observance (*caryāpādaḥ*), experiences manifestation of that eternal liberation which, O brahmin, has come down through the tradition of the *Śivaśāstras*.
+>
+> When a man has turned away in this manner from impure desire and loathing wisdom suddenly arises [in him] roused by the will of God. He will then become a fervent initiate devoted to the propitiation of Rudra (*rudrārādhanatatparaḥ*). With the permission of his Guru he should take a trident and do *Japa* in silence and tranquility of mind, seated on ashes, detached from possessions, eating what he may obtain as alms. He should go at night to a *Liṅga* which is the only one within a radius of five leagues (*ekaliṅgam*), or to a cremation ground (*śmaśānam*), or to the foot of a tree, and there he should commence the practice of his observance with his awareness inwardly focused, in a state of undistracted concentration, wearing a single garment or none, free of anger and unaccompanied by an assistant (*asahāyavān*). The wise [initiate], should repeatedly (*satatam*) purify the site by examining it carefully [to remove any insects
+
+[^522_532]: Sanderson, “The Lākulas,” 165.
+
+[[P522]]
+> and the like that he might harm]. He should then lay down a covering of ash [on the ground] and then seat himself gently upon it.
+>
+> He should contrive to rouse the hatred of the world [against himself] by feigning [misconduct, disabilities and the like] (*aparamārthataḥ*). As he does so he should meditate on [Rudra] with a heart free of taint and complete awareness, visualizing him as a radiant figure the size of one’ s thumb, shining liking a ball of lightning in the calix of the lotus of his heart, with each of the parts of his body clearly distinct, five-faced, three-eyed, his crest adorned with the sickle moon. When he has visualized [him in this way] he should immerse himself in him entirely, [thinking] ‘Without a doubt this is who I am’ . Meditating [thus] he should wander day and night, ever mindful of the *Vyomavyāpi mantra* with its auxiliaries and *Brahmas*, eating little and full of resolution, indifferent to [extremes such as] heat and cold, ever benevolent and compassionate, contemplating, O best of sages, that the universe rests on his identity or that his identity pervades this universe, conquering his mind through *yoga* Nourished by the radiant power of his observance (*caryātejopabṛmhitaḥ*) the adept experiences the height of joy even as others verbally abuse or strike him. He should look on the whole world as his kin, thinking that nobody is either better or worse than himself. By manifesting this behaviour he experiences an inner joy.[^523_533]
+
+In his analysis Sanderson is primarily concerned with documenting the many continuities between this mode of religiosity and the more familiar *Atimārga* practices of the *Pāñcārthika Pāśupatas*, such as the Lākulas “contriving to rouse the hatred of the world” by feigning misconduct in the manner of the third stage of Pāśupata practice about which so much has been written. He is also intent on connecting Lākula ritual practices to the elaborate taxonomies of distinctive Śaiva cosmologies recoverable, if often in residual forms, from a close reading of Tantric chapters of the ontological hierarchies that make up the many subtle worlds that overlap with our own. Indeed, it is on this basis that he is able to confirm that one of what Lorenzen has identified as among our earliest explicitly Kālamukha inscriptions contains a veiled reference to the scriptural canon and taxonomies that the Śaiva *Āgamas* treat as the defining resources for the Lākula tradition. And it is on this basis that Sanderson suggests that, though he seems not fully aware of the extent of this phenomenon, the predominant
+
+[^523_533]: Sanderson, “The Lākulas,” 205–206.
+
+[[P523]]
+religious community in medieval Deccan were *Atimārga* adepts adhering to a lost canon of scriptures, whose core theology involved a gnostic style ascent into the higher realms as well as a radical renunciation of all forms of action as the culminating phase of spiritual practice.
+
+In light of our own explorations thus far, however, what should be equally evident is how frequently the two specialized vows associated with ascetics who have taken up the skull, about which Sanderson has written with such insight and eloquence, also make reference to an assumed body of devotional values and social comportments shared by all *rudrabhaktas* that have their point of origin in “*Śivaśāstras*”: in other words, in the *Śivadharma* and its successors. As Rāmānuja tells us, Kālamukha culture seems to have been comprised of at least two components. First, there is ritual inclusion in the community as a non-ascetic, an act which entails the transmutation of the original caste of the initiate into that of a Brāhmaṇa. Secondarily, as we have seen, one can become a *yati* through assuming a skull vow, which seemingly must have entailed the types of practices about which Sanderson has written with such clarity.
+
+As straightforward a formulation as this might seems to us, however, it poses seriously complications for the criteria that scholarship has used for identifying the features that differentiate the *Atimārga* from *Mantramārga* traditions. In what is probably the most recent distillation of cutting-edge scholarship on the subject, for example, in an essay contained in the *Continuum Companion to Hindu Studies*, Dominic Goodall and Harunaga Isaacson have argued:
+
+> We have spoken of ‘continuity’, but what characterizes the shift from *Atimārga* to *Mantramārga*? How does the latter set itself apart? The new Tantric religion for the first time placed strong (perhaps equal) emphasis on two goals: liberation (*mukti*) and the enjoyment of supernatural powers (*bhukti*). Both goals were attained through the power of spells (*vidyā, mantra*), the propitiation and use of which required a ritual
+
+[[P524]]
+> technology of considerable complexity and both required initiation (*dīkṣā*). Now there may seem to be nothing very new here: initiation is required for the *Atimārga* too. . . . But these elements have been reconfigured and, in some cases, reinterpreted: the spells of the *Mantramārga* are with five exceptions (the five *brahmamantras*) not Vedic, and initiation (*dīkṣā*) is no longer simple a necessary rite of entrance into a new religion, as it has been for at least the Pāñcārthika Pāśupatas, but has become instead a transformative rite. Liberation is no longer brought about, as in the *Atimārga*, through a lengthy progression of post-initiatory practice, but is conceived of as being essentially the result of cutting the bonds by Śiva, acting through the guru and with *mantras* as his instruments, at the time of initiation. Furthermore, this liberation, conceived of both as release from suffering and at the same time as the realization of omniscience and omnipotence, was offered not only to brahmin males, as in the *Atimārga*, but to those of all *varṇas* and, in some cases, both sexes.[^525_534]
+
+Quite simply, the evidence at hand calls into question of the distinctiveness of nearly every feature that Goodall and Isaacson have invoked as distinguishing the *Atimārga*. Working in reverse order, as we have seen, Kālamukuha communities are identified with the initiation of all *varṇas* and castes, a process that transmutes the adept into a Brāhmaṇa. In this sense, at least, for them also, *dīkṣā* was understood as a transformative rite and not merely a rite of passage. Quite apart from the *brahmamantras*, our Kālamukhas make open use of non-Vedic *mantras*, especially the *vyomavyāpin* system, which the Siddhānta appropriates. Finally, as we will soon explore, as part of their professional duties, Kālamukhācāryas were intimately involved in magical practices both on their own behalf and in the service of various regional powers. In fact, practically the only detail left standing is the supposedly “gradualist” nature of *Atimārga* soteriology, as we have little evidence relating to such matters preserved in our sources. This is not to say the historical development of traditions that Goodall, Isaacson, and Sanderson have proposed is necessarily incorrect. Indeed, as Sanderson has noticed, some of
+
+[^525_534]: Dominic Goodall and Harunaga Isaacson, “Tantric Traditions,” In *Continuum Companion to Hindu Studies*, ed. Jessica Fraizer (New York: Bloomsbury, 2011), 124–125.
+
+[[P525]]
+the earliest strata of our inscriptional record concerning the Kālamukhas seemingly refer directly to the lost canon of *Pramāṇaśāstras* that served as foundational Lākula scriptures. It may well be the case that, in the mid-eighth century or earlier, the tradition was aligned with distinctively Lākula doctrinal formulations, exclusively initiated Brāhmaṇas, primarily made use of Vedic *mantras*, and was solely oriented towards soteriology. But traditions and their institutions do not merely fossilize at their point of origin, and by at least the middle of the tenth century, there are reasons to believe that, especially in greater Karnataka, the people calling themselves Kālamukhas are committed to very different values and practices. Indeed, by the eleventh century, there are strong indications that Kālamukha *maṭhas* throughout the Deccan have become the primary sites for the practice of Tantric Śākta rituals and the circulation of these scriptures. While the archive associated with Kukkunur transparently communicates this state of affairs, in broader terms, the material cultural record requests that such a reorientation was not only confined to the Kālamukhas based out of Sudi, but was also at work within the *Śaktipariṣad* in general, to say nothing of the myriad of other localized Kālamukha lineages attested to in our inscriptional record that our scholarship has scarcely noticed. Quite apart from its thick description of the Tantric pantheons that called the place home, what is particularly striking about the archive at Kukkunur is that it paints a vivid portrait of the interplay between the quest for worldly power or supernatural attainments and more soteriological aims. In hinting at how a single institution—indeed, a single person—adapted itself to accommodate both these aspects of human longing for measure of transcendence, it perhaps offers us glimpses of the process whereby the Lākula tradition merged into the streams of the Tantras.
+
+[[P526]]
+As we have seen, the crowning achievement of Kaḷēśvara’s professional career was not when he assumed the office of *rājaguru*, but rather his appointment as the ruling authority at the temple of Jyeṣṭhā at the heart of Kukkunur, a responsibility that had been preceded by his assuming control over the Navaliṅgēśvara temple. As our inscription and material record makes clear, both of these institutions have their own deep history only tangentially associated with the specific line of Kālamukhas of Sudi, or from anywhere. As our text has already told us, “the Kuntaladēśa alone, in which Kāḷikā, Jyēṣṭhĕ, and Kapāḷīśa have taken up residence, is the best [place] among all the other countries. And, it is because of their [i.e., Kāḷikā, Jyēṣṭhĕ and Kapāḷīśa] greatness that there is a foundation for the accumulation of merit in that place.” In short, whatever merit human beings acquired from being in that place, or so the *śāsana* says, resulted not from individual efforts but as consequence of being immersed in an environment saturated in decidedly Śākta form of divine grace, mediated through pantheons derived from the *Picumata Brahmayāmala*, in the case of Kapāḷīśa Bhairava, and through the Kālī Krama, in the case of Kāḷikā. As the following passage makes clear, these two systems are mere complements, however, to the central focus of worship at Kukkunur, who is Jyeṣṭhā, the “eldest” goddess:
+
+> There are nine *śivaliṅgas*. Through his sovereign power, they are self-arising. There are nine *śaktipīṭhas*, which are to be praised by the world. On account of the “great” *utsāvas* the throngs of self-arising *yoginīs*, of which the eldest [authority] is the goddess Siddhayōgēśvara, never depart from this place, because this is said to be the field where there is the sexual union (*sampuṭa*) that is the dynamic pulsation (*sphurattā*) of Śiva and Śakti. Who can [possibly] describe Kukkanūru?[^527_535]
+
+At least for Śākta initiates into its esoteric traditions, Kukkunur it seems was perceived as another Karavīra; incredibly sacred ground that bore continued witness to the *yāmala* of
+
+[^527_535]: *A Corpus of Inscriptions*, 65: *śivaliṃgaṃgaḷu svayaṃbhūprabhutĕyin ĕsĕv’ ŏṃbatt’ ĕnal śaktipīṭhaṃ bhuvanastutyaṃgaḷ ŏṃbatt’ ĕnal idu śivaśaktisphuratsaṃpuṭakṣētrav’ ĕnuttaṃ siddhayōgēśvaravara- sahajāyōginīvrātav’ atyutsavadiṃd’ alliṃdav’ ĕṃduṃ tŏlagar ĕnal ad’ ār baṇṇisar kukkanūraṃ //*
+
+[[P527]]
+Śiva and Śakti in a manner that made it an appropriate venue for the performance of Tantric *vīranāthas* holding *melanas* where they consorted with *yoginīs*. Our text is unmistakably inflected with the terms of art, such as *sphurattā*, specific to the tradition of the Trika, the ritual foundation of what is commonly called Kashmir Śaivism. Moreover, and just to make certain that connection is not overlooked, the eldest goddess is explicitly identified with the goddess Siddhayogeśvara,[^527_536] from whom the oldest Trika scripture, the *Siddhayogeśvarīmata*, derives its name. In other words, not only is Kaḷēśvara’s approach to the study and use of scripture eerily reminiscent of the textual practices of Abhinagupta, but the context in which he is operating is explicitly a Trika institution. Further confirming this identification, in a decidedly more mainstream poetic idiom, in the long hymn of praise to the goddess preserved on the same stela, which we will examine shortly, Jyeṣṭhā is repeatedly identified with the power of language operating immanent throughout all living beings, a core theological tenet of the Trika and its *śāstra*.
+
+Diverging from the more pristine canons of the more familiar Śākta Tantras, both within her own temple and in relation to the wider sacred geography at Kukkunur, Siddhayogeśvara is presented as presiding over a series of what may well once have been discrete networks of “local deities” as well as esoteric deities. Each of these networks carried with it its own discrete systems of meaning as well as ritual responsibilities. In gaining oversight over such a place, like any governing authority, a Kālamukha like Kaḷēśvara would have found himself inheriting the responsibility and oversight to ensure that the traditional way of doing things (*pūrvamaryādā*) and comporting oneself at each of these places was protected
+
+[^527_536]: Notwithstanding the somewhat odd use of the masculine *a* stem in place of the expected *Siddhayogeśvarī*, this is perhaps the oldest name assigned to the goddess Parā. Such usages, as Dyczkowski has demonstrated, often directed towards specific theological ends, however, are not unknown for example in the Tantras dedicated to Kubjikā composed around this period.
+
+[[P528]]
+and its internal integrity preserved. That is to say, regardless of personal commitments, much like the British in Colonial India, a Kālamukha would have offered tacit *de facto* sanction for a myriad of conflicting life-worlds.
+
+> The mother of the well-known primordial *pīṭha* (*ādiya pīṭhad’*), the ancient goddess, Cāmuṇḍidevi, Mahāmāya, the goddess of the tank, Vasantā, Kālyamba, Śāntikāri, and glimmering Śrīguptacāmuṇḍi; because of the accrual of merit [from] those Goddesses living [there,] Kukkanūr is pure/sacred.
+>
+> On account of the arising of glory, among all those goddesses, who is the supreme goddess? Jyēṣṭhādevī! Because of her superior nature, she is known of as the senior- most goddess. She took up residency in that *agrahāra*.
+>
+> In the east [of her temple] is Brahmēśvara, whose greatness is praised. Excellent Gaṇēśvara is placed in the south. Mūlēśvara in the west. In the north, is famous Mallikārjuna. When they are joined to the self-arisen nature, in the middle of them all, Śrījyēṣṭhĕ took up residence with great grace.
+>
+> Since a *liṅga* became manifest in Somēśvara’s abode with the singular form of the terrible goddesses, like Bhadrakālī, and gods, such as Praḷayāntaka who were in the shining [*sphurad-udyan*] and rising *maṇḍala* of nine naves [*navanābhamaṇḍala*], [everyone] serves the *navamaṭha*. Therefore, in that place, Śrījyēṣṭhĕ, together with Praḷayāṃbĕ and Bhairava, shines forth.
+>
+> When Kapāḷīśa and Mahāpraḷayāṃbĕ were established on their own excellent *pīṭhas*, to the left of Jyēṣṭhā, the goddess Kāḷikĕ took up residency. . . to grant (*īyal*) the wish[es] of her devotee[s].[^529_537]
+
+If we set aside the distinct but unverifiable possibility that she is called “eldest” because she was installed first, a common feature of sacred geography in the Deccan even today, in becoming “Jyeṣṭhā,” the eldest, the goddess of the Trika is given sovereignty over the other
+
+[^529_537]: *A Corpus of Inscriptions*, 65: *samasaṃd’ ādiya pīṭhad’ aṃbikĕ purāṇīdēvi cāmuṃḍidēvi mahāmāyĕ taḍāgad’ aṃbikĕ vasaṃtādēvi kāḷyaṃbĕ viśvamahīvaṃditĕ śāṃtikāri viḷasat śrīguptacāmuṃḍiy ĕṃba mahādēviyar irppa saipin’ ŏdaviṃdaṃ kukkanūr ppāvanaṃ // ā dēviyarkkaḷŏḷu mahimōdayadiṃ piriyaḷ ārgav’ ĕnip’ ŏḷpiṃ jyēṣṭhādēviy’ĕnisutuṃ jyēṣṭhādēvi tadagrahāradŏḷu nĕlĕgŏṃḍaḷu // aḍakaṃgŏṃḍirĕ mūḍal udghamahimaṃ brahmēśvaraṃ tĕṃkalŏḷ piḍid’ ŏppirppa gaṇēśvaraṃ paḍuval ā mūlēśvaraṃ sārkkĕyiṃ [|] baḍagalu bhūnuta mallikārjjunan ivaru śrīmatsvayaṃbhūtvamaṃ gĕḍĕgŏṃḍŏṃdirĕ madhyadŏḷu nĕlasidaḷu śrījyēṣṭhĕ sallīlĕyiṃ // sphurad-udyan-nava-nābhamaṃḍaḷadŏḷ irpp’ ā bhadrakāḷyādibhāsuradēvī-praḷayāntakādyamarar ēkākāradiṃ liṃgam āgirĕ / sōmēśvaravāsadŏḷ navamaṭhaṃ saṃsēvyam ĕnd’ alliy ādaradiṃdaṃ praḷayāṃbĕ-bhairavayutaṃ śrījyēṣṭhĕ rārājipaḷu // ŏlĕdu kapāḷīśa mahāpraḷayāṃbĕ nijōdghapīṭhadŏḷu tann’ ĕḍadŏḷu nĕlĕgŏḷĕ kāḷikĕ mŏdalŏḷunĕlĕgŏṃḍaḷu bhaktajanad’ abhīṣṭaman īyal //*
+
+[[P529]]
+pantheons. It is possible that this also implies some degree of doctrinal superordination of the sort that Sanderson has discussed at length, especially in the context of iconography and cosmology, where the newest and most potent revelation is placed at the apex of a preexisting great chain of being of the Tantric traditions in a manner that systematically subordinates the other systems as focuses of reference, without however erasing their distinctiveness or particularized contents. In this way, rather them representing life-worlds animated by their own sets of values, competing Tantric pantheons are gradually transmuted into *kalpa* texts, providing ritual details and supplementary information in contexts where the necessary details or procedures are absent from the main root Tantras.
+
+Geo-spatially, Jyeṣṭhā is here embedded in three different networks. In the first of these, which seems to have extended over both the terrain of modern day Kukkunur as well as the thirty villages it governed, she presides over a set of goddesses, all of them housed in structures that are no longer extant, and at least one of whom seems to have been installed in a step well. More immediately, the central temple of Jyeṣṭhā, which stood where our *śāsana* and *maṇḍapa* are preserved today, is imagined to be placed in the center of four other temples. Two of these still stand. To the immediate north of the *maṇḍapa*, in what was the old Brāhmaṇa quarter, one can still see the ruins of Mallikārjuna, parts of which have been converted into housing. Oddly enough, what our text calls the *mūlasthāna* today is called “Kaḷēśvara *haḷe devara guḍḍi*.” Located in a roughly western direction three kilometers from the ritual center of the town, under some garish layers of paint, Kaḷēśvara preserves an early Kalyāṇi Cāḷukya directed renovation of core Rāṣṭrakūṭa structural features, which strongly resemble the mid-ninth century structure found at Bagali, a place that, as we have seen, formed a key node in the wider networks of circulation with which Kukkunur was associated. In the translation from textual
+
+[[P530]]
+ideal to historically conditioned material reality, many compromises have to be made. While in ideal terms, one would have envisioned these sites as framing the *ādipīṭha*, in actuality, they stand at uneven distances scattered around the landscape. Finally, though no material remains of the place survive, even in her own temple where she purportedly reigns supreme and unchallenged, Siddhayogeśvara-Jyēṣṭhā is forced to accommodate house guests. It seems that her image was flanked on the right by an image of Pralayāmbā and her Bhairava, each of whom was housed on their own respective *pīṭha*. Presumably, given that “Kapāḷīśa, Jyēṣṭhĕ, and Kāḷikā,” were paired together earlier in our text, since Kapāḷīśa Bhairava is her consort, the mother of the dissolution is a euphemism for the goddess Aghorī and some iteration of the tradition of the *Picumata Brahmayāmala* is being invoked. In a parallel fashion, an icon of Kāḷikā was placed to Siddhayogeśvara’s left. Like so much in this tantalizing but decidedly obscure passage, this goddess’s ritual identity is somewhat more ambiguous, for in various places, our text will hint at her affiliation with Kālī-oriented traditions but also with the Western Transmission of Kubjikā. As Mark Dyczkowski has eloquently demonstrated at great length in the introduction to his reading of the *Kumārikākhaṇḍa* of the *Manthānabhairava*, this pragmatic or context-dependent conflation of what scholarship has tended to think of as distinctive pantheons is not merely the product of our own ignorance but in fact reflects a deeper *emic* understanding in which historical difference is accounted for through complex systems of homologization.
+
+Once it has introduced the pantheon housed in Jyēṣṭhā’s temple in the heart of the field of the *siddhas*, suddenly and abruptly, our text changes registers and offers us some precious bits of vernacular liturgy, perhaps the only such texts to survive in the inscriptional corpus. The first of these offers a long poetic praise of the power of the goddess Jyēṣṭhā, while the
+
+[[P531]]
+second offers us a glimpse of systems of ritual magic enacted with the Navaliṅgēśvara temple. Both hymns begin by affirming the fundamental ontological identity of all the deities present in these places, whose natures are then inflected towards discrete ends through changes in iconography. After an initial verse praising the goddess Kāḷikā, in which a series of untranslatable puns set out to convey that by means of the power of death, she killed death himself, usurping his place in the southern direction, the text resumes with a praise of the mother of dissolution.
+
+> When she roars, the mother of the end of the world (Praḷayāṃbikē) draws the end of the world (*pralaya*) near. Bhairava, being “terrible [*bhairava*]” destroys the world. Kāḷikā, when she grows angry, will forcefully bind the tongue.
+>
+> She (Jyēṣṭhā) paralyses their gait. Because of her they are afraid. She paralyzes the mind of the one who says: “what kind of woman is this?” She paralyzes the power of speech. Even an enemy does not mock Jyēṣṭhā.
+>
+> To the one who cries “sanctuary,” she provides the fundamental fruit that is fearlessness.
+>
+> With her winnowing fan, immediately, swinging [it] delightfully she snuffs out the flame of the lamp that is the life of the rogue, who, out of stupidity and blinded by intoxication, challenges [her]. It’s as if, at that moment, she subjects his body to the beak of her frightening crow.
+>
+> Who would dare say that Jyēṣṭhā is a common (*sāmānya*) goddess?
+>
+> What person can survive that great goddess, Mother Māri of insatiable thirst? She causes lightning to wither as it strikes, and she swallows time and death. Who is able to evade that goddess Kāḷikā?[^532_538]
+
+Quite apart from its poetic flourish, for our purposes, this astonishing passage is doing two rather distinctive sorts of rhetorical work. At the most obvious level, it begins the process
+
+[^532_538]: *A Corpus of Inscriptions*, 65–66: *praḷayaman ĕydisutirppaḷu praḷayāṃbikĕ kĕḷardu bhairavaṃ bhairavan āg’ iḷiy irkkuvan ā kāḷikĕ muḷidaḍĕ kaḍupiṃdĕ kaṭṭuvaḷu nālagĕyaṃ // tāṃ bhayaman ŏdavisuttaṃ staṃbhisuvaḷu gatiyan ēvaḷ ĕṃdava matiyaṃ | staṃbhisuvaḷu. vāktatiyaṃ staṃbhisuvaḷu jyēṣṭhĕyalli pagĕv ēḍāgaṃ // śaraṇ’ ĕndaṃg’ abhayapradhānaphaḷamaṃ kaigūḍuvaḷu sŏrkkim ākarisuttirppa madāndhanappa khaḷan’ āyurddīpamaṃ taṃna cāmaradiṃ tŏṭṭĕnĕ naṃdĕ bīsi kaḷĕvaḷu tatkāyamaṃ taṃna bhīkarakākānanak’ āgaḷantĕ guṟimāḷpaḷu jyēṣṭhĕ sāmānyō // ĕṟaguva baṟasiḍilaṃ nĕṟĕd’ aṟĕyaṭṭuva kālamṛtyuvaṃ nuṃguva pēraṟikĕya pĕrmāriyan ār uṟadar bbardukāḍalārppar’ ā kāḷikĕyaṃ //*
+
+[[P533]]
+of “weaponizing” the core tenets of Trika theology. In the simplest terms, the classical tradition imagines the universe as utterly pervaded by the garland of letters that make up the Sanskrit alphabet, which are none other than the goddess Siddhayogeśvarī herself. The types of consummate bibliophiles and spiritual enthusiasts that tend to be inclined to study and write about the Trika and its *śāstras*, especially reading through the lens provided by the writings of Abhinavagupta, often perceive this hyper-literary vision of a world permeated and made beautiful by words in borderline utopian terms. In this regard, they offer a strong misreading of tradition. If, from the perspective of a commentator like Bhāskara when he writes on the *Śivasūtras*, the permeation of the world by semantic and phonemic entities who are nothing other than the webs of goddesses under the control of the mistress of language offers an almost dystopian vision of how language constrains human freedoms, in the vernacular Trika- inflected text we have before us this same conceptual framework is redeployed in the service of quotidian opportunism. Quite simply, since the goddess is already “in everything” in the form of speech, to worship speech is synonymous with the worship of sovereignty over all living beings. Conversely, the censure of speech and the goddess that embodies it intrinsically renders a person powerless. These themes that will be made more clear in subsequent verses.
+
+At the very same time our text gestures in the direction of lofty esoteric understandings bound up in a philosophy of language at least somewhat indebted to Bhartṛhari, it simultaneously is addressing itself to a very different social register, that of pan-regional “vernacular” religious traditions whose textual foundations elude us, if they ever existed. Already in the seventh century, when the Pallavas build the Kailāsanātha Temple at Kanchipuram, worship of a seemingly non-Tantric mother goddess commonly referred to as Jyeṣṭhā was so widespread in the Tamil country that these mainline initiates into the Śaiva
+
+[[P534]]
+Siddhānta felt the need to incorporate a portrait of this deity, depicted as a portly, possibly pregnant, middle-aged squatting female figure, onto the wall of their royal temple alongside what is otherwise a purely Purāṇic pantheon.
+
+Around this same time, the worship of this goddess spreads into Southern Karnataka and from there into the western Deccan, where it undergoes some further transformations, resulting in two core iconographic variants. Gradually, the squatting female figure becomes younger and more alluring, along the way acquiring a crow as her emblem. As one approaches the borders of Maharashtra, in contrast, prefiguring her early modern recasting as the goddess of misfortune, Jyeṣṭhā’s crow is replaced by a donkey, she picks up a winnowing fan or broom, and, hinting at her assimilation into the cremation ground-tinged world of the Śākta Tantras, her companions are transmuted into ghouls and *vetālas*. Perhaps it is appropriate that at a place like Kukkunur, situated between these two geographical and culture domains, Jyeṣṭhā seems to have embodied an amalgamation of these currents, for our text mentions the killing beak of her terrible crow, which pecks the rogue to death right after he has been struck by her winnowing fan.
+
+[[P535]]
+### Jyeṣṭhā as she appears, respectively, throughout south India and in borderlands of the Marathawada
+
+It is both tempting and plausible to relate these particular details to the physical image at the shrine at Kukkunur. If this is the case, she would have been represented visually by the pan- regional goddess Jyeṣṭhā, so far as ordinary pilgrims were concerned. Only adepts “in the know” would recognize “her real identity” as Siddhayogeśvara. Such a reading, while admittedly a matter of conjecture, would supply further rhetorical force to the verse in question’s concluding statement, “Who would dare say that Jyēṣṭhā is a common (*sāmānya*) goddess?” The message then would be that, appearances aside, what we are worshipping is not some quotidian folk deity, but the esoteric source of all knowledge and power who can only be accessed through the particularized (*viśeṣana*) knowledge provided by the special (*viśeṣana*) Tantras, access to which is mediated through various specialized (*viśeṣana*) forms of initiation.
+
+Indeed, the very next verse seems to provide further support for such a reading. Here once again, the esoteric goddess at the center of the system is identified with the other major trans- regional goddess worshipped throughout the Deccan and Tamil country: Mother Māri,
+
+[[P536]]
+the goddess of plagues (*Māriyammaṉ*).[^536_539] As an early twentieth-century *paddhati* for her worship printed in Grantha script proclaiming that her tradition is derived from “the *Yāmalas*” makes clear, the story of how the poorly studied worship of this ubiquitous deity became intermingled with entextualized forms of Śākta Tantra would be well worth telling. It appears that such a dynamic is already well established in our period, for the anonymous author is once again eager to overcode this “common goddess” with the tradition specific features of the Kāḷikā of the high Tantras—in particular, invoking her as the one who “swallows time,” a practice that lies at the center of the pre-philosophical Kālī Krama. As part of the same process, in a *lolībhūta*[^536_540] of sorts, the identities of Jyēṣṭhā, Kāḷikā, and Siddhayogeśvara herself merge together. Having sufficiently addressed the transactional identities of their goddesses and their place in the wider culture, our anonymous poet returns to celebrating Jyēṣṭhā as instantiating the power of speech that gives dominion over others.
+
+[^536_539]: A definitive study of this important goddess has yet to be written. Despite the survival of a corpus of unpublished Tamil texts, thus far virtually all of the scholarship is solely anthropological in nature and presentist in orientation. None of these sources reflect a concrete awareness of the tradition’s antiquity. See for example Paul Younger, “A Temple Festival of Māriyammaṉ,” *Journal of the American Academy of Religion* 48 (1980): 493–517; Ina Marie Lunde Ilkama, *From Chaste Wife to Village Goddess: A Study of Reṇukā-Māriyammaṉ and her Myths in and around Kanchipuram* (MA Thesis, University of Oslo, 2012); Amy Alloco, “Taming the Fever Goddess: Transforming a Tradition in Southern India,” *Manushi* 140 (2004): 2–13. Amy Alloco, “Ritual Negotiations and Navigation in a Mariyamman Vow,” in *Folklorists in Search of Roots: A Felicitation Volume, Published to Celebrate the 70th Birth Anniversary of Dr. Subash Chandra Bandopadhyay* (Kolkata: Bangiya Sahitya Samsad, 2008), 265–278.
+[^536_540]: In the working draft for his treatment of the subject in a future volume of the *Tantrikābhidhānakośa*, Somadeva Vasudeva glosses *lolībhūta* in the following manner: “The term लोल&भावः (*lolībhāva, lolībhūta*) denotes a state of indistinctness or instability that various entities assume when they merge together (syn. *laya, saṃghaṭṭa, yāmala, sāmarasya*). See *Tantrasadbhāva* 1.20cd–21ab: *punar eva tu te sarva ekabhāvagatā prabho / lolībhūtā yathā santi tathā tvaṃ kathayasva mām*, and 1.473ab: *lolībhūtam idaṃ sarvaṃ śaktisthāne layaṃ gataḥ*; *Tantrāloka*3.108cd: *lolībhūtam ataḥ śaktitritayaṃ tat triśūlakam*; *Parātrīśikāvivaraṇa* p.50 ll.17-18: *viśvatra vācye viśvātmani vācakam api yadi viśvātmaiva tad evaṃ paraṃparācchādanalolībhāvātmā nirvahed adhyāsaḥ, na tv anyathā / na hi tricaturaṅgulanyūnatāmātre ‘pi paṭaḥ paṭāntarācchādakaḥ syāt. Kaulajñānanirṇaya* 3.20d; *Kubjikāmata* 1.79; Jayaratha ad *Tantrāloka* 1.1: *tasya yāmalaṃ = lolībhāvas. . . . Tantrālokaviveka* 3.232: *ya āveśaḥ parasparasaṅghaṭṭātmā lolībhāvaḥ, ibid* 3.237: *yaḥ parasparaṃ lolībhāvātmā sandarbhaḥ, Īśvarapratyabhijñāvivṛtivimarśinī* 2 p. 233, p. 278; 3 p. 27, p.50, *Kularatnoddyota* 12. 16, *Timirodghāṭana* fol. 48 recto, *Devīpañcaśatikā* 2.55: *lolībhūta parāśaktī ravisomakalodayaṃ prakāśānandayor antar (antar MS G, antā Dyczk.) ekākāratayā sthitā, Matasāra* fol. 6r: *tataḥ sa maithunaṃ bheje drāvaye <’>mṛtam uttamam / akampitena manasā lolībhāvavivarjitaḥ. Svacchandatantroddyota* 4.296d explains it as identical with the state of *sāmarasya*: *samo raso yasmin sa samaraso lolībhāvaḥ, ibid* 4.299d: [*lolībhūtam*]. . . . *avikalpaṃ vimṛśya tadviśrāntyaiva samarasīkuryāt.”*
+
+[[P537]]
+Moreover:
+
+> For all living beings, coming into being and the obtaining of greatness is brought about by the tongue. And that tongue is under her control. The livelihood of the world is solely dependent upon Jyēṣṭhā, is it not?
+>
+> Among the people, there are those who are saying “the one who possesses a ‘good tongue,’ he will thrive.” Since that tongue remains under her direct control, when this is said, “who can thrive without taking the assistance of Kāḷikā?”
+>
+> She causes the one who has pleased [her] to obtain wealth and the earth. She whose fame is unparalleled causes arrogant people to lose their wealth, their land. . . even their life. She makes them small. What else is to be said?
+>
+> If someone, ignoring her, petitions the other gods, who are known through the worlds, for something that is desired and the gods, agree, saying: “You ask, and I will give what you requested!’ Well, then,
+>
+> She causes the worshipper to forget his desire. She stands on his tongue. She causes him to beg for things he does not want. She causes his ruin to be brought about! Who is greater than that Jyēṣṭhā!
+>
+> It’s like this:
+>
+> When, because of his austerities, Kuṃbhakarṇa pleased Brahmā, and Brahmā, noticed him [and said] “I give you what you desire,” Jyēṣṭhā stopped Kuṃbhakarṇa from requesting the boon: “may there be no more gods (*nirddĕvav’ akkĕ*).” Standing on his tongue, she somehow made him request: “may there be sleep! (*nidray’ akk’ ĕndu*)” In this way, she is the one who destroyed Kuṃbhakarṇa’s brother (Rāvaṇa)! How great is Jyeṣṭhā’s prowess!
+>
+> If having entered her refuge, another [devotee] beseeched, “may you destroy my enemy,” at that very instance she destroys his enemy. One who is not devoted to her alone says something like “Jyēṣṭhā, what kind of goddess is that?” What god can such a person take refuge with? He cannot save his own life. Tell me! Will she relent without devouring this stupid person!?
+>
+> Therefore, when a desire [*sammada*] arises, he who desires the bringing about of some intended thing should meditate on Kāḷikā, visualize her (*baṇṇipudu*), petition her (*ĕravigŏḷvudu*), observe [her] vow[s], and enter her refuge (*maṟĕyaṃ puguvud*).[^537_541]
+
+[^537_541]: *A Corpus of Inscriptions*, 66: *miguv āguṃ pōguṃ nālagĕyiṃ samanisuguv’ akhiḷa jīvigĕy’ ā nālagĕ taṃna vaśav ĕnalu jyēṣṭhĕgĕ lōkada bāḷkĕy’ ĕkkalāvaṇavaltĕ // janadŏḷagĕ nālag’ uḷḷ’ ātanĕ bāḷguv’ ĕnuttuv irppar ā nālagĕ nĕ / ṭṭanĕ taṃna basadĕ varttipud’ ĕnal ār kkāḷikĕya nĕravigŏḷḷadĕ bāḷvaru // ŏsayisid’ ātana vasuvaṃ vasumatiyuman ĕṃduv ŏdavipaḷu bĕsay isal ā / vasuvasumatiyasunisupugaḷan asamajasĕ kāḷikāṃbĕ kundisuttirppaḷu // adan ēn ĕṃbudŏ tannan ēḷisi jagatprakhyāta dĕyvaṃgaḷaṃ padĕd’ ārādhisĕ mĕcci dĕyvav ĕrĕ*
+
+[[P538]]
+Despite our text’s aspirations to resembling the phonic texture and easeful word play of old Kannada *kāvya*, at the level of semantics, the sensibility on display here, apart from the concluding verse, is much more akin to what we would expect from “folk” religion. Jyēṣṭhā is depicted as neither particularly good or nor particularly bad but simply unimaginably powerful and somewhat capricious. As opposed to her power over language being rendered in lofty philosophical terms, as often the case in the Trika Tantras, where she is the fundamental ground of consciousness that animates the conceptual and emotional processes within humans and other beings, here her control over the power of speech and cognition operates in much more gross terms. She controls men and demons alike, either through the power of her *māyā*, which causes them to become deluded and forget things, or, rather charmingly, by quite literally climbing on top their tongues, so that they are forced to misspeak. This, it seems, is what happened to the gargantuan demon Kumbhakarṇa, the elder brother of Rāvaṇa, renowned just as much for his marathon naps as he was for his formidable physical strength. He made his initial entreaty to the gods, and not to Jyēṣṭhā, and so the boon he received was sleep (*nidra*) instead of the destruction of the gods (*nirddĕva*) that he had originally intended. In contrast, we are told, anyone who pays the goddess proper homage receives her favor, all of which seems to take the form of quotidian things such as the destruction of enemies, wealth, or political power. It is only in the instructions offered in the *phalaśruti* that concludes the hymn where a ritual intention is to be formed that we begin to see hints of a much more formalized
+
+[[P539]]
+set of conceptualizations linked with specific ritual practices emerging from an unmistakably Tantric discourse. Kāḷikā is to be meditated upon and invoked, the vows associated with her cult are to be enacted and a devotional act of taking her refuge, as opposed to simply appeasing her, are all stipulated as the building blocks of forming an efficacious relationship with the deity.
+
+Worship as “pure transaction” even more strongly informs the other portion of liturgical text that our inscription transmits, which in this case is more closely associated with the Navaliṅgēśvara temple that lies a few hundred paces to the west of the site where Jyēṣṭhā’s temple once stood, and whose management was assigned to Kaḷēśvara shortly before he also became responsible for Jyēṣṭhā’s temple.
+
+> Kaḷēśvara had obtained the office *sthānācārya* of the Goddess Jyēṣṭhā, who is the best in the world, and about whom it is said:
+>
+> “By means of the deep-colored Kāḷikā, Jyēṣṭhā, and Kapāḷīśa, immobilization will be acquired; by means of the black-colored Bhadrakāḷi, Jyēṣṭhā, and Praḷāyāntaka, there is the removal of poison; by means of the smoke-colored Mahākāḷī, Jyēṣṭhā, and Makākāḷa, there is the removal of fever; by means of the black-colored Nīla Jyēṣṭhā and Bhadrakāla, there is *vidveṣana*; by means of the smoke-colored Nīlapatākinī Jyēṣṭhā and Indrabhañjana, there is *saṅgrahaṇa*; by means of the blue-colored Vṛddhakubji, Jyēṣṭhā, and Nīlagrīva, there is *śānti*; by means of the dark-colored Mahājyeṣṭhā and Mahāgrīva, there is *vaśya-ākarṣaṇa* and *māraṇa*; by means of the blood colored Bhañjanī, Jyēṣṭhā, and Supīṭha, there is eradication; by means of the blood-colored Prabhañjanī, Jyēṣṭhā, and Pīṭhanāyaka, all the *siddhis* will be acquired. What will happen is in accordance with the worshipper’s desire.[^540_542]
+
+In assuming the office of *sthānācārya* of the goddess Jyēṣṭhā’s temple as well as of Navaliṅgēśvara, Kaḷēśvara was effectively placed in charge of an institution that combined the
+
+[^540_542]: *A Corpus of Inscriptions*, 66–67: *ā ghanavarṇnada kaḷikājyēṣṭhĕyiṃ kapāḷīśaniṃ staṃbhanaṃ kṛṣṇavarṇnada bhadrakāḷījyēṣṭhĕyiṃ praḷāyāṃtakaniṃ viṣaharaṇaṃ dhūmravarṇnada mahākāḷījyēṣṭhĕyiṃ mahākāḷaniṃ jvaraharaṇaṃ mahākṛṣṇavarṇnada nīlājyēṣṭhĕyiṃ bhadrakāḷaniṃ vidvēṣaṇaṃ mahādhūmravarṇnada nīlapatākinījyēṣṭhĕy iṃdrabhaṃjananiṃ saṃgrahaṇaṃ nīlavarṇnada vṛddhakubjijyēṣṭhĕyiṃ nīlagrīvaniṃ śānti śyāmavarṇada mahājyēṣṭhĕyiṃ mahāgrīvaniṃ vaśyākarṣaṇamāraṇaṃ raktavarṇnada bhaṃjanījyēṣṭhĕyiṃ supīṭhanin uccāṭanaṃ mahāraktavarṇnada prabhaṃjinījyēṣṭhĕyiṃ pīṭhanāyakaniṃ sarbbasiddhiy ārādhakan’ iccĕyiṃ savanisuguv ĕnipa jagadvariṣṭhĕyara jyēṣṭhĕyara sthānācāryatvamuman /*
+
+[[P541]]
+most salient features of a slot machine and a war machine. Mentions of Jyēṣṭhā at this place can be traced back at least to the beginning of the tenth century, so long before Kaḷēśvara was born, petitioners had been coming here and commissioning programs of worship from the *pūjāris* with the aim of healing their afflictions and killing, harming, or ruining their enemies. It seems to be the case that this was done by entering into the Rāṣṭrakūṭa-period Navaliṅgēśvara temple, which derives its name from the fact that is houses nine *garbhagṛhas* with nine *liṅgas*, approaching the appropriate *liṅga* for the intended purpose, and invoking the form of Jyēṣṭhā who is represented as having just the right sort of color and iconography for the type of magical *prayoga* that is intended. In the version of the tradition we encounter here, these forms of the goddess have been further mediated through a composite pantheon, comprised in each case of goddess and consort, seemingly drawn somewhat at random from traditions of Kālī worship (Bhadrakālī, Mahākālī), the Western Transmission and Śāmbhava path (Vṛddha Kubjī, Nīla and Nīlapatākanī), as well as otherwise unplaceable local or Tantric traditions. It is quite likely, however, that these identifications represent late or second-order appellations. Perhaps, drawing upon his vast learning, they were even suggested by Kaḷēśvara himself. This veneer notwithstanding, the conceptual roots of this practice seem at once more archaic and pre- theological. In short, we are looking at an institution that had a life and an institutional culture all its own for which our Kālamukhas are almost incidental caretakers.
+
+Rather astonishingly, we owe the very existence of this extraordinary *śāsana* itself not to an act inspired by the deep devotion of a devotee of the Kaḷēśvara and his community, but because a long-standing frequenter of Jyēṣṭhā Devī returned to thank her for the services she had granted to him and his family, and, apparently being a conscientious sort, decided he should also thank the management and recommend them to future petitioners. Hariścandra, we
+
+[[P542]]
+are told, “the ornament of great Kashmir from the *sahāvāsi* line,” was a great patron of learned people. His daughter in turn, Caṇḍabāyi, herself renowned as “mother to a community of great *yogins*” bore many illustrious children. One of these, Dhanugi, grew up, migrated to Karnataka, and became a *daṇḍanāyaka* in the region. When he went to go worship the goddess and thank her for her favor, his mother and elder sister accompanied him on the excursion.
+
+> The *daṇḍanāyaka*, together with his mother Caṇḍabāyi, who is called the mother to the collection of the best *yogins*, and his elder sister Laḷiyādevi, who is called Pārvatī, came to the Kukkunur, which is a great *agrahāra*. . . .
+>
+> There, since that goddess had granted his desires several times previously, intent on making an additional endowment that is fit for that goddess, they performed a *mahāpūjā* to Kāḷikā and Jyēṣṭhĕ, the pre-eminent deities in the world. Daṃnugi and Lakhmīdēva, who was his maternal uncle, made a humble petition to the Kalachuri king, Niḥśaṅkhamalla Śaṅkamadeva.
+>
+> On account of the king’s compassionate giving, they obtained the village of Selagaravan and along with the wastelands of Benatūr. . . as a sovereign gift that is exempt of all external impositions and is to be honored by all, as long as the moon and sun remain. On that date, they are washing the feet of the royal preceptor Siddhānti Kaḷēśvaradēva, who is: honored by all living beings as endowed with *yama-niyama- svādhyāyādhyayana-dhāraṇā-mauna-anuṣṭhāna-japa-ṣaḍaṅgopahāra* and so forth. When it comes to the innumerable forms of reasoning. . . .[^543_543]
+
+The passage continues with the resume of the professional accomplishments of Kaḷēśvara with which we began our analysis. As this portion of the text makes plain, Dhanugi and his family have come to thank the goddess Jyēṣṭhā and to honor her by expanding the territory over which she holds sovereign control. Any benefit this rendered to the particular
+
+[^543_543]: *A Corpus of Inscriptions*, 69: *mahāpradhāna daṃnugi daṇḍanāyakaṃ karaṇaṃgaḷu yogīṃdravṛṃdajananiy ĕnisida nijajanani caṃḍabāyiyuṃ nijamahimāmainākāgrajĕyinipa nijāgrajĕ laḷiyādēviyuṃ bĕrasutaṃ māḷkĕya mahāgrahāraṃ kukkanūrgĕ bijayaṃgĕyd’ alliya kāḷikājyeṣṭĕgĕ jagadvariṣṭhĕgĕ mahāpūjĕyaṃ māḍi mun palavu sūḷuv ā dēviyiṃ tamm’ abhīṣṭitasiddhiy- ādudaṟin ā dēvigĕ takkavṛtti parikaḷpanĕyaṃ māḷpa saṃkaḷpadiṃ nijamātuḷan appa śrīmanmahāpradhānaṃ lāḷakhaṃḍĕyakāṟaradhiṣṭhāyakan aṇugaṃ sāhaṇādhipati mahāpracaṃḍadaṃḍanāyakaṃ lakhmīdēvayyaṃgaḷuṃ tānum karaṇaṃgaḷuṃ śrīmatkaḷacuricakravartti niśśaṃkamalla saṃkamadēvarasarggĕ biṃnapaṃgĕydu sakāruṇyadāna sarbbabādhāparihāraṃ sarbbanamasyam ā caṃdrākkasthāy āgĕy ā kukkanūra mūvattaṟa baḷiya bāḍavappa sĕlagaravan adaṟŏḷanādiyiṃ praviṣṭavāgirdda bĕnatūra hāḷvĕrasu pārameśvaradattiyāgĕ. . . . ā jagajj[y]ēṣṭhĕya kāḷikājyēṣṭhĕya sthānācāryar ĕnisi / svasti yamaniyamasvadhyāyadhyānadhāraṇāmaunānu-ṣṭhānajapaṣaḍaṃgōpahārādisaṃpannar akhiḷaprāṇiprasaṃnar / anēkatarkka. . . . /*
+
+[[P543]]
+Kālamukhas who were presiding at that time was purely incidental in its impact. You might even say, as far as the patron was concerned, Kaḷēśvara the teacher was just a placeholder (*sthānācārya*). Nevertheless, Dhanugi’s generous commissions rather serendipitously enabled Kaḷēśvara and his circle to write their perspective into the historical record. It is hardly an accident that, when our text begins to accommodate the life-world of the *āvaḷi*-honoring Kālamukhas of Sudi and their living saint, we suddenly shift into a much more “vernacular,” and thus idiomatic and grammatically irregular register of old Kannada that owes substantively less influence to chancellery culture.
+
+> Having caused the scholars of *mantra, tantra* and *yantra* to be impressed, [Kaḷēśvaradēva] appeared [in] the world as *māntrika*, as *tāntrika*, and master of *yantras*.
+>
+> He bears the command [of the goddess] (*ājñā*). He knows the *mantras*. He possesses the capacity to see past, present, and future. He augurs fate. He knows all the *Śaivāgamas*.
+>
+> Such is Śrīrājaguru Kāḷeśvaradēva.
+>
+> If scholars examine him, he is a grammarian, a *śāstrī*, a master of all logic, a scholar of poetry, a master of augury. He, Śrīrājaguru Kaḷēśvaradēva is omniscient Whatever he contemplated, became a god. Whatever he thought, became fate. Whatever he spoke became *mantra*. Whatever he explained, that was Tantra. Whatever perfect line he inscribed, that was *yantra*. [Whatever] he favored was accomplished.
+>
+> Kaḷēśvara is like one’s natal home housing incomparable greatness. What *siddhas* and what ascetics are equal to that king of sages![^544_544]
+
+Woven into this celebration of Kaḷēśvara’s many virtues and talents, which, in their richness exceed the formal conventions of professional self-presentation, we find what is
+
+[^544_544]: *A Corpus of Inscriptions*, 67–68: *sakaḷōrvvarĕ mĕccalu māṃtrikatāṃtrikayāṃtrikarkkaḷaṃ mĕccisi māṃ- / trikan ĕnĕ tāṃtrikan ĕnĕ yāṃtrikan ĕnĕ dharĕ sŏgayipaṃ kaḷēśvaradēvaṃ // āryan akhilapratiṣṭhācāryaṃ siṃdānvāyaśikṣādīkṣā- / cāryyaṃ śivasiddhāṃtācaryyaṃ śrīrājaguru kaḷēśvaradēvaṃ // 38 // ājñādharanĕnĕ dharĕ maṃtrajñaṃ traikāladarśiy ĕnĕ dhāriṇi daivajñaṃ śaivāgamasarbbajñaṃ śrīrājaguru kaḷēśvaradēvaṃ // tajñar pparīkṣisalu śabdajñaṃ śāstrajñan akhiḷatarkkajñaṃ kā- / vyajñaṃ daivajñaṃ sarbbajñaṃ śrirājaguru kaḷēśvaradēvaṃ // nĕnĕdudĕ děvyvav’ ĕṃd’ aduvĕ maṃtrav’ udāharisittĕ taṃtravōy ĕnĕ samarēkhagŏṃḍaduvĕ yanṃtrav’ anugrahisittĕ siddhiy ĕṃb’ anupamamāda maimĕgĕ tavarmmanĕyāda kaḷēśvarabratīṃdrana dŏrĕ pāṭi pāsaṭi samaṃ sariy ārggaḷa siddhatāpasar //*
+
+[[P545]]
+essentially a meditation on the nature of authority. Is authority founded on the mastery of certain skills? Is it a matter of holding a specific office? Does it come from digesting a canon of knowledge, either in the form of secular learning or esoteric scripture? Or is it something more? Kaḷēśvara’s devotees begin by presenting him as an expert at pretty much everything. On their own terms, he impresses the adepts in “*mantra-tantra*” who use spells, *prayogas* drawn from scripture, and diagrams charged with magical power towards various quotidian ends. And so, when he is in their company, they think he is one of them. In much the same spirit, when learned *śāstrins* challenge him to display his knowledge of the *śāstras*, poetics, as well as his mastery of the *śāstras* on augury, in the eyes of such people Kaḷēśvara appears as if he were the most masterful of scholars. His credentialing in the various streams constitutive of Tantric knowledge is if anything even more impressive. We learn he bears the command (*ājñā*), either of the goddess Kālī or Kubjikā, which means he acts as a custodian of her *augha* and has the right to teach her Tantras, to act as her surrogate on earth and to oversee and perform the entire panoply of rituals that comprise her tradition. He has mastered many systems of *mantras* by successfully completing their *puraścaraṇa*. Through yogic practice he has attained the ability to see past, present, and future and read the signs about the success or failure of future endeavors. In short, Kaḷēśvara “knows everything.” In Abhinavagupta’s terms, Kaḷēśvara has been comprehensively demonstrated to be a fit vessel for the transmission and teaching of the Tantras, epitomizing the model of “learned gnosis” advocated in the classical Śākta Tantras. This is a domain where Tantric knowledge means “knowledge that is derived from or is about a corpus of texts called Tantras.” Within such a paradigm, the perfect guru is essentially an anonymous or indistinct figure whose function is to flawlessly instantiate and
+
+[[P546]]
+transmit divinely revealed Tantras without the slightest trace of his own egoity or personality interfering in the process.
+
+Kaḷēśvara’s devotees, however, rather astonishingly conclude by invoking a decidedly different understanding of the nature of their teacher. The passage is worth citing once again in full:
+
+> Whatever he contemplated, became a god. Whatever he thought, became fate. Whatever he spoke became *mantra*. Whatever he explained, that was Tantra. Whatever perfect line he inscribed that was *yantra*. [Whatever] he favored was accomplished.
+>
+> Kaḷēśvara is like one’s natal home, housing incomparable greatness. What *siddhas* and what ascetics are equal to that king of sages![^546_545]
+
+In his recent dissertation, Ben Williams has helpfully identified a reconceptualization of the nature “Tantric authority,” first evident in the late Śākta Tantras themselves and then in the Kaula and *siddha* traditions that inform the Kashmiri Trika exegetes. In the initial phase, virtually for the first time, the descent and transmission of specific forms of Tantric knowledge is ascribed to individual—indeed, individuated—at least nominally human agents, such as Matsyendranātha. In the second, in what Williams has referred to as representing the “mature Kaula idiom of religious authority,”
+
+> Each individual guru in the lineage is not just a faithful transmitter of the letter of scripture that extrinsically governs their religious lives. More precisely, they are tasked with “reenacting” the revelatory truths in the form of a “sudden unfolding” in the “visionary consciousness” of their “own inner reality.” Therefore, the exercise of religious authority is now dynamically rooted in the divine identity of the individual *Siddha* master. This model of revelation helps explain an extraordinary feature in writings of post-scriptural authors in the Krama, namely their “readiness to innovate.” The words inspired by the inner realization of these *Siddhas* are tantamount to scripture, and no longer need to conform strictly to the fixed doctrine of an external scriptural canon.[^547_546]
+
+[^546_545]: *A Corpus of Inscriptions*, 68.
+[^547_546]: Benjamin Williams, *Abhinavagupta’s Portrait of a Guru: Revelation and Religious Authority in Kashmir* (Ph.D. diss., Harvard University, 2017), 199.
+
+[[P547]]
+William’s focus is primarily the multigenerational revelations of the teachers of the Kashmiri Krama, who, beginning with Jñānanetranātha, pen self-ascribed works of revelation that incorporate effusive accounts of the circumstances surrounding their own spiritual experiences. Williams argues that these are then redeployed in the lineage pedagogically as skillful means for facilitating in future generation of disciples the mimetic “re-experience” of the processes that brought about the liberation of the original revealers. William’s major point is that this reconceptualization of the nature of religious authority as grounded in the direct experience of liberated Śākta gurus makes possible a sea-change in values through which the authoritative word of a liberated guru replaces revealed scripture as the primary source of religious guidance. As he convincingly demonstrates, it is this sort of conceptualization that informs Abhinavagupta’s core interpretive project in the *Tantrāloka*, a magisterial work that in essence sets out to reconceptualize and in a sense replace the diverse Tantric canons the great *siddha* polymath has set out to synthesize. In this respect, it is not Tantra but second order *Tantraśāstras*, like the *Tantrāloka*, that are seen as providing the most effective and informed vehicle for liberating bound souls of various natures and predilections. As Williams demonstrates, throughout his writings, Abhinavagupta repeatedly invokes his own experiences and spiritual autobiography as proof of the authenticity and efficacy of the systems of practice, understanding and belief that he presents. Indeed, if I understand him correctly, Williams seems to suggest that the rhetorical structure of the *Tantrāloka* as a whole is deeply informed by this distinctly Kaula post-scriptural model of charismatic authority.
+
+Williams’s model provides a useful point of reference not only in terms of the real continuities we see between his sources and our own text, and what further light this sheds on the religious ecologies of the medieval Deccan, but also in terms of bringing into sharper relief
+
+[[P548]]
+the substantial divergences between the two discursive worlds. In many ways, the parallels are uncanny. Kaḷēśvara, as we have already seen, in a manner eerily akin to Abhinavagupta’s project in the *Tantrāloka*, “extracted (*uddharisi*) his definitive doctrine (*siddhānta*) from the Transmission of the *Siddhas* (*Siddhāvaḷi*), the Śākta Transmission (*Devyāvaḷi*), the Siddhānta Transmission (*Somasiddhāntāvaḷi*), and the Śaiva Transmission (*Śivāgamāvaḷi*),” and then initiated his disciples into the resulting new system of praxis. In as much as he oversees a ritual center dedicated to Siddhayogeśvarī, Kaḷēśvara is also, of sorts, a master of the Trika. Within the context of the distinctively divergently textured small selection of verses we have just been exploring, Kaḷēśvara is represented not just as being a perfect conduit for existing traditions but as a source of revelation in his own right, a liberated being whose every action instantiates and communicates spiritual insight. Just as Williams writes that “his words are tantamount to scripture,” our text proclaims, “whatever he taught, that was Tantra.” Such similarities are not circumstantial. Our text itself asserts quite baldly that Kaḷēśvara has studied the *siddha* transmissions and made use of them in implementing his doctrine, and that he has done so in a place specifically dedicated to the types of cremation ground-tinged sexual encounters with the *yoginīs* that also lie at the heart of the scriptural tradition of the Kālī Krama. And indeed, the evidence cementing such a connection has been hiding right in front of us all this time. Unlike some other lines that bear initiatory names such as -*śakti* and -*rāśi*, like all of the Kālamukhas in his lineage, and indeed in many others, Kaḷēśvara’s last name ends in *Īśvara*. As we will see when we consult some of the Tantric scriptural sources that were used at Kukkunur in chapter 6, in this register of discourse, *x-īśvara* and *x-nātha* are used interchangeably. Indeed, had chancellery conventions deemed it more appropriate to systematically make use of the other moniker—in other words, had we began our analysis
+
+[[P549]]
+talking about Kaḷanātha overseeing the temple of Siddhayogeśvarī—much of the materials we have explored in this chapter would seem much less jarring. For here and there, one can discern echoes of this sort of understanding, or at least formative antecedents to what will become core tropes of post-Tantric esoteric *yogin* traditions. After all, is not a verse such as “One who is not devoted to her alone, says something like “Jyēṣṭhā, what kind of goddess is that?” What god can such a person take refuge with? He cannot save his own life. . . . Will she relent without devouring this stupid person!?” a precursor to early modern floating verses such as “If Śiva is angry, the guru will save you, but if the guru is angry even Śiva cannot save you”?[^549_547] And does not Jyēṣṭhā’s assertion that she holds the tongue of men in her hands read like an antecedent to Gorakṣanātha’s dictum, “control the tongue and the penis and you control the world”? In other words, all these years, key formative antecedents to the Nātha *yogins* have been hiding from us in plain sight, inside the monasteries of the Kālamukhas.
+
+All that being said, there are equally substantive differences that demand our attention. Most notably, invocations of charismatic and individual centered authority presented in the two different discourses perform essentially the opposite kind of rhetorical work. As Williams has demonstrated, in the writings of Abhinavagupta, the “mature Kaula idiom of religious authority,” the religious individual attainment of an omniscient *Siddha*, along with a detailed autobiographical account of his preceptorial line, becomes the primary means of authenticating a composition and situating its relative authority within a scale of other texts. In contrast, in violation of the typical expectations of scholars of religion, in the Kukkunur *śāsana*,
+
+[^549_547]: *śive ruṣṭe gurus trātā gurau ruṣṭe na kaścana / tasmāt sarva prayatnena śrīguruṃ śaraṇaṃ vrajet //* Variations on this verse appear in, for example, *Rudrayāmala* 2.66, *Kaṅkālamālinītantra* 3.25, *Śrīvidyārṇava Tantra* 2.18, *Kulārṇava Tantra* 12.49, *Candrajñānāgama* 2.82, *Gurugītā* 1.79, 1.88, *Mantrakaumudī* 3.7, *Nigamasāranirṇaya, Śāktānandataraṅgiṇī*, the *Tattvacintāmaṇi* of Purṇānanda 2.51, the *Bṛhattantrasāra* of Kṛṣṇānanda Vāgīśa 1.6, *Devīgītā* 6.26, and Bhāskararāya’s *Setubandha* on *Nityāṣoḍaśikārṇava*. A version of the verse is also present in old Marathi translation in the late-twelfth-century *Vivekasindhu*. Most of these citations are slightly post- thirteenth century.
+
+[[P550]]
+Kaḷēśvara’s status as an omniscient being and *sui generis* source of revelation is not only never invoked as a means of further legitimating his authority, but it is actually actively excluded from discussions of his credentials and professional career as an esteemed religious authority. As we have seen, our text is almost obsessed with delineating chains and sources of authority. Virtually all of these, however, are institutionally derived, the product of holding co- currently a series of increasingly exalted offices that themselves confer connections to specific types of political and religious actors. Just as significantly, with one important exception, which will be the focus of chapter 6, these offices are not primarily defined in specifically doctrinal terms. Or rather, one might say that in many cases, Tantras were something that were “learned on the job,” with the question of which Tantras being less a matter of personal interest than of professional necessity. In other words, quite apart from the fact that the marvelous texts of one of them have survived while the other’s teachings, if they were ever written down, have not, perhaps the key distinction between a Kaḷēśvara and Abhinavagupta is that Abhinavagupta did not have to hold down a day job. More than an amusingly flippant remark, it is a compelling suggestion that the radically different texture of the Tantric exegetical tradition as they manifest in Kashmir and the much less well understood, understudied and yet unquestionably more influential Tantric socio-imaginaries that dominated the medieval Deccan have their roots precisely in this sociological difference. As far as we can tell, figures like Somānanda and Bhaṭṭa Rāmakaṇṭha II did not have to run a bank, preside over huge public celebrations on a regular basis, travel between the hundreds of different branches of their monastery, or be forced into a crash course in the particular *paddhati* associated with a new shrine when they suddenly got a “promotion.” Nor, from what we can see of religion in Kashmir, were they juridically and liturgically responsible for overseeing the ritual and pragmatic needs of the
+
+[[P551]]
+huge internally differentiated publics that inhabited the dozens if not hundreds of villages incorporated within their domain. Perhaps most fundamentally, as the patterns of citation in the *Tantrāloka* demonstrate again and again, none of the people through whose writings we have learned most of what we think we know about Tantra occupied a position where they were responsible for overseeing the religious activities centered around a large temple complex. Most pointedly, none of them served as caste gurus for the communities of artisans that built such temples. Unlike Kaḷēśvara, none of them, in other words served as *sthānācāryas*, harnessing their spiritual power to bring icons to life alongside teams of professional masons, metal smelters, wood carvers, and stone sculptors. The often indeterminate picture we have of Kālamukha culture stems in large part from our failures to consider these facets of the *Mantramārga* traditions, its mediation through institutional as opposed to primarily doctrinal frames, and the myriad of connections that exist between ritual technology and “technology” in the more basic sense of specialized technical knowledge that makes possible the production of specific forms of material culture around which then emerge specific modes of sociality. In beginning to tell that story, we can gradually grapple with how the lineages that emerge out of the *Atimārga* became the core vehicles for the transmission of the *Mantramārga*. We can begin to make sense of why it is the case that, by the middle of twelfth century in the medieval Deccan, when we hear a Kālamukha speak, everything he says “becomes *mantra*.”
+
+## Śivadharma Trumps Rājadharma: The Cāḷukya Kings of Kalyana in Their Own Words
+
+As Murari Lal Nagar notes in passing in the introduction to his edition of Someśvara III’s *mahākāvya*, “The Rise of Vikrama” (*Vikramāṅkābhyudaya*), in the process of telling the very same story, Someśvara’s text draws so heavily upon the tropological reserves of his
+
+[[P552]]
+predecessor, the great Kashmiri poet Bilhaṇa, that his prose at times approaches paraphrase.[^552_548] And yet, to speak the prince’s work as either “derivative” or offering merely a corrective political apologetics to the Kashmiri poet’s subtle and subversive vision does little justice to Someśvara’s own considerable literary and intellectual accomplishments. Furthermore, it entirely overlooks the fundamental dissonance between the two poet’s worldviews. If Yigal Bronner has represented Bilhaṇa’s poetics as expressing a “defiant antilocal tone,” that sets out to misprision[^552_549] “an environment devoid of cultural refinement” into the proper (Sanskrit) cosmopolitan idiom palatable to an urbane Kashmiri, Someśvara demands to be read as offering an unabashedly localizing literary language. Whereas the intellectual project of the Sanskrit cosmopolis repopulates the world with India’s answer to Weberian ideal types—for what else are the *nāyaka*, *nāyikā*, and the rest—in rendering a hyper-particularized textured world in miniature, Someśvara’s art is almost anthropological. In short, as we shall see, to the delight of the social historian of religion, what the *Vikramāṅkābhudaya* offers us is a “view from somewhere,” and that somewhere is unmistakably the medieval Deccan.
+
+The surviving portion of the *Vikramāṅkābhyudaya* is mostly dedicated to telling the story of the circumstances surrounding the conception and birth of the children of the Cāḷukya king Someśvara I, commonly called Āhavamalla (1042–1068 CE). In other words, Someśvara III takes on the task of writing about his own grandfather in the prime of his life as well as the prepubescent escapades of his own father and uncle. In doing so, our author takes over eighty pages of dense Sanskrit prose to cover the same ground that Bilhaṇa dispensed in his first two
+
+[^552_548]: Murari Lal Nagar, ed., *Vikramāṅkābhyudayam: A Historical Sanskrit Campū by Śrī Someśvaradeva of Kalyāṇa* (Baroda: Oriental Institute, 1966), xii.
+[^552_549]: Most closely associated with the writings of the literary theorist Harold Bloom, misprision is a term of art that has come to be understood more generally as the offering of a strong misreading of a preexisting text, subject, visual element, or form in the service of at once imbuing materials with one’s own values and creating an air of distance between the new invention and its discomforting formative antecedents.
+
+[[P553]]
+cantos in barely two hundred verses. The plot is very simple. Despite his royal prowess and almost overly active libido, Āhavamalla and his wife failed to produce a son and heir, a fact that brought them both great grief. Like so many desperate couples, the Cāḷukya king and his wife seek out fertility counselling. This being medieval India, the guidance he receives, from the finest Brāhmaṇa ritualists in the land, takes the form of a ritual program entailing sponsoring and overseeing the performance of the sixteen *mahādānas* drawn from the classical *Dharmaśāstras*. Against all expectations, the meticulous execution of Smārta ritual, of a sort, results in the production, not of an ideal heir, but rather of a monster in human form. It is only when, abandoning his learned councilors, Āhavamalla himself sets out on pilgrimage to Srisailam and performs a regiment of grueling austerities, that the conception of the real king, the great Vikramāditya VI, becomes possible.
+
+As many scholars would be inclined, it is not entirely unfair to read a story like this as an exercise in justifying the contested succession to the Cāḷukya throne, a “just so story” about why, in defiance of the normative standards of primogeniture, it was right for the great Vikramāditya VI to rebel against his elder brother, kill him, and then take the throne. But, as is so often the case with *kāvya*, the plot of the poem and the work the poem sets out to perform are two very different things. In his masterful essay on the *Vikramāṅkadevacarita*, which also offers the only recent scholarly treatment of Someśvara’s text, Lawrence McCrea has argued that Bilhaṇa’s poem offers a meditation on the inherently morally reprehensible nature of royal power that concludes in rejecting “the very notion that kingly virtue can be meaningfully said to exist at all, except as a kind of public relations ploy.”[^554_550] Bilhaṇa’s point, as McCrea tells us, is that it is not the substance of the world, but the creative power of the poet, that creates value.
+
+[^554_550]: Lawrence McCrea, “Poetry Beyond Good and Evil: Bilhaṇa and the Tradition of Patron-centered Court Epic,” *Journal of Indian Philosophy* 38 (2010): 506–507.
+
+[[P554]]
+Virtue and character are acts of the imagination made real through aestheticized speech. Projected onto the blank canvas of lived reality, through his craft, the poet makes a world that is more real than the real. It is the evaluations and judgements embedded in his literary vision that becomes reality for posterity. As McCrea so aptly puts it, “Bilhaṇa’s claim here, if taken seriously, implies that it is poetry, and poetry alone, that lies at the root of our moral evaluation of figures such as Rāma and Rāvaṇa. The fact that we admire Rāma and revile Rāvaṇa is solely due to the power of Vālmīki’s great poem. If only Rāvaṇa had had the foresight to employ Vālmīki himself, the status of the two could just as well be reversed, and we would all be admonished to ‘Act like Rāvana, not like Rāma.’”[^555_551] As a careful reading will soon make evident, Someśvara’s *Vikramāṅkābhyudaya* offers a systematic repudiation of this worldview and the variety of relativistic social constructionism that gives it intellectual substance. Virtue, Someśvara tells us, is very much a product of circumstance, and yet it is still very real and operates *a priori* to the professionalized practices of hired literati. Inspiration and greatness, he sets out to show us, are not the exclusive property of the poets of proper pedigree. On the part of a faithful king, wise enough to reject the many intermediaries that attach themselves like barnacles onto his office, these capacities can be received directly from the gods. While Bilhaṇa is wary of and disgusted by the practice of royal power, Someśvara III is skeptical and disenchanted regarding the adequacy of Brāhmaṇical normativity. His poem demands to be read as repeatedly asserting that its maps do not correspond to Cāḷukya territory and towards this end he consistently replaces the norms of the imagined universe of the Sanskrit cosmopolis with the variegated messy realities of the Deccan, teaming with competing life-worlds, of the sort we have already seen in contemporary inscriptions as well as within the Tantras. In other
+
+[^555_551]: McCrea, “Poetry Beyond Good and Evil,” 507.
+
+[[P555]]
+words, despite the fact that the Cāḷukya emperor is the well sired heir to the most powerful throne in the Deccan, and our old friend Habbĕya Nāyaka, the local Śūdra big man with whom we began this chapter, most certainly was not, in many ways the two men were inhabitants of the same *episteme*, the contours of which have until now evaded the learned maps of the modern scholarly imaginaries.
+
+After some brief and now fragmentary verses, the *Vikramāṅkābhyudaya* begins with a poetic tableau of the land, the waters, and the forests of Karnataka. Where Bilhaṇa commences by attending to the two genealogies that pertain to his purposes, that of the Sanskrit poets on the one hand and the mythical origins of the Cāḷukya kings on the other, Someśvara provides us with a different kind of context, introducing the Kuntaladēśa in precisely the same manner we find in the old Kannada inscriptions in what is the first of many unexpected convergences between the disparate worlds of Sanskrit *kāvya* and literary Kannada. In contrast to the relative concision with which he treats the topography, before we ever get to Kalyāṇa, Someśvara proves loquacious and elegant in his opening description of “the people” (*janavarṇana*), the first of many found in this *kāvya*, who are represented quite specifically in terms of their relationship towards the Cāḷukya king. Here is how our king introduces the orders of *varṇa*:
+
+> He [the king] is being honored by the Brāhmaṇas, who have mastered the inquiry into the authorities regarding the words and sentences of all the *Vedas*, *Smṛtis*, and *Purāṇas*. They are committed to the practice of the occasional and obligatory rituals, such as the bath at the three times and the *agnihotra*, By them, the entire world is satisfied by the crops produced by rain clouds that have arisen from the cloud bank produced by the seven-fold chant, with abundant smoke that, emerging from the fire every season from oblations in seven continuous streams, imitates a garland of *krauñca* birds soaring in the silent sky.
+>
+> He is accompanied by Kṣatriyas in the hundreds, who are intent on serving their Lord. Defeated on the field of battle, [these warriors] have taken [his] refuge. They are skilled in the arts concerning all weapons. They are ceaselessly engaged in the three actions that have the form of philanthropy, study, and commissioning sacrifices.
+
+[[P556]]
+> He is associated with Vaiśya folks, who have an abundance like that of the lord of wealth. Their wealth waxes from their business dealings, both legitimate and dishonorable. They subsist by the three means (*trivṛtti*) and are skilled in the three standards of measures.
+>
+> He is made to look after the Śūdras, who are family men who subsist by a single livelihood of sales. . . . They are skilled in business, in war, in deploying slaves, and plowing the earth, and are intent on serving the three *varṇas*.
+>
+> He is never without the fifth [*varṇa*], who are the innumerable *śilpins* and *kārukas*, such as painters, tailors, *aṅkaśālikas* (shop keepers?),[^557_552] *sthapati*s,[^557_553] iron workers, and cloth dyers.
+>
+> Around the edges, he is attended to by the *antyajātis* who dwell in huts at the border of the villages. They are beautiful, with bodies black like a clan of cuckoo birds, and have very spontaneous sweet voices, with broken cowrie shells bound together next to one ear. . . . Their courtyards are strewn about with fragments of bones that are chewed incessantly by the dogs and crows and vultures. They are skilled in fashioning various sorts of cords/products (*vaṭāra*) encircled with leather.[^557_554]
+>
+> All of them are engaged in the accumulation of good deeds. All of them have the excellence that is produced by their own respective businesses. All of them have the conduct of insight sharp as the tip of *kuśa* grass. All of them are assisting others. All of them are not enduring the speech of the *nāstikas*. All of them are intent on the worshipping the gods. By all of them, endless wealth is produced.[^557_555]
+
+[^557_552]: Surely some other technical meaning is intended by this lexeme, as shop keepers makes little sense in this context, but the available lexicons do not seem to know other meanings for this term.
+[^557_553]: Elsewhere, *sthapati* is often used as a synonym for *sthānācārya* or *pratiṣṭhāpanācārya*. Might these be our Kālamukhas, here lumped in among the artisans who they train and initiate?
+[^557_554]: Much of the technical vocabulary in this verse remains obscure to me, I have simply translated around a number of terms, mostly in compound, that are not evident in the dictionaries.
+[^557_555]: Someśvara, *Vikramāṅkābhyudaya*, pg. 4: *samadhigatasakalavedasmṛtipurāṇetihāsapadavākyapramāṇavicāraiḥ trikālasnānāgni-hotrādinityanaimittikānuṣṭhānaniṣṭhaiḥ, pratyartupravartitasaptatantusantānahutahutavahodbhūta-niḥśabdagaganoḍḍīnakrauñcamālānukāribahala- dhūmastomasaṃpāditakādambinījanitaparjanyajanyamānauṣadhīparitoṣitāśeṣalokair brāhmaṇair upasevya- mānaḥ, dānādhyayanayajanarūpakarmatrayanirataiḥ sakala-śastravidyākuśalaiḥ samarāṅgaṇa-jitaiḥ śaraṇāgataiḥ prabhusevāparaiḥ kṣatriyaśatair upetaḥ, mānatrayanipuṇais traivṛtyupajīvibhiḥ satyānṛtavyāpārāsādita- mūlavṛddhibhir dhanādhipasamadhikasamṛddhibhir vaiśyajanair upapannaḥ, varṇatrayasevāparāyaṇair bhūmikarṣaṇadāsayogayuddhavyāpāravicakṣaṇair muṇḍavikrayaikajīvi(bhiḥ) kuṭumbibhiḥ śūdrair adhyāsitaḥ analpaśilpakārūkaiś citrakarasaucikāṅkaśālikarajasthapatilohakāraprabhṛtibhiḥ pañcamair avirahitaḥ grāmasīmānatakuṭīravasatibhir ekaśravaṇābhyarṇanibaddhasphuṭitavarāṭakair uparaṭitarjarjaritakarakṛtaveṇu- latikair vividhacarmavalitavaṭāra-ghaṭananipuṇair nīrandhragṛdhrakākakauleyakacarvitakīkasaśakalāvṛta- gṛhāṅgaṇaiḥ, kokilakulakālakalevarakāntibhiḥ sahajamadhurasvarair antyajātibhir upasevitopāntaḥ, sarvair api sukṛtārjananirataiḥ sarvair api nijanijavyāpārāsāditaprakarṣaiḥ, sarvair api kuśāgrīyaprajñāśālibhiḥ sarvair api paropakāraparaiḥ, sarvair apy asoḍhanāstikavacanaiḥ, sarvair api devapūjāparāyaṇaiḥ, sarvair api prakaṭitanirantarasaṃpattibhiḥ /*
+
+[[P557]]
+In this astonishing and peculiar passage, the typical stereotypes of the normative *varṇa* system—Brāhmaṇas do ritual, Kṣatriyas fight, Vaiśyas trade, Śūdras serve—seamlessly fuse together with an awareness of the realities on the ground during the medieval period, providing our author with occasion for social commentary and even observational *commedia*. When Someśvara talks about Brāhmaṇas, he talks about them both on their own terms, as embodiments of Vaidika knowledge, while also suggesting the popular consciousness, evident even today in the rural Deccan, that ordinary people value them because they think their rites bring the rains. Speaking of Kṣatriyas, our author nods to their status as a class of warrior patrons, and then brings out the more pertinent social facts that their ranks are comprised of the folks the Cāḷukyas have defeated in battle such that their primary identity has become their function as vassals. Someśvara is a keen and irreverent observer of the transactionalities of daily life, and thus readily admits to prevalence of financial fraud within his kingdom. Along similar lines, attending to actualities instead of ideals, our author is well aware that in a world teaming with *zamindar bhaḷāras* with hundreds if not thousands of small farmers and slaves under their direction, multicaste merchant guilds, and empowered *vīras* like Habbĕya, it would be risible to represent the Śūdra as just comprising a servant class. Thus, against the inherited canons, the category of the Śūdra must be emended.
+
+Much more fundamentally and audaciously, as you can see in the above passage, Someśvara begins his account of “who are the people” by drastically changing the scope of the category of *varṇa* itself. Just as we have seen in the *Piṅgalāmata* as well as the inscriptions in the greater region around Belvada, where both the esoteric prescriptive and the documentary record tacitly recognize the existence of a “fifth *varṇa*,” Someśvara III also speaks of the so- called *paṇṇavaṇṇigĕ* (*pañcavarṇikā*), the *śilpins* and painters, their caste gurus, and so forth,
+
+[[P558]]
+whose institutional existence is carried out in the parallel world of the social imaginaries of the *Śaktipariṣad*, which is linked to the land of the court by mutual regard but also, as we shall see, by shared Śākta initiations. The king, we are told quite bluntly, is “is never without the five”: in other words, the Cāḷukya world is inconceivable apart from its contract with the Śākta labor pool whose energies quite literally enliven its institutions.
+
+Finally, and perhaps most problematically from our perspective, Someśvara III’s account of *varṇa* incorporates into the fold the people we call Dalits. In place of the overdetermined negative judgements of normative tradition, the Cāḷukya king offers a vaguely appalling pastoralist pastiche, wherein the *antyajāti* is rendered a sort of happy-go-lucky singing uncle Remus whose beautiful black body and upbeat disposition belies the humble circumstances to which society has consigned him. To the king’s credit, at least from a modern sensibility, the *Vikramāṅkābhyudaya’s* treatment of *varṇa* concludes with the emphatic insistence that all the aforementioned groups are engaged in meritorious actions, are skilled at their work, are smart, and provide assistance to other people. Tellingly, Someśvara also asserts that all these groups are devout worshippers of the *āstika* deities, an observation whose critical tone is somewhat tempered by our author’s later tongue-in-cheek discussions of his *nāstika* subjects and their institutions.
+
+As our author is at pains to make clear, even in its expanded form, the system of *varṇa* is completely inadequate for encompassing the scope of lived human reality. Nor is caste (*jāti*) up to that task, for people are more than just the sum of what they do for a living. For this reason, both in this description of the people (*janavarṇana*) in the first chapter, as well in the continuation of this theme offered in the representation of Kalyana in the second, Someśvara III presents to his readers a *varṇanasaṃkara* of professionalized and just plain human
+
+[[P559]]
+behaviors, offering glimpses of people at work and people at play. Let us take a moment for a few glimpses of some of the quotidian realities of the medieval Deccan—let us pause and meet some of Someśvara’s “people”:
+
+> Some people are resplendent from the collection of the [colored] cloths that are bound together with knots, gems, and cowrie shells, undulating back and forth. Some people wear the lovely guise of the virile ones (*vīra*). The borders [of their clothes] hang down, kissing their thighs. Their most excellent belts, in tiger skin, are wrapped about their back with wide *dalaka* leaves.
+>
+> Some of these people, well, they’ve got Gaṇeśas, made of clay, perched in a vessel on top of their heads, to which are offered red *kuṃkum* and *sindūra*. . . .
+>
+> Many people are dancing with nets of bells bound about their feet, following the playing of the *mrḍaṅga*. [The bodies of] those who are playing the *mṛdaṅgas* are white from the smearing of sandal paste, their heads bound up in garlands of flowers. Some of them make roars like lions, striking their mouths with their hands. . . . Some of these people, on the pretext of clearing their throats, make a rattling sound. . . .
+>
+> Many people have assembled together and are satisfied from gifts of lots of *tāmbūla*. . . . Then, there are the folks who homes are fashioned immediately after sprinkling water. . . . Then, there are those who release their roosters for fighting. If their cocks win [the round,] they are released again. Their resting place is marked by boundary cloth. . . . They are comforted with the liquor for drinking that is set aside for the fighting folk, and the ground about their feet is stained with copious blood. . . .[^560_556]
+>
+> I think that the creator made the other countries first for the sake of practice; Having attained to excellence in artistry, after all that, he made this place which is the essence of creation. Who is capable of describing that Karṇāṭadeśa?[^560_557]
+
+[^560_556]: Someśvara, *Vikramāṅkābhyudaya*, pg. 5: *dolāyamānaśaṅkhamaṇigranthikābaddhanetrapaṭachaṭāvirājitair, vyāghrakṛttikhacitavipuladalakapṛṣṭhapariveṣṭitavarapaṭṭikājānucumbilambamānāñcalacāruvīraveṣaiḥ, kaiścit śiraḥsamāropitasthālasthāpitasindūraraktakuṅkumārcitamṛṇamayavināyakaiḥ. . . mṛḍaṅgavādyānusāreṇa caraṇa- nibaddhakiṅkiṇījālakair bahubhir nṛtyadbhiḥ, kaiścit kusumamālāvanaddhamūrdhabhir malyajarasavilepana- dhavalair vādyamānamṛḍaṅgaghoṣaiḥ, karāhatamukhakṛtasiṃhanādair nāḍikākaraṇavyājakṛtakalakalair madhya- sthāpitamaryādaiḥ, bahalatāmbūladānaparitoṣitāyātasakalalokaiḥ, badarakaṇṭakāpāmārganimbaviracita- vicitravastrataraṅgavihitanīḍarakṣāvidhibhiḥ. . . kukkuṭair avadhūtoddhatakesarān prasāritākuñcitāvanamita- kandharān parasparacaraṇapraharaṇavañcanacaturānutpatanapūrvakasaṃghaṭanaviparyāsitasthānakān ruṣā nirantaramilitān, cañcupuṭakoṭipāṭitaśiraskānāhavārthaprativyāvarttanaprakaṭitālīkapalāyanān cañcudhāraṇa- pūrvakaṃ mūrdhni kṛtacaraṇaprahārān kaṇṭhobhayapārśvavinirgatārānutpāṭitakṛkāṭikān bahalakīlālaparilipta- bhūmibhāgān yodhakajanavidhīyamānapānīyapānasamāśvāsitān uttarīyāñcalavījyamānānantaḥ paṭadhāraṇa- dattaviśramān jayaparājayaikapakṣaviniścayāya punar vimucyamānān āsāditaikāntavijayān kukkuṭān yodhayadbhiḥ /*
+[^560_557]: Someśvara, *Vikramāṅkābhyudaya*, pg. 9: *deśān anyān pūrvam abhyāsahetoḥ kṛtvā manye labdhaśilpaprakarṣaḥ / paścāc cakre yaṃ vidhiḥ sṛṣṭisāraṃ sa vyāvarṇyaḥ kair na karṇāṭadeśaḥ //*
+
+[[P561]]
+From the perspective of our author, it is only fitting that this place, Karṇātaka, which excels all other places in the world, would leave great writers groping for the sort of language and idiom that would capture its essence. And in a sense, the questions he poses, “*vyāvarṇyaḥ kair na karṇāṭadeśaḥ*,” offers its own answer, for not only is this very strange Sanskrit, but, as we will see repeatedly, rhetorical ejaculations of this sort form the structural glue that holds the descriptive portions of this prose *kāvya* together. The typical structure is to introduce a topic, offer many self-contained pen portraits illustrating different aspects of the subject, and then to build to crescendo that culminates in a parenthetical aside along the lines of “who could describe that,” or “what more is there to say,” or “what cannot be done [given the aforementioned conditions we just been discussing],” immediately after which there is shift of subject, focus, or sub-section. While the nature of Sanskrit prose remains notoriously understudied and undertheorized, for apart from Yigal Bronner’s recent work on *śleṣa* and “very long compounds,” Robert Hueckstedt’s 1985 monograph *The Style of Bāṇa: An Introduction to Sanskrit Prose Poetry* remains the only study of this sort,[^561_558] even a cursory engagement with pre-thirteenth century poetic Sanskrit prose reveals how jarringly out of step Someśvara style is from the literary canons of “good” Sanskrit prose *kāvya*. Succinctly, one can search high and low but neither Bāṇa nor Dhanapāla ever writes quite like this. In fact, however, as you might have recognized, we have actually seen these rhetorical choices before. For what is “*sa vyāvarṇyaḥ kair na karṇātadeśaḥ*,” “who can possibly describe the Karṇata country”? Is it not in effect an act of back translation of a line analogous to “*ār baṇnisar kukkanūraṃ*,” “who can possibly describe Kukkunur!” such as we found in the Kaḷēśvara
+
+[^561_558]: Robert A. Hueckstedt, *The Style of Bāṇa: An Introduction to Sanskrit Prose Poetry* (Lanham, MD: University Press of America, 1985); Yigal Bronner, *Extreme Poetry: The South Asian Movement of Simultaneous Narration* (New York: Columbia University Press, 2010).
+
+[[P562]]
+inscription? Indeed, is not this whole verse a linguistic transposition of a most familiar rhetoric, “*deśaṅgaḷŏḷagĕ kuntaḷa deśamĕ migiḷ*,” among all the other countries the Kuntaladēśa is the best”? As we have seen time and again, much of this language is rooted in chancellery formulas that are refitted and repurposed to meet the needs of a range of circumstances. In short, Someśvara III has adopted an unabashedly localizing literary language such that Sanskrit itself is made Kannadiga, and Sanskrit *kāvya* ceases to be an insular unmarked world onto itself and instead, notwithstanding its non-Jaina commitments, sits comfortably aside Ranna and the rest of the great old poets.
+
+Returning to grappling with our sources, the second chapter, adding to this already varied gallery of devotees of Renukā Māt, (hence the cowrie shells), Kaula *yogins*, ordinary devotees carrying out their vows, Pāśupatas of various sorts performing the *upasaṃhāra* program of ritual worship, *tāmbūla* takers, proud new homeowners, and drunken sports men, beaming with pride, Someśvara tells us about the inhabitants of Kalyana:
+
+> The city of Kalyana is encircled by: Brāhmaṇas, Kṣatriyas, Vaiśyas, Śūdras, *daṇḍanāyakas*, *māṇḍalikas*, *sāmantins*, sellers of sweetmeats, ministers, and Maharashtrians; by men who pick roots, paid labor, chief ministers; by Bhāgavatas, Pāśupatas, Jains, and Buddhists; by scholars, humble people, messengers, the patient, and the peaceful; by logicians, grammarians, *tāntrikas*, *Purāṇics*, poets, and mercenaries; by dancers, physicians, pimps. . . debaters, flutists, lute players, drummers. . . minstrels, conch blowers. . .
+>
+> By commotion causers. . . by *vetāla* wranglers, by storytellers, painters, and various types of artisans; by jewelers and ones who examine gems. . . by astrologers, a those who know how to do augury based on the breath. . . by the one who knows omens and the ones who divine based on the behavior of birds. By various types of doctors, *kāyasthas*, scribes, elephant tenderers, by those who care for horses, by elephant salesman, by people who collect tolls, by the town crier, by ones who snare animals. . . by mariners, professional seductors, armorers, and practitioners of *Gāruḍa* medicine, by *mantrins*, by coquettes, by dancing girls, by singers.
+>
+> And [Kalyana] is populated with those who come forth from the barbarian countries; from Laṅkā, Kalaha, from Kaṭāha from Makha, from Sohāra, from Revatīdvīpa. . . from the various countries [of our own land]. . . the seven Koṅkaṇas, Malaya, Kerala, and
+
+[[P563]]
+> the Pāṇḍya and Drāviḍa countries; from Andhra, Kaliṅga, and from Gauḍa; from Kashmir, Ṭakka, and from the Turk land; from the Madhyadeśa, from the Cedi country; from Malava, from Lāṭa, and from Gujarat.
+>
+> What more is there to say? This capital city called Kalyana, is the abode of all wonders, like the three worlds themselves.[^563_559]
+
+In place of the rhetorical invocation of the comprehensive and peerless nature of a great society, founded on a restricted tropological canon of the sort that is common to *kāvya*, Someśvara revels in this recounting of actual human diversity in miniature, including in his presentation, as our translation alas cannot, a whole host of identities and their associated paraphernalia that elude the grasp of our dictionaries. He has a special relish for cataloging the outrageous, the unexpected, the picturesque, and the strange we see on display in his *Mānasollāsa*, but at the same time the textured social world he depicts is more closely in tune with what we find in our documentary records than it is to the imagined realities of most Sanskrit and old Kannada *mahākāvyas*.[^563_560] The only thing barely in evidence in his world, in a manner that strikes one as a quite deliberate response to Bilhaṇa’s braggadocio, is the role of the learned Sanskrit poet itself, which here finds itself reduced to one name among many.
+
+[^563_559]: Someśvara, *Vikramāṅkābhyudaya*, pg. 15: *brāhmaṇa-kṣatriya-vaiśya-śūdra-daṇḍanāyaka-māṇḍalika-sāmanta- khaṇḍapāla-mantri-mahattara-maula-bhṛtya-mahāmātya-bhāgavata-pāśupata-ārhata-saugata-paṇḍita-vinīta-dūta- kṣāta-śānta-tārkika-śābdika-tāntrika-pāurāṇika-kavi-subhaṭa-bhaṭa-naṭa-vaṭhara-viṭa-vaṭu-pāṭahika-gāyaka- vādaka-vāṃśika vaiṇika-pāṇavika-maurajika-kāṃsyatālika-śāṅkhika-jārjarika-traivalika-kāhalika-ḍāṃvasika- vaitālika-kathaka-citrakara-vividhaśilpakaravaikaṭika-ratnaparīkṣaka-laghudīrghakṣurikākāra-svāṅgika- kuntakara-dhanurdhara-sellatomaracakrabhiṇḍipālādyanekaśastradhara-vividhagaṇaka-daivajña-svarodayajña- bhūbalajña-nimittajña-śukanajña-vividhavaidya-kāyastha-lekhaka-hastipaka-aśvavāstauraṅgika- hastivyāvaharārika-śaulkika-dhamanika-daṇḍapāśika-kalākuśala-sāmudrika-kitava-mahānasika-kuñcuki- gārudika-māntrika-vilāsinī-lāsikā-gāyikājana-parivṛtā; anayaiś ca siṃhalakalahakaṭāhabarbaramakhacohāra- revatīdvīpodbhavaiḥ gūrjaralāṭamālavika-cedimadhyadeśaṭakkaturuṣkakāśmīrakagauḍakaliṅgāndhradraviḍa- pāṇḍyakeralamalayasaptakoṅkaṇaprabhṛti-nānādeśasamāgatair ākīrṇā, kiṃ bahunā, trilokīva sarvāścaryaśālinī kalyāṇābhidhānā, rājadhānī /*
+[^563_560]: It would be remiss not to mention, if only in passing, that Someśvara’s compendium of the contents of Kalyāṇa incorporates celebrations of the many varieties of courtly courtesans as well as an extended discussion of the sumptuous confections produced for his kitchen, but a proper treatment of either subject would take us too far afield from the task at hand. For a study of the cooking portion of Someśvara III’s *Mānasollāsa*, the reader is directed to Andrea Lorene Gutierrez, *A Genre of its Own: A History of Pākaśāstra and Other Culinary Writing of Early India* (PhD diss., University of Texas at Austin, 2020).
+
+[[P564]]
+Indeed, as we will encounter in the next chapter in more detail, one is reminded of the fact that within the great Cāḷukya world, the quintessential representation of the poetic praising of the ruler find expression not in the figure of the hyper-erudite male poet, be he Brāhmaṇa or otherwise, but rather, rendered exquisitely in stone, emerges from the hand of a young female aristocrat penning sophisticated *praśastis* in old Kannada.
+
+Returning to our text, this quintessentially medieval Deccani celebration of diversity in social function is paired with a measured recognition of the necessity of religious difference that is also very much of its time. In light of our earlier considerations of the juridical foundations of medieval religious diversity, its perhaps worth our time, before we turn to thinking with the plot of the *Vikramāṅkābhyudaya*, to consider a bit of its treatment of religious pluralism as it operates within the king’s capital city of Kalyāṇa itself.
+
+> [The temples of Kalyāṇa can be described:]
+>
+> As if they are the stairway paths for ascending to heaven on the part of those who do good deeds, as if they are the incarnations of heaps of merit; as if they are a spectrum of fame made into treasuries; as if by the hands that are the waving flags from the fluttering of wind, they are casting sin far away; as if with the sounding of shrill bells they are dispersing bad actions; as if they are they are radiant with golden vessels that fashioned to resemble the auspicious breasts of Lakṣmī. . . .
+>
+> Although they [the temples] are infinitely white, they are endowed with the fame from a long time/(that is very black); Although they are made of stone, they capture the mind; Although they are governed by Śiva, they cause desire (*kāma*) to wax; Although they contain Kṛṣṇa, they are not black (*kṛṣṇa*); Although they provide a seat for the sun, they are established by Jains; Although they are houses from Caṇḍikā, they are places of light; Although they contain the lords of obstacles, they make one without obstacles; Although they are the abodes of Sarasvatī, they are ones by whom great wealth (*mahālakṣmī*) is supported;
+
+[[P565]]
+> Although they exhaust [your] gold, they have great fortune (*mahālakṣmī*); Although they are the abodes of Mahākālī, they are seen to come forth from a lotus; Although they are very old, they have the state where “youth” (*kumāra*) is seen;
+>
+> Although they are those in which the mothers (*māṭrkā*) have been fashioned, they have no letters (*māṭrkā*);
+>
+> Although they house images of Bhairava/terrible images, they are lovely to behold; Although they are governed by Jains, they are covered in the clothes of the sky; Although they provide a home for the Buddha, they have accepted the state of having a stable existence.[^565_561]
+
+Succinctly, Someśvara takes advantage of a long series of nested clauses dedicated to describing the sacred sites in his capital to try his hand at open mike night comedy—with mixed success. Some of these puns make you wince. A few of Someśvara’s jokes, such as the last one about the Buddhists, are actually funny. Regardless, two features of this discourse are well worth attending to. The first is that the king throughout displays a playful irreverence regarding the sacred landscape of the sort that might well threaten to hurt the feelings of some modern pious Hindus. The second aspect is that, in representing *nāstika* spaces, there is an added tinge of mocking condescension, reminiscent of the sort of stereotype driven mockery of essentialized national difference that played such a key role in pre-twentieth-century Europe, reminding us that a commitment to religious tolerance does not necessarily entail a purely respectful engagement with “the other.” Nevertheless, it is worth noting that, underneath a bit of hazing, the Cāḷukya king is eager to proclaim that the existence in the eleventh century not only of Jains but of Buddhists dwelling in his capital city, forms a small part of what makes Kalyana great.
+
+[^565_561]: Someśvara, *Vikramāṅkābhyudaya*, pg. 10: *sukṛtināṃ svargārohaṇaniśreṇimārgair iva mūrttībhūtaiḥ puṇyarāśibhir iva puñjīkṛtaiḥ kīrttisantānair iva samīraṇāndolanacañcalapatākāhastair agham iva dūram utsārayadbhiḥ vādyamānapaṭughaṇṭāṭaṇatkārair duṣkṛtam iva sphoṭayadbhiḥ puṇyalakṣmīpayodharair iva kalitakanakakalaśaśobhaiḥ. . . . atyantadhavalair api bahukālakhyātisahaiḥ, pāṣāṇamayair api cittaharaiḥ, harādhiṣṭhitair api parivarddhitakāmaiḥ / sakṛṣṇair apy akṛṣṇaiḥ, ādityādhyāsitair apy arhatpratiṣṭhaiḥ, caṇḍikāgṛhair api vasusadanaiḥ, savighneśvarair apy avighnakaraiḥ, sarasvatīniketanair api dhṛtamahālakṣmīkaiḥ suvarṇakṣayair api mahālakṣmīkaiḥ, mahākālīnilayair api paridṛṣṭakamalodbhavaiḥ pravṛddhair api darśitakumārabhāvaiḥ kalitamātṛkair apy amātṛkaiḥ prakaṭitabhairavamūrttibhir api sudarśanaiḥ, jinādhiṣṭhitair api sthagitadigambaraiḥ buddhādhyāsitair api svīkṛtasthirabhāvaiḥ /*
+
+[[P566]]
+Having set the scene, our author now introduces us to the line of our protagonists, the Kalyāṇi Cāḷukyas themselves. In Bilhaṇa’s *Vikramāṅkadevacaritra*, the Cāḷukyas are said to arise from “the hollowed hand,” or *chalu*, of Brahmā the creator himself, an account that makes sense of the dynasties unusual name by way of folk etymology. Strangely enough, the Cāḷukya king himself never even alludes to this supposedly foundational origin myth for his dynasty. Indeed, with a few words about the well-known ancient stories of the royal line of the line, Someśvara dispenses with all but a cursory attempt of making sense of the deep history of his lineage. Instead, we are offered a descent in historical time, beginning, as all the inscriptions of the period do, with king Satyāśraya, the defining mark of the Cāḷukya line, who even to his alleged descendants mostly is just a name. Someśvara’s objective, rather straight forwardly, is to make it clear that his Kalyāṇi Cāḷukyas represent a direct continuation of the original Caḷukyas, who from the seventh century onward ruled at Badami. Towards this end, mention is made of Pulakeśin and his victory over the Pallavas out of Kanchi, and a basically accurate genealogy of the ruling kings of the line is presented. Regardless of whether there is some merit to treating the two Cāḷukya lines as genetically linked, however, it is evident that somehow in the intervening centuries, all but the most cursory sense of their storied ancestors has been lost to the Kalyāṇi Cāḷukyas who seemingly are simply cribbing from *vaṃśāvali* lists in the inscriptions. Contrary to Bilhaṇa’s claim that it is the poets who present us with the lasting memory of the kings, it is not Pulakeśin’s court poet Ravikīrti who placed himself in the company of Kalidāsa, but rather the bloodless vision of ancient unnamed bureaucrats, intent on periodization and confirming property rights, who have granted these rulers some modicum of lasting fame. And rather than being intrinsically fit for rule, in Someśvara’s account, periodically throughout the generations, the splendor of the line is renewed through a direct
+
+[[P567]]
+infusion of the favor of the goddess and the gods. Interesting enough, the identity of the acting deity itself varies considerably such that, while Satyāśraya himself is said to have received the favor of Viṣṇu (*viṣṇuprasāda*), Pulakeśin, we are told, had contact with Vīralakṣmī (*vīralakṣmīsamparka*) and his great grandson in turn received the favor of an unspecified Bhagavatī from worshipping the pair of her sandals.
+
+The first figure whose actions are treated as consequential is Tailapa (957–997 CE), the ruler generally credited with establishing the Kalyāṇi Cāḷukya dynasty. The king is introduced to us, however, in a somewhat surreptitious manner, for first we must visit the lord Nārāyaṇa as he rests on the serpent called endless time amidst the ocean of milk. When we encounter Nārāyaṇa deep in yogic slumber, he is being pestered by the protectors of the world, the guardians of the directions, the thirty major gods, and his two wives. The problem is the usual one: evil forces are in power, and it is high time that Viṣṇu descends into the world to kill the bad guys.
+
+> O god, you who are the refuge of all the world, who are the best at destroying the clans of the demons, you by whom the marvelous three steps (*vikrama*) were manifested, you of whom there is unquantifiable, unparalleled valor (*vikrama*), lord of the world, Janārdana, annihilator of the demon Kaṃsa, by whom Nanda was astonished by the lifting of Govardhana, by whom is produced the bliss of all the worlds, the one by which the lotus face of Lakṣmī is illuminated from the shimmering *kaustabha* gem. The weaver who fashions the cloth of *saṃsāra*—be gracious, O lord. By your grace, in the *kṛta, tretā*, and *dvāpara yugas* we became happy. By these incarnations, fish, turtle, boar, Narasiṃha, dwarf, the three Rāmas, and so forth, we were protected by you. But now, in the *kali* age, we need the lord himself to protect us.
+>
+> Now, while you, O lord, have taken in fancy to dwelling in your in-laws’ house, distracted by dallying with Lakṣmī, we are being made to flee by the night walkers (*niśācaras*) that have taken human form, the very same ones you had previously destroyed. We have come to the refuge of the feet of the Lord.[^568_562]
+
+[^568_562]: Someśvara, *Vikramāṅkābhyudaya*, pg. 18–19: *deva sakalajagaccharaṇya, danukuladalanavareṇya, pradarśitādbhutatrivikrama, nirupamāgaṇitavikrama, jagannātha, janārdana, kaṃsāsuravimardana, govarddhoddharaṇavismāpitananda, janitasakalabhuvanānanda, bhāsvatkaustubhakāntivikāsitalakṣmī- mukhāravinda, saṃsārapaṭanirmāṇakuvinda prasīda bhagavan / tava prasādāt kṛtatretādvāpareṣu yugeṣu sukhino vayam abhūma / matsyakacchapavarāhanarasiṃhavāmanarāmatrayādyavatārais tvayā parirakṣitāḥ / idānīṃ tu*
+
+[[P568]]
+All knowing Nārāyaṇa is already prepared for the occasion. In his response, he cuts to the heart of the matter.
+
+> I know the deeds of the bad people, the *rākṣasas* called Rāṣṭrakūṭas. The earth has many impediments that are difficult to navigate. And sacrificing, patronizing sacrifices, and so forth does not take place. Therefore, in order to protect you now, I will cause the birth in the womb of Bonthādevī, wife of great virtue, of Satyāśraya, who excels this world, the sun of valor, through whose valor wealth accumulates, who is superior to the worlds/otherworldly. . . who has sloughed off the stain of the *kali* age by abiding in unwavering Kṣatriya conduct /that of Acyuta, arising from the lineage of the Cāḷukyas.[^568_563]
+
+Someśvara’s narrative collapses sacred and historical time, reading human political history as the direct continuation of the unending story of how god periodically comes down into the world to destroy evils that proved too much for human beings to handle. Indeed, the conceptual framing at hand prefigures nearly everything that our literature has ascribed to the cultural encounter between the people who would come to be called Hindus and their Muslim rulers, suggesting perhaps that, regardless of their theological predilections and ethnic identities, this was merely the common idiom for talking about one’s political rivals. Here indeed the role of *pratināyaka* in this cosmic *dharma* is played by the poor Rāṣṭrakūṭas, by all accounts a perfectly *pakka* early medieval dynastic power singularly unsuited to the role, who had reigned on and off for past five hundred years, providing copious patronage throughout the period for Vadika ritual sacrifices. Nevertheless, to fit the rhetoric, through an act of quite literal demonization, they are pigeonholed into the role of the unrighteous rulers who oppress the people and burden the earth and thus must be eradicated. Just as he came before in the form
+
+[^568_563]: Someśvara, *Vikramāṅkābhyudaya*, pg. 19: *jānāmi duṣṭānāṃ caritraṃ rāṣṭrakūṭarākṣasānām / bahukaṇṭakā bhūmir duḥsañcarā vartate / yajanayājanādikaṃ ca na pravartate / tad idānī[ṃ a]haṃ yuṣmān rakṣituṃ cālukyakulodbhavasyobhayapakṣaviśuddhasyācyutakṣatriyacaritrasthānākalitakalikālakaluṣasya lokottarasatyā- śrayasya vikramopārjitavittasya vikramādityasya bhāryāyā mahāsatyā bonthādevyā garbhe janma kariṣyāmi /*
+
+[[P569]]
+of the Vaiṣṇava *avatāras*, Nārāyaṇa must descend again into the world, this time taking on the guise of the Cāḷukya king. Having assented to this task, we leave the company of the gods as the text aptly causes its reader to experience their own sort of descent back into the mundane world. This whole prophetic vision, we suddenly discover, is in fact an auspicious dream in the mind of the *rājapurohita* that he relates to the parents of the future Tailapa.[^569_564] Indeed, once it is clear to the reader that divine sanction has been given for the task of overthrowing the Rāṣṭrakūṭa *imperium*, our author does not bother to spell out the details of how they were overthrown; we simply learn that they were, and the texture of the text regresses back to fleshing out the crib notes on the royal panegyrics. Rather pointedly, the account that follows of the most recent Cāḷukya kings simply elides most of the golden age of Kannada literature, which mostly takes places under the next four rulers. It is as if history, mapped onto the punctuated moments of divine intervention, begins with Tailapa and then begins again with Someśvara III’s own grandfather.
+
+Thus, while we might anticipate that *vaṃśāvali* as a genre takes as its focus telling a story about continuities, the *Vikramāṅkābhyudaya*, at least in the portion that survives, attends again and again to moments of discontinuity, centering its narrative first around the failure to secure an heir and then on the further failure to secure a worthy heir. When we encounter him, Āhavamalla is victorious in battle and enjoys the intimate company of thousands of women beyond his wife. And yet, nevertheless, as his grandson’s poignant verse makes plain, he is palpably unhappy.
+
+> Without a dear son, although the house courtyard is radiant with sovereign fortune
+
+[^569_564]: Someśvara, *Vikramāṅkābhyudaya*, pg. 19: *tataḥ prabhāte samutthāya kautukottaralamāna- sāvājyāvekṣaṇakṣaṇasamāgataṃ purohitaṃ samāhūya svapnaphalaṃ papracchatuḥ / tataḥ purohito ’pi harṣotkarṣaromāñcakañcukitagātraḥ sapramodam idam avādīt— suphalo bhavatv ayaṃ svapnaḥ / yuvayoḥ sa eva bhavagān jagattrayanāthaḥ śriyaḥ patiḥ putro bhaviṣyati / prajānāṃ svāsthyaṃ bhaviṣyati / dharmo varddhiṣyate /*
+
+[[P570]]
+> (*lakṣmī*), who is dancing accompanied by ringing of the bells, with female elephants with tinkling golden bells, and sensuous women moving playfully to the lovely music struck upon the tambourine and beaten upon the drum—I see the courtyard as empty.[^570_565]
+
+Poor Āhavamalla would rather trade away such festive performances indicative of worldly success for the pitter patter of little feet. In a similar spirit, his exceptionally erudite wife, Mrs. Āhavamalla, in an utterly incomprehensible (to me at least) speech shot through with the technical language of Vaiśeṣika ontology,[^570_566] concludes by proclaiming that she would rather give away her station, to become a female slave who bears a lot of boys, than continue to subsist in opulent sterility.
+
+In their hour of need, as eventually becomes transparent, the grieving couple lean upon the wrong sort of support. They go and ask the advice of Brāhmaṇas. Someśvara III, to be clear, is no strong critic of caste nor does he hold any particular antipathy for the existence of Brāhmaṇical knowledge as such. As far as he is considered, these are things are fine, indeed sometimes necessary, but they belong in their own proper place. In the *Vikramāṅkābhyudaya*, in a radical departure from the vision of Bilhaṇa, Brāhmaṇical knowledge is consistently represented as overreaching in its ambitions and incomplete in its understanding, providing a *miśra* mixture of both sound and deeply stupid advice.
+
+> The master has sort of given himself over to ceaseless worry, but to what avail? What is there that cannot be accomplished by the performance of *dāna* and *tapas*, correctly performed? What cannot be obtained from the best of Brāhmaṇas being satisfied? What is it that is hard to obtain when the Lord, the beloved of Bhavānī, is worshipped?
+
+[^570_565]: Someśvara, *Vikramāṅkābhyudaya*, pg. 29: *vādyamānamṛdaṅgamurajagīyamānasnigdhagītalīlā- caladvilāsinīkanakakiṅkiṇījhaṇatkārakareṇughaṇṭāraṇitanṛtyasāmrājyalakṣmīpariśobhitam api nandanam antareṇa śūnyaṃ paśyāmi gṛhāṅgaṇam /*
+[^570_566]: This seems to be a series of erudite *śāstra* jokes founded on plays on words that refer to both technical terms of art as well as a worldly dimension. Translating it into meaningful English while preserving both dimensions would be a real feat. Someśvara, *Vikramāṅkābhyudaya*, pg. 29: *varam aṅgīkṛtātmajaguṇā nyāyavaiśeṣikī sthitiḥ / varam apatyaparivārā virodhanāmabarodhavadhūḥ / varaṃ paridṛṣṭavaṃśapravṛddhir vipinasthalī / varaṃ samāsāditaprasavaphalā latāvitatiḥ / varaṃ parigṛhītagarbhā ketakītatiḥ varam abhinandanīyanandanā samantānā niraśanabhūmiḥ /*
+
+[[P571]]
+> For, even though he was old, through his wives’ consumption of the beautiful balls that were what remained from what has been offered to the fire by the sage Ṛṣyaśṛṅga, who was satisfied and full of immeasurable *bhakti*, did King Daśaratha not indeed obtain four sons, of whom Rāmacandra, *tilaka* on the line of Raghu, was the best?. . . .
+>
+> Why say anymore? By the grace of Brāhmaṇas, there is nothing that cannot be obtained!
+>
+> Therefore, for my lord also, some certain *vidhi* is to be enjoined that is capable of producing a lineage that is comparable to none other, [the performance of which is] proceeded by the satisfying of the Brāhmaṇas.[^571_567]
+
+The Brāhmaṇas begin obsequiously, but quickly their discourse moves on to a repeated conflation of the efficacy of the rituals with the pleasing of Brāhmaṇas. While a normal feature of the discourses related to *varṇāśramadharma* with their incessant invocations of the Brāhmaṇa as a god on earth, in Someśvara’s writings, it is this attribution that is itself subject to a throughgoing problematization. The *Vikramāṅkābhyudaya*, succinctly, sets out to demonstrate that, contrary to commonplace rhetoric, the pleasing of Lord Śiva and the gratification of Brāhmaṇas are not the same thing. Indeed, our story unfolds as essentially a cautionary tale demonstrating that the very logic that animates the sponsoring of Smārta ritual[^571_568] is itself not truly consonant with the type of worship that wins Śiva’s favor. As we shall soon see, the Cāḷukya kings operate in a world populated by discrete and site-specific religious modalities, each of which demands its own decorum. Indeed, the office of kingship
+
+[^571_567]: Someśvara, *Vikramāṅkābhyudaya*, pg. 30–31: *kim iti svāminā nirantaraṃ cintāyām ātmā samarpitaḥ / kim asti samyaganuṣṭhitānāṃ dānatapasām asādhyaṃ / kim asti durlabham ārādhite bhagavati bhavānīvallabhe / tathāhi nirbharabhaktibharaparitoṣita- ṛṣyaśṛṅgamunihutavahahutāvaśiṣṭacarupiṇḍāśanena patnīnāṃ vṛddho ’pi daśarathanarendraḥ kiṃ na lebhe raghuvaṃśatilakarāmacandrapramukhāṃś caturaḥ putrān. . . . kiṃ bahunā, brāhmaṇaprasādān na kiñcin na labhyate / tato devenāpi brāhmaṇaparitoṣaṇapūrvakam ananyasāmānyasanta[ti]samutpādanasamarthaḥ kaścid vidhir vidhātavyaḥ iti vijñapya tūṣṇīṃ tasthuḥ //*
+[^571_568]: Indeed, the role of these Smārta Brāhmaṇas represents a rare example in our textual record of a cultural attitude and set of practices that prefigures the Smārta theology of the *dharmanibandhas* of the later twelfth and thirteenth centuries, scarcely a trace of which is to be found in more elevated registers of *dharma* discourse. For more on the historicization of the discursive transformation, see especially chapters 9 and 10, wherein we will find learned defenses of somewhat parallel positions being articulated in the idiom of *śāstra* for the first time.
+
+[[P572]]
+requires the ruler to seamlessly navigate between these distinctive realms several times in the very same day. What our text depicts is a domain in which such code-switching is both ubiquitous and usually carried out almost automatically, with very little self-reflexivity on the part of the ritual actor. Indeed, while there is a pragmatic awareness that different contexts demand different actions, there seems to be virtually no conscious understanding that this is because the different ritual domains instantiate distinctive values and ideals and demand from the ritual actor different sorts of ritual intentionality.
+
+Momentarily convinced by his learned advisors, rising from his bed, Āhavamalla goes about his morning routine under the guidance of his *rājapurohita* and his astrologer. After a brief detour to the house of the god where he conducts his morning *nitya* ritual duties in absolute privacy, returning to a more public space, the king takes a ritual bath. Coming to the court, seated on his throne, he receives the praise of his courtiers and gives out the daily philanthropy. As you can see, he directs much of the largesse to Brāhmaṇas. Ever so subtly foreshadowing the force of the narrative, our author seems to suggest that these pious folks have a number of rather *laukika* reasons, such as large families who will be needing dowries, for promoting that the best kind of ritual is one where Brāhmaṇas get huge payouts.
+
+> With *śraddhā* and great respect, having a good mind, he [the king] gave perpetual *dāna*, including milk cows, gold, clothes, gems, elephants, horses, villages, and so forth, all of that stuff beyond measure, and that which was agreed upon by himself, to the best of the Brāhmaṇas, ones who came from other countries and those who were living in his own country, with lots of family members, who had established the sacrificial fires, who were engaged in performing weddings, *upanayanas*, and rituals, who had nice forms, who know the *Vedas* and the meaning of the *Vedas* and who have the conducts and the *ācāra* of a well-examined family.[^572_569]
+
+[^572_569]: Someśvara, *Vikramāṅkābhyudaya*, pg. 30: *suparīkṣitakulācāraśīlebhyo vedavedārthavidbhyaḥ sumūrtibhyaḥ samāhitāgnibhyo yāgopanayanavivāhakaraṇodyatebhyo bahukuṭumbibhyo svadeśanivāsibhyo deśāntarāgatebhyaś ca brāhmaṇavarebhyaḥ śraddhayā sanmānapuraḥsaraṃ godhenuhiraṇya-vāsoratnagajāśvagrāmādikaṃ yad abhimatam āt[m]anas teṣām ca tad akhilam aparimitaṃ nityadānam adāt /*
+
+[[P573]]
+In a break from the usual schedule, following through on the suggestions of his *rājapurohita*, Āhavamalla effectively convenes a *Dharmaśāstra* council, comprised of representatives of a range of different opinions within the discipline, in the service of trying to get a definitive answer regarding what is the best course of action for securing an heir. In essence, instead of commissioning the composition of a text, the Cāḷukya king complies a collection of citations from the *dharma* literature—or *dharmanibandha*—in human form.
+
+> Thus, having called together the *purohita*, the *rājaguru*, the *Paurāṇikas*, and *Smārtas*, those who are clever in the deliberation of *Nyāya* and *Mīmāṃsā*, those who are skilled in the *Āgamic* rituals of the Sauras, Pāśupatas and Vaiṣṇavas, he sought out what would be the means that would form the efficient cause of the production of a son.
+>
+> They, having consulted the *Purāṇas* and *Dharmaśāstras* and having deliberated upon them, these best of Brāhmaṇas, resembling Atri, Bharadhvāja, Bhṛgu, Vasiṣṭha, Gautama, Viśvāmitra and Aṅgiras, they directed him in the following manner: “O king, by these sixteen *mahādānas*, the weighing of the man, the egg of Brahmā, the *viśvacakra*, *hiraṇyagarbha*, *kalpavṛkṣa*, *kalpalatā*, *pañcalāṅgala*, *gosahasra*, *ratnadhenu*, *hiraṇyāśva*, *hastiratha*, *mahābhūtaghaṭa*, *saptasāgara*, *dharāhirṇaya*, *hayahiraṇya*, and *hiraṇyadhenu*.[^573_570]
+>
+> “Having removed the sin that was produced a long time ago, out of the desire for a son, you who have a stainless mind and body should comprehensively worship the Lord of Pārvatī, who is the father of Kumāra who possesses *śakti*/has a spear.
+>
+> “We also, our minds are completely satisfied by the charity and respect you have generated, will perform some particular rite suitable for producing a son.
+>
+> “O great king, the attainment of the intended desires will take place. My lord should harbor no doubt in his mind.”
+
+[^573_570]: In her masterful social history of the *vidyādāna* or gift of knowledge, Florinda De Simini identifies the textual foundation of a particular catalog of *mahādānas*, closely approximating the one in our text, as first occurring in the *Matsya Purāṇa*. One can do no better than quoting her own explication of the category: “The great gifts described by *Matsyapurāṇa* 274–289 are the ‘gift of the man on the scales’ (*tulāpuruṣadāna*); the ‘gift of the golden embryo’ (*hiraṇyagarbhadāna*); the ‘gift of the Brahma-egg’ (*brahmāṇḍadāna*); the ‘gift of the wish- granting tree’ (*kalpapādapadāna*); the ‘gift of a thousand cows’ (*gosahasradāna*); the ‘gift of the wish-granting cow’ (*kāmadhenudāna*); the ‘gift of the golden horse’ (*hiraṇyāśvadāna*); the ‘gift of the horse carriage’ (*aśvarathadāna*); the ‘gift of the golden elephant chariot’ (*hemahastirathadāna*); the ‘gift of the five ploughshares’ (*pañcalāṅgaladāna*); the ‘gift of the earth’ (*pṛthvīdāna*); the ‘gift of the universal wheel’ (*viśvacakradāna*); the ‘gift of the wish-granting vines’ (*kalpalatādāna*); the ‘gift of the seven seas’ (*saptasāgaradāna*); the ‘gift of the jewel-cow’ (*ratnadhenudāna*); the ‘gift of the pot of elements’ (*mahābhūtaghaṭadāna*).” Florinda De Simini, *Of Gods and Books: Ritual and Knowledge Transmission in the Manuscript Cultures of Premodern India* (Berlin: De Gruyter, 2017), 32.
+
+[[P574]]
+> The great king, having drunk that nectarean speech with the *añjali*-like cavities of his ears, thought of himself, at that very time, as someone who has produced a son.[^574_571]
+
+Convinced that, the arrangements having been made, and much of the ritual outsourced, his task was all but complete, Āhavamalla resumes the performance of the next stage of his *nitya* ritual duties, which, once again, unlike all of his other commitments, are carried out in his private ritual space in perfect solitude. Serendipitously for the modern historian of religion, Someśvara III in his usual fashion eschews the euphemistic treatment of private worship ubiquitous in Sanskrit discourse, in its place offering a staggering glimpse of the ritual system that animated the greater Cāḷukya Imperium.
+
+> Thus, having entered the house [designated for] the *pūjā* of the god and having supplicated with himself with all eight limbs, on the ground that is smeared with the products of the cow, [Āhavamalla] seated himself in the lotus posture according to injunction. He on the part of whom the personal *pūjā* had been enjoined [deployed] *mantra* and *mudrā*, following the injunctions.
+>
+> Then, having installed the Śrīkaṇṭha *liṅga*, constructed from the moonstone gem that produces a tender light like the moon with streams of expansive lustre, on a *pīṭha* inlaid with gems and made of gold, he bathed the *liṅga* with the five nectars and fragrant waters. Smearing it with sandal paste, *haricandana*, camphor, and the musk of the deer, he then offered the ritual worship with garlands made of *bilva* leaves with three branches and the *karavīra* flowers that are lovely and quite fragrant, flowers whose pericarps are the color of gold, the pale red veil of the *mādhavī* flower, with abundant *bakula* flowers, night-blooming lotuses and hundred-petal lotuses with beautiful petals, blooming fragrant jasmine, and the scent of the lovely *campaka* blossoms. Having offered [the god] the *tāmbūla* and the *naivedya*, fruits, rice, and things to be eaten of various sorts, [he performed the *upasaṃhāra*], dance, simple song, instrumental and classical music; he performed the Śiva worship accompanied by the sounding of bells. Offering lamps and camphor incense and *dhūpa*, consisting of the ten components, such as *aguru* and camphor, he worshipped.
+
+[^574_571]: Someśvara, *Vikramāṅkābhyudaya*, pg. 30–31: *tataḥ purohitarājagurupaurāṇikasmārtān nyāyamīṃāsā- vicācaracaturān saurapāśupatavaiṣṇavāgamakriyākuśalān samāhūya taiḥ saha putrotpattinimittaṃ ko vā syād upāya ity anveṣayāmāsa / tatas taiḥ purāṇadharmaśāstrāṇy avalokya vicārya cātribharadvājabhṛgu- vasiṣṭhagautamaviśvāmitrāṅgiraḥsadṛśair dvijottamair ittham abhihitaḥ— deva tulāpuruṣa-brahmāṇḍa- viśvacakra-hiraṇyagarbha-kalpavṛkṣa-latā-pañcalāṅgala-gosahasra-ratnadhenu-hiraṇyāśva-hastiratha- mahābhūtaghaṭa-sapta-sāgara-dharāhiraṇya-hayahiraṇyadhenubhir ity etaiḥ śoḍaśabhir mahādānair apanīya purākṛtaṃ duṣkṛtaṃ nirmalamanaḥkāyaḥ putrakāmyayā bhagavantaṃ śaktimat- kumārajanakaṃ pārvatīpatiṃ paripūjya / asmābhir api tvatkṛtasanmānadānaparituṣṭamānasaiḥ putrotpādanayogyā viśiṣṭā kācid iṣṭir anuṣṭhīyate / mahārāja sakalābhimatamanorathasiddhir bhaviṣyati / tatrabhavatā bhavatā cetasi na saṃśayo vidhātavyaḥ iti / abhidhāyo mahārājo ’pi karṇāñjalipuṭaiḥ paripīya vacanāmṛtaṃ tadānīm eva saṃjātaputram ātmānam amaṃsta /*
+
+[[P575]]
+> Collecting himself by obstructing his conscious mind and sitting in silence, [Āhavamalla] performed the *pūjā* according to the obligatory daily injunction, [visualizing himself as] the Lord Svacchanda Bhairava (*svacchandarūpiṇaṃ*) who has five faces.[^575_572]
+
+Much to our astonishment, lurking at the heart of Cāḷukya power is nothing other than the veneration of the terrifying deity Bhairava unmistakably mediated through a heavily entextualized tradition rooted in Tantric practices. Quite apart from the normal trappings of lay Śaiva *pūjā*, which preserve the *upasaṃhāra* program of worship of the old *Atimārga* Pāśupatas, which privilege devotional music, Āhavahamalla’s obligatory ritual duties entail the use of *mantra*, *mudrā* and esoteric meditative practices. These procedures serve the purpose of transforming the king himself into a form of the god Svacchanda Bhairava.[^575_573] As his grandson
+
+[^575_572]: In order to ensure that a modern reader can follow the logic of this passage, I have artificially subdivided what is essentially one very long sentence linked by a series of gerunds into several digestible parts. The key feature of this passage is that it presents us with a ritual sequence unfolding in chronological order that comprises a complete program of Tantric worship. Someśvara, *Vikramāṅkābhyudaya*, pg. 31: *tataḥ praviśya devatāpūjāgṛhaṃ praṇamya ca sāṣṭāṅgaṃ gomayopaliptāyāṃ bhūmau padmāsanāsīno vidhivan mantramudrāvidhinā vihitātmapūjaḥ paścāt sauvarṇamayaratnakhacitapīṭhe pratiṣṭhāpya candrakāntaratnanirmitam ativitatakāntisantānaiś candrikām iva sāndrīkurvāṇaṃ śrīkaṇṭhaliṅgaṃ pañcāmṛtaiḥ sugandhisalilaiḥ snāpayitvā candanaharicandanakarpūramṛgamadarasena vilipya cārucampakasugandhisurabhivikacavicakilasupatra- śatapatrendupriyendīvarabahulabakulasamṛddhamādhavīpāṭalapaṭalasuvarṇavarṇakārṇikān sukumāragandha- karavīratriśākhabilvapatrādimālyaiḥ, samabhyarcyāgurukarpūrādidaśāṅgadhūpakarpūradīpavividhānnabhakṣya- phalanaivedyatāmbūlopahāraghaṇṭāravanṛtyagītavādyasaṅgītakapuraḥsaraṃ maunāsanamanonirodhena samā- hito bhūtvā svacchandarūpiṇaṃ bhagavantaṃ pañcavaktraṃ nityavidhinā samapūpujat /*
+[^575_573]: In a recent work, “The Śaiva Literature,” Alexis Sanderson surveys this canon in the following manner: “The *Mantrapīṭha* is dominated by the *Svacchanda*, also known as the *Lalitasvacchanda*, the Tantra of the cult of Svacchandabhairava and his consort Aghoreśvarī. This work is the pre-eminent text of this category in the scriptural accounts. It also the only one that has come down to us in its entirety. The only other works of this category that have reached us through citation or the incorporation of passages in compendia are its satellites: the *Aghoreśvarīsvacchanda*, the *Dvādaśasāhasra-Mantrapīṭhasvacchanda*, and the *Rasasvacchanda*. The importance of the *Svacchanda* is evident (i) from the fact that it has come down us in manuscripts in widely separated parts of the subcontinent, namely, the Kathmandu valley, Kashmir, and Tamilnadu, (ii) from the survival of various *Paddhatis* for worship and initiation based on it in the Kathmandu valley, and, above all, in Kashmir, where it became, with the *Netra*, the principal basis of the rituals of the region’s Śaivas down to recent times, and (iii) from the fact that it is the unacknowledged source of much of the wording and content of the prescription of the ritual of Saiddhāntika initiation set out by Bhojadeva in his influential *Siddhāntasārapaddhati*, stripped, of course, of all non- Saiddhāntika *Mantras* and deities, these being replaced by those of the Saiddhāntika *Kālottara*.” Alexis Sanderson, “The Śaiva Literature,” *Journal of Indological Studies* 24/25 (2012–2013): 36–37. On pg. 36, ftn. 132, Sanderson also observes: “The text was also well-known in Mālava, since it was utilized by Bhojadeva for his *Siddhāntasārapaddhati*, and in eastern India, since Vimalaśiva draws on it in his *Vimalāvatī* of AD 1101/2. It was also known in the Deccan, since its deity is referred to by Someśvara, the Western Cāḷukya king of Kalyāṇa in 3.731 of his encyclopaedic *Mānasollāsa*, composed in AD 1131.” Sanderson seems not to have noticed the passage currently under discussion, nor the entire chapter on the various iconographies of
+
+[[P576]]
+transparently tells us, these rituals are no mere calendrically inflected trappings loosely associated with the office. They represent the daily obligatory ritual procedure (*nityavidhi*) that the king is obligated to perform if he is to maintain his ritual status and authority. His capacity to engage in such procedures is almost certainly dependent on the Cāḷukya king bearing an initiation into Śākta ritual system in which a male deity bearing the name of Svacchanda is worshipped. With the evidence available to us, however, there is as of yet no way of determining if the system in question is specifically the worship of Svacchandabhairava as prescribed by the *Svacchanda Tantra*. By the eleventh century, both the deity Svacchandabhairava and the textual resources provided by the *Svacchanda Tantra*, including the cosmologies and the meditative and mantric *praxes* it prescribes, have been claimed by religious communities across the entire spectrum of the traditions of the *Mantramārga*. Just as the *Svacchanda Tantra* itself has drawn upon the proto Śaiva Siddhānta foundational scripture, the *Niśvāsaguhyasūtra*, value systems as disparate as those of the overtly doctrinally nondualist Trika *Tantrasadbhāva*, which advocates for the ritual worship of the *yoginīs*, and the classically dualistic Śaiva Siddhānta *paddhati*, the *Siddhāntasārāvali* ascribed to the famous Paramāra king Bhojadeva of Dhārā, which most assuredly does not, both extensively draw upon the *Svacchanda’s* cosmological and *mantra* systems as a sort of Tantric source code for filling in the gaps in its own ritual system. As a central focus of worship, the deity himself is even more widely dispersed, surfacing for example in the Kubjikā Tantras, especially in the form of Śikhāsvacchandabhairava, in the alchemical texts in the guise of various iterations of Rasabhairava, and as the generic form of Mahābhairava in chapter 20 of the
+
+[[P577]]
+*Tantrasadbhāva*.[^577_574] Until further evidence emerges, it suffices to say that, having become the god, Āhavamalla worships the god with his very own hands, making offerings to a private votary *liṅga* made of moonstone (*candrakantā*) called a Śrīkaṇṭha*liṅga*, a focus of worship absent from the surviving literature.[^577_575]
+
+In Someśvara’s brief representation, this Tantric *pūjā* is not marked as motivated by some deep personal commitment to the theology of a particular stream of esoteric revelation. Indeed, the *pūjā* is conducted without any invocation of a ritual intention. What we call Tantra in this world, it seems, is simply part and parcel of royal office, something that has to be done for a Cāḷukya king to remain a Cāḷukya king. Furthermore, this esoteric modality is at once written into the daily routine and divorced from the transactional performances that fill the rest of the king’s schedule, for unlike all of the rest of the activities in which he is engaged, Āhavahamalla performs this part of his duties on his own, free from both learned professional oversight on the one hand and sycophantic service on the other. As we shall see, the *Vikramāṅkābhyudaya* appears to be offering an argument by example that such an approach is the best way to worship Śiva. Indeed, there is scarcely anything indicating that the rest of the king’s retinue has anything more than a vague understanding that the king observes some unspecified private ritual practice.
+
+Āhavamalla marks his completion of his private *pūjā* by putting on clean clothes. Exiting the house of the god, he returns to work. He commissions the pavilions, made of
+
+[^577_574]: Intriguingly, the vast first *ṣaṭka* of the *Jayadarathayāmala* noticeably diverges from this trend, for there Svacchanda appears solely as a subordinate entity among the *Aṣṭabhairavas*.
+[^577_575]: Though serving as a supplement to the main immense stone *liṅga*, a moonstone *liṅga* remains in worship at the Bṛhadīśvara Temple at Gangaikonda Cholapuram, which was established as the new capital city of the Cōḷa kings by Rajendra I in 1035 CE, roughly contemporary with the narrative under discussion, thus suggesting this may represent an unnoticed feature of private systems of royal worship common to south India.
+
+[[P578]]
+perishable materials, within which the sixteen *mahādānas* will be offered in the coming days. He gets his daily report concerning foreign affairs, alliances, and wars. The king receives the supplication of his long-standing vassals as well as of the princes whose kingdoms he has recently conquered, who shower him with all sorts of gifts, priceless cloths, gold, elephants, and horses, as they beg for his mercy and court his favor. In short, like the god he himself will soon supplicate, the king is showered with flattery and riches by those who require his favor to accomplish their own aims. Then the head cook comes out, twitches his brow, and the gong rings. It is time for lunch, presented by female slaves with breasts as big as the serving bowls. The king goes to the eating hall, accompanied by sensuous slaves, cooks, poison tasters, and fellow diners. He eats his very sweet food, savors very sweet sights and having finished his business for the day, retires for an afternoon of storytelling, entertainment, and erotic recreation. The next two days unfold in a similar manner as he waits for the pavilions for *dāna* to be constructed.
+
+When the day of the great potlatch at last arrives, Āhavamalla assumes the role of master of ceremonies, directing lavish presents and praise at the Lord who is Śiva, intent on purchasing an heir through his efforts.
+
+> Then, desiring to obtain a son, accompanied by his queen who was in favorable mood, he began the procedure for the worshipping of the feet of Mahādeva, which bestows all desires. And every day, with a thousand golden *kalaśas* filled with the five nectars, he had performed (*kārayāmāsa*) the ceaseless *abhiṣeka* of Śiva.
+>
+> He caused to be done (*akāryata*) the anointing with streams of *kuṃkuṃ*, moist *kuṃkuṃ*, the fragrant sandal paste, camphors that are unparalleled. He “did” the *pūja* with lots of flowers that have various sorts of fragrances, with many kinds of golden lotuses, with the required instrumental music, with singing, with lamps, with *naivedya*, and with *dhūpa*.[^578_576]
+
+[^578_576]: Someśvara, *Vikramāṅkābhyudaya*, pg. 33: *tatas tanayalābhakāmo ’nukūlavartinyā mahādevyā saha sarvakāma-dasya mahādevasya caraṇārādhanavidhim ārabdhavān / pratidivasaṃ ca pañcāmṛtaparipūrṇasauvarṇakalaśasahasrair ajasram abhiṣekaṃ bhavasya kārayāmāsa /*
+
+[[P579]]
+In light of what will come after, it is perhaps worth noting at the outset that the key verbs in this passage, the paraphrastic perfect *kārayāmāsa* and the imperfect causative passive *akāryata* impart a causative meaning, evoking a clear sense that the king is not himself doing the ritual, but merely having the ritual “done for him” by other people. After the completion of these very involved and expensive festivities, that very night, the Cāḷukya king has a dream in which a vaguely menacing ascetic appears before him. With his mass of tawny locks and bark garment, his body smeared with ash, bearing the goad of Rudra and a flute, the *yogin* clearly stands in for Lord Śiva himself. He imparts a devastating message. Expressing palpable disdain for the arrogance of thinking that one could buy god’s favor as well as ridiculing the ridiculous amount of money wasted on the sixteen *mahādānas*, the king is told that his efforts have been utterly misguided and will result in terrible consequences.
+
+> O king, these austerities of yours are complete; in only a few days you will obtain a son. And yet, in just the same spirit that the worship of Lord Śiva was performed by you, a son was produced of the very same sort. [As] your inner faculties were seized by a tempestuous state, [for] you had become haughty, drunk on philanthropic practices involving the excessive expenditure of vast amounts of money, you have produced a son dominated by an excess of tempest (*rājas*) and torpor (*tāmasa*).[^579_577]
+
+In place of the notion that all you have to do is please the Brāhmaṇas to get your way, Śiva’s vessel here invokes an older and more fundamental logic, which by now should be familiar to us as it permeates the discursive worlds we have been exploring at a myriad of registers: the ethical and intentional circumstances in which a thing or person comes into being
+
+[^579_577]: Someśvara, *Vikramāṅkābhyudaya*, pg. 33: *rājan paryāptam etena tava tapasā katipayair eva vāsarais tanayalābho bhaviṣyati / kiṃ tu nitāntabhūridraviṇadānamadagarvitena parigṛhītarājasabhāvāntakaraṇena tvayā yathārādhanaṃ bhagavato bhavasya vyadhāyi tathāvidha eva rajastamodhikas tavātmajo ‘bhāvi ity abhidhāya tirodadhe /*
+
+[[P580]]
+determines its intrinsic ontological nature. Far from representing mere ritual formula, the intentions and mental attitudes cultivated by humans and other types of beings create the character of the world they inhabit. The king and his wife, with their considerable academic understanding of the conditionable nature of the human mind and human character, at once realize the wisdom conveyed in this vision, and repent, lamenting their own foolishness. Here the king tells his soon to be pregnant wife the very bad news.
+
+> O dear one, the ripening of bad deeds previously committed is difficult to overcome. Even though my mental habits had been naturally predominated by *sattva* since birth, since this *bhāva* came into being precisely on the force of an excess of *rajas* on my part, as I was engaged in the worship of my chosen deity for the sake of obtaining offspring, today, in fact, in the course of sleep, I was informed by Śiva that “your son will also be *rājasic*, for your mental operations had a *rājasic* state.” And thus, my heart is overcome, possessed by boundless sorrow.
+>
+> Better than this obtaining of a bad son would be having no son at all.
+>
+> Then again, a son with bad conduct is precisely the cause of affliction for the father, here in this world and the world beyond. . . . For, just like a sharp axe, he severs the branches that are the fame of the family that had flourished far and wide. For, the excess of *rajas*, like a hurricane, assails the eyes of all the people. For, the conduct of inertia that is not dispersed stains the foot like mud. For, one who is maddened by intoxication goes about just like an elephant without a goad. Like a serpent with a crooked path, he produces fear on the part of everyone. Like a wild horse, one who has a degraded mind does not stick to the path.[^580_578]
+
+Throughout the queen’s pregnancy, as is often the case in *kāvya*, the malignant nature of her future child is readily apparent. In keeping with the circumstances of his production,
+
+[^580_578]: Someśvara, *Vikramāṅkābhyudaya*, pg. 33: *priye duratikramaḥ khalu purākṛtānāṃ duṣkarmaṇāṃ vipākaḥ / yato mamājanmasahajasattvapradhānacittavṛtter apy abhiṣṭāpatyalābhārtham iṣṭadevatārādhanapravṛttasya bhūyasā rājasa eva balād babhūva bhāvaḥ / adya kila svapnavidhau “rājasabhāvavṛtter bhavataḥ putro ’pi rājasa eva bhavitā” iti. bhargeṇāham abhihitaḥ / ata eva niratiśayaviśādāveśavaśīkṛtāśayo vartte / yasmād varam duṣputrād aputratā / durvinītaḥ punaḥ putraḥ santāpahetur eva pitror iha loke paratra ca. . . . tīkṣṇavṛttir hi kuṭhāra iva dūrapravṛddhavaṃśayaśaḥśakhāḥ khaṇḍayati / rajobahulo hi prabhañjana iva sarvajanānāṃ dṛśaḥ khedayati / avimuktajaḍavṛttir hi paṅka iva padaṃ kalaṅkayati / madoddhato hi dvirada iva niraṅkuśaḥ sañcarati / kuṭilagatir hi sarpa iva sarveṣāṃ bhayam upajanayati / duṣṭacitto hi śūkala iva na mārge calati /*
+
+[[P581]]
+which was suffused with excess of *rajas* and *tamas*, the future Someśvara II, the intended heir to the throne, emerges a born sociopath.
+
+> With the passing of time, just like *kali*, he grew stronger. For no reason, although they were good folks, the prince intensely assailed his play companions. Alongside the other little boys, all the time, he played with fragments of human skulls and gambling die. He never bowed down to Brāhmaṇa folk with discipline and *bhakti*. On the pretense they were thieves, in play, he impaled birds on the peak of a spear. Even though they were just sketched in pictures, he severed the noses of attractive men with his nails.[^581_579]
+
+Rather than acquiescing to this horrible little monster someday coming into power, Āhavamalla and his wife set out to secure a second superior son. This time, eschewing the council of Brāhmaṇa ritualists, Āhavamalla takes matters into his own hands. Placing his kingdom in the care of his advisors, committing himself to absorbing his mind completely in unceasing contemplation of Śiva, he sets out on pilgrimage to Srisailam intent upon worshipping the Lord in his home on top of the mountain. Entering through the southern gate, the company first pauses at the old Bādāmi Caḷukya ritual center of Alampur to bathe in the confluence of the Tuṅgabhadra River and worship Lord Brahmēśvara. Apart from its role as sacred place, during the period in question, Alampur marked the external limit of the territory to which the Kalyāṇi Cāḷukya kings were legally entitled. From this point onward, Āhavamalla’s claims to royal privilege are suspended and he is merely a foreign guest in a domain where Śiva himself reigns supreme. The poet Someśvara III uses this social reality as the impetus for an extended metaphor that homologizes the terrain of Srisailam with dynamics of a *rājadhāni*, a capital city like Kalyana. In short, just as we ourselves have discovered earlier, our Cāḷukya royal poet is acutely aware that sacred fields, like any other undying land grant,
+
+[^581_579]: Someśvara, *Vikramāṅkābhyudaya*, pg. 46: *sa ca krameṇa kalir iva varddhmānaḥ sahacarān sādhūn api niṣkāraṇam eva nibiḍaṃ pīḍayāmāsa / sarvakālaṃ bālakaiḥ saha kharparakapālikākapardakaiś cikrīḍa / na kadācid api brāhmaṇajanaṃ sabhaktivinayaṃ praṇanāma / krīḍayā pakṣiṇaḥ samāropitacaurabhavān śūlaśikharam ārohayat. citralikhitānām api surūpāṇāṃ puruṣāṇāṃ nakhair nicakartta nāsām /*
+
+[[P582]]
+demand to be understood as sovereign spaces governed by their own internal logic of rule running parallel and equally potent to the normative domain of the political.
+
+> Ascending to the peak of Śrīparvata, he imagined the girdle belt of that great mountain like the capital of a kingdom, a seat of radiant arrows/reeds, encircled by swordsmen /rhinoceroses, manifesting a collectivity of elephants/bears;
+>
+> [He saw] cliffs that were like temples, their walls of stone and gold inlaid with lovely gems;
+>
+> [He saw] the caves as if they were the houses for courtesans, in which collections of *nāga* women were established inside;
+>
+> [He saw] herds of forest cows and buffalo that were like livestock;
+>
+> [He saw] deposits of wealth that were like the treasuries of Kalyana, with various sorts of fortunes;
+>
+> [He saw] the bowers with their streams and reservoirs as if they were bathhouses;
+>
+> [He saw] the sage folk as if they were the community of the *brahmapurī* with their abodes in various places. And he thought that the *sādhakas* and the *siddhas* and the gods were like the city folk walking everywhere.[^582_580]
+
+As he ascends higher up onto the mountain, as he is brought into contact with features of the landscape that have no mundane comparison, familiarity gives way to wonder.
+
+> In some places, there were fields of divine remedies unobtainable elsewhere; black *citrakas*, red *vajra* trees, yellow *agastis*, and white *darpa* grass, which are employed in the procedures (*sādhanā*) of alchemy (*rasarasāyana*) that produce longevity, youth, steadfastness, virility, luster and power, and that destroy death, fear, misfortune, disease, wrinkles, and gray hair. . . And in some places there were temples of the gods in which the deities were being worshipped by worshippers who were engaged in the attainment of wonderous *siddhis* of various sorts, the making of magic pills, the production of a *yogadaṇḍa*, wish-fulfilling gems, the *sparśavaidhi* and the *siddhi* of the sword, the sandals, the foot ointment that is capable of causing one to travel in the sky, the [gold] cloth, and the ointment for the *tilaka* of invisibility.[^582_581]
+
+[^582_580]: Someśvara, *Vikramāṅkābhyudaya*, pg. 38: *śrīparvatasya kaṭakam ārohaṃs tasya mahāmahībhṛtaḥ prakaṭitakaraṭisamūhāṃ khaḍgibhir āvṛtāṃ rucirabāṇāsanāṃ rājadhānīm iva mekhalāṃ, ruciraratnakhacitakanakaśilābhittīni mandirāṇīva kandarāṇi antaḥsthitapātālavilāsinīsamūhāni gaṇikāgṛhāṇīva vivarāṇi, jīvadhanānīva vanamahiṣīgavayagokulāni, vividhasamṛddhīni kalyāṇakośa- bhavanānīva nidhānasthānāni, dhārāgṛhāṇīva sanirjharaprapātāni kuñjāni, tatra tatra vihitavasatiṃ brahmapurīsamājam iva munijanaṃ, sarvataḥ saṃcarataḥ pauralokān iva surasiddhasādhakān amanyata /*
+[^582_581]: Someśvara, *Vikramāṅkābhyudaya*, pg. 39: *kvacana hastavinyastamastakasādhakajanānviṣyamāṇa- valīpalitarogadaurgatyamṛtubhayāpahāribalatejovīryasthiratāruṇyacirajīvanakārirasarasāyanasādhanopa-*
+
+[[P583]]
+In an underplayed manner, our author communicates that the domain we are passing is at once thoroughly suffused with Tantric knowledge while at the same time accommodating the most cultivated forms of purely Brāhmaṇical asceticism. Someśvara’s portraits in miniature of ascetic practice are some of the richest to survive from the literature of the period. In the world of the medieval Deccan, the category of what constitutes a sage is truly capacious.
+
+> In this place. . . some of the ascetics, their bodies smeared with pure white ash, are laughing like Hara. Some have the surface of their matted locks bound about taut with a saffron *yoga* belt. Some have pleasing intellects attached to *samādhi*, which is perfected by the fruition of *dhyāna, dhāraṇā*, and so forth. On the part of some, there is the innate passion of being bound to the worshipping and bathing of the *bāṇa liṅgas*. And there are ones who are clever in the imparting of the *Śaivāgamas* and *śāstras*, which are made for the crossing over the ocean of *saṃsāra* which is difficult to cross.
+>
+> There are ones by whom the surface of the earth is ornamented by an abundance of white fame like an autumn cloud. There by ones who are the grounds for the manifestation, through the most wonderful power of *tapas*, of the washing clean of the stain of the *kali yuga*. There are ones whose mental activities are devoid of the deformations produced by *māyā*. . . . There are ones whose masses of matted locks imitate the crest of smoke from the fire of austerities that is being ceaselessly kindled. . . .
+>
+> There are ones of whom the palms of their hands are purified by a *japa mālā* that has a very beautiful form; it is a single string of pearls of that ornaments the fortune that is liberation (*mokṣalakṣmī*). . . Some are removing the mass of their hair as if it is a black stain. Some are carrying a stick as if it is for the sake of beating the dog that is the *kali yuga*. Some have had their thirst for the poison of *saṃsāra* cast off through the medicine that is tasting ceaselessly the nectar that is the bliss of the unparalleled *brahman*.
+>
+> Some bear a *palāśa* staff. Some have bodies that shine brilliantly with a black antelope skin wrapped about them. Some have topknots. Some have shaven bald heads. Some have a white *upavīta* thread, and some are *brahmācārins* who bear loin cloths, bark garments, and belts of *muñja* grass that are purifying and wrapped about their hips.
+>
+> They all live there. And among them, [he saw:]
+
+[[P584]]
+> Some like trees who were only drinking water; some who only consumed milk like children; some only consumed air like serpents; some went about eating leaves, bulbs, roots and fruits like forest animals; some were drinkers of smoke like they were assailed by phlegmatic diseases.
+>
+> Some were devoted to *japa* likes ones with a forest vow; some bore matted locks like banyan trees; some bore crests like peacocks; some were delighted by dispassion as if they were fish; some who were accomplished in patience as if they were kings; Some who had delight in the confluence with *nirvāṇa*/air as if they were rainbows; some had been released/attained *mokṣa* like arrows;
+>
+> Some of them had become happy as if they had obtained the nine wealths, like petitioners; some, like great poets delighted in the attachment to *samādhi*/like connoisseurs in the binding together of compounds. . . .[^584_582]
+
+On the other side of the *āśramas* of the sages, Āhavamalla come into the presence of Mallikārjuna, the form of Śiva that resides at Sriailam. This time, instead of committing himself to the ethos enjoined by *varṇāśramadharma*, he devotes himself to *śivabhakti*.
+
+> “My Lord excels all, you by whom grace is bestowed on the people of whom the minds are purified by *bhakti*! Be gracious, O Lord!”
+>
+> Having exalted him with words of praise, he thus formed an intention, directly before the destroyer of Dakṣa’s sacrifice:
+>
+> “Through your favor, O Lord, in order to produce a son whose fundamental nature is innately pure *sattva*, which is completely full of that which delights due to his multitude of extraordinary qualities, by whom the entire surface of the earth is overcome by his
+
+[^584_582]: Someśvara, *Vikramāṅkābhyudaya* pg. 40–41: *yatra ca kecit bhasmakopalāntarālasamākṛṣṭaharahasitadhavala- bhasitoddhūlitatanavaḥ kaṣā[y]ayogapaṭṭakagāḍhanibaddhajaṭāmaṇḍalāḥ, dhyānadhāraṇādisamṛddhisamiddha- samādhibandhabandhuramatayaḥ, [b]āṇaliṅgasnapanaparipūjananibaddhasahajaratayaḥ, dustarasaṃsārasāgara- samuttaraṇasetubhūtaśaivāgamaśāstropadeśaviśāradāḥ, śaradāmbudharaviśadatarayaśaḥprāgbhāravibhūṣita- bhuvanatalāḥ, kalikālakaluṣaprakṣālanādbhutatamatapaḥprabhāvāvirbhāvabhūmayo, māyāvikāravirahitamānasa- vṛttayaḥ, jñānānaladahyamānaduṣkarmendhanabhasmasamānoddhūlanabhūtayaḥ, nirantarapravardhamāna- tapognidhūmaśikhānukārijaṭākalāpā, yajñopavītamiṣatovabhrāntyā vāsukineva niṣevitakaṇṭhāḥ, mokṣalakṣmī- maṇḍana-mauktikaikāvalīsulalitarūpākṣa-sūtrapavitratakaratalāḥ, kecidasamatapaḥprabhāvaviniḥsāritāntara- saṃsārānurāga-sadṛśasamupalakṣymāṇakāṣāya-vasanadhāriṇaḥ, kṛṣṇaṃ kalmaṣam iva keśakalāpam apanayantaḥ, kalikālakauleyakatarjanārtham iva daṇḍam udvahantaḥ, asamaparabrahmānandāmṛta- satatāsvādanāpyāyana-nirākṛtasaṃsāraviṣatṛṣṇā yatayaḥ, kecid āṣāḍhinaḥ parihitakṛṣṇājinabhrājamānavapuṣaḥ, muṇḍitamuṇḍāś cūḍālāḥ, sitayajñopavītāḥ, kuśapavitrapatritapāṇayaḥ, kaṭipariveṣṭitapāvanamuñjamekhalā- valkalakaupīnadhāriṇo brahmacāriṇaś ca prativasanti / teṣu ca kāṃścit pādapān iva jalāhārān, bālakān iva payaḥpāyinaḥ, pannagān iva pavanāhārān, mṛgān iva phalamūlakandapatracāriṇaḥ, kaphapīḍitān iva dhūmrapān, vanavrātān iva japāraktān, nyaghrodhān iva jaṭādhāriṇaḥ, mayūrān iva śikhābhṛtaḥ, kātarān iva asaṅgarocitān, pārthivān iva kṣamāprasādhakān, śakracāpān iva nirvāṇasandhānarūcīn, bāṇān iva prāptamokṣān, arthina iva navaṃ dhanaṃ prāpya sukhībhavataḥ, mahākavīn iva samādhibandharasikān /*
+
+[[P585]]
+> valor (*vikrama*) that is not common to this world, I by whom the attachment to all sense objects is cast off, I who have abandoned all adventitious attachments, perform austerities!”[^585_583]
+
+Whereas, under the guidance of Brāhmaṇas, ritual devotions amount to a form of high end investing in karmic futures, under the guidance of Śiva, we learn that efficacious ritual demands the purification of the mind and the deliberate affliction of the body. In his representation of the ritual program undertake by Āhavamalla, his grandson Someśvara III takes great pains to bring into sharp relief the contrast with the vision of religion praxis that earlier had dominated the courtly setting in every domain apart from that of the private ritual worship. Instead of a three-day lavish party, the king must commit himself for the duration and must himself suffer.
+
+> From that moment on, every day, he bathed the three eyed lord with beautiful gold *kalaśas*, which were filled with water from the subterranean Gaṅgā. After that, he smeared the Lord with the essences of deer musk, camphor, sandal paste, and yellow sandal paste. And then, he performed a *pūjā* that was very auspicious with the five facilitating practices, with many types of flowers garlands that were fashioned with fragrant flowers of many sorts, as was enjoined.
+>
+> Likewise, he performed ceaseless circumambulation of Virūpākṣa with his own two feet which, even though they had been engaged in the striking of crores of the crowns on the heads of adversarial kings, were tender by their very nature.
+>
+> Although he was always made for endless pleasures, because of his being extremely *sattvic*, he subsisted solely on bulbs, roots, and water. Having taken up the rule of celibacy, he passed the nights/rid himself of women on a marriage bed made of stone.
+>
+> What more is there to say?
+>
+> Practicing that kind of *tapas*, exceedingly extreme; that which causes adversity to the senses, which drives away the sense objects;
+
+[^585_583]: Someśvara, *Vikramāṅkābhyudaya*, pg. 43: *jaya bhaktiśuddhamānasajanavihitānugraha, prasīda bhagavān iti stutipadair nutvā, saparyāpuraḥsaraṃ bhagavann asādhāraṇaguṇagaṇarāmaṇīyakaparipūrṇasahajasattva- mayaprakṛtim, alokasāmānyavikramākrāntasakalabhuvanatalaṃ tatprasādāt tanayam āsādayituṃ parihṛtanikhilaviṣayāsaṅgaḥ parityaktāvāntaravyāsaṅgas tapas ta[p]sye iti dakṣamakhamathanasya sumukham eva saṅkalpam akarot /*
+
+[[P586]]
+> That which is the obstructer of momentary pleasures; That which is the impeder of obstacles; That which binds the modifications of the mind, that which leads astray the royal play; That
+> Which brings under dominion that which is most auspicious; That which is the agent of achieving the attainments most desired;
+>
+> Unable to be practiced by others, which crosses beyond being an object of description, having crossed over the path of enumeration— austerity of a sort never seen before or heard of previously, he passed the time for an exceedingly long while.[^586_584]
+
+Tellingly, it is at midnight, when no Brāhmaṇical *pūjā* is prescribed, but when, as the fourth *sandhyā* looms large in Śākta ritual, that divine presence graces the king. While the king is performing worship inside the temple of Mallikārjuna, Śiva emerges as “a disembodied voice from the belly of *liṅga*,”[^586_585] announcing to Āhavamalla that his boon has been granted. Śiva tells us he is pleased by his austerities, “which were most difficult to endure,”[^586_586] and so he directs Nārāyaṇa, “for the sake of protecting the world, to incarnate here in the Cāḷukya lineage, in the same way as you did in the lineages of the Yādavas. And, thus by my grace, what is desired by you has been directly obtained. In just a bit of time, the beloved of Lakṣmī will delight you in the form of a son. And he will protect the earth.”[^587_587] In a fit of foolishness,
+
+[^586_584]: Someśvara, *Vikramāṅkābhyudaya* pg. 43–44: *tataḥ prabhṛti pratidinaṃ pātālagaṅgāsalilaparipūritaiś cāmīkaracārukalaśair bhagavantaṃ trilocanaṃ snapayāmbabhūva / tadanu haricandanacandanaghanasāramārga- dravair anulilimpa / tato vividhavihitasugandhikusumaviracitavicitramālyapañcopacārasubhagāṃ pūjāṃ cakāra / tathā pratibhaṭanarapatiśiraḥkirīṭakoṭitāḍananiratābhyām api svabhāvakomalābhyāṃ caraṇābhyām eva santataṃ virūpākṣaṃ pradakṣinīcakre / santatam anantasukhamayo ’pi mahāsattvatayā kandamūlajalair eva prāṇavṛttim akalpayat / parigṛhītabrahmacaryaniyamaḥ kalpitaśilātalatalpaḥ śarvarīr atyavāhayat / kiṃ bahunā, yadvirocakam indriyāṇāṃ, yadutsārakaṃ viṣayāṇāṃ, yadbādhakaṃ tātkālikasukhānāṃ yadduṣpraveśaṃ vighnānāṃ, yad[b]andhanaṃ cittavṛtteḥ, yanmohanaṃ rājyavilāsānāṃ yadvaśīkaraṇaṃ śreyasāṃ, yatsāṃsādhakaṃ manorathasiddhīnāṃ, tadanākarṇitapūrvam adṛṣṭacaram atītagaṇanāpatham atikrāntavarṇanāviṣayam anyair anuṣṭhātuṃ aśaktyam atitīvraṃ tapaś carann atibhūyāṃsam anehasaṃ nināya /*
+[^586_585]: Someśvara, *Vikramāṅkābhyudaya*, pg. 44: *liṅgodarād aśarīraṃ vacanam udagāt /*
+[^586_586]: Someśvara, *Vikramāṅkābhyudaya*, pg. 44: “*rājan, prasanno ’smi tavāham atiduḥsahais tapobhiḥ*” *alpīyasaiva kālena sakalam api tavābhivāñchitaṃ sampatsyate /*
+[^587_587]: Someśvara, *Vikramāṅkābhyudaya*, pg. 44: *yad uta deva nikhilabhuvanābhayadānavyāpārabaddhādara, durdamadānavonmūlanapuraḥsaraṃ surādhipatyapratiṣṭhāpitapurandara, govarddhanadharaṇīdharoddharaṇa-samayaprakaṭīkṛtapracaṇḍadadordaṇḍasāra, sakalabhuvanānanditadaśāvatāra, yādavakule iva cālukyavaṃśe sakalajagadrakṣaṇāya madanugrahārthaṃ prasādabuddhyā punar avataraṇīyam atra bhavatā puruṣottamena iti, tatoś ca mama prasādāt saṃpannam eva tava samīhitam acireṇaiva kālena kamalāvallabhas tvāṃ nandanabhāvenānandayiṣyati / pālayiṣyati ca saptapārāvāramekhalāparikalitāṃ viśvambharam /*
+
+[[P587]]
+the Cāḷukya king responds to direct revelation by deciding that, if one righteous son incarnating a god is good, two would be even better, and starts up his austerities again. Lord Śiva is decidedly not impressed.
+
+> O king, due to excessive churning, even from milk, the *kālakūṭa* poison was obtained. Thus, they say that in all cases, excess is hubris. Excessive in your expectation, because you are not satisfied despite the obtaining of a son who will conquer the world, you have manifested a *tāmasic* essence. Thus, another son will come into being who is made up of *tamas*, just like poison. Therefore, quickly return now to your own city.[^587_588]
+
+Like a disobedient child sent to his room, Āhavamalla returns to his capital city just in time to start a family of his own. Sadly, this is just about where the extant text ends, offering us just a taste of the respective childhoods of the various princes. About Vikramāditya VI we learn very little of substance.[^587_589] In contradistinction to his dastardly brothers, from birth onward he was both polite and righteous. When his horoscope is done, to the astrologer’s astonishment, his splendor and destiny is seen to both resemble and rival his great ancestor Tailapa, uprooter of the Rāṣṭrakūṭas, which in fact is hardly surprising, given that both men are understood to be incarnations of Nārāyaṇa himself. Perhaps the only feature worth noting in the presentation of the early ritual life of Vikramāditya VI as he receives the Vaidika *saṃskāras*, each of which are described in loving poetic detail, and prepares for studentship is that, alongside the detailed delineations of the prince’s Vaidika *vidhāna*, if just in passing, our text alludes to the private performance of a separate set of ritual procedures, which Vikramāditya VI dedicates to his *kuladevatā*.
+
+[^587_588]: Someśvara, *Vikramāṅkābhyudaya*, pg. 44: *rājann atimathanāt kṣīrād api kālakūṭam utpannam ity atiḥ sarvatra garhita iti vadanti / tvayā cātikāṅkṣiṇā jagadvijayiputralābhe ’py atṛptyā tāmasaṃ svarūpam āviṣkṛtam ity anyo ’pi viṣa iva tamomayas tanayo bhaviṣyati / tatas tvam idānīṃ tvarayā nijapurīṃ vraja iti/*
+[^587_589]: Indeed, what is presented matches almost perfectly the prescriptive contents outlined by Someśvara III in the second *viṃśati* of the *Mānasollāsa* characterizing the education of a prince.
+
+[[P588]]
+In making sense of the hidden ritual life of the great Cāḷukya sovereign who ruled the realm in relative peace for fifty years, overseeing a renaissance in the visual culture of the medieval Deccan, whose influence was felt into the thirteenth century, as we might by now anticipate, Bilhaṇa, his official biographer is of no help whatsoever. His Vikramāditya VI is a thoroughly idealized instantiation of generalized virtues, whose theological leanings are entirely opaque. Thankfully, once again, Someśvara III comes to our rescue, offering us a tantalizing detail about his father’s “hobbies.” This time our source is not his son’s *mahākāvya*, but rather his significantly more famous and yet equally under examined compendium of knowledge, the *Mānasollāsa*.[^588_590]
+
+The fifth book of the *Mānasollāsa* offers a catalog of what are typically taken to represent “courtly enjoyments.” The Sanskrit word used, *krīḍā*, has a substantively different semantic field, and in content the chapter encompasses activities as varied as planting trees, to hosting parties in which men and women consume liquor until the point of passing out, but for the most part, the subject at hand seems to correspond to “secular” forms of recreation.
+
+The eighteenth *krīḍā*, in contrast, outlines a very different sort of activity: *vīrakrīḍā*, the midnight revelries of the initiated Śākta adept. It is here, tucked away at the end of his vast compendium, that Someśvara III offers some candid biographical reflection on the true nature of his father.
+
+[^588_590]: Someśvara III’s *Mānasollāsa* was composed in 1129 CE. It has been published in two editions, which draw upon some distinct manuscript sources. A critical edition of the text, which is particularly corrupted in its fourth and fifth chapters, is sorely needed. R. Shama Sastry, ed. *Mānasollāsa* (Mysore: Oriental Library Publications, 1926); Gajanan K. Shrigondekar, ed., *Mānasollāsa*, 3 vols. (Baroda: Gaekwad Oriental Series, 1925, 1939, 1965). The work of Eric Gurevitch, on the ethos of premodern quotidian *śāstras* imagined as a secular discipline, locates important predecessors to our text in the Kannada-language *śāstras* that originate at the court of Jayasiṃha, the Kalyāṇi Cāḷukya ruler who reigned roughly four generations before the period we have been exploring. In particular, Someśvara III seems to draw upon a mostly unstudied work called the *Lōkōpakāra*, both substantively and rhetorically. Gurevitch’s work also traces the reception history of many of the secular social practices presented in our text down into the early modern period. Eric Gurevitch, *Everyday Sciences in Southwest India* (PhD diss., University of Chicago, 2022).
+
+[[P589]]
+> Now is stated the *vīra* revelry, which delights the minds of the steadfast. The revelry is made manifest by prior men who sought to attain *siddhis*. Therefore, that is to be done by virile men, and not by other kings. It is enacted by the great impetuous one (*mahāsahāsika*), who bears the form of Vikrāmaditya. . . who is the best among the *vīras*. It was shown by the lord of the virile ones (*vīranātha*), the king of the Śālivāhana, son of Kāntīśvara, who was served by Kālidāsa. And other various *vīras* played (*khelitā*) upon the surface of this earth. By that play, they all obtained great *siddhi*.[^589_591]
+
+Someśvara III’s verse is subtle in its implications, but it seems to speak of at least two distinctive agents.[^589_592] On the one hand, there is the *Vīranātha* of the Śālivāhana age who has Kālidāsa in his service, who “showed” the revelry. This is clearly the quasi-mythical Vikramāditya of Ujjain, who features as the protagonist of two collections of *kathā* literature, namely, the *Vampire Tales* and the *Stories of the Thrones*. Here, he has been slightly reimagined from old style power-seeking *sādhaka* into an adept of the *yoginīkula*. On the other, there is the *mahāsahāsika*, best among the *vīras*, who merely enacted the rite. This one, who bears the form of Vikramāditya is none other than the Cāḷukya emperor, Vikramāditya VI, who, his own son has just told us, was an initiated Śākta adept committed enough to his practice have attained the exalted ritual authority necessary, as we shall see, to sport with the *yoginīs* themselves. To get a sense of what a commitment would have entailed, it is worth our time to examine in some
+
+[^589_591]: The text, as can be seen below throughout, is rather corrupt. Consulting the best manuscript, currently preserved at Baroda, to confirm readings will be absolutely necessary before publishing on this material. In the interim, building upon preliminary work done by Somadeva Vasudeva in the e-text he kindly shared with me in 2009, I present the un-emended text, offering readings drawn from both editions, with my own minor emendations. *Mānasollāsa: idānīṃ kathyate vīrakrīḍā dhīramanoharā // siddhikāryai[r] naraiḥ pūrvaṃ krīḍ[eyaṃ] prakaṭīkṛtā / tenāsau vīrapuruṣaiḥ kartavyā netarair nṛpaiḥ // vikramādityarūpeṇa mahāsāhasikena sā / kṛtā [śū]draka[vī]reṇa vīrāṇāṃ pravareṇa ca // darśitā vīranāthena śālivāhanabhūbhṛtā / kāntīśvarasutenāpi kālidāsena sevitā // anyaiś ca vividhai[r] vīrai[r khelit]ā pṛthivītale / siddhiṃ ca mahatīṃ prāptās te sarve krīḍayānayā //*
+[^589_592]: The damaged portion, not translated, may also speak of king Śūdraka as practicing this vow in the *kṛta* age.
+
+[[P590]]
+detail the revelry of the Śākta adept, whose “play” is an act of mimesis of the terrifying revelries of the great god Bhairava himself.
+
+The rite seems to be subdivided into two conceptually distinct parts. The first involves the attaining of various powers through summoning and subjugating various classes of predatory quasi demonic beings. The second involves congress with the *yoginīs*, culminating in making offering of flesh before the throne of the supreme goddess herself.
+
+> The sword, arrow, club, vessel, stick, clenched fist, canvas. Ointment, magical sandals, gem, *vetāla*, finger ring, and *rasa*. The ointment that allows one to see treasure (*nidhi*), coins, gambling die, and the power of speech. These are the eighteen *siddhis*; I will tell the characteristics of each of them in sequence.[^590_593]
+
+Just as it promises, the text then proceeds to outline the meaning of this rather eccentric list of magical powers. For our purposes, we need only treat a few as representatives. The *siddhi* of the arrow (*bāṇa*) makes it so that the arrows one fires, after hitting their target, are returned to the hand of the archer. The *siddhi* of the vessel (*pātrasiddhi*) makes it so whatever you wish for appears in you begging bowl.[^590_594] The *siddhi* of the fist (*muṣṭhisiddhi*), “which destroys the poverty of the world,” is essentially the touch of Midas. *Paṭasiddhi* makes you invisible; *khaṭi siddhi* makes whatever you write down come true; *pādukā* makes it so you can travel with your new pair of sandals to any country in an instant; *vetāla siddhi* gives you mastery over a *vetāla*, and *rasasiddhi* makes it so that the body overcomes old age and death, just as iron is converted into gold.[^590_595] In short, these are useful abilities with a range of military
+
+[^590_593]: *Mānasollāsa: khaḍgo bāṇo gadā pātraṃ yaṣṭir muṣṭiṣ [paṭaḥ khaṭiḥ] / añjan[aṃ] pāduke ra[tn]aṃ vetālo ’ṅgulikā rasaḥ // nidhi[r va]rāṭikākṣau vāg ity aṣṭādaśasiddhayaḥ / pratyekaṃ lakṣaṇaṃ tāsāṃ kathayāmi yathākramam //* Though closely aligned with the catalog we encountered already of powers achievable at Srisailam, this is a somewhat eccentric list of *siddhis*. For orienting oneself to the standard taxonomies of *siddhis* in the Śaiva literature, the reader is directed to Somadeva Vasudeva, “Powers and Identities: Yoga Powers and the Tantric Śaiva Traditions,” *Yoga Powers*, ed. Knut Jacobsen (Leiden: Brill, 2011), 265–302.
+[^590_594]: This is precisely the practice that Rāmānuja ascribes to the Kālamukhas in his *Śrībhāṣya*.
+[^590_595]: *Mānasollāsa: avimuktā vimuktā vā gadā yasya kare sthitā / varān hanti gajān nityaṃ gadāsiddhir iyaṃ smṛtā // yasya haste sthitaṃ pātraṃ vāñchitāni prayacchati / pātrasiddhiḥ samākhyātā sarvakāmaphalapradā // karastha[yā] spṛśe[d y]aṣṭ[yā] yatsaṅkalp[ya]puraḥsthitam / tat tad eva bhavaty āśu sā siddhir yaṣṭisaṃjñitā // yat*
+
+[[P591]]
+and practical applications and it is easy to see why even an already powerful ruler would desire to obtain such capacities. Any temptation most of us might have to write away for the relevant correspondence course, however, is unlikely to survive the application process that the text continues on to outline.
+
+> Therefore, it is to be enacted by a *vīra* who has the conduct of a real tiger, the steadfast one who is pure and true, who knows weapons and the *mantras*.
+>
+> When half of the watch of the night is gone, in a city devoid of people walking about, with the assistance of sword and armor, he may go about unseen by anyone. He recollects the lord Narahari, the slayer of obstacles without remainder. Having meditated on Śiva, whose nature is pacification, the King, having meditated on the Lord of the *bhūtas*, having borne Caṇḍikā, the destroyer of all enemies, in his heart, he praises Vināyaka, the lord who destroys all obstacles. The king, having gone out from the house, attentively, should go quietly to a run-down temple. . . or a crossroads. He goes to a wide banyan tree or pipal tree that is very spread out, or likewise to the bank of lotus pond, [or] also to ancient groves, [or], his inner heart emboldened, to the middle of a river. [He will then see the]:
+>
+> *Piśācas, guhyakas, yakṣas, vetālas*, great *gaṇas, rākṣasas*, great flesh eaters, *pretas*, and the fathers who live in the forest, the ones with flaming mouths, with great bodies. . . . The ones who are bald, flaming, crooked, long, short, ones with a big roar, ones made of skin and bones, poor, ones with great mouths, very terrifying long teeth, fierce faced, big tongues, big bellies. Some with three feet, some have one foot, some bear long heads. Some have eyes that are hollow holes, Others are ones whose eyes have been removed, or are licking very intensely.[^591_596]
+
+[^591_596]: *kiñcin muṣṭinādatte vastu tat kāñcanaṃ bhavet / muṣṭhisiddhiḥ samuddiṣṭā jagad[d]āridryanāśin[ī] // avaguṇṭhamātreṇa yenādṛṣṭo naro bhavet / paṭasiddhiḥ samud[diṣṭā] janānāṃ dṛṣ[ṭ]ivañcan[ī] // prāṇī vā yadi vāprāṇī yat kiñcil likhyate kṣitau / tādṛśaṃ tad bhavaty āśu khaṭisiddhir iyaṃ bhavet // añjanāñcitanetras tu ya[thā] ba[ddhaṃ vi]paśyati / jalastham api ta[t] samyag a[nayā‘ñja]nasiddhitaḥ // pādasthapāduk[o] deśam abhīṣṭaṃ yāti tatkṣaṇāt / pādukāsiddhir ity eṣā sarvadeśāptikāraṇam // garagrahāgniśastrebhyo mṛtyur eva na jāyate / maṇidhāraṇam[ā]treṇa maṇisiddhir iyaṃ matā // dāsavat kurute karma vetālo yasya nityaśaḥ / yena kṛtvā hy adṛśyaḥ syāt siddhir vetālajā hi sā // va[ktra]sthāṅgulikā yasya [valīp]alitavarjit[aḥ] / abhedyas tu bhavaty as[t]raiḥ siddhiḥ sāṅgulikābhidhā // kāñcanīkurute lohaṃ deham apy ajarāmaram / īdṛśo ‘sti raso yasya rasasiddhir yato hi sā // kṣitimadhyagataṃ dravyaṃ paśyatyāpnoti niścitam / nidhisiddhi[r b]udhaiḥ proktā dharmakāmārthasādhanī // dyūte nityaṃ jay[o ya]sya tasya siddhir varāṭikā / iyaṃ varāṭikāsiddhiḥ paradravyāpahāriṇī // cintit[aṃ] yācitaṃ dāyaṃ yasya yacchati pāśakaḥ akṣasiddhir iyaṃ khyātā dyūte lābhakarī nṛṇām // śucir bhūtvā naro yas tu citte saṅkalya bhāṣate / niścitaṃ tadbhavaty eṣā v[ā]ksiddhir abhidhīyate // Mānasollāsa: tasmād iyaṃ pravīreṇa sattvaśārdūlaśālinā / śastramantravi[d]ā kāryā dhīreṇa śucinā satā // sārdhayāme gate rātreḥ pure sañcāravarjite / kenāp[ya]lakṣit[o] gacchet khaḍgacarmasahāyavān // smaran narahariṃ devaṃ niḥśeṣagrahaghātakam / śivaṃ śivakaraṃ dhyātvā bhūtānām adhipaṃ nṛpaḥ // caṇḍikāṃ hṛdaye [dhṛ]tvā sarvaśa[tru]vināśinī[m] / stuvan vināyakaṃ devaṃ sa[r]vavighnavināśanam // nirgatya bhavanād bhū[paḥ] sāvadhānā[no] vrajec chanaiḥ / catvaraṃ tripathaṃ vāpi tathā j[īrṇaṃ] surālayam // viśālaṃ vaṭavṛkṣaṃ ca pippalaṃ ca suvistṛtam / tathā puṣkariṇītīraṃ purāṇopavanāny api // saritaś ca pragalbhānt[o] madhye gacchen mahāmanā[ḥ] // piśācān guhyakān yakṣ[ā]n vetāladyān mahāgaṇān / rākṣasān piśitāhārān pretān pitṝn [v]anasthitān // jvālāmukhān mahākāyān. . . . muṇḍitā[ñ] jvalitān vakrān dīrghān hrasvān mahāsvanān // asthicarmamayān dīnān mahāvak[t]rān bhayaṅkarān / dīrghadaṃṣṭrān karālāsyān mahājihvān mahodarān // tripādān [e]kapādāṃś ca tathā dīrghaśirodharān / gartākṣān nirgatākṣāṃś ca lelihānāṃ ca /*
+
+[[P592]]
+The reason why our text is tediously emphatic that only a professional Śākta adept with a focused mind who is certain in his courage should undertake such efforts is that, as any number of Tantras or, for that matter, experience with wild predators, make evident, the slightest hesitation and these terrible things, the appearance of whom is enough to drive lesser folks crazy, were believed to tear you bits. In his preparatory practices, the king has ritually identified himself in sequence with Narasiṃha, with Śiva, quite specifically in the form of the master of spirits, with goddess Caṇḍikā and finally with the lord of the *gaṇas*. In other words, he has done his best to establish himself as ritually non-different from the various sorts of higher order authorities that these types of beings view as their masters. As the text makes plain, this initial show of dominance is the only way the adept can begin the process of binding these things to his will.
+
+> Having seen these various sorts of deformed things, by means of giving food, the virile one endowed with delight[^592_597] should incite the desire of these meat eaters afflicted by hunger. The king should threaten those ones with terrible forms, and should assuage those who are afflicted. Some *vetālas*, when assailed by [his] valor, will go to servitude. Some other beings will become his servants when appeased by flesh offerings. Others, likewise, when pacified, will become his servants out of gratitude.
+>
+> Such is the virility (*śaurya*) and heroism (*sāhasa*) of the king and his gallant power.[^592_598]
+
+This is a difficult passage and much about it remains obscure. The gist of the matter, however, seems to be that the demonic denizens of the night, the literal *niśacāras*, can be won
+
+[^592_597]: Both editions here read *mudānvita*, “possessing delight” a term that is repeated several times. Without consulting the manuscripts, it is impossible to be certain, but emending to *mudrānvita*, “endowed with the *mudrā*,” would yield much better sense and confirm more closely to the proscriptive discussions of such encounters in the Tantras.
+[^592_598]: *Mānasollāsa: idṛgvidhān virūpāṃs tān dṛṣṭvā vīro mudānvitaḥ / lobhayetānnadānena kṣudhārtān piśitāśinaḥ // tarjayan bhīṣaṇākārān dīnān āśvāsayen nṛpaḥ / kecid[dā]satvam āyānti vetālāḥ śauryapīḍitāḥ // kecit kiṅkaratāṃ yātās tatra māṃsena tarpitāḥ / āśvāsitās tathā yānti kṛta[jña]tvena bhṛtyatā[m] // īdṛśaṃ nṛpateḥ śauryaṃ sāhasaṃ balam ūrjitam /*
+
+[[P593]]
+to one’s service through a display of courage and feeding them meat. Depending on the species at hand, as our text helpfully point out, however, the proper tactics one ought to deploy differ, especially in regard to how much of a display of violent force is necessary before getting one’s way. *Vetālas*, it seems, are particularly stubborn in this regard and demand a good initial whacking if you wish to win their assistance. Once their spirits are broken, different types of spirits make more or less agreeable slaves. Some genuinely attend to your needs and serve your interests. Others merely submit to carrying out specific commands. In any case, once you have filled the ranks of your otherworldly staff for cremation ground practices, it becomes possible to move on to the highest kind of practice, what the Śākta Tantras call the *melana*:
+
+> [He then sees] them, abiding on the outskirts of the groves of the ancestors, assembled for the sake of forest revelry. . . .
+>
+> Many *yoginīs* have arisen: those born not born from a womb and those born from the field, *yoginīs* arising spontaneously, ones arisen from *samaya*, the secret ones, and the manifest ones.
+>
+> The first *pīṭha* is Jālandhara, the second is Kāmarūpa, the third one is Uḍḍiyāṇa, the fourth one is Ujjayanī. The main field is Kolhapur. There is Karahāṭa, Virāṭa, Pūrṇagiri, Śrīgiri, and Mukoṭaka,[^593_599] Śambhuśikhara, the Vindhyas and Citrakūṭa, and Nihāsaka, Ekāmraka, and Tibet, and Prāyaga, the Malaya [mountains], and Yelārapura. The *kṣetras* are of these various sorts. And *yoginīs* have arisen there that were not born from a womb or were born from a *pīṭha*.
+>
+> The *yoginīs* born in a field are known as those “born from a field.” The *yoginīs* endowed with various sorts of powers by practices in other births, who take various forms in whichever other lifetimes, are known of as *sahajā*. The *yoginīs* [have come forth from the *samaya*] because of *samaya* conduct and *samaya dīkṣā*.
+>
+> There are two types that have come forth from the *samaya*: born from the *pīṭha* and born from the field. They are twofold, on the basis of the division between secret and manifest. Wives, slaves, prostitutes, widows, and ascetics: they are not marked by their own actions, these ones are secret, and known to be fivefold.
+>
+> Those *yoginīs* are known to be manifest that are *yogamāṭrs, ḍākinis, pūtanās, śākinīs*, and *rūpikās*. Having made their power manifest, they go about everywhere. *Revatīs*,
+
+[^593_599]: This whole passage has particularly serious textual problems and the manuscript needs to be consulted.
+
+[[P594]]
+> *śuṣkarevatīs*, the ones adorned with fierce horse heads—they are installed all around at the end of the Devī’s lion throne.
+>
+> The ones who are concealed *yoginīs* reveal their own form. They have a non- anthropomorphic form, adorned by gold and beauty. They are abounding in similarity to non-anthropomorphic beings. Sprinkled with pure water, they are seated on a divine throne, resplendent with a yak tail fan and umbrella.[^594_600]
+
+From our perspective, Someśvara’s byzantine speciation of the types of *yoginīs* can be distilled down to the following observation.[^594_601] The category of *yoginīs* is comprised out of
+
+[^594_600]: *Mānasollāsa: dṛṣṭvā pitṛvanāntasthā vanyakrīḍārtham āgatāḥ // yoginyo ’pi samāyāt[ḥ] [śa]vārādhanatatparāḥ / yoginyas tatra bahudhā [‘yonijāḥ kṣetra]sambhavāḥ // sahajāḥ samayodbhūtā guptāś ca prakaṭā api / e[k]aṃ jāl[a]ndharaṃ pīṭhaṃ dvitīyaṃ kāmarūpakam // uḍḍiyāṇaṃ tṛtīyaṃ syāt turyam ujjayanī smṛtam / kṣetraṃ kolhāpuraṃ mukhyaṃ karahā[ṭe] ca vistṛtam // virāṭa[pūḥ pū]rṇagiri[ḥ] śrīgiriś ca [mu]koṭakam / [ś]ambh[u]śikharaka[ṃ] vi[ndhyaṃ] [citrakū]ṭaṃ nihāsakam // ekāmrakaṃ mahā[cīnaṃ] prayāgaṃ malayas tathā / [ye]lārapura[pa]llī ca kṣetrāṇy evaṃvidhāny api // tatra jātās tu yoginy[o ‘yonijāḥ pīṭhajāḥ smṛtāḥ] / [kṣetre] jātās tu yoginyaḥ [kṣetrajāḥ parikīrtitāḥ] / anya[janma]kṛtābhyāsā[d ya]tra kutrāpi janmani // nānāprabh[ā]vasa[m]pannā yoginyaḥ sahajā matāḥ / yoginyaḥ samayācārā[t ta)thā samayadīkṣayā // dvividhāḥ samayodbhūtā yoginyaḥ parikīrtitāḥ / pīṭhajā[ḥ] kṣetrajā vāpi sahajā[ḥ] s[a]mayodbhavā[ḥ] // guptaprakaṭabhedena dvividhās tā nirupitāḥ / bhāry[ā] dāsī ca veśyā ca vidhavā ca tapasvinī // svakarmabhir alakṣyās tā guptāḥ pañcavidhāḥ smṛtāḥ / prabhāvaṃ prakaṭīkṛtya sañcaranti samantataḥ // prakaṭās tās tu vijñeyā yoginyo yogamātaraḥ / ḍākinyaḥ pūtanāś caiva śākinyo rūpikās tathā // revatyo śuṣkarevatyo bhīmāśvamukhamaṇḍitāḥ / devīsiṃhāsanopānte niviṣṭās tāḥ samantataḥ // darśayanti nijaṃ rūpaṃ devatā yoginīvṛtā[ḥ] / tāsām amānuṣaṃ rūpaṃ kānt[a]kāñcanabhūṣitam // amānuṣyatulāḍhyaṃ tu virajombaravījitam / divyasiṃhāsanāsīnaṃ chatracāmaraśobhitam //*
+[^594_601]: Since the publication of White’s seminal *Kiss of the Yoginī* in 2003, which remains the most convincing treatment of the sociality of Śākta Tantra in relation to the medieval state, Tantric Studies has seen an efflorescence of both philological and contextual studies on *yoginī* traditions, much of its drawing upon previously unavailable textual evidence from manuscripts preserved in Nepal. David Gordon White, *Kiss of the Yoginī: “Tantric Sex” in its South Asian Contexts* (Chicago: University of Chicago Press, 2003). Based on her work on the *Jayadrathayāmala*, Olga Serbaeva has composed several short pieces. Olga Serbaeva Saraogi, “Can Encounters with Yoginīs in the *Jayadrathayāmala* be Described as Possession?” in *‘Yoginī’ in South Asia: Interdisciplinary Approaches*, ed. István Keul (New York: Routledge, 2013), 198– 212; Olga Serbaeva Saraogi, “Yoga from Yoginīs’ Point of View,” *The Journal of Hindu Studies* 8 (2015): 245–262; and especially, Olga Serbaeva, “The Varieties of *Melaka* in the *Jayadrathayāmala*: Some Reflections on the Terms *Haṭha* and *Priya*,” in *Goddess Traditions in Tantric Hinduism: History, Practice and Doctrine*, ed. Bjarne Wernicke Olesen (New York: Routledge, 2016), 51–73. Serbaeva’s dissertation treats the taxonomies of *kṣetrajā, sahajā, yonijā, kulajā* and so forth, following *Tantrasadbhāva* chapter 16, portions of which she translates. Especially important for our analysis are pg. 116–127, which build directly upon the conceptual models and evidence presented in *Kiss of the Yogini*, especially regarding the evidence from the *Kaulajñānanirṇaya*. Olga Serbaeva, *Yoginīs in Śaiva Purāṇas and Tantras: Their Role in Transformative Experiences in a Historical and Comparative Perspective* (PhD diss., University of Lausanne, 2006).
+
+    Of the series of publications produced by Shaman Hatley on related matters, the most relevant for our purposes remains the chapter on *yoginīs* in the dissertation, Shaman Hatley, *The Brahmayāmalatantra and the Early Śaiva Cult of Yoginīs* (PhD diss., University of Pennsylvania, 2007), especially pg. 153–162, as well as Shaman Hatley, “Sisters and Consorts: Representations of Women in the *Brahmayāmala*,” in *Tantric Communities in Context*, ed. Nina Mirnig, Marion Rastelli, and Vincent Eltschinger (Vienna: Australian Academy of Sciences, 2019), 49–82. This nicely complements Judit Törzsök, “Women in Early Śākta Tantras: *Dūtī, Yoginī* and *Sādhakī*,” *Cracow Indological Studies* 16 (2014): 339–367, offering the most carefully argued discussion in our literature of how early Śākta communities concretely empowered women
+
+[[P595]]
+what to us seem like three distinct types of entities. First, there are things that are obviously *yoginīs*, namely, entities belonging to classes of supernatural beings of a rather menacing nature who come into existence under a range of circumstances. Second, there are human women, who acquire this status either from birth or through the process of initiation. The social role of these “hidden *yoginīs*” could be that of a wife, a slave, a prostitute, a widow, or an ascetic. Finally, and most surprisingly, there are inanimate objects, such as the *pātra* vessels into which goddesses are frequently found invoked worshipped in lieu of images even in the modern Deccan. In a somewhat impressionistic way, the sum toto of this canon of entities is associated with a composite sacred landscape in which the standard set of *pīṭhas* is emended so as to incorporate distinctively Deccani sites.[^595_602] In place of the more intricate cosmic hierarchies and (female authority) pecking orders one often encounters in the Tantras, here, the relative priority and authority of the different types of *yoginīs*, be they monster, women, or water pot, seems immaterial, for all of them are to be addressed collectivity in the very same way:
+
+> The king, being not agitated, having seen that marvelous divine form, seated on the lion throne, should propitiate the goddesses with blood and flesh. Having bowed with *bhakti*, without fear, he should worship with *mantras*. Then, the goddesses, being pleased by his heroism, bestow *siddhis*. That lotus-eyed [king] takes up all of the *siddhis* that were highly desired. Thus, having obtained the *siddhis*, the king should go to his own temple.
+>
+> In the morning, showing the people his attainment of *siddhi*, he is delighted.[^596_603] Thus is described the terrifying *vīra* revelry, which causes happiness to arise.[^596_604]
+
+Given what we have seen thus far, that the king should conclude a successful evening of phantasmagorical revelry by retiring to the ritual center attached to his own home, presumably to ritually and emotionally decompress from his harrowing affair, is perhaps unsurprising. After all, liturgically speaking, the liminal terrain through which he just traversed and the types of imagined spaces that would have been invoked and projected into the ritual space are not terribly different. Someśvara’s concluding remark, in contrast, should give us pause, for with it he suggests that there was some measure for the public acknowledgement and even adulation of what we have always been inclined to conceive of as among the most clandestine and highly transgressive of esoteric rituals. It is to this strange dynamic of hiding a secret in plain sight, of mustering a tacit acknowledgement on the part of a wider public unconcerned with delving into the details, to which we will next turn our attention.
+
+[^595_602]: Note that Pūrṇagiri has been removed from its typical place in the set of core *pīṭhas* and grouped among other places in the greater Deccan. In its usual spot, it has been replaced by Ujjayini, which in this orthographical variation often refers not to the famous site of the Mahākāla temple in Madhya Pradesh but instead to a center in central Karnataka that at this period seems to have been controlled by Kāpālikas. More self-evidently Deccani sites include Kolhapur, Citrakūṭa (in Maharashtra), Śambhuśekhara (likely Śambhuśṛṅgi in eastern Maharashtra) and Ellurapura (which is beyond question modern Ellora). As we have seen before, the precise location of the Malaya Mountain, an important node in these networks, currently eludes identification. Many of the remaining readings are questionable; the characterization of Citrakūṭa as “the place where no one laughs” seems particularly dubious and probably another toponym should be supplied. Virāṭapura is likely Mayurbhanj in Orissa, located close to Ekāmraka.
+[^596_603]: Or emend to *mudrānvita*, displaying *mudrā*.
+[^596_604]: *Mānasollāsa: akṣo[bhyo] [v]īkṣya bhūpālo divyaṃ rūpaṃ ta[da]dbhutam / piśitaṃ rudhiraṃ bhūri devīnāṃ parikalpayet // bhaktyā praṇamya nirbhītas tato mantraiḥ prapūjayet / vitaranti tato devyaḥ siddh[ī]ḥ [ś]auryeṇa toṣitā[ḥ] // siddh[īr] abhīpsitāḥ sarvā [gṛhnātyutpa]laloca[no] / evaṃ siddh[ī]ḥ samāsādya nṛpo yāyāt svamandiram // janānāṃ darśayan prātaḥ siddhilābhaṃ mudānvitaḥ / ity evaṃ kathitā bhīmā vīrakrīḍā sukhodayā //*
+
+[[P597]]
+The king as Tantric adept, with a Śūdra lineage and Kālamukha guru, the ultimate source of authority.
+
