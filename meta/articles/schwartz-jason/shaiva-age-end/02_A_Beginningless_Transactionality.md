@@ -1,0 +1,794 @@
++++
+title = "02: A Beginningless Transactionality"
++++
+Chapter 2: A Beginningless Transactionality: Recovering the Quotidian Institutional Realities of the Early Medieval 
+A Beginningless Transactionality 
+Sampūrī was ten years old (daśavarṣīyā saṃpūrīnāmnī) when first the soldiers and then the 
+famine came, and her family was forced to flee their village.266 In that trying time, her husband, 
+her in-laws, even her own parents, were reduced to begging for their survival. Seeking to spare 
+the family one more mouth to feed, Sampūrī slipped away and set out on the road on her own.267 
+From village to village, door to door, at each home she begged for a single mouthful of food, 
+but her hunger only grew. She could not fill her belly (udarapuraṇāprāpti) and so her young 
+266C. D. Dalal and Gajanan Kushaba Shrigondekar, ed. Lekhapaddhati (Baroda: Central Library, 1925). Lekhapaddhati, 45–47: svayamāgatadāsīpatravidhiḥ— saṃ 1288 vaiśākhaśudi 15 some yathāpūrvalikhitarājāvalīpūrvaṃ svayamāgatadāsīpatram abhilikhyate yathā / yat pūrvadigbhavamahītaṭadeśād āgatā siranāragrāmīyā rājaputrī jagaḍasutā daśavarṣīyā saṃpūrīnāmnī durbhikṣavaśād atha mlecchaiḥ vyāpāditā rāṣṭralūṣitanikhilānteṣu visaṃṣṭhulanāgārikalokena samastakuṭumbena parityaktā mātrā pitrā bhrātrā bhrātṛputrapitṛvyakaprabhṛtipitṛgṛhakuṭumbena yathā śvaśrūśvaśurapatijyeṣṭhadevaraprabhṛtiśvaśuravargenāpi na vāritā ubhayor api pitṛvargaśvaśuravargayoḥ kuṭumbaṃ durbhikṣavaśāt bhikṣāṭanam kurvāṇam parijñāya ekākinī adhomukhaṃ nītvā nisṛtā / pratigrāmaṃ pratigṛhaṃ kavalānnaṃ yācamānā, tadanu tasyāpi udarapuraṇāprāptivaśād atyantakṛśā malinagātrā jīrṇavastrakhaṇḍāvṛtā, devagṛhamaṭhaprapāsatrākārādisthāneṣu nivāsinī, ghṛṣṭamūrddhakā samastadiśo kāndiśīkavad vilokayantī, kṣutipipāsādinā anyathā ity evaṃ vicintayantī satī yad ahaṃ kiṃ karomi, kva gacchāmi, kva tiṣṭhāmi, ko me anāthāyāḥ svāmī bhaviṣyatīti, kevalaṃ mṛtyutulām āpannā, deva! anāthāhaṃ pratigṛham iti vadantī ko ’pi dāsīṃ rahāpayatīti bhāṣamāṇā vidhivaśād itthaṃ paribhramamāṇā satī amukavarṣamāsatithau amukagrāmavāstavyavāni cāhaḍapādyor lagitvā hastau ca saṃyojya svayam āgatyātmānaṃ dāsīkarmaṇi niyojitavatī tvaṃ māṃ kālāpadiṣṭadurbhikṣāt trāhi / ahaṃ yuṣmad- ādeśenāmaraṇāntaṃ yāvad dāsīkarmaṇi yuktā satī khaṇḍanapeṣaṇasammārjanapānīyānayanagomayānu- lepanamūtrapurīṣotsarjanasamastagṛhakarmabāhyakarmakṛṣikarmakṣetrakhalakādisarvakarma sotsāhā satī varṣāśītoṣṇakālatraye ’pi divārātrau ālasyarahitā niruttarā sarvaṃ dāsīkarma yuṣmādeśitaṃ [sic] kariṣye / bhavadbhiḥ svaśaktyā mama kevalaṃ bhojanācchādanopānahādi dātavyam / adhikaṃ kiṃ yāciṣye / iti nagaracatuṣpathe samagracāturvarṇyalokaviditaṃ vāṇi cāhaḍena tasyāḥ kathitaṃ mānayitvā sā dāsīkarmaviṣaye rahāpitā / tayā punar api tadā vāṇi cāhaḍapurato nijapratītidānāya īdṛśī śrāvaṇā sarvanagarapratyakṣaṃ vihitā / yad aham āmaraṇāntaṃ yuṣmadāvāse ‘thānyatrāpi dāsīkarma kurvāṇā caurikāṃ karomi, gṛhamadhye patitam atha śūnyaṃ dṛṣṭaṃ vastu grhnāmi, atha subhikṣe sañjāte palāyanaṃ kṛtvā anyatra kvāpi vrajāmi, atha yauvane kenāpi vipratāritā pralobhitā satī nirgatya vrajāmi, atha kūṭakapaṭavaṃcanadrohādikaṃ yuṣmadvairiṇā saha militvā karomi kārāpayāmi, tato ’ham asya likhitapatrasya pramāṇena keśeṣv ākṛṣya bandhanatāḍanādikaṃ ca kṛtvā punar api dāsīkarmaṇi niyojanīyā / aham aharniśaṃ sarvakālaṃ samastayuṣmatkuṭumbasyādeśaṃ kariṣye / atha kadāpi paripūrṇā satī kuṭilabuddhyā sarvaṃ samādiṣṭaṃ dāsīkarma na karomi tato bhavadbhiḥ pādaprahārair yaṣṭiprahāraiś ca yadṛcchayā vyāpādyamānā mriye / tato mama nijaḥ svāmī anāgata eva nirdoṣaḥ kṛto ’sti / cāturvarṇyalokaiḥ sarvair avadhāraṇīyaṃ yad ahaṃ svakarmavaśād daivahatā mṛtāsmi / matsvāminaḥ putrapautrakalatrādiparivārasahitasya gaṅgāsnānam / atha kadāpy udarabādhāṃ karomi, kūpaṭaḍāgaviṣa- bhakṣaṇādinā mriye, tato’pi mayā pañcamukhanagaraviditaṃ nijasvāmī nirdoṣa eva vihito ’sti / ahaṃ kṛtapūrvakarmavipākena daivahatā mṛtā / matprabhoḥ saparivārasya gaṅgāsnānam eva / ihārthe pañcamukhanagaraviditam āmaraṇāntaṃ dāsīkarmaṇi rahaṇāya amukāmukādhivāsabrāhmaṇapañcakula- mahājanaviditaṃ sāthīyāsābhijñānasahitaṃ svahastena pradattamatam / pañca sākṣiṇaś ca / 267Lekhapaddhati, 45: kuṭumbaṃ durbhikṣavaśāt bhikṣāṭanam kurvāṇam parijñāya ekākinī adhomukhaṃ nītvā nisṛtā / 
+307body became severely emaciated (atyantakṛśā). Her clothes become soiled, torn, and ragged 
+(malinagātrā jīrṇavastrakhaṇḍāvṛtā). She spent her nights in the half-way houses of 
+monasteries, seeking shelter in temples and in the canopied structures along the roadside that 
+housed great vessels filled with clean water for quenching the thirst of passing travelers 
+(devagṛhamaṭhaprapāsatrākārādisthāneṣu nivāsinī). Reflecting on her anxious fearful state, some 
+time later, Sampūrī recollected “What am I to do? Where am I to go? Where shall I stay? Who 
+will be the master of an orphan like me, who obtains refuge only in death (yad ahaṃ kiṃ 
+karomi, kva gacchāmi, kva tiṣṭhāmi, ko me anāthāyāḥ svāmī bhaviṣyatīti, kevalaṃ mṛtyutulām 
+āpannā)?” And so, she tells us, amidst her begging, she took to going door to door beseeching 
+the master and mistress of the house with a heart breaking message: “O respected sir, I am an 
+orphan. Will you take me as your slave?” (deva! anāthāṃ pratigṛham iti vadantī ko ’pi 
+dāsīṃ rahāpayatīti bhāṣamāṇā) Time and again, people refused. And then one day, when all 
+hope seemed lost, Sampūrī fell at the feet of a certain merchant named Cāhaḍa. Her offer was 
+accepted with enthusiasm and the bill of sale classified as “A binding document regarding a 
+willing woman selling herself into slavery,” in which this sad account is preserved, was issued. 
+The document, we are told, was drawn up on the spot. Before a council of Brāhmaṇas 
+and the mahājanas and in the presence of the whole town, comprised of all four varṇas, it was 
+publicly recognized as binding. So that she would not starve to death, Sampūrī gave away her 
+freedom. The terms of the agreement are, from a modern perspective, thoroughly awful. 
+Sampūrī commits to carrying out the orders of all members of the family for the rest of her life. 
+If, out of her own self-satisfaction, she refuses, she grants them the right “by the authority of 
+this document” (likhitapatrapramāṇena) to, “having taken ahold of her by the hair (keśeṣv 
+ākṛṣya),” “bind her, beat her and so forth” (bandhanatāḍanādikaṃ), while at the same time 
+308 
+absolving her master of any guilt or fault. His status is to remain as pure if he had just bathed 
+in the Gaṅgā. The same holds true if she commits suicide or perishes in some similar manner 
+while in his service. She is not to steal, to run off with some man, to associate with rivals of 
+the family, or to abandon her work and resume the life of a beggar. Throughout her life she is 
+to perform the duties of cutting, grinding, sweeping, fetching drinking water, smearing the 
+floor with cow dung, which is to say, approximately the normal duties of a wife.268 At the same 
+time, she is also held responsible for disposing of human feces and urine, as well as tilling the 
+fields, planting the crops, through rain winter and summer, day and night. And all of this is to 
+be done without ever talking back to her betters. In exchange, the master’s only responsibility 
+is to house his new slave and provide her clothes, food, and shoes, insomuch as he is able due 
+to circumstance.269 
+If the Svayamāgatadāsīpatravidhi reads as a testament to the appalling conditions to 
+which women and especially children have been consigned throughout the history of human 
+civilization, across cultures and in almost every time period, it also makes a powerful statement 
+about how impoverished our understanding is of the full scope and character of premodern 
+Sanskrit textuality. Just as our learned interlocutors in the previous chapter sometimes 
+grudgingly admitted, beyond learned discourse there was a whole other world governed by the 
+norms of a “beginningless transactionality” in which one had to rely on the non-veridical 
+verification of claims founded on concrete but transitory materials in the possession of social 
+institutions. While a historically sensitive thinker working on virtually any other part of the 
+world with textual traditions might view such dynamics as merely a matter of common sense, 
+268The full list of both sorts of duties run as follows. Lekhapaddhati, 46: khaṇḍanapeṣaṇasammārjana- pānīyānayanagomayānulepanamūtrapurīṣotsarjanasamastagṛhakarmabāhyakarmakṛṣikarmakṣetrakhalakādi- sarvakarma / 269Lekhapaddhati, 46: bhavadbhiḥ svaśaktyā mama kevalaṃ bhojanācchādanopānahādi dātavyam / adhikaṃ kiṃ yāciṣye / 
+309 
+in the context of our own discipline’s almost complete elision of this state of affairs in offering 
+its reconstructions of social and religious life, such a quotidian corrective is essential. 
+Succinctly, if we have any chance of doing responsible social religious history, free from our 
+own presuppositions, using resources that are neither anachronistic nor imported, we need to 
+begin to reflect about just what sort of activities were part and parcel of institutional life in 
+premodern India. For, despite what we have been taught, Sanskrit seems to have very much 
+been a part of this world. Indeed, as we shall soon see, there is a wealth of evidence that 
+documents in Sanskrit reached into and touched the lives of all sorts of people who would 
+never even have heard of the Śabarabhāṣya. As this chapter aims to make plain, recovering 
+both the discursive and juridical conventions governing their composition as well as locating 
+the institutional sites wherein their production took place offers us powerful conceptual 
+resources for making sense of the often-unexpected lived realities of premodern Indic life. As 
+we shall see, such an approach is particularly indispensable in terms of the new and surprising 
+light it will shed on how we should think about the social history of “medieval” religious 
+communities, the role of their leaders, the duties of the religious practitioner, and the intricate 
+relationships these agents had to external disciplinary authorities, such as the state—topics that 
+will prove essential to our explorations in subsequent chapters. 
+The first step on this journey is to set aside our notions of texts primarily being bearers 
+of lofty abstract messages, voices that call out and respond to each other in intricate discursive 
+exchanges across vast geographical and chronological distances down through the ages. 
+Instead, let us think of them for a moment as discrete material objects. Like a fork or a hammer, 
+they serve a specific and delimited set of functions and are useful only under select 
+circumstances. Their guiding intentionality is mostly determined by genre, with but little room 
+310 
+given for “individual expression.” In essence, these documents serve the purpose of taking 
+lived human experiences and make them legible, evaluateable, and repeatedly accessible to 
+disciplinary institutions. Much of this work is accomplished through routinization. 
+Our bill of self-sale, in this regard, is a perfect example. When we compare it to the 
+several other surviving examples of deeds of sale for a slave, the first thing that becomes 
+evident is just how much of the document follows a prefabricated template. We can determine 
+this because the collection that contains Sampūrī’s story incorporates three others bills of sale 
+related to slaves. Two of these represent actual bills of sale. The remainder offer templates for 
+producing a bill of sale, shorn of many specifics. Of the three dated documents, though some 
+of them tell us they were crafted in Maharashtra while others were produced in what is now 
+Gujarat where this compendium was produced; all of them were penned over a period of ten 
+years, between 1230–1240 CE. Indeed, the criteria governing selection seems to be that 
+someone grabbed whatever documents were on hand, which is probably why many of the same 
+buyers and sellers, including the merchant Cāhaḍa who purchased Sampūrī, surface throughout 
+the collection engaging in a range of types of transactions. 
+The first two texts, one actual bill of sale and one composite template produced from a 
+different real text, document the ownership of slaves seized during wartime by a Rāṇa or 
+Rāṇaka. In the first case, while he was invading another country (pararāṣṭropari), Rāṇa 
+Śrīpratāpasiṃha brought under his control (ānītā) a sixteen-year-old slave (dāsī), fair in color 
+(gauravarṇā). In the second, while he was invading Maharashtra (mahārāṣṭropari), 
+Śrīvīradhavaladeva brought under his control (ānītā) a sixteen-year-old slave (dāsī), fair in 
+color (gauravarṇā), though in this case the unnamed slave is also said to have all the auspicious 
+characteristics (sulakṣaṇā) and to be beautiful. In both texts we are next told that the slave was 
+311 
+then sold. In the first, we have a discussion of the venue where the sale took place, the 
+crossroads, while in the second, where the sale seems to serve as collateral that works towards 
+resolving an ongoing debt dispute, we get the price her sale fetched. As we have seen with 
+Sampūrī’s text, most of the remainder of both documents outlines the core duties the slave is 
+expected to perform the restrictions on her independence, the minimal responsibilities of her 
+owner, and the punishment for transgressions. A formal analytical comparison of the two 
+documents is most constructive. Direct parallels have been bolded while some obvious 
+parallels that have been syntactically reworked across the four documents have been italicized. 
+Here is the first document: 
+pañcamukhanagaraviditaṃ catuṣpathe rahāpya vikrītā / vyavahāraka āsadhareṇa dāsīkarmakaraṇāya rāṇāśrīpratāpasiṃhasya vīlasapriyadraṃ 604 caturadhikapañcaśatāni drammān datvā panutī nāma dāsī samastanagarādhivāsacāturvarṇyalokānāṃ viditaṃ mūlyena gṛhītā / ataḥ paramanayā dāsyā vyavahāragṛhe khaṇḍaṇa-peṣagṛhalimpanasammārja- nendhanānayanapānīyodvahanādikaṃ mūtrapurīṣotsargādikaṃ mahiṣīgoāja- dohanādikaṃ dadhiviloḍanaṃ tathā kṣetrakhalake tatrānayanaṃ cāri ānayanādikaṃ nindanakartanādikaṃ kṣetrakarma anyad api gṛhakarma sarvam akuṭilabuddhyā karaṇīyam / itthaṃ pravartamānāyā dāsyā vyavahāradeśakālānurūpaṃ vibhavānumānena bhojanācchādanādikaṃ sarvam aprārthitaṃ dātavyam / tathāsyā dāsyā vyavahārakagṛhe karma kurtvatyāḥ tasyāḥ pitā bhrātā bhartā vā dhanikatvaṃ vidhāya karmavighātaṃ kārayati tadā vyvahārakeṇa bandhatāḍanādighātair nirdayaṃ tāḍayitvā punar api samagrapatra- likhitadāsīkarmaṇi niyojanīyā / dāsīyaṃ yadi kadā ’pi tādyamānā kūpakapatanādi ātmaghātaṃ kurute, tadā gardabhī śunī cāṇḍālī bhūtvā sā dāsī mriyate / vyavahārakasya gaṅgāsnānam / asyoparilikhitavidheḥ pālanāya nirvahaṇāya dāvāpitarakṣapālāḥ tathā nagarādhivāsinaḥ sākṣiṇaś ca /270 
+Here is the second: 
+dāsyā svabhāvavinayanamrayā vyvahāragṛhe khaṇḍanapeṣaṇasammārjjana- randhanasamālepanādi anyad api kṣetrakhalakādikaṃ ca sarvam api karam / anyatra vikrīṇāti dharmeṇa vā dadāti tatra sarvam apy akuṭilabuddhyā kartavyam / yadi vyavahāragṛhe cauryādikaṃ kim apy anyāyaṃ karoti tadā asyā dāsyās tāḍanādiśikṣā kāryā / yadi tāḍyamānā satī kūpataḍāgādisthānaṃ karoti tadā eṣā garddabhacāṇḍālanyāyenāsthānaṃ kṛtvā mriyate / eṣā ātmaghātakā ātmanaiva lepena lipyate / nirddoṣavyavahārakasya gaṅgasnānam / tathāsyā dāsyā 
+270Lekhapaddhati, 44. 
+312 
+vyavahāragṛhe karma kurvatyā dhāraṇikena tadīya bhrātrā sutena svajanena vā cakṣuḥsañjñayā bhrūsañjñayā kṛtrimabhartrā vā kṛtvā karmavighāto manasā vighāto vā kasminn api viṣaye na kāryaḥ / dhāraṇikena vyavahārakeṇa vā kasminn apy arthe kuṭilabuddhyā na kartavyam / asyoparilikhitavidheḥ pālanāya sarvakāryakaraṇādivināśādirakṣaṇāya dattapratibhūḥ bhrātṛrāja /271 
+Here again is the comparable portion in Sampūrī’s testament: 
+itthaṃ paribhramamāṇā. . . . ahaṃ yuṣmadādeśenāmaraṇāntaṃ yāvad dāsīkarmaṇi yuktā satī khaṇḍanapeṣaṇasammārjanapānīyānayanagomayānulepanamūtra- purīṣotsarjanasamastagṛhakarmabāhyakarmakṛṣikarmakṣetrakhalakādisarva- karma sotsāhā satī varṣāśītoṣṇakālatraye ’pi divārātrau ālasyarahitā niruttarā sarvaṃ dāsīkarma yuṣmādeśitaṃ karṣye / bhavadbhiḥ svaśaktyā mama kevalaṃ bhojanācchādanopānahādi dātavyaṃ / adhikaṃ kiṃ yāciṣye / iti nagaracatuṣpathe samagracāturvarṇyalokaviditaṃ vāṇi cāhaḍena tasyāḥ kathitaṃ mānayitvā sā dāsīkarmaviṣaye rahāpitā. . . . dāsīkarma kurvāṇā caurikāṃ karomi, gṛhamadhye patitam atha śūnyaṃ dṛṣṭaṃ vastu gṛhnāmi, atha subhikṣe sañjāte palāyanaṃ kṛtvā anyatra kvāpi vrajāmi, atha yauvane kenāpi vipratāritā pralobhitā satī nirgatya vrajāmi, atha kūṭakapaṭavaṃcanadrohādikaṃ yuṣmad vairiṇā saha militvā karomi kārāpayāmi, tato ’haṃ asya likhitapatrasya pramāṇena keśeṣv ākṛṣya bandhanatāḍanādikaṃ ca kṛtvā punar api dāsīkarmaṇi niyojanīyā / ahaṃ aharniśaṃ sarvakālaṃ samastayuṣmatkuṭumbasyādeśaṃ kariṣye / atha kadāpi paripūrṇā satī kuṭilabuddhyā sarvaṃ samādiṣṭaṃ dāsīkarma na karomi tato bhavadbhiḥ pādaprahārair yaṣṭiprahāraiś ca yadṛcchayā vyāpādyamānā mriye / 
+tato mama nijaḥ svāmī anāgata eva nirdoṣaḥ kṛto ’sti / cāturvarṇyalokaiḥ sarvair avadhāraṇīyaṃ yad ahaṃ svakarmavaśād daivahatā mṛtāsmi / matsvāminaḥ putrapautrakalatrādiparivārasahitasya gaṅgāsnānam / atha kadāpy udarabādhāṃ karomi, kūpaṭaḍāgaviṣabhakṣaṇādinā mriye, tato ’pi mayā pañcamukhanagara- viditaṃ nijasvāmī nirdoṣa eva vihito ’sti / ahaṃ kṛtapūrvakarmavipākena daivahatā mṛtā / matprabhoḥ saparivārasya gaṅgāsnānam eva / ihārthe pañcamukhanagara- viditam āmaraṇāntaṃ dāsīkarmaṇi rahaṇāya amukāmukādhivāsabrāhmaṇa- pañcakulamahā-janaviditaṃ sāthīyāsābhijñānasahitaṃ svahastena pradattamatam / pañca sākṣiṇaś ca /272 
+And here is the template for a bill of self-sale: 
+khaṇḍaṇapeṣanarandhanasammārjanopalepanapānīyodvahanakarṣahastapādapra- kṣālanakhālakuṇḍikolluñcanakṛṣipāśupālyadūrāsannagamanam ityādigṛhakṣetrakha- lakādīnāṃ samastāni karmāṇi divā rātrau va śītātapādikṣudhāpipāsārditadāsītvaṃ karaṇīyam / tad iyaṃ navanavatyācāreṇa mūlyakrītā dāsī grāhakeṇa aḍḍāṇake moktavyā / dharmeṇa dātavyā / atha stokabahudravyākāṅkṣayā paradeśe vā prahitya pravahaṇake caṭāpya paradvīpe prasthāpya dravyeṇa vastuprābhṛtakena vā viketavyā / yat rocate prabhave bhāsate tatkaraṇīyam / etasyā dāsyā janmagrāhaka amukākasya 
+271Lekhapaddhati, 45. 272Lekhapaddhati, 46. 
+313 
+eva etadīyamānuṣāṇām api svādhīnā iti satī dāsīpade vikrīyamāṇā. . . piṭrmātṛbhrātṛprabhṛtisvajanānāṃ prītyā vā grāhaka amukākasya gṛhāt sarvaprakāraṃ praṇaśya yadi gacchati tadā. . . keśādikeṣv ākṛṣya tadanu grahaṇabandha- tāḍanādiśikṣāṃ vidhāya punar api dāsīkarmaṇi niyojyā /273 
+As you can see, we find parallels across all four documents, and for the most part they 
+are not the same parallels. In other words, the production of these texts did not proceed based 
+on following a single standardized template. Rather, it is the product of a transregional set of 
+formal expectations about what sort of contents a text like this should contain married to a 
+scribal repertoire of modes of phrasing and stock statements that address those needs. From 
+this perspective, the cases of slight divergences, such as the use of the semantically identical 
+mūtrapurīṣotsarjana in Sampūrī’s document as opposed to mūtrapurīṣotsarga in the first text, 
+as well as additive semantic re-castings are perhaps even more instructive than the evidence 
+supplied by direct parallels. Sampūrī’s document, for instance, by far the longest, takes up the 
+formula we find in the second document, “then, having seized her by the hair and so forth, as 
+is enjoined, he will punish her which takes the form of seizing, binding and beating her [after 
+which] she will again be employed in slave work” (tadā keśādikeṣv ākṛṣya. . . . 
+tadanugrahaṇabandha-tāḍanādiśikṣāṃ vidhāya punar api dāsīkarmaṇi niyojyā), and 
+reframing it as a first person account in “her own voice,” (tato ’ham asya likhitapatrasya 
+pramāṇena keśeṣv ākṛṣya bandhanatāḍanādikaṃ ca kṛtvā punar api dāsīkarmaṇi niyojanīyā) 
+clarifies that by “injunction,” what is really meant is “according to the authority stipulated in 
+the written document” (likhitapatrasya pramāṇena) we have in our very hands. In contrast, the 
+second document offers us an abbreviated form of this same formula “then, the punishment, 
+such as beating, of the female slave must be done” (tadā asyā dāsyās tāḍanādiśikṣā kāryā). In 
+other words, each of these texts gestures towards a delimited palate of clarificatory statements, 
+273Lekhapaddhati, 47. 
+314 
+adding or subtracting some details, that a skilled scribe would be expected to supplete into or 
+elide out of the document he was composing, based on circumstances and his own stylistic 
+choices. Most of the divergences in the business portion of Sampūrī’s bill of sale are of precisely 
+this nature, adding precision, clarity, and additional specifications concerning the duties and 
+punishments incumbent on a slave. Again and again, they are recast in “her own voice.” Thus, 
+whereas three of our four texts merely allude to the slave owner retaining a state “as if he has 
+bathed in the Ganges,” even if his female slave commits suicide, Sampūrī’s text offers us the 
+following excruciating details: 
+[If I perish on account of him beating me to death]. . . . my own master has not obtained any fault. It must be discerned by all members of the four castes that I have perished under the influence of my own karma, struck down by fate. My master along with his family, son, grandsons, wife and so forth, [will be as if] they bathed in the Ganga. . . . Thus, even if I should die from taking poison or jumping into a well or a lake, even then, [let it be known] to the guild of five authorities [that] my own master is without fault. I have died, struck down by fate through the fruition of previous karmas [I had] committed. My master and his family are [as pure as if] they have bathed in the Ganga.274 
+Whether on account of the fact that this is a bill of self-sale and thus a circumstance 
+where all ambiguities about rights and ownership must be removed, or simply because the 
+merchant Cāhaḍa was a stickler for details, working up from the core formula, every 
+eventuality has been planned for and addressed to ensure that there are no loopholes that might 
+result in culpability for either Cāhaḍa or any member of his family were Sampūrī to die in his 
+service under mysterious circumstances. In modern parlance, in picking a scribe to draft this 
+274Lekhapaddhati: tato mama nijaḥ svāmī anāgata eva nirdoṣaḥ kṛto ’sti / cāturvarṇyalokaiḥ sarvair avadhāraṇīyaṃ yad ahaṃ svakarmavaśād daivahatā mṛtāsmi / matsvāminaḥ putrapautrakalatrādi- parivārasahitasya gaṅgāsnānam / atha kadāpy udarabādhāṃ karomi, kūpaṭaḍāgaviṣabhakṣaṇādinā mriye, tato ’pi mayā pañcamukhanagaraviditaṃ nijasvāmī nirdoṣa eva vihito ’sti / ahaṃ kṛtapūrvakarmavipākena daivahatā mṛtā / matprabhoḥ saparivārasya gaṅgāsnānam eva/ 
+315 
+contract, Cāhaḍa has hired a very good lawyer. Tedious though such micro-textual analysis 
+might be, as we have begun to see, it offers us a powerful and, in the context of the study of 
+South Asian religions in particular, thoroughly underutilized tool for making sense of how 
+texts are both the products of and produce discursive worlds. For the past several decades in 
+Religious Studies, when we have talked about the “formal or literary properties of texts,” such 
+explorations have focused either, in the spirit of Hayden White, on the phenomena of 
+narrativity and the structuring of a text as a question of emplotment, or, somewhat less 
+commonly, on a rhetorical or semiotic analysis of how metaphor, cadence, rhythm, and so forth 
+cultivate certain types of experiences. In contrast, the analysis throughout much of the present 
+study is tacitly but repeatedly informed by a different set of preoccupations, redirecting our 
+attention to the circumstances surrounding the production of texts. Succinctly, the aim is to 
+think about certain types of texts, documentary records and inscriptions, of course, but also 
+prescriptive ritual texts, paddhatis, and works of dharmanibandha, as the product of a process 
+of assembly at least as much as of “acts of writing.” To borrow, as Carol Levine has, from 
+design theory, albeit towards very different purposes, we might do well to speak of the 
+“affordances” of different components of a text, which is to say: 
+The potential uses or actions latent in materials and designs. Glass affords transparency and brittleness. Steel affords strength, smoothness, hardness and durability. . . . Specific designs, which organize these materials, then lay claim to their own range of affordances. . . . The advantage of this perspective is that it allows us to grasp both the specificity and the generality of forms—both the particular constraints and possibilities that different forms afford, and the fact that those patterns and arrangements carry their affordances with them as they move through time and space. . . . Each shape or pattern. . . lays claim to a limited range of potentialities. . . . But as they move, forms bring their limited range of affordances with them. No matter how different their historical and cultural circumstances, that is, bounded enclosures will always exclude, and rhyme will always repeat.”275 
+275Caroline Levine, Forms: Whole, Rhythm, Network (Princeton, NJ: Princeton University Press, 2017), 6–7. The many potentially productive ideas presented in its first chapter, however, often yield a mode analysis uncannily 
+316 
+Like Levine, the types of materials we are most interested in are textual in nature, 
+though as her last example makes evident, “the forms” whose affordances she is invested in 
+explicating operate on a very different scale and towards different ends than the acts of 
+formalized textual bricolage with which we are engaged. The designs we are most interested 
+in are templates and the affordances, the particular properties of bits of repeatedly recycled and 
+recrafted text that are repurposed again and again in the service of representing specific 
+dynamics, concerns, and situations. For our purposes, merely identifying these materials and 
+the propensities they carry with them along with the scaffoldings into which they are set 
+provides its own rich intellectual rewards. For like an archeologist or a numismatician, it 
+enables us to identify the textual analogues to the particular quarries or mints where the stones 
+used to a craft a collection of images were hewed or the dies where the coins under study were 
+cast. On this basis, we can begin to see what sort of tools and techniques went into the process 
+of their manufacture, and how the affordances of the materials available structured the making 
+of the end product. And when we begin to take into account such constraints and conditioning 
+factors as well as context-specific expectations, especially when we are studying the highly 
+regularized productions of a chancery mode of training and its associated consciousness, 
+something marvelous and unexpected happens. We begin to develop an eye for the portions of 
+a text where, if intentionality is too strongly loaded a word, the deliberate choices of the 
+craftsmen are in evidence. Thus, when it comes to our bill of self-sale, virtually the only bit of 
+the text for which we find no parallels in our other sources nor propensities in the formulas 
+encouraging the letting out or contracting of the materials on hand, is Sampūrī’s own testimony 
+reminiscent of a feminist-tinged recasting of Bruce Lincoln, whose mid-career methods, it seems, remain unknown to scholars of British and American literature. 
+317about the circumstances that led her to sell herself into servitude, with which our chapter began. 
+The rest, shall we say, just meets expectations. 
+When Sampūrī “read out” the list of duties and obligations and conditions underlying 
+her terms of service unto death, she was reciting, if not a fixed text, then a text that was the 
+product of a delimited repertoire. In doing so, Sampūrī engaged in an act essentially identical 
+to that of countless of thousands of slaves before her, an act that in a sense made them slaves. 
+As should now be quite apparent, the language she was “speaking,” though workmanly in 
+nature, was proper Sanskrit. At first glance, this poses a bit of an interpretive problem. Sampūrī 
+was almost certainly illiterate. Quite apart from her being a ten-year old girl whose childhood 
+was marked by severe deprivation, we know that she marked the text with her own hand 
+(svahastena) to signal its authenticity instead of writing her own name. Since the performance 
+of this formula by the agent is what made the document legally binding, it is plausible to infer, 
+as we have evidence for this practice in other circumstances, that the text would have been read 
+out to her and she would have been called on to repeat word by word, in much the same manner 
+that someone entering a temple who commissions a pūjā is spoon-fed the mantras and formulas 
+by the priest. Indeed, it is striking how thoroughly this “secular” speech act, where words do not 
+merely “mean something” but derive their importance from the manner in which they “do 
+something,” is consonant in its operative logic with the extensive literature produced over the 
+past forty years in Indological circles on ritual as a speech act, a conceptualization with strong 
+emic resonances. As Ellison Findly observes in regard to Vedic textuality, “Speech has power 
+and is pronounced. Somewhere in the development of the concept of mantra, the seers put 
+these two notions together, formulating a theory that would be seminal for centuries to come. 
+318 
+Speech has power because it is pronounced. If speech’s effectiveness is due to its being 
+pronounced, then its pronunciation must be seen as a performative act, as an act that sets in 
+motion a whole matrix of power and thereby gets results.”276 Approaching this same 
+phenomenon from a very different ideological perspective, in The Sacrament of Language: An 
+Archaeology of the Oath, a short monograph that seeks to problematize the historical 
+metanarrative that what we call law can be seen emerging at a specific historical moment out 
+of some nebulous mythopoetic domain governed purely by the norms of the sacred, Giorgio 
+Agamben writes: 
+It is from this perspective that one must reread the theory of performatives or “speech acts,” which, in the thought of the twentieth century, represent a sort of enigma, as if philosophers and linguists were coming up against a magical stage of language. The performative is a linguistic enunciation that does not describe a state of affairs but immediately produces a fact, actualizes its meaning. “I swear” is, in this sense, the perfect paradigm of a speech act. . . . 
+It is precisely the status of the oath. . . that allows us, in fact, to understand in a new light the theory of performatives. They represent language in a remnant of a stage. . . in which the connection between words and things is not of a semantico-denotative type but performative, in the sense that, as in the oath, the verbal act brings into being truth. This is not, as we have seen, a magico-religious stage but a structure antecedent to (or contemporaneous with) the distinction between sense and denotation, which is perhaps not, as we have been accustomed to believe, an original and eternal characteristic of human language but a historical product (which, as such, has not always existed and could one day cease to exist.). . . . 
+It is necessary once again to reverse, in this sense, the common opinion that explains the efficacy of the oath by reference to the powers [potenze] of religion or of archaic sacred law. Religion and law do not preexist the performative experience of language, but rather they were invented to guarantee the truth and trustworthiness of the logos through a series of apparatuses, among which the technicalization of the oath into a specific “sacrament”—the “sacrament of power”—occupies a central place. . . . 
+Scholars have constantly explained, in a more or less explicit way, the institution of the oath by means of a reference to the magico-religious sphere, to a divine power, or to “religious forces” that intervene to guarantee its efficacy. . . . My hypothesis is exactly the reverse: the magico-religious sphere does not logically preexist the oath, but it is 
+276Ellison Findly, “Mantra Kaviśasta: Speech as Performative in the Ṛgveda,” in Understanding Mantras, ed. Harvey P. Alper (Delhi: Motilal Banarsidass, 1991), 27. 
+319 
+the oath, as an originary performative experience of the word, that can explain religion (and law, which is closely connected with it.277 
+Regardless of how one feels about the evaluatory dimensions of Agamben’s framing, 
+which treat religion as well as law as primarily disciplinary systems, he offers us a powerful 
+conceptual insight into the fundamental manner in which both the law and what we can religion 
+can be understood, in a manner that someone like Bhartṛhari might have even found appealing, 
+as responses to more fundamental dimensions of how language can be related to the world of 
+experience. At the heart of both domains, what is at stake is conceptualizing how words, 
+beyond communicating some semantic message, in fact change the status of the agent. Indeed, 
+one might well say that, in speaking aloud this code, Sampūrī becomes a slave in precisely the 
+same manner that receiving and reciting the vinaya makes a lay person into Buddhist or, as we 
+shall explore in considerably more detail, speaking the śāsana of the Śaivas and adopting its 
+observances makes one become a śivabhakta. This complicated co-implication of what we 
+label religion and what we label law resurfaces again and again throughout the archives we 
+will be exploring. Indeed, it is already present in our sources, for in fact the second of our bills 
+of sale for a slave was composed, as it tells us, inside the Vaidyanātha temple, where the sale 
+of the young girl was authenticated before a council of witnesses as well as lord Śiva himself 
+(devaśrīvaidyanāthapatram utpāṭayati). The present study will argue again and again that our 
+evidence does not support the working assumption underlying much of modern scholarship 
+that what we call religion is but a silk glove concealing the more substantive iron fist of 
+disciplinary and political power, attending instead to the manner in which these domains 
+277Giorgio Agamben, The Sacrament of Language: An Archaeology of the Oath, trans. Adam Kotsko (Stanford, CA: Stanford University Press, 2011), 54–65. 
+320 
+functionally co-penetrate each other and operate as conceptual cognates irreducible to some 
+“simple” originary form already understood by the social sciences. 
+Returning to the subject at hand and attending to such affinities, just as through 
+repetition and ritual imposition, mantras and the forces they instantiate are understood to 
+repopulate themselves in a human body regardless of whether their semantic sense was 
+consciously understood, in a similar vein, it is perhaps appropriate to speak of how a whole 
+range of “non-elite” and even illiterate people in premodern Indic society, in so much as they 
+came into contact with social institutions that were sites of transactional text production, had 
+their experiences and circumstances conditioned and shaped by a distinctively Sanskritic 
+textual sensibility. As is beginning to be apparent, much of this discourse was grounded in 
+juridical concerns, and some of it, as we shall soon see, came dressed up in the garish garments 
+of the Sanskrit cosmopolis. 
+Quotidian Sanskrit in the Sanskrit Cosmopolis: Introducing the Secret of Life of 
+Institutions 
+The question of how one determines that documents are authentic on the one hand and provide 
+reliable information on the other has a deep and storied history in South Asia, and one that is 
+integral to its institutions. For the modern reader, however, who has neither direct experiential 
+access to these social institutions in practice nor does he have on hand a vast daftar of 
+innumerable examples of every kind of form in triplicate, this question takes on a new life 
+entirely. Much as, through careful manuscript work, we have been taught to question the naïve 
+idea that all the Indic devotional verse as we encounter them today represents a perfect 
+replication of the simple words of some early modern singer saint, should we not be wary of 
+seeing what seems to be a bill of sale for a slave and simply taking it at face value? 
+321 
+In this case, however, there are mitigating factors that suggest against such skepticism. 
+Sampūrī’s bill of sale is preserved in an anthology compiled from thirteenth-century Gujarat, 
+but comprised of many documents drawn from several centuries earlier across a wider 
+geographical spread of the western Deccan. The text in question is called the Lekhapaddhati, 
+a title that, on the basis of usages in both the Marathi and Gujarati of the period,278 it is tempting 
+to translate as simply “Procedures for (composing) documents.” Our bill of sale is included, 
+not out of any particular interest by the work’s compilers in the fate of subalterns, but simply 
+as one of many authentic exempla, to be used as a guide for training the professional scribes 
+responsible for the production of precisely these kinds of documents. As we have seen, 
+Sampūrī’s bill of self-sale even travels alongside a parallel template for making your own bill 
+of sale for a slave. In other words, we have considerable evidence for asserting, if this text is 
+exceptionally interesting, in other ways, especially in terms of questions of form, idiom, and 
+the types of agents incorporated, it is by no means exceptional. 
+Thus, for example, while no actual example with particularized details inserted has 
+survived, we have a template labelled “letters to the servant are like this (bhṛtyo lekho yathā)” 
+that outlines the format of the communique a master is supposed to have sent to his dependent. 
+“In such and such a place,” we are told “Ṭhākkura no-name gave the command. . . that you 
+should not engage in any activity such that a thief could sneak into the house.”279 Again, in the 
+simplest terms, we have a Sanskrit text being commissioned and then read out to precisely the 
+type of menial worker that our models have envisioned as entirely sealed off from “Sanskrit 
+discourse.” Along similar lines, examinations of deeds of lease in which a temporary lien is 
+278While in Sanskrit discourse the word paddhati typically refers to a genre of text, both Marathi and Gujarati deploy the term as referring to procedures for making things in general. 279Lekhapaddhati, 61–62: amukasthānāt ṭhākur amuko amukasthāne amukaṃ saprasādaṃ samādiśāti yathā / kāryaṃ ca / bhavatā tathā kim api na vyāparaṇīyaṃ yathā piśunapraveśaḥ / 
+322 
+put on a small plot of farmland (atha kṣetrāḍḍāṇakapatram) owned by a small-scale cultivator 
+(kuṭumbin), again reveal a text shot through with verbal formulas to be performed out loud.280 
+In this case, the land in question is being entrusted to a merchant creditor until the debtor is in 
+a position to pay him back. Thus, we have a transaction between someone who seems to be a 
+Vaiśya of the Śrimāli jāti, named Cāhaḍa, perhaps Sampūrī’s owner, and someone who seems 
+to be a Śūdra, being carried out in a solid Sanskrit register, with the production of the document 
+here being verified merely by three witnesses. Given the evidentiary nature of these types of 
+objects, which, as we shall see, stand in for the verbal testimony in court presented by reliable 
+people, it is difficult to see how these genres could represent a mere social fiction. Many such 
+instances could be provided just from this bundle of documents and were one to turn to the 
+inscriptional record, the catalog of examples would swell significantly. But in fact, if we go by 
+the prescriptive discussions found in the formalized discourse on the working of social 
+institutions, to which we will turn momentarily, our surviving evidence represents an 
+infinitesimal portion of the actual textual production in the genre. 
+Though largely unremarked upon in more mainstream scholarly literature on Sanskrit 
+intellectual and religious life, two of the twentieth century’s seminal surveys of epigraphical 
+practice, namely, Georg Bühler’s Indian Paleography (1904) and D. C. Sircar’s Indian 
+280Lekhapaddhati, 39: kṣetrāḍḍāṇakapatram / saṃ 1288 vaiśākhaśudi 15 gurāvadyeha yathāsantiṣṭhamānarājāvalīpūrvaṃ kṣetrāḍḍāṇakapatram abhilikhyate yathā / dhaniko nāma nāmataḥ śrīpattanavāstavyaśrīmālajñātīya vya cāhaḍo lābhāya svadhanaṃ prayuṅkte / asya ca hastākṣarāṇi dhāraṇiko nāma nāmataḥ / saṃkhārīgrāmavāstavyakuṭuṃ mokhākena svīyasamutpannaprayojanavaśāt vya cāhaḍapārśvāt śrīśrīmālīyakharaṭaṅkaśālāhatatriḥparīkṣitasarvatravyavaharamāṇaśreṣṭhajīrṇaviśvamallapriyagrhītoddhāradram māḥ 500 pañcaśatāni drammā gṛhītāḥ / amīṣāṃ drammāṇāṃ sambandhe dhanikasya manoviśvāsanimittaṃ pūrvapuruṣopārjitaṃ adyāpi bhujyamānaṃ savṛkṣamālākulaṃ navavidhānasahitaṃ caturāghāṭopalakṣitaṃ nijaṃ kṣetraṃ vṛddhiphalabhogācāreṇa aḍḍāṇake muktam / dhanikena kṣetram idaṃ sāmakadrammān datvā akṣayatṛtīyāyāṃ prativarṣaṃ choṭinīyam / kṣetrasyāyapadaṃ vyavahārakeṇa bhoktavyam / caturthīdine granthibaddhair api drammaiḥ kṣetraṃ choṭayituṃ dhāraṇiko na labhate / asyopari likhitapatravidheḥ palāpanāya anyagotridāyādapatrahastānyavyavahārakasamastakhaścānivāraṇāya dāpattipratibhuvau amukhākau likhitapatravidhiṃ nirvahataḥ / ekena dvau dvābhyām ekaḥ / ekena hastaprāptena vyavahārakasyāparasyottaram akurvāṇena likhitapatravidhir nirvahaṇīyaḥ / ihārthe adhivāse sametya janatrayasākṣisamaṃ matāni / 
+323 
+Epigraphy (1965), both interweave a series of rather salient reflections on the materiality of 
+Indic textual culture.281 Thus Bühler directs our attention to a passage preserved in the Roman 
+historian Strabo, itself digesting a third-century BCE chronicle composed by Neachros, one of 
+the companions of Alexander the Great, which tells us that the Indians “write letters, he says, 
+upon cloth that is smoothed by being well beaten,”282 and then provides several examples from 
+early inscriptions from Andhra Pradesh that mention specifically the use of cloth documents 
+in a courtly setting, along with a colorful example from Bāṇa’s seventh-century Harṣacarita, 
+composed by the poet in the company of the King of Kanuaj, in which the telegrams born by 
+messengers were not only composed on cloth, but wound into the turbans of runners to ensure 
+their safe delivery.283 Again, it is Bühler who also provides us initially with the example of the 
+Kurud Plates from the sixth century CE, which explicitly discuss the reissuing of land grants 
+to the initial donee by the royal court on copper plates after the originals penned on palmyra 
+leaves had been destroyed in a fire, the first of many subsequently discovered inscriptional 
+sources that discuss a change in material culture. In Sircar’s particularly meticulous cataloging 
+of the different types of perishable materials for which we have evidence as serving as 
+281J. Georg Bühler, Indian Paleography: Edited as an Appendix to The Indian Antiquary, vol. XXXIII, 1904 by John Faithull Fleet (Bombay: Bombay Education Society’s Press, 1904); D. C. Sircar, Indian Epigraphy (Delhi: Motilal Banarsidass, 1965). In this regard at least they are not superseded by Richard Salomon’s otherwise superb work from 1998, also called Indian Epigraphy, which, while adding several useful examples, treats the diverse materials upon which texts can be inscribed or imprinted as mere curiosity. Richard Salmon, Indian Epigraphy: A Guide to the Study of Inscriptions in Sanskrit, Prakrit, and the other Indo-Aryan Languages (New York: Oxford University Press, 1998). 282William Falconer, The Geography of Strabo. Literally Translated, with Notes, in Three Volumes (London: George Bell & Sons, 1903), pg. xv, pg. 59h. 283Sircar repeats these examples, without crediting Bühler, while adding several additional examples from the inscriptional record which specify the issuing of cloth documents, including in regard to a bill of sale. He also directs our attention to commentarial discussions in the section on writing in the Yājñavalkyasmṛti, which prescribe the option of producing a land grant either on a document (paṭa) or copper, with the eleventh-century commentator Vijñāneśvara unambiguously glossing paṭa with kārpasika, a word for cloth. This is a useful distinction, as Sircar notes, for the common use of the lexeme paṭṭikā in inscriptions going back to the second century BCE to refer to the material on which things are written can variously be understood as either a re- Sanskritization from the Prakrit of paṭa in the sense of cloth or paṭṭa in the sense of plate or flat surface. 
+324 
+mediums for the written word, substances that include birch bark (bhūrjapatra), aloe bark, 
+wood, palmyra leaves, glass, cloth, and hide, the great epigrapher comments in passing that 
+the use of such perishable materials for the production of written documents, palpably 
+indicated by the treatment of birch bark (bhūrjapatra) and written document (lekha) in much 
+of the commentarial literature as exact synonyms, suggests “that the originals of many of the 
+royal charters and other records later copied on copper plates or stone were apparently written 
+on birch bark sheets.”284 To this already neglected catalog of exempla, we can add the many, 
+till now unnoticed, examples in the Lekhapaddhati itself, where the use of bhūrjapatra is 
+explicitly prescribed for certain classes of documents. Building upon Sircar’s insight, T. P. 
+Verma has much more recently, and quite plausibly, reframed this discussion in a potentially 
+useful manner, writing that “copperplates are not the original documents. These are the copies 
+of the rājaśāsana or royal charter, the original of which were kept in the office of the 
+akṣapaṭalika, the officer in-charge of the revenue records. A copy of the land grant was 
+engraved on the copperplate and issued to the donee as a lasting certificate of registration that 
+he could preserve for generations.”285 
+284Sircar, Indian Epigraphy, 65. Sircar recycles the exact same language in regard to palmyra documents, which serve the same function. 285T. P. Verma and A. K. Singh, ed., Inscriptions of the Gāhaḍavālas and Their Times (New Delhi: Aryan Books International, 2011), 1–2. This work demands to be read and taken seriously both as a strategic political intervention and a work of scholarship. The lavish edition, brought out by Aryan Books International with a degree of care and economic investment rarely seen in modern works of epigraphy, is a reflection of the fact that after the deaths of the initial two claimants in the Rāmjanmabhūmi legal case, retired BHU professor T. P. Verma assumed the role of the third “friend” acting on behalf of “Lord Rāma.” In this manner, Verma brought to court the claim that the god’s purported temple at Ayodhya, which for many centuries had been “occupied” by a mosque, should be restored. As evidence, Verma produced for the court a transcription of a Sanskrit inscription, the original of which he claimed was “lost,” that is claimed to have been recovered from on site. In a highly unusual and suspicious fashion, the text in question describes at some length the grandiosity of the supposed Rāma mandir that is said to have existed in situ during the Gāhaḍavāla era. The main intention behind the production of these volumes is thus ensuring the inclusion of this document in the textual and historical printed record and perhaps secondarily offering a detailed account of the last “Hindu” dynasty that can plausibly depicted as occupying Delhi and ruling north India. At the same time, as a work of epigraphical scholarship, the compilation and explication of all of the Gāhaḍavāla corpus, with the inclusion of a number of new texts, is a substantial contribution. 
+325 
+Though in his reframing institutional documentation as primarily a royal prerogative is 
+problematic, as that dynamic that clashes with the evidence in our own sources, Verma has 
+helpfully directed our attention to the office of akṣapaṭalika, a center for the management of 
+records, which surfaces with some frequency in the inscriptional record across the subcontinent 
+down into the colonial era, and suggested that one of its primary functions was to preserve the 
+perishable “originals” of bulky copper plate grants. Already in Kauṭilya’s Arthaśāstra (ca. 
+second century CE?), as Patrick Olivelle has recently remarked, following Hermann Scharff, 
+it is prescribed that such an office is to be incorporated into every fort and fortification in its 
+south and southeast quadrant. In this context, records are to be maintained, to select from just 
+a few subjects: 
+Concerning [royal] departments—the totality of their number, procedures, and income; concerning factories—the extent of the following: gain and loss of material in the manufacturing process, expenses, additional weight, surcharge. . . location, wages, and labor; concerning precious stones, articles of high value. . . price, sample, size, weight. . . concerning regions, villages, castes, families, and associations—laws, conventions (samvid), custom (ācāra), and canons. . . concerning those in the king’s service—the receipt by them of favors, land, benefits, exemptions, rations and wages.286 
+For our purposes this slightly truncated list is intriguing both for providing indirect 
+confirmation that for every land grant charter handed to the done, some internal documentation 
+was retained by the state, as well as for the glimpse it offers of the scope of the documentary 
+life of a premodern Indic institution. Much as Kumārila Bhaṭṭa had indicated in the previous 
+chapter, an institution is imagined as a site that preserves secular standards of measure and 
+evaluation of both a quantitative and qualitative nature. It provides us with records, not only 
+regarding the affairs of elite people, but that provide some indications of the financial, legal, 
+and social obligations of various classes of people in different villages as well as the codes of 
+286Patrick Olivelle, ed. and trans., King, Governance, and Law in Ancient India: Kauṭilyā’s Arthaśāstra: A New Annotated Translation (New York: Oxford University Press, 2013), 111. Sanskrit original added. 
+326 
+conduct and conventions observed by different professional and caste-based communities. If 
+in Kauṭilya, the akṣapaṭalika is solely an affair of the state, as Scharf has pointed out in passing, 
+by the fourth century CE, one sees many attestations of inscriptional records throughout the 
+subcontinent of a so-called grāmākṣapaṭalādhikṛta, or official in charge of the record-keeping 
+house of the village. In other words, long before the period that is of our primary concern, 
+documentation and its associated textual production had insinuated itself deep into “rural” life. 
+Indeed, one might well say that it is the sorts of document we have been exploring, and not the 
+things we tend of think of when we speak of Sanskrit, be those ritual, mysticism, or poetry, 
+that were in situ the primary face of Sanskrit textuality so far as the mass of men and women 
+leading lives of quiet desperation were concerned. This not only was the case when it came to 
+the types of sources we have been exploring where some financial issue was at stake. It was 
+also true in the realm of a different sort of “social” transactionality: epistolary documents. 
+“I Cannot Bear to Live Without You, Nameless Lover”: Procedure and Poetry in Mass 
+Circulation 
+Alongside rings and sigils, letters and messages play such a substantial role in Sanskrit drama 
+that we have a tendency to think of them as merely a narrative trope. In reality, the production 
+of such objects on the behalf of both the learned and illiterate by professional letter writers for 
+hire seems to have been something of its own industry. The verse introduction to the templates 
+for epistolary writing offers us a glimpse of the range of possible addressees in a rather telling 
+manner: “the honorific character śrī is to be employed, three times [addressing] a friend, twice 
+[addressing] the sons, six times [addressing] the guru, five times [addressing] the master, twice 
+[addressing] a servant, and twice also when [addressing] an enemy.”287 Writing letters, in other 
+287Lekhapaddhati, 58: śrīkāraś ca trayo mitre ekaikaṃ putrake tathā / ṣaḍ gurau svāminaḥ pañca dvau bhṛtye dviguṇau ripau / 
+327words, is an activity suited for almost any kind of exchange. In characterizing the drafting of 
+a letter, we are told that “at the beginning one [should write] first oneself and second the other 
+[regarding the name of the addressee]. At the important spot (mahāsthāna) one should write 
+that which is endowed [with the word signifying] to be honored” (pūjya) known of as pāda. 
+One should then write the letter, and after that (one should give) the direction (ājñā) preceded 
+by the proper conduct (vinaya).”288 Just what that proper conduct entails, as well as the degree 
+of what we would characterize as flourish and formality, is entirely determined by the relative 
+social status of the person sponsoring the letter and the intended recipient. Finishing up with 
+our outline of the conventions of the genre, at the top of the document, one specifies the 
+reigning king, the place of composition, and affixes some sort of good wishes, blessing or 
+benediction, according to one’s status. In the body of the letter, one includes “the matter being 
+made known” (vijñaptikā). 
+As we shall see, given the nature of the textuality under discussion, it is better to speak 
+of “personal” letters in medieval India as the products of a negotiated commission carried out 
+by a writer for hire steeped in specific technical conventions, as opposed something a person 
+pens themselves. In fact, it seems that the only part of a “personal correspondence” that was 
+actually produced by the people involved was the signature or seal they affixed to the 
+document. Thus, in a form letter included in the Lekhapaddhati, a hypothetical “secret lover” 
+writes to her beloved, who is shapely like the god of love himself:289 “Setting aside your other 
+288Lekhapaddhati, 58: svasthāne pañcamī deyā parasthāneṣu saptamī / ātmanaḥ prathamā deyā dvitīyā ca parasya ca / likhed ādau mahāsthānaṃ pādapūjyasamanvitam / lekhasthānaṃ likhet paścāt ājñāvinayapūrvakam / 289Lekhapaddhati, 63: svasti / amukasthāne vinirjitamakaradhvajalāvaṇyānautsukyaudāryasaubhāgyādiguṇa- gaṇāpahṛtayuvatimānasān vallabha-anukapādān amukasthānāt sadādeśakariṇī amukā sasnehaṃ sotkaṇṭhaṃ gāḍham āliṅgya sāśraṃ vijñapayati yathā / kāryaṃ ca / kuśalam atra / tatratyātmīyakuśalatā kiṃvadantībhir anavaratam aham ānandanīyā / yaddine yuṣmakāṃ vijayayātrā jātā taddinpūrvaṃ viharaduḥkhānalena tapyamānamānasā rātriṃ divaṃ saukhyaṃ kvāpi nānutiṣṭhāmi / tathā coktaṃ— viharahuyāsakarāliyaha kahi piyayama kahiṃ jaṃpa / jāva na rairasi vimali jali pemaddahi kiya jhaṃpa // ityādi paribhāvya mamopari dayāṃ 
+328 
+affairs, bestow on me compassion (dayā). You must extinguish (nirvāpaṇīyaṃ) my body 
+(madīyam aṅgaṃ), which is being scorched (dahyamāna) by the fire produced by love in 
+separation (vipralambha), by sprinkling [it] with the nectar that is the sight of you 
+(nijadarśanāmṛtavarṣena).” The letter even inserts a Prakrit verse: “O beloved, please tell me, 
+where is the peace available to a person who has burnt all her hopes in the fire of separation, 
+until she has taken a leap into the pond of love, filled with pure water of loving union?” What 
+looks to us like fervent passion is entirely prosaic; neither of these lovers ever existed, as these 
+outpourings of the heart were written on spec as a sort of premodern erotic madlibs. 
+Just how much such sentiments are matters of genre convention incorporative of tropes 
+we associate with aesthetic and religious discourse, and how seamlessly one bleeds into the 
+other, is again made clear in another “love letter,” this one by a husband addressing his wife: 
+From unspecified place unnamed husband in other unspecified place with passion, with affection, with a tight embrace, sends news of well-being to his unnamed wife; the glimmer of gold is utterly surpassed by the beauty of her body, her hands and feet are lotus soft buds, her face is the same as the surface of the full moon, her eyes akin to a startled fawn’s, the pair of her thighs like the stalk of the plantain tree, the sound of her voice is like a dove, she snatches away the inner organs of amorous people with her attractive side glances, her teeth have a shape like the buds of the night lotus and like the temples of proud forest elephants her breasts are tremendously dense and perky. . . . And the message enclosed is: All is well here with me. You must send news of the health and condition of your body with regularity, up until that day when, having embraced you, I have returned. . . “You are seen moving on the paths in all ten directions, O innocent one, in the state of separation, you are dwelling in my heart. I perceive the whole world dwelling in you!”290 
+dhṛtvā bahūny api prayojanāni muktvā atrāgatya nijadarśanāmṛtavarṣeṇa vipralambhapāvakadahya- mānaṃ madīyam aṅgaṃ nirvāpaṇīyam / kālakṣepo na kartavyaḥ / 
+290Lekhapaddhati, 64–65: sānurāgaḥ prasthāpayati priyālekho yathā / svasti / amuksthānād amuko ’mukasthāne nijatanukāntivinirjjitapratyagrakanakabhāsaṃ kisalayakomalakaracaraṇāṃ pūrṇendumaṇḍalasamānanāṃ cakita- hariṇīśāvanayanāṃ rambhāstambhasamānoruyugalāṃ kalakaṇṭhaikaravāṃ dṛṣṭivāgurākṛṣṭakāmijanāntaḥkaraṇa- hāriṇīṃ kundakalikākāradaśanāṃ sagarvavanagajendrakumbhottuṅgaghanastanīṃ dayitām amukāṃ sotka- ṇṭhaṃ sasnehaṃ nirbharaṃ gāḍham āliṅgya kuśalaṃ vārtayati yathā / kāryaṃ ca / kuśalam atrāsmākam / tatrātmīyaśarīrārogyavatī vārtā’nvarataṃ praheyā / tadāsmābhir āgacchadibhir nirbharam āliṅgya yatra dine tvaṃ mutkalāpitā taddinapūrvaṃ raṇaraṇakopetaśūnyamanasāṃ kṣutpipāsādinā cāsmākaṃ santāpaikajanakā 
+329 
+Depending on one’s disciplinary background, this correspondence might seem 
+evocative of either the exalted realm of “the literary” or the heart-felt register of devotional 
+longing. If we did not know the context in these passages were occurring, they would seem to 
+reflect intimate glimpses of individualized human subjectivity. And yet there is reason to 
+believe that, in the eyes of many intended audiences, the discourse would have been readily 
+recognized as stringently conforming to genre convention and thus perceived as conventional 
+boilerplate formula, about as personal and evocative of the individual human condition as a 
+month-to-month lease or card from Hallmark. 
+Instead of seeking out in such sources glimpses of the inner life of specific human 
+agents, for at best these are infrequent and fleeting, it is more productive to think of letters in 
+the context of social protocol. The regular submission of letters or missives to one’s elder or 
+superior, independent of actual conveyance of a specific message, was simply one of the 
+honors that was their due.291 Similarly, for someone of higher status or greater seniority to send 
+vāsarā vrajanti // yataḥ— dasasu vi disasu dīsasi hiṃḍasi ratthāsu vasasi maha hiyae / tumamayamiha sayalamiṇam tuha virahe muddhi picchāmi // tathā cānena pratibodhayāmi / savaṇāṇa ya kāyavvo hoi piyayamavattāo saṃgahiyapiyakalevra khijjasi re hiyaya mā ahiyaṃ // tathaivānudinaṃ cintayāmi / taddinam iha kiṃ bhavitā virahānalajaladajalavarṣam / yatra tavāmṛtapūraṃ vadanaṃ drakṣyāmi mṛganetre // iti paribhāvya yathā pravāse taskarāḥ premasarvasvaṃ samavayaso nāpaharanti tathā vidheyam ālambanam / śīghram āgacchāmo lagnāḥ / hṛdayamadhye ’navaratam eva tvatsamā nāsti / atratyānirvṛttir na kāryā / 291There is perhaps no more pointed example of how deeply this norm has been internalized as simply a part of how sentient beings must relate to each other than a passage found in the perhaps seventh-century early Buddhist Kriyātantra, the Mañjuśriyamūlakalpa. In the first chapter, the Buddha Śākyamuni has just emitted a sentient cosmic ray and emanated into down into the pure realm where it was absorbed into the forehead of Mañjuśrī, summoning this Bodhisattva to come to his domain so that all of esoteric teachings and practices of this Tantra can be disseminated into the human world. Despite the fact that we are talking about cosmic beings dwelling in higher planes whose bodhicitta has fully matured, given that they are Tathāgatas, before Mañjuśrī departs, the Bodhisattva Saṅkusumitarājendrastathāgata, ruler of the pure realm, imparts one final instruction: “Please, in accordance with our speech, Lord Śākyamuni should be asked as to his having few obstacles, few afflictions, and being in good condition.” (alpābādhatāmalpātaṅkatāṃ laghūtyānatāṃ).” This is the standard formula for wishing somebody, especially a superior or close intimate, well since the time of the Pali canon, and thus it is deployed here despite the fact that the omniscient Buddha Śākyamuni is abiding in a state beyond all obstruction and harm, and certainly does not have to worry about being “light” (lāghu) enough to be able to rapidly get up from his seat to greet a visitor free from the impediments of wobbly balance and arthritic limbs that often afflict venerable people in their old age. It was my privilege to read this passage alongside Hillary Langberg, who is working on this text, alongside Dominic Goodall during residency in Pondicherry. evam ukte bhagavān 
+330 
+word down below was viewed as an expression of a big man’s magnanimity. Among the 
+conventional templates for correspondences produced by authority figures, both within the 
+domestic setting and in wider society, several examples are presented of letter addressed to or 
+to be received from a religious authority. Here for example, is a form letter for a guru who 
+intends to send his disciple some sage advice but has nothing particularly pithy to say:292 
+“Blessings,” says the teacher “you should send word of how you are doing.”293 The disciple, 
+we are told “should practice according to dharma. . . . Arising in the morning, having done 
+‘what is necessary,’ he must ‘do his ablutions and see his own self. You should always serve 
+father, mother sister. . . and so forth.’”294 Apart from the surprisingly vivid piece of advice to 
+“go savor the taste of the honey in the form of the Dharmaśāstras [that reside] in the lotuses 
+that are learned people (vidvajjanāravindanirgacchaddharmaśāstramadhurasāsvāda- 
+lālasamadhupa),” the list goes on as expected: mind your elders, do not abandon those in need, 
+honor sādhus. 
+In its characterization of the ācārya and in terms of the circumstances that underlie its 
+production, a thank you note addressed to a Śaiva Bhaṭṭāraka is slightly more intriguing.295 
+saṅkusumitarājendrastathāgato mañjuśriyaṃ kumārabhūtam etad avocat gaccha tvaṃ mañjuśrīḥ kumāra yasyedānīṃ kālaṃ manyase / api tv asmadvacanena bhagavān śākyamunir alpābādhatāmalpātaṅka- tāṃ laghūtyānatāṃ sanyāsavihāratāṃ praṣṭavyaḥ // 292Lekhapaddhati, 60–61: guruḥ śiṣyasyāśīrvādaṃ prasthāpayati yathā / svasti / amukasthānāt ācārya- amukākaḥ amukasthāne anavaratasadharmānuṣṭhānapayaḥprakṣālitakalimalakalaṅkaṃ sannyāyamārga- pravṛttaṃ varaguṇagaṇālaṅkrtaśarīram āyuṣmantaṃ śiṣya-amukākaṃ vedacatuṣṭayoktābhir āśīrbhir abhinandya sabahumānam āśīrvādayati yathā / āśīrvādārtho ’yaṃ / kuśalam atrāsmakām / tatratyātmīyakuśala- vatī vārtā anavarataṃ praheyā / aparaṃ ca / pratidinaṃ prātar utthāya śucir bhūtvā bhavatā svarūpaṃ draṣṭavyam / mārgeṇa devapiṭrtarpaṇāgnidvijātyatithīnāṃ pūjā karaṇīyā / tathā pitṛmātṛsvasṛneṣṭṛbhrātṛprabhṛti- bandhujanaśuśrūṣā cānavarataṃ karaṇīyā. . . . vidvajjanāravindanirgacchaddharmaśāstramadhurasāsvādalālasa- madhupena bhavitavyam / 293Lekhapaddhati, 60–61: āśīrvādārtho ’yaṃ / kuśalam atrāsmakām/ tatratyātmīyakuśalavatī vārtā anavarataṃ praheyā / 294Lekhapaddhati, 61: pratidinaṃ prātar utthāya śucir bhūtvā bhavatā svarūpaṃ draṣṭavyaṃ / 295Lekhapaddhati, 60: svasti / amukasthāne anavaratakriyamāṇavedādhyayananirmalīkṛtamānasān aṣṭādaśa- smṛtipurāṇādidharmakathāśāstrābhyāsaniratān gahanajyotiḥśāstrāvagatatatvān duṣṭagrahaśākinībhūtamudga- loccāṭanamantravādaparisphuraṇāvāptaparamaprasiddhīn haramurāribrahmaprabhṛtīṣṭadevatārādhanasaktā- ntaḥkaraṇān pūjyaparamārādhyatamottamaparamapūjārcanīyabhaṭṭārakaśrīamukapādān amukasthānāt sadājñā- vidhāyī śiṣyaḥ amukākaḥ kṣitatalanihitottamāṅgena sāṣṭāṅgaṃ praṇamya savinayaṃ vijñāpayati yathā / 
+331 
+The Bhaṭṭāraka is praised at once in terms of two very different registers of discourse. On the 
+one hand, he is presented as a conventional embodiment of Brāhmaṇical knowledge, someone 
+“made stainless through the study of the Veda and the performance of its rituals” who is 
+“committed to the practice of storytelling regarding śāstra, Dharma[śāstra], and eighteen 
+Purāṇas and Smṛtis.”296 At the same time, in much more specific terms, he is portrayed as a 
+professional exorcist whose knowledge derives from practical Tantra, as someone who “has 
+delved into the profound science of astrology” (gahanajyotiśāstrāvagatatatvān) and “who is 
+supremely well-known as having achieved effulgence by means of the discipline of mantras 
+(mantravāda), which eradicates. . . the demonic dead (bhūta), śākinīs, and defiling seizers.”297 
+In the absence of any other examples of the genre, it is difficult to know for certain, but in light 
+of what we find in other cases where both the template and examples of a document survive, 
+where actual documents pick and choose what they find useful in the template to fit particular 
+circumstances, it is tempting to see in this text the raw materials for relating to two very 
+different types of Śaiva Bhaṭṭārakas, ones who derived much of their authority from 
+scrupulously embodying Brāhmaṇical erudition and a chaste code of conduct, as well as those 
+vijñāpyam āha / pūjapādadatta-āśīrvādānubhāvataḥ samastamānuṣāṇāṃ kuśalavārtām avadhārya tatratyātmīya- kuśalavatī vārtā mama santoṣāya nirantaraṃ prasādīkāryā / aparaṃ ca / pūjyapādānām atīva samutkaṇṭhitaṃ svīyadarśanāmalajalenāgatya kalimalāvaliprakṣālanapūrvaṃ madīyam aṅgaṃ nirmalīkaraṇīyam / tathā parvaddhayātmanaḥ prabhṛti sukṛtakalpanā tathā cīrṇavratopāyanakaṃ sametya svayaṃ pratigrāhyam / yatkṛtyādeśā’navarataṃ prasādīkāryaḥ // 296Lekhapaddhati, 60: anavaratakriyamāṇavedādhyayananirmalīkṛtamānasān aṣṭādaśasmṛtipurāṇādidharma- kathāśāstrābhyāsaniratān / We might also take storytelling (kathā) as simply another item in this list, or take dharmakathā as a fixed unit, but the recounting of dharma teachings and the Purāṇas and Smṛtis is often attested to in our inscriptional record while mere storytelling on the part the ācārya is not. 297Lekhapaddhati, 60: duṣṭagrahaśākinībhūtamudgaloccāṭanamantravādaparisphuraṇāvāptaparamaprasiddhīn / The word “mudgala” generally refers either to a species of grass or a Vedic sage. One might conjecture that uccāṭana rites of eradication might be performed using this grass, in which case we might translate, “which eradicates through the use of mudgala grass the demonic dead (bhūta), śākinīs, and defiling seizers.” More likely, however, the text here is simply corrupt and needs to be emended. 
+332 
+whose power pertained to the apotropaic and whose knowledge was grounded in their mastery 
+over the canon of the unseen. 
+The impetus for producing such a text is if anything even more interesting. It seems to 
+be the typical thing one would issue as a matter of decorum after the religious authority in 
+question has already visited one’s village, given his blessings, and been honored by having his 
+feet washed by the local or royal authorities. Such occurrences are quite simply the single most 
+frequently memorialized activity in the inscriptional record in the medieval Deccan, for they 
+lay at the heart of world where the king turned the wheel of dharma through acts of mass 
+philanthropy. What this document suggests is that we should envision that each such occasion 
+was bookended, at the bare minimum, by the production of a letter of invitation to the ācārya 
+from the people residing in the place he had come to bless as well as a thank you note. The 
+same probably also holds true for all cases where the dynamic is reversed and the ācārya is 
+himself the one doing the hosting. Again, in spite of our expectations, the evidence mounts that 
+every place where a religious authority engaged with wider public, it was required as matter of 
+course that an institution arise for the production and preservation of such entextualized 
+quotidian transactions. In a world where performance of one’s identity was invariably linked 
+to demonstrating who was above you and who was below you in the social pecking order 
+through elaborate displays of humility, benevolence, and courtesy, breaking protocol would 
+have been out of the question. If you did not send your thank you letter, next time the ācārya 
+would simply might pass your town by and you might not get his indispensable help with 
+solving supernatural problems when your wife became possessed by a piśāca. In this way, it 
+begins to come into focus that, much as matters stand today on the subcontinent, the religious 
+333 
+and social transactions of the medieval world were carried from within a veritable ocean of 
+paperwork, much of it in Sanskrit. 
+Before the Law: Writing and Civil Society 
+Well into the early modern period, so far as the world of Sanskrit discourse was concerned, the 
+foundation for thinking through the practical details of the life of an institution was articulated 
+in a canon of subsidiary works of Dharmaśāstra, now almost forgotten but indispensable in the 
+eyes of the commentators well into the early modern period. Beginning with the lost writings 
+of Bhṛgu and descending, in a transmission marked by extensive intertextuality, through 
+Bṛhaspatismṛti to the Nāradasmṛti, to Katyāyānasmṛṭi and finally into Vyāsa, whose text 
+survives in a precious few citations, the discourse preserved therein represents one of the great 
+untapped resources for understanding the practicalities of the medieval world. The evidence is 
+particularly rich regarding the nature of the textual production taking place outside of the 
+networks of circulation that usually grab our attention. 
+The Bṛhaspatismṛti tells us that a key function of a deliberative body (sabhā) is to 
+arrive at deliberative decisions pertaining to specific legal cases.298 While a sabhā can be many 
+other things, essentially it is also a court. When a deliberative body (sabhā) meets, Bṛhaspati 
+informs us, in addition to the sabhā folk who sit on the council, two people must always be 
+present: a writer (lekhaka) and an accountant (gaṇaka).299 A writer, our source tells us, is 
+“someone who knows the meaning and the denotation of words, and who knows various kinds 
+of scripts,” while the accountant is “skilled in calculation” and “can correct things.”300 As our 
+298K.V. Rangaswami Aiyangar, ed. Bṛhaspati-smṛti Reconstructed (Baroda: Oriental Institute, 1941). 299Poetically expressed, if the king is the “head” of the “body” that is the royal sabhā, the gaṇaka and lekhaka are the thighs of that form. Bṛhaspatismṛti 1.084: eṣāṃ mūrdhā nṛpo ‘ṅgānāṃ mukhaṃ cādhikṛtaḥ smṛtaḥ / bāhū sabhyāḥ smṛtir hastau jaṅghe gaṇakalekhakau / 300Bṛhaspatismṛti 1.1.081: śabdābhidhānatattvajñau gaṇanākuśalau śucī / nānālipijñau kartavyau rājñā gaṇakalekhakau / 
+334 
+Dharmaśāstrin somewhat tersely says, “the accountant should count the money and the writer 
+should write the verdict.”301 Bṛhaspati and the discourse that emerges from him clarify for us 
+that the sabhā is not some special space solely situated in the capital city. Instead, the sabhā is 
+said to be of four types: that which is established in a city or town, that which is “moving,” 
+such as the councils held on the road by traveling merchant caravans or bands of soldiers, that 
+which is conveyed by an official of the state, and that which is directly conducted by the 
+king.302 Nor are the sabhā folk simply comprised of the chief advisors of the royal court and 
+the crème de la crème of Brāhmaṇical high society. As Bṛhaspati says: 
+Of all the soldiers in the army, and likewise for merchants in the caravans, farmers, kārukas, wrestlers, for those whose livelihoods involve being bards or merchants, for Pāśupatas and even thieves—the deliberation (nirṇaya) is according to their own dharma (svadharma).303 
+While the profound implications a passage like this has for our understanding of the 
+nature of institutional and religious life will be made clear over the course of the next chapter, 
+for the moment we can restrict ourselves to thinking through how such social formations 
+pertain to the matter at hand, namely, locating the place of textual production in wider social 
+life and seeing what it can tell us about the emic life of institutions. As we are beginning to 
+see, every type of social institution, be they travelling merchants, farmers, ascetics, religious 
+collectives, wrestlers, artisans, or heretics, is expected to have its own sabhā and presiding 
+council, for, wherever deliberation (nirṇaya) takes place, something analogous to a sabhā must 
+be at work. And, every council, we have already learned, must have a writer and an accountant. 
+301Bṛhaspatismṛti 1.1.090: gaṇako gaṇayed arthaṃ likhen nyāyaṃ ca lekhakaḥ / 302Bṛhaspatismṛti 1.057–58: pratiṣṭhitāpratiṣṭhā ca mudritā śāsitā tathā / caturvidhā sabhā proktā sabhyāś caiva tathāvidhāḥ // pratiṣṭhitā pure grāme calā nāmāpratiṣṭhitā / mudritā‘dhyakṣasaṃyuktā rājayuktā ca śāsitā // 303Bṛhaspatismṛti 1.1.075: senāyāṃ sainikānāṃ tu sārtheṣu baṇijāṃ tathā / kīnāśāḥ kārukā mallāḥ kusīdaśreṇivartakāḥ / liṅginas taskarāś caiva svena dharmeṇa nirṇayaḥ / kulāni śreṇayaś caiva gaṇās tv adhikṛto nṛpaḥ / 
+335 
+That is to say, every institution was required, at least in theory, to entextualize some aspects of 
+its institutional culture. 
+To begin to get a sense of why this is the case, it is worth taking a moment to reflect on 
+the role that writing as an entextualization of spoken discourses played in juridical practice in 
+the medieval world, especially in light of our earlier engagement with the question of how 
+Sanskrit textuality in very pragmatic forms inflected the lives of quasi-literate or non-literate 
+people. In this context, writing plays two conceptually distinct roles. There is the 
+entextualization of the court proceeding itself, and there is the providing of preexisting 
+documents as legal proof during the course of the case. When a case is brought to trial and the 
+plaintiff and defendant are present, the lekhaka serves as a stenographer. As Kātyāyana, a work 
+of transactional Dharmaśāstra304 that postdates Bṛhaspati, sternly warns, “the writer who writes 
+down the words of the petitioner (plaintiff or defendant) in opposition to what they have stated 
+is to be punished as a thief.”305 In a court case, regardless of who brought the initial claim, 
+whichever party is deemed to have been more adversely impacted is treated as the plaintiff. In 
+oral form, the plaintiff presents his initial statement. As he speaks, the writer writes this 
+statement down “on the ground (bhūmi) as it is being narrated.”306 The statement needs to 
+incorporate a specification of things such as the time when the transaction in dispute took place 
+(year, month, the moon, the tithi), the location (in the town, village, etc.) the region, the place, 
+the caste and condition of those involved and their age.307 If the case is about property, we need 
+304Pandurang Vaman Kane, ed. and trans., Kātyāyanasmṛtisāroddhāraḥ or Kātyāyanasmṛti on Vyavahāra (Law and Procedure). Text (Reconstructed), Translation, Notes and Introduction (Bombay: P. V. Kane, 1933). 305Kātyāyanasmṛti 132: anyad uktaṃ likhed anyad yo’rthipratyarthināṃ vacaḥ / cauravat śāsayet taṃ tu / 306Kātyāyanasmṛti 130: bhūmau niveśayet tāvad yāvat pakṣaḥ pratiṣṭhitaḥ / 307Kātyāyanasmṛti 124–28: niveśya kālaṃ varṣaṃ ca māsaṃ pakṣaṃ tirthi tathā / velāṃ pradeśaṃ viṣayaṃ sthānaṃ jātyākṛtī vayaḥ // sādhyapramāṇaṃ dravyaṃ ca saṃkhyāṃ nāma tathātmanaḥ / rājñāṃ ca kramaśo nāma nivāsaṃ sādhyanāma ca // kramāt pitṝṇāṃ nāmāni pīḍāṃ cāhartṛdāyakau / kṣamāliṅgāni cānyāni pakṣaṃ saṃkīrtya kalpayet // deśaś caiva tathā sthānaṃ saṃniveśas tathā eva ca / jātiḥ saṃjñā nivāsaś ca 
+336 
+to know the material and dimensions of the object in dispute. If it is about money, we need to 
+know the sum involved. In all cases, we need to specify the plaintiff’s name, the names of the 
+reigning kings, the place where he lives, a description of what is being contested, the names of 
+the father, grandfather, and great grandfather of both parties, the nature of the claim, the person 
+who possesses the contested object right now, if this is what is at stake, the reason why the 
+claim was submitted, and the other details. But again, the catalog above is simply a delineation 
+of the bare minimum of details necessary for the claim to be incorporated into a legal dispute. 
+What actually was spoken in the court was an oral discourse by the plaintiff, all of which had 
+to be written down by the lekhaka (likhet sarvaṃ vādinaḥ), lest he be punished like a thief. 308 
+The sole exception to this is that emotional outbursts “out of anger (kopitaḥ)” provoked by 
+“passion and so forth (rāgādina)” were not to be recorded. In their place, the scribe was simply 
+to write the word “om.” After the discourse was finished, the transcript was to be taken and 
+reworked into a format appropriate for the court. This new document was written down on 
+palm leaf. The evaluation of the internal consistency and plausibility of that document in 
+relation to the discourse produced in response by the defendant, again first in the form of an 
+oral statement recorded by stenographer, which was then professionalized into document form, 
+determined whether the case would move on to being tried. If the case went to trial, both sides 
+had to present “proofs” in support of the veracity of their claims, which would then be 
+submitted to further evaluation. These could take the form of documents, witnesses, or divine 
+trials, though all three forms of proof were not judged as admissible evidence in all types of 
+cases. All of these types of proofs entailed some degree of entextualization. Witness testimony, 
+pramāṇaṃ kṣetranāma ca // pitṛpaitāmahaṃ ca eva pūrvarājānukīrtanam / sthāvareṣu vivādeṣu daśaitāni niveśayet // 308Kātyāyanasmṛti, 129: rāgādīnāṃ yad ekena kopitaḥ karaṇe vadet / tad om iti likhet sarvaṃ vādinaḥ phalakādiṣu 
+337as we may now anticipate, was itself subject to further entextualization, and even certain divine 
+trials involved the accused writing down statements related to their guilt or innocence and 
+having them adjudicated via miracles. For our purposes, however, it is the only proof by means 
+of documents that will hold our interest and prove indispensable to our analysis. 
+In the usual style of śāstra, Bṛhaspati tells us that documents are of “three types” before 
+going onto much more extensive orders of sub-speciation.309 The “worldly document” is said 
+in turn to be sevenfold: documents of inheritance (bhāga), documents concerning philanthropy 
+(dāna), documents concerning land boundaries (sīma), documents concerning sales (kraya), 
+concerning slaves (dāsa), documents concerning a mortgage (adhī), and finally, documents 
+concerning the samaya or samvit, the nature of which we be exploring in much more detail.310 
+To these, our author himself adds the document of “victory” (jaya) in a legal case, which the 
+king is purportedly to certify,311 and the specifically royal document of favor (prasādapatra) 
+issued after the terms of military service are completed. Then, breaking his own taxonomy, he 
+suppletes in several more—most pertinently for our purposes, the “sthitipatra,” which 
+confirms the institutional establishment of a samaya or saṃvit community, a social formation 
+we will explore in great detail in the next chapter, but which we have already seen is explicitly 
+associated with its own category of transactional textual production. As Bṛhaspati notes in 
+passing, in regard to institutions established by sthitipatra, “by the knowers of the Manusmṛti 
+and so forth, that is called a sthitipatra which is made for the establishing of a samaya on the 
+part of pūgas, śreṇis and so forth. [In that context,] the accepted means [for proving a claim in 
+309Bṛhaspatismṛti 1.6.04: lekhyaṃ tat trividhaṃ proktaṃ bhinnaṃ tad bahudhā punaḥ / 310Bṛhaspatismṛti 1.6.05: bhāgadānakrayādhināṃ saṃviddāsa-ṛṇādibhiḥ / saptadhā laukikaṃ lekhyaṃ trividhaṃ rājaśāsanam / 311Bṛhaspatismṛti 1.6.26: pūrvottarakriyāvādanirṇayānte yadā nṛpaḥ / pradadyāj jayine lekhyaṃ jayapatraṃ tad ucyate / 
+338 
+court or protecting a right] is a document, and not through a divine trial or from witnesses.”312 
+In this regard, supplementing Bṛhaspati, Kātyāyana is particularly clear. “Whatever differential 
+order of the rule of law has been fashioned in accordance with the conduct of a region 
+[deśācāra], that should always be entextualized. . . . With effort, it should be protected as if it 
+were śāstra. Having examined that, one should arrive at a conclusive deliberation 
+(nirṇaya).”313 Along similar lines, he also tells us, “that which is established by the 
+naigamas”—a term of art that as we shall see often refers to a Śaiva religious community— 
+“one should also entextualize that.314” Succinctly, when it comes to both what scholarship has 
+termed customary practice as well as the institutional life of religious communities that are not 
+comprised of Vaidika Brāhmaṇas performing Śrauta ritual—such as the vast catalog of 
+traditions that dominated the medieval Deccan during what Alexis Sanderson has so aptly 
+dubbed “The Śaiva Age”—the working assumption of most of our literature that the quotidian 
+transactions and institutional operations of these communities were simply conducted orally, 
+perhaps to keep away the prying eyes of Brāhmaṇical normativity, is simply untenable. Our 
+textual record demands we arrive at the opposite scenario, for the śāstras are quite clear: 
+everything had to be in writing. 
+Indeed, just how thoroughly the domain of the law and the institutions and social agents 
+of the discourse we tend to call religion were implicated in one another is made palpably 
+evident when one begins to reflect on how our sources represent the physical space in which 
+legal deliberation is to be carried out. In setting up the royal court, Bṛhaspati tells us, once he 
+312Bṛhaspatismṛti 16.18–19: pūgaśreṇigaṇādīnāṃ yā sthitiḥ parikīrtitā / tasyās tu sādhanaṃ lekhyaṃ na divyaṃ na ca sākṣiṇaḥ /// pūgaśreṇyādikānāṃ tu samayasya sthiteḥ kṛtam // sthitipatraṃ tu tat proktaṃ manvādismṛtivedibhiḥ / 313Kātyāyanasmṛti 47–49: deśapattanagoṣṭheṣu puragrāmeṣu vāsinām / teṣāṃ svasamayair dharmaśāstrato ‘nyeṣu taiḥ saha // deśasyānumatenaiva vyavasthā yā nirūpitā / likhitā tu sadā dhāryā mudritā rājamudrayā // śāstravad yatnato rakṣyā tāṃ nirīkṣya vinirṇayet / 314Kātyāyanasmṛti 49: naigamasthais tu yat kāryaṃ likhitaṃ yad vyavasthitam / 
+339 
+has assembled all the required personnel, the king “should install auspicious and beneficial 
+things. He should cause to have fashioned the gods of the directions, such as the sun and the 
+moon.”315 In other words, the finishing touches to setting up the royal sabhā involve making 
+it resemble a temple. But instead of reading such cultural practices as reflecting an effort to 
+legitimate political authority through the strategic deployment of religious capital, it is far more 
+productive to see such choices as organic reflections of the fundamental consonance between 
+these two seemingly disparate institutional spaces. In his division on vyavahāra in the 
+Madanaratnapradīpa,316 a work of the early fourteenth century that incorporates in an almost 
+systematic fashion extensive commentarial reflection on the Bṛhaspatismṛti, in passing and 
+almost inadvertently, king Madanapāla comments that in the context of the social formation 
+called the samaya or saṃvit community, when we speak of the sabhā, what the texts really 
+intends is a maṇḍapa, the many pillared pavilion that abuts the entry of all but the smallest 
+Indic temples. This is the site, he tells us, where those who advocate on behalf of such 
+communities, mostly councils of merchant acting on behalf of the governing ācārya, gather to 
+deliberate and carry out their activities, and it is also the space where the production and 
+presentation of the category of documents pertaining to the samaya is enacted. Ironically, for 
+Madanapāla’s core intellectual project involves drastically curtailing the autonomy and 
+authority of such communities in the service of expanding the authority of the state, the 
+Madanaratnapradīpa offers rare confirmation in the context of a prescriptive source of an 
+315Bṛhaspatismṛti 1.1.86: tanmadhye sthāpayed rājā puṇyāni ca hitāni ca / ādityacandradevādidikpālān tatra kalpayet // 316P. V. Kane, ed., Madanaratnapradīıpa (Vyavahāravivekoddyota): An Extensive Digest on Dharmaśāstra Compiled Under the Patronage of King Madanasiṃha (Bikaner: Anup Sanskrit Library, 1948). Copious relevant discussions are found scattered throughout the commentary, though in some cases the materials are presented as part of an inherited pūrvapakṣa. See for example pg. 39–48, 63, 67, 260–264. 
+340 
+almost ubiquitous social dynamic in the medieval Deccan heavily attested throughout the 
+documentary record. 
+Thus, for example, in a short inscription in old Kannada from 1005 CE from Yelburga 
+district in central Karnataka, several hours to the west of Dharwad in the town of Kukkunur, a 
+place to which we will return many times in this study, the commemoration of the construction 
+of the main ritual pavilion attached to the temple presents us with an occasion during which 
+ritual performance blends seamlessly with the carrying out of quotidian transactional activities, 
+all of which would have entailed the production of precisely the sort of paperwork and 
+recordkeeping we have just been exploring. The passage is worth quoting in full: 
+Bowing at the feet of Agastijīya, who was endowed (with the virtues arising from the practice) of yama, niyama, svādhyāya, dhyāna, mauna, anusthāna, and samādhi, and who was a student of Cōḷapaṇḍita of the auspicious maṭha at Pūṣa—Īśvarasĕṭṭi had erected the kalaśas upon the two pinnacles of the temple and caused to be made the main pavilion (mukhasālĕyaṃ samĕyisi). After circumambulating around the gods, in the presence of the collectivity of merchants (nakara/nakharasamūha), the occasion marked by the pouring of water, he also bestowed 100 gadyāṇa for the purpose of establishing a wall around the maṇḍapa. First, the one who was a store house of austerities took hold [of the donated gold] and then the endowment was put in the hand[s] of the merchant collectivity. 
+They [the merchants], alone, were the primary authorities. Protecting the donation, they secured it and collected the interest. In this, they acted in accordance with the legal rules (dharma) pertaining to trusts of deposited money. For those people who managed [the trust,] there is the fruit (phalan) of giving innumerable gifts at tīrthas like Varanasi, Kurukṣetra, and Prayāga. But for those people, having disregarded this, who opposed it, the sin of stealing gold from the gods will be obtained. 
+All of [the people] of that place, the celebrated Kukkunur, were there [for the occasion]. At the time of the installing of the god Gavaṟeśvara, a tax apprising center was set up, which [was managed] as follows: taxes on the packs of peddlers317 [importing goods] and two kinds of fines, these things just mentioned are the revenue belonging to the 
+317Tēdēr is a standard word for tax while pasuṃb, across a range of Dravidian languages (though not attested directly in classical Kannada) refers to the pack of a peddler. Presumably, the idea is that, to ensure that goods for which the temple complex does not have specified levies are included in the taxation process, bags full of imported goods are subject to a basic flat tax. 
+341 
+gods. There is the great sin of killing cows and Brāhmaṇas, for the person, disregarding these [taxes], who appropriates these resources [for himself].318 
+As we learn elsewhere when we examine the more than fifty inscriptions preserved at 
+the site, which received continuous patronage from the time of the early Rāṣṭrakūṭas until the 
+middle of the thirteenth century when the land grant was abruptly and deliberately terminated 
+for reasons that lie that the very heart of the story we will explore in this study, Kukkunur was 
+an important ritual center associated throughout its history with the ascetic orders of the 
+Atimārga. In the majority of these inscriptions, though not in this relatively short text, these 
+figures identify themselves specifically as adherents to the tradition of the Kālamukhas.319 
+Indeed, as we shall see in subsequent chapters, the inscriptions at Kukkunur offer us 
+unprecedented insights into the actual textual traditions and theological commitments of this 
+important Śaiva tradition, which, despite representing the dominant transregional religious 
+network throughout the medieval Deccan has remained essentially a mystery to modern 
+scholarship. 
+Belying the common but thoroughly erroneous image of the Kālamukhas as a regional 
+tradition confined to Karnataka, here, the monastic head (jīya) Agasti appears in fact to be the 
+disciple of revered yogin from the Tamil country, a certain Cōḷapaṇḍita of Pūsamaṭha. Despite 
+318Pandurang Bhimarao Desai, ed., A Corpus of Inscriptions in the Kannada Districts of Hyderabad State, Hyderabad Archaeological Series vol. 18 (Hyderabad: Archaeological Department, Government of Andhra Pradesh, 1958), 40: cōḷapaṇḍitara śiṣyar’ agastijīyara kālaṃ kaḻci īśvarasĕṭṭi ĕraḍu dēgūlada kaḷasaman iḍisi mukhasālĕyaṃ samĕyisi dēvaraṃ pradakṣiṇaṃ gĕydu nakarasamūhasādhiṣṭhitaṃ dhārāpūrvvakadind’ ā ma[ṇ]ṭa[pa]da parisūtrad’ upabhōgakkĕ kŏṭṭa 100 gadyāṇamumaṃ tapōdhanar ppiḍiyalu nakarada kayyal’ irppŏḍ’ avarē mukhyar āgi mŏdalaṃ kādu vṛddhiyŏḷ naḍĕyisuvar ā dravyada dharmmakk’ anukūḷar āgi naḍĕyisid’ avarggĕ vāṇarā(rāṇa)si kurukṣētra prayāgādi tīrtthasthānaṃgaḷŏḷ amita dravyamaṃ kŏṭṭa pa(pha)lam (,) adan upēkṣisi vakrisid’ avargg’ ā sthaḷaṃgaḷŏḷ anitĕ dēvar-brāhmaṇa suvarṇnāpaharaṇa pāpaṃ sārvvudu // śrīmatkukkanūra taḷasamastam irddu gavaṟēśvara dēvara pratiṣṭhākāladŏḷ māḍid’ ā[ya]sthānam ĕnt’ ĕndŏḍĕ pasuṃbĕdĕṟĕ daṇḍaṃ-dōṣam avutam aucityam ĕṃb’ ivu dēvar’ ŏḍavĕ [/*] ivan upēkṣisi bhakṣisid’ avaṃ kavilĕyuṃ brāhmaṇaran aḷi(ḻi)da mahāpātakaṃ [//*] A collaborative translation. Much thanks to Tim Lorndale. 319We will address the substantial corpus of new evidence for rethinking the nature of Kālamukha religion and institutional culture as well as the central place they occupied in the social and religious life of the Deccan in chapters 4 and 6. 
+342 
+his spiritual authority, Agasti’s role in these proceedings, at least as depicted in this short 
+inscription, are somewhat circumscribed to the first phase of the event. During this part of the 
+affair, his disciple, the wealthy, likely Vaiśya, merchant Īśvarasĕṭṭi bows before him and then 
+circumambulates the main deity in the already existing shrine. Apparently, everyone in the 
+village was assembled for this occasion to celebrate the installation of decorative pinnacles on 
+the top of the temple, a common focus for pious renovation projects, as well as the completion 
+of the construction of a pavilion space for holding future events. Up until this point, it looks 
+like what we are witnessing is a glimpse at what we think of as “just a religious ritual.” And 
+then, the generous Īśvarasĕṭṭi makes another rather enormous donation, putting money towards 
+a forthcoming construction project that will encircle either the maṇḍapa or the entire temple 
+complex in its protective enclosure. Suddenly, from the modern reader’s perspective, there is 
+a jarring shift in focus. The financial deposit is seemingly nominally handled and perhaps 
+blessed by Agasti, whose wealth takes the form of austerities. He entrusts it into the hands of 
+the merchants (nakarada kayyal) and then, his office’s functions complete, Jīyar Agasti 
+disappears from view. 
+As we will discover in the next chapter, it is the collectivity (nakarasamūha) that, from 
+the perspective of the Dharmaśāstra itself, was responsible for the day-to-day affairs of the 
+community on whose behalf they served. These duties included managing the temple trust, the 
+administration of legal deliberations and meetings in the sabhā over which the jīyar presides, 
+as well as ensuring that the financial responsibilities of the temple, including the payment of 
+employees and judicious administration of its banking services, are carried out in a transparent 
+and legal manner. While the notion of the Indian temple as a financial institution is well known 
+from the writings of scholars like Arjun Appadurai, who sees these developments as reflections 
+343 
+of a quintessentially early modern moment that births the south Indian megatemple as an 
+economic powerhouse, in fact the core dynamic of the temple serving as bank vault is 
+seemingly as old as temples themselves. Precisely because there are both laws, and often a 
+range of armies, that are committed to ensuring the stability of temple complexes, and temples 
+are usually at this time staffed with a range of onsite residents who keep an eye on the place 
+and its things, the vault of a temple serves as an ideal place for making a deposit (nikṣepa) 
+either of your excess liquid capital or of your more precious possessions. Particularly if you 
+are a merchant or solider whose lifestyle involves extended periods of travel away from your 
+residence, but also if you are simply going on an extended pilgrimage, quite apart from any 
+concern with generation of religious merit, in a world where brigands and thieves abound, the 
+vaults in a temple complex provide a safe place to put your things that ensure you will most 
+likely still have your property when you return. On the basis of its unusually rich and 
+comprehensive documentary records, from an inscription composed about a half century after 
+this one, we know that at Kukkunur in particular, the interest (vṛddhi) generated on the deposit 
+would have gone to pay the stipends of the scholars on staff at the maṭha and the salaries of 
+dancers and actors, with any additional profit being redirected to helping to fund the ritual 
+performances in the temple.320 
+As our present inscription makes clear,321 in practical, terms, when it came to the 
+management of this money, the collectivity of the merchants held the primary (mukhya) 
+authority, taking on their own heads both the karmic and legal responsibility not only for the 
+320Channabasappa Patil, Temples of Raichur and Bellary Districts: Karnataka, 1000–1325 AD (Mysore: Directorate of Archaeology and Museums, 1992), 48–49. 321The single best work on this subject in a Western language is Economic Conditions of Medieval Karnataka. This obscure monograph by G. R. Kuppuswamy was published by Dharwad University in 1975 and to the best of my knowledge has never been cited outside of Karnataka. G. Kuppuswamy, Economic Conditions in Karnataka, A.D. 973–A.D. 1336 (Dharwad, Karnatak University, 1975). 
+344 
+benefits that would accrue from carrying out their duties but also for any financial malfeasance. 
+These very same authorities would also have been responsible for overseeing the allocation of 
+temple revenues. Apart from the donations of generous well-heeled men like Īśvarasĕṭṭi, what 
+made the world of the temple financially soluble was an elaborate system of “non-voluntary 
+contributions” that was levied on the people who lived in or visited the land held in trust by 
+the temple, especially when it came to the importation and sales of various kinds of goods. 
+This parallel system of taxation, much of it paid in kind out of the produce and wares a farmer 
+or salesman produced, often replaced most if not all of the rent extraction structures otherwise 
+administered by kings or regional warlords. Thus, when one speaks of Kukkunur as a tax-free 
+land grant, which it most certainly was, free from the interference and administrative control 
+of the state, we do not mean that it was some sort of libertarian paradise where no one paid any 
+taxes. Instead, what is intended is that, in place of sending tribute to a far-away king and his 
+intermediary warlords, the taxes one paid remained circulating in the local economy where 
+they were legally speaking considered the property of the god himself. 
+A rather subtle but striking detail of the present inscription concerns the actual location 
+where, while all the people were assembled, a tax appraising center (ayasthānam) was set up 
+for the occasion. As we have seen, according to the laws of the land, such a space would have 
+been a center for the mass production of a documentary record in some combination of Sanskrit 
+and Kannada and the records produced would in turn have been stored onsite alongside the rest 
+of the temple complex’s archive. Kukkunur by this time was a site with at least three major 
+temple complexes with transregional reputation, frequently visited and patronized by kings and 
+regional warlords. In spite of this, the site at which the tax collection process was carried out 
+was not one of these elite spaces, but rather the no longer extant, perhaps not even stone, 
+345 
+structure of the lord of the Gavas (gavēśvara). Most likely a cognate of old Marathi words like 
+Gāvalī, the term Gava seems to refer largely non-land holding caste comprised of subsistence 
+agriculturalists. Much like the term Kammatēśvara, which is not so much the name of a god 
+but rather a label assigned to designate a particular temple complex as being primarily 
+associated with medieval artisans, especially iron workers, Gavēśvara seems to be a generic 
+identity. Thus, the intention is to write into the historical record that the devotees who frequent 
+and funded the temple are from some of the bottom most rungs of society, apart of course from 
+Dalits. In essence, then, we end our chapter somewhere close to where we began it, holding 
+palpable proof in our hands that the entextualized strictures of institutional life, frequently but 
+not always in Sanskrit, organized according to far ranging well established legal norms, had a 
+palpable impact in structuring the lives of people across the social spectrum. As we have seen, 
+if scholars of religion, even those who work on supposedly “esoteric traditions,” are to make 
+sense of the lived realities of the types of social agents whose scholastic, ritual, and theological 
+textual production we set out to make the focus of our study, they would do well to attend to 
+the sorely neglected quotidian documentary world, and the rules which governed it, which we 
+have spent this chapter exploring. 
+It is to the surviving evidence for such institutional textuality as it operates quite 
+specifically within the realm of Tantric communities to which we will turn our attention in the 
+following chapter, an archive that resonates in surprising ways with the discourses we have 
+just explored. 
+346 

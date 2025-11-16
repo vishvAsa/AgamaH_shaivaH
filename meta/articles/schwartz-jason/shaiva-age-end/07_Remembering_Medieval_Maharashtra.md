@@ -1,0 +1,2519 @@
++++
+title = "07: Remembering Medieval Maharashtra"
++++
+Chapter 7: Remembering Medieval Maharashtra: The Early Seuṇa Yādavas in the 
+World 
+The objective of this chapter is to help situate early medieval Maharashtra within the wider 
+purview of the institutional, theological, and political flows that animated the medieval 
+Deccan. In this manner, through a series of intersectional case studies, our exploration will 
+bring into sharp relief the distinctive features of Maharashtra’s medieval religious and political 
+imaginaries prior to the thirteenth century. As we will see, the evidence at hand will eventually 
+call for a reappraisal of Maharashtra’s most famous medieval “Brāhmaṇical” dynasty, the 
+Seuṇa Yādava kings of Devgiri, who will feature with increasing prominence in the final three 
+chapters of the present work. Before we can proceed to offering textured close readings in 
+tandem of image, territory, text, and documentary record, all of which emerge out of our earlier 
+efforts at making sense of the wider Cāḷukya world, first we must grapple with a more 
+fundamental problem. Succinctly, if but briefly, we must confront head on the widespread 
+assumption that, in the absence of extensive textual production, the study of early medieval 
+Maharashtra offers an intrinsic aporia in our understanding about which little of substance can 
+be said. Both in the West and within Maharashtra itself, scholarship that seeks to isolate what 
+is distinctive about Maharashtra gravitates towards a delimited canon of conceptual models. 
+Perhaps the most common frame—running across the political and sectarian spectrum—is to 
+invoke the well-known paradigm of language nationalism.863 From this perspective, 
+863An extensive literature focused on various parts of the subcontinent, though not per se on Maharashtra, has developed around this important subject. See especially Sumathi Ramswamy, Passions of the Tongue: Language Devotion in Tamil Nadu 1871-1970 (Berkeley: University of California Press, 1997), as well as Lisa Mitchell, Language, Emotion, and Politics in South India: The Making of a Mother Tongue (Bloomington, IN: Indiana University Press, 2009). As both texts, building upon a range of studies of early modern South Asia, make plain, precolonial India was a polyglot society. While valorizations of specific vernaculars have a long prehistory, in 
+893 
+Maharashtrian identity is simply treated as coterminous with the history of the Marathi 
+language and its textual production. As will soon be made apparent, however, when 
+Maharashtrian culture is defined by the expressions produced in the Marathi language that 
+were entextualized, the very idea of a Maharashtrian medieval is necessarily called into 
+question. Another, more distinctively sectarian approach of framing the region builds directly 
+upon this framework. By selectively privileging the specific contents of particular registers of 
+textual production in Marathi, “Marathi literature” is seen as epitomizing core shared cultural 
+values, with considerable discrepancies concerning what precisely these might be depending 
+on demographic. Such is the case with the pivotal notion of “Maharashtra dharma,” a topic 
+badly in need of careful historicization. In common parlance the concept is often ascribed— 
+and not entirely without grounds—to the seventeenth-century poet-theologian Rāmadās, 
+remembered as a close associate of Śivājī. In the nationalist discourses of the late nineteenth 
+and early twentieth centuries, the term was variously deployed to evoke a martial vision of the 
+restoration of righteous Hindu rule on the one hand, and “a liberal religion eschewing casteist 
+attitudes spread by the poet saints” on the other. In the former register, the privileged canon is 
+comprised of the Dāsabodh of Rāmadās, the deeds of Śivājī, and the documentary records 
+linking the two. In the latter, in contrast, emphasis is placed on the devotional works that are 
+now held dear by members of the Vārkarī Sampradāya. If in the first key, Maharashtra stands 
+first in the nation in terms of throwing off foreign—especially Islamic—tyranny, a task 
+executed through the cultivation of a certain type of disciplined cultural character, from the 
+second perspective, Maharashtra is imagined as the land of the poet saints—a family of bhaktas 
+the case of Tamil, virtually coterminous with that of the language itself, the particular exclusivist conceptualization we label language nationalism is essentially a modern phenomenon. 
+894 
+drawn from across the spectrum of caste who express their devotion in the specifically Marathi 
+idiom of abhaṅga, through whose life stories the region is imagined as prelude to the nation. 
+While the imagined progenitor of this movement, the poet saint Jñānadev, who we will 
+encounter in the next chapter, writes at the end of the thirteenth century, as Christian Novetzke 
+and Jon Keune have demonstrated, the constitution of the Vārkarī community in its present 
+form is the product of distinctively early modern acts of memory, performance, and 
+hagiography,864 many of them essentially contemporary with the age of Śivājī. 
+A more emphatically secular but equally ubiquitous approach is to delineate the region 
+based purely on questions of socio-political identity and sovereignty. The most transparent but 
+also most transparently problematic approach is for Maharashtrian identity to simply be 
+aligned with modern political geography. Here, mere inclusion of a social space or praxis 
+within regional boundaries is determinative of whether or not something counts as 
+Maharashtrian heritage. Given that those boundaries were drawn—and redrawn—to the 
+exclusion of areas that for much of the twentieth century were genuinely bilingual, during the 
+864In this regard, the writings of Jon Keune and Christian Novetzke are indispensable. The two have occasionally collaborated, as in the encyclopedia entry, John Keune and Christian Novetzke, “Vārkarī Sampradāy,” in Brill’s Encyclopedia of Hinduism, vol. 3, ed. Knut Jacobsen et. al. (Leiden: Brill, 2011). For our first reception history of these materials as well as their evolution viewed through the lens of their performance context see Christian Novetzke, Religion and Public Memory: A Cultural History of Saint Namdev in India (New York: Columbia University Press, 2008), as well as his important theoretical work, Christian Novetzke, “Bhakti and its Public,” International Journal of Hindu Studies 11, no. 3 (2007): 255–272. See also John Keune, “Conditions for Historicising Religion: Hindu Saints, Regional Identity, and Social Change in Western India, ca. 1600–1900,” in History and Religion: Narrating a Religious Past, ed. Bernd-Christian Otto, et. al. (Berlin: De Gruyter, 2015), as well as his dissertation, John Keune, Eknāth Remembered and Reformed: Bhakti, Brahmans, and Untouchables in Marathi Historiography (PhD diss., Columbia University, 2011). 
+For textual work periodizing the core Vārkarī corpus and arguing for at least “two” Jñānadevs, see Catharina Kiehnle, The Conservative Vaiṣṇava: Anonymous Songs of the Jñāndev Gāthā (Stuttgart: Franz Steiner Verlag, 1997). For a historicization of the samādhi shrine in general and that of Jñāndev in particular, and of different phases in the institutionalization of Vārkarī material culture, see Mark McLaughlin, Lord in the Temple, Lord in the Tomb: The Hindu Temple and its Relationship to the Samādhi Shrine Tradition of Jñāneśvar Mahārāj (PhD diss., University of California, Santa Barbara, 2014). For a study of female poet saints among the Vārkarī that incorporates recent fieldwork, see Jacqui Daukes Female Voices in the Varkari Sampradaya: Gender Constructions in a Bhakti Tradition (PhD diss., SOAS, 2004). 
+895 
+lifetimes of many people still living, this approach is self-evidently unsatisfactory.865 Finally, 
+and perhaps most consequentially, Maharashtra has been read as distinctive through the lens 
+of “historicizing” caste and caste relations, as precursors to modern political and 
+intercommunal conflict. Here again we face two binaries: those of Brāhmaṇa/Peshwa vs. 
+Maratha and of Brāhmaṇa/Sanskritic vs. Non-Brāhmaṇa.866 Thus, for example, in Thomas 
+Blom Hansen’s apt summary of one such framing, in his monograph Wages of Violence: 
+Naming and Identity in Postcolonial Bombay, “the modern political and cultural history of 
+865Like most Indian states, at the time of Independence, the Congress party conceived of the region we now call Maharashtra as a collection of bilingual states, comprised of the Bombay Presidency and the regions controlled by the Nizam. Apart from far flung territories in Yemen and parts of Sind, the territory of the Bombay Presidency was at once extensive and only slightly overlapping with the domain we now call Maharashtra, most of which, from Aurangabad onward, was under the control of the Nizam. While it contained only the region around Bombay, the Konkan, Nashik, and Pune districts, in regard to what now constitutes the modern borders of the state, the Bombay presidency incorporated virtually all of northern Karnataka (Bagalkot, Belagavi, Bijapur, Dharwad, and Gadag) the southwestern Tulu country, including Mangalore and what is now northern Kerala, as well as virtually all of modern Saurashtra and Gujarat. Incidentally, as we shall see, the treatment of many of these areas as interconnected regions is in partial alignment with medieval patterns of regional circulation. From a political perspective, the contours of the Bombay Presidency as well as the demographics of Bombay itself were comprised of 55% non-Marathi speakers, virtually ensuring the economic and social dominance of the Gujarati merchant classes as well as the continued marginality of Marathi speakers within the new state. The result was the Samyukta Maharashtra movement, a coalition of right-populists, leftists, satyagrahis and socialists that, from the foundation of the Samyukta Maharashtra Samiti in 1951 to the establishment of the state of Maharashtra in 1960, advocated for statehood against the general opposition of Congress and its own elected representatives. The definitive political history of the movement remains Y. D. Phadke, Politics and Language (Bombay: Himalaya Publishing House, 1979). Phadke, however, touches only briefly on the complex caste dynamics of the Samyukta Movement, on which see the next footnote. Phadke is interesting also in that the date of the composition of his original work precluded him from viewing the constitution of Marathi identity, as many now do, as inextricably linked with the rise of the nativist party, the Shiv Sena. 866For Brāhmaṇa/Maratha conflict, apart from the early chapters of Thomas Blom Hansen, Wages of Violence: Naming and Identity in Postcolonial Bombay (Princeton, NJ: Princeton University Press, 2001), the reader is directed to Prachi Deshpande, Creative Pasts: Historical Memory and Identity in Western India, 1700–1960 (New York: Columbia University Press, 2007), and the second chapter of Rosalind O’Hanlon, Caste, Conflict, and Ideology: Mahatma Jotirao Phule and Low Caste Protest in Nineteenth-Century Western India (New York: Cambridge University Press, 2002). For the early history of Maharashtrian incarnations of the non-Brāhmaṇa movement, the key work is again O’Hanlon (2009), as well as a series of subsequent publications by the same author complicating the history of caste in Maharashtra through studies of early-modern jāti Purāṇas and other such resources. In addition to works already mentioned earlier, see especially Rosalind O’Hanlon, “In the Presence of Witnesses: Petitioning and Judicial ‘Publics’ in Western India, circa 1600–1820,” Modern Asian Studies 53, no. 1 (2019), 52–88; Rosalind O’Hanlon, “Caste and its Histories in Colonial India: A Reappraisal,” Modern Asian Studies 51, no. 2 (2015): 432–461; Rosalind O’Hanlon, “Discourses of Caste over the Longue Durée: Gopīnātha and Social Classification in India, c. 1400–1900,” South Asian History and Culture 6, no. 1 (2013): 102–129; Rosalind O’Hanlon, “Performance in a World of Paper: Puranic Histories and Social Communication in Early Modern India,” Past & Present 219 (2013): 87–126; Rosalind O’Hanlon, “Contested Conjunctures: Brahman Communities and ‘Early Modernity’ in India,” American Historical Review 118, no. 3 (2013): 765–787. 
+896 
+Maharashtra is marked by the evolution of two distinct and antagonistic political and social 
+identities, Brahmans and Marathas, which over time have produced their own objectified 
+reality as fairly well bounded communities.”867 In Wages of Violence, which is primarily a 
+study of the deadly performative identity politics of the fascist Shiv Sena, Hansen’s work sets 
+out denaturalize the latter of these demographics by demonstrating the recent and constructed 
+nature of much of “Marathi/Maratha identity,” but nonetheless seems to tacitly accept that this 
+binary itself can be traced into the very distant past. 
+This Brāhmaṇa/Maratha divide is essentially often framed as a struggle over who 
+inherits the more authentic vision of the real Maharashtra. In these competing precolonial 
+imaginaries, the region is defined either as the land of the Sanskritic Peshwas—where 
+Brāhmaṇical dharma reigned supreme—the last Hindu imperium to resist colonial control or, 
+in the idiom of svarājya, as the land liberated from Mughal control by the Maratha—or even 
+Śūdra—king Śivājī Mahārāj Bhonsale. This framing reflects a rather peculiar set of 
+circumstances, particular to the eighteenth century, wherein first, Śivājī’s descendants are all 
+but transformed into the puppets of their Koṅkani Brāhmaṇa viziers, who usurp political power 
+for themselves and build a society run by Brāhmaṇas, and second, the Kolhapuri descendants 
+of the Bhonsale line emerge as the chief patrons of the proto-Dalit non-Brāhmaṇa movement, 
+which is then projected back into the deep past. It is in this spirit that Hansen can write that 
+“the Deccan culture of the eleventh to sixteenth centuries” demands to be read as 
+“characterized by tensions between the land-owning Maratha elites and Brahman 
+communities.”868 Dalit Studies scholarship (for example the work of Gail Omvedt), in turn, for 
+its part recasts these reflections into an even broader metanarrative of the cultural imaginary 
+867Thomas Blom Hansen, Wages of Violence, 24. 868Thomas Blom Hansen, Wages of Violence, 24. 
+897of Maharashtra—unique within India—as an unbroken tale of non-Brāhmaṇa resistance to 
+Brāhmaṇa hegemony. As Hansen has so beautifully argued, the central tragedy of 
+Maharashtrian politics in the twentieth century is that post-1970, it has largely been the story, 
+conducted through the medium of language nationalism, of the conflation of these two 
+metanarratives into the singular toxic brew of xenophobic nativism that culminates in the Shiv 
+Sena. 
+Even before one takes up questions of their historicity as well as their concrete social 
+implications, what each of these formulations has in common is an implicit understanding that 
+virtually everything recognizable that defines Maharashtra as a distinctive cultural and 
+religious imaginary—if it is not a product of a global history contemporary to the American 
+revolution or the imagining of the modern Indian state—emerges at the earliest sometime in 
+the middle of the thirteenth century. Unlike with neighboring Karnataka—where the cultural 
+nationalist project eagerly drew upon literary sensibilities going back to the ninth century and 
+thus is very much a product of the early medieval world—the iconic textual productions of old 
+Marathi mostly begin to emerge only as the thirteenth century draws to a close. This again is 
+the very same moment when some of the key religious identities that carried forward into the 
+early modern period begin to be articulated. In short, each of the frames we have just 
+encountered imagines an originary moment that renders our own investigation at best mere 
+speculative pre-history. 
+If these are all frames that are inclined to marginalize our kind of evidence, when 
+brought to bear against our archives as interpretive tools, they are themselves anachronisms. 
+As a large body of excellent work on linguistic nationalism in various different regions of the 
+Indian subcontinent has demonstrated conclusively, not only the very idea of the state and the 
+898 
+nation but even the correlation of mother tongue with social identity emerges at the nexus of 
+the colonial encounter. It is therefore highly problematic to simply import these types of 
+analytic frames into our analysis and downright perilous to treat such categories as if they were 
+native conceptualizations emerging organically out of our sources, for to do so amounts to a 
+pointed departure from the self-understanding of our subjects. This is even true when it comes 
+to the imagining of the region as coterminous with a familiar geography. As an older strain of 
+Marathi nationalism used to lament for somewhat different reasons, when we define the limits 
+of our archive as the borders of the modern state, the interconnected history of the region with 
+its borderlands in modern Karnataka, Andhra, and Gujarat is effectively erased and the sites of 
+memory in those places articulated by Marathi-speaking people are forgotten. As we shall see 
+in this chapter, this is particularly the case when it comes to the study of the history of the 
+Seuṇa Yādavas themselves, for they are all but illegible until they are contextualized as 
+participants in a wider Cāḷukya world. Indeed, much of the richest part of our archive related 
+to this dynasty today resides outside the borders of Maharashtra, especially in the heart of the 
+Kuntaladēśa in central and northern Karnataka, ironically the key regions that the Bombay 
+Presidency surrendered when it imagined modern Maharashtra into being. 
+As for the question of caste and the conflict between disparate worldviews, just as we 
+have seen in relation to the Kalyāṇi Cāḷukyas themselves, when one reaches back beyond a 
+certain conceptual horizon into the premodern historical record of the medieval Deccan, a 
+transparent politics attuned to modern sensibilities, often organized around simple binaries, 
+becomes replaced by epistemic structures that rest uneasily with the modern and Western 
+presumptions that structure our social theory. In the sources we will examine, prior to the 
+thirteenth century, it is more plausible to think about Brāhmaṇa/non-Brāhmaṇa relations as 
+899 
+characterized not by antagonism but rather by at best respectful segregation and at worst 
+estrangement. In many cases, in terms of participation in what we would tend to think of as an 
+iconically Brāhmaṇical worldview, the identity of many of the Brāhmaṇas themselves is a good 
+deal more complicated and conflicted than one might anticipate. 
+The present chapter thus proceeds through offering seemingly disparate but in actuality 
+complementary case studies, each of which introduces us to evidence as well as 
+methodological choices that prepare us for the next encounter. In the first section, through a 
+reinvestigation of sacred centers already discussed in some detail by the inimitable Günther- 
+Dietz Sontheimer, we will examine how the narrative and ritual traditions in circulation among 
+the Dhangar, a nomadic people of the Deccan, which are typically interpreted as non-elite 
+expressions of “folk culture” that operate in contradistinction to elite narratives, are themselves 
+all but saturated with traces of the political and social imaginaries in which the religious and 
+political elites of the early medieval world were key participants. In our second study, through 
+an examination that historicizes the transposition of the tradition of Mahālakṣmī of Kolhapur 
+into the Kuntaladēśa and southern Karnataka, attending especially to material culture, we will 
+develop an awareness of the interconnected nature of Deccani institutions complemented by a 
+new understanding of precisely what outsiders in the medieval perceived to be some of the 
+distinctive features of Maharashtrian religion and material culture. Succinctly, the 
+Maharashtrian style most notably diverges from transregional Cāḷukya norms first in its 
+unapologetic representation of a cremation ground culture religiosity centered around yoginīs 
+and then increasingly in its adamant embrace of a siddha culture in which visual 
+representations of yogins gradually supplant the gods themselves as the focus of worship. The 
+chapter concludes by demonstrating, through a close reading of the early inscriptional record 
+900 
+read in relation to material culture, just how keenly the early Seuṇa Yādavas represent 
+themselves as active and passionate participants in the two successive paradigms that animated 
+this unabashedly Śākta Tantric theological and social milieu, while at the same time 
+documenting how these imaginaries themselves change as the long twelfth century draws to a 
+close and the Cāḷukya imperium fades into the background. 
+A Return to the Root: Encountering the Medieval in Folk Culture 
+In the introduction to her translation of the epic heroic ballads of the Hāṭkar Dhangar—first in 
+rank among the many divergent and little studied lineages of the pastoralist peoples of the 
+Deccan—Anne Feldhaus writes: 
+I inherited the stories in these volumes. Like the casket containing Birobā’s mother, which fell from the sky and got buried in the ground, the stories simply fell to earth. They landed in my lap. Since the first time I visited India in 1970, I had wanted to understand what I called “popular” religion in Maharashtra. After years of lonely struggle, I learned in the mid-1970’s that there was already someone who had done a huge amount of work on “Volksreligion” in that region of India: a German Professor named Günther Sontheimer. Following the advice of D. D. Kosambi, whom he had taken as his teacher, Sontheimer was searching for “folk religion’” at what he took to be its roots: in the living oral traditions of the Hāṭkar Dhangars of Maharashtra.869 
+When Sontheimer died rather unexpectedly in 1991—having just completed his 
+captivating film King of the Wild Hunt, a magical realist evocation of the story of the marriage 
+of the god Khaṇḍobā of Jejjuri—he left behind a vast archive of images, recordings, and 
+transcripts from his fieldwork. In addition to pursuing her own research program, Feldhaus 
+generously became the caretaker of Sontheimer’s intellectual legacy as well as effectively the 
+869Anne Feldhaus, et. al., ed. and trans, Say to the Sun,“Don’t Rise,” and to the Moon, “Don’t Set”: Two Oral Narratives from the Countryside of Maharashtra (New York: Oxford University Press, 2014), ix. This monograph contains a complete translation, in collaboration with Ramdas Atkar, Sontheimer’s field assistant and key informant, of two of the oral Dhangar narratives documented by Sontheimer. Feldhaus had earlier produced an edition of all of the original Marathi texts, which represents one of the rare examples of the entextualization of non-standard “folk Marathi” sensibility. 
+901 
+sole hope for the continuation of the academic study of Maharashtra in the Western academy. 
+Complementing her unsurpassed work as philologist and lexicographer, as an anthropologist 
+Feldhaus has offered us windows into worlds—especially the lived experience of the women 
+of Maharashtra’s countryside—hitherto almost entirely missing from our mental maps of the 
+region.870 In practice, the two oeuvres—foundational to any working understanding of rural 
+religion in Maharashtra- almost perfect complement each other. In part, this is because they 
+emerge from a common intellectual genealogy. 
+Though by no means yet an old man, Damodar Dharmananda Kosambi (1907–1966) 
+was already nearing the end of his extraordinary life when he began to mentor Günther-Dietz 
+Sontheimer in 1961. A mathematician by profession and a Marxist devoted to historical 
+materialism by commitment, Kosambi’s initial passion was the study of numismatics. Besides 
+representing a common time-pass in Punaiker circles, the study of coinage is just the sort of 
+discipline that for the Marxist intellectual would inevitably raise questions about the 
+circumstances surrounding their production, potentially drawing an inquiring mind to dabble 
+in the study of history. In contrast, Kosambi’s unique blend of dogged determination and 
+genius compelled him to master historical philology. As a result, he learned to delve into 
+Sanskrit and Pali sources anathema to his ideological commitments with great skill and care. 
+Over the course of his career as an organic intellectual, through the exploration of disparate 
+archives representing different registers of textual and material production, Kosambi 
+870Anne Feldhaus, Water and Womanhood: Religious Meanings of Rivers in Maharashtra (New York: Oxford University Press, 1995); Anne Feldhaus, ed., Images of Women in Maharashtrian Literature and Religion (Albany: State University of New York Press, 1996); Anne Feldhaus, ed., Images of Women in Maharashtrian Society (Albany: State University of New York Press, 1998); Irina Glushkova and Anne Feldhaus, eds., House and Home in Maharashtrian Culture (New York: Oxford University Press, 1998). Important, though sadly mostly unpublished, contributions have also been made by Mary McGee, especially a comprehensive study of the actual implementation of vratas by women from different caste communities that attends to how practice and theory diverge, which forms the latter five hundred pages of her thesis. Mary McGee, Feasting and Fasting: The Vrata Tradition and its Significance for Women (PhD diss., Harvard Divinity School, 1987). 
+902 
+consistently attended to what he perceived to be the glaring gaps between the imagined realities 
+of these texts and what one could recover of the “real” social and material circumstances that 
+made possible their production. By the time he took Sontheimer under his wing in the early 
+1960’s, Kosambi had concluded that the study of the real religion and history of the vast 
+majority of the people on the Indian subcontinent demanded a new methodology. As he writes 
+in Myth and Reality, published in 1962: 
+Our present task is to trace the primitive roots of some Indian myths and ritual that survived the beginning of civilization and indeed survive to this day. This is not too difficult in a country where contemporary society is composed of elements that preserve the indelible marks of almost every historical stage. The neglect of such analysis leads to a ridiculous distortion of Indian history and to a misunderstanding of Indian culture, not compensated by subtle theology or the boasts of having risen above crass materialism. The religious observances of the various human groups in India, particularly those that are lowest in the social, cultural and economic scale, show roughly the order in which the particular groups wore enrolled into a greater, productive society. In a general way, this is true of many higher strata as well. The fossilized and stratified remnants of primitive observances, combined with caste and religion, hold a particular group together. The observances also located the coherent group relatively to others within a highly composite society. Change of economic status is reflected in, and acted till recently through some corresponding transformation in caste; sometimes by change in cult as well.871 
+Utterly unlike any approach to the study of Indian thought and culture emerging from 
+Western academic institutions, though bearing interesting unnoticed affinities with certain 
+figures among the early generations of colonial forms of knowledge production, Kosambi’s 
+ethnoarchaeology, which combines fieldwork, ethnography, textual study, and critical 
+analysis, has had a powerful and primarily positive influence on the academic study of South 
+Asia, including the work before you. Offering a postcolonial imagination long before 
+postcolonialism, Kosambi effectively elevated the lived reality and historical memory of non- 
+elite communities and the physical and mental landscapes they inhabited for the first time to 
+871Damodar Dharmananda Kosambi, Myth and Reality: Studies in the Formation of Indian Culture (Bombay: Popular Prakashan, 1962), pg. iii. 
+903 
+the status of a possible object of serious intellectual inquiry. Repudiating a mentality that 
+persists down into the present day, where textualists come to the subcontinent, study with their 
+analogues among mostly high caste indigenous textualists, and then return to teach their 
+students as experts on India with scarcely any direct experience of the ritual and social life of 
+the subcontinent, Kosambi teaches us that getting out into the field is not novelty but necessity. 
+It is only when we interact with the variegated lived landscape, attending to how different types 
+of social agents—especially non-elite social actors—understand its import, that simultaneously 
+we begin to attend to the spaces where the ethos of the past and the concerns of the present 
+converge. 
+As anthropologists already began to reflect in the 1980’s,872 however, enacting what 
+is essentially a stratigraphy of social relations—which is to say reading apparently 
+contemporaneous classes and communities as effectively inhabiting different historical times 
+of increasing archaicism as one descends down the social ladder—both poses serious ethical 
+problems and presents significant methodological limitations. The first of these claims should 
+be evident: people are not living fossils, it is insulting to view them as such, and the colonial 
+reception history of the concept of the aborigine is a chamber-house of horrors that—when it 
+was not used to decimate and delegitimize entire populations as being too simple for self- 
+representation—degraded everyone and everything that passed through it. The methodological 
+critique is slightly more subtle.873 Divorced from presupposing an ontological claim that the 
+oldest thing is the most real, identifying the historical roots or “origins” of a practice is not the 
+872See for example Adam Kuper, The Invention of Primitive Society: Transformations of an Illusion (New York: Routledge, 1988). 873Approaching the matter from two divergent methodological perspectives but arriving at analogous conclusions, see Bruno Latour, We Have Never Been Modern (Cambridge, MA: Harvard University Press, 1993), and Reinhart Koselleck, The Practice of Conceptual History: Timing History, Spacing Concepts, trans. Todd Samuel Presmer (Stanford: Stanford University Press, 2002), as well as Reinhard Koselleck, Futures Past: On the Semantics of Historical Time, trans. Keith Tribe (Cambridge, MA: MIT Press, 1985). 
+904 
+same as “explaining it” any more than an origin story replaces a complete biography. As a 
+steady stream of superb recent monographs have demonstrated, the subsequent receptions of 
+one’s focus of study as they unfold over historical time and within different communities are 
+frequently at least as interesting, important, and impactful as recovering originary moments. 
+For indeed, each such reception comes to us already embedded in lived realities whose contents 
+are constituted out of a bricolage of elements that themselves originate in disparate historical 
+moments. All of the worlds we inhabit are thus to varying degrees influenced by the spectrum 
+of worldviews and values belonging to the often long dead people who crafted each of them in 
+turn. Or, as John Maynard Keynes remarked in a similar vein, reflecting on a parallel 
+phenomenon in the context of the early twentieth century where mythology has been 
+superseded by political economy, “practical men who believe themselves to be quite exempt 
+from any intellectual influence, are usually the slaves of some defunct economist. Madmen in 
+authority, who hear voices in the air, are distilling their frenzy from some academic scribbler 
+of a few years back.”874 The present, in other words, is always being penetrated and animated 
+by many different pasts. 
+Tracing “primitive roots” in the search of metahistorical explanations of culture 
+specific human behavior of course lies at the heart of much of the sociological imagination— 
+Durkheim for example875 is unimaginable without it—and such an approach has considerable 
+analytical power. However, in highlighting the archaic—because it is logically simple and 
+874John Maynard Keynes, The General Theory of Employment, Interest and Money (London: Macmillan, [1936] 2007), 383. 875Thus, when in the introduction to The Elementary Forms of Religious Experience, Durkheim proposes “to study the most primitive and simple religion which is actually known,” good Aristotelian that he is, the terms, however offensive we may find them, are not intended as pejoratives but as neutral analytical representations, with the term “primitive” in the realm of the qualitative sciences doing the same kind of interpretive work that a prime number does in mathematics. Émile Durkheim, The Elementary Forms of Religious Life, trans. Carol Cosman (New York: Oxford University Press, [1912] 2001). 
+905 
+therefore closer to the causal mechanisms that catalyzed a phenomenon into being—and the 
+contemporary—because it is always already at hand and produces what exactly it is we are 
+inclined to care about in any given moment—everything in the middle gets elided. For 
+Kosambi, who came to his vocation as ethnoarchaeologist after already producing a large 
+corpus of works on the origin of Indian feudalism, the “middle” of Maharashtra’s history is 
+marked throughout by the frivolous surplus production of a “superstitious” leisure class.876 
+Virtually defined by their inauthenticity, for all the violence they purvey, these purported 
+agents of Brāhmaṇical ideology are read as intrinsically incapable of offering causally 
+meaningful contributions to the social landscape. In Kosambi’s vision, the archeological 
+excavation of the imagined landscape essentially involves denuding it of such elements in a 
+furtive search for what constitutes “the real religion and consciousness of the people.” The 
+lived realities of the actual people in question—however—are themselves permeated by social 
+patterns, practices, and modes of conceptualization originating at a range of moments in 
+historical time. Unsurprisingly, these include substantial traces of what has been imagined by 
+many Maharashtrian historians as the long obscure night between the fall of the Guptas in the 
+sixth century and originary moment of proper Maharashtrian literary cultures in the thirteenth 
+century. In contrast to the “volk histories” of ordinary people, which because of the supposedly 
+fossilized nature of the communities that bear them are seen as eminently recoverable, in the 
+historiographical imagination, the Maharashtrian medieval is seen as an object of study about 
+which practically nothing can be known. Much like “the non-Śaiva other” imagined in the 
+Śivadharmavivaraṇa, who, in the absence of god’s special favor, lacks the sort of vision that 
+876For the working out of this argument in full, see especially Damodar Dharmanand Kosambi, An Introduction to Indian History (Bombay: Popular Prakashan, 1956). The particular use of this phrase is drawn from Myth and Reality, pg. 32–33, where it is used to characterize the composition of the Caturvargacintāmaṇi of Hemādri, a work that stands at the center of the ninth and tenth chapters of this study. 
+906 
+enables them to recognize Śiva as real and meaningful, genuinely brilliant scholars working 
+within this paradigm—bracketing out such evidence as essentially insignificant—seem to be 
+unable to even see the traces of the early medieval emanant in the landscape right before their 
+eyes. 
+In Myth and Reality, for example Kosambi directs his reader’s attention to a network 
+of ritual sites in Satara district that lie just a few hours from Śivājī’s capital at Raigad: 
+Vīr worship centers somewhere in the Sātārā district, and clay images of this god were and probably still are buried with the Dhangars in western Sātārā. This sheperds’ god has not the complexity of Khandobā, whose cult has the peculiar Vāghyā priest, frenzied Muraḷyā women attendants, and many other intrusive elements assimilated over the centuries. However, the Vīrabhadra of some Purāṇas, supposedly a general of Śiva’s army in battle, may reflect the Vīr cult. 
+One major shrine of Vīr is at the village of that name, now being flooded by a new dam on the Nīrā river. Curiously enough the principal god of the village is not Vīr but Mhasobā, often pronounced Maskobā. Published tradition indicates that the settlement developed with the god’s advent in the company of immigrant Dhangar herdsmen from Sonārī in Belgaum district, via Kharsuṇḍī near Mhasvaḍ and up the Nīrā river valley. Three distinct stages in the god’s progress at Vīr proper are marked by separate temples and their accompanying myths. The main (and final) temple, which received donations in the 18th century from the Marāṭhā king Śāhū, is some three miles above the original site of advent. The real image of the god is still a red-coated tāndaḷā stone. The Dhangars gather in great numbers at Vir, twice a year, to worship their Great Lord: at Dasarā for commencement of the annual transhumance with their sheep; arid for ten days in Māgha (February) when a tremendous slaughter of sheep and goats terminates the principal festival. Village clans, however, gained their seniority by sacrificing a boy each to the god. The place of this human sacrifice is still marked by a monument and by a cult, though the sacrifice has been moderated by the addition of a legend that the god obligingly brought the children back to life. The special prerogative of śids (siddhas) chosen from these privileged families is the right to undergo the ordeal at the Māgha festival. This consists of slashing themselves with sharp swords. No blood is supposed to flow unless the celebrant has been defiled by some forbidden, sinful act. When genuine inspiration is proved by such immunity, the siddha has prophetic insight for a brief spell. One leading family has a further privilege, namely of having its principle [sic] male swung around the special post (bagāḍ) by sharp hooks ; these are no longer passed through the muscles of the loins, but slipped under the sash. 
+The published account of Maskobā’s travels and settling down at Vīr relates nothing about his being accompanied by Jogūbāī. Nor is anything said as to how and when they 
+907came to be married. Maskobā, Bhairav, Khaṇḍobā, Vetāl, Mhātobā are all equated or related to Śiva in various mutually contradictory ways.877 
+In the “cult” of the herdsmen god Vīr, Kosambi seeks to locate a more archaic model 
+of religious praxis than what one finds in the worship of Khaṇḍobā, whose sophisticated ritual 
+traditions—especially the existence of specialist classes of ritual adepts like the chain bearing 
+vāghya, “the dogs” of Khaṇḍobā he reads as indicative of “intrusive elements assimilated over 
+the centuries.” The old tradition, he tells us, involved the worship of the god in the form of a 
+small red coated stone, massive yearly animal sacrifices coincidentally carried out during 
+Dasara, and infrequent acts of human sacrifice executed by the headman from the village clans. 
+Seemingly contradicting his own criteria of treating socially simple forms as indicating 
+primordial historical antecedents, Kosambi tells us that the “cult” of Vīr at the village of Vir 
+has its own special kind of adept, the śid, who slashes himself with a sharp sword and yet 
+miraculously does not bleed, as well as a related figure who pierces his body with hooks and 
+then swings suspended in the air. Though he mentions it in passing, Kosambi seemingly 
+discounts a purported “published tradition” which “indicates that the settlement developed with 
+the god’s advent in the company of immigrant Dhangar herdsmen from Sonari in Belgaum 
+district, via Kharsundi near Mhasvad and up the Nīrā river valley,”878 as well as the fact that 
+the existing temple to the god is a product of the patronage of the Maratha king Shaujī in the 
+eighteenth century. 
+Read not as a prolegomenon to a lost prehistoric past but as but one part of an 
+interconnected history, on the ground in Satara district, Vīr is perceived as embedded in a 
+network of sites—especially Mhasvad, Mulanwadi, Kharsundi, and Bhoom, located only an 
+877Damodar Dharmananda Kosambi, Myth and Reality, 122–123. 878Damodar Dharmananda Kosambi, Myth and Reality, 122–123. 
+908 
+hour or so from each other. Even today, all of these places are frequented by the Dhangar, each 
+of them incorporates a ritual praxis in which pilgrims are showered in a colored powder called 
+bhāṇḍār—a feature unique to the Deccani sites dedicated to the virile god who rides upon a 
+horse. In each of these places, the main deity either officially bears the name of Siddhanātha, 
+as at Mhasvad, Kharsundi, and Bhoom, or, as at Vir, is commonly identified as “Lord of 
+Siddhs.” Indeed, the echoes of the “published tradition” Kosambi is so ready to discount seem 
+to persist in the cultural memory of at least some of today’s Dhangars. 
+On Christmas Day in 2017, in the courtyard of the lord Siddhanātha of Mhasvad, a 
+Dhangar pilgrim told me the story of the origin of this place in the following manner. In the 
+middle age (madhyakalīn) there was a Siddh from Sonari, a ritual center of the Gosavīs in the 
+Marathwada one hundred miles away. Through his unspecified misdeeds, the Siddh angered 
+the lord Kālabhairava, and as penance he took a vow to bring the god to the south. Bearing the 
+lord’s golden pādukās on top of his head, the Siddh walked ceaselessly without faltering. When 
+he reached the spot which now marks the center of the courtyard before the entrance to the 
+garbhagṛha, Bhairava commanded he complete his penance. Without hesitation, the Siddh 
+drew his sword and at the command of his lord (nātha) beheaded himself—this, so it is said, 
+is why the place is called Siddhanātha. 
+909 
+Entry to the courtyard at Siddhanāth, Mhasvad. The platform at the far-left marks the spot where the Siddh sacrificed himself. 
+Today, in his honor, that spot is marked by a golden image representing these very 
+same pādukās. Under them—as our storyteller demonstrated—is an old stone balipīṭha. As is 
+indicated by the decapitated rams’ heads that adorn its four corners, this is where animals and 
+potentially people would have been offered to the god. In short, without recourse to the sort 
+of ideological presuppositions and expectations Kosambi brings to the field, a comparison of 
+the ritual systems and values in evidence at Mhasvad and Vir in no way self-evidently presents 
+910 
+Left: Golden pādukā cover. Right: Balipīṭha with images of four severed buffalo heads in corners. 
+us with a story of irreconcilable fundamental differences rooted in distinctive stages of social 
+development. To the contrary, one is struck at every turn by the overwhelming similarities at 
+the level of practice as well as myth. Both archives even point us in the direction of the same 
+historical place as the source of the cult—Sonari, to which we will return momentarily—with 
+the same nodes serving as the nexuses within which people and ideas continued to circulate. 
+Several years after Kosambi’s death, Günther-Dietz Sontheimer returned to Mhasvad 
+and Kharsundi to continue his fieldwork in the region. Despite the considerable nuance and 
+unparalleled rich thick description with which he infused his scholarship, he carried with him 
+core presuppositions inherited from his teacher’s framework that continued to color his 
+analysis. Emblematic at once of Sontheimer’s genius and the shortcomings to his method, the 
+second section of his masterful essay, “Mhasvaḍ and Kharsuṇḍī,” bears the section title 
+“Mhasvaḍ and Kharsuṇḍī as an Example of the Origin and Development of Cults in the Forest 
+and Pastoral Area.”879 With his usual meticulousness and insight, Sontheimer begins the essay 
+879Günther-Dietz Sontheimer, Pastoral Deities in Western India (New York, Oxford University Press, 1989), 22– 30. See also Anne Feldhaus and Günther-Dietz Sontheimer, trans., Birobā, Mhaskobā und Khaṇḍobā: Ursprung, Geschichte und Umwelt von Pastoralen Gottheiten in Mahārāṣṭra (Wiesbaden: Steiner, 1976). Sontheimer’s general writings on Khaṇḍobā have been reprinted in a collected volume, Günther-Dietz Sontheimer, King of Hunters, Warriors, and Shepherds: Essays on Khaṇḍobā (New Delhi: IGNCA, 1997). Both of these collections, however, do not include Sontheimer’s theoretical essays, which make use of evidence from the Khaṇḍobā tradition in the service of primarily methodological ends. See, for example, Günther-Dietz Sontheimer, “The Folk Festival (Jatrā) in the Religious Traditions of Maharashtra: The Case of Khaṇḍobā,” in Folk Culture, 
+911 
+by contextualizing Mhasvad, which is situated at a crossroads linking several regions together, 
+first geographically and topographically, and then geopolitically. In the latter register, he 
+outlines the regions’ place within the imperial formations overseen by the Rāṣṭrakūṭas, the 
+Kalyāṇi Cāḷukyas, and ultimately, the Kalachuris—we learn, for example, that as late as 1142 
+CE, the Kalachuri ruler ruling from Mangalwad in Marathwada on the banks of the Godāvarī— 
+the very same king who would sack Kalyāṇa in 1162 CE recasting it as his own capital—was 
+still offering homage to the last Cāḷukya king Jagadekamalla IV. Nevertheless, for Sontheimer 
+such details simply form the backdrop against which the genuinely important causal processes, 
+confined to the deep past, unfolded among the common people. Here is how our author 
+introduces the scene in preparation for recounting a series of stories provided by his 
+informants: 
+The superstructure of Mhasvaḍ dates from the Peśvā period. It was erected on the foundations of an old shrine. In front of the newer temple lies the ruins of a temple from the Yādava or Cālukya period; at the foot of these ruins is a stone on which is depicted a mounted warrior’s battle with a demon. In the left-hand wall of the forecourt of the present temple is a slab bearing a Kannaḍa inscription dated Śaka 1060 (A.D. 1138); it states that an ancestor of the Kalacūri king Bijjala of Kalyāṇī, ruling from Maṅgaḷveḍhā as a dependent of the Cālukya king (Jagadekamalla of Kalyāṇī), gave a piece of land to a Brahman of the Kapi gotra so that food offerings could be presented daily to the god. In the inscription the god is called Siddheśvara. This deity, who is still widely influential today even beyond the Māṇ valley, is called a living god—jīvant or jāgṛt dev—by Māraṭhās, Dhangars, Māḷīs, and devotees from other castes. He is alternatively called Śidobā, Mhasvaḍ-Śid, Siddhanāth, or simply Nāth. In the inscription the placed is called Mahiṣavāḍā (“buffalo camp”); from this name derives the present name Mhasvaḍ. The inscription designates Mhasvaḍ as the chief among the ‘twelve villages. 
+The oral traditions about the beginnings of Mhasvaḍ and the origin of the temple appear to the analytical observer, as always, a mixture of purāṇic mythology, legend, and actual events. Here I cite two versions of the traditions, as narrated by two Guravs— that is, non-Brahman temple priests. The versions were recorded on different days. 
+Folk Religion and Oral traditions as a Component of Maharashtrian Culture, ed. Günther-Dietz Sontheimer (New Delhi, Manohar, 1995), 129–145. 
+912 
+Text 1 Version 1 
+There used to be forest here. They called it Daṇḍakāraṇya. In those days even the village (gāv) was not here. All that was here was a demon named Mhaśā [mhaiśā, mhaśā = buffalo]. Because Mhaiśāsur [Sanskrit, Mahiṣāsura] was killed here, the place got the name Mhasvaḍ. In Sonārī [in modern Usmanabad district] there was a demon (daitya) who swelled up to an uncontrollable, arrogantly huge size. So Śaṅkar set Kāḷbhairav to kill this Sonyāditya. Kāḷbhairav took on the form (avatār) of Siddha. The temple was completed in 1151. Before this time, there was Daṇḍakāraṇya here. There was no village here. In those days, a Gavḷī name named Mhasojī [also from mhaśā, mhaiśā] lived here. While that Mhasojī Gavḷī lived here, a man named Bāḷojī Ḍubal from the family of the Cālukyas lived in the town of Karhāḍ, in Brahmapūrī. He used to come to this neighborhood. . . . Śivājī Ḍubal, the son of the devotee (bhakta) from Karhāḍ, built the temple of Mhasvaḍ-Siddha.880 
+In the second story Sontheimer has collected, although the mythological dimensions of 
+the tale diverge almost completely from what we have just seen, we in fact find a very similar 
+account about the circumstances surrounding the ritual installation of the deity at Mhasvad. 
+A devotee (bhakta) named Bāḷojī Ḍubal, from Brahmapūrī, from the family of the Cālukyas, was the first to come regularly to Mhasvaḍ-Siddha. Brahmapūrī is in present- day Karhāḍ, on the bank of the Kṛṣṇā river. He used to come here as a pilgrim, and so he developed a desire to build a temple. So he brought stone masons together, and he gave the good, well-known stone masons three paisā a day and the simple workers two paisā. And when the stone temple was finished, Bāḷojī went to Karhāḍ. . . . then his son Śivājī Ḍubal, donated the mūrti that one can see today. At that time the installation ceremony alone (udyāpan) cost about a thousand rupees. The outlay for the dome (śikhar) of the temple came to 75,000 rupees. . . . This incarnation (avatār) of Siddhanāth is fierce in form (ugra svarūpācā) and this god is truly living (sākṣāt jāgṛt).881 
+In Sontheimer’s insightful contrarian reading, the archive he collected at Mhasvad lays 
+the foundation for the conceptual excavation of the religious values and social practices of the 
+rapidly vanishing community of cowherders called the Gavḷī, the aboriginal people of the 
+Deccan whose religious centers the Dhangar have appropriated over the centuries, whose camp 
+sites they have taken over, and whose buffalo god they have turned into the demon that their 
+880 Günther-Dietz Sontheimer, Pastoral Deities in Western India, 22–24. 881Günther-Dietz Sontheimer, Pastoral Deities in Western India, 24–25. 
+913 
+own deity slays. And yet, especially when complemented with the additional narrative gathered 
+from the site in 2017, this same archive also tells another story that for all its obviousness is no 
+less consequential. Both of the stories collected by Sontheimer pointedly situate the installation 
+of the god at Mhasvad within a very specific context, namely, the waning days of the Kalyāṇi 
+Cāḷukya imperium. The entirety of the archive posits a special relationship between figures 
+called siddhs/siddhas and forms of Bhairava. Sometimes they are subject to the god’s 
+command, while at other times they are incarnations of him. Finally, confirming additional 
+texts to which Kosambi himself seems to have had access, two of the three accounts from 
+Mhasvad quite specifically identify the god of that place as being transplanted into Sangli 
+district from the town of Sonari in the Marathwada. As Sontheimer shows elsewhere, oral 
+narratives consistently posit the same site of origin for several other comparable cultic sites in 
+the region, including Kharsundi. Sonari, we are told, “is the famous Maharashtrian cult place 
+of Kāḷbhairav, and a center for the Gosāvīs—ascetics and magicians or yogis who travel 
+through the wilderness alone or in groups. Like Sonārī, Mhasvaḍ also has a small monastery 
+of Kānphaṭā Gosāvīs.”882 
+Today the monastery of the Kānphaṭā gosāvīs—more commonly referred to as Nātha 
+yogins—is affiliated with the Satyanath Behar within the twelve panths.883 As Véronique 
+Boullier has demonstrated, this likely early modern formulation provided the organizational 
+glue that connected what were originally distinctive communities of adepts organized solely 
+around specific guruparamparās into transregional lineages bearing the title nātha, a 
+882Günther-Dietz Sontheimer, Pastoral Deities in Western India, 27. 883A distillation of Boullier’s research was recently translated into English under the title Véronique Boullier, Monastic Wanderers: Nāth Yogī Ascetics in Modern South Asia (Oxon: Taylor & Francis, 2017). On the twelve panths, see pg. 54–57. Readers interested in considerably more ethnographic detail should consult the original: Véronique Boullier, Itinérance et Vie Monastique: Les Ascètes Nāth Yogīs en Inde Contemporaine (Paris: Éditions de la Maison des Sciences de l'Homme, 2009). 
+914 
+formulation that held until the recent reimagining of Gorakhpur as the tradition’s supposed 
+center.884 
+Select images preserved at Hiranathji Maharaj’s maṭha in the Yādava style. 
+884See C. Marrewa Karwoski, Imprinted Identities: Communal Selfhood in the Nāth Sampradāy (PhD diss., Columbia University, 2018). 
+915 
+Though his predecessor, Hiranathaji Maharaj, was purportedly a learned man and 
+storyteller, as he sheepishly told us, the current mahant sees himself as a mere administrator of 
+a heavily modernized structure fallen on hard times. Unlike his parama guru, who was 
+photographed with his eyes rolled back in śāmbhavī mudrā, he has little time to practice the 
+lineage’s traditional yogas, though the maṭha provides some Iyengar style aṣṭāṅga classes to 
+the public to make ends meet. The gaḍḍī at Siddhanātha Maṭha, suggests, however, that the 
+current marginality of this institutional center is a product of modernity. As we shall see, at 
+Siddhanātha Maṭha, the lion’s throne is occupied not by a human teacher, but by an image of 
+Bhairava. 
+The gaḍḍī of Siddhanātha Maṭha, Mhasvad, with images of prior gurus. Hiranathaji Maharaj is on the seat to the left. His guru, whose eyes are in śāmbhavī mudrā, is dead center behind the tridents. 
+916 
+As the current mahant explained, the Gosāvīs are simply the caretakers on behalf of the deity, 
+and the maṭha maintains in perpetuity the primary ritual rights and responsibilities related to 
+his worship during important festival occasions within the temple at Mhasvad. Indeed, hinting 
+at the significance of this institution in prior centuries, the maṭha is the last building one 
+encounters before crossing over into the courtyard before the entrance to the temple complex. 
+Though it is housed in a twentieth-century structure, that the site location itself clearly has not 
+changed in a thousand years is suggested by the gallery of Cāḷukya and Yādava period mūrtis 
+that line the maṭha’s exterior wall. 
+Even more compelling is the framed picture seated upon the lion’s throne. When I 
+asked the current mahant the name given to this gorgeous image of Bhairava, whose sensuous 
+lines and slightly odd proportions indicate its origins in one of the workshops of Maharashtra’s 
+most famous early medieval dynasties, the Seuṇa Yādavas, I was told this was the real face of 
+Siddhanātha. When I asked where this beautiful mūrti of Bhairava could be found, the nāth 
+looked at me perplexed. “Do you not understand? he said. “This is the real face of our 
+Siddhanātha of Mhasvad.” 
+917Photograph of Siddhanātha of Mhasvad as he appears when worshipped by Gosāvīs. 
+Photograph of Siddhanātha of Mhasvad, 
+as he appears when he is worshipped by the Gosāvīs. 
+918 
+Though his face has been heavily reworked with a layer of vajralepa, the focus of 
+worship at Mhasvad—revered by yogins, Marāṭhas, Dhangar, and Brāhmaṇas alike—is clearly 
+a medieval mūrti of Bhairava. Stylistically the delicate rendering of the limbs such that the god 
+has pianist hands is particular to this more delimited region, but in more general terms in its 
+iconography it is identical to the sort of quintessentially Cāḷukya images we have examined at 
+some length in chapter five, whose ritual prescriptions align with the templates proffered by 
+the Piṅgalāmata. The true identity of the god, who stands over four feet tall, while not a secret 
+per se, would be virtually impossible for the casual bhakta—let alone researcher—to confirm, 
+for its elaborate public presentation incorporates so many layers of alaṃkāras so as to 
+completely disguise the nature of the underlying material object. 
+Devotional photograph of the mūrtis of Siddhanātha and his consort Jogeśvarī as prepared for devotees. The wooden frames and color background have been added in photoshop. I was unable to determine the nature of the image under Jogeśvarī. 
+919 
+Nor is the image of the god the only part of the built landscape at Mhasvad that is 
+surprisingly archaic. Though Sontheimer has suggested that apart from the obviously early 
+medieval Kannada inscription, which is topped by a jaṭā-bearing yogin worshipping a 
+śivaliṅga, the “superstructure” of the temple “dates from the Peśvā period,”885 once again 
+appearances are deceiving. In actuality, once one passes through the early medieval stone 
+doorway, almost everything inside of the temple is a product of the mid-twelfth to early- 
+thirteenth centuries. 
+L: Unpublished Kannada inscription, 1138 CE. R: Kalachuri- or Yādava-period doorframe. 
+885 Günther-Dietz Sontheimer, Pastoral Deities in Western India (New York, Oxford University Press, 1989), 22. 
+C. 800 CE Rāṣṭrakūṭa liṅga, Mhasvad. 
+The only noticeable exception confirms that while the 
+śivaliṅga on the left, which, executed in the style of the 
+Rāṣṭrakūṭas, is a product of the ninth century, the most 
+current instantiation of the ritual core at Mhasvad mostly 
+took shape in the twelfth century, the location on which 
+the temple was constructed had other incarnations as a 
+religious center. Contrary to Sontheimer’s suppositions, 
+however, as you can see from the large ekamukha 
+920 
+of these histories were also distinctively early medieval and imperial. 
+As we have seen in chapter 5, such a dynamic is well in keeping with a longstanding 
+social pattern in which royal power within the greater Cāḷukya world was closely linked with 
+the worship of Bhairava. It thus should come as no surprise that the Kalyāṇi Cāḷukya king 
+Jagadekamalla, during whose reign the inner sanctum at Mhasvad was established, was himself 
+intimately associated with a similar ritual center, mostly likely corresponding to the Mailāra 
+Temple at Khanapura in what is now Bidar district. Indeed, scarcely a decade beforehand, as 
+we learn from an inscription now preserved in the Pañcācārya Maṭha in the town of Anandur, 
+after offering gifts of food (aṃnnadāna) to Brāhmaṇas and ascetics (brāhmaṇarggaṃ 
+tapōdhanarggam), as his first act as king, Jagadekamallla marked the celebration of his own 
+coronation (paṭṭabandhōtsavaṃ) by having a new kalaśa installed for the temple of the god 
+(dēvaradēvākyakkĕ) Śrīman Mahābhairavaṃ Mailāradevara.886 In other words, as early as the 
+twelfth century, the Śākta Tantric deity Mahābhairava has already fused with the “vernacular” 
+herdsmen god whom the nomadic Kuruba of Karnataka call Mailāra and the Dhangar of 
+Maharashtra label Siddhanātha or Khaṇḍobā. 
+886Devarakonda Reddy, ed. Kannada University Epigraphical Series: VIII Bidar District (Hampi: Prasaranga, Kannada University, 1999), 172–176: svasti samasta bhuvanāśrayaśrīprithvīvallabhamahārājādirājaparamēśvara paramabhaṭṭaraka satyāśrayakuḷatiḷakaṃ cāḷukyābharaṇaṃ śrīmatu pratāpacakravartijagadēkamalladēvaru- paṭṭabandhōtsavaṃ māḍisi kŏṇḍa prathama rājadallu śrīmanu mahābhairavaṃ mailāradēvara śrīpādaṃgaḷaṃ kaṃḍu dēvaradēvālyakke kalasārōpaṇaṃ māḍi ā lagnadaḷi aṇaṃdūra śrīnāranēśvaradēvara aṃgabhōgaraṃgabhōganaivēdyakkaṃ brāhmaṇarggaṃ tapōdhanarggaṃ aṃnnadānavādiyāgiṃtī savakaṭṭaṃ māḍi. Thanks to Shubha Shanthamurthy for examining this text with me. In the context of this reading, it was determined that the above portion of the text simply forms the setting for the remainder of the actual grant, and was not, as I had initially believed, closely rhetorically connected to it. 
+921 
+Perhaps the most tantalizing glimpse of the occluded esoteric dimensions of Mhasvad’s 
+past are subtly suggested by the door frame over the entrance to the garbhagṛha. As we have 
+seen repeatedly throughout this study, one of the primary ways that early medieval ritual spaces 
+mark their differentiation in function is by subtle shifts in the iconography integrated in 
+innocuous spaces, like door frames. On the lintel, where one would typically expect the regal 
+image of Gajalakṣmī, we find instead the typical Yādava Gaṇeśa—not terribly unusual. But 
+when we look immediately above the Gaṇeśa, however, we find a rather unexpected series of 
+figures. At the top of the door frame is a yogin in siddhāsana. He is seated on a ferocious 
+goddess of an indeterminate nature, who is flanked on either side by lions. Effectively, the 
+yogin is seated on his gaḍḍī, which bears striking and not accidental resemblance to the gaḍḍī 
+Door lintel at Mhasvad with arrangement of five yogins framing goddess in middle. 
+at Siddhanātha Maṭha. Flanking the lion throne, directly above the two structural pillars that 
+frame the doorway, we find images of four yogins, which means we have a total of such five 
+images of yogins presented as a collective installed over the lintel. Some of these figures are 
+922 
+doing what look like seated forms of postural yoga, while in other cases they are wearing 
+discernible earrings. The Gosāvīs who came from Sonari, who installed Siddhanātha, seem to 
+be predecessors to the Nāthas. 
+Detail: T: Two images of Gosāvīs, with earrings. Detail: B L: Two other Gosāvīs. B R: image of goddess (rudraśakti?) on door frame. 
+Now, a temple in whose inner sanctum a medieval Bhairava keeps the company of a 
+ferocious goddess, entered through a gateway upon which five images of yogins, including a 
+siddha seated on the throne of authority, encircle another female entity, is just the sort of 
+eccentric case of white elephant iconography that practically shouts at us that it had a very 
+923 
+specific intended referent. While the textualist of course always holds out hope for an obvious 
+match, in the present stage of research what we are left with is something more like a tantalizing 
+suggestion. 
+While siddhas and nāthas usually come in sets of four, nine, and sixteen, as represented 
+by Mark Dyczkowski in his summary of its contents, the Siddha Khaṇḍa (of the 
+Manthānabhairava Tantra, a work of the Western Transmission of the goddess Kubjikā 
+incorporates just such a five-siddha-centric liturgical system.887 Not only is its program of 
+worship much more temple-centric and Bhairava-oriented than other parts of this canon, but 
+the text itself proclaims that it was in circulation in both the Deśa (Marathwada, where Sonari 
+is located) and the Koṅkaṇa (the location of Mhasvad itself). In fact, there are many indications 
+that figures such as Khaṇḍobā and the various Siddhanāthas, all of whom can be ritually 
+identified with Mārtaṇḍa Bhairava, at one point were linked with both the Western 
+Transmission as well as its evolute, the Śāmbhavāmnāya, dedicated to the worship of Kubjikā’s 
+male consort. 
+While sadly, in the absence of stronger evidence, we can only pose such possibilities 
+with regard to the rituals that originally animated the space, we are on firmer ground when it 
+comes to contextualizing the Gosāvīs themselves, who as oral tradition recounts again and 
+again brought the god with them from the town of Sonari. These images, it is important to 
+remember, as the stories collected by Sontheimer repeatedly recount, were produced in the 
+waning days of the Cāḷukya imperium or slightly thereafter. In other words, they emerge either 
+at a historical moment when the line of the Kalachuris based out of the Marathwada was about 
+to usurp the empire, or several decades later when the spaces in question would in turn fall 
+887See Mark Dyczkowski, Manthānabhairavatantram Kumārikārikākhaṇḍaḥ: The Section Concerning the Virgin Goddess of the Tantra of the Churning Bhairava, Introduction vol. 3 (Varanasi: Indica Books, 2009), 203–220. 
+924 
+under the control of the Seuṇa Yādava kings. The term Kālamukha is a rarity in the 
+inscriptional records of Maharashtra and as far as can be discerned, it is not used in this 
+unpublished inscription. Nevertheless, the Gosāvīs who came from Sonari are near direct 
+contemporaries of Kukkunur’s āvaḷi-honoring Kālamukhas, and they seem to have shared 
+many of the same professional duties. As we have seen, these ranged from inherited ritual 
+commitments to serving as pratiṣṭhāpanācārya, an office entailing at once the ritual 
+installation of images, the design of temples, and initiating and educating of the artisan 
+communities that carried out those tasks. Much as the temple at Sudi under 
+Kaleśvara/Kālanātha’s control was at once both a place with caste specific affiliations and an 
+esoteric ritual center,888 the town of Sonari derives its very name from the common Marathi 
+word for a goldsmith (M. sonārī, S. suvarṇa) and yet lives on in memory as the magical city 
+of the yogins dedicated to Bhairava. 
+As we saw in the previous chapter, this apparent incongruity is a simple product of 
+our own ignorance that yogins and artisans were very often, when not the same people, moving 
+in the very same circles under the direction of the same sort of Śākta ācārya, regardless of 
+whether such a person was called Kālamukha, Gosāvī, or Rauḷ, who was at once dīkṣā guru 
+and guild master. 
+888As we saw in chapter 5, the same dynamic is also in evidence at Balligave, the headquarters of the Śaktipariṣad line of the Kālamukhas, for here again the oldest temple, whose central image of a goddess is likely ninth century, is dedicated to the clan goddess of the goldsmiths. 
+925 
+In the absence of much needed fieldwork in Sonari889 and its surrounding environs—a major 
+lacuna of the present study—we must rely on the single story presented by Sontheimer about 
+the origins of this important place for further insight. 
+The goddess Bhadrakālī practiced asceticism (tapaścāryā) in Sonārī. And Suvarṇāsur [= the golden demon, or demon with good background] tested her constancy and prevented her from completing her religious exercises in the proper way. And she told Suvarṇa that she would marry whoever killed him. Bhairavnāth came to kill him. And he married Bhadrakālī, whose name was Jogeśvarī. . . . He established Vetāḷ on the boundary of the village. There he struck the stone with his trident and water gushed out. . . . And the battle began again. After the wedding, the killing (saṃhār) of the demon took place and Kāḷbhairav said to Yogeśvarī, “If I succeed I will come back; if I don’t succeed, I will not come back.” Then he called the sixty-four Yogiṇīs. . . and they drank the demon’s blood. Because if a drop of it had fallen to the ground, a thousand new demons would have sprung up. He killed the demon with his bow and arrows, and he washed the weapons in Lohatīrtha. Suvarṇa asked to Kāḷbhairav that there should be some way for people to remember him. Thus there came to be the name Sonārī—that is, Suvarṇapurī.890 
+Myths of this sort do many sorts of interpretive work and are often attuned to addressing 
+very different audiences simultaneously. On at least one level, however, the story of the 
+889A Marathi account Sonārī-yātrā-varṇana composed in 1921 and preserved in the IO collection at the British Library sounds equally promising. Unfortunately, as is often the case with IO office records, an initial attempt a retrieving the document proved unsuccessful. 890Günther-Dietz Sontheimer, Pastoral Deities in Western India, 98–99. 
+926 
+“killing” of demon who is gold, directed at an audience comprised of goldsmiths, in the city 
+of the goldsmiths, demands to be read as an allegory for the smelting process—somewhat akin 
+to a much more boring iteration of The Chymical Wedding of Christian Rosenkreutz. While 
+the practices at Sonari remain undocumented, even in the twentieth century, the approaches to 
+smelting and preparing different types of gold deployed among the sonārīs in general was 
+viewed as an occult process with its own arcane nomenclature and metaphorical registers. This 
+register was considered so intricate and so alien to mainstream Marathi discourse that an early 
+handwritten treatise on traditional gold work, entitled simply Sonār, dedicates the first third of 
+its ninety pages to offering an annotated glossary transposing sonārī dialect and terms of art 
+into a more standard Marathi. 
+While careful study of this difficult work, which must await another venue, would bring 
+greater clarity to the exact details of the processes being homologized, for the present we can 
+draw some preliminary conclusions based once again on Jan Brouwer’s extensive 
+From Sonār, date unknown (early 20th century): Title piece. 
+927documentation of the production process found among the goldsmiths of northern and central 
+Karnataka, at least some of whom may be in fact cultural cousins of the communities at Sonari. 
+Indeed, despite the considerable linguistic distance between dialectical Marathi and Kannada, 
+many commonalities exist on the level of semantics and metaphor. 
+As Brouwer (1995) demonstrates, gold ore is scarcely ever found in nature in a “pure” 
+form and thus has to be extracted from the surrounding minerals. While in the Alchemical 
+Body, David Gordon White has offered us a conceptual history of the practice of aurifaction— 
+the magical transmutation of other substances into gold through alchemical practices and their 
+socio-religious implications,891 as Brouwer, drawing here on Thurston, documents, in a much 
+more mundane fashion, the use of mercury is an integral part of the daily practices of any 
+premodern goldsmith. Essentially there are two discrete stages involved in the crafting of gold. 
+First there is the “cleaning of the gold,” and then there is its smelting. In the earlier phase, 
+either gold ornaments or ores are placed in a tub into which water is poured, after which, when 
+the material has been stirred up and everything has settled to the bottom: 
+A small quantity of mercury is added, briskly rubbed for a minute or two, and the process of washing goes on, considerable care being taken to see that no particle of mercury escapes, until at last the mercury, with a great many particles of metallic dust attached, is collected. . . in a broken piece of a pot. The mercury, with the metallic particles in it, is then well washed with clean water, and put into a tiny bag formed of two layers of a piece of rag. The mass is then gently pressed until all the mercury falls into a chatty below, leaving a small flattened mass of dark substance in the bag, which is carefully collected, and kept in another dry chatty. The washing process is repeated until enough of the dark substance—about a third of a tea-spoon—is collected. This substance is then mixed powered salt and brick-dust, put into a broken piece of pot, and covered with another piece. The whole is placed in a large earthen vessel with cow- 
+891For the praxis of alchemy and some concrete examples of homologization of praxis in the lab to narrative, see David Gordon White, The Alchemical Body: Siddha Traditions in Medieval India (Chicago: University of Chicago Press, 1996), 263–294. 
+928 
+dung cakes well packed above and below. A blazing fire is carefully removed, and again melted with borax in a hole made in a good piece of charcoal, by blowing through a reed or hollow bamboo until the gold separates from the mass. The fire is then suddenly quenched and the piece of gold is separated and removed.892 
+In the second phase, Brouwer explains, gold is first tested against a touchstone and 
+once its quality has been ascertained it is placed into a crucible and then inserted in a furnace 
+heated by the goldsmith through the pumping of a bellows. When the gold has been liquified 
+and is molten hot, it is poured into a holding container lined with oil. Depending on the type 
+of object crafted, the heated gold is then either poured into a mold or drawn into wires. Much 
+like a blacksmith, the goldsmith takes up his tools and bends, pounds, or gingerly taps the 
+object until it assumes its desired shape. As Brouwer observes, in north Karnataka in particular, 
+goldsmiths are inclined to view the “cleaning of gold” as a “dangerous, if not violent’ 
+process,”893 so akin to killing, that in modern times some subcastes of smelters have taken to 
+outsourcing the process to other castes at considerable expense to their autonomy and income. 
+In the narrative Sontheimer collected from Sonari, the killing of the demon that is gold seems 
+to be an invocation of this cleaning process. Just as Bhairavnāth strikes stone so that water 
+rushes out, the goldsmith rinses and submerges the raw materials. Just as Bhairavnāth, through 
+the deploying of the sixty-four yoginis, prevents a single drop of the blood of the demon— 
+which here must mean mercury—from falling on the ground, the goldsmith takes “considerable 
+care. . . to see that no particle of mercury escapes.” While Bhairav “kills” his “demon” with 
+bow and arrows, the goldsmith pierces his quarry with a long pointed tube, into which he blows 
+to separate out precious metal from dross. At the end, both agents “wash their weapons” and 
+place them on an iron (loha) “place,” which in the artisans case is his anvil. 
+892Jan Brouwer, The Makers of the World: Caste, Craft and Mind of South Indian Artisans (New York: Oxford University Press, 1995), 125. 893See Jan Brouwer, The Makers of the World, 124–135 on goldsmithing in general. 
+929 
+Just as with a blacksmith or other forms of craftsmen, in twentieth-century Karnataka, 
+the craftsman begins his task by ritually identifying himself with the five-headed Viśvakarman, 
+homologizing his professional duties throughout to an act of worship. From the perspective of 
+the historian of religion, the Viśvakarman in question, who emits the five streams to create the 
+universe and is a married to the ferocious goddess Kālī, is self-evidently a recasting of the 
+esoteric Mahābhairava of the Śākta Tantras. Indeed, in representations from the early twentieth 
+century within the Marathi sphere, the iconography of the deity of these communities is so akin 
+to that of Svacchanda Bhairava in particular that when this image was shown to artisans from 
+the Kathmandu valley, they interpreted it as identical to the Tantric focus of their own worship. 
+Viśvakarman as he appears in the nineteenth-century Marathi edition of Viśvabrahmapurāṇa 
+In Brouwer’s fieldwork, artisans of all sorts consistently identified their furnaces and 
+forges with the goddess Bhadrakālī, who also features in our story. In becoming Viśvakarman, 
+the artisan literally “marries” himself to his furnace. Indeed, in northern Karnataka especially, 
+a region that for Brouwer comprises everywhere from Sudi and Shirshangi up to Bidar, 
+930 
+goldsmiths today are most frequently found serving as the hereditary officiants either in large 
+multifunction temples dedicated to Kālī or at local shrines to the devī that are physically 
+incorporated into their workshops. For Brouwer, in fact, the iconic case study of this social 
+dynamic is provided by the goldsmiths who tend to the goddess Śīrṣāṅgī Devī herself. At least 
+among some castes, the tools of the trade used in the act of shaping material objects are even 
+identified as embodying the god. The union of tool and furnace is thus understood emically as 
+the sexual union of god and goddess, made possible by the clanging together (saṅghaṭṭana) of 
+often pronged tools and base substances within the womb of the goddess. This process is 
+catalyzed first through the use of mercury, and then, through the proper application of the 
+bellows, in much the same manner that a yogin first channels and transmutes his seed and then 
+applies the internal bellows breath (kumbhaka) to heat his own inner fire so that the śakti within 
+him can arise up, curing him of the sickness that is saṃsāra. 
+At least in rural settings, as late as the twentieth century, beyond their professional 
+identities and roles as ritual officiants in Kālī’s temples, now that they have been relieved of 
+their duties as minters of coins, Kannadiga goldsmiths continue to be associated with a very 
+suggestive set of extracurricular activities. In addition to continuing to work with stone, some, 
+we are told, are said to “craft yantras,” and to have “knowledge of casting spells, for good and 
+evil.”894 Far more commonly, goldsmiths are associated with a form of folk medicine in which 
+ulcers, facial pain, dog, animal, and human bites, and the aches and pains of the body are cured 
+through a judicious application of heat drawn out of the fire of the smithy’s furnace—which is 
+of course none other than Kālī herself—into a metal conductor to the accompaniment of 
+894See Jan Brouwer, The Makers of the World, 126. 
+931 
+mantras. Finally, and perhaps tellingly, goldsmiths remain responsible for the ritualized 
+piercing of ear lobes and noses. 
+Whether inside the workshop—where his professional acts recapitulate the internal logic of 
+inner Tantric sādhanās—or out in the world—where so many of his transactions evoke the 
+transactional spirit of a peddler in mantra-tantra—even in the face of incipient modernizations 
+that render much of his functions irrelevant, whether in Dharwad in Karnataka or at Sonari in 
+Maharashtra, the goldsmith continues to move through the world like a yogin,895 crossing 
+boundaries of region, language, and caste we now imagine as inviolable. 
+Yogin at his dhūni at Mhasvad 
+895Much as was the case when we looked at the material traces left behind by such traditions at Mhasvad, there is reason to believe that if we could only pry the door to this archive further open, the place where it would take us would be animated by the spirit of rasasiddhas who dwell under Kubjikā ’s ciñcinī tree. In fact, at Pattan Kodoli, at a similar site dedicated to a Dhangar Siddhanāth near Kolhapur, which is the focus of a huge yearly festival, the god of the place is framed by tamarind trees that play an important role in the cult. Such parallels really warrant their own separate study. 
+932 
+Follow the Flows: Mahālakṣmī’s Travels in Deccan 
+Contrary to the regionalizing vision of the post-independence Indian state, in which differences 
+in language, even subtle internal gradations, seem to inexorably give rise to exclusivist 
+processes of identity construction akin to fervent nationalism, in the medieval Deccan, the 
+boundaries between region, polity, and cultures were both much less firmly drawn and less 
+fundamentally linked with the politics of language choice. It is not so much that the boundaries 
+between different regions were porous than that to speak of boundaries at all, or to read 
+unidirectional diasporas of populations as central features of this mental landscape is to 
+fundamentally misunderstand the dynamics at work. 
+A better point of comparison, suggested by theorist of religion Thomas Tweed,896 but 
+also evoked by our landlocked poet at Kukkunur in his homologization of Bhairava and the 
+sea, is to think of the Deccan, from Saurashtra in the West to coastal Andhra in the east, as 
+being like an ocean. While individual spaces out in the water have their own particular 
+topographical features and ecologies, under the surface there are steady currents at work. Given 
+enough time, without much effort on their part, elements from seemingly disparate places will 
+be drawn together. Under normal circumstances, certain populations, like the Dhangar and 
+Kuruba, are almost always moving from place to place across this landscape. Select features 
+of the land itself become unmoored and are drawn back up onto the shore. Bits of the beaches 
+in turn are swept out deep into the sea. Flows are never unidirectional. When a storm hits or 
+the temperature changes substantially, much more dramatic dislocations become inevitable— 
+even whales can become beached. In this way one can speak of dynamic circulation. 
+896Thomas Tweed, Crossing and Dwelling: A Theory of Religion (Cambridge, MA: Harvard University Press, 2006), 172. For another application of fluid dynamics in thinking about transregionalization and multilingualism in premodern south India, see Elaine Fisher, The Meeting of Rivers: Translating Devotion in Early Modern India, forthcoming. 
+933 
+Periodically landscapes abruptly change, but even under normal circumstances they are 
+constantly being remolded by the steady intake and expulsion of thick and thin layers of 
+cultural sedimentation. 
+For almost eight hundred years, the shorelines of this ocean were drawn and redrawn 
+by rulers who either called themselves Caḷukyas/Cāḷukyas, or presented themselves as 
+inheritors of their patrimony, identities they cemented by establishing transregional ties among 
+each other marked by fealty and blood. If the Cāḷukya world has its socio-political epicenter 
+places located in central Karnataka, such as Badami, Aihole, and Pattadakal, which long after 
+their heyday held such prestige that even the imperial Rāṣṭrakūṭas’ crafting of a built landscape 
+at Ellora commences as an attempt to both recreate and surpass the types of spaces established 
+by their predecessors, when it came to questions of sacred geography, the Cāḷukya interior was 
+itself the periphery. For all of the efforts and expenditure invested in saturating the landscape 
+of medieval Karnataka with temple complexes, throughout the period in question, the three 
+most important sacred places—Somanātha in Saurashtra, Srisailam in Andhra, and Kolhapur 
+in the Koṅkaṇa/Southern Maharashtra—were all found outside of the Kuntaladēśa and for the 
+most part would perpetually remain under the control of other powers. In much the same way 
+that in the early modern centuries newfound layers of significance were conferred on localized 
+sacred centers by recasting them as “the southern Kashi,” throughout the longue durée of the 
+early medieval, the moniker “a new” (abhinava) Someśvara, Srisailam, and especially, 
+Kolhapur, were periodically bestowed upon ritual centers through the central Deccan. At times, 
+more generalized attempts at emulation even gave way to the actual recreation of the floor 
+plans and distinctive iconographic features of these sacred sites. 
+As you may recall from chapter 4, though he dedicates the surviving portion of his 
+934 
+kāvya to an exploration of Srisailam, in the vīrakrīḍā of the Mānasollāsa of Someśvara III 
+offers a catalogue of sites associated with the rendezvous with yoginīs. Not a single one of 
+them falls within the region we now call Karnataka. Instead, Someśvara identifies Kolhapur, a 
+śāktapīṭha in the Koṅkaṇa that effectively forms the southernmost boundary of the modern- 
+day state of Maharashtra, as the main (mukhya) or most important sacred field (kṣetra) on the 
+subcontinent, at least in the context of Śākta worship. Far from proposing some novel 
+innovation, Vikramāditya VI’s son and successor is simply aligning himself with a 
+commitment to this place—begrudgingly upheld by their predecessors the Rāṣṭrakūṭas—that 
+was almost as old as the Cāḷukya name itself. Less than a decade after his father Vikramāditya 
+I took initiation into the śaivamaṇḍala, a copper plate issued by the Bādāmi Caḷukya ruler 
+Vinayāditya tells us that after celebrating his own coronation at Raktapura in the Marathwada, 
+in 680 CE Vināditya made pilgrimage to Kolhapur in the southern Konakaṇa.897 There, 
+Vinayāditya the great king (mahānṛpa) bestowed as vidyādāna an undying land grant 
+(sarvanamasya) and promised that he and his line would protect in perpetuity, according to the 
+strictures of the long standing praxis of the place (pūrvadharma) the self-arisen (svayambhū) 
+god the auspicious skull bearing lord (Kapālēśvara) of Kolhāpura (kollāpurada).898 In a 
+897Unnoticed in Western scholarship, this important inscription was published in Visnu Bikhaji Kolte, Mahārāṣṭrātīla Kāhī Tāmrapaṭa va Śilālekha (Mumbai: Maharashtra Rajya Sahitya ani Samskrti Mandala, 1987). It should be observed that this eighth-century inscription offers what seems to be our earliest examples of much of the standard rhetoric that will become identified with the Kālamukhas from the eleventh century onward and that it itself presents such systematicities as aligned with a longstanding “pūrva” tradition, whose norms the inscription simply recognizes and renews. 898Kolte, Mahārāṣṭrātīla Kāhī Tāmrapaṭa va Śilālekha: svasti yamaniyamasvādyanadhāraṇa- monuṣṭānajapasamādhisīlasampannatarkkavyā karaṇādi anekaṣāśtrapāravāra-pārgāṇāṃ† vā digajakesari śrīśaivasthānaśrīpadmaśivarāvulānāṃ śrī kollāpurada śrī kapāleśvaradevarapūrva-dharmapratipālanāṃ khaṇḍasphuṭitajīrnodhāravidyādānatapodhanan(nā)nnavaṣanāchādanavakaṃ viṭṭavṛtti eḍenāḍu saptariyāmbhamtare śrītāvasagāve [tāvasagāva in the eḍanāḍu] nāmagrāmaḥ ghaṭikāsitacchatracāmarasamastarājacihna tribhogābhyantarśāsanasametaṃ śrī svayambhukapāleśvaradevācā yyapadmaśivarāulanapādaprakṣālyanaṃ dhārāpūrvakaṃ sarvanamasyaṃ mahānṛpadattaṃ / tadgrāmasīmāmtare tasya īśanyā diṣo bhāge. . . . taduttarataḥ bhagavatī deviya dakṣiṇadiśobhāgada kṛṣṇapāṣāṇ apuñjapramāṇam. . . . śrīcālukyānyasaṃjātā śrīsatyāsrayadevatatpādapadmopajī virāmabhaṭṭusulikhyate // 
+935 
+Sanskrit marred by many copying errors as well as the occasional old Kannada case ending, 
+the inscription praises the ācārya of the self-arisen skull bearing lord, an officiant named 
+Padmaśivarāvula, esteemed as a lion before the elephants in regard to his polemics, who had 
+crossed over the farthest shore of all the śāstras, such as logic, grammar and so forth, and who 
+has accumulated merit through—you guessed it—yama, niyama, svādyana (sic), dhāraṇa, 
+mona (sic), anuṣṭāna (sic), japa, samādhi and so forth. Vināyaditya, we are told, marked the 
+occasion by honoring the ācārya and, after washing his feet, transferred to the Rāuḷ and 
+whoever after him would hold the śāsana the right to the “three enjoyments” and bearing all 
+the regalia of a king (rājacihna) such as the yak tail fans and umbrella. Beyond making a major 
+endowment to the village (gāv) of Tāvasa, which as Ramachandra Chintamani Dhere suggests 
+most likely corresponds to Hatkanangale, now in Ichalkaranji District four miles to the east of 
+the main temple at Kolhapur, Vināyaditya committed to a series of donations of land and 
+resources in support of a range of spaces in the vicinity, including, in what must be a reference 
+to the Mahālakṣmī, with whom the field is usually associated, to the esteemed goddess 
+(bhagavatī devīya) located in the southern direction. 
+Within a century, just outside of the Bādāmi Caḷukya capitals near Bagalkot in what is 
+now the town of Sirur—which in Kannada means simply “the very special place”—we find 
+the founding of a ritual complex called new Kolhapur. Comprised of a series of archaeological 
+layers, the oldest of which date back to the eighth century and the newest of which are products 
+of the eleventh, from its inception, Abhinava Kolhapur takes pains to distinguish itself visually 
+and rhetorically from the myriad of other sacred sites in the region The ritual life of modern 
+Kolhapur is centered around the great stone temple dedicated to Mahālakṣmī. The temple as 
+we see it today, however, must be dated at best to the reign of Āhavamalla himself, for a badly 
+936 
+damaged inscription on a hero stone near Kolhapur tells us of the valiant efforts made by a 
+young warrior to protect the mūrti of the goddess when the wooden temple that housed her was 
+burned to the ground at the command of the Cōḻa king Rājarāja.899 
+899A heavily damaged inscription to this effect reads: svasti / śrī mahālakṣmī dēviyaralligĕ cōḷaṃ bandu dēgulamaṃ suḍuvāga mālagāṟa muṭṭayya dēvīyarggĕ vēḷĕgŏṇḍu / On paleographical grounds, the śāsana has been dated to the eleventh century in the reign of Āhavamalla. The text is given in Shrinivas Ritti, Inscriptions from Kolhapur District (Prasaranga, Kannada University, Hampi: Kannada University, 2000), 126. 
+937 
+Abhinava Kolhapur, Sirur, Bagalkot district. Below: Interior L: Yogin bearing dhvaja. R: Yogin & theriomorphic yoginī.L: Interior on door lintel: yogin with attendants. R: Yogin approaches yoginī. Below: Human yoginī with attendants. Notice that all the figures in positions of power are holding mataluṅgas, an iconic feature associated with Mahālaksmī of Kolhapur. 
+938 
+In contrast, the two eleventh-century inscriptions on the walls of the Siddhēśvara 
+temple at Sirur convey in rather concrete terms the sort of sacred social imaginary that must 
+have animated the site right before its destruction by the Cōḻa king. In the opening benedictory 
+verse, Mahāśakti Mahālakṣmī is praised as the one who governs the highest pīṭha among all 
+the pīṭhas: auspicious Kolhapur.900 
+900The inscription, found in Kannaḍa Viśvavidyālaya Śāsana Sampuṭa Vol. IX: Bāgaḷkōṭ Jillĕ (Hampi: Kannada University), 43–48), is on the right-side wall of the Siddheśvara temple and was engraved in 1049 AD. The Sanskrit portion that opens the text upon which the above analysis is based reads as follows (pg. 45): tamatamandhakāra vinirggata samudbhūta nirāmayōtpatti mahāśakti svarūpa paramo[ddhā]rika mahāmūrtti sapta kaḷpacaturvvi[ṃ]śāṣṭa guṇōpētyaṣṭāviṃśata yugāvatāracatussaṣṭi yōginī siddhasandōhaparivēṣṭita jambūdvīpāntarggata śivakṣētra ma[hā]pātaka vināsini rudrārddhāṃgōtsuṃga nivāsini śrī viśāḷādi saptasata tirtha pavitrīkritōtamāṃgĕ brahmārādhita siṃghavāhani śrīmatkŏllāpura pīṭhādipīṭhādhiṣṭhitĕ devādidevi śrīmanmahālakṣmīdēvyā pādapadmōpajīvi yarappa yama niyama svādhyāya dhyana maunānurata parama pāsupatācāryya śrīmadāryyacaturjjātaka sakaḷa mahāsthānam / 
+939 
+Later, in the Kannada portion901 of the inscriptions, she will be praised as Parā and Parāpara, 
+perhaps with the intent of invoking the goddesses of the Trika (parāparaśakti [śu]ddā // tasyās 
+trayo guṇagaṇai). She abides encircled by waves of the siddhas and sixty-four yoginīs who are 
+the twenty-eight incarnations of the age902 and are endowed with the twenty-four qualities 
+across the seven eons. In the form of Ardhanārīśvara, for she is said to have Rudra as half her 
+body, Mahālakṣmī rides a lion and destroys the unforgiveable sins. The inscriptions connect 
+her worship to the seven hundred tīrthas, of which the foremost is Somanātha in Gujarat. 
+Echoing the very language that we will encounter in chapter 9 when we explore how 
+Somanātha persisted in the thirteenth-century imagination of the Seuṇa Yādava kings as 
+reflected in the writings of the polymath minister Hemādri, the inscription tells us Mahālakṣmī 
+is served by “the illustrious four mendicants who are the supreme Pāśupata teachers, intent 
+upon silence, meditation, recitation, yama, and niyama. . . . They subsist on the lotus feet of 
+the goddess the supreme Mahālakṣmī who is the supreme ruler of the gods.” 
+In short, in the social imaginary of the Bādāmi and Kalyāṇi Caḷukyas/Cāḷukyas, this 
+register of religious practice and the sacred geographies with which it was associated, gradually 
+linked with the veneration of cycles of siddhas and dangerous goddesses, was at once held in 
+901 Despite the overwhelming majority of these words being Sanskrit derived, and even given the importation of some Sanskrit grammatical forms, the core syntax in this part of the text is typically Kannada. The text here is often too damaged to yield good sense. Kannaḍa Viśvavidyālaya Śāsana Sampuṭa Vol. IX: Bāgaḷkōṭ Jillĕ, 45–46: prasiddhā mukhyāssamasta varasiddhasuyōginīnāṃ mattadvirēpha yiva padma sugandhigaṃ śaktā hi labdha girijā harapādapadmā // tasyāssu[tō]prabhuvarō jagataḥ prasiddhō śrī mūkaṇākanakarā vubhamētatājñā agnīcarērbhbha kavarā samabhūd aśēṣā [haṃta] praḷōkaviśayasya yathēṃdulēkhā tasyāssutāja[na] [five akṣaras missing] tarāṃ prasiddhāṃ gaurabbi paṇḍitajanakrīta nāmadhēyā śrīmanmahādhilakṣmī varapādapadmā saṃsakta mānasa parāparaśakti [śu]ddā // tasyāstrayō guṇa[ga]ṇai [missing 4] dhāsu bhrātayō jagati [two akṣaras missing] dimukhyā nāmnā ca nāyyiyaṇa dhāyyiyaṇēti yuktā śrīsaṃpadā prabhuguṇēna ca mārttyalōkē // ta[danvavā]yā prathitapṛthvyāṃ śrī bōppaḷappēti mahāpradhānāṃ saubhāgya lāvaṇya guṇēna yuktāṃ śrī yōginībriṃda mahādhivandyā / 902In this formulation of twenty-eight incarnations of Śiva, while the last is usually identified with Lakulīśa, his predecessor is often taken to be Somaśarman, the supposed founder of the Somasiddhānta tradition of the Kāpālikas. It is tempting to identify the “Paramapāśupatas/Mahāpaśupatas” of this inscription as descending from such traditions, a state of affairs that, as we will see in chapter 9, calls for a reconsideration of Somanātha itself as a central kāpālikapīṭha. 
+940 
+the highest esteem and viewed as inseparable from a geographical and social other. Despite 
+five hundred years of commitment to these traditions, the Caḷukya/Cāḷukya rulers, their 
+vassals, and their successors continued to understand this esteemed esoteric tradition as a 
+cultural import. Over the centuries, they repeatedly saw the need to periodically renew their 
+grasp of tradition. As we shall see—and not only in regard to Kolhapur—this demanded a 
+return to the source—the imagined greater Maharashtra, land of magic, mystery, yogins, and 
+terrifying goddesses. 
+Half a century later, in the southern part of Karnataka near the city of Hassan, the newly 
+independent Hoysala Kingdom marks its auspicious new beginning by inaugurating one of the 
+most capacious and inventive programs of temple construction in the history of the 
+subcontinent. Perhaps unsurprisingly, the first building to be constructed is once again 
+envisioned as a new Kolhapur. If the inscriptions at Sirur vividly depict the types of mental 
+maps that organized Kolhapur on the eve of its destruction, Lakṣmī Dŏḍḍagaddavaḷḷi offers us 
+941 
+a taste of the lost material culture that would have adorned its replacement. When the 
+mahāvyavahārī Kullhana Rahuta and his wife Sahajā Devī left Kolhapur to settle in the new 
+Hoysala kingdom, they commissioned the artisan-architect Manōja to recreate for them a little 
+piece of home. Perhaps to inure themselves to the new ruling family, for the first time in our 
+surviving material record, the couple topped the new temple with an iconic representation of 
+the founding myth of the Hoysala dynasty. Later inscriptional records explain the lineage’s 
+unusual name through recourse to a folk etymology. Thus, we are told, that the mythical king 
+Sala was commanded by his teacher to strike (hŏy) a marauding tiger—hence hŏy-sala. Peering 
+in over the walls of the complex, almost as if the space was marked with the warning “protected 
+by the king—stay away” this is the only figure that would have been visible to an outsider. 
+942 
+The complex can only be entered through a single doorway. This leads through a rather 
+intimate passageway in the form of a miniature maṇḍapa where the ceilings are adorned with 
+images of the gods of the direction—but only the ones that originate among Vedic deities. 
+Even if someone were to slip in, the courtyard in front of the temple for all its elegance is 
+surprisingly plain. 
+Two views of Lakṣmī Dŏḍḍagaddavaḷḷi from the outside. 
+TL: Entry maṇḍapa at Lakṣmī Dŏḍḍagaddavaḷḷi. R: Detail of ceiling, Agni and his ram. 
+943 
+Lakṣmī Dŏḍḍagaddavaḷḷi: Interior front courtyard. 
+Only if a person makes their way to the back of temple and sees the sole figure on its exterior 
+is there any indication that this place was dedicated to a form of worship with roots in 
+cremation ground cultures centered upon the propitiation of terrifying esoteric goddesses 
+through Tantric ritual and blood sacrifice. 
+Before we encounter the goddess herself, two material artifacts preserved in situ paint 
+a vivid and macabre portrait of the centrality of such practices to the ritual life of Lakṣmī 
+Dŏḍḍagaddavaḷḷi. The first of these is an exceptionally beautiful balipīṭha. Much like at 
+Mhasvad, we are presented with a platform on which two pādukās are framed by visual 
+representations of sacrificial offerings. But whereas at Mhasvad it is just the decapitated heads 
+of buffaloes nestled in the corner that have been presented to the deity, here, the sacrifice of 
+the human animal is also in evidence. The visual focus is on two sensuously rendered neatly 
+decapitated human bodies. Evoking a distinctively Deccani valorization of radical sacrifice 
+944 
+from the way their dying hands clasp their just severed heads, it is clear that we are supposed 
+to understand these men as having freely offered themselves as bali to the goddess in a spirit 
+of fervent devotion. 
+Lakṣmī Dŏḍḍagaddavaḷḷi: Bali pīṭha. 
+A similar visual tableau found elsewhere in the complex, in one of the small supplementary 
+shrines, prevents us from adopting some sort of allegorical reading of this type of sanguine 
+imagery. Again, from the outside, the structure is rather plain, unadorned apart from the rather 
+curious image of an ācārya, pausing for a moment while giving a discourse, found on its lintel. 
+945 
+Once one opens the doors, however, the viewer is confronted with an evocative and altogether 
+rather unexpected image. From at least the fourth century in the Deccan, in places where 
+figurative sculpture has become a part of a temple or cave complexes iconographic program, 
+one anticipates that a door frame within a temple that elsewhere presents intricately rendered 
+figures will incorporate some sort of anthropomorphic door guardians. These figures, whether 
+male or female, can be intended to represent human beings, or in other cases the same role can 
+be taken by a variety of iterations of Śiva’s gaṇas, subsidiary deities such as Kubera, or a range 
+of other supernatural beings, especially nāgas. Whether represented as flirtatious or fearsome, 
+what all of these figures share in common is they are presented as either actively protecting the 
+deity within the garbhagṛha or framing the space as a visual analogue to the hyper- 
+aesthetically charged social domain of the court. The dvārapālas at Lakṣmī Dŏḍḍagaddavaḷḷi, 
+in contrast, would be hard pressed to carry out either of these tasks, for they are far too busy 
+killing themselves. 
+Lakṣmī Dŏḍḍagaddavaḷḷi, side shrine, dvārapālas. R: Slitting throat. L: Piercing stomach with dagger. 
+946 
+Standing before the god, the heroic figure on the left prepares to sever his own head. The yogin 
+to his left, who wears a long, hooded robe and carries a staff, seems to represent one particular 
+type of vow-bearing, skull-carrying Kālamukhas. 
+From the early twelfth century onward, similar images play an increasingly prominent role in 
+the visual culture of the Deccani temple. Though Cāḷukya-era examples abound, such figures 
+come to be associated primarily with the Hoysalas—appearing, for example numerous times 
+on the Hŏysalēśvara temple at Halebidu whose construction commenced less than a decade 
+after Lakṣmī Dŏḍḍagaddavaḷḷi was built. 
+L: Detail, Lakṣmidoddagaddavalli. R: same figure, Hoyaleśvara. 
+Hŏysalēśvara temple, Halebidu. Details depicting human sacrifice. 
+947Often, as we see in the images above, such figures appear in contexts that explicitly 
+depict human sacrifice. Thus, in the panel on the left, a jaṭā-wearing yogin prepares to 
+decapitate a devotee, who, standing on one leg, has come before what is surely a kula tree 
+to offer himself to the goddess. In the panel on the right, in contrast, a robe-wearing ascetic 
+encircled by piśācas offers to an image of Bhairavī what appears to be a human heart. 
+Executed at a much larger scale, though sadly without the same type of narratological 
+focus, at Seuṇa Yādava period temples in Maharashtra—such as Nilanga, the iconographic 
+program incorporates life-size images of both of the sorts of figures we see at the side 
+shrine in Lakṣmī Dŏḍḍagaddavaḷḷi, with the robe-wearing ascetic and virile devotee— 
+dagger and skull-bowl in hand—placed in close vicinity with each other. It is the second 
+figure on the right, however, whose paraphernalia suggests most pointedly that the images 
+before us need to be read through the lens of a religious imaginary specific in particular to 
+greater Maharashtra. 
+L. Robe wearing ascetic, Nilanga, Maharashtra. R. Warrior adept with dagger and skull bowl. 
+948 
+suggests nothing of provenance. However, immediately in front of his sword, hanging from 
+his left shoulder we find that this particular devotee is encumbered by an enormous iron 
+chain. As Sontheimer informs us in his study of festivals associated with the temple of 
+Khaṇḍobā of Jejuri, the bearing of enormous iron chains is one of the iconic practices of 
+the vāghya. Usually hailing from Dhangar families, these adepts—the male counterparts 
+to so called devadasīs—are dedicated in their early childhood to serve Mallāri/Mārtaṇḍa 
+Bhairava. As the word vāghya, which in Marathi seems to mean both tiger and dog, itself 
+suggests, their foremost role is to serve as the “dogs” who accompany the god on his wild 
+hunt during the amāvāsya celebration. In the company of his dogs, during the hunt, 
+Khaṇḍobā travels through the wilderness escorted by his army of 12,000 Hāṭkar Dhangars. 
+During the hunt, numerous animals are killed and offered to the god. At its conclusion, the 
+vāghyas return to Jejuri, a small town with its own mountain stronghold near Pune, for a 
+celebratory ritual in which they break their chains. Nomadic pastoralists, the yearly 
+migrations of these herdsmen demand that they make camp in the vicinity of Kolhapur 
+949 
+As we can see, seemingly 
+moments before he was 
+rendered in stone, the figure on 
+the right seems to have pierced 
+his own belly with his sword. 
+This is presumably an act of 
+self-sacrifice of a sort very 
+common in the medieval 
+Deccan, and in and of itself 
+during the rainy season, while during the winter and summer, they commonly wander as 
+far west as Pune and north as the upper Marathwada. In short, they traverse a regionalized 
+geography of a sort that would have been well known to the Kolhapuri merchant under 
+whose patronage Lakṣmī Dŏḍḍagaddavaḷḷi was built. 
+In more recent centuries, as many Dhangars have become performers for hire, this 
+breaking of chains has also been transposed into increasingly quasi-secularized 
+performance of the “folk art” tradition of the jāgran-gondhal. Here, for example, offering 
+us a taste of just how deeply such associations persist as part of a distinctively 
+Maharashtrian social imaginary, is how such an event is represented in the recent popular 
+novel of Ulhas Gunjal, Home Again!: A Novel of Identity, Self-discovery, and Tragedy: 
+A waghya is a mendicant among the Dhangars. He covers his back with a ghongadi, a blanket, and wears a langar, an iron chain, over his shoulder; he hangs around his neck a tiger-skin pouch filled with haldi, the tumeric powder. . . Waghyas and muralis. . . are invited to perform the jagran-gondhal. It is a sequence of live performances—the singing of Khandoba songs, dancing, the telling of ancient stories. . . . It keeps the audience awake all night and it concludes at dawn in a waghya’s breaking of a langar, his iron chain; the broken chain is preserved and worshipped at home as a good omen; a Marathi proverb says: “Ek kadi tute; sahasra vighna haate (One chain breaks; a thousand calamities vanish).”903 
+The association of the gondhal with the distinctive pastoralist cultures of Maharashtra 
+is a phenomenon with considerable premodern roots. Indeed, Deccani performance traditions 
+plausibly ascribes both the entextualization of the praxis of gondhal as well as the 
+dissemination of its performance outside of the narrow networks of Maharashtrian pastoralist 
+communities like the Dhangar to none other than the great Cāḷukya king Someśvara III himself, 
+in whose Mānasollāsa the practice is for the first time transposed into the idiom of śāstra. 
+903Ulhas Gunjal, Home Again!: A Novel of Identity, Self-discovery, and Tragedy (Bloomington, IN: AuthorHouse, 2014), 160. 
+950 
+Testament to this effect is found in a late thirteenth-century work of musicology, the 
+Saṅgītaratnāvali. Writing in the court of the Kākatīyas of Warangal, a dynasty with no 
+particular incentive for laying claim to a Cāḷukya legacy, presented with an occasion for 
+identifying the provenance of “local” art forms, when it comes time to explain the gondhal, 
+Jāya Senāpati offers his readers the following anecdote. 
+In the past, during the great celebration of the Mother of Bhūtas, while in the war camp of Kalyāṇa, King Someśa, [was] wonder-struck at having seen a certain person who was dancing and singing in the guise of a female herdsmen (bhillī). Being pleased [by this performance], he instituted the procedure for the wonderous goṇḍalī; since in the Mahārāṣṭrī language, a bhillī is called a goṇḍalī.904 
+Just as we saw in his own writings, more than a hundred year after his death, the 
+cosmopolitan king Someśvara III was remembered as having a genuine interest in the 
+celebratory presentation of cultural difference. In this case, Someśvara emerges as something 
+akin to a modern-day enthusiast for “world music,” so taken with an art form he encountered 
+by chance in a remote rural setting among culturally marginal people that he arranges for their 
+act to take to the road so that they can perform in the finest venues. Someśvara’s perception of 
+his own alterity to the gondhal, which he sees as foreign not only because it is Maharashtrian 
+but also on account of the fact that it is performed during the festival honoring the goddess in 
+the form of the mother of spirits, is particularly intriguing. Though it is now often dedicated to 
+904Jāya Senāpati, Saṅgītaratnāvali, cited in V. Raghavan, ed. Nṛttaratnāvalī of Jāya Senāpati (Madras: Government Oriental Manuscripts Library, 1960), pg. 134: kalyāṇakaṭake pūrvaṃ bhūtamātṛmahotsave / someśaḥ kautukāt kāñcit bhillīveṣām upeyuṣīm // nṛtyantīm atha gāyantīṃ svayaṃ prekṣya manoharam[emd. āṃ] / prīto nirmitavān citragoṇḍalīvidhim ity ayam // yato bhillī mahārāṣṭre goṇḍalīty abhidhīyate // This passage has also been referred to in R. Dhere, “The Gondhali: Singers for the Devi,” trans. Anne Feldhaus, in The Experience of Hinduism: Essays on Religion in Maharashtra (Albany, NY: SUNY Press, 1988), 174–189. Perhaps the most compelling piece of evidence for this connection, unnoticed by Dhere, is that in Dhangar performances, the singer’s performance is complimented by a participant who, indicating the participation of the audience, intermittently makes the sound hūṃ, and thus is called the hūmkāra. See Günther-Dietz Sontheimer, King of Hunters, Warriors, and Shepherds: Essays on Khaṇḍobā (New Delhi: IGNCA, 1997), 74. What Sontheimer has not recognized is the bīja hūṃ is the praṇava mantra of Svacchanda Bhairava, and that this is the very sound a Śākta adept would be repeating ceaselessly in sādhanā. 
+951 
+Khaṇḍobā and his female consorts, instead of Bhairavī and the mothers, this strongly suggests 
+that the roots of the jāgran-gondhal dances performed by the Dhangar are to be sought in 
+precisely the type of all-night performances marking the “awakening” of a deity of the sort that 
+we explored in the Piṅgalāmata’s chapter on pratiṣṭhā. Traces of practices similar to these are 
+to be found, for example, in the caryā dance traditions preserved in Nepal, as well as the Śākta 
+karaṇa practices preserved in the Jayadrathayāmala, in which groups often comprised of eight 
+male vāghyas and eight female muralīs would dance and sing under torchlight, assuming the 
+guise of the god and goddess until the sun rises. The day after such performances would present 
+an occasion for the bestowing of benedictions upon adepts, including rites of initiation where 
+the ontological “chains” (pāśa) that Śaivas believe bind a human soul are obliterated through 
+mantradīkṣā. It would also frequently be marked by the offering of the “most auspicious” or 
+“best” sacrifice, often a euphemism for a human victim, sometimes as we have seen the adept 
+himself. Traces of many of these dimensions of the older practices are preserved in the 
+musicological literature’s formalization of gondhal. Thus, Jāya Senāpati himself, immediately 
+after offering the likely more accurate account we have just explored, follows up with a more 
+Sanskritic construal of the practice’s origins, which performs the more typical erasure of 
+historical particularity we have come to expect from such discourse: 
+Pārvati taught the music and the very lovely dance to the divine woman with beautiful hair and a tender body called Kuṇḍalī. Because of that connection, the ancients called that dance kuṇḍalī.905 
+As V. Raghavan has pointed out906 in the learned introduction to his edition of Jāya’s 
+Nṛttaratnāvali, drawing upon unpublished manuscript evidence, within a few generations, the 
+905Jāya Senāpati, Saṅgītaratnāvali, cited in Raghavan, Nṛttaratnāvalī, 135: kuṇḍalīṃ nāma mṛdvaṅgīṃ sukeśīṃ divyayoṣitam // saṅgītaṃ komalaṃ nṛttaṃ śikṣayāmāsa pārvatī // tannṛttaṃ kuṇḍalīm āhuḥ tatsambandhāt purātanāḥ/ 906See Raghavan, Nṛttaratnāvalī, 134–137. 
+952 
+false incidental etymologization of gondhali as a corruption of kuṇḍalī has evolved into a more 
+comprehensive identification of the dance with the movements of the kuṇḍaliṇī śakti. Thus, in 
+the Saṅgītamuktāvalī, gondhal dance is introduced with the following verse: 
+The kuṇḍalinī śakti has come forth from the cave in the lotus at the foundation [the cakra at the base of the spine.] Her splendor takes many forms. Her very nature is the dance of the creator. She rains down the nectar of eros. She consists of bliss. Her earrings are adorned with fine jewels/the jewel that is the truth. Her purpose is the fashioning of beauty. She is the dancing lady of the world who causes the entire world to be deluded by her games. Here, the dancer who possesses such qualities [is called] Kuṇḍalī.907 
+While Raghavan views the forging of such a connection as merely a mistaken 
+connection arrived at by later tradition, the form of the gondhal itself, which consists in 
+sequence of meeting (melana and melāpaka), striking or burning (praharaṇa), the sounding of 
+the jheṅkāra/jhaṅkāra (semantically not meaningful but an old name of Bhairava), and 
+culminates in the experience of wonder (camatkāra) followed by the rising up (uccalita), 
+suggests otherwise, for in each case these stages correspond at once to the external tryst of 
+siddhas and yoginīs and the internal actions of the kuṇḍalinī within the body. Each of these 
+associations also align with the copious visual record of violent sacrifice. As David Gordon 
+White and more recently Olga Sabreava have demonstrated, at the end of such trysts, yoginīs 
+often consume their victims. The same dynamic holds true in the oldest Marathi source 
+available to us that explores the internal praxis, the thirteenth-century Bhāvārthadīpikā of 
+Jñāndev. As Catharina Kiehnle has shown us in her edition and translation of the relevant 
+passages,908 before kuṇḍalinī releases the restorative nectar of the moon that grants the adept 
+907Saṅgītamuktāvalī, cited in Raghavan, Nṛttaratnāvalī, 136: śaktiḥ kuṇḍalinī victravibhavā sadratnatāṭaṅkinī śṛṅgārāmṛtavarṣiṇī sukhamayī lāvaṇyakalpārthinī / ādhārāmbujakandarodgatavatī lāsyasvarūpā vidheḥ nṛtyantī sakaleśvarī vilasitaiḥ saṃmohayantī jagat / atra tādṛgguṇavatī nartakī kuṇḍalī matā // 908Kiehnle’s analysis and annotated translation of Jñāndev’s commentary on 6.10–6.14 of the Bhagavad Gītā, which consists of 177 ovī verses, has been published as Catharina Kiehnle, “The Secret of the Nāths: The Ascent of Kuṇḍalinī according to Jñāneśvarī 6.151–328,” Bulletin D’etudes Indiennes 22–23 (2004–2005): 447–94. For more on Jñāndev, see the analysis in chapter eight, section two. In these passages, Jñāndev offers an exceptionally 
+953 
+a restored and empowered divine body, first she must consume the constituent elements that 
+make up an ordinary human form. Innately hungry (sāhājeṃ bhūka) she burns up bits of flesh 
+(māṃsāciyā), scrapes the hollows of bone, annihilates the elements that make up the dhātus, 
+and spits poison.909 At the end of her feast, like the inside of a kadalī tree, the human body is 
+completely empty. Thus, in what is called in the convention of the nāthas (nāthasaṃketicā), 
+the swallowing (grāsu) of the body (piṃḍācā) by the body (piṇḍeṃ), the line is blurred between 
+the killing of the host and liberation. 
+At Lakṣmī Dŏḍḍagaddavaḷḷi, while the first door guardian—unambiguously slitting 
+his own throat—offers us a depiction of straightforward self-sacrifice, when it comes to the 
+chain-bearing figure on the right, it is possible that we have been premature in our reports of 
+a death foretold. While well up to the act of slicing open a belly, his sword seems scarcely 
+capable of severing the huge metal links of vāghya’s chain. It could be that our artists may 
+have simply inexpertly rendered the logistics of the ritual destruction of the ceremonial chains. 
+After all, while they are working under the direction of Kolhapuri natives, they themselves 
+would not have witnessed such practices. On the other hand, our vāghya may be experiencing 
+a different and much less terminal sort of “release” from bondage than we have assumed. In 
+placing the blade against the belly but behind the chains, our artist may be cultivating a 
+candid account both of the preparatory yogic practices, including postural yoga, that proceed kuṇḍalinī awakening, the phenomenological experience of violence that typifies its initial activity within the body, as well as gradual unfolding of the state of liberation while living and its various unexpected side effects. 909Some select verses will illustrate these trends more fully. “Naturally hungry for many days, on top of it awakened—that is the pretext, then she forcefully spreads out her mouth straight upward. . . . With the fire of her mouth she reaches up and down and begins to eat morsels of flesh. . . . Although she does not leave the mūladhāra, she also draws out the essence from the nails and after cleaning the skin gets united with the skeleton. When she scrapes the hollows of the bones. . . . then the outside sprout of hair seed get scorched. Then the thirsty one takes a gulp in the ocean of the seven dhātus and immediately produces dry heat.” sāhājeṃ bahuvāṃ diāṃcī bhūka /vari cevavili teṃ hoye mīkha/ maga āveseṃ pasarī mukha/ ūrdhvāujū // 6.228 mukhīcāṃ jalīṃ / talīṃ vari kavalī/ māṃcāciyā vaḍavālīṃ / ārogum lāge // 6.230 asthice nale nirpae / śirāṃce hira orape / tavaṃ bāhiri viruḍhi karape/ romabījācī // 6.234 maga saptadhātucāṃ sāgarīṃ / tānhailī ghoṃtu bharī / āṇi saveṃ ci unhālā karī / khaḍakaḍitu // 6.235 
+954 
+deliberate ambiguity about which act and what sort of “release” is about to take place, 
+simultaneously evoking two different possibilities, one which of which would have been 
+familiar to devotees worshiping the goddess and her consort within Kannadiga conceptual 
+frames, and another of which might have conveyed its full significance as visual śleṣa perhaps 
+only to our Kolhapuri patron, his wife, and their extended family, for whom the ritual life at 
+Lakṣmī Dŏḍḍagaddavaḷḷi provided a taste of home. Even today in Maharashtra in rural areas, 
+this sort of goddess is addressed by the name Mahālakṣmī. 
+Jagajī in Osmanabad district, Maharashtra. L: Colossal ninth-century image of Mahālakṣmī. R: Mukhed, Marathwada, Maharashtra (thanks to Saili Palande-Datar for sharing her image of Jagajī without ornamentation). 
+955 
+Lakṣmī Dŏḍḍagaddavaḷḷi, T: Exterior back of temple. B: Detail of goddess in the alcove on top right side. The small chapel we have just explored in some detail stands adjacent to the only image 
+on the temple’s exterior. Seated on a corpse 
+and wielding the trident, sword, khaṭvāṅga, 
+and skull bowl, this ferocious goddess—who 
+later traditions incidentally identify as the 
+consort of Bhūtanātha—bears many of the 
+attributes typically associated with Cāmuṇḍā 
+or Cāṇḍikā were it not for the fact that her 
+body is young and strong and her breasts are 
+full. 
+956 
+When pilgrims visit Kolhapur today, they worship a standing image of Mahālakṣmī 
+who carries her iconic mātuluṅga fruit and a large mace in her right hands, and shield and a 
+skull-bowl in her left. Housed in a trikūṭa shrine, she is flanked on her left by an image 
+commonly referred to as Durgā, to whom pilgrims typically pay little head, and on her right 
+by a representation of Sarasvatī. As we will see momentarily, there is copious material cultural 
+as well as textual evidence that this ritual arrangement of three goddesses, harmonized with 
+the three adhyāyas of the Devīmahātmya, is itself likely a post fourteenth-century 
+development. Indeed, traces of such an understanding are preserved among the pūjāris at 
+Kolhapur themselves who, if one inquires, will admit that in the temple liturgies it is not the 
+central image of the pacific goddess, but rather the Mahiṣāsuramardinī to her left, that they 
+identify with Mahālakṣmī. Understood as a form of Kālī, it is this deity who is the real focus 
+of worship of Kolhapur, and her original mūrti would likely have resembled the sort of image 
+we find at Lakṣmī Dŏḍḍagaddavaḷḷi. As for the Sarasvatī, the pūjāris agree that she is a late 
+addition and originally her shrine housed an image of Bhairava. 
+The Mahālakṣmī at Lakṣmī Dŏḍḍagaddavaḷḷi, details of mūrti and shrine. 
+957Just like Kolhapur, Lakṣmī Dŏḍḍagaddavaḷḷi is also a three-shrined temple. It seems to contain 
+two of the original images; sadly, the third, while a Bhairava, appears to be a slightly later 
+replacement. Just as we find at Kolhapur, the image in the center depicts a variation on the 
+saumya form of standing Mahālakṣmī, complete with mātuluṅga and club, though the other 
+two implements diverge. 
+Despite her position in the visual center of the temple, facing the devotee as they enter 
+into the sanctum through the only exterior doors, the artist Manōja has taken great care to 
+ensure that it is self-evident to anyone given access to this space that she is not the main point 
+of interest or chief focus of worship. 
+Framed by what is surely one of the most haunting and vivid entryways on the subcontinent, 
+the entryway is marked by a gathering of ghouls bearing weapons or playing musical 
+instruments, surrounding the handsome glaring visage of a central Bhairava. Even the modern 
+sense of modesty that compels her Mādhva pūjāris to dress her in a proper sari cannot conceal 
+that the Mahālakṣmī of Dŏḍḍagaddavaḷḷi is a goddess of the cremation grounds. 
+958 
+L: Reproduction of 1919 plate showing iconography of goddess. R: Kālī as she appears in situ. 
+Bearing a striking resemblance both to the goddess on the temple’s exterior and to the sort of 
+images we find in rural Maharashtra almost four hundred miles to the north, though her posture 
+is inverted, this Mahālakṣmī bears the same weapons in her four main hands and is seated on 
+a corpse in the royal easeful posture. She has the same vibrant voluptuous young female body 
+and her identity as an esoteric deity is further enhanced by the inclusion of two additional arms. 
+On the pīṭha on which she is installed, seated behind a huge kalaśa or pot, we find a strange 
+squatting image, perhaps of an emaciated Kāpālika yogin offering the mudrā of fearlessness. 
+All of these figures offer us compelling—even uniquely vivid—images, both in terms of 
+flawlessness of their execution as well as extraordinary nature of their iconography. Even so, 
+as impossible as it might at first seem, these are not the features of the temple complex at 
+Dŏḍḍagaddavaḷḷi mostly likely to live on in a person’s memory if not linger in nightmares. 
+959 
+Vetālas guarding the door to Kālī’s shrine, Lakṣmī Dŏḍḍagaddavaḷḷi. 
+If one would venture to have Kālī’s darśana, the prospective devotee must pass under the 
+watchful eyes of gargantuan and thoroughly monstrous doormen whose gaunt frames approach 
+nine feet in height.910 Looming down leeringly at mere mortal worshipers, Manōja and his crew 
+have rendered with loving and meticulous detail two appallingly fierce vetālas, who seem apt 
+to force themselves upon their victims at a moment’s notice. Wearing the circular earrings and 
+long dreadlocks of Śākta ascetic, Manōja imbues his monsters, whose genitalia hang down 
+with a shape and scale mirroring the garland of severed human heads they bear in their hands, 
+with grotesque virility, as if they have an equal hold on the powers of life and death. 
+910On these images, see also Csaba Dezső, “Encounters with Vetālas: Studies on Fabulous Creatures I,” Acta Orientalia Academiae Scientiarum Hungaricae 63, no. 4 (2010): 391–426. 
+960 
+Junnar, Maharashtra, Kukkudēśvar. Remains of exterior shrine with two guardian vetālas. 
+Indicative of the complex entanglements that bound disparate places across the Deccan 
+together according to highly specific logics we now struggle to recover, our strongest parallel, 
+executed with much less skill and at a much humbler scale, is to be found five hundred miles 
+to the northwest. Many hours from Pune, just a few miles from the ancestral home and 
+birthplace of Śivājī’s father, at a small yet nonetheless elegant goddess shrine executed in a 
+style much indebted to the Solaṅkī Cāḷukyas of Gujarat, two vetālas still stand, standing guard 
+over nothing much in particular. Much like their more impressive distant cousins, though much 
+less risqué, they are naked and emaciated and bear long curved daggers. Not only are the two 
+figures differentiated by different styles hairdos, but the vetāla on the left wears on his ears 
+the same sort of almost comically immense earrings. In essence, as will soon become even 
+more apparent, though geographically Lakṣmī Dŏḍḍagaddavaḷḷi is situated in southern 
+961 
+Karnataka and was produced by artisans from that region, conceptually speaking, Manōja and 
+his crew have recreated an iconographic program that is quintessentially Maharashtrian.911 
+Another site in Maharashtra helps us to make sense of why, if structures like this were 
+once so numerous, no other exemplar as exquisite as Lakṣmī Dŏḍḍagaddavaḷḷi has managed to 
+survive. Fifty miles north of Kukkudeśwar, mere miles from what is now the Gujarati border 
+and just a hour’s drive from the original capital of the Seuṇa Yādavas at Sinnar, though the 
+twelfth-century goddess temple called Tahākārī in the town of Akole diverges almost 
+completely in its architectural style from the structures we have just seen at Lakṣmī 
+Dŏḍḍagaddavaḷḷi, nevertheless the iconographic program that organized its three part shrine 
+was in fact almost identical—a many armed young goddess seated in lalitāsana on a corpse 
+throne on the left, a standing Mahālakṣmī in the middle, and a Bhairava of equal height on the 
+right. 
+The three central focuses of worship at Tahākārī, Akole, Maharashtra. L: Seated Kālī on a human throne. Center: Standing Mahālakṣmī. R: Bhairava and his attendants. The first image is no longer enshrined in situ. 
+911Despite being home to thousands of trikūṭa shrines, apart from Lakṣmī Dŏḍḍagaddavaḷḷi, produced under a patron expatriating from Kolhapur, and possibly also Kukkunur, Karnataka seems to be home to no other site that presents such an arrangement. Much as we saw at Shirshangi in Karnataka, Kālī is typically housed in her own separate structure, often paired in close vicinity with an independently accommodated four-armed Bhairava. 
+962 
+Akole is most interesting to us, however, for what its ceilings make evident. As we can see in 
+the first image, despite being comprised of single solid blocks, the stones have been cut so they 
+resemble a series of small interlacing panels slotted into place by support beams. Since, after 
+all, this is a stone temple, in this medium such an arrangement serves no structural purpose and 
+its production would have been in fact quite cumbersome. As we see from examples in Nepal 
+and Himachal,912 however, that date back even before this period, this jigsaw approach to the 
+assemblage of a structure, in which a series of smaller interlocking pieces are fitted together 
+creating internal pressure among the elements that hold everything firmly together, is precisely 
+the method that makes possible the production of intricately carved wooden temples. Akole, 
+in other words seems to be a recreation, at a greater scale in a more permanent stone medium, 
+of the more typical wooden goddess temples, much like the one that stood at Kolhapur until 
+the Cōla king burned it down. 
+912Mian Govardhan Singh, Wooden Temples of Himachal Pradesh (New Delhi: Indus Publishing Company, 1999), 59–62. 
+963 
+Akole: T: detail of the stone ceiling at Akole, in the style of a wooden construction. B: Stone ceiling with surasundarīs in the style of a wooden structure. 
+964 
+Detail Akole-L: An alcove accommodating esoteric images of siddhas and tantric deities. M: Detail from alcove relief image of Vetāla. R: Yoginī, compare with similar figure at Sirsi. As the remainder of this section will demonstrate, nestling such representation into the 
+visual margins both inside and outside of a multipurpose temple complex until a point of near 
+saturation is reached forms a key part of what distinguishes the mostly unstudied material 
+culture of eleventh- through the early-thirteenth-century Maharashtra from the standard pan- 
+regional Cāḷukya idiom. Indeed, where Maharashtrian visual culture offers a demonstrative 
+break from these more widely held norms precisely in that it frequently perpetuates what 
+amounts to a transposing of cremation ground semiotics into its visual representations of 
+courtly sociality. Whereas, as we saw in chapter 5, in the Kalyāṇi Cāḷukya-founded ritual 
+center of Māṇakēśvara in Osmanabad district Maharashtra, Śākta sacrality and “lived” reality 
+share space for the first time in Maharashtra’s post Cāḷukya material culture, Śākta sensibilities 
+increasingly colonize representations of “lived reality.” A close reading of what is happening 
+visually at Akole offers a fine introduction to this phenomenon. 
+965 
+The three central shrines on the exterior of the temple contain representations of a dancing 
+Naṭeśa, his fingers forming a mudrā, his hands carrying a skull-bowl, a four-armed Bhairavī 
+encircled by ghouls standing on a human corpse, again depicted with a robust young body, and 
+a dancing Cāmuṇḍā, whose wrinkled dugs and emaciated framed marks a clear conceptual and 
+probably liturgical distinction from the younger goddess. Surrounding them, as is typical of 
+Kalyāṇi Cāḷukya temples from the reign of Vikramāditya VI onward, we find an array of near 
+life-size images in which courtly women are engaging in various sorts of stereotyped activities. 
+As on many of the finest Cāḷukya temples, one of these images—which seems first to appear 
+at a temple in the town of Jalsanghvi in modern day Telangana—represents the so-called 
+archetype of the beautiful woman as writer (sundarī patralekha); for indeed, the iconic 
+representation of an educated person within the Cāḷukya world was a well-dressed woman of 
+high-status penning poetry in praise of the Cāḷukya king. 
+Tahākārī Devi, Akole exterior: L: Naṭeśa. M: Bhairavī. R: Cāmuṇḍā. 
+966 
+L: Akole, western Maharashtra, patralekha sundarī. R: Jalsanghavi, Telangana, patralekha sundarī. 
+While erosion has robbed us of the verses inscribed on this particular image, five hundred miles 
+to the southeast in Marathwada, the exterior of the Kedateśvara temple established by 
+Someśvara III presents us with a similar representation where the text has been immaculately 
+preserved.913 
+913Chetan Shankar Sali, “Newly Discovered Inscriptions from Ambulge in Nanded District and Dharmapuri in Beed District,” Journal of the Asiatic Society of Mumbai (New Series) 84 (2012), 63–66. This essay incorporates Shrinivas Ritti’s otherwise unpublished translation, which we discuss below. 
+967.” 
+Though the language is Kannada, 914 the sensibility is quite clearly that of an elite literary 
+culture where religious commitments are muted in favor of a cosmopolitan set of values. At 
+Jalasanghavi, though she is flanked on her right by a robust Gaṇeśa, the writer otherwise keeps 
+decidedly secular company, sharing space with a mother holding a baby, of the sort we saw at 
+Māṇakeśvara, as well as a young woman who is having her clothes pulled off by a mischievous 
+monkey. At first glance, the iconographic program at Akole in Maharashtra seems to be 
+essentially the same, though the Gaṇeśa now stands to the left of the writer and is much 
+914Sali, ed, “Newly Discovered Inscriptions from Ambulge in Nanded District and Dharmapuri in Beed District,” 64–65. 
+Detail: Patralekha sundarī , Dharmapuri, Beed. Photo: Courtesy of Saili Palande-Datar 
+968 
+In Shrinivas Ritti’s translation, this 
+inscription reads: 
+“Climbing with zeal, the temple of 
+Narayana, comparable to the 
+mountain of Gods (i.e. Meru) (this 
+lady) wrote with affection, the series 
+of exceptional epithets of 
+Vikramāṅka, singing his glory in 
+manifold ways, on the shining 
+“board” (phalaka) (situated) on the 
+top of the temple, so that it may last 
+as long as the Moon, the Sun and the 
+Sky last.” 
+diminished in stature, having been demoted in favor of dancing Cāmuṇḍā. And then, bit by bit, 
+one begins to assimilate incongruous details. 
+What sort of beautiful full-breasted woman carries a khaṭvāṅga? Or responds to a scorpion— 
+the sigil of Bhairava and his consort—climbing up her plush thighs by pulling down her 
+undergarments? Or wears the sort of robes otherwise seen on Kālamukha ascetics while 
+standing on a ram? How can we explain that a lady whose exalted status merits her 
+969 
+accompaniment by umbrella and fly whisk is nonchalantly girdled by a cobra and cradles a 
+human skull bowl in her hands? At Akole, as at so many temples from the Maharashtra of this 
+period, the category of a beautiful woman—the evocation of whose physical beauty lies at the 
+heart of so much of kāvya and the courtly cultures that produced them—becomes conflated 
+again and again with the figure of the yoginī. 
+As we can see from the image on the left, 
+preserved in the ruins of what was once a yoginī temple situated on the banks of the river 
+several hundred feet from the central temple, at Akole, theriomorphic flesh-eating goddesses 
+have not been disappeared or fallen out of favor, but rather they have reached out and 
+enchanted the wider world, claiming a whole register of human experiences, especially 
+representations of sensuality and sexuality, as inexorably linked to their domain. Thus, for 
+example, on the porch at Akole, interspersed with an older probably purely apotropaic 
+decorative presentation of human beings engaging in sexual intercourse in a variety of 
+What we are faced with here is a cultural 
+dynamic that seems to represent the exact 
+opposite of the discursive domestication so often 
+written about in our secondary literature, where 
+fierce goddesses become tamed as they move in 
+the social “mainstream.” Instead, it is the visual 
+idiom that previously had invoked stereotyped 
+vignettes of “ordinary” life that is being recast as 
+permeated by a newly transgressive sensibility. 
+As we can see from 
+970 
+positions, we find unmistakable invocations of a non-human world specific to the cremation 
+grounds. 
+Details from the porch at Tahākārī Devī, Akole. Top L: Male and Female in dancing yāmala. Top R: Vetāla 
+with erect phallus. Bottom L: Human love play. Bottom R: Animal headed yoginī floating in the air. 
+971 
+next to an active cremation grounds. Its peculiar floor plan incorporates two entrances, one of 
+which approaches the site from the road and the other which leads to the cremation ground. 
+The iconography at the two sides is heavily differentiated, for while the more “public” entrance 
+is sort of plain, the “private” exit leads out through a small maṇḍapa that incorporates a range 
+of figures, especially numerous representations of yogins, alongside seemingly decorative 
+scenes of erotic play. 
+Akole: Detail of maṇḍapa. 
+972 
+The blurring of the boundaries 
+between esoteric sacrality and 
+sexuality is even more evident 
+at Akole’s other major temple 
+complex. Much as 
+ethnographic work repeatedly 
+demonstrates today, in the 
+medieval period, sacred 
+centers typically dedicated at 
+least in part to a goddess were 
+then further embedded in a 
+network of sites, often spread 
+out over a number of miles, 
+linked to each other 
+institutionally, mythologically, 
+and liturgically. Fifteen miles 
+away from Tahākārī Devī, the 
+temple of Siddheśvara sits 
+alongside the banks of a river 
+973 
+Take, for example, the scene to the left, 
+situated on a pillar to the left of the 
+doorway, where a woman is receiving 
+pleasure orally from a decidedly 
+subservient man who buckles his knees 
+before his mistress. Everything about 
+her posture as well as the scale at 
+which she is represented conveys she 
+is clearly his superior and this is for her 
+enjoyment. Again, one would be 
+inclined to write this sort of thing off 
+as just an innocuous bit of fun, or the 
+sculptor indulging himself, were it not 
+for the unprecedented choices that 
+artisans had made to reproduce a very 
+similar image over the door frame 
+entering the temple. 
+974 
+Standing astride her cowed male 
+dūta in a posture reminiscent of 
+Durgā slaying the buffalo demon, 
+we see, unmistakably, a powerful 
+woman. Though her legs are spread 
+wide open—we can even see the 
+parting of her pudendal cleft—there 
+is no ambiguity about who is in 
+control. Above her, resting on a 
+canopy beneath representations of 
+the goddess and her lions and 
+elephants, we find three dread- 
+locked yogins. To her right, aligned 
+with her on the door is her male 
+counterpart, seemingly receiving 
+comparable pleasure from a much- 
+diminished female dūtī. 
+As is usually the case in 
+Maharashtra, where for reasons we 
+will soon explore, the further west 
+and north you go, the more scanty 
+and occasional the inscriptional 
+record, Siddheśvara sadly offers no 
+documentary archive that might help us place these practices in a particularized interpretive 
+context. Even so, there is every indication that Siddheśvara offers material representations 
+designed to communicate that this is a place where something we can quite reasonably label 
+as “tantric sex” would have been practiced. Even in the absence of texts, the iconographic 
+program on the ceiling of this very same maṇḍapa points to such practices taking place right 
+alongside other more sanguinary forms of worship. 
+Siddheśvara also offers us some of our 
+first glimpses of an iconographic program 
+with which we will become well 
+acquainted. Seemingly confined to central 
+Maharashtra, this visual repertoire centers 
+around images of siddhas—here rendered 
+as big bellied avadhūtas—ascending into 
+heaven. Detail: left: Knife-wielding devotee making sacrifice to seated goddess. Maṇḍapa, Akole Siddheśvara temple. 
+L: Big-bellied avadhūta with earrings between Gaṇeśa and a male god. R: Similar figure flanks goddess in center. 
+975 
+identification with the teacher within whose body in turn, the yāmala of Śiva and Śakti is 
+perpetually taking place. Take, for example the images below, found amid the rafters in the 
+temple interior. 
+Devlane, detail: Siddha with earrings in company of deities. M: One of hundreds of small decorative images of a yogin found on the temple’s exterior: B: Ācāryas teaching. 
+While at Siddheśvara in Akole such images represent 
+but one register among the many explored by the 
+nameless artisans who built this place, at an 
+undocumented center further to the north past Nasik, in 
+the small town of Devlane, visual invocations of 
+siddha culture permeate the entire space. Virtually 
+every surface at Devlane presents itself as incarnating 
+in stone, probably for the first time, the nascent 
+theology that in the early modern period will 
+eventually replace the pantheon-oriented elaborate 
+ritual program of worship found in the Śākta Tantras as 
+the central focus of esoteric praxis. In these post- 
+classical systems, which seem to emerge originally out 
+of Kaula traditions that emphasized the body as the 
+locus of all sacrality, the main liturgical focus of 
+worship becomes the realized guru who is said to 
+instantiate the nature of supreme reality through the 
+medium of his or her own human form. Within such 
+systems, through fervent devotion and acts of 
+embodied possession, the practitioner aims to achieve 
+a state of mimetic ritual identification with 
+976 
+Under the watchful eye of the goddess, a sādhaka, his posture secured by a yoga-belt, looks 
+upward with palpable longing and awe. His gaze is directed towards the figure of his guru. The 
+teacher, seated in siddhāsana, is positioned across the way and above him, and sits enthroned 
+surrounded by his attendants. 
+Devlane, another variation on the same motif, adept wearing yoga-belt gazes up at more established guru (R) seated in siddhāsana. 
+977Directly across from the guru, another devotee sits in āsana, his legs kept in place by a yoga- 
+belt, his hands in añjali. Paying no heed to the gods that encircle him, again his line of sight, 
+and his prayers are directed at his teacher. On the pillars behind him, two damaged figures 
+from courtly backgrounds approach a larger-than-life figure of a yogin, again seated in a 
+particular āsana. Intriguingly, virtually all of these figures have pierced ears and are wearing 
+the large hoop earrings that will become the defining iconographic feature of the Nātha 
+Sampradāya during the early modern period. 
+978 
+Complementing its vivid evocation of guru 
+devotion, Devlane’s material culture also 
+narrates another story. The central shrine at 
+Devlane is what the Pratiṣṭhā Tantras would 
+classify as an underworld (pātāla) liṅga, 
+meaning that the garbhagṛha is established 
+in a subterranean chamber below the ground 
+level into which the devotee must descend 
+by means of a series of stairs. In the 
+background is a familiar logic associated 
+with the vidyādhāra tales in the tradition of the Bṛhatkathā, where the hero attains glory and 
+siddhi by descending into the underworld to secure power and privilege through winning the 
+hand of a nāga maiden. In the unmistakable style unique to the Yādava period, reminiscent of 
+the work of Lucca della Robbia, the large circular panels on the ceiling before the garbhagṛha 
+at Devlane depict just such a story. 
+L: Descent of the hero into the world of the nāgas, whose serpentine bodies surround him. R: Detail center. The motif is also repeated on the border surrounding the door entering down into the inner 
+sanctum, which appears to enact a tale of apotheosis. While on its lower portions, the border 
+that frames the door is composed of plaintively pleading images of devotees with expressive 
+pained faces seeking intercession from higher powers, as you trace the images upwards, their 
+visages gradually become more tranquil and their garb steadily shifts until, at the top of the 
+frame, an apotheosis of sorts has taken place. By the time one reaches the top, the devotees 
+become iconographically indistinguishable from the images of celestial beings on the outer 
+door frame. 
+979 
+Detail of siddha over the garbhagṛha at Devlane. 
+This theology of recentering religion on a tradition of guru devotion is perhaps most fully 
+instantiated within the garbhagṛha itself, for here again, placed alongside the usual foci of 
+worship, it is the image of the Tantric siddha that takes center stage. 
+Much as in its outer chambers, Tantric gurus are 
+placed at a visual level far above that allotted to 
+ordinary adepts and their devotees in a manner 
+that conveys their relative significance, in the 
+garbhagṛha at Devlane, all of the yogins are 
+elevated are elevated above the image of the 
+goddess. 
+980 
+On the lintel immediately above her, in siddhāsana we find a small representation of an ascetic. 
+Depicted with round earrings and dreadlocks reaching down to his toes, the image resembles 
+the representations of figures typically labelled Kālamukha found on the top of śāsana panels 
+throughout the Deccan, but which is also deployed as a decorative motif on the exterior of 
+temples exclusively throughout Maharashtra during the twelfth and early-thirteenth centuries. 
+Devlane, visual hierarchy of deities in garbhagṛha: liṅga, standing goddess, Kālamukha sādhaka, siddha. 
+981 
+This typically Kālamukha figure offers homage in turn to the large figure placed above him in 
+a manner that once again visually conveys that such traditions have been subordinated to some 
+higher form of knowledge. That higher form of knowledge is embodied in Devlane’s unique 
+representation of a Śākta siddha. Crouched in a royal posture, he is attended by a cāmara 
+bearer—indicating that our yogin and his descendants lay claim to at least some of the signs of 
+regal sovereignty (rājacihna). Though time and devotional ablutions have worn down his face, 
+the idiosyncratic nature of the siddha’s implements—a trident, staff, and mendicant’s vessel— 
+as well as the sharp hyper-particularized features on his face with its long, pointed goatee— 
+suggest this very well may be a portrait of a specific person. 
+In the absence of an accompanying inscriptional record, here sadly the trail runs cold. 
+Indeed, our only indications of any sort of discursive context outside of the temple’s own visual 
+metanarrative is imprecisely suggested by two images located near its entryway. By depicting 
+a royal hunt as well as an audience with a kingly figure, Devlane gestures towards the wider 
+world with which its ascetics were entangled. Here, once again, attending to medieval regional 
+geographies is most instructive. 
+982 
+Devlane, exterior maṇḍapa leading into temple L: Royal figure accompanied by attendant hunting. R: King-like figure (possibly a Seuṇa ruler) receiving guests. 
+Seuṇadeśa: The Seuṇa Yādavas, the Somavaṃśa, and the Somasiddhānta 
+The temples we have explored at Akole are about an hour’s journey from the town of Sanganer, 
+the location of one of the most important documentary records associated with the dynasty of 
+the Seuṇa Yādavas of Devgiri. Devlane, in turn, lies several hours to north of the Yādava 
+capital at Sinnar and a mere twenty miles from their original center at Chandwad. Before they 
+relocated their court to the mountain fortress at Devgiri further east in the Marathwada, from 
+the middle of the ninth century until the end of the twelfth, this was the heartland of the Yādava 
+kings. Though in common parlance students of Indian history often refer to “the Yādavas of 
+Devgiri,” as is made evident from a series of copper plates issued by the Kalyāṇi Cāḷukya king 
+983 
+Jagadekamalla while he was staying at Dalutabad, for the first two hundred years the dynasty 
+was in existence, Devgiri was held first by the Rāṣṭrakūṭas and then by the Cāḷukyas.915 
+In a similar manner, taken by itself, even the name Yādava represents anachronism, 
+less of a descriptor than it is an aspiration to legendary patrimony.916 For, in claiming that they 
+were “of the Yadus,” all these kings are saying is that they descend from the line of Kṛṣṇa of 
+Dvāraka. Apart from plausibly gesturing towards this particular dynasty’s having Gujarati 
+origins—far from drawing a distinction, for a royal line on the make to label themselves in this 
+manner is essentially expected in the medieval Deccan. Indeed, regardless of whether their 
+ambitions were localized or imperial, almost of all the dynasties we have encountered over the 
+course of our inquiry—Rāṣṭrakuṭas, Guṭṭas, Cāḷukya, and Hoysalas alike—represent 
+themselves in their inscriptional record, in some cases habitually, as the authentic Yādavas of 
+Dvāravatī. 
+In situ, then, the Seuṇa Yādavas distinguished themselves not according to the 
+uniqueness of their imagined pedigree, but rather on the basis of their particular geographical 
+base of operation, as the Yādavas from Seuṇadeśa.917 That is to say, they defined themselves 
+in the wider discursive world of the medieval Deccan precisely in term of their institutional as 
+well as cultural integration into the region called the Seuṇadeśa. While the nature of our records 
+as well as the conceptualizations of the premodern Indian state render impossible a precise 
+delineation of the boundaries of the Seuṇa country, which seems also to have changed 
+915See Devadatta Ramakrishna Bhandarkar, “The Daulatabad Plates of Jagadekamalla, A.D. 1017,” in His Highness the Nizam’s Government, Hyderabad Archaeological Series no. 2 (Hyderabad: Archaeological Department, 1917), 4. 916For a critical review of Seuṇa Yādava historiography, see chapter 8. The two most important relatively recent works, in English and Marathi respectively, remain Shrinivas Ritti, The Seuṇas: Yādavas of Devagiri (Dharvad: Karnatak University, 1973) and Brahmanand Deshpande, Devagirīce Yādava (Pune: Aparanta, 2013), which revises the 1975 edition. For the prehistory of the Yādavas, see for example Ritti (1973), 27–43. 917 Deshpande is particularly clear in this regard and in respect to the identification of the extent of the Seuṇa country. See Brahmanand Deshpande, Devagirīce Yādava (Pune: Aparanta, 2013), 19–27. 
+984 
+substantively over the centuries, in general terms, the distribution of inscriptions and copper 
+plates covers most of modern-day Ahmednagar and Sangamner Districts, Wajipur, Nevasa, 
+and Gangapur Taluks in Aurangabad as well as substantial portions of Nashik. 
+At least according to an important copper plate, discovered in Vasai, that was issued in 
+the eleventh century by Seuṇacandra II, the Seuṇa country derives its name from the Yādava 
+king Seuṇacandra I (c. 880–900 CE), the second king in the lineage. 
+In the beginning there was a famous king, Dṛḍhaprahāra. His form was that of auspicious Viṣṇu. He was the first of his lineage [lit., he is the embodiment of the peak of his own lineage] he came from the town [paṭṭana emd.] called Dvārāvatī. In battle, he was “severe” in the splitting and severing of the heads of [textual corruption] elephants and enemies. He [re]made the famous city called Candrāditya, which had appeared on the earth in past times. 
+After that, our revered lord called Seūṇacandra became king. He bestowed his name upon the region [textual corruption] for all time. By him was founded the city called Seūṇapuraṃ, in the best place called Śrī Sindinere. His son, then, was Śrī Vādiyappa, who was a treasury of qualities and light of the family. The auspicious king Bhillama, the moon to the entire surface of the world. . . the illustrious heart of men, was born a Viṣṇu on earth. The king Śrī Vadigā became dharma incarnate. His wife was the daughter of the King Jhañjhara, Śrīlakṣmī Avvā, from the line of the Rāṣṭrakūṭas; she had the qualities of intelligence, discrimination, renunciation, and dharma.918 
+In this inscription, at a time when nearly every regional dynasty attempts to pass itself 
+off either as “Raṭṭas,” in other words a sub-branch of the Rāṣṭrakūṭas fallen on hard times, or 
+as Cāḷukyas in exile, the Yādavas depict themselves as a dynasty of immigrants from Saurāṣṭra 
+918ādau khyātaḥ dṛḍhaprahāranṛpatiḥ śrīviṣṇurūpaḥ sa hi āyāto nijavaṃsaśekharatanur ddvārāvatīpattanāt / saṃgrāme ripuhasti[emd. pati]śirasāṃ saṃcchede[emd. a]bhede dṛdhaḥ candrādityapuraṃ prasiddham akarot prāk [a]sambhavaṃ yo bhuvi / śrīmatseūṇacandranāmanṛpavaras[emd. varas to tis] tasmād abhūd bhumipaḥ nityaṃ deśa[padāti xx]viṣaye sannāma saṃpādayan / yenākāri puraṃ ca seūṇapuraṃ śrīsiṃdinere vare / tatputraḥ kuladīpak[o] guṇanidhī[ḥ] śrīdvāḍiyappā tataḥ //................................ āsīt sat-tad-aśeṣabhūtalaśaśī śrīmān[nṛhṛd]bhillamaḥ śrīrājas ta[dan]antara[ṃ] narapatir jjāto mahīmaṇḍanaḥ / ārvāk tasya babhūva bhūtalahariḥ śrīvaddigākhyo nṛpaḥ / tasmāt śrīvarabhillamakṣitipateḥ pratyakṣadharmābhavat / bhāryā yasya ca jhaṃjharājatanayaśrīlasthiyavvāhvyā dharmatyāgavivekabuddhisaguṇā [conj. śrī]rāṣṭrakūṭānvayā / The inscriptions were first printed in J. A. S. Burgess, ed. Indian Antiquary: A Journal of Oriental Research, vol. XII (Bombay: Education Society’s Press, 1883), 119–126. It has subsequently been reprinted a number of times with minor but still unsatisfactory emendations made, including in Brahmanand Deshpande, Devagirīce Yādava (Pune: Aparanta, 2013 [1975]). 
+985 
+who abruptly appeared around the middle of the ninth century. While the circumstances that 
+brought him to this new land remain obscure—Gujarati narrative traditions from several 
+centuries later even try to claim him as motivated by Jain commitments—Dṛḍhaprahāra seems 
+to have established himself at “the moon fort”—Chandwad—the Candrāditya of our 
+inscription—where he ruled for roughly twenty years (c. 860–880). Chandwad preserves little 
+if nothing of the material culture of the early Yādavas, and Dṛḍhaprahāra himself is so 
+mysterious that until the 1980’s when inscriptions issued in his name were first located, it was 
+often assumed that he was a purely mythical figure. His successor, King Seuṇacandra I, who 
+allegedly bestows his name upon the region, is almost equally obscure and no material culture 
+can be identified with his reign. The Śrīsindinere spoken of in the inscription, however, is 
+without question the modern town of Sinnar, which, as we will see, contains two important 
+eleventh-century temples associated with the Yādavas, including the only surviving temple 
+complex from a Yādava capital city. In fact, all of these early Yādavas left negligible textual 
+and physical footprints. 
+Departing from chancellery norms, though the sudden appearance of a Kannadiga 
+name—Vādiyappa—in the third generation (c. 900) hints at a gradual integration into 
+transregional power networks, we do not even know anything about what sort of alliances the 
+Yādavas are pursuing until Vādiga (c. 950–970) marries into a Rāṣṭrakūṭa lineage at the end of 
+the tenth century. Placed in a wider perspective, Dṛḍhaprahāra arrives in Maharashtra during 
+the reign Amoghavarṣa, a decade after the composition of Kavirājamārga codifies old 
+Kannada as the premiere language of power and place. Not only does it take three generations 
+for the Yādavas to adopt any association with this new register of expression, but when they 
+do so it happens grudgingly. Despite the fact that Ellora, a major center of Rāṣṭrakūṭa culture 
+986 
+since the eighth century, lies just a few days’ travel to the east—quite unlike the kings of 
+Andhra who, despite not being native speakers of the language, stand at the forefront of the 
+production of old Kannada literature—the early Yādavas sponsor no literature and indeed 
+produce nothing that reflects an elite Kannadiga literary imaginary. We should not discount 
+the possibility that theirs was not a terribly literate culture. In fact, the first seven kings in the 
+line of Yādavas of the Seuṇa country left behind them so little of substance that were it not for 
+their successors from the eleventh century onward, they would scarcely warrant a footnote. 
+The Yādavas chose an inopportune time to forge a marriage-alliance with a 
+transregional power. As we saw in chapter 4, three years after Vādiga’s death, in 973 CE, 
+Tailapa overthrows the Rāṣṭrakūṭas and the Kalyāṇi Cāḷukyas become established as the 
+premiere power in the Deccan. While elsewhere in the inscriptional record, especially in the 
+Kannadiga sources, the Yādava king Bhillama II (c. 985–1005) is represented as a key ally 
+cultivated by Tailapa in his efforts to claim the throne, the Vasai inscription first emplots a 
+somewhat different story.919 The decade after Vādiga’s death appears to have seen the reign of 
+a nine-year old boy king, presumably the future Dhadiyasa (c. 970–985). This set of 
+circumstances required the Seuṇa domain to be divided into three portions such that, until the 
+prince reached maturity, it was held in trust by a dowager queen descending from the line of 
+the Solaṅkī Cāḷukyas of southern Gujarat, assisted by councils of ministers. Dhadiyasa was 
+eleven or twelve years old when Bhillama II assisted the future Kalyāṇi Cāḷukya king in seizing 
+the throne.920 
+919yā jātā navabālarāja samaye yad[emd-yadv]anvayādhāritā saptāṅgodyota-rājyabhāradharaṇād rājyatrayārdhyā tataḥ / cālukyānvayamaṇḍalīkatilakāt śrīgogirājākarād utpannā duhitā trayād gaṇavatī[conj. guṇavatī] dhāmnā kuladyotitā / The text of the Vasai inscription was first published in J. A. S. Burgess, ed. Indian Antiquary: A Journal of Oriental Research, vol. XII (Bombay: Education Society’s Press, 1883), 119–126. 920On Bhillama II, see Ritti, The Seuṇas: Yādavas of Devagiri, 47–52, and Deshpande, Devagirīce Yādava, 31– 35). Deshpande is particularly detailed in his discussion of the inscriptional evidence for the early kings. Ritti and 
+987To reward his contributions, Bhillama was granted the title of Mahāmaṇḍaleśvara and 
+his successors were repeatedly married into the ruling bloodline of the Kalyāṇi Cāḷukyas, even 
+to the daughters and sisters of the ruling kings—in effect becoming Cāḷukyas in all but name. 
+Until the fall of the dynasty, both in the context of conflicts with other powers as well as during 
+succession fights, the Seuṇa kings remain one of the most significant allies of the Kalyāṇi 
+Cāḷukyas. Thus, two generations later, Bhillama III helps Āhavamalla into power and 
+Bhillama’s grandson in turn saves the life of Vikramāditya VI in battle. Succinctly, the 
+Yādavas are most vividly rendered socially and culturally legible when they participate in 
+political and social networks animated by the transregional idiom of the Deccan and its greater 
+Cāḷukya and Rāṣṭrakūṭa imaginaries. As we will see momentarily, the same is also the case for 
+much of our earliest recoverable examples of Yādava material culture from the Seuṇa country. 
+If the discourse surrounding the early Seuṇa Yādavas is most readily accessible to us 
+precisely at the points where it becomes a generic expression of Deccani norms, is it also 
+possible to recover something of the “local texture” of Seuṇa Yādava culture as embedded 
+within distinctively Maharashtrian environs? Though again we are limited by our textual 
+record, comprising eight inscriptions, and material culture, which are the products of the mid- 
+eleventh century, reading the Yādavas in relation to local political formations suggests an 
+alternative genealogy. Our earliest textual traces are an orphan text, shorn of wider context, 
+that take the form of a collection of copper plates, discovered at Sangamner,921 a city not far 
+from Akole, that were issued by the Yādava king Bhillama II (c. 985–1005) in the year 1000 
+Murthy, in contrast, begin detailed analysis of the epigraphical records ruler by ruler only from Bhillama V onward. A. V. Narasimha Murthy, The Sevunas of Devagiri (Mysore: Rao and Raghavan, 1971). 921As the only inscriptional evidence from the earliest Yādava period, Yādava historiography particularly privileges the Sangamner plates, which were first published in J.A.S. Burgess, ed., Epigraphia Indica, vol. II (Calcutta: Superintendent of Government Printing, 1894), 212–221. Deshpande in particular offer detailed readings. 
+988 
+CE. The main focus of the text is a series of acts of philanthropy (dāna) inspired, so the work 
+tells us, by the well-known dictum that, while in previous ages, the cultivation of knowledge 
+and wealth produced great karmic results, the sages say that in our present kali age only, 
+philanthropy (dāna) bears fruit.922 In this spirit, so that he can cross over the ocean saṃsāra 
+and ascend to heaven, Bhillama enjoins that a series of land grants and financial offerings be 
+conferred upon a range of Brāhmaṇas, many of them immigrants from other regions of India. 
+This is the sort of evidence that is used in the secondary literature to characterize the Seuṇa 
+Yādavas as a staunchly—even unusually committed—Brāhmaṇically oriented dynasty. What 
+such a reading overlooks is that from line fifty-six to the end of the text, the Sangamner plates 
+consist almost entirely of a prefabricated chancellery formula. Apart from changes to the 
+names of donees, it is reproduced virtually verbatim in all the early Yādava inscriptions that 
+make endowments to Brāhmaṇas, and at the same time is entirely absent from Yādava 
+inscriptions directed towards different types of institutions. In other words, these passages tell 
+us quite a bit about the bureaucratic and social conventions of the medieval Deccan and very 
+little about the particular commitments of their sponsors. In contrast, where the Sangamner 
+plates set out to articulate a distinctively Seuṇa Yādava identity, we find a very different type 
+of rhetoric at work, at once both generally eccentric in its literary texture and unapologetically 
+Śaiva. Rather unusually, after presenting the pañcākṣarī mantra, instead of commencing with 
+a maṅgala verse, the inscription begins by recording the date of the endowment before 
+progressing on to a curious series of devotional verses. 
+From the mere opening of his eyes, the entirety of the three worlds becomes powerful (prabhavati), and from the closing of his eyes it arrives at the remainder of dissolution. May that god—the one whose acts of excess (atiśayitacaritra) even yogins cannot 
+922Epigraphia Indica, vol. II, 219: kṛtatretadvāparayugebhyo atyarthaṃ dānaphalam / kalau yuge punaḥ śaṃsamti / na tathā saphalā vidyā na tathā saphalaṃ dhanaṃ / yathā tu munayaḥ prāhur dānam ekaṃ kalau yuge / 
+989 
+achieve—he of whom the crest is marked by the lovely moon, excel all here upon the earth (sa iha jayatu). 
+The cause of the existence of the world (bhuvanabhavanahetuḥ), the bridge across the ocean of bad deeds (duṣkṛtāmbodhisetuḥ), the one who executed the disruption of the Lord of Desire (vihitamadanamāthaḥ) The lord who is the life breath of Pārvatī (pārvatīprāṇanāthaḥ).923 
+Two things about this text should strike the seasoned reader of Sanskrit maṅgalas as 
+unusual: its theology and its literary sensibility. Conceptually speaking, after presenting us 
+with a cosmic vision of Śiva’s power as the source of the winking into being of existence itself, 
+the opening verse somewhat jarringly shifts to invoking an image of god as imminent in the 
+world where he is defined by his acts of excess (atiśayitacaritra). Especially in light of other 
+parts of the early Seuṇa Yādava archive, it is tempting to read these turns of phrase as 
+deliberately alluding to the incarnationist theology of some variety of Śaivism committed to 
+the path of excess—a quite literal rendering of the term of art Atimārga. As we have seen, in 
+contrast to “mainstream Mantramārga Śaivism,” in both its Pāñcārthika Pāśupata as well as 
+Kāpālika streams, the Atimārga takes as its focus the mimetic replication of the acts (caritra) 
+of the lord incarnated here on earth in a human body. 
+Turning from questions of doctrine to those of form, the devotional verses of the 
+Sangamner plates deviate from our expectations on a much more fundamental level: incessant 
+rhyming. While word play, assonance, and complicated replications of sonic texture within a 
+series of succeeding compounds is hardly unusual within Sanskrit poetics, verses organized 
+entirely around simple end repetitive end rhymes—such as bhuvanabhavanahetuḥ 
+duṣkṛtāmbodhisetuḥ / vihitamadanamāthaḥ pārvatīprāṇanāthaḥ—are simply not a part of 
+923Epigraphia Indica, vol. II, 217: oṃ namaḥ śivāya / svasti śakanṛpakā[lā]tītasaṃvatsaraśateṣu navasu dvāviṃśatyadhikeṣv aṃkato ‘pi saṃvatsarāḥ 922 / trayam api bhuvanānām īṣadunmeṣamātrāt prabhavati layaśeṣaṃ yannimeṣād upaiti / atiśayitacaritro yoginām apy agamyaḥ sa iha jayatu devaḥ cārūca[ndrāṅka]mauliḥ / bhuva[na]bhavanahetuḥ duṣkṛtāmbodhisetuḥ vihitamadanamāthaḥ pārvvatī prāṇanāthaḥ // 
+990 
+Sanskrit prosody. This is vernacular poetics with a vengeance, the product of a literary world 
+infinitely closer to what will become the Hindi pad—or perhaps more pertinently, the Marathi 
+ovī—than it is to the conventions of the Brāhmaṇical literati.924 The precarious relationship of 
+the life-world of the early Yādava society with hyper-educated society is also made evident by 
+another feature of the text, its sloppiness. Not only has the engraver misspelled and 
+mistranscribed a larger than usual number of words, but in several places, he carelessly omits 
+whole portions of stanzas, violating meter and resulting in whole phrases devoid of subjects 
+and even verbs. As we have seen so often, however, the relative alterity of the types of social 
+agents involved in the production of such oddball textualities frequently offers us glimpses of 
+unexpected discursive worlds only nominally aligned with the norms of the Sanskrit 
+cosmopolis. Speaking to the deep seated Śaiva commitments held by the Seuṇas, as well as 
+perhaps their flimsy grasp of the expected narrative conventions within the Sanskrit 
+cosmopolis, the Sangamner plates begin with Śambhu emitting the world, and then assuming 
+the form of the trīmūrti, comprising Brahmā, Viṣṇu, Rudra.925 In the Saṃkhyā-inflected 
+cosmologies of the Purāṇas, creation proceeds when primordial matter, conditioned by 
+different proportions of the guṇas, assumes a diversity of names and forms as it descends into 
+increasingly coarser material manifestation. Here in contrast, aligning with a worldview often 
+nascently present in works of Śaiva yoga, our reality is understood as the byproduct of the 
+combinations of the different subtle prāṇas (marut) and energetic rays (mārīcir) that emerge 
+924For a parallel example from across the Deccan, consider also the works of Pālkuriki Somanātha, who opens his Sanskrit Vīramāheśvarācārasāroddhāra with a similar four-part rhyme scheme, in the same mālinī meter, employing the very same rhyming terms he uses in his Telugu works. See Elaine Fisher, “Śaivism after the Śaiva Age: Continuities in the Scriptural Corpus of the Vīramāheśvaras,” Religions 12, 222 (2021): 1–24. 925Epigraphia Indica, vol. II, pg. 217: yugasyādau śa[m]bhu[r] bhuvanam asṛjan [There is a metrical gap here; the scribe appears to have failed to copy remainder of the third pāda.] / bhavanmūrttis tredhā suraripuvariṃ ca prabhavataḥ // 
+991 
+from the lord’s stainless womb (amalayonir) when he assumed the form of Brahmā.926 From 
+eccentric cosmology, the text moves onto a highly imperfect execution of the tropes associated 
+with legitimating a royal genealogy. The Seuṇas are eager to depict themselves as inheriting 
+the patrimony of the Lunar dynasty, and yet, as will soon become clear they have only a 
+nominal sense of the narrative traditions, or even the most common tropical figures, associated 
+with these famous mythical kings. In the Sangamner plates, Atri, intent on the truth 
+(satyaparāyaṇa) sires Indu, who is rather incongruously depicted as the temple of the bliss of 
+the world (jagadānandamandiraḥ), who in turn begets King Purūravas, reimagined as a king 
+of Saurashtra who, for whatever reason, perpetually sits in āsana.927 In normative mythology, 
+as for example in the Ādiparvan of the Mahābhārata, Purūravas is remembered as the father 
+of the deeply flawed Nahuṣa. As we alluded to briefly in chapter 3, Nahuṣa’s storehouse of 
+merit enabled him to take the place of Indra as king of the gods and reign over the heavens. 
+However, Nahuṣa then treated the Vedic sages as his own personal slaves, forcing Agastya, 
+for example to pull his chariot as if he were an ox. For these crimes, he was turned into a giant 
+serpent and left to linger on the earth in that miserable state for generations until his descendant, 
+Yudhiṣṭhira, released him from the curse. Our copperplates, in contrast, speak of Purūravas 
+siring a certain Naghuṣa or Naghaṣa—in other words, even the proper name of the ruler seems 
+926Epigraphia Indica, vol. II, pg. 217: vi[ri]ñceḥ sambhūtaḥ sakalamarutāṃ yonir amalo marīcir y[a]tkīrttir bhramati bhuvane kundaviśadā / One of the creation narratives in the Liṅga Purāṇa seems to offer a similar cosmology. 927The text under discussion in the following paragraph runs as follows. Epigraphia Indica, vol. II, pg. 217–218: a[tri]nāmābhavat tasmāt sūnus satyaparāyaṇaḥ /. . . . tato ‘bhavan nirmmalasomavaṃśajo viśālabhūpālaguṇālayaṃ hi yaḥ purūravā bhūpatir arddham āsanaṃ sadā surendrasya babhāja līlayā // abhūd āyus tasmān nṛipatir amarair vandyacarito haṭhākrāntārātipraṇatacaraṇāmbhojayugalaḥ / tato jāto y[a]smin naghuṣanṛpatir llāṃcchanamiṣāl lilekha svasyā[khyāṃ] svabhujavijyayī candraphalake // ajani naghuṣabhūpād bhūmipālo yayātis tridaśamahitakīrttir vīralakṣmīr vilāsaḥ / kim iva guṇagaṇo ’sau va[rṇṇya]te tasya sāndyāj jagadavananimittaṃ yādavānāṃ prasūtiḥ // abhavad iha yayāteḥ sajjanānandakārī yadunṛpatir aśeṣākrāntadāyādacakraḥ / sakalavi[bu]dhavṛndair vandito ’sau murārir jagadavananimittaṃ yasya vaṃśe prasūtaḥ // 
+992 
+to be eluding these scribes. This dynamic king, depicted in an entirely positive light as the ruler 
+“who wrote his own name on the surface of the moon,” in turn engenders the somewhat 
+infamous Yayāti. In the normative sources, cursed again due to his own misdeeds, Yayāti 
+regains his youth by siphoning off the vitality of his own child over the course of his 
+abnormally long life, engaging in a range of memorable escapades. About all of this, our text 
+seemingly knows little or nothing, for Yayāti here is just another generic embodiment of royal 
+virtues, significant only in as much as he makes possible the ascent of his eventual successor, 
+Kṛṣṇa Vāsudeva. 
+Then from Yayāti, here in this very world, arose the king of the Yadus, whose compassion-bestowing cakra traversed over everything, the cause of the bliss to the good people, honored by groves of learned people. 
+Murāri, the cause of the protection of the world, was born in his lineage. From this lineage of the Yadus, was born the king who was the crest jewel of the earth, not looked upon on the surface of the earth by even drops of the stain of the kaliyuga. The one called Seuṇacandra, the lion’s roar to the intoxicated elephants that are his enemy, with his own name, through his force, made his own kingdom [bear his name].928 
+In representing himself as descending from Kṛṣṇa, the Yādava King Bhillama II lays 
+claim to a “secular” patrimony. Unlike in the Bhāgavata and Viṣṇu Purāṇas, where he 
+embodies the very nature of divine, here Murāri’s virtues are simply magnifications of the 
+distinctively Kṣatriya values of protecting the world and bestowing favor and “grace” on good 
+and learned people. By effectively establishing a level playing field, this rhetorical choice 
+pointedly bridges the gap between the present line of kings and their alleged mythical 
+ancestors, for everyone now bears equally lofty epithets. In this manner, skipping many 
+intervening generations, the text proceeds as if Kṛṣṇa’s real successor is the Seuṇa king 
+928Epigraphia Indica, vol. II, pg. 218: abhavad iha yayāteḥ sajjanānandakārī yadunṛpatir aśeṣākrāntadāyādacakraḥ sakalavi[bu]dhavṛndair vandito ’sau murārir jagadavananimittaṃ yasya vaṃśe prasūtaḥ // etasmād yaduvaṃśataḥ samabhavad bhūpālacūḍāmaṇir bhūpālaḥ kalikālakalmaṣalavair nālokito bhūtale / khyātaḥ seuṇacandra eva sahasā nāmnā nijenāhvayaṃ sanibhaṃ / yo lokaṃ nijamaṇḍalaṃ ca samadārātībhakaṇṭhīravaḥ // 
+993 
+Seuṇacandra I. In just the same way that Naghuṣa marked the moon with his own moniker, 
+Seuṇacandra, untouched by the stains of the kali age, confers his own identity upon the country 
+over which he rules. 
+If the Sangamner plates represent the Seuṇas as effectively on par with their forebears 
+in terms of their accomplishments, they at the same time lay claim to a distinctive, perhaps 
+even superior, sort of identity through an almost habitual invocation of their Śaiva 
+commitments. Breaking rather radically from the normative strategies of self-presentation in 
+the medieval Deccan, especially among minor powers, in the early Seuṇa corpus, evocations 
+of Śaiva devotion almost entirely take the place of the prosophographical specificities. 
+Stainless King Bhillama, Seuṇacandra’s successor, seems to have committed himself 
+completely to making a daily offering to the god at Somanātha. While his son’s mind, in turn, 
+was “fixed in meditation on the pair of the lotus feet of Śiva,” Bhillama I’s daughter-in-law, 
+we are told, commissioned the construction of a temple within their capital city: 
+The daughter of Śrīdhorappa, called Śrī Voddiyāvā, like the daughter of the mountain belonging to Śiva. . . made a house for Śiva that stole the play of Kailāsa. . . which resembled a stūpa [i.e., a samādhi].929 
+Intriguingly, in speaking of this structure as “a house for Śiva that stole the play of 
+Kailāsa” that “resembled a stūpa” (stūpāyamānaṃ), a structure defined by its dual function as 
+site of worship and reliquary, our verse seems to be envisioning an institution akin to the large 
+samādhi shrines entombing the bodies of poet-saints, warriors, and yogins that now saturate 
+the Maharashtrian landscape. Apart from this being one the earliest references in our textual 
+record to the founding of such an institution, for our purposes, this passage is important because 
+929Epigraphia Indica, vol. II, pg. 218: śrīdho[ra]ppamahānṛpasya duhitā śrīvoddiya[vvā]bhidhā śambhoḥ [ś]ailasuteva kaiṭabharipoḥr llakṣmīr iva preyasī / yasyāsīt kumudā[va]dātayaśasaḥ stūpāyamā[naṃ] yayā / [nā]māveśvaram īśaveśma vihitaṃ kailāsalīlāharam // 
+994 
+it speaks to the intimacy of the relationship that must have existed between Seuṇa rulers, their 
+families, and the Śaiva adepts of their day. Only the closest of bonds between court and maṭha 
+would result in a yogin and his successors having their tombs constructed not within the domain 
+over which they had direct authority, but instead in the confines of the royal capital. 
+Rather typically of our text, when Bhillama II, who is singularly intent on worshipping 
+the feet of Śiva (bhavacaraṇārādhanaikatatparam) the issuer of the current grant, sets out to 
+upstage his predecessors, he cements his legacy not by winning battles, but by building even 
+more monumental Śaiva temples within a major city under his control. 
+It shone here in this world like the peak of the snowy mountain. It was like this abode was a path to the city of the gods. It was radiant like the sun, inciting the envy of the mountain Kailāsa, which was restrained by the destroyer of the Cities. This new temple of the lord of the mountain was called the lord of the ornament of victory (vijayābharaṇanātha). It was beautiful like a tilaka of the earth, of which the splendor was like the kunda flower or the moon, as if a storehouse of glory.930 
+This distillation of Seuṇa accomplishments to an almost exclusive focus on acts of 
+Śaiva piety—there is nothing like it to be found in the śāsanas issued by the Rāṣṭrakūṭas or the 
+Cāḷukyas—becomes even more peculiar when we recollect that the purpose of the grant at 
+hand has nothing at all to do with supporting Śaiva institutions. Rather, the Sangamner plates 
+aim to supply Śrauta Brāhmaṇa ritualists, with no other apparent commitments, many of whom 
+are foreign immigrants, with concrete financial support in perpetuity. In fact, rhetorically 
+speaking, in so much as these emphatic assertions of a frustratingly non-specific Śaiva identity 
+come at the expense of incorporating any of the usual bromides representing a king as lavishly 
+supporting cows and Brāhmaṇas more appropriate to the current context, they are actually 
+counterproductive to the practical aims of the text. In this light, their centrality to the 
+930Epigraphia Indica, vol. II, pg. 218–19: himagiri[śi]kharasadṛśam iha rājati surapuravartmasaṃnnibhaṃ / hatapuramathananiyatakailāsagirispṛham a[ṃśu]masatprabham // puṃjitayaśa ivendukunda[dyu]ti bhūtala- tilakasundaraṃ / vijayābharaṇanāthābhidham abhinavagir[ī]śamandiram // 
+995 
+structuring of this inscription demands to be read not as a strategic rhetorical emplotment, but 
+as naively reflecting the worldview of the early Seuṇa court, perhaps even at the expense of its 
+interests. As we have seen, in their terse absence of prosopography and maddening lack of 
+theological specificity, the Sangamner plates are a rather imperfect vehicle for gaining access 
+to an early Yādava sensibility. In any case, as the sole exemplar of the material or textual 
+culture that can be unambiguously identified as emerging from the early Yādava court of the 
+tenth century, they come down to us as an orphan text divorced from any larger interpretive 
+context. In beginning to reconstruct what is distinctive about the early Yādava worldview, we 
+have to turn to other forms of evidence, virtually of which is produced more than a hundred 
+fifty years later. 
+In Chalisgaon district in the town Waghali, just such an inscription is preserved in situ 
+in an eleventh-century temple, albeit one that has been so heavily renovated that from the 
+exterior it is almost unrecognizable. Now located inside a maṭha of the Mahānubhāvikas—in 
+fact, in the hands of a branch of the line that in recent years has sought to recast itself as a 
+Vaiṣṇava tradition aligned with the VHP—in the thirteenth century, the temple at Waghali 
+would be reimagined as part of a distinctively Mahānubhāvika sacred geography, its sanctity 
+conferred upon it by virtue of the fact that the living god Cakradhar slept here at here at the 
+“yakṣinī sthān” on some occasions. Issued at the time when the temple was built, the Waghali 
+inscription of Śaka 991—which much like the Vasai plates is also from the time of 
+Seuṇacandra II (1068–1085)—offers a rare documentation of the circumstances surrounding 
+the establishment of a Yādava period temple.931 
+931Epigraphia Indica, vol. II (Calcutta: Superintendent of Government Printing, 1892), 221–228. 
+996 
+Exterior and interior of Siddhanātha temple at Waghali, Chalisgaon District, Maharashtra. 
+The temple of Siddhanātha, we learn, was built by a certain Govindarāja of the Maurya 
+dynasty. While both the Marathi and European language secondary literature refers to this ruler 
+as a “vassal” of the Seuṇa Yādava king Seuṇacandra II, such an interpretation cannot withstand 
+any careful reading of the text itself, which at every turn in general confounds our expectations. 
+Soma is adorned by the half-moon. He is praised by all the gods. . . . For the sake of the destruction of everything inauspicious belonging to worldly people, he incarnated in Saurāṣṭram. In that very country, there is a lovely capital of the Mauryas called Valabhi, the ornament of the maṇḍalas, rich in temples, abounding in the best among the gods and learned people. In its capital city, by the grace of the Mauryas, the Brāhmaṇas—their intellects well-honed in all the vidyās—are equal to Brahmā [and] the city people are enjoyers of the triad of kāma, artha, and dharma.932 
+The text next goes on to celebrate “Śrīkokaṭa, the eldest son of the line of the expansive 
+Maurya kingdom,” telling us that “by scattering stars as if they were the pearls from the 
+temples of elephants that were smashed open with his sword,” he made “the lovely night 
+932Epigraphia Indica, vol. II, pg. 225: somaḥ somārddhabhūṣaḥ . . . laukikānām aśubhavihataye so ‘vatīrṇaḥ surāṣṭram // tasmin deśe ‘sti ramyā vi[bu]dhasuravarākīrṇadevālayāḍhyā mauryāṇāṃ rājadhānī [va]labhir iti [xx] ma[ṇḍanaṃ] maṇḍalānāṃ / yasyāṃ niḥśeṣavidyāsuniśitamatayo [brā]hmaṇā [b]rahmatulyāḥ paurā dharmmārthakāma-[tri]tayaphalabhujaḥ santi mauryaprasādāt // 
+997manifest in the middle of the day.933 In the verse, the Maurya kings of Valabhi, such as Kokaṭa 
+and Soma, whose identity we will soon uncover, are connected by virtue of the fact that they 
+hail from the very same country: Saurāṣṭra. After Kokaṭa, we are told “there was a king upon 
+the earth known of as Govindarāja. Like Govinda, he was instantly established merely by being 
+thought about.” Here, by means of what will become a classical Vaiṣṇava nirvacana, Govinda 
+is glossed as the “the one who leads (vinde) the thoughts/word (go),” a theologically rich but 
+grammatically improbable explanation.934 It is this Govindarāja of the Maurya line, who has 
+one foot in a discursive world we would be inclined to label Vaiṣṇava, who endows 
+Siddhanātha. Indeed, Govindarāja and his actions are the focus of almost all of the fifty-six 
+verses in the inscription at Waghali. In contrast, the Yādava leader Seuṇacandra II appears just 
+once. 
+As we have seen, before introducing the Mauryas and moving onto historical-political 
+matters, the Waghali inscription rather curiously commences with a celebration of someone 
+named Soma—at no point identified as king—who incarnated (avatīrṇaḥ) in the Saurāṣṭra 
+country. While secondary literature on the Yādavas and their world assume the figure in 
+question is a Maurya king, and then scramble about trying and failing to locate any trace of 
+him in the historical record, it is much more plausible to treat the passage in question as a 
+maṅgala verse and the Soma in question as an incarnation of a deity who descended into the 
+world at Saurāṣṭra for the benefit of humanity. In support of such a conjecture, the Liṅga 
+Purāṇa, widely quoted throughout this period, offers us a striking parallel: 
+933In doing so, hinting perhaps at what is to come, the poet offhandedly makes use of a rather strange phrase “khaḍgaprahāradṛḍha.” While this literally reads “firm in striking with the sword,” it is perhaps not accidental that the first two elements of the compound incorporate the two words that make up the name of Dṛḍhaprahāra, the supposed Sāuraṣṭrian founder of the Seuṇa Yādava line. 934Epigraphia Indica, vol. II, pg. 226: goviṃdavat sapadi ciṃtitamā[tra]siddhās teneti nāma sa dadhau caritrārtham uccaiḥ / 
+998 
+When the twenty-seventh cycle of the four yugas arrives. . . then I shall be born as the Brāhmaṇa Somaśarman at Prabhāsatīrtha [in Saurāṣṭra]. Because of taking resort to yoga, I shall be known as a yogic being. . . . Four ascetics will be my disciples: Akṣapāda, Kumāra, Ulūka, and Vatsa. After attaining the yoga of Maheśvara, they will go to Rudraloka. When the twenty-eighth cycle of the four yugas arrives, at that time Vāsudeva Kṛṣṇa, the best among men and exalted among the Yādus, will be born of Vasudeva. At the same time, by the power of my māyā. . . I will be born as a brahmācarin and inspire awe among the people. . . . On seeing a dead body left in the cremation ground without a claimant, by yogic power I will enter it for the welfare of Brāhmaṇas O Brahmā. Around that time, I will be known of as Lākulī.935 
+The Soma of our inscription— it would seem—is likely Somaśarman, the twenty- 
+seventh and penultimate incarnation of Śiva, who, at least in this version of the story, descends 
+into the world slightly before Lakulīśa arrives to spread the Pāñcārthika Pāśupata doctrine. As 
+Hans Bakker has argued in a series of publications, most recently in The World of the 
+Skandapurāṇa, as early as the seventh century, Somaśarman has already assumed the role with 
+which he will continue to be identified with in the Pāśupata, Purāṇic, and Śākta sources— 
+especially the Jayadrathayāmala: originator of the doctrine of the Kāpālikas.936 Often, he is 
+treated as an elder contemporary of Lakulīśa. Indeed, in the Junvānī copper plate of 647 CE 
+935The Liṅga Purāṇa, pg. 98. In the absence of critical textual work on the Liṅga Purāṇa, it is difficult to arrive at definitive conclusions about the composition of the text. In regard to the version that was translated “By a Board of Scholars” with a UNESCO grant, the manuscript sources for which were never documented, it is however clear that this inclusion of Somaśarman belongs at the very least to the redaction that brought order to the text that is before us which at every level is strikingly aligned with the eccentric theology we see in the Seuṇa sources. Somaśarman, for example, is prominently featured in catalogues found in chapter seven “on the Esoteric secret of Śiva” (pg. 23–26) and so too are his disciples. The rhetoric of the text offers a synthesis of Atimārga sensibilities, such as when it prescribes that the householder purify himself before and after having sex with his wife, because woman is the source of saṃsāra, with the ritual systems of both the Bhairava Siddhānta and Śaiva Siddhānta of the Mantramārga. Evidence for the Bhairava Siddhānta includes a long series of rituals offered to a multiheaded form of Aghora, which in the text at hand, however, are prefaced by a series of thinly disguised extracts from the dualistic Somaśambhupaddhati of the classical Śaiva Siddhānta. The Liṅga Purāṇa offers at least five mutually exclusive presentations of “pāśupatayogam,” which run the gamut from heavily Brāhmaṇizing to explicitly hostile to Vedic knowledge. A Board of Scholars, ed. and trans., The Liṅga Purāṇa (Delhi: Motilal Banarsidass, 1988 [1973]). 936The main portions of Hans Bakker’s discussion of the Somasiddhānta are to be found in Hans Bakker, The World of the Skandapurāṇa: Northern India in the Sixth and Seventh Centuries (Leiden: Brill, 2016), 138–153. Bakker’s main argument places the composition of the Skanda Purāṇa in the late-sixth to mid-seventh century, essentially treating it as coterminous with the reign of Harṣavardhana, the famous king of Kanauj. In fact, he envisions that almost all of the textuality that defines early Tantric discourse was produced during just a few decades. The theory of cultural production at work here, which treats the production and institutionalization of discourses as nearly always coinciding directly with each other, is somewhat suspect. 
+999 
+found in southern Kośala, apparently produced in a Kāpālika milieu, it is Somaśarman himself 
+who initiates Lakulīśanātha into the mahāvrata, at which point Lakulīśa acquires the new title 
+of moon of the world (jagadindu).937 As Sanderson and Bakker have demonstrated, unlike the 
+Pāñcārthika Pāśupatas, from its inception the Somasiddhānta seems to have incorporated 
+householders of both genders as well as professional ascetics. Adepts into the Somasiddhānta 
+are most easily identified by their adoption of a name meaning “the moon,” either soma or one 
+of its synonyms. 
+Though Bakker has assembled for us a rich archive of related materials, many of them 
+are even translated in his footnotes, a striking continuity found within the early medieval part 
+of his canon has essentially eluded him, namely, that Somaśarma and Lakulīśa come to be 
+paired with an unexpected contemporary, Kṛṣṇa Govinda.938 As the Liṅga Purāṇa continues, 
+in a manner that evokes the core conceptualizations we have already explored in the 
+Śivadharmaśāstra,939 it will introduce both Viṣṇu and Kṛṣṇa not as the supreme soul of the 
+universe, but rather as Śiva’s exemplary devotee. 
+Brahmā said: “All the devas and all the gaṇas are identical with Viṣṇu. There is no other goal equal to the goal of attaining Viṣṇu. Thus say the Vedas eternally.” Then how did this happen that the Lord of the Devas worshipped you in the liṅga and remained ever devoted to you?. . . . [Śiva responds:] It was after worshiping the liṅga in accordance with the instructions that you, Viṣṇu, and Indra, the best of devas and the 
+937See Hans Bakker, The World of the Skandapurāṇa, 144. 938With its seemingly incongruous converging of Kṛṣṇa’s world with that of the cremation grounds, the Liṅga Purāṇa passage we have just encountered in passing finds a curious echo in an inscription found in Saurāṣṭra that is almost a direct contemporary of the one found in Waghali. Thus, in the famous Somnāthapattan Praśasti of Bhāva Bṛhaspati of 1169 CE, where we learn that Somanātha was granted by Somaśarman to a community of Pāśupatas who “had gone to Vṛndāvana, due to the curse of Gaurī.” Somanātha and Vṛndāvana, it seems, were much closer than we imagine. See Hans Bakker, The World of the Skandapurāṇa, 140, ftn. 431. Building upon the tale of Upamanyu in the Harivaṃśa as initiating Kṛṣṇa Vāsudeva into the Mahāvrata, which as we shall see seems to have enjoyed considerable popularity in the medieval Deccan, the Liṅga Purāṇa itself also offers a short account of Kṛṣṇa as observing the Mahāvrata or Pāśupata vow, though in that context there is no evidence the practice entails carrying a skull. 939Indeed, even working with an English translation of an unknown original, cursory textual comparison suggests numerous direct parallels both with the Śivadharmaśāstra and the Nepalese Skanda Purāṇa, especially the Vārāṇasī Māhātmya, whose account of the arrival of the Pāśupata siddhas at Avimukteśvara seems to have been selectively appropriated. 
+1000 
+sages, had attained their respective status. . . . There cannot be steadiness in dharma without the worship of the liṅga. For this reason, Kṛṣṇa worships me perpetually with bhakti and śraddhā.940 
+That such a position is in alignment with the self-understanding of the early Yādavas 
+themselves is made evident by the maṅgala verse that is emended to much of their early 
+inscriptional record, including the very Vasai plates with which we began our exploration, 
+issued by the same Seuṇacandra II who was present at the founding of Siddhanātha. The verse 
+reads: 
+When the worlds were being created, you obtained great luster. [Though] you are venerated by means of the mind941on the part of yogins, who are meditating with great austerities, generally, you are not perceptible even by the learned people. May that very god, who is the lord of the lord of the Yadus (yadupatipate), may Śaṅkara make peace [come into being].942 
+Through representing Kṛṣṇa of the Yadus as Śiva’s devotee, the religious sensibility of 
+King Seuṇacandra II at once incorporates Vaiṣṇava devotion and subordinates it to a basically 
+Śaiva worldview. As we shall see, this arrangement, all but unknown in the rest of the 
+subcontinent during this period, is central to the visual repertoire of the Seuṇa Yādava 
+landscape until the middle of the thirteenth century. 
+In much the same spirit, in the Waghali plates, Seuṇacandra II, the very figure we 
+expect to be the focus of the discourse occupies a rather diminished position. At this point we 
+have encountered so many śāsanas executed in a range of registers that the conventions of the 
+940Liṅga Purāṇa, pg. 100. 941Here, different inscriptions offer two distinct possible readings, cittārādhyaḥ as opposed to cittāgamya, that yield very different interpretations. In the first usage, closer to the one adopted, we are told that yogins, by means of their austerities, venerate the lord through the use of their minds. In the second, yogins, even through their austerities, cannot reach the lord by means of the mind. The translation presented here aims at the compromise by maintaining some ambiguity over whether or not yogins can achieve their goal through mere mental effort. 942trailokye saṃsṛjati bhavāṅlabdhamāhātmyatejaś / cittāra[emd-ā]dhyaḥ paramatapa[sāṃ]yoginām dhyāyatāṃyaḥ / apratyakṣaṃ bhavati vibudhānām api prāyaso ’sau devaḥ so ’yaṃ yadupatipate śaṅkaraḥ śaṃ karotu //1// J. A. S. Burgess, ed. Indian Antiquary: A Journal of Oriental Research, vol. XII (Bombay: Education Society’s Press, 1883), 119–126. 
+1001 
+genre should be rather evident. Regardless of what sort of social agent is actually responsible 
+for an endowment—whether through an invocation of the regnal year of the ruling power, or 
+a presentation of the ruling power’s genealogy—these texts are framed in a manner that clearly 
+delineates the scale of authority within the social domain that produced. Succinctly, however 
+tangential or non-existence their actual involvement in the events being discussed—the 
+presentation of the genealogy of the social actor responsible for the endowment is always 
+preceded by acknowledging the authorities to which he answers and presenting in some fashion 
+their credentials. In the Waghali inscription, immediately following the maṅgala verse, we are 
+introduced not to the Seuṇa Yādavas, but to the Mauryas. The capital that is discussed is their 
+capital in Valabhi and it is their line of descent that is celebrated in verse. The inscription 
+makes plain who exactly is in charge: 
+Who else indeed [but], Govindarāja the stainless, would construct in the world of mortal men a very lofty divinely adorned temple of the moon crested lord, resembling the house of the gods. . . . Govinda brought into being the dwelling of the lord Siddheśanātha ,which is endowed with all sorts of enjoyments that are extremely great. . . . He [also] made a well with a god installed inside. . . which is very skilled at destroying sin, causing curses to flow away by the flow of the very auspicious water of its unceasing waves. . . . However, the auspicious lord of the Seuṇa, a mahāmaṇḍaleśvara with a lofty mind, gave to Siddheśvara a pair of villages. By virtue of his own kingly status as supreme enjoyer of property (rājabhoga), King Govindarāja also gave [the village] Saṃgamī, which had lovely gardens, as well as the right to possessing the enjoyment and sovereignty ([sarva]mānyabhoga) of the two villages.943 
+While Govindarāja establishes the Siddhanātha temple, endowing it with all 
+enjoyments, by which is meant the right for those who dwell in the temple and govern it to 
+943Epigraphia Indica, vol. II, pg. 226–227: atyu[cca]ṃ divyabhūṣaṃ surasadanasamaṃ maṃdiraṃ caṃdramauleḥ ko ’nyo goviṃdarājā nnarapatir amalo martyaloke cakāra //. . . . [aṃ]tarmīnanāvatārādyabhinavatanubhir vviṣṇurūpair upetaṃ cakre siddheśanāthāvasatham atimahatsarvvabhogopapannaṃ / sarvveṣāṃ pārthivānāṃ t[ri]divapatipurā rohani[ḥ]śreṇibhūtaṃ govindo bhūmipālas tv amalanṛpaguṇair anvitaṅ kīrttikāmaḥ // vāpīṃ cakāra suvimalopalagāḍha[ba]ddhasopānapa[ṅkti]suraveśmaniviṣṭadevāṃ / śaśvajjalormmi[bahu]śubhrajalapravāha-saṃsrāpitābhiśapanām aghanāśadakṣām //. . . . mahāmaṇḍalanāthas tu śrīmān seuṇabhūpatiḥ śiddheśvarāya pradadau grāmadvayam udāradhīḥ / nijena rājabhogena saṃgamīm madhu[vāṭikām] / goviṃdarājo ’pi dadau grāmayor mānyabhogakaṃ / 
+1002 
+receive all cash and material revenues and to benefit themselves for any associated privileges 
+to an extreme degree (atibhogasarvabhogopannam), the mahāmaṇḍalanātha Seuṇabhūpati, 
+however, merely gives (pradadau) to Siddheśvara (siddheśvarāya) two villages 
+(grāmadvayam). In short, while on the international stage of the greater Deccan, the Seuṇa 
+Yādava “lords of men” (nṛpati) may have been significant power players in Cāḷukya politics, 
+back at home they seem to be still serving as vassals (mahāmaṇḍalanātha) of regional powers 
+such as the Maurya. One might propose, in fact, that Seuṇacandra and his predecessors left so 
+little of a footprint precisely because they were not really kings at all in the classical sense, but 
+perhaps are better understood as serving as elite militias constantly managing their ties with a 
+range of political formations. 
+If the Seuṇas were not yet exactly kings, however, there are number of indications that 
+they may have been more closely associated with another sort of social identity, one that they 
+seem also to have shared with the region rulers they served. In the region of Nashik, towards 
+the end of the ninth century, Dṛḍhaprāhara founds a capital city in a place now called the 
+fortress of the moon (chandwad). Both in inscriptions issued by the Yādavas themselves as 
+well as by ruling powers such as the Mauryas, his successor bears the name “moon upon the 
+Seuṇa country”—Seuṇacandra I, or even Seuṇendunṛpati. Indu and candra are of course 
+synonyms for soma, the title designating an initiate, whether householder or otherwise, into 
+the Somasiddhānta taught by Somaśarman. As Bhandarkar noticed in passing in 1895, as early 
+as the middle of the seventh century, a copper plate issued by the Caḷukya king Nāgavardhana 
+found at Igatpuri—quite close to Akole, in fact—documents a grant given to a temple called 
+Kāpālikeśvara that at the time served as a residence for ascetics performing the skull-carrying 
+1003 
+vow.944 In other words, such practices had deeper roots in the region than the Yādavas 
+themselves. 
+As Bakker notes in passing, with a certain degree of puzzlement, over the course of the 
+intervening centuries, assuming they persisted, such traditions would most likely have 
+continued to evolve. 
+In the course of the seventh century, the Mausala or Somas may have been eclipsed partly (the domesticated wing) by the emerging Śaiva Siddhānta and may have become partly closely associated with a group that produced the non-Siddhantika texts such as the Jayadrathayāmala. The latter, incidentally, is the only extent text known to us that recognizes the doctrine of the sixty Bhavas or Rudras mentioned in the Junvānī inscription. . . . However, the complexity of the Pāśupata tradition is illustrated by the same Paśupati Chatracaṇḍeśvara inscription, which tells us that within the assembly (pariṣad) of the donees—the Muṇḍa-Śṛṅkhalika Pāśupatas—ācāryas figure whose names end in °soma— Umasoma [sic], [Ca]krasoma, and who are qualified as khaḍukas—i.e. priests. . . . Whatever may have been the case, the seventh and eighth centuries may have seen a tendency in many Śaiva ascetic lineages to wear a skull- chaplet, thus making the term ‘Kāpālika’ a rather generic one. They were classified as lokātitavratins or Mahāpāśupatas in the Mukha section of the Niśvāsatattvasaṃhitā.945 
+In Bakker’s formulation, depending on locale and social background, there are two 
+distinct trajectories. The Somasiddhānta either merges into the Śaiva mainstream, especially 
+the Lokātitavratins—who in the Deccan will come to be called Kālamukhas—or becomes the 
+foundation of Śākta Tantras dedicated to the yoginīs of the sort best exemplified in the 
+Jayadrathayāmala, which essentially offers us a vast compendium of such sources distilled 
+from lost canons. In practice however, much as we have seen happening in the Kuntaladēśa, 
+these two developments quite often seem to converge with each other, such that, for example, 
+people who continue to call themselves Kālamukhas—inheritors of Atimārga tradition from 
+which such commitments were absent—increasingly also become the custodians of the cults 
+944See Ramakrishna Gopal Bhandarkar, Early History of the Dekkan down to Muhammedan Conquest (Mumbai: Times of India Office, 1884). 41. Nashik itself contains at least one Kāpāleśvara temple, though only the name suggests its possible past. 945Hans Bakker, The World of the Skandapurāṇa, 148–150. 
+1004 
+of the yoginīs. 
+In its representation of Govindarāja as at once patron and practitioner, the Waghali 
+inscription offers illustration of a very similar social trend, the simultaneous but spatially and 
+conceptually differentiated accommodation of often mutually exclusive life-worlds mediated 
+through a patron who is at once king and adept. 
+May king Govindarāja, who please, gods, grahas, twice-borns, gurus, the ancestors, the cows, and the fires, by means of nectar, fragrance, good smelling garlands, incense, grain offerings, expansive lamps and various kinds of food always be happy! At the beginning [of the ritual] the beneficent one [Govindarāja] smeared Śiva, the Brāhmaṇas, and the gurus with [long list of substances]. . . . After that, he practiced the smearing injunction himself. Who else indeed [but] Govindarāja the stainless (amala), would construct in the world of mortal men a very lofty divinely adorned temple of the moon-crested lord, resembling the house of the gods. 
+He whose body is stainless (amalāṅga) is the royal swan upon the most excellent lake, which bears within it the nectar that is the gnosis of brahman. He is the root of the auspicious tree, of which the beloved body has the lovely radiance of royal splendor. By the creator there was created this one single king in the world, who causes [the bestowal] of bliss upon good people. Govindarāja’s tāmasic conduct—born from within his heart— was cut asunder by the sword that is Śaiva meditation. Govinda brought into being the dwelling of the lord Siddheśanātha, which is endowed with all sorts of enjoyments that are extremely great, which is equipped inside with forms of Viṣṇu that bear new bodies such as the incarnation of the fish and so forth.946 
+Much as in chapter 3, the ācāryas at Karadakal laid claim to a rhetoric expressive of 
+kingship to make evident that they were in fact sovereign powers in their own right, here 
+Govindarāja explicitly dresses up the office of kingship in the garments of an ascetic steeped 
+in esoteric praxis. Just as King Janaka, both in the Bṛhādaraṇyaka and his subsequent reception 
+946Epigraphia Indica, vol. II, pg. 226–227: yaḥ prīṇayaty amṛtagaṃdhasuganṃhamālādhūpākṣa[ta]pracuradīpa- vicitrabhakṣyaiḥ devagrahadvijagurūn p[i]tṛgo’gnimukhyān goviṃdarājanṛpatiḥ sa sukhī sadā syāt // karpūrakuṃkumadhanādhipakarddamena kastūrikājalavimiś[rita]candanena / ādau vilipya śivavipragurūn udāraḥ paścād vilepanavidhiṃ svayam anvitiṣṭhet //. . . . atyu[cca]ṃ divyabhūṣaṃ surasadanasamaṃ maṃdiraṃ caṃdramauleḥ ko ’nyo goviṃdarājā nnarapatir amalo martyaloke cakāra // brahmajñānāmṛtānta- rnnibhṛtavarasarorājahaṃso ’malāṅgo rājaśrīcārukāntādayitataratanupuṇyavṛkṣasya mūlaṃ / dhātrā sṛṣṭo ’yam eko jagati narapatiḥ sajjanānandakāro / śaivadhyānāsibhinnasvahṛdayajatamovṛttigovindarājaḥ // aṃtar mīnāvatārādya-bhinavatanubhir vviṣṇurūpair upetaṃ cakre siddheśanāthāvasatham atimahatsarvabhogopapannaṃ / sarveṣāṃ pārthivānāṃ t[ri]divapatipurārohani[ḥ]śreṇibhūtaṃ govindo bhūmipālas tv amalanṛpaguṇair anvitaṅ kīrttikāmaḥ // 
+1005 
+history, especially in the vernacular traditions surrounding the Yogavāsiṣṭha, is labelled 
+rājarṣi—at once a king and a sage—Govindarāja is labelled rājahaṃsa, king as ascetic or king 
+of ascetics. Subtly and yet specifically invoking the terms of the art of the Śaiva and Śākta 
+Tantras, where the karmic chains that bind a soul within the realm of transmigration take the 
+material form of a type ontic sludge called mala—some of which is annihilated in the act of 
+initiation and the remainder of which is burned through ritual and yogic praxis—in two 
+consecutive verses, the Maurya king is characterized not just as a pure or lofty soul but as one 
+whose body is stainless (amala or amalāṅga). Departing from the logic we have explored so 
+frequently in previous chapters, the circumstances in which this king came into being have not 
+produced an intrinsic nature that determined his destiny. The Maurya king began his life, or so 
+the literary conceit would have it, as the same sort of debased person with deplorable conduct 
+as the brother Vikramāditya VI had to depose, his tāmasic traits arising organically from his 
+unfeeling heart. But through the sword that was Śaiva meditation, Govindarāja was reformed. 
+According to our inscription, he became not merely an upright and righteous king, but 
+the rare sort of person—even perhaps the only king—who can bestow not just wealth and 
+worldly favor but bliss (ānanda) itself. Throughout our study of the institutional life of 
+religious culture in the medieval Deccan, we have encountered many instances in the textual 
+record where kings were represented as initiates into the Śākta Tantras, participating fully in 
+their esoteric traditions and paying homage to preceptors and yogins represented as 
+instantiating the tradition in the world of lived experience. At Waghali, however, we see 
+something new: there is no need for a named ācārya, for the king himself, seemingly by means 
+of subtle body practices, floats upon the great lake that contains within it the nectar that bestows 
+liberation. Stainless Govindarāja is himself both king of the Mauryas and the king of the 
+1006 
+siddhas. Part of what makes the study of medieval Maharashtra so difficult is the nature of our 
+archives. In contradistinction to the Kuntaladēśa, here striking temples complexes come to us 
+shorn of inscriptions, important text present themselves in isolation from any interpretive 
+context, or, perhaps most commonly, we encounter a many-layered landscape of tantalizing 
+fragments that evade easy historicization. Waghali is so important because it is the rare place 
+where all the pieces of the puzzle come together: we have a documented patron matched with 
+a dateable foundation inscription, prosopographical evidence even offering bits of religious of 
+biography, paired with a substantial documentary record, both in the form of material and 
+chancellery culture. 
+Though the exterior of Siddheśvara has underground extensive modernizing 
+renovations, what remains of its exterior suggest that it would have originally incorporated 
+panels representing a variety of images of yogins, such as the ācārya offering initiation and the 
+dancing siddha we find below. This iconographic program continues to play a substantive role 
+within the temple’s interior, where practically all of the columns present us with small 
+Waghali Siddheśvara temple: Exterior panel. 
+1007 
+image of yogins and siddhas who have 
+participate in long standing artistic 
+assumed a variety of physical 
+postures. In some cases—as in the two 
+images below offering añjali—these 
+are simple displays of reverence. 
+Other images, such as these figures in 
+siddhāsana and padmāsana, 
+conventions used to represent learnedascetics steeped in the practice of yoga. A substantial number of the pillars, however— which 
+may very well represent the earliest precisely dateable representations of serious āsana 
+practice as of yet found on the subcontinent—appear to present siddhas engaging in complex 
+forms of postural yoga. In early sources of classical yoga, āsanas function as preparatory 
+practices preparing the practitioner’s body for long periods of seated meditation. The palate of 
+postures presented is rather delimited and they are relatively easy to execute. The rather diverse 
+āsanas presented at Waghali, in contrast seem to represent a system of practice in their own 
+right and many of the positions on display are actually quite physically challenging. 
+1008 
+If the siddhas at Waghali were not yet practicing classical haṭhayoga, they were clearly deeply 
+immersed in key formative antecedents to the types of oral traditions that the early modern 
+corpus of haṭhayoga texts would codify and reify. While the postures on display above are 
+absent from the Haṭhayogapradīpikā itself, as Seth Powell has kindly pointed out to me, at 
+least two of the more involved postures can be identified with āsanas from the textual corpus 
+of early modern haṭhayoga. 
+Gesturing towards the limits of our textual archives as documentary representations of on-the- 
+ground reality, the closest matches to our eleventh-century postures are in fact found in an 
+illustrated manuscript of the eighteenth century Jogpradīpikā, a Braj Bhasha work from 
+1009 
+Rajasthan composed among the Rāmanāndīs. That our Kāpālika-inflected milieu should 
+bequeath its legacy to an at least nominally Vaiṣṇava order of wandering ascetics is less 
+surprising than it might seem, for already at Waghali, we see the glimmerings of such an 
+incongruous convergence of worldviews. For not only does Govindarāja specify that he has 
+paid for the production and installation of “forms of Viṣṇu that bear new bodies such as the 
+inner incarnation of the fish and so forth,” but much more imposingly than our miniature 
+yogins, the religious life of the temple seems to have revolved around the visual pairing of 
+many-armed images of Bhairava with panels representing the play of Muralidhar Gopāla Kṛṣṇa 
+among the gopīs, the latter executed in a manner that clearly links them to older representations 
+of Naṭeśa. This unexpected accommodation of what to us would seem to be vastly disparate 
+religious sensibilities within a single institutional framework is even more pointedly in 
+1010 
+evidence in the “business portion” of our inscription. Here, the text outlines the exact nature 
+of the range of practices to which Govindarāja lends his financial support, the physical 
+boundaries of the land grant, and the spatial distribution assigned to different communities. 
+For the melaka and for the sake of performing pūjā to the gods and for the establishing of lamps and incense; for the enjoyment of the gods at the three times, for music, for the sake of dance and song, endowed with dancing girls; for the perpetual feeding of Brāhmaṇas, the king designated a feeding house. [He also dedicated a feeding house] for the feeding of the students devoted to the practice of vidyā. 
+I will now write down those fields that the king gave. . . . In the south, a field for the temple officiants (devala) and likewise in the west for the mothers. In the north, a village for artisans (kāraka/kāruka). . . . Also in the north, there are grounds assigned to lords of the siddhas and for the Mata practitioners. . . In the east, in the enclosure around the yakṣinīs’ fig tree, there is the territory of the skull carriers (kārpaṭikasya). In the south, there is a field for the temple officiants (devala), and the boundary is the path for cows [and their herdsmen]. . . . 
+The king gave sixteen nivārtanas of the earth to the maker of the auspicious commentary and to the maker of the commentary on the vidyā. There was king called Govinda, who was clever at speech and at inquiring into the conduct of Kṣatriyas. His queen, indeed, out of fear of existence was always a devotee of Hara. Having constructed a very lovely temple of Śiva, fame was spread out by the two of them, and the splendor of dharma and his own stainless family was illuminated.947 
+Govindarāja sets aside some benefits for Brāhmaṇas, and certainly shows them no 
+animosity, but as we can see they are at best a tertiary concern. When we look at the patterns 
+of allocation, it is clear that the focus of the grant is provide support in perpetuity for the range 
+of professional life-worlds—temple ritualists, artisans, and Śākta adepts, scholars, student, 
+947Epigraphia Indica, vol. II, pg. 227–228: melakaṃ devapūjārthaṃ ghrāṇakaṃ dīpasiddhaye / pāṭakaṃ gītanṛtyārthaṃ vilāsi[nī]samanvita[ṃ] t[ri]kālaṃ devabhogārthaṃ gacchakānāṃ ca bhūmi[conj. rāṭ] // viprāṇāṃ bhojanārthāya satram uddiśya śāśvataṃ / vidyābhyāsaratānāṃ ca chātrāṇāṃ bhojanāya ca // kṣetrāṇi yāni bhūpālo dadau tāni likhāmy ataḥ / vagalūkammtabhūme[ḥ] pūrvvasīmā tu bhaṃbhi[x] // dakṣiṇe [de]valakṣetraṃ paścime [jani]n[y]as[?] tathā / uttare kārakagrāmam āghāṭā khalu no matāḥ // vakhulīkṣetrasīmās tu pūrvadakṣiṇapaścimāḥ / mārgakaṃ matasiddheśabhūmayas tūttaro vahaḥ // vanakūṭakabhūmeś ca nadī pūrvottarovidhiḥ / dakṣiṇe ca vahaḥ sīmā paścime grāmabhūr api // va[ṭa]yakṣiṇivāṭe tu pūrvvā kārpaṭikasya bhūḥ / dakṣiṇe devalakṣetraṃ paścime gopathovadhiḥ / uttare vaṭakūpau ca āghāṭā[ḥ] parkīrttitāḥ // ṣoḍaśaiva dadau rājā vidyāvyākhyānakāriṇe / nivarttanāni bhūmes tu puṇyavyākhyānakāriṇe // kṣatrācāravicāravākpaṭur abhūd govindanāmā [nṛ]pas tadrājñī kila nāyakī bhavabhayād bhaktā sadā yā hare tābhyāṃ śaṃkaramaṃdiraṃ suruciraṃ niṣpādya vistāritā kīrtti[r] dharmmayaśaḥ kulaṃ ca vimalaṃ pradyotitaṃ cātmanaḥ // 
+1011 
+performing artists, and herdsmen that make the life of a temple and the systems of meaning 
+that animate it possible, with the largest grants—more than sixteen acres—being reserved for 
+those who compose—either oral or written commentaries. Next in the hierarchy, as we might 
+by now expect, is an entire village set aside for the artisan community (kāruka), followed by 
+two distinct domains assigned to the devalas, the very class of professional temple ritualists— 
+for whom ritual forms their livelihood—upon which both classical Dharmaśāstra as well as the 
+apologetic writings of Pāñcarātra theologians such as Yāmuna would heap such scorn. 
+Intriguingly, in light of the commitments expressed in the maṅgala verse, Govindarāja assigns 
+the east to a community of people called the kārpaṭikas, a term that in the classical period tends 
+to have meant a rouge or deceiver, but in the context of the early medieval at times becomes a 
+euphemism for a skull-bearing yogin. The Maurya king’s initial presentation of the types of 
+ritual practices associated with the Siddheśanātha temple contains a telling detail supporting 
+this interpretation, namely, a rather unusual addition. On top of the typical allocations for 
+incense, the lighting of lamps, and the standard pūjā to the gods, Govindarāja sets aside certain 
+resources for the performance of the rite of melaka. Olga Serbaeva offers the following 
+definition of this key term of art in the introduction to her important article “Varieties of 
+Melaka in the Jayadrathayāmala,” one of our few studies of the unpublished 
+Jayadarathayāmala: 
+There exists in the Vidyāpīṭha Tantras a special term denoting all kinds of encounters with yoginīs. The term in question is melaka or melāpa. . . . The sādhaka, usually in a state of inebriation, suddenly hears indistinct sounds, enters into a visionary state and then finds himself surrounded by yoginīs. These may appear to be deformed or appear with the faces of animals. On being addressed by these yoginīs in a particular manner, he offers them a bloody argha by piercing one [of] his limbs on the left side, usually his arm. Satisfied by the offering, the yoginīs transform him into a superhuman being possessed by omniscience and the ability to fly, and who is frequently compared to 
+1012 
+Bhairava.948 
+While the heavily renovated Mahānubhāvika monastic complex preserves no concrete 
+traces of material culture emerging from yoginī cults, beyond what we have seen so far, other 
+sites in Waghali, which would have been incorporated into this land grant prove more 
+promising. By the banks of the river, less than half a mile to the southeast of Siddheśvara, we 
+find a temple now called Mudhāī Devī. As the structure now stands, it appears to be a 
+composite of what were once two discrete temples. Much of the current exterior, cannibalized 
+from a likely unrelated temple to Sūrya, is not pertinent to our analysis. An important exception 
+are the figures below which have been carelessly stuck into the concrete. The first of these is 
+a fierce goddess, whose slender youthful form suggests Bhairavī instead of Cāmuṇḍā. As for 
+the second, on account of the specific posture and she has assumed and the gesture she displays, 
+not commonly associated with dancing girls we can plausibly read this as a dancing yoginī, 
+comparable to the more intact image of the Varāhī we have already seen amid the ruins of the 
+yogini temple at Tahākārī Devī. Perhaps she was paired with the now lost image that stood on 
+the reclining animated corpse we find below (next page) whose fragmentary form was 
+plastered into the wall. 
+948See Olga Serbaeva, “Varieties of Melaka in the Jayadrathayāmala: Some Reflections on the Terms Haṭha and Priya,” in Goddess Traditions in Tantric Hinduism: History, Practice, and Doctrine, ed. Bjarne Wernicke Olesen (New York: Routledge, 2015), 51. 
+1013 
+Obscured by hundreds of layers of vajralepa that 
+render her an amorphous blob, and now painted bright 
+orange, the exact identity of the early medieval mūrti, 
+of Mudhāī Devī herself, while plausibly intended to 
+represent Mahiṣāsuramardinī, can no longer be 
+determined. Over the door to the shrine, however, 
+expressing an unmistakable feature of what will 
+become the Yādava style, in which representations of 
+ascetics proliferate in space in an unprecedented an 
+unprecedented fashion. Once again, we find large busts 
+of yogins, their heads shaven, presented in profile, 
+wearing long-hoop earrings. 
+1014 
+Mudhāī Devī temple, Waghali. T: Fragment of reclining image, seat for Tantric deity. M: Interior of temple. B: Bust of yogin on door lintel. L: Mudhāī Devī. Notice the vajralepa coats an early medieval image. 
+In contradistinction to transregional medieval norms, which often imagine some 
+distance between the royal family and the countless Kālamukha lines with which they 
+associate, the early Yādava corpus rhetorically privileges emphasizing the close ties 
+between the warriors, Śiva, and the Śākta-Śaiva masters to whom they pay homage. 
+1015 
+The largely unnoticed discovery by Amol Bankar of an unpublished old Marathi 
+inscription issued during the reign of Seuṇacandra II, the subject of his unpublished 2014 
+thesis, Some Early Medieval Remains from Deulgaon Raje, Tal Gund District, Pune, further 
+enriches our picture of this particular social dynamic. In his Prācīna Marāṭhī Korīva Lekha, 
+one of the foundational anthologies of old Marathi epigraphy, in the temple of Bhairavanāth in 
+the town of Deulgaon in Pune district, Tulpule documented the existence of an undated 
+imprecatory curse, which threatens that a person who violates the land grant will in turn have 
+his mother violated by a donkey.949 As Bankar has masterfully demonstrated, however, what 
+Tulpule has taken for a complete inscription in actuality forms just the concluding section of 
+the larger four-part text preserved on the walls at Deulgaon.950 Bankar’s transcription and 
+interpretation of these unpublished texts reveal them to have been issued during the reign 
+(vījayarājye) of Seuṇadeva, by a certain Vaī Nāyaku, upholder (kula udharaku) of the Sindha 
+clan, who seems to have been a distant cousin of Sindhas of Yelburga. We learn that this local 
+vassal of Seuṇa Mahāmaṇḍaleśvara commissioned (tene kele) in the town of Deula (deūla 
+gavīn) the construction of a temple dedicated to the worship of the trimūrti (trīpuruṣa) called 
+Siddheśvara. 
+949Tulpule, Prācīna Marāṭhī Korīva Lekha (Pune: Pune Vidyapitha, 1963). 950Amol Bankar, Some Early Medieval Remains from Deulgaon Raje, Tal Gund District, Pune (MA thesis, Tilak Maharashtra Vidyapeeth, 2014), 58–77. 
+1016 
+As Bankar shows, that the space 
+in question is unquestionably 
+the temple now called 
+Bhairavanātha is confirmed by a 
+glimpse at the bhadrapīṭha 
+inside of the garbhagṛha, for 
+this contains on its side 
+on its side, we find representations of Garuḍa, a swan, and the bull, the respective vehicles of 
+Viṣṇu, Brahmā, and Śiva. While much of the temple’s interior is given over to representations 
+of episodes from the Mahābhārata and especially the Rāmāyaṇa, Bankar convincingly argues 
+that the Tripuruṣa temple was constructed by a young Vaī Nāyaku in moment of grief (M: 
+soṣakhsaṇī, Skt. śokakṣaṇe) as a memorial to his predecessor, Sindye Nāgesaru. Just as the 
+circumstances under which the temple was constructed are confirmed by the small inscribed 
+donor image of Vaī found on the temple wall, other iconographic features incorporated within 
+its interior are suggestive of the Siddheśvara temple being the product of a religious milieu 
+similar to the one advanced in the creation narrative that opens the Sangamner plates, in which 
+it is Śambhu himself who assumes the forms of rest of the trimūrti, which are worshipped in 
+turn as aspects of his power. Particularly compelling evidence that this is a Śaiva site of 
+worship is provided by the ceiling of the raṅgamaṇḍapa. 
+Courtesy of Bankar, 2003. L: Inscribed portrait of Vaī Nāyaku. R: Aṣṭadikpāla maṇḍala. 
+B: Dancing Śiva in center of ceiling, detail. 
+1017Here, situated within the heart of a maṇḍala consisting of the lords of the eight directions, an 
+image of a bow-bearing Śiva dances in the center of a nine-petalled lotus. Adjacent to the 
+portrait of Vaī Nāyaku, we also find a small but suggestive portrait surrounded by his 
+attendants of a naked siddha seated in āsana with his hands in mudrā. His shaved head and 
+large ears suggest an affiliation similar to the large busts of bald headed yogins of Śākta-Śaiva 
+persuasion we saw at Waghali, an identification lent further support by the presence of a 
+balipīṭha still preserved in the temple’s courtyard surrounded by the sculpted heads of animals 
+and humans with pādukas in its center. While Deulgaon itself only offers these small 
+suggestive traces of the visual idiom of cremation ground cultures, our inscription thankfully 
+R: Siddha with retinue. L: Balipīṭha with animal and human heads. B: High-ranking devotee paying homage to guru. Courtesy of Bankar. 
+outlines institutions endowed by the Seuṇa vassal Vaī Nāyaku, which include a temple to 
+Someśvara in a village called Jategavīṃ. Thirty miles from Deulgaon on the borders of 
+modern day Jategaon at Pimpri Deula, Bankar (unpublished) has identified and briefly 
+visited just such a site, situated on the banks of a river within a cremation ground. While 
+more exhaustive fieldwork would likely enrich our archive, two images preserved in situ 
+help to confirm that the spaces in question were under the purview of the Śākta-Śaiva 
+adeptsto whom Seuṇacandra II’s vassals relared in a devotional idiom. 
+1018 
+panel in situ. While it is difficult to determine whether the item the guru holds in his left hand 
+is a mālā or a small skull bowl, the kapāla rather awkwardly held by his attendants is 
+unmistakable. Much like his Seuṇa patrons as well as his cousins in Yelburga who supported 
+the ritual life of the Siddhakṣetra at Kukkunur, Vaī Nāyaka of the line of Sindhas unabashedly 
+1019 
+In the image on your left, a 
+devotee of some standing, 
+seated in āsana between two 
+two large lamps, engages in the 
+veneration of his guru. 
+Seated in a royal 
+posture, the teacher in question 
+seems to be depicted, albeit 
+rather crudely, on another 
+panel in situ. Someśvara 
+While it is temple, Pimpri Deula: Details. T: Plausibly royal figure worshipping the guru between two dīpamālās. 
+B: Śākta- Śaiva guru with skull bowl (?), flanked by two attendants, one of whom bears choury and skull- bowl. 
+keeps the company of practitioners of the mahāvrata. While the materials we have just 
+surveyed sadly exhaust our corpus of surviving evidence from the early period, if anything, 
+this same discursive pattern, in which Seuṇa vassals have incredibly close ties to Śākta-Śaiva 
+ritual actors and the Seuṇas themselves, resurfaces again and again moving through these very 
+same circles, becoming even more prominent as we move into the twelfth and early thirteenth 
+centuries. As the Seuṇas become increasingly involved in the political and administrative life 
+of the Kuntaladēśa they embed themselves within preexisting Śākta-Śaiva networks, both in 
+the Kannadiga heartland and the Marathwada, offering at times lavish patronage to many of 
+the major Kālamukha ritual centers of the day. 
+In a long and particularly rich inscription951 found in the ruins of Ardhapur, issued by 
+the lord of Āmarddakapura—a minor Raṭṭa king named Baḷḷala—we are told that the Seuṇa 
+Yādavas first forged a formal bond with preceptors who self-identify as Kālamukhas during 
+the reign of Mallugi I (1145–1150), and that it was Raṭṭa kings themselves who midwifed this 
+relationship into being. Most of the Ardhapur inscription is given over to praising 
+Āmarddakapura’s human lord. Invoking a Śākta-suffused rhetoric with which we are by now 
+all too familiar, Baḷḷala, we learn is “the singular hero (vīra) upon the earth, propounder of the 
+samaya, gem of the lamp of the kula, who embodies victory and has the form of a single 
+mantra and takes as his very nature the witnessing agent, devoted to the feet supreme 
+Caṇḍīkā.”952 In short the focus is largely on what King Baḷḷala “is” as opposed to what he does. 
+951Two Sanskrit inscriptions from Ardhapur, this long one by Baḷḷāla (pg. 191–203) and a terse but important one (pg. 204–205) from the reign of the Seuṇa Yādava King Siṅghaṇa II, have been edited and published in Shrinivas Ritti, Inscriptions from Nanded District (Nanded: Shri Sharada Bhuvan Education Society, 1968). The region also preserves some Marathi inscriptions from the period, some of which have been edited and discussed in Marathi publications by Brahmanand Deshpande, who seems to be the first person to identify that Aundha is the famous Āmarddakatīrtha. See Brahmanand Deshpande, “The Raṭṭas of Āmardakapur,” in Studies in Epigraphy (Aurangabad: Kailash Publications, 2002). 952Shrinivas Ritti, Inscriptions from Nanded District (Nanded: Shri Sharada Bhuvan Education Society, 1968), pg. 81–82: bhuvanaikavīravibhavaḥ. . . . bhaktis sā paraca[ṇ]ḍikā [n]ijapade kīrttirj jagadvyāpini /. . . . 
+1020 
+But amidst this deluge of at once pithy and outlandish titles, often thoroughly out of step with 
+the actual activities of a regional power, the Ardhapur inscription makes one very concrete and 
+altogether plausible assertion. “Baḷḷāla,” we learn “is the one at whose behest the ācārya who 
+made firm (sthairya) the kingdom of the Yādavas was established in the kingdom of the vassals 
+of King Mallugi.”953 The concluding portions of the Ardhapur inscription offer us rich 
+representations of this Kālamukha institutional world, the esteemed ācārya under whose 
+direction the Yādava dynasty would thrive, his subordinates, his predecessors, and his 
+successors: 
+Hail! He is the pratiṣṭhācārya who bears the Kālāmukha dīkṣā. He is endowed the qualities of yama, niyama, svadhyāyā, dhyāna, dhāraṇā, vows of silence, anuṣṭhāna, japa, samādhi and śīla. He is skilled in the aggregate of the arts and all the āgamas. He is attached to the worship of the lotus feet of the auspicious ender of the triple cities (tripurāntakadeva). He is overlord of seventy-seven maṭhas. He is engaged in vows. The preceptor of the Kālāmukha monastery is called Kāleśvara. He was entered into/penetrated [by] Tripurāntaka by the power of his mantra initiation. The one who is known of as Kalyāṇaśakti is to be honored in all the three worlds. 
+By the ritual of his dīkṣā, he was made to be turned toward facing the five faced Lord. Thus, from the practice of the repetition of the five brahmamantras, he became Brahmarāśi (a heap of brahman) and to Brahmarāśi was given the state of being the ācārya of the maṭhas of the gods Śrī Mallikārjuna and Siddheśvara. His son was Bhogarāśi.954 
+As we can see, the Kālamukhācārya named Kāleśvara is a yogin, master of artisans, 
+and a scholar, whose identity is constituted by his guru Tripurāntakadeva’s decision to transfer 
+samayapracāra[ḥ] śastre vicāro bhuvanaikavīraḥ. . . ballālabhūpalaḥ kularatnadīpo mantraikarūpo vijaya svarūpa[ḥ] / 953Shrinivas Ritti, Inscriptions from Nanded District, 81: mailugimaṇḍalikarājyapratiṣṭhāchāryo yādavarājyasthairya/ 954Shrinivas Ritti, Inscriptions from Nanded District (Nanded: Shri Sharada Bhuvan Education Society, 1968), pg. 90–91: svasti yamaniyamasvādhyāyadhyānadhāraṇ[ā]m[au]nānuṣṭhānajapasamādhiśīlaguṇasaṃpa[n]na[ḥ] sakalāgama-kalākalāpe kuśala[ḥ] kālāmukhadīkṣāpratiṣ[ṭh]ācārya[ḥ] śrīt[ri]purā[n]takadevapādāravimda- vadanarata[ḥ] saptādhikasaptatimaṭhāṇām adhipo vratī / kālāmukhamakhacārya kāleśvara iti smṛtaḥ / tanma[n]tradīkṣāprabhavo niviṣṭa[ḥ] t[ri]purā[n]takaṃ // va[n]dyaḥ kalyāṇaśaktīti vikhyāto bhuvanatraye / tasmā[d] dīkṣāvidhānena jāta[ḥ] pa[ñ]camukhonmukhaḥ // pañcabrahm[a]japābhyāsād brahmarāśir abhūt tataḥ // tasmai śrīsiddheśvaramallikārjunadevamaṭhācāryatvaṃ brahmarāśidevāya [dattaṃ] / ta[tpu]tro bhoja[emd. bhogaraśi[ḥ] / 
+1021 
+his power into his successor. At the same time, much like our other Kaḷēśvara, this learned and 
+powerful teacher is also an administrator, responsible for overseeing a transregional network 
+of seventy-seven monasteries. Kalyāṇaśakti/Brahmarāśi and his son, in contrast, merely held 
+responsible for two maṭhas attached to temples, are operating on much more localized scale. 
+The Ardhapur inscription offers us an interesting corrective in that it complicates the 
+well-worn strategy of identifying the specific Tantric affiliations of individuals in the 
+inscriptional record solely on the basis of textual prescriptions. Within a discursive space 
+where the chief ācārya derives his authority from his Kālamukha dīkṣā, here, in a single 
+institutional network, we find adepts with names in –deva/īśvara overseeing the activities of 
+yogins bearing the names -śakti and -rāśi. All of these are titles we typically read as signifying 
+institutional and theological differences between different types of Śaivas. Respectively, as we 
+saw in chapter 4, -deva/īśvara are the sort of monikers we associate with off-brand Kālamukha 
+traditions, whereas Kālamukhas with names ending in -śakti typically are identified as 
+belonging to the Śaktipariṣad, though in fact the name is assigned in the Tantras to any kinds 
+of Śākta adepts, and adepts labelled –rāśi are classified as Pāñcārthika Pāsupata. If the 
+prescriptive sources view these identities as discrete and incommensurable, it seems that on 
+the ground, either for logistical reasons or because such distinctions were less pertinent than 
+we have imagined, by the twelfth century, all these types of ascetics are not only sharing space 
+and institutional affiliations, but even, as seems to be the case with Kalyāṇaśakti becoming 
+Brahmarāśi, taking specialized initiations that enable them to seamlessly pass between camps 
+without in any way impacting their institutional affiliations. 
+There is, however, one notable rather shocking aporia in our text’s capacious embrace 
+of seemingly Atimārga and Mantramārga identities: regardless of whether one attends to the 
+1022 
+written or material record, in the region around Ardhapur, especially at Āmarddaka itself, there 
+is not the slightest trace of the Śaiva Siddhānta.955 What makes this documentable reality so 
+utterly astounding is that the quasi historical genealogies of the two most prominent monastic 
+traditions within the Śaiva Siddhānta tradition, namely, that of the Mattamayūra centers in 
+Madhya Pradesh, as well as the transregional networks of Golagī, with major centers especially 
+in Tamil Nadu and Andhra, both trace themselves back to a figure called Rudraśiva or 
+955Perhaps the clearest demonstration of Āmardaka/Āmarddaka’s centrality to telling the history of Śaiva traditions prior to the contributions of the last few decades by Dominic Goodall and Alexis Sanderson is to be found in Richard Davis, “Aghoraśiva’s Background,” Journal of Oriental Research Madras (Dr. S. S. Janaki Felicitation Volume) 56–62 (1992): 373. “Aghoraśiva was apparently affiliated with the monastic network or lineage known of as Āmarda of Āmardaka. In the Prāyaścittasamuccaya Trilocanaśiva traces his own lineage starting with Durvāsas who, he says, established the guruvaṃśa at Āmardaka, through a number of preceptors. . . . Elsewhere Trilocanaśiva identifies himself with Āmardāśrama and his commentator Anantaśambhu restates this.” Davis continues on to survey the inscriptional record, focusing on the inscriptions of the Mattamayūra tradition of the Śaiva Siddhānta, found mostly in Madhya Pradesh, such as the text from Ranod. These tell the story of a certain Āmarddhakatīrthanātha, whose immediate disciple, Purandara is said to have established the main ritual center of the Mattamayūra in central Madhya Pradesh under the sponsorship of a king named Avantivarman. Davis then shows how, through the spread of the Mattamayūra, self-identifying Āmardaka-aligned maṭhas are disseminated throughout the subcontinent. Such claims also seem to be being made by more ambiguous figures, like the Keralan author Īśānaśiva of the Īśānaśivagurupaddhati, which is not strictly a Śaiva Siddhānta work. 
+A comment by Dominic Goodall (pg. 187, 191) in his study of the unpublished paddhatis of Rāmanātha, the likely Śūdra author who writes the first extant works of the Śaiva Siddhānta composed in the Tamil country to survive, however, complicates this implausibly neat picture, for he shows that Aghoraśiva’s penultimate verses, which are adapting Rāmanātha’s, replace Rāmanātha’s original mention of Golagī with Āmardaka, posing the possibility that by the eleventh century, whatever connections may once have existed had become tenuous and that the rhetorical emphasis in thirteenth century and later works is simply building on Aghoraśiva’s own sleight of hand. “Note that verses 1 and 2 are identical with the verses that introduce the brief account of Aghoraśiva’s genealogy at the end of his Dviśatikālottaravṛtti, which have been edited in Goodall 1998:xiv, fn. 24. The following verse there, however, although clearly related to our verse 3, places emphasis on Āmardaka, rather than on Golakī, as the most important of the Śaiva monasteries: see below. . . . In place of verses 3–5 of our text, the corresponding section of the conclusion to the Dviśatikālottaravṛtti (Goodall 1998:xiv, fn. 24) has been reconstructed to read as follows: tebhyaḥ śivakulād ādyād utpannā gurusantatiḥ śrīmadāmardakaṃ nāma sthānaṃ mokṣasya bhārate guravas tatsamudbhūtā nānāścaryavidhāyinaḥ.” Dominic Goodall, “Saiddhāntika Paddhatis I. On Rāmanātha, the Earliest Southern Author of the Śaivasiddhānta of Whom Works Survive, and on Eleventh- Century Revisions of the Somaśambhupaddhati,” Cracow Indological Studies 16 (2014): 187, ftn. 60, 63. “Durvāsas is elsewhere usually associated not with Golakī, but with Āmardaka, e.g., in Anantaśambhu’s commentary on Siddhāntasārāvalī 116 (penultimate verse of the kriyāpāda, and the banyan tree is the emblematic tree of Raṇabhadra. But such an association may not be very old. The earliest account of the gocaras in which it appears is probably that of Aghoraśiva in his Gotrasantati (pp.428–9), which appears at the end of the Mahotsavavidhi that is attributed to him. And, as we have seen above (in footnotes 60 and 63), Aghoraśiva appears to have adopted and adapted Rāmanātha’s account of the gocaras, changing Dūrvāsas’ association with Golakī to an association with Āmardaka.” Goodall, “Saiddhāntika Paddhatis I,” 191, ftn. 98. Goodall’s subsequent demonstration that the ascription of the Gotrasantati to the famous Aghoraśiva in the first place is probably itself erroneous further complicates matters. 
+1023 
+Rudraśambhu who bore the title Āmardakatīrthanātha and was said to have transmitted the 
+teachings while occupying the seat in his monastic center within the Daruvāna.956 Even more 
+pointedly, in the twelfth century while occupying the lineage throne at Cidambaram in Tamil 
+Nadu, Aghoraśiva himself invokes scriptural authorities with the aim of demonstrating that 
+Āmardaka is the place where the dualistic Śaiva traditions of the Siddhānta carried by Durvāsas 
+first descended into the world.957 
+956 In his article “The Impact of Inscriptions on the Interpretation of Early Śaiva Literature,” in the context of historicizing the emergence of the Śaiva Siddhānta within the documentary record, Alexis Sanderson documents what seems to be the earliest reference to Āmardaka: “The epigraphic record also provides evidence of the monastic tradition that provided the institutional basis of the Saiddhāntika Mantramārga. The earliest evidence of this kind to have come to light is an inscription from Senakapāt in Chattisgarh, close to Sirpur, the ancient capital of Dakṣiṇa Kosala, undated but issued under the Pāṇḍuvaṃśin king Śivagupta Bālārjuna, who ruled this kingdom between the approximate limits of AD590 and 650. Reporting a grant to an ascetic called Sadāśivācārya, it tells us that he is the disciple of a disciple of the ‘brother’ of an ascetic Sadyaḥśivācārya who was originally from the hermitage at Āmardaka. This enables us to say that in all probability the establishment at Āmardaka, which can be recognized from the many references to it in later inscriptions and Śaiva texts from many areas to have been the mother institution to which all subsequent Saiddhāntika branchlineages traced their authority, was already in existence in the sixth century. There have been several rash assertions about the location of this site. It has been placed in Western Malwa, in its capital city Ujjain, on the east coast at the mouth of the Mahānadī river in the Balasore District of Orissa, in Gwalior, near the Mattamayūra and Araṇipadra monasteries that were founded as its satellites, and in Bengal. But epigraphic evidence combined with references to the place in texts in praise of sacred sites establishes that it was in the Deccan at modern Auṇḍḥā /Aundah (19°32 N, 77°2 E) about 180km southeast of Sirpur and about 40km northeast of Parbhani.” Alexis Sanderson, “The Impact of Inscriptions on the Interpretation of Early Śaiva Literature,” Indo-Iranian Journal 56 (2013): 235–236. 957Ironically, confirmation for this position is also derived from the writings of the decidedly non-dualist Śaiva Abhinavagupta. Thus, in his discussion of a passage where Abhinavagupta has praised his teachers, when he speaks of Vāmanātha of the Āmardaka lineage, Sanderson has translated the line as: “Vāmanātha, son of the excellent Guru Eraka, [my] helmsman over the ocean of the [Saiddhāntika] Āmardaka lineage.” Alexis Sanderson, “The Śaiva Exegetes of Kashmir,” in Mélanges tantriques à la mémoire d’ Hélène Brunner/Tantric Studies in Memory of Hélène Brunner, ed. Dominic Goodall and André Padoux (Pondicherry: Institut Français d’ Indologie/École française d’ Extrême-Orient, 2007), 328. In doing so, he suppletes in the term “Saiddhāntika” despite the fact that, as he himself proves in the very same article, Eraka, whose Kramastotra served as the root text for Abhinavagupta’s lost—or at least misplaced—Kramakeli, was a nondualist teacher of the Kālī Krama remembered as a disciple of the yoginī Keyuravatī. In light of the material cultural evidence at Aundha and in the surrounding region of Parbhani, it is my suspicion that the allusion here is to a Krama transmission centered in this area and not the Siddhānta. Confirmation for this is provided by a remark highlighted and translated by Sanderson: “Tantrālokaviveka, vol. 3, p. 192, ll. 3–6: śrīkramasadbhāvādikaśāstrāśayataś ca patrikā atra | śrīstotrakārabhāskarakuladharapūrvāsu samtatiṣu ‘Authorizations in these lineages that descend from [Eraka] the venerable author of the [Krama]stotra, Bhāskara, and Kuladhara follow the doctrine of the Kramasadbhāva and [related texts].’” Sanderson, “The Śaiva Exegesis of Kashmir,” 320. This is intriguing because, as Mark Dyczkowski has shown me when I presented him with photographs from travels in the region, based on his recovery of the second half of the Kramasadbhāva, which he kindly read to me, the iconography of some remarkable images found in the surrounding region in Parbhani district are an almost perfect match with the phantasmagorical vision of Garuḍa carrying the Krama Kāḷī who has manifested as Lakṣmī in the arms of her consort Bhairava in the guise of the man-lion. It thus seems possible that the form of the tradition represented by the Kramasadbhāva was native to the Deśa or Marathwada. 
+1024 
+Indeed, as Alexis Sanderson has noted, the earliest documentary allusion to Āmardaka, 
+found in a seventh-century inscription from Chattisgarh, seemingly also identifies Āmardaka 
+as “the mother institution to which all subsequent Saiddhāntika branch lineages traced their 
+authority.” Though the modern-day pilgrimage center of Aundha contains a wealth of material 
+culture from a variety of periods, nothing extant survives from the seventh or even eighth 
+century, and thus it is entirely plausible that, at that time, Śaiva Siddhānta ācāryas had a major 
+presence in the region. By sometime in the ninth century, however, approximately when our 
+material cultural record commences, if they were present at all, their influence was much 
+diminished, and by the eleventh century they had essentially disappeared. 
+1025 
+Aurangabad Museum: Found in the vicinity of Parli Vidyanātha, fifty miles south of Aundh. 
+This is very clearly not just Caṇḍikā/Cāmuṇḍā but is intended as a depiction of a specific esoteric Śākta goddess. The crown, the snakes, the lotus, and the single figure on which she is easily seated render it plausible that the deity being depicted is a form of Kālasaṃkarṣiṇī, the chief goddess of the Kālī Krama. 
+1026 
+Though they are missing their heads, this image depicts Narasiṃha cradling a small image of Lakṣmī in his left hands while the two gods are borne aloft by Garuḍa. No such iconography is locatable in Vaiṣṇava sources, though this region of Maharashtra contains several such images. When this picture was shown to Mark Dyczkowski, he immediately connected it with the unpublished final chapter of the Kramasadbhāva, which he has discovered incorporated and cited within another Kaula work from Nepal. Reading from his unpublished translation, Dyczkowski showed how the Kālī of the cremation ground and her Bhairava, at the end of their reveries, are carried up into the air by Garuḍa, whereupon they transform into more saumya forms of Narasiṃha and Lakṣmī. Profound thanks to Mark Dyczkowski for sharing this discovery. We await its publication along with the edition and translation what survives of the Kramasadbhāva. 
+Though the modern-day pilgrimage center of Aundha contains a wealth of material culture 
+from a variety of periods, nothing extant survives from the seventh or even eighth century, and 
+thus it is entirely plausible that, at that time, Śaiva Siddhānta ācāryas had a major presence in 
+1027the region. By sometime in the ninth century, however, approximately when our material 
+cultural record commences, if they were present at all, their influence was much diminished, 
+and by the eleventh century they had essentially disappeared. 
+When Mallugi visited his Kālamukha teachers at their sacred center, the built landscape 
+he encountered would have included much of the same temple infrastructure we encounter 
+today. Built over a passage deep in the ground that contains a pātāla liṅga, the temple at 
+Aundha we now call Nāganātha is today typically incorporated into the canonical list of the 
+twelve jyotirliṅgas, likely an early modern formulation.958 Though essentially ignored by both 
+Indian and Western scholarship, Nāganātha’s exterior walls, a composite work executed in the 
+eleventh, twelfth and early-thirteenth centuries, contain some of the richest and the most 
+innovative sculpture in the western Deccan, including some of our most detailed and varied 
+representations of the devotees of Bhairava. One immense panel in particular, found on the 
+958 As Christian Novetzke has noticed in passing in The Quotidian Revolution, in an episode in the late thirteenth- century Marathi Līlācaritra, which depicts the story of the wandering of the Mahānubhāvika living god Cakradhar, in one of his līlās, Cakradhar imitates the prayers of a Śūdra Śaiva with the intention of teaching his devotees a lesson. As the passage shows us, apart from speaking in a specific dialect of Marathi, Cakradhar’s mimesis involves taking off his shirt, smearing his forehead with ashes, and standing by the drainage ditch outside of the temple while reciting a prayer that runs: “Sorathi Somanath! Aundha Naganatha! Parli Vaijanath! One hundred Liṅgas! One thousand Liṅgas! [I do] prostration [to them]! . . . This is how Shudras encounter god.” Christian Novetzke, The Quotidian Revolution: Vernacularization, Religion, and the Premodern Public Sphere (New York: Columbia University Press, 2016), 188. We thus have indication here that in thirteenth century, this network was restricted to linking three sites, two of which have close affiliations with Śākta social imaginaries. While Novetzeke in his analysis suggests that the positioning of this imagined Śūdra outside the temple is an expression of the ideology of varṇāśramadharma, in this particular case there were probably other reasons a lay worshipper would have been excluded from the temple’s interior. Housed inside of a cave that offers ample room for Śākta rites, the presence of a pātāla liṅga as the central focus of worship at Aundha Nāganāth marks this ritual center as a hyper-differentiated space to which lay people would have had little to no access regardless of their caste background. 
+1028 
+exterior wall of the temple, should put to rest any lingering associations one might have 
+with Āmardakatīrtha as the central hub for Śaiva Siddhānta traditions in the medieval period. 
+1029 
+Aundha Nāganātha, exterior: T: Immense panel of a “Nātha-like” yogī with earrings and turban and a bearded ascetic flanking a sacrifice being made to an immense six- armed form of Śiva. B: Detail of the sacrificial offering of goat or cow, with devotees waiting to offer or to be offerings. 
+In one of the largest panels that appears on the temple, an ascetic dressed in the garb of a Nātha 
+yogin prepares to sacrifice an animal—it is unclear whether it is a goat or a cow—on 
+a balipīṭha before what is either a giant mūrti of a multi-armed Śiva or the god himself. A line 
+of devotees, one of whom seems to hold a dagger, reverently attends to the sacrifice. Next to 
+the pīṭha, a human figure is seated on a similar sort of structure, and it is unclear whether he is 
+L: Detail of another “Nātha” yogin. R: Seated on a fish, one of three images of Matsyendranātha. 
+waiting to serve his turn as ritual officiant or ritual offering. Framing this scene, almost as large 
+as the lord himself, are twenty-foot-tall representations of two very different types of ascetics. 
+While the figure on the right has a long beard, similar to those we find on ācāryas, and a small 
+water jug, the figure on the left is clean shaven and bears the turban and accentuated pierced 
+ears we find in early representations of Nātha yogins. That this resemblance is no mere accident 
+is in turn confirmed by the incorporation of several small images of Matsyendranātha on the 
+temple’s exterior. 
+1030 
+Mixed in among the types of dreadlocked ascetics we typically identify as the quintessential 
+image of a Kālamukha, representations of Nātha yogins at Aundha are present in the portions 
+of the material culture that date back to the twelfth and early thirteenth centuries. However, 
+traces of an even older register ascetic traditions, including some exquisite portraits, the 
+products of a preceding stages in the history of the ritual center that seem to substantially 
+predate the temple itself, are also present throughout the ritual complex. 
+Aundha Nāganātha: Portraits of yogins: Top left: Displaced door lintel with seated yogin, Cāḷukya/Seuṇa Top right: Large portrait of yogin with loin cloth, Rāṣṭrakūta. Bottom left: Large portrait of kneeling yogin, Rāṣṭrakūta period. Bottom right: Seated ācārya with attendants, crudely rendered and of unknown provenance. 
+1031 
+Such portraits some of which may have been produced under the later Rāṣṭrakūṭas, can be 
+subdivided into two categories. In the images above, in a phenomenon that Peter Bisschop has 
+documented within the Śivadharma corpus as early as the seventh century, whether seated in 
+padmāsana or a range of other postures, the Śaiva yogin, his hair well kempt, his body slender, 
+his face peaceful, is represented as an androgynous figure akin to the Buddha.959 In contrast, 
+in other images, some of them clearly executed by the very same hand, the figure of the heavily 
+dreadlocked ascetic is almost sensual, suffused at once with wild vigor and a regal demeanor. 
+Though its integration into the composition is far more subtle than in most of the figures we 
+have seen, many of these captivating images are also depicted with a skull bowl. 
+Aundha: L: Portrait of clean shaven dreadlocked yogin, ninth – tenth century. R: Portrait of bearded ācārya with skull bowl, Rāṣṭrakūṭa period. 
+959Peter Bisschop, “The Teachings of the Śivadharma” (presentation, Beyond Boundaries: Religion, Region, Language and the State, SOAS, London, UK, Oct. 13, 2015). Slides accessed 4/7/2023 at: 
+https://www.academia.edu/16784948/The_Teachings_of_the_%C5%9Aivadharma?fbclid=IwAR2hLdCCs_VU d-KSIj-esbhjlXdJimBK_q5U8q7qO3C_mOUsA1mhexjg2U8. 
+1032 
+Aundha: L: Portrait of long-bearded dreadlocked yogin with skull bowl, ninth – tenth century. 
+While we sadly lack the type of textual record that would enable us to write a proper 
+institutional history, in its general contours it seems like the evolution of the professional 
+religious community at Aundha followed a trajectory in many ways rather similar to what we 
+found at Kukkunur. Here too, over the course of late medieval period, a ritual center under the 
+control of Lākulas of the Atimārga, where the ruling authorities were skull-bearing ascetics, 
+seems to have become increasingly enamored with Śākta Kaula modes of worship and 
+theological understandings, including a nascent siddha tradition where perfected gurus 
+increasingly displace the gods themselves as a major focus of worship. The walls of Aundha 
+also bear witness to this story, for even with all of its hundreds of intricate representations of 
+1033 
+deities, the largest figures on the temple exterior are three colossal seated yogins embedded in 
+three dimensional maṇḍalas. 
+As we can see, the pīṭha on which this siddha is seated is encircled by the mothers. In 
+other cases, we also find incorporated the two guardian figures of Gaṇeśa and Baṭuka Bhairava. 
+Immediately above him—though one figure is now almost entirely missing—seated in a range 
+of postures we find the remains of nine yogins. As for Naṭeśa, who would usually adorn this 
+surface in a temple in the Deccan, he has been exiled to the canopy immediately above the 
+siddha where he dances ecstatically, holding a skull bowl and chopper. On the other side of 
+the temple, another siddha sits enthroned in a very similar context, with Umāmaheśvara 
+replacing Naṭeśa. On the far-right corner of this platform, a naked female figure appears to be 
+Aundha Nāganātha, exterior: Immense image of a “Siddha” with attendants (one of three). Plausibly depicts one of the three Yuganāthas, who brought down the Śākta revelation. 
+1034 
+servicing a mostly naked male initiate. Elsewhere, this spot is occupied by a female ascetic in 
+Kālamukha garb. L: Detail from siddha platform, right corner, naked female servicing adept. R: Female and male adepts. Notice the male adept wears a similar necklace. 
+Aundha Nāganātha, exterior: Top left: Detail of right side of platform on which Siddha (below) is seated, showing female practitioner engaged fellatio of adept. Top right: exterior panel, showing male “nātha” and female Kālamukha adepts in authoritative positions. Bottom: Immense Siddha and retinue. 
+1035 
+imposing mustached face emerging from the top of his head, has a serene disposition. 
+Embracing much the same logic we have seen on display earlier in chapter 5 at the Cāḷukya 
+temples at Umapur and Māṇakeśvara, where either an image of Umāmaheśvara or a liṅga 
+positioned between the god and goddess instantiate the yāmala of Śiva and Śakti, here 
+translating into visual culture the core Kaula teaching that sacred sites are found within the 
+human form, the body of the Siddha itself becomes their meeting place. 960 
+960Though in the absence of more particularized evidence we are simply left to speculate, it is tempting to identify these three colossal siddhas with figures from Kaula revelation such as the yuganāthas, for whom we unfortunately have no iconography. Were this the case, as Matsyendranātha appears here separately, they would represent his three predecessors who brought down the Śākta revelation. 
+Aundha Nāganātha exterior: Five-headed, many armed Bhairava with two attendants. 
+1036 
+Here, the deities positioned on either 
+side of the Siddha offer us tantalizing 
+clues to the theological order of the 
+day. On the siddha’s right, just as we 
+saw at Balligave in the temple of the 
+goldsmiths, Durgā is atypically 
+depicted slaying an elephant demon. 
+On the siddha’s left, however, we find 
+an exceedingly rare representation of a 
+multi-headed ten-armed Bhairava. 
+Attended to once again by Nātha 
+yogins, our Bhairava gestures in 
+mudrā and, notwithstanding the rather 
+imposing mustached face 
+In Marathi social imaginaries from a slightly later period, Aundha is perhaps most 
+renowned as the place where the Vārkarī poet saint Nāmdev (thirteenth/fourteenth century),961 
+whose birthplace at Narsi Baman lies within walking distance, encountered his Nāth guru, 
+Visobā Khecar. In the earliest textual traditions, including the Ṣaṭsthal962 ascribed to him, 
+Visobā Khecar is remembered as an artisan by trade—in the hagiographical literature, 
+specifically a as goldsmith—who worships Sadāśiva in the form of Viśvakarman and is a 
+master of subtle body yogas.963 That Aundha at this time was as yet another ritual center where 
+Kālamukhas engaged in Śākta forms of praxis while mentoring artisan communities finds 
+confirmation in a fragmentary inscription issued by the Seuṇa Yādava king Siṅghaṇa II in the 
+year 1234. For here, from his post at Devagiri (śrīdēvagiri adhiṣṭhāna), the Yādava king 
+961For Nāmdev, see Christian Novetzke, Religion in Public Memory: A Cultural History of Saint Namdev in India (New York: Columbia University, 2008). Nāmdev and Visobā Khecar’s encounter at Aundha is mentioned in an at times intriguing but highly speculative article, Kumud Kanitkar, “Aunḍhā Nāganātha Temple. Paradigm Shift in Imagery: Jñāna Mārga to Bhakti Mārga,”in Temple Architecture and Imagery of South and Southeast Asia, ed. Parul Pandya Dhar and Gerd J. R. Mevissen (New Delhi: Aryan Books International, 2016), 189–207. This is the only study of Aundha apart from the deeply problematic discussions of Deglurkar, which it entirely supersedes. G. B. Deglurkar, Temple Architecture and Sculpture of Maharashtra (Nagpur: Nagpur University, 1974). 962The Ṣaṭsthal of Visobā Khecar was discovered by Ramachandra Chintamani Dhere and discussed for the first time in his early work, Cakrapāṇi. Ramachandra Chintamani Dhere, Cakrapāṇi (Pune: Visvakarma Sahityalaya, 1977). The text, which offers at once probably the oldest treatment of the typically Vīraśaiva formulation of the ṣaṭsthala, in fact offers a polemic against the wearing of a physical liṅga. Instead, it prescribes the worship of the liṅga within the subtle body. The Ṣaṭsthal places Visobā Khecar in a lineage of the Vaṭeśvara tradition descending from Matsyendranātha to Gorakṣanātha. Visobā claims that his own guru was Caṅgadeva and that his paramaguru was the yoginī Muktāi, now remembered among the Vārkarī as the poet saint sister of Jñanadev: śivayogajñāna kathīle / siva ahīkyāceṃ / te muktāi cāṃgayācā guru / āṇi prasanna ase vaṭeśveru / tethuniyāṃ vistāralā saṃpradhārū / vaṭeśvarācā / to cāṃgadeva āpaṇa / vaṃdi guru muktāice caraṇa / sīvayogajñāna nirvāṇa / vaṭeśvarapaṃthī / liṅganiṣṭā nemu / esāṃ cālavilā sīvadharmu / Ramachandra Chintamani Dhere, ed., Visobā Khecar-Viracit Ṣaṭsthal (Solapur: Aboli Prakashan, 1999), 53, vs. 1.74–76. Thanks to Vidula Hemant for securing a scan of this rare publication published in a limited print run. In his introduction to the text, Dhere documents numerous continuities between this work and the unpublished Marathi śilpaśāstra we examined in the previous chapter, suggesting they were produced by the same community. He also shows that Caṅgadeva, the author of Tattvasār, is associated in the surviving material culture with standing images of Viśvakarman, including one at Pandhapur. Much like the ones we have examined before, these are quite clearly originally intended as representations of Svacchanda Bhairava. 963The concluding portion of the first chapter of the Ṣaṭsthal is a meditation on the five-foldness and secret six- foldness of the creator deity and his śaktis with the iconography of Sadāśiva on the one hand and the structure of the subtle body on the other. For the homologation with Viśvakarman, see for example 2.269. 
+1037himself allots a donation to a temple of Kalmeśvara, the standard name throughout the Deccan 
+for the patron deity of goldsmiths, paired with the goddess Kasarakālikā.964 
+Even today, Vārkarīs make pilgrimage to a small structure that they believe is the site 
+of Visobā Khecar’s samādhi. The building in question, however, is at best a few hundred years 
+old, and all of the images it contains seem to date no earlier than to the time of the Peshwas. 
+In contrast, contained inside of a still operating Śaiva maṭha, the temple now called 
+Nīlakaṇṭheśvara that lies just down the road is a much more plausible candidate. Not only is 
+this an early medieval structure constructed before the middle of the thirteenth, but it is covered 
+in many visual representations of yogins engaged in postural yoga and meditation, and its 
+courtyards are full of dozens of samādhis of all shapes and sizes. 
+964Shrinivas Ritti, Inscriptions from Nanded District (Nanded: Shri Sharada Bhuvan Education Society, 1968), 205. As Amol Bankar has pointed out to me, Kasara is almost certainly a contraction of “kāsya-kāra,” one who makes bronze implements. 
+Aundha: Samādhi of Visobā Khecar as worshipped by Vārkarīs, early modern. 
+1038 
+Select details from Nīlakaṇṭheśvara temple, Aundha, plausible site of the samādhi of Visobā Khecar. The last large figure is found on the temple’s exterior, though it sadly has been painted in a modern style as a representation of Śrī Swamī Samārtha. 
+Aundha, Nīlakaṇṭheśvara temple: Details, yogins in āsana. 
+Aundha’s gradual embrace of a distinctively Kaula religious imaginary centered on 
+the veneration of yogins occurs at the expense of an older sensibility linked to the culture of 
+the cremation grounds. Of the hundreds of yogins incorporated on the exterior walls that are 
+not recycled from the earlier structure, not even one bears a skull bowl. As with the large 
+image, we see below a ten-headed seated Bhairava in-the-round that would once have been 
+1039 
+installed on the interior of a shrine, likely a product of the eleventh century. For all of Aundha’s 
+magnificence, it demands to be read as not primarily as an expression of a distinctively 
+Kālamukha culture, but rather as Tantric pīṭha that transposes into stone theological 
+innovations quite specific to this moment in historical time. 
+A particularly striking example of what Kālamukha culture has evolved into in the 
+sacred centers where such an identity is more pertinent is found in modern day Gadag district 
+in Karnataka, within the temple complex of Trikūṭēśvara. At the very end of his life in 1192, 
+Mallugi’s grandson Bhillama V (1173–1192) made pilgrimage and performed penance at one 
+of the most important, and best preserved, of the sacred centers dedicated by the Kālamukhas 
+for the training of the śilpins. 
+Aundha: Ten-headed life-size “peaceful” Bhairava in-the-round preserved in courtyard of Nāganātha. 
+1040 
+The king washed the feet of Siddhānticandrabhūṣaṇapaṇḍita, the sthānācarya of the self-arisen Trikūṭēśvara in our auspicious Kartuka [Gadag], an illustrious ācārya of ascetics who always spoke the truth. [Siddhānticandrabhūṣaṇapaṇḍita] was the disciple of Vidyābharaṇadēva, who was in turn the disciple of Somēśvaradēva. Having made it into an undying land grant, complete with all the usual things to be granted, endowed with the three enjoyments, endowed with the previously established borders, not to be pointed at with the finger of the king, he endowed a śāsana. . . . By him, this village was given on the occasion of the eclipse.965 
+The Gadag inscription of 1191, issued by Bhillama V, establishes a sarvamānya 
+endowment on behalf of Gadag’s Kālamukhas, with the Śākta-Śaiva guru who receives the 
+endowment simply being identified as “the paṇḍita who is the ornament on behalf of the 
+doctrine of moon,” a title evocative of trace remains of the tradition of the Somasiddhānta. 
+Sadly, after carefully delineating the extent to which the institution in question falls outside of 
+the purview of the state, our inscription, which must have been quite extensive, suddenly 
+breaks off into illegibility. Thankfully, as we will see momentarily, other nearly 
+contemporary śāsanas containing the same chancellery formulas persist in a much less woeful 
+state, making it possible to recover some of the religious world in which the Yādava king was 
+a willing participant. 
+Before we turn to these, however the maṅgala verse that opens this text demonstrates, 
+Bhillama V, for all his apparent familiarity and support of Kālamukha institutions, seems also 
+to have other religious commitments, one’s which from our perspective rest uneasily alongside 
+the worldview of the cremation ground culture. 
+May the enemy of Kaṃsa, in whose hand a resplendent conch shines, protect you. He is like a collection of foam that has spit forth from the agitation from the churning the ocean of milk. There is a family on the earth of the lion of the Kṣatriyas by the name of Yadu, which was ornamented by Hari by whom the incarnations were enacted out 
+965E. Hultzsch, ed. Epigraphia Indica, vol. III (Calcutta: Superintendent of Government Printing, 1894–95), 219: sūryagrahaṇē śrīmatkratukasvayaṃbhūtrikūṭēśvara-dēvasthānācāryasya sōmēśvaradēvaśiṣyavidyābharaṇadēva- śiṣyasya satyavākyāparanāmadheyasya śrīmatparamatāpasācāryasiddhāṃticaṃdrabhūṣaṇapaṃḍitadēvasya pādaprakṣālanaṃ kṛitvā[sic]. . . samastādēyasahitaḥ pūrvaprasiddhasīmāsamanvitō rājakīyānāṃ anaṃguliprēkṣaṇīyas tribhogayuktaḥ sarvanāmasyīkṛtya dvēdhā vibhajya dhārāpūrvakam saśāsanō dattaḥ / 
+1041 
+of play. . . . And of him there arose a son called king Bhillamadeva, marked with a conch, who was fascinated by the play in Vṛndāvana, as if he were another Kṛṣṇa.966 
+Inscribed on the walls of the Trikūṭēśvara temple, Bhillama’s śāsana opens with a verse 
+in praise of Kṛṣṇa before proceeding, in the first time within our discourse, to rhetorically 
+cultivate both a general connection between the Seuṇa clan with what is typically read as 
+Vaiṣṇava theological patrimony as well as a very specific portrait of the current king as 
+“fascinated by the play in Vṛndāvana” (vṛṃdāvanakrīḍākautukī). It seems then that if our 
+Yādava kings were still keeping the company of Kāpālikas, the skull bearers in question were 
+increasingly becoming Kṛṣṇa curious. 
+966Epigraphia Indica, vol. III, 219: avatu sa vaḥ kaṃsāriḥ kumudarucir bhāti yatkarē śaṃkhaḥ / kṣirādbhimathanasaṃbhramasaṃkrāntaḥ phenapuṃja iva // asti kṣattriyasiṃhasya yadunāmnaḥ kulaṃ bhuvi / līlākṛtāvatāreṇa hariṇā yad alaṃkṛtam //. . . . tasya ca jātō vṛṃdāvanakrīḍākautukī śaṃkhalāṃcchanaḥ / rājā bhillamadēvākhyaḥ sutaḥ kṛṣṇa ivāparaḥ // 
+Trikūṭēśvara, Gadag. Details: the culture of the cremation grounds 
+in close proximity to Kṛṣṇa līlā. 
+1042 
+Thus, for example, on one of the porches at the Trikūṭēśvara temple, we are confronted 
+with very different sorts of panels, all of them situated in close proximity with each other. On 
+the top, two devotees bow before a female teacher who is seated under a tree, while on the 
+right, Bhairavī is attended to by two of her ghouls. Yet at Gadag, we are beginning to see a 
+striking convergence of the realm of Bhairava and the Vaiṣṇavas, with several stories from 
+Kṛṣṇa’s līlā, such as the instance presented above, being prominently featured on the temple’s 
+exterior walls. 
+Sometime shortly before Bhillama’s Gadag inscription was composed,967 a mere six 
+miles from Trikūṭēśvara at present day Lakkundi, the Seuṇa Yādava army was thoroughly 
+routed by the Hoysala forces and its main commander serving under the king himself was 
+killed. Much like Waterloo in the Western imagination, Bhillama’s defeat seems to have 
+entered into the wider Deccani lexicon of shared cultural memory, such that his bad fortune 
+could become the focus of a word problem found in a Kannada primer on mathematics a 
+generation later. At the time of the battle, the Yādavas had been making camp outside of 
+another major Kālamukha complex—Lakkundi—albeit one aligned with the Siṃhapariṣad, 
+which for hundreds of years had served as an important site for the minting of coins. Despite 
+the ferocity of the conflict that was carried out right in the backyard of these admittedly more 
+staid Kālamukahs, we have no indication that either army violated the grounds of the city nor 
+967Starting from the writings of Fleet, it is a common belief in the literature on the kings of the medieval Deccan that the disastrous battle at Lokkaguṇḍi, where the army of Bhillama suffered a crushing defeat at the hands of the Hoysala armies, resulting in their loss of control of the Kuntala country to the Hoysalas for a generation, took place right after the issuing of the Gadag inscription in 1191. However, as Ritti has demonstrated, this battle actually seems to have occurred sometime between 1189–1190, which is to say before Bhillama and his generals visited Gadag. See Shrinivas Ritti, The Seuṇas: Yādavas of Devagiri (Dharvad: Karnatak University, 1973), 84– 85. While such quibbling over dates often seems like a mere act of pedantry, in this case the recognition of precise chronology is of considerable conceptual significance, for it offers a compelling demonstration of how kingdoms in the medieval Deccan were envisioned as territorial states and that ownership and access to land, resources, and ritual centers had a complex relationship with power politics. 
+1043 
+that the Kālamukhas took sides. This is of course perfectly in keeping with the legal strictures 
+we have examined in chapter 3, where the autonomy of sarvamānya grants governed by those 
+outside of the purview of the state goes hand and hand with their providing passing royal armies 
+with a place to camp and provisions during their stay as well as the neutrality of these centers 
+vis-à-vis political conflicts between different powers. 
+What the inscription of 1192 CE issued at Gadag by the Hoysala King Baḷḷāla makes 
+evident however, is the other side of this social contract. When kings entered into 
+the sarvamānya domains of religious communities, barring special relationships with a 
+specific preceptor, they themselves observed a sort of functional neutrality in which they acted 
+out a particular socially prescribed role virtually interchangeably.968 Instead of twenty heavily 
+damaged lines, Baḷḷāla’s inscription offers us fifty-three nearly pristine verses, and so it is 
+hardly surprising that its insights into the heterogeneous cultural texture present 
+968Epigraphia Indica, vol. III, pg. 219: bhillamadevākhyaḥ. . . . hērūrāsamāvāsitavijayaskhaṃdhāvārēṇa śakanṛpakālātītasaṃvatsaraśateṣu trayōdaśādhikēśvēkādaśasau varttamānavirōdhakṛtsaṃvatsarāṃtargata- jyēṣṭhāmāvāsyāyām ādityavārē sūryagrahaṇē śrīmatkratukasvayaṃbhūtrikūṭēśvaradēvasthānācāryasya sōmēśvaradēvaśiṣyavidyābharaṇadēvaśiṣyasya satyavākyāparanāmadheyasya śrīmatparamatāpasācārya- siddhāṃticaṃdrabhūṣaṇapaṃḍitadēvasya pādaprakṣālanaṃ kṛtvā bĕluvŏlatriśatāṃtargatahiriyahaṃdigōlanāma- grāmaḥ saśulkakarabādhāparihāraḥ samastādēyasahitaḥ pūrvaprasiddhasīmāsamavitō rājakīyānām anaṃguliprēkṣaṇīyas tribhōgayuktaḥ sarvanamasyīkṛtya dvēdhā vibhajya dhārāpūrvakaṃ saśāsanō dattaḥ / tatraikō bhāgas tasyaiva bhagavatas trikūṭēśvaradevēsyā. 
+sōmagrahaṇē tasya kāḷamukhācaryyasōmēśvaradēvapraśiṣyasya vidyābhārarṇadēvaśiṣyasya satyavākyāparanāmadhēyasya śrīmadācāryyasidhdhānticaṃdrabhūṣaṇapaṃḍitadēvasya pādaprakṣālana[ṃ] kṛtvā rājñā rājakīyair apy anaṃguḷiprēkṣaṇīyam sarvvanamasyaṃ kṛtvā dhārāpūrvvakaṃ bhaktyā dattavān. E. Hultzsch, Epigraphia Indica, vol. VI (Calcutta: Superintendent of Government Printing, 1900–1901), 97. The Baḷḷāla śāsana (pg. 89–97) is substantially longer in its extant state and it assigns a much more detailed delineation of what precisely is intended by giving away “everything allotted to the land grant, along with the delineated boundaries” (samastādeyasahitaḥ pūrvaprasiddha-sīmāsamavito), as per prior precedent, to an earlier portion of the text that directly precedes the passage we have just examined. These include rights to deposits of treasure and minerals found on the premises, water rights, gardens, the three kinds of taxes, the eight enjoyments, and all substances/goods produced on the premises, all of which are to be assigned to the Kālamukha svāmi himself, as well as the juridical authority to impose punishments (pūrvv-prasidhdhsīmāsamanvitaṃ nidhinikṣēpaḥ jaḹapāśāṇārāmādisahitaṃ tribhogābhyaṃtaram aṣṭabhōgatējaḥsvāmyayuktaṃ śulkadaṃḍādisakala- dravyōpārjjanōpētaṃ) (Epigraphia Indica, vol. VI, 97). Nevertheless, in regard to both the ritual roles assumed and the legal rights assigned and confirmed, we can see that the Hoysala and Yādava kings are in perfect agreement. 
+1044 
+at Trikūṭēśvara are considerably more substantive than what we find in the Seuṇa records, 
+which, when intact, given the chancellery conventions evident in the production of other texts 
+on site, would likely have contained at least some similar materials. As we might expect, 
+Baḷḷāla’s self-presentation emphasizes both his military prowess and magnanimous and 
+generous nature, two key aspects in presenting oneself as a great king. Somewhat more 
+eccentrically, however, the text also invests considerable rhetorical effort in evoking the 
+Hoysala king’s similitude with Trikūṭēśvara’s own ruling power, the Kālamukha pontiff 
+Siddhāntīcandrabhūṣaṇapaṇḍita. In each instance, offered in rapid succession, this case is made 
+through a creative deployment of śleṣa, in which the wordplay centers around a lexeme that 
+has both quotidian meaning and serves as a term of art in Kālamukha and Śaiva circles. 
+Towards this end we are told that Baḷḷāla, “like a moving mount Meru, foremost among 
+mountains/kings, because he is served by learned people, because he has so much gold, because 
+of his height/loftiness, and because he is centrally positioned,” is a jangama.969 The qualities 
+of this Hoysala king, we learn, are so downright unprecedented and otherworldly—lokottara— 
+a classic designation of Atimārga II, that while until now, “the stories of the Mahābhārata and 
+so forth have been remembered here on earth,” his “hitherto unseen (lokottara) auspicious 
+qualities” in effect render them obsolete, such that they will be forgotten.970 In much the same 
+way, the tales of the devotional acts of Prahlāda and other bhaktas will cease to produce wonder 
+among men, once the word begins to spread of Baḷḷāla’s own devotions directed to Viṣṇu.971 
+Apparently, much like Bhillama himself, Baḷḷāla’s ecumenism encompassed holding some 
+969Epigraphia Indica, vol. VI, 95: mādhyasthyēnōnnatyā kāṃcanavibhavēna vibudhasēvyatayā / yō jaṃgama iva mērur mmahībhṛtāṃ agraṇīr jjagati / 970Epigraphia Indica, vol. VI, 95: sīṃātikramabhīror atigaṃbhīrasya vipuḷasat[t]vasya / ratnākarasya yasya ca na kō ’pi lakṣmīvatōr bhbhēdaḥ / caritaṃ bharatādīnāṃ api bhuvanē tāvad eva bō[dh]yam iha / lōkōttarā na yāvad dṛśyantē yasya sādhuguṇāḥ / 971Epigraphia Indica, vol. VI, 95: nisargasidhdhāṃ bhaktiṃ yasyādya paśyatāṃ puṃsāṃ / prah[l]ādādikathā api na visamayāya prakalpantē // 
+1045 
+Vaiṣṇava commitments at the same time as he wholeheartedly went out among the 
+Kālamukhas. Just like the typical Kālamukha pontiff, the Hoysala king is said to be a “lion to 
+the intoxicated elephants that are the challengers,” “wheel turning sovereign among the 
+logicians upon the earth “skilled in. . . tarka, poetry, theatre, kāmaśāstra, the Mahābhārata, 
+and the rule of kings, and also in the entirety of the various other śāstras.972” Just like the 
+Śākta-Śaiva yogins, “when it comes to the rites for coercing the populace on the part of those 
+who are play in this world,” Baḷḷāla’s name has become a “perfected mantra” that instantly 
+accomplishes the envisioned task.973 The Hoysala King Baḷḷāla is not Govindarāja. He lays no 
+special claim to sacerdotal authority let alone salvific power. But as these texts lay bare, this 
+appears to be a social domain as a well a historical moment when the rhetoric for depicting 
+greatness of any sort is inclined to poach upon the specific imaginaries of the Kālamukhas. 
+For his part, our text paints Candrabhūṣaṇa the Kālamukha himself not just as a 
+religious authority and holy person, but as a great and munificent patron: 
+In the village called Kratuka, there is a self-arisen [liṅga] named Trikūṭēśvara. The delightful pīṭha of this [form of] Śiva is tinted by the radiance from the gems on the crests of all the kings [who bow down before it]. The sthānācārya [of Trikūṭēśvara] has come forth from the lineage of Kālamukhācāryas and his name is Siddhāntīcandrabhūṣaṇapaṇḍitadeva. [Learned people] know that Trikūṭēśvaradeva, with its three stationary liṅgas, seems as if it really has four peaks, for [the three liṅgas] are complemented by the jaṅgama [moving liṅga] [who is Siddhāntīcandrabhūṣana- paṇḍitadeva]. 
+Resplendent like Śiva, amidst the [crowds of] women, he [Siddhāntīcandrabhūṣaṇa- paṇḍitadeva] maintains celibacy. [He can do so in fact] because he is unceasing in his [sexual union] with Gaurī; she abides as half his own body. 
+Even when the mountains are wavering/among the Kula mountains, even though the 
+972Epigraphia Indica, vol. VI, 95: ṣaṭtarkkakāvyanāṭakavātsyāyanabharatarājanītiṣu / anyēṣu tēṣu tēṣu ca śāstrēṣv akhiḷēṣu yaḥ kuśalaḥ / sarvvēṣu darśanēṣu ca bhuvi tārkkikacakravarttinō yasya / naivāsti prativādī vādimadadviradakēsariṇaḥ / 973Epigraphia Indica, vol. VI, 95: yannāmadhēyaṃ api viśva[vi]ḷāsinīṇāṃ lōkē vaśīkaraṇakarmmaṇi sidhdhamaṃtraḥ / 
+1046 
+oceans transgress their limits, he does not abandon the truth, for he has as his second name the one whose speech is true. And there is none who is his match, found in all of the doctrinal schools and all in stories, poetry, theatre, kāmaśāstra, the Mahābhārata, and the rules of kings. 
+It might be that one might someday see the waves of the ocean take repose. But it will never be that that one [Candrabhūṣaṇapaṇḍita] who by his very nature partakes of compassion will cease from bestowing [food] to those who eat in the houses for feeding. Nor is it food alone; but also [when it comes to giving] gold, medicines, water, clothes and other such things, there will never be an end to the people who are ceaselessly satisfied [on account of his munificence]. 
+And by him, here, in his very place, having supported complete renovations [to Trikūṭēśvara], having constructed a beautiful new city, was established a path for the courtesans, right in the vicinity of the god. He made a big well, full of potable water similar to nectar, and a grove resembling the forest of Indra, encircled all about by many types of vines and flowers. What is the worth of further sophistry? Everything that exists outside the stone, the walls, and enclosure—that was his construction.974 
+While in the year 1193 CE, to someone living in Gadag, the extent of 
+Candrabhūṣaṇapaṇḍita’s contributions on ground may well have been so readily apparent that 
+to elaborate more would have proved mere sophistry, today with the courtesan’s path effaced 
+and the garden’s gone, just what facets of Trikūṭēśvara represent his contribution is much more 
+opaque. The temple itself, for instance, is clearly a composite structure, much of which 
+considerably predates the end of the twelfth century. While with a name like Trikūṭēśvara, one 
+might anticipate that this was a typical three-shrined temple complex with multiple 
+garbhagṛhas, the actual liturgical structure of the temple is decidedly more complex. A single 
+974Epigraphia Indica, vol. VI, pg. 96–97: asti svayaṃbhūḥ kratukābhidhānē grāmē trikūṭēśvaranāmadhēyaḥ / śivaḥ samastakṣitipālamauḷimaṇiprabhāraṃjitaramyapīṭhaḥ // tasya sthānācāryyaḥ kāḷamukhācāryya- saṃtatiprabhavaḥ / sidhdhāṃticaṃdrabhūṣaṇapaṃditadēvādhidhō ‘sti muniḥ // taṃ trikūṭēśvaraṃ dēvaṃ liṃgais taiḥ sthāvarais tribhiḥ / jaṃgamēna samaṃ yēna catuḥkūṭēśvaraṃ viduḥ // satataśarīrārdhdha- sthitagaurībhṛśasaṃgamād vadhūṣv adya / śiva iva virajyamānō yō bhāti brahmacaryyasthaḥ // yaś ca // kulaśailēṣu calatasv api marryādām atipatatsu siṃdhuṣu ca / satyaṃ na satyavākyadvitīyanāmā parityajati // anyatra kā[v]yanāṭakavātsyāyanabharatarājanītyādau [nai]va kathāsidhdhāntēṣv akhilēṣv api yaysa nāsti samaḥ / yena ca // ādṛśyēta kadācid viśrāmō vāridhau taraṃgāṇāṃ / na tv ēva kṛpābhājā pradīyamānē ‘śnatāṃ sat[t]rē / annēnaiva na kēvalaṃ api tu suvarṇṇauṣadhāmbuvastrādyaiḥ / antō nāsti janānāṃ nirantaraṃ tarpyamāṇānām // yēna cātra sthānē // udhdhṛtya jīrṇṇaṃ akhiḷaṃ nirmmāya ca nūtanaṃ puraṃ ramyaṃ / dēvāntikam ānītā vēśyāvīthī sthitā parataḥ // amṛtōpamapānīyapūrṇṇā puṣkaraṇī kṛtā / vanaṃ ca nandanasāmyaṃ nānāpuṣpalatāvṛtam / kim jalpitēna bahunā grāvaprākāravaḷayabāhyam iha / yad yat samasti tat tat samastam api tasya nirmmāṇam // 
+1047shrine connected to the main complex by a maṇḍapa houses the remains of a temple of 
+Sarasvatī, including a large mūrti of the goddess whose arms have all been broken off, a fitting 
+feature for the headquarters of the Sarasvatīgaṇa lineage of artisans. 
+The interior of the main temple includes two rather separate spaces. First, just as one 
+enters inside, there is a large garbhagṛha contained in a chamber that can be circumambulated. 
+Trikūṭēśvara, Gadag. Sarasvatī of the Sarasvatīgaṇa. 
+1048 
+Trikūṭēśvara, Gadag: The three-fold liṅga shrine from which the temple derived its name. 
+Rather unusually, this site, called Svāyambhuva Trikūṭēśvara, contains three liṅgas housed 
+within a single chamber. The octagon-shaped antechamber into which one enters before 
+approaching the deity is itself rather interesting, not only for its eccentric layout, but because 
+1049 
+it houses several large images that appear to be original to the temple, including an imposing 
+Gaṇeśa, as well as a stone yantra installed in its pīṭha. 
+Installed directly behind some pādukas established in a many-petaled lotus, holding the 
+Installed directly behind some pādukas, established in a many-petalled lotus, holding the 
+mātuluṅga of Mahālakṣmī, we find a rather tender-faced eight-armed dancing Bhairava, a 
+gentle alternative to other images found within the rest of the complex, which, apart from the 
+fact that it must be entered through the other structures, resembles a stand-alone temple. As 
+you enter, on the right, flanked by another Gaṇeśa and a portrait of a bearded devotee or ācārya, 
+the seeker of darśana is confronted by a far more intimidating vision of a twelve-armed 
+dancing Bhairava. 
+Trikūṭēśvara, Gadag Interior, Octagon chamber, across from garbhagṛha on far right-wall. L: Dancing Bhairava on pīṭha platform with yantra and pādukas. R: Detail of Bhairava. 
+1050 
+Trikūṭēśvara, Gadag: Second chamber. L: Ācārya (?). R: Fierce dancing Bhairava, Gaṇeśa. 
+Apart from additional liṅgas, however, the main focus of this ritual space (though it is no 
+longer installed in its original position) would have involved venerating a large evocative 
+rendering of an even more ferocious Bhairava of a sort one rarely encounters in stone. Even in 
+its damaged condition—missing its two front arms and part of its thigh—this piece makes quite 
+an impression. 
+In Gadag’s inner sanctum, Bhairava’s fangs drip poison and he is seated in a royal 
+posture upon a giant serpent. Succinctly, Gadag’s approach to the supreme terrifying lord 
+aligns not with the prescriptions in the Pratiṣṭhā Tantras—the comparatively staid four-armed 
+standing Bhairavas that as we have seen saturated the landscape of the western Deccan—but 
+rather with the sort of visualizations we find in the Tantras themselves. Indeed, this image was 
+quite plausibly produced under the direction of the very same sthānācārya, our old friend 
+1051 
+Trikūṭēśvata: Seated Bhairava upon a serpent throne. 
+1052 
+Siddhāntīcandrabhūṣaṇapaṇḍitadeva, Bhillama V and the Hoysala king Baḷḷāla had honored 
+with their endowments. 
+Bhillama ascended to the throne sometime around 1173 CE just as the political order 
+of his day that held the Deccan together for hundreds of years was beginning to collapse.975 
+According to hagiography, at least, the Kalachuri King Bijjala ruling from Kalyāṇa—his 
+family having expelled the Cāḷukyas from their own capital city thirty years before—dies at 
+the hands of the Basava and his followers in 1167 CE.976 Bhillama seems to have taken 
+advantage of the resulting power vacuum, targeting and conquering the Kalachuri vassals even 
+before he is coronated, and, in the process, securing Yādava control over much of what is now 
+Marathwada. At the direction of his Cāḷukya overlord, Someśvara IV, the last king of the 
+dynasty, the Seuṇa army makes the first move against the Kalachuri allies, the Paramāras to 
+the north, and then against the Solaṅkī Cāḷukyas to the west in coastal Gujarat. Leading an 
+army comprised of more than 20,000 infantry and 12,000 cavalry, Bhillama is largely 
+victorious in battle. While he is in the field, Someśvara VI briefly retakes the old Cāḷukya 
+capital of Kalyāṇa, only to be driven once again into exile, sometime around 1184 CE, by the 
+newly emboldened Hoysala king. His liege lord reduced to a guest in the small court of his 
+Kadamba vassals at Banavasi, Bhillama proceeds to conquer northern Karnataka himself. For 
+the first time in our records, the Seuṇas declare themselves to be an entirely independent power 
+beholden to no other ruling authority. The Seuṇa king takes Kalyāṇa in 1185 CE, and by 1189 
+CE, having assumed the title “beloved of Rājyalakṣmī of the Kārṇaṭa country,” is in control of 
+975For summaries of Bhillama’s accomplishments, see Shrinivas Ritti, The Seuṇas: Yādavas of Devagiri (Dharvad: Karnatak University, 1973), 69–81, and A. V. Narasimha Murthy, The Sevunas of Devagiri (Mysore: Rao and Raghavan, 1971), 64–70, both of which build upon R. G. Bhandarkar, Early History of the Deccan and Miscellaneous Historical Essays (Pune: Bhandarkar Oriental Research Institute, 1983), 147–49. 976For this chronology and the scant documentary evidence used to support it, see for example P. B. Desai, Basavēśwara and His Times (Bangalore: Basava Samithi, 1968). This highly politically charged moment—as much hagiography as history—is of course much contested. 
+1053 
+the Kuntaladēśa. To a certain degree, this type of regional hegemony is short lived, for in the 
+last years of his life, just before he retires to perform austerities at Trikūṭēśvara, Bhillama and 
+his armies suffer a series of disastrous defeats at the hands of the Hoysala king Baḷḷāla, 
+resulting in the loss of most of the Yādava claims to territories south of Gadag. Still, as the 
+twelfth century draws to a close, the Yādavas remained in control of most of the districts of 
+Bijapur, Solapur, and Raichur. The trail that Bhillama forged would be trod again by 
+subsequent Yādava kings, who would not only retake key parts of the Karṇāṭa country, but 
+within the decade extend their influence deep in Andhra right up to the borders of Srisailam. 
+Sinnar, Seuṇadeśa: Goṇḍeśvara, the old Yādava capital. 
+In a testament to the shifting focus of power within the region away from the historical 
+heartlands defined by Kannadiga culture, at the very moment he takes possession of the 
+institutional center of the Deccan, rather than sitting upon the old Cāḷukya throne at Kalyāṇa, 
+Bhillama makes the momentous decision to construct a new capital for the Seuṇa Yādavas 
+deep in the heart of Maharashtra. Situated on a flat plateau within a landscape that held few 
+1054 
+strategic advantages apart from being sheltered from invasion from the west by a range of 
+mountains, apart from its monumental scale, the old capital Sinnar was in many ways a typical 
+temple town, actively participating in many of the discursive and theological flows we have 
+spent this chapter exploring. 
+1055 
+Sinnar, Goṇḍeśvara: Details of the main temple, whose defining feature is the integration of life-size images of Śākta goddesses and Bhairava. 
+1056 
+Sinnar, Goṇḍeśvara complex. Details. 
+1057In contrast, encircled by many layers of mountains that prevent invasion from the north, the 
+west and the east, Bhillama’s new capital at Devgiri is quite literally hewn into the rock and 
+rests on top of a mountain. 
+The city can be entered from only a single direction—through the main gate. Should an army 
+breach the doors, the court could retreat from their vast audience halls in the main veranda and 
+escape into the impregnable holds in the mountain. 
+1058 
+T: Devgiri as seen from a distance. 
+B: A view of the countryside from the top of the fortress at Devgiri. 
+Devgiri: T: The entrance to the Yādava assembly hall. B: Remnants of Yādava material culture. 
+Yādava use of flute-bearer, often invoking Kṛṣṇa as emblem. R: Engraving on inscription top, inserted in the middle of the standard Śaiva iconography L: Devgiri, Seuṇa Yādava Emblem on pillar. 
+1059 
+To reach the core chambers set aside for the king and his circle in moments of crisis, the 
+prospective invader would have had to cross two moats and then ascend through secret tunnels 
+in total darkness, only to arrive at a narrow and precarious landing, barely able to accommodate 
+two grown men walking single file, surrounded on all sides by a many-hundred-foot drop. 
+Unlike the other capitals of the medieval Deccan, once it is constructed, Devgiri never changes 
+Devgiri: Top: Entrance into the chambers for ascending to fortified inner sanctum towards top of fort. Bottom: (right and left): Tunnels ascending in almost total darkness (artificially lit by camera). 
+1060 
+hands in a battle, only falling out of the control of the Seuṇa dynasty when the last independent 
+king, Ramachandra, tricked into believing he is grossly outnumbered, foolishly surrenders his 
+kingdom to the small vanguard army of Alauddin Khalji. Until that point, however, this is the 
+ground on which the Seuṇas would make their stand. 
+1061 
