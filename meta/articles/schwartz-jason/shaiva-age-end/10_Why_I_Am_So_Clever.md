@@ -1,3994 +1,1325 @@
 +++
 title = "10: Why I Am So Clever"
 +++
-Chapter 10: Why I Am So Clever, Why I Write Such Excellent Books, and What I Did 
-to the Gods: Hemādri Reimagines Brāhmaṇical Thought 
-In a manner that has few parallels in the long history of Sanskrit thought, especially in the 
-often-subdued domain of Dharmaśāstra, to read the Caturvargacintāmaṇi is to stage an 
-encounter with the mind of its author in all his richness of inspiration and many idiosyncrasies. 
-Even after a decade of diligent research seeking out precedents across disciplines and religious 
-boundaries, I have been forced to conclude that while Hemādri is indeed a polymath with 
-access to immense libraries, who may well have known a myriad of intellectual resources now 
-lost to history, both at the level of doctrine and methodology, the most essential features of his 
-work seem to be expressions of his own individual vision and outsized personality. The scope 
-of this accomplishment—that reading Hemādri is to hear one man’s voice—is all the more 
-extraordinary when we take into account that the vast majority of his text is a collection of 
-citations drawn from the writings of other people, sages, and deities, and that even among its 
-enthusiasts, dharmanibandha is as a genre is almost universally characterized as one of the 
-most colorless discourses in all of Sanskrit. 
-If in chapter 9 we had focused on Hemādri’s interventions into preexisting social 
-worlds, from here on in, our attention will be largely redirected to the inner worlds that lie 
-inside his texts. While at first glance this might seem to represent a stark departure from the 
-markedly sociological methodological focus and theoretical orientation that has animated the 
-rest of our study, as if they are being abruptly discarded in the service of a more rarefied form 
-of “pure” intellectual history, such appearances are deceiving. For, like the scholastic 
-Vedāntins from whom he derives so much theological inspiration, Hemādri asserts that we 
-must collapse the distinctions between how we read and how we live such that one becomes 
-1565 
-an extension of the other. In a world where all daily activity is unavoidably punctuated by 
-ritual, what the Caturvargacintāmaṇi offers, in essence, is a hermeneutics for everyday life. 
-Though its tactics are indebted to Pūrva Mīmāṃsā, quite unlike with the dharma norms 
-of classical legal traditions, the theology and presuppositions of the Caturvargacintāmaṇi are 
-those of transactional, quotidian, common sense, everyday Indian religions. For the first time 
-in the history of “Smārta” traditions, this ethos is articulated and defended against its scholastic 
-objectors in the language of high śāstra. In a sense, at the very moment that he is taking away 
-the authority of ordinary people to internally manage their own religious affairs without 
-resorting to an intermediary from outside the community, Hemādri goes to enormous trouble 
-to affirm what was already obvious to ordinary people—namely, that they lived in a world that 
-was really full of gods and spirits who had to be fed, attended, and appeased, and that ritual 
-was the means for making that happen. As counterintuitive as it might seem, just in doing this 
-much, Hemādri has already turned his back on the tradition of legal exegesis. As we shall soon 
-see, Dharmaśāstra as a scholastic tradition by and large had at least partially internalized 
-Mīmāṃsā’s realist and atheistic values alongside its methods. Ultimately, what we will 
-discover is that to pay close attention to how Hemādri reads and how he makes use of his 
-sources throughout the Caturvargacintāmaṇi in and of itself cannot but help to bring vividly 
-into our awareness, in both broad strokes and particulars, how comprehensively Hemādri 
-breaks away from his predecessors within the domains of Dharmaśāstra and formal theology. 
-In the final portions of the chapter, through examining and even regionalizing the key 
-antecedents of the dharmanibandha discourse that Hemādri so capaciously makes his own, the 
-insights we have recovered from our close readings will be placed into a wider socio-historical 
-context. We will see that such a broad-based historical perspective once again speaks to the 
-1566 
-relative marginality within the wider purview of eleventh- and twelfth-century north Indian 
-Dharmaśāstra of much that to our author holds most sacred. In particular, the chapter will 
-conclude by rendering transparent that the north Indian nibandhakāra Lakṣmīdhara shares with 
-his successor neither his valorization of personalist Vedānta as the crowning achievement of 
-Indic thought nor his investment in devotional theology. These observations in turn will 
-prepare us for the final chapter in our study, which will take as its focus precisely that peculiar 
-marriage of non-dual Vedāntic philosophical reasoning with affective devotionalism, the 
-articulation of which, though already evident in the Caturvargacintamāṇi, comes to play a far 
-more consequential role in the final stage of Hemādri’s intellectual life. 
-That Hemādri does not follow the well-trod paths of his predecessors is a reflection of 
-the centrality of theism to his worldview in general and his theory of scripture in particular. As 
-this chapter will make evident, it is a vision that centers sacred personalities, their actions, and 
-their assumptions as inseparable from what makes ritual efficacious. And so, in this spirit, 
-before we can think with our texts, we need to take some time and get know Hemādri Sūri 
-himself and the world from which he emerged. 
-Why I am So Clever: Autobiography of the Pandit as an Egomaniac 
-Hemādri commences1420 the Caturvargacintāmaṇi by celebrating as a collective total “the 
-Brāhmaṇas who are praised within the three worlds” (trijagatīvandyā jayanti dvijāḥ). Then, in 
-an extraordinary breach of normal Sanskrit decorum, under the authorial internal heading, 
-“Now the praise of the author of the text (atha granthakartuḥ praśastiḥ),” Hemādri introduces 
-us to his family as prelude to celebrating his own virtues. The best of Brāhmaṇas, we learn, 
-1420Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, pg. 1, 1.1. In the original work as composed by the author, what is now the first verse would have actually followed an extended delineation of the line of the Seuṇa kings, running fifty or so verses, which nonetheless is so structurally inessential to the text that it has been excised from most manuscripts. 
-1567arise from the incarnated lotus of Viṣṇu himself, in his aspect as the husband of fortune. While 
-that is all well and good, however, special recognition is to be reserved for the crest jewel of 
-the Brāhmaṇa sages, devoid of the vices of attachment, enmity, and intoxication, the muni 
-known of as Vikhas (vikhābhidhāno muniḥ). This is the source, our author will soon inform 
-us, of his family gotra (gotre tasya).1421 
-In speaking of Vikhas, Hemādri presumably intends to invoke the sage who revealed 
-the scriptures of the Vaikhānasas. As Laurie Patton has discussed, the comparatively late but 
-recognizably Vedic Taṇḍya Brāhmaṇa contains a short narrative in which the Vedic ṛṣis are 
-said to emerge from the spilt seminal fluid that Prajāpati offers into the sacrificial fire. In this 
-tale, Bhṛgu emerges from the fire itself and Aṅgiras comes out of the ashes, soon to be followed 
-by Atri.1422 Seeking out their remaining counterpart, the original sages begin digging (√khan) 
-in the ground, an effort that results in the uncovering of Vaikhānasa, “the digger.” Closely 
-aligned with some of the earliest explicitly Vaidika ascetic as well as Vaiṣṇava ritual traditions 
-to which we have access, apart from the writings of Gerard Colas, the discourse within 
-Vaikhānasa scriptures has yet to be subject to thorough study especially with the objective of 
-a careful historicization of their contents. Even so, at least in light of the sources available to 
-us, Hemādri’s invocation of this pedigree is immediately suspect. In no other source available 
-at present is the ṛṣi from whom the line descends assigned the name Vikhas. Indeed, analogous 
-to how a term like Bhārgava means the “ones who descend from Bhṛgu,” the otherwise barely 
-attested word “Vikhas” seems to have been derived artificially by treating Vaikhānasa as a 
-1421Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, pg. 1, 1.1: atha granthakartuḥ praśastiḥ // pādaprāntaviniḥsṛtadyusarito devasya lakṣmīpater vyaktāmbhoruhasambavā trijagatīvandyā jayanti dvijāḥ / rāgadveṣamadādidoṣavirahād antasphurajjyotiṣāṃ teṣām eva śiromaṇir vijayate vikhābhidhāno muniḥ // 1422 Laurie L. Patton, Myth as Argument: The Bṛhaddevatā as Canonical Commentary (Berlin: De Gruyter, 2014), 412. 
-1568 
-patronymic and undoing the application of vṛddhi rules. The problem here is that both the 
-Vedic Brāhmaṇas and the Vaikhānasa scriptures themselves consistently tells us this sage is 
-himself already named “Vaikhanasa.” Furthermore, in the classical Sanskrit sources, 
-Vaikhānasa is classified as the name of a Vedic śākhā. It is not a Vedic gotra, which is why 
-Vaikhānasa practitioners even today can belong to distinctive lines of Vedic textual 
-transmission. In other words, for the first but hardly the last time in our sources, Hemādri’s 
-explanation here reads like the efforts of a clever outsider looking in at a tradition and 
-attempting to reverse engineer its contents based on more general śāstric principles. 
-The Caturvargacintāmaṇi contains two garlands of verses where Hemādri discusses 
-and praises his family. One of these is found in the very opening of the text at the beginning 
-of the Vratakhaṇḍa, while the other makes up much of the introduction to the Śrāddhakalpa. 
-Even among these two accounts contained within the same treatise, there are some interesting 
-discrepancies. While the Vratakhaṇḍa begins with an account of Hemādri’s grandfather, 
-Vāsudeva, descending from the line of Vikhas, the Śrāddhakalpa starts by introducing us to 
-the man who was presumably Hemādri’s paternal great-grandfather, a gentleman named 
-Vāmana, said to be born in the lineage of the dear sage (vatsamuni), as the text says explicitly, 
-in the Vatsa Gotra.1423 This is to say that Vāmana is assigned to an entirely different gotra than 
-the one which had earlier been claimed on behalf of his son. Since gotra inheritance is 
-patrilineal, this is utterly impossible. Again, the seams in this undivided and “eternal” 
-Brāhmaṇism are showing. 
-1423Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa pg. 4, 1.18: svādhyāyādhyayanapravīṇa- dharaṇīgīrvāṇacūḍāmaniḥ vaṃśe vatsamuner manoharaguṇagrāmābhirāmākṛtiḥ / jajñe vāmanasaṃjñako valikathāgāthāsamunmīlita-pratyagrāpratimaprabhāvarucirāṃ yaḥ prāpa lakṣmīṃ parām // 
-1569 
-Regardless of his origins, in the slightly clunky style to which we will soon grow 
-accustomed, Vāmana is outlandishly praised. According to his great-grandson, he was one 
-whose “delightful form was a veritable village of qualities captivating the mind” 
-(manoharaguṇa-grāmābhirāmākṛtiḥ) and “the crest jewel of Brāhmaṇas, gods on earth” 
-(dharaṇīgīrvāṇa-cūḍāmaniḥ). Punning on his great-grandfather’s name, which he shares with 
-the incarnation of Viṣṇu who with his three wide strides humbled the demon king Bali, 
-Hemādri paints him as a man so “skilled in Vedic recitation and study” (svādhyāyādhyayana- 
-pravīṇa) that he “obtained the highest glory (prāpa lakṣmīṃ parām), “illustrious with a fresh, 
-incomparable power unfolded by songs and stories about Bali” (bali-kathā-gāthā- 
-samunmīlita-pratyagrāpratima-prabhāva-rucirāṃ). While in the Vratakhaṇḍa, 
-unsurprisingly, Hemādri’s grandfather Vāsudeva is assigned a whole host of rather generic 
-virtues, the Śrāddhakalpa sets out to represent Vāsudeva, a connoisseur of the secret substance 
-of the eternal Upaniṣads (śaśvadvedarahasyavasturasikaṃ) as simultaneously a Vedic ritualist 
-without peer and a master of the arts.1424 In yet another heavily śleṣa-infused verse full of 
-uneven metaphors, Vāsudeva is exalted as a person in whose Vedic sacrifice/scholarly society 
-(goṣṭhīsadaṃ) there is a piling up/compilation of the sacrificial components (kalāsambhāra) 
-of the nine fires/freshly radiant arts (navojjvala)—navojjvala-kalāsambhāra-goṣṭhīsadaṃ. 
-Somewhat ineptly, he is also the “the cloud that bestows the rainwater that is contentment to 
-the minds of the good people through the outpouring of whirlwinds of good merit” 
-(puṇyāvarttana-sarga-sajjana-manaḥ-santoṣa-varṣāmbudam). Finally, the poor man is also 
-memorialized with the wince inducing phrase, “the sun/the source of the [Sāma]veda that 
-1424Hemādri, Caturvargacintāmaṇi, Śrāddhakhaṇḍa pg. 4: 1.19: sa prāsūta sutaṃ navojjvalakalā-sambhāra- goṣṭhī-sadaṃ bhūta-sphīta-galodgalannavarasaprahlādi-vedodayam / puṇyāvarttana-sarga-sajjana-manaḥ- santoṣa-varṣāmb[u]daṃ śaśvadvedarahasyavasturasikaṃ śrīvāsudevāṅkayam // 
-1570 
-brings delights through the nine rasas that drip forth from his throat, bursting forth clearly into 
-being” (bhūtasphīta-galodgalan-navarasa-prahlādivedodayam). 
-At every step, this unusual and highly specific rhetoric sets out to assign to a single 
-person a confluence of what in earlier centuries were typically values and attributes assigned 
-to discrete interpretive communities. We cannot of course wholly rule out that this eccentric 
-cultural formation was indeed in evidence in the social realm where Hemādri spent his youth. 
-As we have seen throughout our study, especially prior to the thirteenth century, throughout 
-the Deccan, site- and community-specific values were almost unimaginably diversified. Still, 
-it is strange that unlike all of the other major figures in the almost incestuous orbit of the Seuṇa 
-court, including Hemādri’s chief disciple Bopadeva—whose father studied in the line of 
-Bhāskara, the grandfather in turn of Śāraṅgadeva the śrīkaraṇeśvara who wrote the 
-Saṅgītaratnākara—we find no trace of any of Hemādri’s forebears in any of our sources, nor 
-can we link them, however tangentially, with any preceptorial line. And in a rhetorical choice 
-almost unheard of, except perhaps among the most transgressive lines of charismatic visionary 
-yogins, Hemādri himself never mentions a teacher. It is as if he and his values came out of 
-nowhere. In contrast to the unabashed reverential attitudes Hemādri displays towards the under 
-specified deeds of his ancestors, there is considerable and surprising ambiguity in our 
-polymath’s representations of his own father, Kāmadeva. Once again, there is also a 
-discrepancy between what we find at the opening of the CVC and how the same matters are 
-addressed in the Śrāddhakhaṇḍa. While in the Vratakhaṇḍa, Kāmadeva is somewhat 
-generically lauded as a great philanthropist who was dharma incarnate, the Śrāddhakalpa 
-suggests a much stranger story: 
-1571 
-From that one emerged the heap of insight/Prajñārāśi whose name was Kāmadeva, a connoisseur of good deeds, who even in times of calamity never abandoned true speech. [Even] his play at bantering was akin to fresh nectar. The entire world was pleased by his excellent speech, conduct, and morals.1425 
-Keeping company with the best of noble teachers, having observed the mauñjīvrata, having married a wife by whom was enacted the rituals and household rites, that most noble person took on the fourth āśrama in order to worship the jyotir that is Śiva, who destroys the black magic that is the perceiveable and non-perceivable(?), the one who bestows comfort, just a little bit.1426 
-Hemādri acknowledges his father as a truthful and eloquent man, but his real emphasis, 
-it seems, is on the fact that his sire bore two distinct names and engaged in very different 
-activities at different phases in his life. While in his worldly life, the father was called 
-Kāmadeva, it is strongly implied that after he took the fourth āśrama and became a renunciate, 
-Kāmadeva assumed the decidedly Atimārgic, maybe even quite specifically Pāśupata, 
-sounding initiatory name of Prajñārāśi. Almost as if he is damning with faint praise, in 
-contradistinction to the outlandish feats accomplished by other members of his line, Hemādri 
-describes his father as following in the path of the best of teachers by taking the sacred thread, 
-getting married, and then performing some ritual and social duties. Whereas as grandpa 
-Vāmana’s deeds allegedly outshone Viṣṇu’s, despite some fine qualities, Hemādri oddly 
-presents his father Kāmadeva as fulfilling the bare minimum requirements for being Brāhmaṇa. 
-With unmistakable condescension—perhaps even outright venom—Hemādri informs us that 
-the newly minted Prajñārāśi dedicated himself to what seems to be a program of Śaiva ritual 
-worship that had as its conceptual focus something akin to the practices ascribed to the siddha 
-1425Hemādri, Caturvargacintāmaṇi, Śrāddhakhaṇḍa, pg. 4, 1.20: āsīt tasmād abhinavasudhāsodarālāpalīlaḥ śīlācārapravaradhiṣaṇātoṣitāśeṣalokaḥ / satyāṃ vācaṃ tyajati na purā kvāpi yaḥ saṅkaṭe ’pi prajñārāśiḥ sukṛtarasiko nāmataḥ kāmadevaḥ // 1426Hemādri, Caturvargacintāmaṇi, Śrāddhakhaṇḍa, pg. 5, 1.21: yenācāryavarāryasaṅgatimatā nirvāhya mauñjīvrataṃ kṛtvā dāraparigrahaṃ vidadhire karmāṇi gṛhyāṇi ca / vedyāvedyamahendrajāladalanaṃ kṣemaṅkaraṃ śaṅkaraṃ jyotiḥ kiñcid upāsituṃ sa jagṛhe varyas turīyāśramam // 
-1572 
-traditions we explored in the eighth chapter. As we have seen, these culminate in worshipping 
-the deity in the form of the liṅga of the void, the bindu, or a point of light. By worshipping 
-Śiva in the form of the light just a little bit (jyotiḥ kiñcid upāsituṃ), his son signals resentfully, 
-daddy wasted the end of his life. After this interlude, at long last, the text prepares us for 
-meeting Hemādri himself: 
-Hemādri indeed was incarnated in his [Kāmadeva’s] house in order to make the world free from poverty. 
-By whom can be described the marvelous deeds of Hemādri, that most desired progeny who attained the state of being a wish-fulfilling tree? . . . . 
-He bears all the array of arts. He always gives hundreds of cows. Having the state of a king of the twice-borns, known across the world, he even bears the state of causing one to cross over. 
-Indeed, the remaining enemies of the Lord of the Earth, Mahādeva, are cast down. 
-That supreme Hemādri Sūri, who has attained the state of being the overlord over the śrīkaraṇas and also wisdom, is the moon that makes flourish the ocean of milk of the kingdom, set down both Śrī and Sarasvatī in the houses and bodies of learned people.1427 
-In violation of that Sanskrit ancient dictum, which proclaims that like the bickering co- 
-wives whose names they bear, great fortune (śrī) and great learning (sarasvatī) cannot coexist 
-in the same household—let alone the same person—Hemādri is emphatic that his coming into 
-the world has made possible a new paradigm. From henceforth, eschewing the noble poverty 
-of the gleaner as ideal, learned Brāhmaṇas will be guaranteed worldly success. What makes 
-this new world possible, as we saw at some length in the prior chapter, is the confluence of a 
-1427Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, 1.5–6, 9–10, pg. 2–3: purāpi yat puṇyam agaṇyarūpam śrīkāmadevena kṛtaṃ nu vidmaḥ / yenādaridrāṃ jagatīṃ vidhātum hemādrir apy asya gṛhe ‘vatīrṇaḥ // caritaṃ tasya hemādrer adbhutaṃ kena varṇyate / upaiti prārthito yasya santānaḥ kalpavṛkṣatām // kalākalāpaṃ sakalaṃ bibharti gavāṃ sahasrāṇi sadā dadāti / jagatprasiddhadvijarājabhāvas tathāpi yas tārakatāṃ dadhāti // vidhvastākhilavairiṇaḥ kila mahādevasya pṛthivīpate rājyakṣīrasamudravarddhanaśaśī hemādrisūriḥ paraḥ / yena śrīkaraṇādhipatyapadavīm āsādya vidyām api / nyastā śrīś ca sarasvatī ca viduṣāṃ geheṣu deheṣu ca // 
-1573 
-new institutional form, the office of śrīkaraṇeśvara, which conflates the previously distinct 
-roles of chief minister of the king (mahāmātya) and administrator of the kingdom (śrīkaraṇa). 
-The end result is the marrying of the administrative, sacerdotal, and apotropaic functions of 
-the king’s chief councilor and master of mantras with command over a bureaucratic apparatus 
-possessing the type of intimate local knowledge necessary for ensuring the extraction of 
-revenue, the management of debts, as well as battalions of scribes responsible for the 
-reproduction of entextualized knowledge in all its forms. To be clear, this office has itself 
-several centuries of prehistory highly localized to western Deccan. What it was waiting for was 
-someone to harness its latent potential and bend it to his will. In Hemādri Sūri, the office of 
-śrīkaraṇeśvara found just such a person. 
-When a single person holds so much power, with so very little opportunity for external 
-critique or oversight, there is always the possibility of epistemic closure, that he will come to 
-conflate his own limited perspective with the totality of possible human experiences. Typically, 
-such observations preface a critique of the abuse of power. Here, however, they are offered in 
-the spirit of hermeneutical charity, as providing a working framework for making sense of the 
-otherwise inexplicable manner in which the most famous śrīkaraṇeśvara in the history of Indic 
-thought represents himself to posterity. And so, just as the Caturvargacintāmaṇi turns to its 
-primary task, in introducing himself to his readers, Hemādri writes: 
-Some people desire knowledge (jijñāsā) about dharma. Others simply know, because they’ve read my books. And that just about sums up that “field” in its entirety. And thus, by everyone without exception, there can be named no one else on the surface of the earth who ever was or will be more capable of knowing and acting than Hemādri Sūri.1428 
-1428Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa 1.11, pg. 3: jijñāsām iha kurvate katipaye dharmasya tebhyo pare / jānanty eva samastaśāstraracanād asmābhir evaṃ punaḥ / niḥśeṣair abhidhīyate kṣititale hemādrisūreḥ paro jñātuṃ vā carituṃ kṣamī na hi purā bhūto na bhāvī puraḥ // 
-1574 
-Virtually since its inception, much of Sanskrit śāstra1429 has perceived jijñāsā—usually 
-understood as “the desire for knowledge”—as the impetus behind learned philosophical and 
-theological inquiry. Whether the knowledge being sought after is a matter of understanding 
-and annihilating the causes of suffering, as in Sāṃkhya Kārikā 1.1 (duḥkhatrayābhighātāj 
-jijñāsā tadabhighātake hetau), of making sense of the eligibility and impetus for performing 
-ritual (athāto dharmajijñāsā) as in the Mīmāṃsā Sūtras, or of seeking out the method that 
-enables one to realize brahman (athāto brahmajijñāsā), as in Vedānta, the cultivation of this 
-aptitude and attitude is seen as an essential dimension of what it means to be a learned and 
-pious person. In fact, the question of just how precisely one should interpret jijñāsā, whether 
-what is at stake here is “desire” as a motivating factor, or, as Śaṅkarācārya would have it, a 
-dispassionate investigation, is utterly integral to how Pūrva and Uttara Mīmāṃsā present 
-themselves as disciplines. And yet, with a wave of his hand, Hemādri declares that his writings 
-have rendered this entire dimension of human nature—the quest for knowledge—antiquated 
-and superfluous. Instead of yearning for something more, people should just read his books. 
-Now, Sanskrit discourse is not afraid to bluntly and incessantly tell its imagined reader, 
-“listen—I am about to tell you a wonderous, unprecedented secret, something of fundamental 
-importance that you have never heard before,” provided, that is, that it is the gods themselves 
-who are imagined as our authors, or a work purports to entextualize a specific siddha’s 
-channeled visionary experiences. In contrast, when it comes to the taxonomic and 
-commentarial writings of human—all too human—scholars, it is customary for Sanskrit 
-pandits to offer their intellectual and theological innovations surreptitiously while making a 
-1429The major exceptions here are the disciplines of Vaiśeṣika and Pātañjalian Yoga. While the term does not appear in the root text of the Nyāya Sūtras, the early commentators rapidly reframe the root text in terms of this same Jijñāsā paradigm. 
-1575 
-very public show of diffidence to prior authorities within their discipline. Even when 
-presenting an agenda that from the perspective of the modern historian of ideas diverges 
-radically from what is found in the root text, Sanskrit pandits present their contributions 
-coached in the dual languages of restoration—let us return to what this author really was trying 
-to say—as well as that of apologetics—here are five more arguments refuting attempts by rival 
-schools of thought at discrediting our value system; in this way I have restored its honor. Poets, 
-especially at the beginnings of their works, tend to be even more self-abnegating, such that 
-Kālidāsa, one of the finest and most original writers in any language, after dubbing himself an 
-“idiot” (manda), compares his humble attempts at poetic composition to that of a dwarf 
-(vāmana) reaching out for a fruit hanging upon a branch that lies far out of his reach.1430 When 
-writers and poets undertake a rather bold project, by and large they claim its shortcomings as 
-reflecting their own personal failings and ascribe any virtues residing in the end product to the 
-grace and instruction of their teacher and to the gods. 
-These tropes and readerly expectations are hardly archaic. This is to say, Hemādri’s 
-wholesale embrace of an idiom that is their antithesis—exalting the author and his 
-accomplishments and celebrating his innovations above all others—is not something that can 
-be accounted for as a product of the times or as some quaint Maharashtrian custom. Thus, 
-writing some forty years after the completion of the Caturvargacintamāṇi, fifteen miles from 
-the Brāhmaṇical center of Paithan and a mere thirty miles to the south of the Yādava capital at 
-Devgiri, Jñāndev, perhaps the most gifted poet of his day, plaintively and apologetically still 
-hopes that if learned people encounter his Marathi Gītā, they will respond to it the same way 
-1430Kālidāsa, Raghuvaṃśa 1.3: mandaḥ kaviyaśaḥprārthī gamiṣyāmy avahāsyatām / prāṃśulabhye phale lobhād udbāhur iva vāmanaḥ // 
-1576 
-a mother applauds her child when it does what she has taught him,1431 or a parrot when it recites 
-something it has overheard.1432 Time and again, acting almost like the antithesis of our author, 
-Jñāndev says he is but a marionette whose every movement reflects the guiding gestures of his 
-guru and he pleads that the saints will help assist him in making sense of the Bhagavad Gītā. 
-Nor can we make sense of Hemādri’s stylistic eccentricity through a discursive reflection on 
-the specific genres—medicine, poetics, devotional theology, Dharmaśāstra—in which he is 
-working. Except in the case of his medical writings, though even there a rhetoric of newness 
-predominates, as this chapter will demonstrate, the key formal and intellectual features of his 
-compositions depart substantively from everything that has come before them. Against our 
-usual expectations of the Sanskritic past that it is an emotionally distant realm governed by 
-tropological systems that elide every hint of unvarnished human experience, Hemādri’s 
-unforgettable voice as a writer speaks boldly and clearly down through the centuries. This 
-voice is utterly inexplicable except when read as an organic expression of our author’s very 
-particular and vivid personality. 
-It is perhaps in his least self-evidently innovative work, The Resurrection of Āyurveda 
-(Āyurvedarasāyana), that the enormous disparity between Hemādri’s approach to engaging the 
-scholastic traditions he has inherited and that of his immediate predecessors working within 
-the very same genre is most starkly rendered.1433 Completed somewhere between fifty and one 
-1431The trope is repeated several times, both when Jñāndev is addressing his reader in the present in his own voice and when he is acting as a commentator. It is the first function that for our purposes is most pertinent. It first appears in the prologue to the Bhāvārthadīpikā, vs. 1.64, which reads: jaisā svabhāvo māyābāpāṃcā / apatya bole jarī bobaḍī vācā / tarī adhikaci tayācā / saṃtoṣa āthī // 1432See for example 9.0.17. Here the word for parrot is puṃsā: aho puṃsā āpaṇaci paḍavije / maga puḍe tarī māthā tukije / kāṃ karavileni cojeṃ na rijhe / 1433Only a single edition of the Āyurvedarasāyana exists. As with all of Hemādri’s works, the text as printed is both often unsatisfactory and substantively incomplete. Bisagacarya Harisastri Paradikar, ed., Aṣṭāṅgahṛdaya with the Commentaries Sarvāṅgasundarā of Aruṇadatta and Āyurvedarasāyana of Hemādri (Varanasi: Chowkhamba Press, Varanasi, 2000). 
-1577hundred years before Hemādri’s Āyurvedarasāyana, the Sarvāṅgasundara of Aruṇadatta also 
-comments systematically on the eighth-century Aṣṭāṅgahṛdaya of Vāgbhaṭṭa. Here is how 
-Aruṇadatta introduces himself: 
-In this greedy world, what learned person would not desire to accomplish a little something? However, if there might exist some good person, he is my refuge. For the sake of informing about the meaning of the words directly to the person who sees this, the illustrious Aruṇa, son of the illustrious Mṛgāṅka, writes this commentary on the Aṣṭāṅgahṛdaya.1434 
-Aruṇadatta’s commentary then dives right into glossing the various parts of 
-Vāgbhaṭṭa’s opening maṅgala verse. This begins not with praise of the gods, but by honoring 
-the doctor without precedent (apūrvavaidyāya namos tu tasmai).1435 When he reaches its 
-subject, the first or incomparable physician, Aruṇadatta speaks of him as a man made of 
-marvels (āścaryabhūta) who is to be worshipped,1436 for he takes away not only physical 
-diseases such as fever, but the inner diseases of lust and delusion. Indeed, after the opening, 
-Aruṇadatta scarcely mentions himself at all, except in passing. Placing himself in the company 
-of the many learned doctors who came before him, the commentator continues on to talk about 
-the rhetorical structure of the work before venturing to propose that the study of medicine 
-contributes to the quest for liberation. Compare his approach, if you will, with the preface that 
-serves as prelude to Hemādri’s own take on the very same treatise: 
-By Hemādri—who has instituted the Caturvargacintāmaṇi—for the sake of establishing that bodily “wellness” is a subordinate [but necessary] component of the attainment of vows, philanthropy, and so forth,1437 as was stated by him [in the Caturvargacintāmaṇi], is composed this easy to grasp commentary on the Āyurveda [work,] the Aṣṭāṅgahṛdaya, adhering to the doctrines of Caraka, Hārīta, Suśruta, and so forth. 
-1434Aruṇadatta, Sarvāṅgasundarā, 1.1, vs. 1–2: ko matsariṇi loke ’smin vidvān kiṃcic cikīrṣati / kiṃ tu kaścid bhavet sādhus tato ’yaṃ matpariśramaḥ // śrīmanmṛgāṅkatanayaṣ ṭīkām aṣṭāṅgahṛdayasya / śrīmān aruṇaḥ kurute samyag draṣṭuḥ padārthabodhāya / 1435Vāgbhaṭṭa, Aṣṭāṅgahṛdaya 1.1: rāgādirogān satatānuṣaktān aśeṣakāyaprasṛtān aśeṣān / autsukyamohāratidāñ jaghāna / yo ‘pūrvavaidyāya namo ’stu tasmai //1.1// 1436Aruṇadatta, Sarvāṅgasundarā, 1.1: taṃ pūjayāmīty arthaḥ / 1437Aruṇadatta, Sarvāṅgasundarā, 1.1 ata evāsāv apūrva āścaryabhūto vaidyaḥ / 
-1578 
-Commentators such as Haricandra on the Carakasaṃhitā and by commentators such as Jaijaṭa on the Śuśrutasaṃhitā, have not arrived at the correct conclusions stated here by Hemādri. 
-From fear of them wandering in the country/motivated by the danger of things in the body being out of place, the residents/lingering elements are dispersed by means of affection/sticky stuff or ferocity/heat. Having made the mighty ones/the displaced humors of the body enter all around the interior of the fort/impassable stomach, the enemies that are flaws/bodily imbalances are expelled. [This task is accomplished] by means of maddened elephants/medicinal liquids through the upper and lower path/through induced vomiting and excretion. [Thus], the rāmarājya was made firm by Hemādri the physician. 
-Hemādri is his name. He lords over the śrīkaraṇas of King Rāma. One might equally say that he is above the instruments that are the six-fold qualities residing in the Supreme Lord himself. . . . On the part of men who are physicians, this commentary of Hemādri’s—the Resurrection of Āyurveda— being flawless/without bodily imbalance, is to be attended to, and not any other [work].1438 
-As we are beginning to see, while representing the desire for inquiry (jijñāsā) as a mere 
-footnote to his own intellectual accomplishments was one of the more egregious examples of 
-our author’s extraordinary hubris, it is entirely in keeping with the peculiar texture that define 
-all of his works. Whereas Aruṇadatta barely talks about himself at all, Hemādri can barely stop 
-talking about himself. Apart from a single opening verse in praise of Viṣṇu, the very first word 
-that appears in the “Resurrection of Āyurveda” is “Hemādri.” Against good sense and syntax, 
-the opening verse in which this word appears not only somehow manages to invoke our 
-illustrious author’s composition of the Caturvargacintamāṇi three times, but in doing so, it 
-frames the entire purpose of the already ancient discipline of medicine as an adjunct to his 
-1438Hemādri, Āyurvedarasāyana, commentary on 1.1, vs. 2–6, 8–9: hemādriṇā caturvargacintāmaṇividhāyinā / taduktavratadānādisiddhyaṅgārogyasiddhaye // kriyate ‘ṣṭāṅgahṛdayasyāyurvedasya sugrahā / ṭīkā carakahārītasuśrutādimatānugā // carake haricandrādyaiḥ suśrute jaijjaṭādbhiḥ / ṭīkākārair na nirṇītam iha hemādriṇoditaṃ // deśabhraṃśabhayād vicālya layinaḥ snehaiḥ pratāpaiḥ paraṃ pradrāvya prasṛtān praveśya parito durgodaraṃ drāk tataḥ / ūrdhvādhogati nirgamayya madanair dantyādibhir vidviṣo doṣān adraḍhi rāmarājyam agadaṅkāreṇa hemādriṇā // hemādrir nāma rāmasya rājñaḥ śrīkaraṇeṣv adhi / nanūbhau bhagavanniṣṭhaṣāḍguṇyakaraṇeṣv adhi /. . . . sevyā hemādriṭīkeyam āyurvedarasāyanam / āyurvedātmanāṃ puṃsāṃ nirdoṣatvaṃ hi nānyathā / aṣṭāṅgahṛdayaṃ mukhyam anukte ’ṣṭāṅgasaṃgrahaḥ / tantrāntrāṇi coktāni vaiṣamye vivṛtāni ca // 
-1579 
-intellectual project in the Caturvargacintamāṇi. Next, we learn that while Hemādri is willing 
-to adhere to the doctrines taught by semi-mythologized long departed sages, figures like 
-Caraka, Hārīta, Suśruta, two of whose treatises quite literally define Ayurvedic practice, he is 
-decidedly less diffident towards the commentators one might erroneously imagine to be his 
-peers. Introducing for the first time the rather withering asides about the stupidity of all other 
-members of the medical profession that are sprinkled throughout the body of his text, Hemādri 
-exclaims that esteemed figures like Haricandra and Jaijaṭa failed to arrive at the correct 
-conclusions. Learned physicians, he seems to be saying—feel free to toss their writings, just 
-read what I have written. 
-The exceptionally difficult but compelling verse at the center of the passage we have 
-just been examining—in which purging the human body of doṣic imbalances is analogized 
-with purging the body politic of unwanted social detritus—does a masterful job of 
-encapsulating some essential dimensions of Hemādri’s intellectual vision. Here too, for one of 
-the first times in Sanskrit discourse, discipline specific abstract and quotidian scholastic 
-endeavors are blatantly wed to the disciplinary workings of the state of the region, treated as 
-complementary facets in the project of constructing the rāmarājya—the righteous rule of the 
-dharma king. 
-Through this short passage from “The Resurrection of the Āyurveda,” we have begun 
-to become acclimated to our author’s much larger interpretive project, the theoretical and 
-philosophical dimensions of which we will explore in greater detail in the next section. Much 
-as the emergence of the office of the śrīkaraṇeśvara fuses together previously unrelated modes 
-of authority at the macrocosmic level, Hemādri reimagines the Brāhmaṇa ritualist as an all- 
-purpose caretaker and administrator of the internally diverse ritual, medical, social, and moral 
-1580 
-well-being of the wider society transcending the boundaries of religious identity and caste. As 
-this chapter aims to demonstrate, though exceptionally familiar to us—for this is what we tend 
-to think of when we think of the place of the Brāhmaṇa in Indian society today—while the 
-individual elements that make up this role have their own antecedents, the coherent articulation 
-of this social identity within the mainstream of śāstric discourse in general and Dharmaśāstra 
-in particular, is hardly in evidence before this particular moment in the history of Indic thought. 
-In fact, when the Caturvargacintāmaṇi’s innovations are placed within the context of 
-prior visions of Hindu law, the revolutionary nature of the text’s intellectual and social program 
-becomes emphatically clear. As will become evident in the middle of this chapter when we 
-return to substantiating these claims, well into the twelfth century, Brāhmaṇical Dharmaśāstra 
-had explicitly forbidden Brāhmaṇa ritualist-legalists from overseeing non-Vaidika ritual upon 
-pain of outcasting. Succinctly, as we have seen before, the discourses’ responses to the 
-theology and praxis of the Śaiva age had taken two distinctive forms. In the vast majority of 
-cases, following in the footsteps of the Yājñavalkyasmṛti, Dharmaśāstra was 
-accommodationist, without diluting its own principles. As has been demonstrated, through 
-implementing the principle of vyavasthā, the differential application of norms, and by 
-recognizing the existence of plural modes of authority, it managed to carry out this project by 
-carving out separately governed—often quite vast—social spaces where a varṇāśramadharma 
-ethos was inapplicable. In the dissenting legal tradition, which we encountered a bit at the end 
-of the last chapter, the Śaiva Age was acknowledged by rejecting its legitimacy in toto. 
-Primarily comprised of Pūrva Mīmāṃsā laden commentaries on the Manusmṛti but also 
-including Aparārka’s commentary on Yājñavalkya and the Dānasāgara of King Ballālasena of 
-Bengal, building upon Kumārila’s arguments in the Tantravārttika, this corpus simply denies 
-1581 
-any validity to the dominant religious paradigms of the early medieval world, thereby 
-prescribing that Brāhmaṇa legalists have no constructive role to play within these religious 
-ecologies. As we have seen, political power among the ruling classes—to say nothing of their 
-daṇḍanāyaka enforcers—was overwhelmingly in the hands of extended family networks that 
-contained initiates into the Mantramārga, especially in its more transgressive dimensions. As 
-a practical consequence, despite the radically divergent value systems at work, both of these 
-“Brāhmaṇical” approaches by and large yielded comparable counterintuitive outcomes— 
-namely, the exclusion of the Vaidika Dharmaśāstrin from most of the subcontinent’s religious 
-life. 
-As we examined a bit in the prior chapter and will soon explore in even greater detail, 
-building upon largely untheorized inclusivist tendencies in Lakṣmīdhara’s Kṛtyakalpataru, 
-which simply fold into the realm of Hindu law as supplements to its traditional canon the entire 
-spectrum of Purāṇic praxis as well as substantial elements of the Śākta and Śaiva religious 
-world, Hemādri’s Caturvargacintāmaṇi deliberately collapses the esoteric traditions of the 
-early medieval world into the category of the Purāṇas. Then, through selective and emended 
-citations, our text treats the resulting discourse as doctrinally univocal and perfectly in 
-alignment with both traditional Brāhmaṇical canons of knowledge as well as the ethos of the 
-Bhāgavata Purāṇa. Rather than polemicizing against and thoroughly rejecting the systems of 
-praxis that made up the Śaiva Age, at the expense of the existing ecclesiastical establishment, 
-Hemādri assigns authority over the management of Śaiva ritual lives, infrastructure building, 
-and sacred geographies to Brāhmaṇa legalist ritualists who are not themselves initiates into 
-any of the traditions of the Mantramārga. Rendered redundant, the ruling religious powers of 
-the day are then purged from the body politic. As was argued last chapter, to see this 
-1582 
-development as a restoration of Brāhmaṇical normativity after many centuries of diminished 
-influence—a return to normal—is a gross misreading of the historical record. For, as Hemādri 
-himself will tell us again and again, in both its method and conceptual framework, Hemādri’s 
-reimagining of Brāhmaṇical knowledge is self-consciously sui generis. That we do not 
-instantly recognize the radical nature of this iconoclastic vision is merely a reflection of the 
-stunning decree to which Hemādri left his mark on the pages of the history of Indian religions. 
-Hemādri’s iconoclasm—carried out in the service of shoring up the position of what 
-will come to be the dehistoricized Brāhmaṇical establishment—is beautifully illustrated by the 
-closing portion of his final work, the Kaivalyadīpikā, or “The Illuminator of Enstasy.” This 
-treatise ostensibly offers a commentary on his pupil Bopadeva’s Muktāphala—“the Garland 
-of Pearls”— which anthologizes, reframes, and interprets select verses extracted from the 
-Bhāgavata Purāṇa. In its own right, the Muktāphala fuses together one of the first concrete 
-moments in the reception history of the theology of the Bhāgavata Purāṇa with the earliest 
-systematic articulation of the discourse on bhakti rasa. It thus offers an exceptionally odd— 
-but important—contribution to the history of early odern Hindu thought in general and north 
-Indian Vaiṣṇavism in particular. While we will turn to a careful reading of the text in its own 
-right, in our concluding chapter, for the moment what concerns us are not matters of devotional 
-theology, poetics, and Advaita Vedānta philosophy, but more circumscribed questions 
-pertaining to form and style. Perhaps even more egregiously than the “granthakartur praśasti” 
-he had authored generations early, in almost every aspect, Hemādri’s chosen ending for both 
-the Muktāphala and “The Illuminator of Enstasy” flouts the inherited expectations of the 
-proper way to organize a śāstra and the conventions of socially acceptable “aucitya” poetry. 
-1583 
-After wrapping up its discussion of bhakti in the mode of the heroic rasa, Bopadeva’s 
-text concludes with sixteen additional verses. Six of these take as their exclusive focus pun- 
-laden praises of Hemādri. Each and every one of them comes coupled with an extensive 
-commentary in which Hemādri offers profuse explications of his own seemingly inexhaustible 
-greatness. The first verse runs as follows: 
-Muktāphala: Gaze with wonder upon this garland of pearls dredged up by the clever Hemādri through the shipmanship (vaṇijyā) [upon the ocean that is the] Caturvargacintāmaṇi.1439 
-Kaivalyadīpikā: And here, as was stated previously, despite his own [Hemādri’s] authorship, the great minister of the king of the Yadus, Hemādri, has made the petitioned ācārya [Bopadeva] declare authorship of it [the Muktāphala]. That being the case, even up to the conclusion, he makes him [Bopadeva] relate his [Hemādri’s] fame, saying “by the clever. . . .”1440 
-Before we turn to Hemādri’s commentary—or should we say “auto commentary”—on 
-the verse itself, we need to pause and process what we have just learned. On the surface, it 
-seemed that the Muktāphala is a work by Bopadeva, Hemādri’s disciple, that opens and closes 
-with extensive verses in praise of Bopadeva’s teacher and his accomplishments.1441 Though 
-1439Bopadeva, Muktāphala, pg. 321: catureṇa caturvargacintāmaṇivaṇijyayā / hemādriṇārjitaṃ muktāphalaṃ paśyata kautukāt // 1440Hemādri, Kaivalyadīpikā, pg. 321: iha ca svakartṛkatve ’pi yadurājamahāmantriṇā hemādriṇā’ bhyarthita ācāryas tatkartṛkatvaṃ khyāpitavān iti prāg uktaṃ / tad etat paryante ’pi tatkīrtiṃ khyāpayann āha catureṇeti / 1441Somewhat ironically, in contrast to the sparse documentation attached to Hemādri’s writings, the paratexts associated with Bopadeva’s works incorporate many learned and insightful essays reflecting on his biography and intellectual contributions in various fields. On Bopadeva as a grammarian, responsible for the invention of the immensely popular Mugdhabodha tradition of Sanskrit grammar, see Jnanankasekhar Misra, A Critique of the Mugdhabodha System of Sanskrit Grammar (Calcutta: Sanskrit Book Depot, 2006), 21–30. On the basis of Misra’s contextualization of the non-Pāṇinian approaches to Sanskrit grammatical pedagogy popular in the early medieval period, a hypothesis presents itself that Bopadeva’s articulation of a new “easy” approach to learning Sanskrit as a grammatical tradition has a sociological and theological dimension. The two alternative systems then in circulation, namely, the Cāndra school of Candragomin and the Saṃkṣiptasāra school of Kramadīśvara respectively, belonged to and encoded Buddhist and Kālamukha values. The largely unstudied tradition of Vādindracakracuḍāmaṇi Kramadīśvara and Goyīcandra provides an introduction to the Sanskrit grammatical traditions that draws its illustrations from the study of verses of kāvya by the great poets. It eschews the study of Vedic while at the same time making space for an introduction to a range of Prakrits. In short, it is precisely the sort of grammatical tradition decentering Vedic knowledge that one would expect of learned non-Brāhmaṇas intent on producing polymaths who can defeat Brāhmaṇa pandits in debate. Given the nature of Hemādri’s intellectual project, it is unsurprising that his disciple Bopadeva should seek to replace this system with an ideologically more appropriate introduction to Sanskrit grammar. In contrast, the edition of Bopadeva’s father’s 
-1584 
-the manner of praise is somewhat florid even by such standards, this arrangement would be 
-perfectly in keeping with the normal approach to composing a Sanskrit text in classical, early 
-medieval, and early modern South Asia. The existence of the Kaivalyadīpikā in and of itself at 
-all is much less explicable. In South Asia, teachers do not typically compose commentaries on 
-the work of their students. They certainly do not compose commentaries that in length and 
-conceptual sophistication overshadow the root text. And they most definitely do not dedicate 
-substantial portions of these commentaries to discussing themselves. As the sixth-century 
-poetic theorist Bhāmaha, a stickler for traditional propriety, proclaims, “one’s own deeds 
-(svacaritra) are to be related by others (anyaiḥ) and not by the protagonist (nāyaka) himself, 
-for how could a well-born person expound on his own qualities?”1442 
-By the time you reach the end of reading through a text by Hemādri, you are likely to 
-have become inured to such stylistic peculiarities. And so, you may not realize that making 
-somebody else pretend they wrote a text that you yourself composed, just so you can write a 
-commentary on the work that provides you with ample opportunity for self-praise, is no one’s 
-idea of normal pretty much anywhere in the history of human discourse. Even more absurdly, 
-in a rhetorical twist that seems like something out of Borges, both the verses and the 
-autocommentary periodically break the fourth wall, for a moment informing the attentive 
-Siddhamantra, a pharmacological treatise accompanied by Bopadeva’s commentary on his father’s work published along with Bopadeva’s Hṛdayadīpikānighaṇṭu, places both works within the tradition of applied Āyurveda and both authors within the traditions of medicine aligned with the Aṣṭāṅgahṛdaya in the western Deccan. Here we learn that Bopadeva and his father were from a town in Vidarbha, variously called Vedapada or Devapada depending on the manuscript transmission, situated on the banks of the Varadā river (now called Wardha). Priyavat Sharma, ed., Vopadeva’s Hṛdayadīpikā Nighaṇṭu and Siddha Mantra of Vaidyācārya Keśvara with the Prakāśa Commentary of Vopadeva (Varanasi: Chaukhamba Prakshan, 1977). Though not accompanied by any substantial prefaces, mention should also be made of the edition of Bopadeva’s influential pharmacological treatise, the Śataślokī with its autocommentary. Vayaskara Mooss, ed., Śataślokī of Bopadeva. (Kottayam: Vaidyasarathy Press, 1962). Several works of Dharmaśāstra attributed to Bopadeva, some of which seem to be quoted by subsequent Dharmaśāstrins, remain unpublished. 1442 Bhamaha, Kāvyālaṅkāra 1.29: anyaiḥ svacaritraṃ tasyāṃ nāyakena tu nocyate / svaguṇāviṣkṛtiṃ kuryād abhijātaḥ kathaḥ janaḥ // C. Śaṅkara Rāma Śāstri, ed. Kāvyālaṅkāra of Bhāmaha (Madras: Sri Balamanorama Press, 1956). 
-1585 
-reader of the ruse that is being played on them, before abruptly returning to maintaining the 
-extended fiction that the author of the root text and the commentary are completely different 
-people. Keeping in mind our text’s rather novel deployment of the author function, we are 
-ready to turn to Hemādri’s exegesis of “Bopadeva’s” verse offered in celebration of Hemādri 
-and his Caturvargacintāmaṇi. 
-That being the case, even up to the conclusion, he makes him [Bopadeva] relate his [Hemādri’s] fame, saying “by the clever. . .” 
-“By that mercantilism (vaṇijyayā) in the great ocean that is the text known as the Caturvargacintāmaṇi.” 
-Clever (caturaṇa) means that he has learned a distinctive style of the composition of texts. Here is the example: when it comes to shipmanship, having gathered from various countries/locations in texts the accumulated precious objects/favored topics, a man becomes clever in those subjects. In exactly the same way, having assembled quotations that concern the entire teachings on vrata, dāna, tīrtha, mokṣa, and so forth from the various Smṛtis, Itihāsas, Purāṇas, etc., he [Hemādri] has achieved skill in the composition of texts. 
-Then, by that very same delineation, having assembled various verses from the various skandhas of the Bhāgavata Purāṇa that are concerned with the teaching of the fourfold objects that are Viṣṇu and so forth, he [Hemādri] has made this prakaraṇa text called the Muktāphala. And one should see this out of wonder. The remainder is: Hey, O astonished ones! The sense is: when this is perceived, you will attain all pleasures/forms of prosperity. 
-Otherwise, [the verse is to be glossed]: by that shipmanship/being a merchant, i.e., the condition of buying and selling of those gems (maṇi) that are examined with cintā, or discrimination; of those gems, accumulated from the luster of [various] countries/regions, are the classes of the four colors of gems/varṇas and so forth. Clever means skillful. 
-[In this interpretation the meaning would be:] By Hemādri, the wealthy merchant, these pearls that are the Muktāphala are accumulated. 1443 
-1443Hemādri, Kaivalyadīpikā, pg. 321: tad etat paryante ’pi tatkīrtiṃ khyāpayann āha catureṇeti / caturvargacintāmaṇyākhyagranthamahodadher vaṇijyā tayā / catureṇa viditagrantharacanārītiviśeṣaṇa / yathā hi vaṇijyāyāṃ tattaddeśebhyas tāni tāni priyavastūny āhṛtya pumān tattadviṣaye caturo bhavati / tathaitena tattatsmṛtītihāsapurāṇādibhyas tāni niḥśeṣavratadānatīrthamokṣādipratipādanaparāṇi vākyāny āhṛtya grantharacanāyāḥ kauśalam āsāditam / tatas tayaiva rekhayā bhāgavatasya tattatskhandhebhyas tāni tāni viṣṇavādivastucatuṣṭayapratipādanaparāṇi padyāny āhṛtya muktāphalākhyaṃ prakaraṇaṃ kṛtam / tad etat kautukāt paśyata / he kutūhalinaḥ iti śeṣaḥ / asmin vilokite sakalakautukaṃ vāpsyatheti bhāvaḥ / anyatra / caturṇāṃ varṇādīnāṃ vargāḥ deśacchāyāsamūhāṃ teṣāṃ cintā parīkṣā tayopalakṣitā maṇayo ratnāni teṣāṃ 
-1586 
-It is worth our time for a moment to attend to the texture of the text. Hemādri’s verse 
-is conceptually interesting. It makes use of an uncommon theme and attempts, as much of his 
-poetry will do, to construct a śleṣa verse that deliberately yields two discrete interpretations. 
-At the same time, there is a strong case to made that from the perspective of the conventions 
-of classical Sanskrit poetics, this is, objectively speaking, very bad poetry. We can say this for 
-two reasons. The first is basically formal. Properly formed, śleṣas are supposed to result in two 
-equally grammatically and syntactically sound readings of a verse. Here in contrast, unless 
-you treat the compounded phrase “caturvargacintāmaṇivaṇijyayā” as containing a completely 
-elided but essential term, some notion of the ocean—the initial interpretation of the verse 
-makes no sense at all either semantically or syntactically. Indeed, this odd formation almost 
-entirely serves the purpose of making possible the in many ways much more natural secondary 
-reading of the text, where the proper title of Hemādri’s text is subdivided up into its discrete 
-components—such that we have Hemādri, the clever merchant examining with care (cintā) 
-gems (maṇi) from the four classes (caturvarga), and he has dredged up (arjita) pearls 
-(muktāphala). In the hands of a better poet, the two interpretations of the verse would be more 
-equally executed in a manner that better aligns with the demands of syntax. Even if we let this 
-stylistic faux pas slide, whether we view the shipmanship of Hemādri as enabling him to set 
-sail upon either a magic gem or upon a voluminous work of Dharmaśāstra, we are still left with 
-a rather awkward mixed metaphor of the sort that Sanskrit literary critics abhor. 
-The other reason why this verse would be almost certainly have been condemned as a 
-quintessential example of bad or inappropriate poetry (kukāvya) within virtually any sabhā 
-vaṇijyā krayavikrayasthitiḥ tayā / catureṇa nipuṇena / hemādriṇā bahusuvarṇena vaṇijā arjitaṃ muktāphalaṃ mauktikāni / 
-1587dedicated to the formal study of Sanskrit poetics (Alaṃkāraśāstra) is that it violates the cultural 
-propriety of its day. Here it is important to remember that within courtly cultures, Sanskrit 
-poetry is less a matter of “self-expression” than it is a vehicle for producing artisanal objects 
-fit for critical evaluation. Just as was the case with philosophical debate, once it is completed, 
-poetry is intended to be presented in public to be praised or picked to pieces by the learned 
-assembly. While inspiration and the power to evoke strong emotions are certainly considered 
-noteworthy, the appraising of poetry is largely a matter of properly identifying the qualities 
-(guṇa) and flaws (doṣa) of a particular work. 
-Some schools of thought (Rājaśekhara for example is particularly generous) make 
-allowances for captivating and sophisticated verses that occasionally transgress the inherited 
-canon of literary norms. However, by and large, the discourse on poetics, particularly the 
-increasingly dominant Kashmiri tradition, demands that in both its form and content verse must 
-align with the conventions of the poets (kavisamaya). Just as sculptors and architects have their 
-own in-community guild secrets, not readily shared with non-initiates, the conventions of the 
-poets present themselves as a body of less than obvious in-house regulations governing how a 
-literary work must be constructed. Much of this canon associates specific topics and imagery 
-with particular emotional moods or correlates types of subjects and agents with the proper 
-tropes and poetic imagery. For the Kashmiri tradition, which comes to dominate the history of 
-poetics, both sets of concerns are seen as encapsulated in the discourse on literary propriety 
-(aucitya). Now, when it comes to questions pertaining to the analysis of the bhāvas, vibhavas, 
-and sthayibhāvas, especially as it pertains to dramaturgy, propriety (aucitya) is treated 
-comprehensively and explicitly in the surviving literature on poetic theory. Indeed, as we shall 
-1588 
-see in the next chapter, Hemādri’s writings cite liberally from across the spectrum of this 
-discourse, drawing on the writings of Mammaṭa, Bhoja, Abhinavagupta, and, especially, 
-Dhanañjaya and his brother Dhanika. Indeed, the second half of the Muktāphala and 
-Kaivalyadīpikā are dedicated almost exclusively to offering an exhaustive exploration of the 
-relevance of these canons for reconceptualizing the discourse on devotion in the technical 
-language of Sanskrit poetics. In contrast, when it comes to questions of mastering the canon of 
-poetic conventions in the service of understanding the appropriateness of deploying poetic 
-techniques in specific contexts or assigning imagery to specific subjects, while the texts on 
-poetics discuss the operative principles relatively clearly, they view the actual taxonomies in 
-toto of appropriate and inappropriate associations as the sort of thing a poet needs to learn from 
-his teacher. For this reason, the canon is not presented within the śāstras. However, when a 
-commentator particularly invested in understanding what makes poetry “bad” turns to 
-dismantling a sample verse at some length, invoking the maxims of practicing poets, as 
-Mahimabhaṭṭa will do in his exploration of the nature of the poetic flaws in the second chapter 
-of the Vyaktiviveka, we can glean something of the rich and intricate nature of this largely 
-unwritten discourse as well as the impossibility of an outsider to it simply inferring the myriad 
-of rules that govern the game. 
-For those who believed that one of the main purposes of good poetry is to model the 
-way that the world ought to be—by teaching people to act like Rāma and not like Rāvaṇa, and 
-through assigning everything in the three worlds to its proper place—following these poetic 
-conventions is no mere matter of displaying good taste, but an ethical imperative. Conversely, 
-depicting in verse a non-idealized world full of inappropriate associations represents a massive 
-moral failing. Because the rules governing literary practice have been imagined as comprised 
-1589 
-of both entextualized and unentextualized standards, any outsider, however learned and 
-brilliant, who inserted themselves into these discourses without undergoing the proper 
-socialization would inevitably run afoul of breaking the hidden rules. They would therefore be 
-deemed a bad poet, which is to say, a bad person. And just like, to use the canonical example, 
-comparing the burly arm of Balarāma with the soft petals of a lotus is “anaucitya,” because 
-Balarāma by his very nature must be depicted as hard and ripped and a lotus has neither of 
-these traits, habitually homologizing a Brāhmaṇa with a merchant and the making of śāstra 
-with mercantile activities would have represented an appalling breach of etiquette from the 
-perspective of the literati. Because these are domains that operate at different levels of 
-excellence according to divergent principles, and kāvya is supposed to present us with idealized 
-representations of social forms and not the messy realities of the real world, equating Brāhmaṇa 
-and merchant represents nothing less than a breach in the moral order. It’s the sort of thing that 
-only an auteur—and not a properly “educated” member of the community in good standing— 
-would even dream of doing. 
-While in the absence of independent sources of documentary evidence, we can only 
-engage in informed speculation, the irregularities in expression of the sort we have just been 
-exploring found throughout all of Hemādri’s writings themselves offer a substantial body of 
-circumstantial evidence suggesting, as we have suggested before, that our author champions a 
-Brāhmaṇical order into which he himself is only partially and unevenly acculturated. To put 
-things another way, for all his literary aspirations, the new world that Hemādri envisions is not 
-a restoration of the logic that animated what Sheldon Pollock has called the Sanskrit 
-cosmopolis but a replacement for it. In lieu of secret elitist conventions, Hemādri advocates 
-universalized standards. In place of cultivated etiquette, Hemādri preaches values. And it is in 
-1590 
-this spirit, having just told the reader “drop what you are doing and read Hemādri’s books,” 
-that the Caturvargacintāmaṇi prepares us for its new dharma discourse. 
-Universalizing Hindu Dharma 
-Now, in order to remove the doubt (śaṅkā) of a world deprived of light, He, of exalted intellect, lays out the Caturvargacintāmaṇi.1444 
-That wish-fulfilling gem of unmeasurable virtue, which previously Mount Mandara churned forth from the ocean, generally grants much wealth/meaning (artha) from petitioning it. Now, having examined the ocean of all the Smṛtis, Vedas, Purāṇas, and Itihāsas, Hemādri, in rivalry, makes manifest the Caturvargacintāmaṇi. 
-Having examined this very Cintāmaṇi, which restrains the blind darkness at a distance (rudhānam andhāni tamāṃsi dūre), for the sake of fulfilling desires, may good people not put forth exertion elsewhere! 
-May this very Cintāmaṇi, when revered with a mind fixed on nothing else, endow you always with the arts (kalā) you have not beheld without remainder. 
-The chapters in this [work] are in order, the Vrata, Dāna, Tīrtha and Mokṣa. What is fifth is the remainder (pariśeṣa) division (khaṇḍa), where dharma shines undivided (akhaṇḍita). 
-Before introducing us to the formal and conceptual structure of his text, Hemādri 
-pauses to homologize his dharmanibandha to the wish-fulfilling gem that came forth from the 
-depths of the ocean of milk when it was churned by the gods and the demons. This narrative is 
-alluded to so frequently in the text, almost always as part of an extended metaphor, that it is 
-worth taking seriously what such a rhetorical choice implies. During the churning of the ocean 
-(samudramanthana), the ocean gods and the dānavas, working together, entwined the Nāga 
-1444Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa 1.12–16, pg. 3: sa samprati nirālokalokaśaṅkāpanuttaye / vidadhāti caturvargacintāmaṇim udāradhīḥ // yaṃ pūrvaṃ cārucintāmaṇim amitagunaṃ mandarādriḥ samudram nirmathya prāyaśo ‘yaṃ vitarati bahuśaḥ prārthanād artham eva / sampraty ālocya sarvasmṛtinigamapurāṇetihāsāmburāśīn hemādriḥ sparddhayaiva prakaṭayati caturvargacintāmaṇim saḥ // rundhānam andhāni tamāṃsi dūre vicintya cintāmaṇim etam eva / manorathānāṃ paripūraṇāya nānyatra santaḥ śramam ācarantu // ananyamanasā so ‘yaṃ cintāmaṇir upāsitaḥ / vidadhātu sadā‘śeṣam anīṣitakalāni vaḥ // khaṇḍāni cāsmin vratadānatīrthamokṣābhidhāni kramaśo bhavanti / yat pañcamaṃ tat pariśeṣakhaṇḍam akhaṇḍito yatra vibhāti dharmaḥ // 
-1591 
-king Vāsuki, as if he were a rope, around the Mandara mountain. Plunging the mountain into 
-the ocean of milk, they used this impromptu and unlikely contraption as a churning rod, with 
-the aim of bringing forth the nectar of immortality for which the gods and demons alike 
-yearned. In some variants of the story—though interestingly enough, not the Bhāgavata’s 
-telling—the nectar was proceeded by the wish-fulfilling cow, called Kāmadhenu or Surabhi, 
-the wish-fulfilling tree, or Kalpataru, the wish-fulfilling gem (cintāmaṇi), and then, at long 
-last, Śrī bearing the pot of nectar. It is thus certainly no accident that this precise sequence 
-matches in both name and order of appearance the earliest works of dharmanibandha known 
-to Hemādri’s predecessor Lakṣmīdhara, whose own Kṛtyakalpataru’s predecessors in turn 
-were called the great ocean (Mahārṇava) and Kāmadhenu. Quite unlike Lakṣmīdhara, 
-however, who merely used this trope to carve out a place for himself in the discourse, in calling 
-his text the Cintāmaṇi, Hemādri has positioned himself rhetorically as the culmination of an 
-emergent tradition. 
-With the appearance of the Caturvargacintāmaṇi, which fills in all the gaps in what 
-came before, there is no need for good people to ever put forth exertion “elsewhere.” Like the 
-Bhāgavata itself,1445 our nibandha is both final “revelation,” at least of a secular sort, as well 
-as a comprehensive self-illuminating śāstra. For above all else, by its own inherent power, 
-what this text does is illumine the existing darkness that pervades the early medieval Deccan. 
-With this new guiding light, which, against the pretenses of the Kaula niḥśaṅkāvāda is what 
-really removes doubt, we can differentiate the light from the dark, the right from the wrong, 
-the pure from the impure. But more than that, with the Caturvargacintāmaṇi as their guide, 
-1445See for example Barbara Holdrege’s discussion of the Bhāgavata as Kārṣṇa Veda. Barbara A. Holdrege, Bhakti and Embodiment: Fashioning Divine Bodies and Devotional Bodies in Kṛṣṇa Bhakti (New York: Routledge, 2015). 
-1592 
-“good people”—in other words, the right sort of upright Brāhmaṇas—can contribute to the 
-greater project of restraining blind darkness, and those who embody it, at a distance. 
-Furthermore, our author hints, the text also provides this audience—once again, the Brāhmaṇa 
-Dharmaśāstrin—with access to modes of community-specific artisanal knowledge. 
-As we have seen in the previous chapter, with this vision in mind, the text now tells us 
-how it is organized, namely, into four divisions. Of these, two survive mostly intact, a third is 
-available in part, and the fourth, and for Hemādri the most important, thus far seems lost 
-forever. Finally, our author tells us, there is also an appendix, the Pariśeṣa division. Here, as 
-he states enigmatically, “dharma shines undivided.” We have just seen that under the surface 
-these seemingly simple verses all are subtly indicative of key facets of the 
-Caturvargacintāmaṇi’s overall interpretive project. Still, calling dharma “undivided” is 
-usually a mere truism, if not simply metrical filler. What precisely might Hemādri be getting 
-at he when invokes an akhaṇḍitadharma? To understand that, we have to first grasp his 
-idiosyncratic and very specific redefinition of the dharma discourses. 
-Hemādri writes: 
-Dharma is victorious, the sole cause of victory, of which they exemplify six types, due to its union with many intermediary particulars, among which there are also many others [subcategories.] Even the Lord of Speech is not capable of proclaiming the entirety of its divisions. Even the Mahānubhāva sages teach one portion of it in [their] śāstra. 
-Therefore, wise Hemādri, here, in his own śāstra, speaks the particular dharma [called] the universal dharma, distinguished by the desire or non-desire for fruit, which they traditionally hold to be obligatory (nitya) and optional (kāmya).1446 
-1446Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, 1.17–19, pg. 4: dharmo jayaty abhyudayaikahetur yasya prakārān ṣaḍ uhāharanti / avāntarānekaviśeṣayogād anye ’pi yasmin bahavo bhavanti // amuṣya bhedān akhilān pravaktuṃ vācaspater apy asamarthabhāvaḥ / mahānubhāvā munayo ‘pi śāstre tad ekadeśaṃ pratipādayanti // teneha hemādrisudhīḥ svaśāstre sādhāraṇaṃ dharmaviśeṣam āha / phalābhilāṣānabhilāṣabhedāt kāmyaṃ ca nityaṃ ca yam āmananti // 
-1593 
-In just these few verses, by drawing new connections and dissolving old boundaries, 
-Hemādri deliberately upends almost the entirety of the scholastic conversation about what 
-constitutes dharma. Just like it was in Gautama, dharma is singular, but there is no mention of 
-the Veda. It is that single and comprehensive dharma that is sub speciated into six distinctive 
-modes, each of which has its own subcategories. Unlike the highly restricted canon proposed 
-by someone like Aparārka, where everything beyond the designated sources and topics is 
-forbidden to the Dharmaśāstrin or indeed any righteous person, Hemādri leaves open a space 
-for the seemingly subordinate inclusion of new topics, practices, and concerns, provided they 
-can be aligned with his guiding framework. It is for this reason that he says that even the god 
-of speech himself could not tackle the whole subject. 
-By far the most radical assertion—entirely without precedent—however, is what comes 
-next. Hemādri affirms that when he will speak of dharma, he is discussing the same 
-problematic that the Mahānubhāva sages teach in their own śāstras. This is perhaps the first 
-time (at least outside of Tamil Nadu and some Krama teachers of Kashmir) that a wholly 
-vernacular religious tradition, writing and teaching almost exclusively in Old Marathi, is being 
-openly acknowledged as producing not merely legitimate knowledge of some sort, but 
-precisely the same sort of religious discourse that one finds in Brāhmaṇical śāstra. Hemādri 
-acknowledges that Mahānubhāvika dharma—one might even call it religion—is the same type 
-of phenomena as the dharma he teaches and tackles many of the same topics. This evaluation 
-is rendered all the more extraordinary when we recognize that within the decade, at least 
-according to some recensions of the Līḷācaritra, at the council at Devgiri, Hemādri will try the 
-Mahānubhāvika living god Cakradhar for highly particular violations of dharma, and have him 
-1594 
-maimed or executed.1447 Though the matter will have to be addressed in detail in another venue, 
-at least as this trial as depicted in our surviving Mahānubhāvika sources, the very manner in 
-which Cakradhar is taken to trial, namely, not because he is charged with practicing a deviant 
-mode of conduct (ācāra) that has to be suppressed, but instead for a single violation of dharma 
-norms,1448 presupposes the acceptance of the Mahānubhāvikas as participants within a shared 
-paradigm of religion and values. The paradigm in question is none other than the express topic 
-of the Caturvargacintāmaṇi itself: the universal or common dharma. 
-Now, which are these six types of dharma and which one of those will we teach in this śāstra? Thus, it is said [we will teach] the particular type of dharma known of as sādhāraṇa dharma.1449 
-In conformity with dharma, in the Bhaviṣyat Purāṇa [it is stated]: There is remembered to be 1) a single varṇadharma. In addition to that, [there is the dharma of] 2) āśramas, but 3) varṇāśrama dharma is the third. Furthermore, the occasional dharma is a secondary usage [and not one of the six species of dharma]. 
-That dharma that operates by having recourse to a unitary class identity, that is said to be varṇadharma, O king, as in the case of the upanayana. 
-That dharma that operates by having recourse to the stages of life is indeed āśramadharma: begging for alms, the walking stick, and the like. 
-That dharma that operates in reference to one’s varṇa and āśrama status 
-1447On Kolte’s determinations about the textual history of this līlā in the Līḷācaritra corpus, see Christian Novetzke, The Quotidian Revolution (New York: Columbia University Press, 2016), 331, ftn. 45–51. For a masterful treatment of this whole episode of the trial of Cakradhar, see Novetzke, The Quotidian Revolution, 201– 210. 1448Novetzke understand this episode as primarily concerning an accusation levelled against Cakradhar alleging that he has been “attracting a range of high-class women as his devotees, including, purportedly, the wife of Hemādri.” The violation, as Novetzke understands it, is essentially that he is accepting female disciples. As Novetzke (2016, pg. 206) writes: “The verb used for ‘attracted,’ vedhaṇe, primarily implies pious or spiritual devotion rather than sexual attraction; the word suggests a person deeply affected by the presence of another person. Demati, for example, was attracted to Chakradhar in just this way, and there is no hint in the text that there is a sexual attraction. Thus this does not seem to be an accusation of sexual impropriety, but rather an accusation that he attracts women to his order, and indeed many of his key and closest followers are women.” While Novetzke’s analysis is accurate as far as it goes, his interpretation misses the semantically charged nature of vedhaṇe—literally, “piercing”—as evocative quite specifically of high-level initiatory practices within non- dual Śākta Kaula traditions as well as the very specific theological meaning, heavily indebted to the tradition of the Trika, of this practice in Mahānubhāvika sources. We will explore these matters, and their implications for understanding Hemādri’s own theological project, in the concluding portions of the next chapter. 1449Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, pg. 4: atha ke te dharmasya ṣaṭprakārāḥ katamaṃ cāsāv asmin śāstre pratipādayiṣyamāṇaḥ sādhāraṇākhyo dharmaviśeṣa ity ucyate / 
-1595 
-Is the dharma of varṇa and āśrama, as in the case of the mauñjī belt. 
-That dharma that operates through the qualities is called 4) guṇadharma, as in the case of the protecting of the people on the part of one who has had the royal unction. That dharma that operates on the basis of a single [causal factor] is known as 5) occasional/circumstantial (nimittika), as for instance the injunction concerning expiation.1450 
-As Hemādri explains in his commentary on these verses, the reason we need to 
-subdivide dharma modalities into six categories, all of which taken together amount to a 
-unitary dharma discourse, is that in each of them we are specifying the governing causal factor. 
-This is why we need three separate categories for varṇadharma, āśramadharma, and then 
-again, varṇāśramadharma, because in the first case, we are talking only about domains where 
-a single caste identity’s strictures are relevant and in the second, we are talking about instances 
-where only the rules for the stage of life are relevant. It is only in the last case, our familiar 
-notion of varṇāśramadharma, which is hardly being equated with Dharmaśāstra let alone 
-dharma discourse in toto, that conduct is conditioned by both class and stage of life. In other 
-words, this is far cry from the reification of varṇāśramadharma we have presumed animates 
-“Brāhmaṇical” discourse. 
-The fourth case is even more interesting, for it again conflicts with our general 
-presuppositions about the sort of social and ideological program a Brāhmaṇical “restoration” 
-would be advocating. The so-called “guṇadharma,” which again must be completely logically 
-distinct from varṇāśramadharma or any of its components, apparently refers to those dharmas 
-and their required modes of comportment that are “acquired” and retained as qualities by an 
-1450Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, pg. 4–5: tatra dharma ity anuvṛattau bhaviṣyatpurāṇe— varṇadharmaḥ smṛtas tv eka āśramāṇām ataḥ param / varṇāśramas tṛtīyas tu gauṇī naimittikas tathā // varṇatvam ekam āśritya yo dharmaḥ sampravarttate / varṇadharmaḥ sa uktas tu yathopanayanaṃ nṛpa // āśramaṃ ca samāśritya yo dharmaḥ sampravratte / sa khalv āśramadharmas tu bhikṣādaṇḍādiko yathā // varṇatvam āśrayamatvaṃ ca yo ‘dhikṛtya pravarttate / sa varṇāśramadharmas tu syān mauñjīmekhalā yathā // yo guṇena pravartteta guṇadharmaḥ sa ucyate / yathā mūrddhābhiṣiktasya prajānāṃ paripālanam // nimittam ekam āśritya yo dharmaḥ sampravarttate / naimiittikaḥ sa vijñyeyaḥ prāyaścittavidhir yathā // 
-1596 
-agent. And, just as upanayana must be a classified as a varṇadharma, because how it is to be 
-conducted is determined according to the varṇa of the one receiving the sacred thread, with 
-different ages and material objects being specified for each class, so too does the guṇadharma 
-receive its own illustratory example. What we learn is that the guṇadharma “protecting the 
-people,” the role of kings and other big men in the Dharmaśāstra, has as its cause the receiving 
-of a royal unction. As this framework makes explicit, it is not conditioned by varṇa, otherwise 
-we would expect the text to posit a varṇaguṇadharma in the exact same way it specified a 
-varṇāśramadharma. In other words, unlike in our normative presentation of a 
-varṇāśramadharma centered worldview, Hemādri and his sources do not seem to think that 
-being a Kṣatriya is logically related in any way to being a king. 
-The final, explicitly labelled modality, “occasional or circumstantial dharmas,” need 
-not detain us here, though it is worth noting that Hemādri’s definition in his commentary does 
-indeed provide us with further indications that the printed Prāyaścittakhaṇḍa, nowhere even 
-alluded to in the rest of Caturvargacintāmaṇi, is not by his hand, for it teaches a divergent 
-model. What is more important is that, at least in the text as supplied by Hemādri, if you have 
-been keeping count, the Bhaviṣyat Purāṇa has only listed five of its six modalities of dharma. 
-Conspicuously missing is precisely the topic in which Hemādri is most invested, namely, the 
-sādhāraṇa or sāmānya dharma. This is the actual domain where the Caturvargacintāmaṇi 
-seeks to establish itself as indispensable. The omission is so unexpected that it is strongly 
-suggestive that the Bhaviṣyat Purāṇa itself either specifies a different sixth category of dharma 
-entirely or said something Hemādri did not agree with on the subject. In any case, by turning 
-to another resource, namely, the Mahābhārata, Hemādri is able to steer the conversation in his 
-preferred direction. 
-1597But in the Mahābhārata, 6) sādhāraṇadharma [is discussed]: 
-The ritual of śrāddha, tapas, truth, non-anger, being content with one’s own wife, purity, being constantly without envy, knowledge of the self, and patience, O king, these are sādhāraṇa dharmas.1451 
-H: What is not stated and needs to be supplied is that these apply to all four varṇas.1452 
-As James Fitzgerald has rather kindly pointed out, this passage, while not an 
-interpolation per se, occupies a somewhat marginal position within the Śāntiparvan. There it 
-emerges in the context of a teaching given to Yudhiṣṭhira taken from the song of the sage 
-Parāśara as it was related to King Janaka.1453 The teachings on sādhāraṇa dharma make up 
-only the tiniest fraction even of this discourse. Janaka requests from Parāśara instruction in 
-what is essentially proto-Dharmaśāstra, a discourse that contains many eccentric elements. The 
-sage responds by retelling the puruṣasūkta’s account of the creation of the varṇas. This he 
-supplements with a Manu-esque account of the generation of what we called jātis from varṇa 
-mixing. He also offers an odd explanation of the origin of gotras among Brāhmaṇas, 
-subdividing them into the four foundational groupings of Aṅgiras, Kaśyapa, Vaśiṣṭha, and 
-Bhṛgu on the one hand, and those gotras that arose because of the deeds of different sages on 
-the other. Janaka is then taught the specific duties of the varṇas, pretty much verbatim from 
-Āpastamba. It is only after this that, of his own accord, Parāśara mentions the existence of the 
-common or universal dharmas that apply to all varṇas. The major focus of the text, however, 
-is in exploring how and why twice-borns decline in status from undertaking the wrong sorts of 
-activities. At the same time, the text also clarifies that, though Śūdras do not obtain merit from 
-1451Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, pg. 6: sādhāraṇadharmas tu mahābhārate— śrāddhakarma tapaś caiva satyam akrodha eva ca / sveṣu dāreṣu santoṣaḥ śaucaṃ nityānasūyitā // ātmajñānaṃ titikṣā ca dharmaḥ sādhāraṇo nṛpa/ 1452Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, pg. 6: cāturvarṇyasyeti śeṣaḥ / 1453Personal communication, AOS 2016. The translations and analysis here draw upon selections from Fitzgerald’s forthcoming study and translation of the Mokṣadharma division of the Śāntiparvan, which he has shared with me. 
-1598 
-following Vedic injunctions (which are expressly forbidden to them), this does not mean they 
-do not obtain merit at all. After dispensing with an apparently rival theory that suggested that 
-Śūdras were actually created by a whole different deity called Ka, Parāśara proclaims that 
-Śūdras, like everything else in the universe, were created by Viṣṇu. In what is essentially a 
-pretty pro-Śūdra stance for a work of aspirational early Dharmaśāstra, Parāśara informs Janaka 
-that Śūdras who maintain their purity and do pious (but not Vedic) deeds, like anyone else, 
-reside happily in this world and ascend to the next one. 
-Since Janaka is apparently confused with how this stance can reconciled with the idea 
-that Śūdras are born in a degraded status, Parāśara offers further clarification. There are two 
-ways that a person can stain themselves, namely, through foul deeds or by birth. The former is 
-a much more heinous transgression than the latter. Indeed, Parāśara proclaims, with real 
-admiration, that “he who is defiled by birth,” in other words a Śūdra, “but does not do evil 
-deeds is truly a man.” Prefiguring Yudhiṣṭhira’s own commitments, Janaka now asks about the 
-virtues of ahiṃsā and non-cruelty and how they fit into this schema, at which point Parāśara 
-seems to advocate for a fireless form of asceticism animated by ethical virtues and austerities. 
-The discourse concludes with the following words, here provided in Fitzgerald’s translation: 
-King, all the social Orders, having performed all the obligations of the Good Law perfectly, and having spoken nothing but true statements and having abandoned all non-Lawful actions that are cruel toward living beings, go to heaven. You need not ponder this.1454 
-The message, in other words, is clear. There is such a thing as a universal ethical 
-dharma that applies to all human beings, or at least everyone within the varṇa domain. When 
-it is adhered to (and this includes an embrace of noncruelty), living beings of all sorts go to 
-heaven, a reward that even this early may well be conceptually distinct from liberation as such. 
-1454 James Fitzgerald, forthcoming. 
-1599 
-But, as the sage is equally clear in communicating, “you need not ponder this.” In other words, 
-this doctrine of the sādhāraṇadharmas is not the sort of thing exalted people like us focus on 
-or write about. 
-Subsequent discourses heard this message loud and clear. While not unknown in the 
-earlier dharma literature, sādhāraṇa or sāmānya dharma—the two are used interchangeably— 
-typically refers to a bare minimum baseline of shared human values upon which one can 
-construct a particularized vision of various human dharmas inflected on the basis of caste and 
-class. For almost all of śāstra, up until the CVC, it is a marginal topic whose self-evident 
-contents demands no further explication. In fact, in practice, the concept often serves as a 
-rationale for holding those who fall outside of the caste system culpable for crimes they have 
-committed, as for example in the ninth-century Āgamaprāmāṇya of the proto-Śrīvaiṣṇava 
-theologian Yāmunācārya. 
-The first option cannot be accepted, because the reason is unfounded. For, there is no one among men who is not eligible in certain cases for a Śrauta practice—because, a human being as such is already eligible for nonviolence, etc. For, otherwise, Caṇḍālas and the like who are engaging in Brāhmaṇa killing, appropriating their money, intercourse with women of caste, studying the Vedas, etc., could not be defiled, because they would not be the eligible agents with regard to these [offenses]. When a certain person ought not to do a certain thing, their doing so results in sin. Thus, the reason [in the syllogism]—that there exists on the part of everyone eligibility for this sort of Vedic practice—is unfounded, and the example has a defective reason.1455 
-Even closer to our period, in the Brahmacārikāṇḍa division that opens the twelfth- 
-century Kṛtyakalpataru,1456 using many of the same citations Hemādri will deploy, 
-Lakṣmīdhara outlines the universal dharmas without even glossing the term or offering any 
-1455Yāmunācārya, Āgamaprāmāṇya, pg. 138–139: na tāvad agrimaḥ kalpaḥ kalpate hetvasiddhitaḥ / na hi so ‘sti manuṣyeṣu yaḥ śraute kvāpi karmaṇi nādhikuryād, ahiṃsādau nṛmātrasyādhikāraḥ / anyathā hi brāhmaṇahanana- taddhanāpaharaṇa-varṇāṅganāsaṅgama-vedādhyayanādi kurvāṇāś caṇḍālādayo na duṣyeyuḥ, tadanadhikāritvād / yasya hi yan na kartavyaṃ tasya hi tatkaraṇaṃ pratyavāyāya, ataḥ sarveṣām īdṛśavaidikarmaṇi adhikāro vidyata evety asiddho hetuḥ, sādhanavikalaś ca dṛṣṭāntaḥ / 1456K. V. Aiyangar, ed. Kṛtyakalpataru: Brahmacārikāṇḍa, pg. 10–12. 
-1600 
-commentary. Succinctly, the Caturvargacintāmaṇi takes this tertiary topic and expounds upon 
-it exclusively for thousands of pages. This in of itself represents a radical innovation that breaks 
-from the norms of the dharma knowledge system. 
-As should soon become apparent, however, Hemādri is invested in theorizing the 
-common dharma for much loftier reasons. Quite simply, envisioning an alternative mode of 
-adhikāra defined by ethical excellence instead of birthright, on the grounds that the cultivation 
-of virtues and personal purity are actionable by all four castes, he effectively incorporates the 
-concerns and commitments of non-twice-borns within a big-tent Brāhmaṇism. By expanding 
-the definition of the sāmānya dharma so as to incorporate not just the bare minimum standard 
-of moral behavior, but the particular lofty virtues typically associated with Brāhmaṇa-hood, 
-Hemādri gradually develops a rationale for claiming that even Śūdras and women, so long as 
-they act with absolute detachment, can potentially obtain the same soteriological ends as a 
-pakka Vaidika Brāhmaṇa, even if they must acquire them through different means. As we 
-might expect, the alternative modalities prescribed are none other than vrata, dāna, tīrthayātrā 
-and worshipping the deities in mūrtis and temples, the very topics which our text sets out to 
-decisively incorporate as integral to both the practice of dharma and the discipline of 
-Dharmaśāstra. The catch, of course, is that the ability and requirement that non twice-borns 
-can participate alongside Brāhmaṇas in a shared religious system comes at the expense of a 
-loss of agency and sovereignty. In all matters with worldly implications, the Brāhmaṇas will 
-always be in charge. 
-The Mahābhārata’s list of the sādhāraṇadharmas—śrāddha ritual, austerity, truth, 
-non-anger, being content with one’s own wife, purity, being constantly without envy, 
-ātmajñāna and patience—which Hemādri will soon refine and expand, is on the surface an 
-1601 
-imperfect platform for his agenda.1457 Though he never acknowledges this fact, the first of its 
-elements directly conflicts with our author’s own theorization of śrāddha. In a similar manner, 
-the explicit mention of behavior towards a wife—in place of sexual continence in the abstract, 
-for example—undercuts the “universality” of the practice by effectively excluding all forms of 
-professional ascetics. Furthermore, as we are about to see, in offering only a single category of 
-“austerity,” which it calls tapas, the text does not even provide the resources Hemādri’s 
-Vratakhaṇḍa needs to justify the inclusion of the array of practices, beginning with vrata, that 
-the Caturvargacintāmaṇi will teach—nearly none of which appears in this passage—as 
-encompassing the sādhāraṇa dharmas. Besides the authoritativeness of the Mahābhārata 
-itself, the most likely reason this particular text has been selected is that it rather atypically 
-includes ātmajñāna—what Hemādri understands as knowledge of the self-acquired through 
-Vedāntic style inquiry—within the universal dharma. Though it is difficult to understand this 
-topic with any real specificity, as, but for the passage we are about to explore, the entire portion 
-of the text which it makes possible, the Mokṣakhaṇḍa, is now lost, this move was fundamental 
-to our author’s interpretive project. In any case, to alleviate such limitations, in his usual 
-fashion, Hemādri directs us to read the text through the lens provided by a passage from a work 
-of Smṛti, as taught by the sage Devala, in which the actual term vrata is prominently featured. 
-H: Tapas means the cāndrāyaṇa fast and so forth. 
-As Devala says: O king, the disciplining (tapas) of the body by means of the restrains (niyama), conditional vows (vrata), and fasts (upavāsa).1458 
-1457Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, pg. 6: śrāddhakarmatapaś caiva satyam akrodha eva ca / sveṣu dāreṣu santoṣaḥ śaucaṃ nityānasūyitā // ātmajñānaṃ titikṣā ca dharmaḥ sādhāraṇo nṛpa / 
-1458Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, pg. 6: tapaś cāndrāyaṇādi // yad āha devalaḥ— vratopavāsaniyamaiḥ śarīrottāpanaṃ nṛpa / 
-1602 
-H: The word vow (vrata) here signifies ritual baths, philanthropy, mantra repetitions, oblations, ritual worship and fasts. Therefore, all the dharmas that will be taught in Vratakhaṇḍa are indicated to have the quality of universality.1459 
-As we will learn later in this chapter when we place Hemādri into conversation with 
-his immediate predecessors in the world of Dharmaśāstra, nearly every feature of this passage 
-is an innovation. Such novelty starts with this new distinction drawn between tapas, comprised 
-of the cāndrāyaṇa fast and so forth, and another activity Hemādri labels vrata. In the 
-Upasmṛtis, just as we find in Śabarasvāmin and those who follow him, like Manu’s 
-commentator Medhātithi, the cāndrāyaṇa fast is not merely not representative of a separate 
-activity called tapas. It is, in fact, the iconic example of the Smārta vrata. Furthermore, for all 
-of these authorities, the category of vrata, identical to tapas, is strictly confined to the small 
-canon of penance fasts found in these texts, which amount to a form of expiation (prāyaścitta). 
-All other forms of vrata are condemned. Heedless of such precedents, forging his own way, 
-Hemādri simply takes the word vrata and makes it mean what he wants it to mean. And what 
-he makes it mean, apart from the fast (upavāsa) is the whole of religious practices 
-(snānadānajapahomapūjopavāsādi). Until now these practices have never been included under 
-this rubric, but a good deal of them were already integral to the lived religion and social systems 
-of the Śaiva Age. 
-Skipping over all the other terms, as for the moment they are irrelevant, Hemādri offers 
-one final comment on the topic of ātmajñāna, which offers a painful testament to what we lost 
-with the disappearance of the CVC’s Mokṣakhaṇḍa. Unexpectedly, and atypically given his 
-style, this takes the form not of a gloss but of an extended rebuttal of a series of objectors. This 
-1459Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, pg. 6: vrataśabdo ‘tra snānadānajapahomapūjopavāsādi- paraḥ, etena vratakhaṇḍapratipādyānāṃ dharmāṇām api sādhāraṇatvaṃ sūcitam / 
-1603 
-extraordinary passage, the only surviving reflection of the Mokṣakhaṇḍa’s theological program 
-within the Caturvargacintāmaṇi, demands our sustained attention: 
-H: By the word “gnosis of the self,” what is indicated is the fact that all the dharmas to be taught in the Mokṣakhaṇḍa also possess the quality of universal applicability. 
-P: Now, one should not inquire, “On the principle of the eligibility of the Śūdras, all Śūdras do not have eligibility with regard to gnosis; thus, how is it that there can be this kind of universality in regard to the mokṣadharmas?” 
-H: Because it is not possible for them to study the Vedas, given their lack of upanayana, they are ineligible purely with regard to the inquiry (vicāra) into Vedic statements. And moreover, [this position] is not [be valid] because, as in the case of the five sacrifices, we see mention of even Śūdras receiving instruction in the knowledge inculcated by the Purāṇas and Smṛtis: “With regard to non-Vedic subjects, one should cause all the four varṇas to hear.” 
-P: Now, if one were to say, “Even so, how is it the case that Śūdras have eligibility with regards to mokṣa, given that they lack the knowledge that is produced based on deliberation from Upaniṣadic statements?” 
-H: Were you to say this, it is wrong. Because it is established that the gnosis has only one thing as its aim (sādhya), and that is the attainment of liberation. Thus, [we have the Śrutis]: “The one who knows the self crosses over sorrow; the one who knows brahman becomes brahman alone; the one who knows brahman obtains the supreme; by knowledge he enjoys immortality.” Thus, Śruti states the fact that mokṣa is to be accomplished by the knowledge of the self. 
-And because it is reasonable that knowledge of the self can be accumulated on the basis of deliberation (vicāra) on the assemblage (nicaya) of statements in Purāṇas and so forth, [for this reason] we do not accept that such statements as “śrotavya—it is to be heard” have the properties of being injunctions that restrict inquiry [strictly to Vedic sentences]. Or, if we do accept this to be the case [in regard to Vedic sentences], then, because that [injunction] would be restricted to twice-borns, there is [also] an injunction that has the scope of Purāṇic sentences—such as “one should cause the four classes to hear.” Let that kind of injunction also be treated as inclusive of inquiry (vicāra), as in the case the injunction concerning the study [of the Vedas]. 
-And therefore, it is entirely without blame to state that just as sacrifices, although general in that they must be accomplished by a particular substance, must be accomplished by substances that are collected based on restrictions and means that are enjoined as appropriate to various varṇas, thus also, mokṣa, although general in being accomplished by the knowledge of the self, must be accomplished by the knowledge that is produced by 
-1604 
-particular means appropriate to those [varṇas].1460 
-Now that he has established the focus of his work—the explication of the common or 
-universal dharmas—Hemādri turns to justifying his implicit claim that Śūdras and, as we shall 
-soon see, women can achieve liberation, despite their inability to receive the teaching directly 
-from the Śruti. As we are about to see, working within a Mīmāṃsaka-inflected interpretive 
-framework, Hemādri first attempts to establish that the restrictive injunctions in the revealed 
-texts limiting the access of women and Śūdras to liberating knowledge pertain merely to 
-specific, but necessary, substances and component actions involved in Vedic praxis. Thus, they 
-make no claim that the intended results of Vedāntic inquiry, namely, liberation itself, is 
-restricted to twice-borns. He then proceeds to locate and then advocate for a parallel method 
-that pertains to non-Vedic texts to which non-twice-borns have access. 
-To accomplish this task Hemādri has to take on the position articulated in the traditions 
-of Pūrva and Uttara Mīmāṃsā denying ritual eligibilty (adhikāra) to non-twice-borns. In the 
-former discourse, this is typically labelled the śūdrādhikaraṇa, (JMS 6.7), though in actuality 
-parts of the discussion spill over from the preceding rebuttals demonstrating that non-human 
-entities and women should not be considered to have ritual eligibility. In the case of the 
-1460Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, 6–7: ātmajñānam ity anena mokṣakhaṇḍapratipādyānām api dharmāṇāṃ sādhāraṇatvaṃ, na cāpi śūdrādhikaraṇanyāyena śūdrāṇāṃ vidyāyām anadhikāra iti kathaṃ mokṣadharmāṇāṃ sādhāraṇatvam iti vācyam / teṣām upanayanābhāvenādhyanāsambhavād vedavākyavicāra evānadhikāraḥ / na punar avaidike śrāvayec caturo varṇān iti śūdrāṇām api pañcayajñādivat purāṇasmṛtipratipādyavidyopadeśadarśanāt // nanu tathāpi kathaṃ vedāntavākyavicārajanitajñānābhāve śūdrāṇāṃ mokṣadharmādhikāra iti cet, maivam / mokṣasādhanasya jñānasya tadekasādhyatvasiddheḥ, tathā ca śrutiḥ— tarati śokam ātmavit, brahma veda brahmaiva bhavati, brahmavid āpnoti paraṃ, vidyayāmṛtatvam aśnuta iti mokṣasyātmajñānasādhyatāṃ vadati / ātmajñānasya ca purāṇādivacananicayavicāraparicayād apy upapatteḥ śrotavya ityādivākyānāṃ tu vicāraniyamavidhitvānaṅgīkārāt / aṅgīkāre vā, tasya dvijātiniyatatayā śrāvayec caturo varṇān ityādipurāṇavacanaviṣayavidher apy adhyayanavidhivad vicāraparyantatāstu // tataś ca yathā dravyasādhyatvāviśeṣe ‘pi kratūnāṃ tattadvarṇavihitopāyaniyamārjitadravyasādhyatvam, evam ātmajñānasādhyatvāviśeṣe ‘pi mokṣasya tadupāyaviśeṣajanitajñānasādhyatvam iti sarvam anavadyam / My profound thanks to Sthaneshwar Timalsina for helping me to clarify my understanding of the final part of this argument. 
-1605 
-Brahmasūtras of Bādarāyaṇa 1.3.9, this is called the apaśūdrādhikaraṇa. Hemādri’s argument 
-is quite clearly offered as a direct rejoinder to the commentary and subcommentaries on the 
-Śārīrikamīmāṃsā of Śaṅkarācārya, itself a commentary on the Brahmasūtras, for it in fact 
-harnesses a passing aside in that text and develops it into its siddhānta. Yet, to make sense of 
-what is at stake, we have to briefly turn back to the older conversations in Jaimini and Śabara. 
-Śabara begins by addressing whether animals and non-human entities, be they trees, 
-sages or gods—all of whom the Veda depicts as “sacrificing”—can actually perform Vedic 
-sacrifices. After first considering, and then questioning, the position that animals cannot 
-perform sacrifices because they have no sense of the existence of the future, a position he 
-seems to reject, he arrives at the conclusion that they cannot sacrifice, not on the basis of their 
-cognitive capacities or lack thereof, but because they cannot carry out the entirety of the details 
-that make up the prescribed act. In order to be able to eligible to do a ritual, in other words, 
-you have to able to do all of it. On this basis, Śabara shows, we can assert that not only animals 
-and trees—which for example lack hands—but also the gods and the sages are not eligible to 
-perform the rituals. In later case, this is because ritual involves the identification of the deity 
-and the delineation of the sacrificer’s gotra. Since gods, Śabara says, cannot sacrifice to 
-themselves, and sages, such as Bhṛgu, do not actually have a gotra (since we cannot say they 
-descend from themselves), all such agents are not able to sacrifice. 
-Śabara next responds to a series of objectors who take the position that women cannot 
-sacrifice because they are a form of property, a position he rejects as unfounded. Ultimately, 
-we learn that women, so long as they are assisting their husbands, can sacrifice and that they 
-can benefit from the sacrifice, precisely because they are capable of fulfilling all of their 
-assigned ritual responsibilities and meet the requirements of “desiring heaven.” This section 
-1606 
-concludes, however, with plainly stating that women can sacrifice only in so much as they 
-perform a delimited set of tasks. We need to recognize they are in no way equal to men. After 
-some tertiary matters concerning how many people can sacrifice, the Mīmāṃsā Sūtras and 
-Śabara Bhāṣya at last turn to the consideration of the ritual eligibility of Śūdras. 
-One of the strange things about this part of the text, usually ignored in the secondary 
-literature, is that Jaimini himself in the sūtras sees the need to respond at least six times to 
-pūrvapakṣins defending the idea that Śūdras are eligible for Vedic ritual. In several cases, these 
-figures are even given names, such as Bādri. In other words, when the Jaimini Mīmāṃsā Sūtras 
-were being composed or compiled, sometime around the first century BCE, there is every 
-indication that a blanket exclusion of Śūdras from Vedic ritual may well have represented a 
-minority opinion.1461 This Pūrva Mīmāṃsaka discourse on Śūdras concludes with a 
-consideration of the claim, again rejected by Śabara, that, even though the upanayana is denied 
-to them, at least in theory, Śūdras have the ability to surreptitiously acquire the knowledge 
-needed to perform the sacrifices. Should they attain such knowledge, even by a means other 
-than the Veda, the pūrvapakṣin suggests, they would then become able and eligible to sacrifice. 
-Here, in contrast to the previous conversation, Śabara does indeed have access to a Vedic text 
-that explicitly forbids Śūdras from hearing the Veda, and with that the matter is closed. 
-In the Brahmasūtras of Bādarāyaṇa as commented upon by Śaṅkarācārya, a different 
-pūrvapakṣin picks up this same line of argumentation pretty much where the previous 
-1461Further confirmation for this suggestion is provided by the nature of Śabara’s initial defense of his position. Śabara’s case, essentially, is that in a particular passage from the Taittirīya Brāhmaṇa, Brāhmaṇas are told to install fires in the spring, Kṣatriyas during the summer, Vaiśyas during the autumn. Since the Śūdra is omitted from this arrangement, Śabara asserts, the text is trying to tell us that he has no ritual eligibility. However, when the pūrvapakṣin responds by bluntly asking Śabara to show us a place in the text that states an explicit prohibition of Śūdras as sacrificers, one where we do not have to infer such a concept on the basis of the Śūdras omission, Śabara has no response to offer, strongly suggesting that he does not actually have access to this kind of a textual proof. 
-1607authorities had left off. Accepting that Śūdras cannot sacrifice, he argues that there is, however, 
-no rule that prevents a Śūdra from attaining knowledge (nyāyapūrvakatvād vidyāyām apy 
-anavakḷptatvam). Thus, we should assume that being able to obtain knowledge is a universal 
-feature applying to all human beings (nyāyasya sādhāraṇatvāt). Furthermore, he suggests that 
-there are actually inferentially derived pieces of evidence presented in our sources—here, the 
-Upaniṣads— that Śūdras can obtain knowledge. This include texts where the word Śūdra is 
-used in reference to people who obtain knowledge. A case in point is the so-called 
-samvargavidyā contained in the Chāndogya Upaniṣad (yat punaḥ saṃvargavidyāyāṃ 
-śūdraśravaṇaṃ liṅgaṃ manyase),1462 as well as narrative sources in the Mahābhārata where 
-figures like Vidura, of Śūdra birth, are depicted as having the knowledge of brahman. 
-Famously—indeed, infamously from the perspective of his nineteenth- and twenty- 
-century critics—Śaṅkara rebuts this argument by asserting, just as Hemādri’s first pūrvapakṣin 
-will do, that the investiture of the sacred thread (upanayana) temporally precedes the student 
-receiving instruction in the texts. Since the former act makes possible the latter, therefore, you 
-cannot have one without the other. One thing that Śaṅkara does make explicit is that eligibility 
-to receive knowledge requires not merely any old sort of capacity for study (sāmarthya), but 
-is dependent on a specific capacity called śāstric ability (śāstrīye ’rthe śāstrīyasya 
-samārthyasyāpekṣitvāt),1463 in the absence of which one is not fit to receive liberating 
-knowledge. Since Śūdras do not receive the sacred thread, which makes possible the right 
-training, ipso facto, they cannot receive the liberating knowledge from the Upaniṣads. 
-Much of the rest of the Śaṅkara’s commentary, which need not detain us, is dedicated 
-to offering a series of rather stretched reinterpretations of seemingly positive uses of the word 
-1462Śabara, Bhāṣya on Mīmāṃsa Sūtra 1.3.34. 1463Śaṅkara, Brahmasūtrabhāṣya on 1.3.34. 
-1608 
-“Śūdra” in the Upaniṣads as having a metaphorical sense, as well as an invocation of the rules 
-from the Manusmṛti that assert that molten lead and lac should be poured into the ears of any 
-Śūdra who overhears the Veda. Our interest in the text resumes with its conclusion, which 
-seems to provide our own author with his siddhānta. First, Śaṅkara asserts that since in the 
-case of a figure like Vidura who acquired and retained his knowledge in prior lives the 
-knowledge is already present in him, (jñānotpattis teṣāṃ) it is not possible to withhold from 
-him the result that that knowledge brings (na śakyate phalaprāptiḥ pratiṣeddhuṃ), for 
-“knowledge brings about its result in all cases (jñānasyaikāntikaphalatvāt).”1464 As the 
-discourse draws to its close, however, Śaṅkara almost in passing makes an unexpected 
-observation: 
-Because of the Smṛti “One is to teach (śrāvayet) the four varṇas,” [we know] that there is eligibility (adhikaraṇa) on the part of the four varṇas in regard to the acquisition of knowledge from the Itihāsa and Purāṇa. But it is an established position that eligibility for Śūdras cannot be dependent upon the Vedas [and their study].1465 
-Notice that Śaṅkara has not actually said, nor even implied, that the study of the Itihāsa 
-and Purāṇas produces liberative knowledge nor suggested that it does not. His only point is 
-that while Śūdras are excluded from Vaidika knowledge systems, they still have access to other 
-knowledge systems, whatever their worth. Yet this is enough of a hook that Hemādri is able to 
-hang his own argument upon it. Reframing Śaṅkara’s observation, Hemādri points out that 
-what is really at stake here is the ineligibility of Śūdras “with regard to the inquiry (vicāra) 
-into Vedic statements.” Such a prohibition, however, does not necessarily extend to the 
-practice of vicāra on other types of sources. And indeed, Hemādri points out, the first 
-1464Śaṅkara, Brahmasūtrabhāṣya on 1.3.38. 1465Śaṅkara, Brahmasūtrabhāṣya 1.3.38: “śrāvayec caturo varṇān” iti cetihāsapurāṇādhigame cāturvarṇyasyādhikāra-smaraṇāt / vedapūrvakas tu nasty adhikāraḥ śūdrāṇām iti sthitam // 
-1609 
-pūrvapakṣin himself—a thinly veiled form of Śaṅkara—has already told us that the four varṇas 
-are, quite literally, “to be made to hear” the non-Vedic teachings (avaidike śrāvayec caturo 
-varṇān). What Hemādri has noticed is that verb being used here in the above citation, śrāvayet 
-is the optative form of the causative derived from the verbal root √śru. In other words, it is 
-actually derived from the same verbal root as the gerundive śrotavya, “one must listen,” as 
-found in Bṛhadāraṇyaka Upaniṣad 2.4: “ātmā vā, are, draṣṭavyaḥ śrotavyo mantavyo 
-nididhyāsitavyaḥ; The ātman, my dear, is to be seen, to be heard about, to be reflected upon, 
-to be meditated upon.” The reason this is important is that for much of post-Śaṅkara classical 
-Vedānta, this Upaniṣadic statement provides the impetus and justification for the process of 
-Vedāntic study itself, under the auspices of what is called the śravaṇavidhi. 
-Now as Anand Venkatkrishnan as recently demonstrated in an unpublished paper 
-historicizing the śravaṇavidhi, such a notion is not yet present in Śaṅkara. He denies that the 
-Upaniṣads contain injunctions at all. It is also rejected by his disciples. Instead, the doctrine 
-probably first appears in the eleventh-century Pañcapādikāvivaraṇa of Prakāśātman, which 
-comments upon Padmapāda’s Pañcapādikā.1466 In Śaṅkara’s disciple Padmapāda, however, 
-the meaning of śrotavya and so forth, “one must hear,” is already treated as aligned with a 
-threefold process of śravaṇa, manana, and nididhyāsana. Just as importantly for our purposes, 
-when Padmapāda sets out to interpret this act of śravaṇa, he equates the act with two things, 
-namely, learning his teacher Śaṅkara’s Bhāṣya and, more pertinently for our purposes, “the 
-inquiry into the meaning of Vedānta statements (vedāntavākyavicāra) that have as their 
-purpose coming to know the nature of the Ātman (ātmāvagataye).1467 
-1466Anand Venkatkrishnan, “Hum Hain Naye, Andaz Kyun Ho Purana? Hermeneutical Innovation in Prakāśātman’s Pañcapādikāvivaraṇa,” Age of Vedānta Conference, Stanford University, Stanford, CA, November 16, 2019. 1467Anand Venkatkrishnan, “Hum Hain Naye, Andaz Kyun Ho Purana,” 10. 
-1610 
-As Venkatkrishnan has demonstrated, it is only in Prakāśātman’s sub-sub-commentary 
-on Padmapāda’s own subcommentary upon the first five Brahmasūtras that scholastic Vedānta 
-begins to rigorously theorize the logical relationship between how its texts are structured and 
-the actual practice of Vedāntic study, a task he carries out through—surprise, surprise—a 
-renewed investment in the use of Mīmāṃsā reading strategies.1468 And what Prakāśātman 
-begins by doing is demonstrating that the very first sūtra of the Brahmasūtras, to quote 
-Venkatkrishnan, “encodes an entire program of scriptural study that was initially articulated in 
-the Upaniṣads themselves.”1469 What he concludes is that Vedāntic vicāra has for its textual 
-foundation Bṛhadāraṇyaka Upaniṣad 2.4 and what it teaches is not merely that one should 
-“hear” the Upaniṣads, but one should study them, and that one should do it in a particular way. 
-Moreover, what this study entails is a specific method, not superimposed from above, but 
-allegedly derived from the source texts themselves. Ultimately, it is this method, and not the 
-mere fact that a text is an Upaniṣad, that makes the vedāntavākyas serve as means to knowledge 
-of the self. Or, as Prakāśātman puts it (in Venkatkrishnan’s translation), right after you hear 
-the first Brahmasūtra, “Implicitly (arthāt), one realizes that knowledge of Brahman is the 
-means to liberation for a qualified student. Proximity (sannidhāna) suggests inquiry into the 
-statements of Vedānta.”1470 
-Prakāśātman then takes this observation and deploys it in the service of a very different 
-sort of argument, one that establishes that the statement about śravaṇa is not merely an 
-injunction (vidhi) that tells the qualified agent he has to do something, but is actually a 
-restrictive injunction (niyamavidhi) that informs the qualified agent that he has to do something 
-1468Anand Venkatkrishnan, “Hum Hain Naye, Andaz Kyun Ho Purana,” 18–21. 1469Anand Venkatkrishnan, “Hum Hain Naye, Andaz Kyun Ho Purana,” 20. 1470Anand Venkatkrishnan, “Hum Hain Naye, Andaz Kyun Ho Purana,” 19. 
-1611 
-one particular way, forbidding all other alternatives.1471 As you may have recognized, 
-Prakāśātman’s position looks very much like that of Hemādri’s own imagined objector. 
-Hemādri’s solution is to suggest that all that Śruti teaches is that it is the knowledge of the self 
-that yields liberation. What the tradition has taught is in fact merely that the inquiry into the 
-Vedāntic statements is the most convenient method whereby one certain audience can obtain 
-that knowledge and, with it, liberation. Since forms of vidyā that communicate the knowledge 
-of the self are also found in the Purāṇas and Itihāsa, there is no reason that “deliberation 
-(vicāra) on the assemblage (nicaya) of statements in Purāṇas and so forth” would not yield the 
-same result as inquiry into Vedāntic statements. Either we should reject that the śravaṇavidhi 
-is a restrictive injunction, or we should accept that it finds its complement in another 
-śravaṇavidhi that has a different scope of applicability. This, Hemādri suggests, is none other 
-than the statement that “one should cause the four classes to hear” the Itihāsa and Purāṇas. This 
-too can be seen as a mandatory ritual obligation for any fit person, belonging to the four varṇas, 
-who desires liberation. Once again, by “causing to hear,” what Hemādri really means is that 
-the person should be guided through an inquiry process analogous to the one used by 
-Vedāntins. 
-Hemādri concludes by reading this whole process through the distinctions between 
-varṇa, āśrama, and varṇāśramadharmas we encountered earlier in the outline of the six modes 
-of dharma, all of which form a single unity collectively called dharma. Just as the existence 
-of some cases where there are rules inflected and determined by rules pertaining to a single 
-class does not negate the existence of other sets of strictures where class and stage of life both 
-inflect what is to be done (as when the Vedic texts give us different time spans for studentship 
-1471Anand Venkatkrishnan, “Hum Hain Naye, Andaz Kyun Ho Purana,” 22. 
-1612 
-for a Brāhmaṇa, Kṣatriya, and Vaiśya, or different ages at which the upanayana is to be given), 
-it is the same way with the rules governing mokṣa. There is, on the one hand, a general rule, 
-that liberation is always accomplished by means of acquiring knowledge of the self 
-(ātmajñāna). But that rule, in turn, has class-specific inflections that sometimes involve 
-restrictions prohibiting the use of certain substances or engaging in specific actions. For non- 
-twice-borns then, the path to liberation is indeed open, provided, of course, they restrict 
-themselves to a program of inquiry that excludes Vedic texts. 
-Let us take a step back from all the Mīmāṃsaka minutiae and take stock of what just 
-happened. Probably for the first time in an extant Sanskrit treatise composed by an allegedly 
-orthodox authority, Hemādri has just argued that the same process of contemplative 
-deliberation (vicāra) on the profound statements in the Upaniṣads that make possible 
-liberation, and that Vedānta treats as applicable to a highly delimited canon of Śruti passages, 
-can be transposed onto other kinds of texts. He has done this in a scholastic language that meets 
-the requirements of learned discourse, but the end result is that he has normalized the mode of 
-learning about “Hindu” doctrine one was most likely to encounter on the ground in twentieth- 
-century South Asia. Astoundingly, though, much as we saw in Parāśara Gītā from the 
-Mahābhārata, some notion of the existence of such traditions had been in the air for over a 
-millennium, until the CVC this topic seems never to have been written about by anyone, even 
-with the intent of refuting the position. 
-At the same time, Hemādri has also introduced us to one of the primary compositional 
-strategies he will adopt throughout the remainder of his nibandha: argumentation through 
-extensive exemplifications. Through piling up (nicaya) textual citations from the Purāṇas and 
-so forth, as if they were the bricks making up a Vedic altar, and then subjecting them to inquiry, 
-1613 
-Hemādri does not merely limit himself to making evident the particular qualities of the 
-common dharmas. In fact, he effectively reimagines the diverse social and religious ecologies 
-of the thirteenth century as co-existing within an integrated and totalizing interpretive 
-framework where they are subject to a single evaluatory standard. 
-And though Hemādri has spoken about these matters in a learned language, as his text 
-now makes clear, it is evident that his inspiration for this at the time eccentric position 
-originates not from his reading of Vedāntic exegesis, but from his own study of works of 
-Purāṇa and Itihāsa, namely, the Bhāgavata Purāṇa and the Mahābhārata. 
-H: Thus, is it stated in the Bhāgavata Purāṇa: “The triad of women, Śūdras, and the relatives of twice-borns do not have the access to Śruti.” This is why the tale of the [Mahā]bhārata was made by the sage out of compassion. 
-H: In the Mahābhārata, also [it is said:] “O son of Kuntī, having resorted to me, even those ones from sinful wombs, women, Vaiśyas, and likewise Śūdras, go to the supreme destination.”1472 
-Though we have no time to pursue this possibility here, the Bhāgavata in fact may also 
-be providing Hemādri with the very notion of second type for śravaṇa and vicāra that has the 
-Purāṇas as their focus, for a similar notion, albeit not articulated in the language of scholastic 
-Vedānta, is proposed in its opening chapters. Had we access to the Mokṣakhaṇḍa, originally 
-the crowning jewel of the Caturvargacintāmaṇi, where this discourse is resumed and expanded 
-upon for what must have been many hundreds of pages interwoven with dense argumentation, 
-we could arrive at a more solid understanding of such matters. In its dearly felt absence, one 
-can only speculate on just what sort of explicit connections Hemādri had already made, by the 
-1472Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, 7: tathā coktaṃ bhāgavate— strīśūdradvija[b]andhūnāṃ trayī na śrutigocarā / iti bhāratam ākhyānaṃ muninā kṛpayā kṛtaṃ [variant from published edition] // mahābhārate ‘pi [not in critical edition]— mām upāśritya kaunteya ye ‘pi syuḥ pāpayonayaḥ / striyo vaiśyās tathā śūdrās te ‘pi yānti parāṃ gatim // 
-1614 
-time the Caturvargacintāmaṇi is composed, between his Smārta theological framework and 
-the guiding authority of the Bhāgavata. While there is an understandable impulse to simply 
-supply some of these answers by extracting parallel materials treating these same topics from 
-Hemādri’s Kaivalyadīpikā, there is good reason to refrain from such efforts. As we shall see 
-in the next chapter, though the relationship between the two texts remains indeterminate, we 
-have some substantive evidence that this other work, composed much later in Hemādri’s life, 
-in at least some places is advocating for a much more pointedly Vaiṣṇava worldview. In other 
-words, ironically, over the course of his long life, Hemādri seems to have evolved from being 
-the progenitor of early modern north Indian Smārta tradition, of the sort represented by the 
-Bhaṭṭas, to the founding figure of north Indian Vaiṣṇava sectarianism, of the sort proffered by 
-Jīvagosvāmin (excluding the minor matter of our author’s non-dualism). 
-Returning to the opening chapter of the Caturvargacintāmaṇi’s Vratakhaṇḍa, setting 
-these matters to the side, Hemādri resumes his discussions of the nature of the universal 
-dharma, which is above all else a universal code of ethical comportment. As will happens 
-throughout the text, his argument progresses through the compilation of citations, drawn from 
-an array of in this case six distinct sources, all of which catalogue and define different ethical 
-dharmas, with some occasional overlap of key terms, noted below in bold.1473 Even in just this 
-1473For example, while the original Mahābhārata defines the sādhāraṇa dharmas as being comprised of the ritual of śrāddha, tapas, truth, non-anger, being content with one’s own wife, purity, being constantly without envy, knowledge of the self, and patience, the Viṣṇu Purāṇa speaks of the sāmānyadharmas as encompassing fortitude, truth, restraint, purity, charity, restraint of the senses, non-violence, total submission to the guru, following the tīrthas, straightforwardness, being devoid of greed, worship of the Brāhmaṇas and gods and not getting indignant, and the Brahmavaivarta labels as dharma, knowledge, compassion, restraint, purity, truth, not stealing, austerity, being one of who the senses have been conquered, being devoid of anger, and coyness. Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, pg. 7–8: viṣṇuḥ— kṣmā satyaṃ damaḥ śaucaṃ dānam indriyasaṃyamaḥ / ahiṃsā guruśuśrūṣā tīrthānusaraṇaṃ dayā // ārjavaṃ lobhaśūnyatvaṃ devabrāhmaṇapūjanam / anyabhyasūyā ca tathā dharmaḥ sāmānya ucyate // iti / brahmavaivartte— vidyā dayā damaḥ, śaucaṃ satyam asteyatā tapaḥ / jitendriyatvam akrodhī lajjā dharma iti smṛtaḥ // viṣṇudharmottare— tasya dvārāṇi yajanaṃ tapo dānaṃ dayā kṣamā / brahmacaryaṃ tathā satyaṃ tīrthānusaraṇaṃ śubham // svādhyāya[ḥ] sevā sādhūnāṃ sahavāsaḥ surārcanam / gurūṇāṃ caiva śuśrūṣā brāhmaṇānāṃ ca pūjanan // indriyāṇāṃ yamaś caiva brahmacaryam amatsaram / gaṅgāsnānaṃ śivo devo viprapūjātmacintanam / dhyānaṃ nāyāraṇasyaitat samkṣepād 
-1615 
-sampling, it should be apparent that what we have here is a mix of ethical values and ritual 
-practices. Each of his source texts originally offered what were competing construals—as they 
-were evident within certain communities—of which traits and practices do and do not 
-constitute the canon of the universal dharmas. Subsequent sources the CVC invokes, such as 
-the Viṣṇudharmottara, add into the mix even more modes of praxis, such as philanthropy 
-(dāna), following of the tīrthas (tīrthānusaraṇa), textual recitation, service, dwelling in the 
-company of sadhus, worshipping the gods, worshipping Brāhmaṇas, non-envy of Śiva, bathing 
-in the Gaṅgā, and meditating on Nārāyaṇa, many of which will also feature prominently in the 
-Caturvargacintāmaṇi. In other words, by compiling together all the different types of things 
-that distinct sources define as falling under the category of dharma, in some cases not even 
-explicitly as sādhāraṇa or sāmānya dharma, Hemādri is able to arrive at a justification for 
-including within the domain of Dharmaśāstra the hodge-podge of topics, many of them 
-assigned to the Pariśeṣa division, that he will tackle over the course of his encyclopedic work. 
-As he tells us explicitly: 
-H: By the word dāna, [it is demonstrated that] there is the property of universality of those [dharmas] taught in Dānakhaṇḍa; by “the following of the tīrthas,” [it is demonstrated that] there is the property of universality of those [dharmas] taught in the Tīrthakhaṇḍa; and also, by “the worshipping of the Brāhmaṇas and gods,” [it is demonstrated that] there is the property of universality of those dharmas such as the worship of deities as taught in the Pariśeṣakhaṇḍa.1474 
-As by now should be plain, Hemādri’s understanding of the universal and acts of 
-universalization carries a substantively different connotation than we might first anticipate. It 
-does not mean that the same rules apply to all people. Rather, he asserts that a method must 
-dharmalakṣaṇam //. . . . bṛhaspatiḥ— dayā kṣamānasūyā ca śaucānāyāsamaṅgalam / akārpaṇyam aspṛhatvaṃ sarvasādhāraṇāni ca // 1474Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, pg. 8: dānam ity anena dānakhaṇḍapratipādyānāṃ, tīrthānu-saraṇam ity anenāpi tīrthakhaṇḍapratipādyānāṃ, devabrāhmaṇapūjanam ity anenāpi pariśeṣakhaṇḍapratipādyānāṃ devatāpūjanādidharmāṇāṃ sādhāraṇatvam / 
-1616 
-exist whereby all four classes can participate in each of these domains, even if that means, as 
-in the case of dāna, they are simply able to be recipients of perishable goods such as food. The 
-major impact here is that all of these previously site- and community-specific practices have 
-been brought under a single shared umbrella organization. Though never assigned such a name, 
-as might be beginning to dawn on you, in both structure and function this emergent framework 
-strongly prefigures what we now call Hinduism. 
-Once Hemādri has explained just what he means by sāmānya or sādhāraṇa dharma, 
-his attention switches to two different tasks. In the first of these, which he dispatches with 
-quickly, he delineates the table of contents of Vratakhaṇḍa, introducing its topics in sequence, 
-on which the interested reader can consult the footnote below.1475 Once this is done, over the 
-course of the next two hundred and seventy pages out of what is a three hundred page first 
-chapter, Hemādri incorporates and then subordinates the typical conceptual framework that 
-orders a work of Dharmaśāstra beneath a heavily ethicalized theism that, though deeply 
-indebted to Sāṃkhya ontologies, rejects Sāṃkhya style dualism. With this conceptual 
-framework in place, intent upon demonstrating the overwhelming persistence of shared values 
-and ritual practices across a vast array of interpretive communities, Hemādri then marshals a 
-mountain of evidence, starting from the Gṛhya literature and working outward, which 
-demonstrates that ancillary works of dharma literature, Purāṇic texts, and the “sectarian” 
-Dharmaśāstras of the Śaivas and Bhāgavatas, even the transgressive Tantras, have common 
-notions ranging from what constitutes a sweet thing to how one should define and use the 
-1475Quite unlike what we find in the manuscript colophons, Hemādri gives a very abbreviated account of the Vratakhaṇḍa’s core structure. In his saṃgraha, we are told the text contains these main parts: 1) dharmanirūpaṇa, 2) paribhāṣā, 3) vratapraśaṃsā, 4) vratas arranged by mukhyatīthi, 5) various tīthis, 6) vāra and tāra vratas, 7) vratas arranged by yoga, karaṇa, and saṃkrānti, 8) vratas arranged by month, 9) vratas of a śāntika and pauṣṭika nature. In practice, it is the arrangement of the vratas in sequence according to the month of observation that dominates the two volume Vratakhaṇḍa. 
-1617products from a cow. Practically speaking, we might say what he is showing is that they share 
-a worldview. As the first khaṇḍa draws to a conclusion, as we will soon see, it proceeds to 
-catalogue the contents of the world, from Brahmā down to the veritable blade of grass and then 
-culminates with a formal re-presentation of traditionally Tantric Śaiva, Vaiṣṇava, and Saura 
-mantra systems in a manner that renders them structurally analogous and essentially 
-interchangeable. The chapter in fact then ends by gesturing towards the Smārta Pañcayātana, 
-one of whose earliest dateable articulations is actually found embedded in the 
-Caturvargacintāmaṇi’s Pratiṣṭhāpaddhati, portions of which we explored in the previous 
-chapter.1476 In short, for the first time in our discourse, the Vratakhaṇḍa of the 
-1476 Though a ubiquitous feature of early modern north Indian “Smārta” Brāhmaṇa religiosity, no substantial study exists to date historicizing the emergence of the Pañcāyatana system. Apart from a single volume on Smārta pūjā by Gudrun Bühnemann, as well as some stray remarks in an ethnography of the Smārta Brāhmaṇas of Sringeri, we do not even have a substantive literature concerned with the examination of the rituals themselves or their textual foundation. Gudrun Bühnemann, Pūjā: A Study in Smārta Ritual (Vienna: De Nobili Research Library, 1988); Yoshitsugu Sawai, The Faith of Ascetics and Lay Smārtas: A Study of the Śaṅkaran Tradition of Śṛṅgeri, ed. Gerhard Oberhammer (Vienna: Publications of the de Nobili Research Library, 1992). From the perspective of a historian of religion, we can safely discount the usual emic explanation, attributing the spread of the practice to Śaṅkarācārya Bhagavatpāda and his immediate disciples. To be blunt, such a mode of worship is nowhere even mentioned in early Advaita Vedānta discourse and there are numerous indications in the texts themselves that such a value system would have been anathema to these authors. 
-When it comes to material culture, our evidence is equally ambiguous. As Fredrick Asher has argued, there is no reason to believe that the so-called pañcāyatana liṅgas, already evident as early as the sixth century, in which small images of Viṣṇu, Sūrya, and Brahmā flank a Śiva liṅga and appear subordinated to an anthropomorphic Śiva, have anything whatsoever to do with later Smārta Pañcāyatana worship. Fredrick Asher, “Pañcāyatana Śiva Liṅgas: Sources and Meaning,” In Kalādarśana: American Studies in Indian Art, ed. Joanna Gottfried Williams (Leiden: Brill, 1981), 1–11. It is also unclear whether or not the later system of praxis and its corresponding theology share anything but a name with phenomena of the pañcāyatana temple, which is construed as providing five separate chambers dedicated to the veneration of Śiva, Viṣṇu, Sūrya, the Goddess, and either Gaṇeśa or Skanda. As with virtually all the vrata performances outlined in the nibandha literature, epigraphical or material cultural evidence for this arrangement is sorely lacking until the twelfth century. 
-As a term of art, pañcāyatana, referring to a temple where five deities are honored, seems to begin to surface in inscriptions around the same period, particularly in and around Rajasthan, Gujarat and Saurashtra. Thus, for example, at Karulli in Rajasthan, in 1159 CE a certain Queen Vatthalladevī, who is given the moniker “Soma,” is noted to have donated a vāṭika and a kūpa along with a pañcāyatana (vāṭikūpasamāsannapañcāyatanasamyutaṃ). What is absent from these texts however, by and large, is any clear indication of which set of five deities is actually enshrined therein. In the rare cases where such details are in fact given, they provide us with reason to doubt a single equation of the term pañcāyatana with the later Smārta tradition. Thus, for example, the famous Cintrā Praśasti describing the contributions of the Pāśupatācārya Tripurāntaka, which include making a pañcāyatana, is often pointed to as an example of an important precursor 
-1618 
-Caturvargacintāmaṇi offers something that approximates a recognizable vision of a common 
-universalizing Hinduism. 
-Why I Write Such Excellent Books: Reading Like a Pandit, Judging Like a God 
-Out all of the many domains that Dharmaśāstra comprises, in curating his Dharma Reader—a 
-recent volume produced for the series Historical Sourcebooks in Classical Indian Thought that 
-for the first time makes accessible core dimensions of the Sanskrit knowledge systems in 
-translation—Patrick Olivelle selected two focuses. One the one hand, he directs his reader’s 
-attention to the workings of the Indian courtroom, which occupies the later portion of his book. 
-On the other, he begins the volume with an extended explication of what he calls the “Nature 
-and Epistemology of Law.”1477 As Olivelle so aptly and concisely characterizes it, this is the 
-part of the discourse concerned with asking, “What is dharma? And where do we find it?”1478 
-As Olivelle tells us, these kinds of question lead the commentators to have to reconcile 
-competing claims presented by the conflicting sources they have inherited. They also make it 
-incumbent upon the Dharmaśastrin that he work towards defining a canon of what comprises 
-the genuine authorities (pramāṇas) and weighing their relative authoritativeness. In this 
-context, quite unlike in philosophy, the category of pramāṇa is comprised equally of texts, 
-persons, and practices, all of which the Dharmaśāstrin might draw upon to substantiate or 
-deflect a particular claim. Because debates about what constitutes a pramāṇa are being 
-of the institutionalization of Smārta religion. What such a position overlooks is that, when the inscription itself is consulted, the five deities enshrined within the pañcāyatana temple (pañcāyatanāntarale) are the decidedly unorthodox arrangement of Gorakṣa, Bhairava, Hanumān, Sarasvatī, and Siddhivināyaka. Clearly, we cannot simply equate pañcāyatana format temples with the pañcopāsanā system of worship. See Haripriya Rangarajan, Spread of Vaiṣṇavism in Gujarat Up to 1600 A.D. A Study with Special Reference to the Iconic Forms of Viṣṇu (Bombay: Somaiya Publications, 1990); Vinod Kumar Singh, “New Epigraphical Evidence Located at the Tanangarh Fort,” Proceedings of the Indian History Congress 60 (1999): 1126–1138; Krishnendu Ray, “Tripurantaka: A Pasupata ‘Acarya’ at Somanatha (13th Century AD),” Proceedings of the Indian History Congress Vol. 62 (2001): 180–186. 1477Patrick Olivelle, A Dharma Reader: Classical Indian Law (New York: Columbia University Press, 2016). 1478Olivelle, A Dharma Reader, 16. 
-1619 
-conducted in more general terms, theorizing authority necessarily entails coming up with 
-criteria for determining what sources are spurious, heretical, or unreliable. 
-We have worked with this sort of discourse before several times. Our first encounter 
-was way back in chapter 1, in our study of the Dharmasūtras, and from it we began to derive 
-the emic conceptualization of differentiation of authority into site- and community-specific 
-domains as one prominent ethos among competing understandings that helped in 
-reconstructing the episteme that animated the medieval Deccan. We have also explored similar 
-conversations in the preceding chapter, especially in reading through the opening portion of 
-Aparārka’s commentary on the Yājñavalkyasmṛti. In both of those contexts, we were privy to 
-such debates as: are dharmas many or singular? Are they founded on the conduct of specific 
-people and the Veda—or just the Veda? How do we know dharma/s? What specific 
-demographics have the capacity to know dharma/s? In the Caturvargacintāmaṇi’s fleshing out 
-of dharma (dharmanirūpaṇa), one of two main divisions in the first chapter of the 
-Vratakhaṇḍa, all of these questions are ultimately raised and answered. In many cases, the 
-resulting discourse even entails reproducing the classic citations, such as when Āpastamba tells 
-us that dharma just does not go around announcing, “here I am.” But while these materials and 
-the concerns they embody are carried over, as becomes evident once we examine Hemādri’s 
-introduction to this topic, in the Caturvargacintāmaṇi, another idiom for thinking about 
-dharma is given precedent. 
-H: Thus is the description that is the means of the causing the hearer to proceed forth. In the divine scripture, it is said: 
-Dharma is the foundation of the entire universe. In this world, people approach the one who is exclusively devoted to dharma. By dharma, sin is driven away. In dharma, everything is established. Therefore, they say, dharma is supreme.1479 
-1479Cf. Mahānārāyaṇa Upaniṣad 76.7. 
-1620 
-H: In the Bhaviṣyat Purāṇa, it is stated: Dharma is indicated to be the highest good, and śreyas has the characteristic of raising one up [to heaven]. . . . 
-From Viśvāmitra— “The ones who know the Āgama praise that which is being done in accordance with what is real/suitable: that is dharma. That which they revile is said to be adharma”. . . . From Bhṛgu: “Vaidika ritual action is twofold: that which causes one to engage and withdraw. This action, which is created by brahman who has the form of the Vedas, who is creating in heaven and so forth, is the Dharma that is known as engaging (pravṛtti). It is threefold based on the guṇas, according to the division sattva, rajas and also tamas. The karma that comes into being because of thinking about what is desired is devoid of result with regard to liberation. The action of the twice-borns, performed on earth, is understood to be sāttvika. The action that is done, having made the commitment “I do this for the sake mokṣa,” is rājasic action and it will not be the immediate cause of mokṣa.”1480 
-Hemādri opens his delineation of dharma with the last verse of the seventy-ninth 
-section of the Mahānārāyaṇa Upaniṣad. This is one of the textual resources that during the 
-early modern period will become integral to competing Vedāntic visions that aim to depict 
-Indian learned traditions reflecting on religion as fundamentally—as opposed incidentally— 
-theistic in their orientation. While gods, of course, abounded in narrative and lived religion, 
-they had typically occupied a largely marginal place in the learned imagination of śāstra. The 
-same had also been true for what we think of as many commonsense Hindu religious notions— 
-they simply are not the focus of second order reflection in educated Sanskrit discourse. These 
-passages, in contrast, treat dharma as a pervasive metaphysical principle animating all human 
-1480Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa 9–10: atha śrotṛpravṛttisādhanadharmanirūpaṇam / tatra bhagavatī śrutiḥ— dharmo viśvasya jagataḥ pratiṣṭhā, loke dharmaniṣṭhaṃ prajā upasarpanti, dharmeṇa pāpam apanudati, dharme sarvaṃ pratiṣṭhitam, tasmād dharmaṃ paramaṃ vadantīti / bhaviṣyatpurāṇe— dharmaḥ śreyaḥ samuddiṣṭam śreyo ‘bhyudayalakṣaṇam // prathamaśreyaḥśabdenātra śreyaḥsādhanaṃ lakṣyate, śreyo ’bhyudayalakṣaṇam iti śreyaḥśabdasyābhyudayārthavāt. . . . viśvāmitra— yathārthaṃ kriyamāṇaṃ hi śaṃsanty āgamavedinaḥ / sa dharmo ‘yaṃ vigarhanti tam adharmaṃ pracakṣate //. . . . bhṛguḥ— pravṛttaṃ ca nivṛttaṃ ca dvividhaṃ karma vaidikam / svargādau sṛjatā sṛṣṭaṃ brahmaṇā vedarūpiṇā // pravṛttasaṃjñako dharmo guṇatas trividho bhavet / sātviko rājasaṃ caiva tāmasaś ceti bhedataḥ // kāmyabuddhyā ca yat karma mokṣe ‘pi phalavarjitam / kriyate dvijakarmeha tat sātvikam udāhṛtam // mokṣāyedaṃ karomīti saṅkalpya kriyate tu yat / tat karma rājasaṃ jñeyaṃ na sākṣān mokṣakṛd bhavet // 
-1621 
-activities, without dismissing such notions are mere arthavāda. Unlike the understanding 
-widely held among the Mīmāṃsakas, here the realm of worldly dharma is no longer in any 
-way distinct from or subordinated to the realm of Vedic practice. Nor, for that matter, is 
-dharma as it operates in the Veda any different than what we find in other kinds of rituals. 
-Instead of being “apaurṣeya”—authorless and without beginning—the Vedas are now created 
-by brahman during the same time that the worlds were being made. In place of subdividing 
-the world between actions that take place on and off the vedī, the dividing line is now between 
-dharmas that entail activity in the world and produce worldly effects (pravṛttidharma) and 
-those that involve withdrawal from the world and yield results outside of this realm of existence 
-(nirvṛttidharma). These, in turn, are now subdivided according to the guṇas. Intriguingly, for 
-this aligns with Hemādri’s Bhāgavata-dependent arguments in the Kaivalyadīpikā, all actions 
-with a stated intention—which means effectively all of normal ritual—falls under the domain 
-of pravṛttidharma. None of these are of course new notions. Indeed, most of them can be traced 
-back in some form or other to the Mahābhārata.1481 What is radically new is that they are being 
-“centered” in a work of Dharmaśāstra, not merely accommodated. 
-This same ethos, reflected in an implicit but nonetheless rather different theory of 
-textuality, is on display as the section continues. Here, the Caturvargacintamāṇi invokes and 
-expands upon an old trope, already evident in the Mānavadharmaśāstra, in which dharma is 
-identified as a bull whose decline is documented down through the ages. Hemādri’s source 
-here is a long narrative excerpt from the Varāha Purāṇa,1482 which makes a number of 
-1481 For a convenient thematic survey in the context of the epic with extensive textual support provided, see for example Nicholas Sutton, Religious Themes in the Mahābhārata (Delhi: Motilal Banarsidass, 2000). 1482Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, pg. 11–12: mahātapā uvāca— athotapattiṃ pravakṣyāmi dharmasya mahatīm nṛpa / māhātmyena samāyuktaṃ vistareṇa narādhipa // pūrvaṃ brahmāvyayaḥ śuddhaḥ parād aparasaṃjñitaḥ / sa sisṛkṣuḥ prājāsv ādau pālanaṃ tāsu cintayan // tasya cintayatas tv aṅgād dakṣiṇāṅgāt sakuṇḍalaḥ / prādurbabhūva puruṣaḥ śvetamālyānulepanaḥ // taṃ dṛṣṭvovāca bhagavānś catuṣpādaṃ vṛṣākṛtim / pālayemāḥ prajāḥ putra tvaṃ jyeṣṭho jagato bhava // ity uktaḥ sa samuttasthau catuṣpādaḥ kṛte yuge / tretāyāṃ sa 
-1622 
-substantive tweaks to the older narrative. Now, for instance, the bull is made by brahman 
-himself, who enlists it to protect and support all living beings. As is usual, in each successive 
-age, the poor bull dharma stands upon increasingly fewer legs, until in the kali age he must 
-hop about like on a pogo stick. Much less typically, however, this bull and his activities are 
-now filtered explicitly through a three-fold guṇa taxonomy. Moreover, the decline of the bull 
-over the ages now also finds a strange counterpart in how it manifests to different categories 
-and subcategories among the classes. Even in the decrepit kali age, apparently, the bull of 
-dharma manifests as six-fold to Brāhmaṇas, three-fold to Kṣatriyas, two-fold to Vaiśyas, and 
-in just one mode to Śūdras. In other words, what was previously an account of a general decline 
-in dharma over the course of eons has now been reimagined as also conveying a naturalization 
-into the fabric of reality of the unequal differentiation of opportunity that is integral to the 
-universal dharma. This narrative is then supplemented by a series of additional citations,1483 
-almost exclusively drawn from various Purāṇas and the Mahābhārata, that set out to establish 
-tribhiḥ pādair dvābhyāṃ vai dvāpare ‘bhavat // kalāv ekena pādena prajāḥ pālayate vibhuḥ / ṣaḍbhedā brāhmāṇānāṃ sa tredhā kṣatre vyavasthitaḥ // dvedhā vaiśyeṣu śūdreṣu tv ekadhā jagataḥ prabhuḥ / rasātaleṣu sarveṣu dvāpareṣu svayambhuvaḥ // catuḥśṛṅgas tripāc caiva dviśirāḥ saptahastavān / tridhaiva baho viprāṇāṃ mukhagaḥ pālayan prajāḥ // 1483Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, 12–14: mahābhārate— vidyā vittaṃ vapuḥ śauryaṃ kule janma virogitā / samsārocchitihetuś ca dharmād eva prakīrttitaḥ // śabde sparśe rūpe ca rase gandhe ca bhārata / prabhutvaṃ labhate jantur dharmād etat phalaṃ viduḥ / tathā— arthasiddhiṃ parām icchan dharmam evāditaś caret / nahi dharmād vinaiśvaryaṃ svargalokād ivāmṛtam // dharmaṃ cintayamāno ‘pi yadi prāṇair vimucyate / tataḥ svargam avāpnoti dharmasyaitat phalam viduḥ // yathādharmeṇa te satyā ye ‘dharmeṇa dhigas tu tān / dharmaṃ hi śāsvate loke na jahyād dhanakāṅkṣayā // ūrddhvabāhur virauty eṣa na ca kaścid vṛṇoti me / dharmād arthaś ca kāmaś ca sa kimarthaṃ na sevyate / utsavād utsavaṃ yānti svargāt svargaṃ sukhāt sukham / śraddadhānāś ca śāntāś ca dhanāḍhyāḥ śubhakāriṇaḥ // dharmaḥ prajāṃ varddhyati kriyamāṇaḥ punaḥ punaḥ / vṛddhaprajās tato nityaṃ puṇyam ārabhate naraḥ // skandapurāṇe— [Nepalese] // dharmāt sukhaṃ ca jñānaś ca yasmād ubhayam āpnuyāt / tasmāt sarvaṃ parityajya vidvān dharmaṃ samācaret // kūrṃapurāṇe— dharmāt sañjāyate hy arthe dharmāt kāmo ‘bhijāyate / dharmād eva paraṃ brahma tasmād dharmaṃ samāśrayet // āha vedavyāsaḥ— kāmārthī lipsamānas tu dharmam evāditaś caret / na hi dharmāṭ ṭate kiṃcid duṣprāpam iti me matiḥ // nipānam iva maṇḍūkā rasapūrṇam ivāṇḍajāḥ / śubhakarmāṇam āyānti vivaśāḥ sarvasampadaḥ // skandapurāṇe— dharmād rājyaṃ dhanaṃ saukhyam adharmād duḥkhasambhavaḥ / tasmād dharmaṃ sukhārthāya kuryāt pāpaṃ ca varjjayet // lokadvaye ’pi yat saukhyaṃ taddharmāt prāpyate yataḥ / dharmam ekamataḥ kuryāt sarvakāmārthasiddhaye / yaḥ karma dharmasaṃyuktaṃ manasāpi vicintayet / sa varddhate yathā vātaḥ śuklapakṣa ivāḍurāṭ // dīrghakālena tapasā sevitena tapovane / dharmanirdūtapāpānāṃ saṃsiddhyanti manorathāḥ // dharmavṛddhau ca varddhante sarvabhūtāni sarvadā / tasminn asati hīyeta tasmād dharmaṃ vivarddhayet // 
-1623 
-how dharma, and with it Dharmaśāstra, are not confined to one among many narrow domains. 
-Since a single dharma, which has various differentiated expressions, suffuses human life in all 
-its variety, it stands to reason that a single discipline, namely, Dharmaśāstra, should weigh in 
-judgements pertaining to all those domains. 
-It is only once this overarching framework is put into place that Hemādri turns to the 
-question with which most of the dharma literature had typically begun—the consideration of 
-what constitutes a valid authority (atha pramāṇato dharmanirūpaṇam). As we might expect, 
-he begins with a classic proof text, in this case Mānavadharmaśāstra 2.6, which in Olivelle’s 
-translation reads: 
-The root of the law (dharmamūla) is the entire Veda, the tradition (smṛti) and practice (śīle) of those who know the Veda, the conduct of good people (ācāraś caiva sādhūnāṃ), and what is pleasing to one’s self (ātmatuṣṭir).1484 
-For most of the prior commentators on this passage, out of the five sources of authority 
-on dharma Mānu presents here, namely, the Veda, Smṛti, śīla, ācāra, and ātmatuṣṭi, śīla and 
-ācāra are the most transparent and of the least intrinsic interest. As Olivelle demonstrates, for 
-example, in the case of the eleventh-century commentator Govindarāja, śīla is understood as 
-“where love and hatred have been abandoned” (here Govindarāja is following Medhātithi, who 
-goes on a long tangent about yoga as a means of refining one’s sensibilities), and ācāra as 
-“practices such as tying a bracelet on occasions such as marriages.”1485 For Govindarāja, just 
-as it was for his ninth-century predecessor Medhātithi, the real matters under discussion here 
-are defining the nature of Śruti and Smṛti with the aim of excluding from wielding authority 
-1484Olivelle, Dharma Reader, Mānavadharmaśāstra 2.6: vedo ’khilo dharmamūlaṃ smṛtiśīle ca tadvidām / ācāraś caiva sādhūnām ātmanas tuṣṭir eva ca // 1485 In his Dharma Reader, Patrick Olivelle offers us a sampling commentarial reflections on Mānavadharmaśāstra 2.6 (pg. 121–144). The selection from Govindarāja (pg. 142) is rather short, and I have consulted the surrounding commentary. Rao Saheb, The Commentary of Govindarāja on Mānavadharmaśāstra (n.p.: Ganpat Krishnaji Press, 1886). 
-1624 
-systems that fall outside of the Veda. Hemādri, in contrast, does not even bother to comment 
-on such matters, apart from using the occasion to assert the necessity of including the vedāṅgas 
-in representations of the canon. Instead, by taking up these two neglected terms, “śīla” and 
-“ācāra,” and inscribing them with hyper-specific significance, Hemādri rethinks the nature 
-and source of dharmapramāṇa. 
-[PP]: [The Amarakośa says:] “Śīla is in the sense of purity (śuci) or in the sense of activity (carita).” [Now,] based on this definition, because of śīla being defined specifically as ācāra (i.e., carita), well, then why is there a separate mention of it [in Mānu]? 
-H: [If you say that] No. 
-Because ācāra has a particular essential nature (svabhāva) to it, because it consists of the ritual practice that is defined as being the practice from the teacher; its distinction from śīla is clear. In this definition [from the Amarakośa]—“śīla is in the sense of śuci (purity) or in the sense of activity (carita)”—because śīla has as its cause a particular kind of activity (carita), by secondary usage, there is the definition of it [śīla] as being activity.1486 
-Hemādri begins by introducing an imagined objector. This opponent implies that there 
-is a problem with the text in Manu, namely, that by mentioning both śīla and ācāra, the text 
-has repeated itself. Such meaningless repetition, for śāstrins, is a major faux pas. The 
-opponent’s evidence for this is the canonical thesaurus of Amara, perhaps the most important 
-lexical reference work in medieval India, which seems to treat one meaning of śīla as a 
-synonym for carita. The problem here is that many sources in the dharma literature (the 
-Nāradasmṛti, for example) use carita and ācāra essentially as synonyms.1487 In his rebuttal, 
-1486Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, pg. 17: śucau tu carite śīlam ity ācārasyaiva śīlatvābhidhānāt kathaṃ pṛthak upādānam / na, ācāryānuṣṭhānalakṣaṇakriyārūpatvād ācārasya svarūpaviśeṣatvāc chīlasya vyakta eva bhedaḥ / śucau tu carite śīlam iti śilasya caritaviśeṣahetutvād upacāreṇa caritatvābhidhānam/ 1487This dynamic is perhaps most famously evident in Nāradasmṛti’s account of the four feet of dharma, on which one should consult the learned editorial notes of Richard Lariviere, who translates caritra as “custom,” following both the pre-thirteenth-century Bhavasvāmin, as well as the arguments in Ludo Rocher, “Caritram Pustakaraṇe,” Indologica Taurinensia 7 (1979): 345–350. Richard Lariviere, ed. and trans., The Nāradasmṛti (Delhi: Motilal Banarsidass, 2001). Nāradasmṛti 1.10–11: dharmaś ca vyavahāraś ca caritraṃ rājaśāsanam / catuṣpād vyavahāro ‘yam uttaraḥ pūrvabādhakaḥ // tatra satye sthito dharmo vyavahāras tu sākṣiṣu / caritraṃ pustakaraṇe rājājñāyāṃ tu śāsanam // 
-1625 
-which overturns a lot of jurisprudence aligned with positivist legal pluralist stances, Hemādri 
-redefines ācāra solely as the sets of ritual practices one learns from the teacher. Śīla, he 
-suggests, is clearly something quite different from that, so if someone says that śīla is the same 
-as carita, they must just be speaking non-literally. So far, so pedantic—now the fun begins. 
-Hemādri continues: 
-Now, [on what grounds does] śīla cause something to operate as a veridical authority such that it becomes a source of knowledge about dharma [lit., causes what to be authoritative as being dharma]? 
-That essential nature (svābhāva) as being a particular kind of person (puruṣaviśeṣasvabhāva) [i.e., God] that exists only on the part of the ātman and that could not possibly be any other way, provides us with knowledge about it [the self that is God] itself being the sole means of attaining śreyas. . . . 
-And likewise, according Harīta’s statement:1488 
-“Being Brāhmaṇical. . . not being inappropriate, tenderness, not being inhuman (apārūṣyaṃ), being friendly, saying pleasant things, being compassionate, acknowledging what was done for you, providing sanctuary, and being tranquil.”1489 
-H: In Harīta’s statement, the fact of being “Brāhmaṇical” (brahmaṇyatā) and so forth, because of its having an abstract suffix at its end (tā), is making one aware of the fact that śīla is distinct from ritual action (kriyā); it informs one precisely about its being the essential nature (svabhāva). This [what is taught in Harīta] is the thirteenfold [definition of] conduct (śīla). 
-The initial question here concerns how śīla—mere purity, at least of some yet to be 
-defined sort—might play some causal role in the production of dharma. Of the many answers 
-one might anticipate to this question emerging from traditional Vedic discourse, the one 
-Hemādri proffers is among the least expected. As the Sanskrit here is somewhat deceptive, it 
-1488This passage, emended in the original in the middle of the Sanskrit text, has been rearranged for the sake of clarity for an English-speaking audience. 1489Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, 17–18: atha śīlaṃ kasya dharmatāṃ pramāpayati / ātmana eva puruṣaviśeṣasvabhāvo ‘nyathānupapadyamānaḥ svasvya śreyaḥsādhanatāṃ bodhayati / tathā ca brahmaṇyatetyādi hārītavacane bhāvapratyayāntatayābhidhānaṃ śīlasya kriyāvyatirekitā bodhayan svabhāvatām eva jñāpayati / yad āha harītaḥ— brahmaṇyatā devapitṛbhaktā saumyatā aparopatāpitā anaślīlatā mṛdutā apārūṣyaṃ mitratā, priyavāditvaṃ kāruṇyaṃ kṛtajñatāśaraṇyatā praśāntiś ceti trayodaśavidhaṃ śīlam / 
-1626 
-is worth taking apart the internal logic of the argument piece by piece. In defining śīla, Hemādri 
-turns to the no longer extant writings of the Dharmaśāstrin Harīta. Based on our evidence, 
-Harīta may or may not even be offering specifically a definition of śīla, for the word appears 
-nowhere in this selection, but perhaps is only offering a generic list of virtues. In Hemādri’s 
-reading, śīla has thirteen components, but for him the one that is clearly the most important— 
-indeed likely the whole rationale for using Harīta in the first place—entails “being 
-Brāhmaṇical—brahmaṇyatā.” In Hemādri’s contrived justification, what the existence of an 
-abstract suffix—“-tā”—in “being Brāhmaṇa” is supposed to communicate is that śīla is not 
-the same as ritual action, and that “being Brāhmaṇa”—one might even say, Srinivas style, 
-“Brahmanization”—is its defining feature. 
-So far all we have learned is that Hemādri has taken what was previously understood 
-as “ritual purity,” which in the early Dharmasūtras especially served the purpose of enabling 
-one to be ready to participate in Vedic ritual, and socialized the concept. At most, he has made 
-explicit what is already implicit in works like the Mānavadharmaśāstra, namely, that purity is 
-nothing more than the cultivation of the particular habitus that belongs to a high-status class. 
-It is with the next leap in logic that the truly radical innovation, which leads to a thoroughgoing 
-“theisticization” of a previously largely mechanistic dharma discourse, begins. Essentially, 
-Hemādri poses a question: what is the essential nature (svabhāva) of “being Brāhmaṇa”— 
-which in turn is the defining feature of śīla—and for what reason does “being Brāhmaṇa” 
-intrinsically provide us with direct and accurate knowledge about the nature of reality? His 
-answer runs as follows. The essential nature of śīla—which is what it means to be Brāhmaṇa— 
-is that it has the same mode of being underlying its nature as “a particular kind of person” 
-(puruṣaviśeṣasvabhāva). 
-1627The key to understanding this passage—indeed one might say of the whole of the 
-Caturvargacintāmaṇi—is recognizing that this term “puruṣaviśeṣa” is a well-known 
-euphemism. Its most famous occurrence is in Patañjali’s Yogasūtra, “kleśakarmavipākāśayaiḥ 
-parāmṛṣṭaḥ puruṣaviśeṣa īśvaraḥ (1.24.2), wherein it is directly defined as a synonym for 
-īśvara—a form of God.1490 Though this is a text that Hemādri knows extremely well and refers 
-to with some frequency, in light of the rhetorical specificity of his usage, it even more likely 
-that his other source here is the tenth-century Śrīvaiṣṇava theologian Rāmānuja, who for 
-example in his commentary on Vedāntasūtra 1.3, śāstrayonitvāt, repeatedly uses this 
-formulation in the service of arguing for a much more “personal form of god” who dwells 
-within every human being as the essential or defining feature of the soul (ātman). Though 
-Hemādri is a nondualist, after a fashion, and Rāmānuja is most certainly not, he is just about 
-to make a comparable argument. God exists as the part of the ātman “that could not possibly 
-be any other way”—in other words, the element of the self that remains unconditioned by the 
-transactional and ultimately quasi-illusionary world. It is the presence of God within the self 
-that is the defining feature of our inner purity, called “śīla,” which is itself most perfectly 
-manifested in “being Brāhmaṇa.” This inward dwelling lord provides us with the knowledge 
-that it is God alone, as he dwells within in us, that is the sole means of obtaining śreyas—the 
-highest aim in human life. Already we are self-evidently plunged into the realm of a Vedāntic 
-theism. It is only as Hemādri continues to develop this argument, however, that we see why 
-such a perspective is pertinent specifically to the life-world of the Brāhmaṇical Dharmaśāstrin: 
-1490Ironically, the role of Īśvara in Pātañjalian Yoga is far more complex than its subsequent appropriation in a simplified theistic vein of the sort Hemādri is here promoting (though this reading of the text is of a piece with Hemādri’s interpretation of Patañjali across his corpus, which is quite extensive and warrants serious study on another occasion). For a thorough review of the controversy in regard to both the Sanskrit commentarial tradition as well as its colonial and post-colonial reception history, David White, The Yoga Sutra of Patanjali: A Biography (Princeton, NJ: Princeton University Press, 2014), chapter 10, especially pg. 177–181. 
-1628 
-H: But with regard to ācāra, which is a wedding ritual and so forth, from the practice of the binding on the gold bracelet and so forth, there is the ātmatuṣṭi, which, in cases where there is a doubt regarding dharma, on the part of those good people of whom the inner organs are those in which reside the Vedic saṃskāras, is the satisfaction of the mind, with regard to one perspective [i.e., the correct perspective on the doubt about dharma].1491 
-As you may remember, throughout this whole part of the commentary, Hemādri is 
-effectively riffing on Mānavadharmaśāstra 2.6, which had listed five independent sources for 
-knowledge about dharma, namely, Veda, Smṛti, śīla, ācāra, and ātmatuṣṭi. Hemādri’s first 
-piece of exegetical wizardry sets out to reduce this list down to four, and he does this by treating 
-ātmatuṣṭi, what is pleasing to the self, admittedly a nebulous term of art that had been a bane 
-of Mīmāṃsā-oriented commentators for centuries, as a subordinate feature of making 
-determinations regarding what constitutes proper ācāra, now understood simply as any sort of 
-ritual practice. Hemādri’s argument is that in cases where there is doubt about dharma 
-(dharmasandeha), in other words, when a person has to decide between two or more actions, 
-one of which is the right thing to do and one of which is not, “good people” (sādhus in the 
-sense of śiṣṭas) need to listen to their conscience, or, if you are feeling more Freudian, their 
-superego. The whole rationale behind participation in Vaidika social acculturation has been 
-reimagined. What really happens when you are put through a traditional twice-born education 
-is that your inner perceptual capacities (the idea here is something like the antaḥkaraṇa, though 
-the term does not appear) have the Vedic saṃskāras installed inside of them. Though Hemādri 
-does not state this here explicitly—but it was almost certainly to be found in the Mokṣakhaṇḍa 
-and is in perfect alignment with what we find in the Kaivalyadīpikā—what his line of argument 
-1491Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, pg. 18: ācāre vivāhādau kaṅkaṇabandhanādyanu- ṣṭh[ā]nād ātmatuṣṭir / atra dharmasandehe vaidikasaṃskāravāsitāntaḥkaraṇānāṃ sādhūnām ekatra pakṣe manaḥparitoṣaḥ / 
-1629 
-is strongly implying is that this process is really about the cultivation of god’s latent nature 
-within the soul, which expresses itself as “being Brāhmaṇa”—Brāhmaṇical habitus. This 
-“inner Brāhmaṇical voice”—which is really God’s voice—once you learn to listen to it, 
-provides a subtle sort of guidance. Where there is doubt, it tells you to do “the right thing”— 
-both morally and methodologically. When we listen to that voice, we feel a certain form of 
-inner satisfaction. Whatever stimulus produces this type of inner satisfaction, ipso facto, as 
-long as it is in alignment with being Brāhmaṇa, must be the right choice. Ultimately, what is 
-happening here is the self (ātman) that has God as its ultimate nature is being pleased. This is 
-the real meaning, or so our author says, of what Manu has labelled ātmatuṣṭi. 
-What is at stake when we understand that the accurate knowledge about dharma that 
-we derive from the Veda is present within the Veda—not because that authority is intrinsically 
-special, as the Mīmāṃsakas would have it, but because bits of God’s true nature reside within 
-this corpus? For one thing, this perspective immediately opens the doors to the possibility that 
-other canons represent equally valid dharmapramāṇas. The most immediate implication of 
-this position is that without any further argumentation, it elevates the status of the Purāṇas, at 
-least so long as they teach things aligned with brahmaṇyatā—God’s inner voice—such that 
-they become equal to the Veda. After all, as Rāmānuja has already argued—so long as we are 
-talking about the right sort of Purāṇas—in these texts, we are privy to God speaking to the 
-sages who then speak to us. And so, as you might anticipate, Hemādri’s treatment of 
-dharmapramāṇa now expands, first to include all the other sources of knowledge about 
-dharma as outlined by Yājñavalkya, and then, via a citation from the Viṣṇu Purāṇa, to 
-incorporate modes of worldly knowledge, such as statecraft and Āyurveda. On the surface, this 
-might look like a realignment with a classical Nyāya perspective, of the sort we saw in 
-1630 
-Pakṣilasvāmin’s Nyāyabhāṣya, which also recognized multiple domains as sources for 
-veridical knowledge. However, there are key differences, for unlike in that older formulation— 
-with which we are now so well acquainted—where different, even incommensurable modes of 
-knowledge arise from distinctive sources, resulting in a differentiation of domains, here, 
-underneath all the apparent distinctions, everything arises from a single source, namely, God. 
-Moreover, in place of a model where each distinctive domain has its own distinctive authorities 
-whose areas of specialization do not overlap, we are offered the Brāhmaṇa, especially the 
-Dharmaśāstrin, as a jack of all trades who is equally equipped to make definitive judgements 
-in all of these distinct discursive spaces. The justification for this new reality is that “being 
-Brāhmaṇa” means that you can “discern” dharma and you do this by listening to God’s voice 
-inside yourself, which has been conditioned to reveal itself by your training as a twice-born. 
-In other words, “being Brāhmaṇa” is in essence a new kind of epistemological capacity that 
-brings out the hidden unitary order that connects together all the seemingly disparate things 
-that make up creation. 
-On a more quotidian level, through this exegetical maneuver, Hemādri has just 
-provided himself with license to expand the list of authoritative resources to include the texts 
-that matter most to his argument, the vast majority of which were conspicuously absent from 
-even the more extended lists of valid authorities. The Yājñavalkya Dharmaśāstra, which 
-recognizes the Vedas as pramāṇa, alongside more mixed sources of authority such as the 
-Purāṇas, Nyāya, Dharmaśāstra, and the vidyāsthānas, for example, had famously offered a 
-closed canon of what constitutes Dharmaśāstra, comprised of eighteen titles1492 culminating in 
-itself. The problem with this kind of list, of course, is that it excludes all of the resources 
-1492Manu, Viṣṇu, Yama, Aṅgiras, Vaśiṣṭha, Dakṣa, Samvarta, Śātātapa, Parāśara, Āpastamba, Uṣanas, Vyāsa, Kātyāyana, Bṛhaspati, Gautama, Śaṅkha, Likhita, and Yājñavalkya. 
-1631 
-composed after Yājñavalkya itself. The obvious solution, of course, is to compose whole new 
-texts under the same titles, but this only possible if the original work has fallen out of currency. 
-Another possibility, however, is that you can interpolate passages extending the canons into 
-one of these already accepted sources. This is what seems to have happened with the 
-Yamadharmaśāstra, invoked by Hemādri, which adds in the Nāradasmṛti, not so important to 
-Hemādri, as well as Harīta—very important to our author indeed. And though the passage in 
-Yama itself contains nothing to justify any further expansion of the canon, Hemādri simply 
-baldly imposes his own preferences: 
-H: And because there is a word ādi,1493 we supply Budha, Devala, Soma, Jamadagni, Prajāpti, Viśvāmitra, Vṛddhaśātātapa, Paiṭhīnasi, Pitāmaha, Bodhyāyana, Chāgaleya, Jābāli, Cyavana, Marīci, and Kaśyapa [as additional Dharmaśāstra authorities].1494 
-Again, the point here is quite plainly to provide justification for authenticating some of 
-Hemādri’s most important doctrinal influences in this discipline. These are works such as 
-Devala, Viśvāmitra, and Paiṭhīnasi, many of which we have seen him invoke at key points in 
-developing his arguments, and all of which, at least on the basis of their surviving citations, 
-expressed a much more “modern” and theist-curious worldview than the earlier literature. The 
-next step, of course, is achieving something similar with regards to the authority of the Purāṇas. 
-To accomplish this task, Hemādri leans once again on the indispensable, unplaceable “future 
-Purāṇa”: H: Thus, it is said in the Bhaviṣyat Purāṇa: 
-O disciple, having considered those sentences (vākyāni) that are within the eighteen Purāṇas, O great armed one, and likewise having looked within the other Smṛtis 
-1493Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, pg. 19: manur yamo vaisiṣṭho ‘triḥ dakṣo viṣṇus tathāṅgirāḥ / uśanā vākpatir vyāsa āpastambo ‘tha gautamaḥ // kātyāyayano nāradaś ca yājñavalkyaḥ parāśaraḥ / saṃvarttaś caiva śaṅkhaś ca hārīto likhitas tathā // etair yāni praṇītāni dharmaśāstrāṇi vai purā / tāny evātipramāṇāni na hantavyāni hetubhiḥ // At least in the printed edition, this “ādi” is not actually in the text upon which Hemādri comments. 1494 Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, pg. 19: ādiśabdāc ca budha-devala-soma-jamadagni- prajāpati-viśvāmitra-vṛddhaśātātapa-paiṭhīnasi-pitāmaha-bodhāyāna-chāgaleya-jābāli-cyavana-marīci-kaśyapāḥ/ 
-1632 
-(smṛtyantareṣu) by Manu and so forth, which are known to be twenty-six; having examined the sentences (vākyāni) of those [texts] in order, I will tell you.1495 
-As we will see in the next section, where Hemādri will walk us through how he reads 
-and uses texts—though we have no idea what sort of significance this text would have 
-originally communicated, from Hemādri’s perspective, everything about this choice of passage 
-is deliberate and rooted in specific word choices made by the composition. Essentially, the text 
-accomplishes two things. On the simplest level, it explicitly elevates Purāṇa to the exact same 
-level of authority as Dharmaśāstra. The real goal for Hemādri, however, is to meticulously and 
-over the course of many pages continue to develop his core argument that the Purāṇas, just like 
-the Upaniṣads—are comprised of vākyas. This is to say, they contain sentences that are to be 
-subjected to Mīmāṃsā inspired analysis, which will then, through a process of Vedānta-style 
-vicāra, yield direct insight into both pravṛtti and nivṛttidharmas. 
-But of course, there are Purāṇas and then there are Purāṇas. In other words, merely 
-accepting that some Purāṇas are authoritative does not in and of itself yield the result Hemādri 
-is really seeking, namely, to authenticate the sources he needs to make his arguments, 
-especially the Bhāgavata Purāṇa, but also to claim for the domain of brahmaṇyatā the right 
-to adjudicate the dharmas of other communities. To get us there, once again, he draws upon 
-the Bhaviṣyat Purāṇa: 
-H: It is stated that it is the case that there are twenty-six of the Smṛtis consisting of Manu and so forth and that is completed by the ones stated immediately after this. So those that commence with the Mahābhārata, the Rāmāyāṇa, the Viṣṇudharma, and the Śivadharma, along with the Gṛhya[sūtras] and Pariśiṣṭas are also mentioned by the statement “in the other Smṛtis” (smṛtyantareṣu). 
-Likewise, it is stated in the Bhaviṣyat Purāṇa: 
-1495Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, 19–20: tathā hi bhaviṣyatpurāṇe— aṣṭādaśapurāṇeṣu yāni vākyāni putraka / tāny ālocya mahābāho tathā smṛtyantareṣu ca // manvādismṛtayo yāś ca ṣaḍviṃśat parikīrttitāḥ / tāsāṃ vākyāni kramaśaḥ samālokya bravīmi te // iti / 
-1633 
-The Eighteen Purāṇas and the Story of Rāma, the śāstras of the Viṣṇudharmas and the Śivadharma(śāstra)s, O Bhārata. The text pertaining to Kṛṣṇa, the fifth Veda known of as the Mahābhārata. The Dharmaśāstras of the Sauras, O lord of kings, and the ones called Mānava, O lord of the earth—men say that the name of them is [itself] victory. 
-H: Thus, whatever else is also incorporated by the great people (mahājana) who are beyond reproach, that can be understood to be incorporated precisely by virtue of the statement “and in the other Smṛtis.”1496 
-Vasiṣṭhaḥ— 
-Dharma is what is enjoined by Śruti and Smṛti. When that is not obtainable, the conduct of śiṣṭas is authoritative.1497 
-Likewise— 
-Those by whom the Veda is reinforced (paribṛṃhaṇaḥ), which has been passed down in succession, are known as exemplary Brāhmaṇas on account of their direct perception of scripture.1498 
-Through an intertextual conflation of previously discrete sources, Hemādri has now 
-arrived at most of the stances that are constitutive of the early modern north Indian Smārta 
-tradition—what we think of when we think of “Brāhmaṇical religion.” Śruti and Smṛti are now 
-equally sources of injunctions that provide us with information about what we must and must 
-not do. Smṛti in turn now includes both Dharmaśāstra, including all of the community-specific 
-Dharmaśāstras, as well as Purāṇas, which are now placed on a level playing field. The 
-adjudication and interpretation of these sources is now the exclusive purview of Brāhmaṇas 
-who are trained to listen to the God inside themselves, the awareness of whom is inculcated 
-through the process of becoming Brāhmaṇa. It is this inner voice that enables society to 
-1496Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, pg. 19–20: manvādismṛtīnāṃ ṣaḍviṃśa[t]tvam uktam, tac cānantaroktābhir eva pūryate / yāni punar mahābhārata-rāmāyaṇa-viṣṇudharma-śivadharma-prabhṛtīni gṛhyapariśiṣṭāni ca tāni ca smṛtyantareṣu cety anenaivoktāni / tathā coktaṃ bhaviṣyatpurāṇe— aṣṭādaśa purāṇāni rāmasya caritaṃ tathā / viṣṇudharmāṇi śāstrāṇi śivadharmāś ca bhārata // kārṣṇyaṃ ca pañcamo vedo yan mahābhārataṃ smṛtam / saurāś ca dharmā rājendra mānavoktā mahīpate //. . . . evaṃ yac cānyad apy avigītamahājanaparigṛhītaṃ, yad api smṛtyantareṣu cety anenaiva pargṛhītaṃ veditavyaṃ / 1497Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, pg. 20: vasiṣṭhaḥ— śrutismṛtivihito dharmas tadalābhe śiṣṭācāraḥ pramāṇam / 1498Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, 20: tathā— pāramparyāgato yeṣāṃ vedaḥ sa paribṛṃhaṇaḥ / viśiṣṭā brāhmaṇā jñeyā śrutipratyakṣahetavaḥ // 
-1634 
-properly access and make use of Śruti and that determines how we must read the Smṛti. With 
-this sort of hermeneutical apparatus in place, in contradistinction to the attempts at reasserting 
-Brāhmaṇa authority we found in Aparārka, for example, there is no longer any need to reject 
-canons of texts like the Śiva, Vaiṣṇava, and Saura Dharmaśāstras or schools of thoughts like 
-Sāṃkhya, Yoga, Pāñcarātra, or even Pāśupata/Śaiva knowledge. We simply leave the reading 
-of them to Brāhmaṇas with the right kind of instincts who will extract from them the right 
-kinds of details and messages. Apart from substantiating the authority of the Bhāgavata 
-specifically,1499 which tends not to be listed in most canons of Purāṇa titles (this Hemādri will 
-accomplish through creative reinscriptions, the details of which need not detain us), a bare 
-outline of the whole ideological apparatus that powers the rest of the text has now been 
-presented to the reader—and we are only twenty five pages into the Caturvargacintāmaṇi’s 
-three hundred page first chapter! 
-Essentially, the rest of this chapter of the Vratakhaṇḍa is going to accomplish two more 
-tasks. The next five pages are going to introduce us to defining features of dharma (lakṣaṇa), 
-which Hemādri will tell us has seven characteristics, namely, place (deśa), time (kāla), method 
-(upāya), substance (dravya), śraddhā, pātra, and tyāga. Most of what is going on here is that 
-Hemādri is homologizing Mīmāṃsā categories for thinking through and with rituals to Purāṇic 
-textual realities. The characteristics of dharma1500 are then followed by a two-part prelude to 
-1499 Hemādri’s evidence in support of the inclusion of the Bhāgavata here is very sketchy indeed, amounting to a single citation, otherwise unattested, purportedly from the Kālikā Purāṇa, which seems to connect that work with a Bhāgavata text presumably of a markedly different character than the famous work bearing that title. Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, pg. 22: kālikāpurāṇe— śaivaṃ yad vāyunā proktaṃ vairiñciṃ sauram eva ca / yad idaṃ kālikākhyaṃ yatmūlaṃ bhāgavataṃ smṛtam // 1500 Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, 25–26: Both Śaṅkha and Likhita say: “Now the characteristics of dharma: deśa, kāla, upāya, dravya, pātra, and tyāga.” H: In all of these, the uprising of dharma is universal (sādhāraṇa); otherwise, a dharma that is endowed with śraddhā or pātra would be inverted [i.e., not sādhāraṇa]. Kāla means certain processions of the planets and so forth. Thus, kāla is the occasion for arising of both the substance and the śraddhā, and thus it is the foundation of both of those two things. Deśa is Brahmāvarta and so forth. Upāya means way a thing has to be done (itikartavyatā)—i.e., the sequential procedure for doing it. Dravya 
-1635 
-the rest of the chapter. First, we are offered a reflection on the depiction of place 
-(deśanirūpaṇa), again relying heavily of Bhaviṣyat Purāṇa, that sets out to expand the notion 
-of Āryavārta, the Indo-Gangetic Plain. It is replaced with a notion of Brahmāvarta, “another 
-country where the ṛṣis reside,” a realm that is made to encompass, among other place, the 
-Dakṣiṇāpatha—Maharashtra and the Koṅkaṇa. The second part explores the concept of 
-śraddhā, “being a believer,” as Hemādri understands it. This is a topic we explored already in 
-the previous chapter. Here, the focus is on how it is śraddhā that underwrites all activity in 
-much the same way that dharma forms the foundation of all things.1501 
-Everything that follows thereafter is designed to offer one stop shopping for the 
-Brāhmaṇa Dharmaśāstrin as he assumes his newly minted role as expert on all things 
-“religious.” Somewhat ironically, once you understand why it is there, this material is much 
-more straightforward and accessible than everything that preceded it, so we will just provide a 
-more general overview, highlighting a few interesting details. Depending on how one chooses 
-to enumerate the subsections, the so-called Paribhāṣā division has between twenty and thirty 
-sections. As a representative sampling of these headings makes plain, all of what is on offer 
-amounts either to technological guidance or ritual methodologies. 
-Thus, after instruction on the uses of the oṃkāra and other ritual basics, we are given 
-a crash course in the mechanics of key elements of śilpa tradition,1502 previously a domain 
-means the substances to be acquired by one’s activity/livelihood. Śraddhā means being a believer (āstikyabuddhiḥ). Pātra means endowed with the three vidyās [i.e., the Veda]. Within all of these, there is the arising of universal dharma.” atha nimittato dharmanirūpaṇam / śaṅkhalikhitau— tatra dharma lakṣaṇāni / deśaḥ kāla upāyo dravyaṃ śraddhā pātraṃ tyāga iti / samasteṣu dharmodayaḥ sādhāraṇo ‘nyathā viparītaḥ śraddhāpātrasa[m]panno dharmaḥ / kālaḥ saṃkrāntyādiḥ śraddhādravyotpattir iti kālas tanmūlo deśaḥ deśo brahmāvartādiḥ / upāya itikartavyatā / dravyaṃ svavṛttyupārjitam / śraddhā āstikyabuddhiḥ, pātraṃ vidyātrayīsampannam / eṣu sādhāraṇadharmotpattiḥ / śraddhādravyotpattir iti kāla iti ayam api saṃkrāntyādivad dānādau dharmakālaḥ / tanmūlodeśa iti / evaṃbhūtakālasaṃpanno deśo ‘pi dharmasya sampādayitety arthaḥ / 1501Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, 30–31. 1502Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, 44–66. 
-1636 
-reserved for the largely Śākta artisan communities. There are instructions on the defining 
-features of the stone and metal turtles (brahmakūrca) that one sees ubiquitously in front of 
-Maharashtrian temples but hardly anywhere else on the subcontinent, as well as definitions 
-and proportions for different parts of the temple, such as the prākāra and praṇāli. The 
-Dharmaśāstrin is then presented with an esoteric technology of measurements and proportions, 
-which culminates in a long exposition of how to build a maṇḍapa. Almost all of the text we 
-encounter here is excerpted directly from the Śākta and Śaiva Tantras addressed to the 
-pratiṣṭhāpanācārya. The Piṅgalāmata in particular provides the terms of the discussion, 
-supplemented by teachings from the Pratiṣṭhāsārasamuccaya, a later compilation that draws 
-on both Śākta and Śaiva sources, as well as nominally Siddhānta Tantras like the Svāyambhuva 
-and Kālottara. Once we have the rules we need for making the sacred space where rituals will 
-be performed, Hemādri guides us through the rituals themselves, such the production of the 
-kalaśa vessels, all of course using domesticated procedures. We are given vidhānas for the 
-traditional feeding and reception of Brāhmaṇas, called the madhuparka,1503 as well as a 
-standardized procedures for performing homa oblations, including how to set up the fire pits. 
-Now that we have a grasp of the basics of the preliminary procedures involved in most 
-acts of worship, Hemādri catalogues all the different sorts of entities that might serve as a focus 
-of worship in the voluminous section entitled “forms of the deity” (devatāmūrtayaḥ). This 
-occupies pages 70–222 of the printed edition and is far and away the longest part of the chapter. 
-Most of what we are offered are the names of deities accompanied by different visualizations 
-(dhyānas). Sometimes, multiple versions are given for the same deity. In a comparatively small 
-number of instances, these visualizations are assigned to specific Purāṇic sources, or to 
-1503Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, 69. 
-1637something called the Viśvakarmamata, the source, for example, of the most famous 
-iconographic guide to the goddess Mahālakṣmī. In the vast majority of cases, however, no 
-source is specified. All of these features of our text’s strategic deployment of rather varied 
-textual resources are in evidence in its presentation of an extended catalog of ferocious 
-goddesses.1504 As you can see even from the names given below, what we are being offered 
-here are a mixture of icons drawn from the Purāṇic canon and Śākta goddesses from Tantras. 
-Given the contents of the visualizations, many of which are permeated by either the language 
-of the cremation grounds or the ecstatic rhetoric of later Kaula traditions, it is very likely that 
-many of the original unnamed sources from which these passages were extracted were found 
-in Śākta Tantras. In Hemādri’s text, however, all these deities are treated as if they are 
-subspeciations of a generic great goddess, called Caṇḍikā, whose core manifestation has ten 
-arms.1505 Though we will not be examining those sections in this work, in his discussion of 
-Navarātri, Hemādri will harness these materials in the service of demonstrating that the proper 
-way of worshipping the goddess is through the recitation and performance of the 
-Devīmāhātmya. Apart from rethinking the nature of the goddesses, all of whom are treated as the same 
-kind of entity—the devatā—the key focus in this division on mūrtis is that the 
-Caturvargacintāmaṇi offers what is probably our first presentation of Indic religion as 
-comprising a single unitary pantheon. Here is the Pañcarātra, the incarnations of Viṣṇu but also 
-1504To cite just the first few examples, we are given in many cases multiple visualizations for Sarvamaṅgalā, Kālarātrī, Lalitā, Nīlajyeṣṭhā, Bhūtamātā, Surabhī, Yoganidrā, the mothers beginning with Brahmāṇī, the Navadurgās, Kalavikaraṇī, Balavikaraṇikā, Balapramathanī, Sarvabhūtadamanī, Manomanī, Pārvatī, Mahākālī, Vāruṇīcāmuṇḍā, Śivadūtī, Kātyāyanī, Ambikā, Yogeśvarī, Bhairavī, Rambhā, Śivā, Maṅgalā, Vaiṣṇavī, and Vijayā. Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, 76–103. 1505Her iconography is given on page 80 of the Vratakhaṇḍa, vol. 1. The larger argument about the nature of the goddess is spread out over a series of vratas, including the procedures for Navarātri, most of which are found in the second volume of the Vratakhaṇḍa. 
-1638 
-Kṛṣṇa’s companions, such as Yaśodā and Devakī. We find many forms of Śiva, Virūpākṣa, 
-Ardhanārīśvara, Harihara, the aṣṭāmūrti and the dvādaśamūrti, but also visualizations of the 
-individual Vedic sages along with figures like Nārada and Vālmīki. There are the Vasus and 
-the Vedic gods, but also, in many cases drawing upon the lost Mayasaṃgraha, iconography 
-for all different types of supernatural creatures, such as yakṣas. There are the planetary deities, 
-which of course have a long history, but also anthropomorphic personifications of specific 
-types of astrological signs and conjunctions, the months, and other phenomena. Aśvinī, for 
-example is mounted on a lotus (shouldn’t that be seated?) and has the face of a horse.1506 While 
-the personification of weapons is to be expected, the embodiment of pure abstractions to which 
-a sacrifice might be dedicated is again somewhat anomalous. 
-Now that the gods have all been assembled under one all-inclusive Smārta tent, which 
-treats them as largely interchangeable in terms of the method of their propitiation, Hemādri 
-offers the Dharmaśāstrin a quick introduction to Mantraśāstra.1507 What these materials 
-demonstrate is that for what is probably the first time in our documented record, Hemādri is 
-aspiring to hand over to a newly minted community of Smārtas the previously secret and not 
-widely circulating ritual technologies of discrete religious communities so as to make them the 
-commonly held property of a single religious professional. To aid with the execution of deity 
-1506Hemādri, Caturvargacintāmaṇi, Vratakhaṇḍa, vol. 1, pg. 156: atha nakṣatrarūpāṇi kathayāmi samāsataḥ / tatrādāv aśvinī jñeyā padmapatranibhā śubhā / aśvavaktrāmbujārūḍhā dvibhujā ca sitāmbarā / dakṣe divyauṣadhīpātraṃ bibhratī pustakaṃ kare // 1507 Here, in lieu of a formal initiation into the community, the text explains and transmits the dvādaśākṣara mantra—oṃ namo bhagavate vāsudevāya, the nārāyaṇāṣṭākṣara mantra—oṃ namo nārāyaṇa and the Śaiva ṣaḍakṣarī and pañcākṣarī mantras—[oṃ] namaḥ śivāya, along with complete explanations of their significance extracted from relevant portions of the Purāṇas. When it comes the now extinct system of the Sauras, however, instead of just providing the Saura ṣaḍakṣara mantra—oṃ namo ādityāya, Hemādri presents us with an complete outline of the Saura mantra system, including a mūla mantra (oṃ khakaholkāya namaḥ) and the full ingredients for a mantra nyāsa (oṃ viṭhiṭhiṭhaṭhaṭhaḥ śiraḥ / oṃ jvalajvalaṭhaṭhaśikhā / oṃ sahasra sau ṭha ṭhaḥ kavacam / oṃ sarvatejodhipataye ṭhaṭha astram), a set of Gāyatrīs, directional mantras, a mode for venerating Revatī, invocations of the planets, and mantras for summoning and dismissing the god (āvāhana and visarjana mantras). 
-1639 
-specific prayogas, the text then imparts twenty-six deity specific variations of the Gāyatrī 
-mantra. As you may already be seeing, now that our author has constructed a singular and 
-unitary theistic theory of ritual action and delineated that its preferred medium of expression 
-is none other than Dharmaśāstra, Hemādri seeks to recast the contents of what were previously 
-essentially distinctive religious traditions with their own theologies, values, and community- 
-specific practices, and reimagine them as essentially dogmatically and functionally equivalent 
-stylistic inputs operating within a single shared mode of ritual operation where the main points 
-of variation are the deity names invoked and the specific mantras being used. 
-In the spirit of this new vision of a universal dharma, Hemādri selects, of all works, 
-the Śivadharmaśāstra and Liṅga Purāṇa. He outlines the procedures they give for performing 
-a ritual bath on a śivaliṅga, and then prunes his sources so these very same procedures become 
-instructions on how to perform “the common procedure” for “the great bath” (mahāsnāna) as 
-it is used in all basic modes of worshipping any deity. Pulling from the east Indian Kālikā 
-Purāṇa, again minimizing references to a specific devatā (though here Parameśvara is indeed 
-mentioned), he derives a procedure for mahāpūjā, again to be used regardless of the focus of 
-worship. Regarding the use of tāmbūla and other substances for feeding and entertaining the 
-god, our author pulls from an unspecified (perhaps Saura?) ratnakośa. When it comes to the 
-procedure for the waving of the great lights (mahādīpavidhi)—precursor to the modern ārati— 
-Hemādri’s source is the Viṣṇudharmottara. Should we decide that the Ratnakośa in question 
-is in fact a Saura source—not implausible—then Hemādri would have deliberately drawn upon 
-resources from scriptural resources aligned with four of the traditions (Vaiṣṇava, Śaiva, Saura, 
-Śākta—all that is missing are the Gāṇapatyas) that make up the Smārta pañcāyatana.1508 
-1508The relevant passages, extracted from two distinct texts and much of which are quite obscure are found on pg. 312–315 of the Caturvargacintāmaṇi’s Vratakhaṇḍa, vol. 1. Note that in the initial text, whose source is not made 
-1640 
-Since the objective of our text is to present a complete ritual tool kit to a newly 
-emergent class comprised of a new kind of professional—and ignorance among Brāhmaṇas 
-about how to execute and manage ritual may well have come in all sorts of shapes and kinds— 
-our text next digests just enough astrology, both its technical terms of art and the basic rules 
-for determining ritual times, to facilitate its use in ritual. Suggesting once again that many 
-among the intended audience, obsequious twice-born rhetoric aside, in actuality had minimal 
-formal training in the contents of Vedic ritual, after a digression on mudrā, the Vratakhaṇḍa 
-distills each of the four Vedas down to their most commonly used mantras, as arranged by 
-meter as well as theme. The end result strongly resembles the correspondence courses of a 
-generation ago, where a person could send away for a workbook and a set of audio tapes and 
-after six or eight weeks of study set themselves up as a pūjāri for hire who had “mastered a 
-Veda.” In essence, they amount to a commodification and instrumentalization of Vedic 
-knowledge in the service of the mass professionalization of a demographic of people with 
-minimal traditional education in the ins and outs of “doing ritual” for others. From henceforth, 
-to “have the Veda”—which as we have seen has become the criterion in general for wielding 
-authority in society—and thereby to embody Brāhmaṇism as religious tradition, might simply 
-mean that a certain Brāhmaṇa had studied the Caturvargacintāmaṇi. 
-What I Did to the Gods: Feeding Your Ancestors While Fending off Mīmāṃsakas 
-As many a modern1509 as well as premodern commentator has observed, though it is one of the 
-oldest and most important rites in the ritual repertoire of a range of Indic religious traditions’ 
-explicit, the ritual actor is actually described as “vāmadakṣiṇasiddhāntavedāntagṛhyapāragaiḥ,” strongly suggesting we once again are working with source materials that deliberately included practitioners of both the Bhairava Tantras and Kaula sources in a way that is antithetical to Hemādri’s recasting of these materials. 1509An exceptionally useful book in this regard is the recently published collection of essays by David Knipe, all of which are at least nominally focused on śrāddha rites. David Knipe, The Hindu Rite of Entry into Heaven: And Other Essays On Death And Ancestors in Hinduism (Delhi: Motilal Banarsidass, 2019). 
-1641 
-practices, the core logic animating the ritual of śrāddha rests uneasily with many of the core 
-presuppositions that had come to be accepted by the learned traditions of classical Indian 
-religions. From the post-classical Vaidika perspective, the paradox it poses is at once self- 
-evident and seemingly irresolvable. The problem is quite simple. Whether you believe that 
-through sacrifice, a twice-born man arrives at an eternal state of beatitude, called heaven, or 
-through a program of askesis, entailing sensory withdrawal or self-perfection, a person can 
-escape from cycles of transmigration, at the end of the day, within learned entextualized 
-traditions, there is a basic consensus, namely, that there exists some mode of action or 
-understanding that ensures that human beings, when they do right kind of thing, are no longer 
-condemned to descend into the world and experience suffering. In contradistinction to these 
-core notions, at the most basic level, śrāddha presumes an entirely different sort of religious 
-reality. Indeed, its animating ethos is much more in alignment with the social realities 
-anthropologists find on the ground—and not just in South Asia. Entirely free from any sort of 
-soteriological assumptions, it is a mode of understanding in which it is presumed that all of 
-one’s ancestors, persisting indefinitely, require the feeding, contact, and care that only śrāddha 
-rituals can provide. Thus, in the śrāddha, much like in a Vedic ritual, invisible beings are 
-invited, praised, fed, and then dismissed. Just as with Vedic ritual, these events coincide with 
-a whole lot of complex activity enacted within and primarily impacting a visible human realm 
-with its own social economies of exchange. 
-As we touched upon briefly in the previous chapter, in much the same way that by the 
-early medieval period one of the primary points of interface that the ethos of the Sanskrit 
-cosmopolis had with the wider public was through the medium of transactional Sanskrit or 
-Sanskrit inflected ephemera, because they had come to punctuate so much of life’s most 
-1642 
-important moments, śrāddha rituals of various different sorts seem to have become the public 
-face to the world of Vedic and Vaidika style ritual. Within the insular but intellectually 
-influential domain of Pūrva Mīmāṃsā, which maintained that real religion began at the point 
-where its social impact ended, śrāddha’s paradoxes were basically irrelevant. As we have seen, 
-and will continue to see, Mīmāṃsā precedes in all of its investigations by presuming that lived 
-religion and its theologies were an irrelevant, perhaps even harmful fairytale. This is to be 
-accepted by the rubes but in no way corresponds to the real architectonic that orders our reality. 
-The real order of things, Mīmāṃsā proposes, is that the smooth mechanistic workings of ritual 
-operate as a nearly autonomous miracle producing machine, requiring only occasional inputs 
-supplied by the sacrificers that are its implements. Within such a framework, asking questions 
-about the ontological and phenomenological status of the ancestors, such as—What are they? 
-Where do they go? How is it the case that śrāddha rites feed them?—is as irrelevant an activity 
-as inquiring into the nature of God or the gods. Insomuch as the more scholastic traditions 
-among the legalists looked to Mīmāṃsā for guidance, the same was largely true for much of 
-Dharmaśāstra exegesis. Either questions of “why,” as opposed to “what to do and not to do,” 
-were deemed irrelevant, or the answers the śāstrins supplied aimed at pushing back against the 
-“common sense” stances of lived Indian religions through a thoroughgoing translation of what 
-were deemed inappropriately “subjective” affective understandings into the neutral almost 
-technocratic view “from nowhere” provided by earlier writers like Śabara and Kumārila. 
-By now it should be apparent that Hemādri’s reimagining of Smārta ritual as a self- 
-consciously social and socially mediated phenomenon as well as his thoroughgoing and quite 
-personal advocation of a theism deeply interested in lived religion and the affective 
-imagination renders it utterly inconceivable that he would continue such “traditional” modes 
-1643 
-of learned explanation. For him, above all else, the gods are as real as their worshippers. Both 
-their and our intentions are mutually imbricated in a shared reality that makes ritual “work.” It 
-is thus hardly surprising that for the first time, at least in the recorded history of what survives 
-of Sanskrit discourse, it is Hemādri that responds and rebuts the traditional interpretations 
-supplied by Mīmāṃsā. In their place, in a robust śāstric language attuned to resolving doctrinal 
-discrepancies and contradictions, he articulates the common sense understanding of lived Indic 
-religions in which ritual is powered by actual exchanges between human beings and various 
-types of very real entities we just cannot see. Despite the fact that the passages in question 
-occur at least more than two thirds of the way through his magnum opus, that the particular 
-staging ground he chooses for laying out these arguments is the very opening of the 
-Caturvargacintāmaṇi’s Śrāddhakalpa is also clearly strategic. Occupying two volumes just by 
-itself in the edition, the Srāddhakalpa seems to have been designed to operate both as a 
-component within the larger body of the text as well as a standalone reference guide putting 
-professional Smārta ritualists through their paces in conducting the most common sort of public 
-Vaidika ritual, śrāddha sacrifices in all their various permutations. 
-We have encountered the opening of the Śrāddhakalpa before, in the previous chapter, 
-when we were establishing the authenticity of the Pratiṣṭhāpaddhati and discerning its place 
-and function within the rest of the dharmanibandha. There, we saw briefly that “Hemādri 
-speaks the śrāddha injunction joined with a praise of the fruit” as the last in a series of three 
-discourses on the larger topic of pratiṣṭhā, here understood more broadly as acts of 
-institutionalization. The first section discussing the installation of the liṅgas and images was 
-the Pratiṣṭhāpaddhati itself; the second, the now lost consideration of the pratiṣṭhā of cows 
-and the veneration of Harihara as well as the companions of Kṛṣṇa in Gokula and beyond, 
-1644 
-figures such as Nanda. As Hemādri has reframed things, what all of these superficially very 
-different types of activities have in common is that they are all acts of “institutionalization” 
-that are addressed to “devatās,” a category that has already been expanded to include figures 
-like Kṛṣṇa’s foster father, the very human cow herdsman Nanda Gopāla. As the Śrāddhakalpa 
-commences, then, Hemādri begins by homologizing the śrāddha rites to these other kinds of 
-“sacrifice.” 
-H: Now, regarding the installation (adhiṣṭhāna) of those having the forms of Brāhmaṇas and so forth, there is stated the worship of the deities (devatās) who have the form of ancestors (pitṛ) who have great greatness (mahā mahinam). . . . Worship (ārādhana) means the act of pleasing a mind, and the means [by which that mind is pleased] is ritual (karman), of which the defining feature is the śrāddha sacrifice. Therefore, that is stated.1510 
-We will soon discover that almost every aspect of how Hemādri has defined the 
-śrāddha ritual flies in the face of the Pūrva Mīmāṃsā consensus, not just regarding theological 
-matters, but in terms of the basic approach he has taken to analyzing a ritual and breaking it 
-down into its component parts. For the moment, let us just focus on making sure we are clear 
-about Hemādri’s own choices in analyzing the ritual. Just as when you are setting up a temple, 
-the central focus is the installation or institutionalization of a liṅga or mūrti, Hemādri proclaims 
-that the śrāddha finds its fulfillment in the institutionalization of the Brāhmaṇas who will be 
-fed at the end of the śrāddha. The deity/deities that presides over the ritual, however, are the 
-ancestors, exemplified in a long list of names. In this passage at least, the relationship between 
-these ancestors and the “devatā” that governs the ritual has yet to be made clear, though this 
-will end up being one of the fundamental focuses of Hemādri’s argument. The ancestors are 
-worshipped by means of the ritual, and that worship is inseparable from the pleasing or 
-1510Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 8: athedānīṃ brāhmaṇādirūpādhiṣṭhāne vasurudrāditya- pitṛmatsomāṅgirasayamakavyavāhanāgnisomapājyapāgniṣvāttādīnām mahāmahimnāṃ pitṛrūpāṇāṃ devatānām arādhanam ucyate / ārādhanaṃ ca, manasaḥ prīṇanaṃ, tasya copāyaḥ śrāddhalakṣaṇaṃ karma / atas tad ucyate / 
-1645 
-delighting of those entities. In other words, already, the śrāddha ritual has been framed as an 
-interaction between the human and non-human world, the success or failure of which hinges 
-on affective experience and not merely the flawless execution of predetermined rules. 
-Having outlined the basic framework that he will spend the chapter defending against 
-his Mīmāṃsaka opponents, Hemādri somewhat abruptly switches gears, offering his readers 
-an unusually explicit rethinking of the relationship between ritual analysis, which makes use 
-of Mīmāṃsā inspired models, and the act of reading, which in Sanskrit śāstra by this time is 
-thoroughly mediated by Mīmāṃsaka theories of cognition, sentence analysis, and philosophy 
-of language. 
-In that regard, first of all, in so much as the injunction (vidhi) is causing a person to engage in an activity directed towards an aim, which is [the activity] being enjoined [by the injunction], [it is] in dependence upon the praise of the object being enjoined. [It is the praise of the object being enjoined] which causes the intense investment of activity on the part of a person towards its own [the injunction’s] aim to be accomplished [sādhya]. [Thus] it [the successful execution of the injunction] depends upon statements of praise that produce [in the ritual actor] the predilection (ruci) for the thing being enjoined, and upon statements of the fruit. 
-Precisely as these people proceed (pravartante) towards the object, [which is the aim being enjoined], in just the same way, readers proceed in regard to a book that concerns that subject. Therefore, for them, also on that matter (tatra), there are statements in praise of the fruit of injunctions that cause people to proceed—thus they have as their subject matter the śrāddha. Those very statements are written first in sequence, and because of their mutual syntactic connection, [those statements] convey a single unitary meaning. Thus, this prakaraṇa is a single [conceptual unit.]1511 
-Underneath all that convoluted syntax, what we have here in the first paragraph is a 
-representation of the classical Mīmāṃsaka theory of how ritual injunctions lead to actions. On 
-the most basic level, the message here is that injunctions tell us that we have to do specific, 
-1511Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 8: tatra tāvad vidhiḥ svavidheye ’rthe puruṣaṃ pravartayan svasādhyapuruṣapravṛttyatiśayakāriṇīṃ vidheyaprarocanām apekṣamāṇo vidh[e]yarucyutpādakāni praśaṃsā- vacanāny apekṣate phalavacanāni ca / yathaivaite puruṣā vidheye pravartante tathaiva tadviṣaye granthe śrotāraḥ / atas teṣām api tatra vidhiphalapraśaṃsāvākyāni pravartakānīti śrāddhaviṣayāṇi / tāny eva prathamam abhilikhyante / tāni ca parasparānvayād ekavākyatāṃ gatānīty ekam evedaṃ prakaraṇam / 
-1646 
-often seemingly very arbitrary things in the ritual, but by themselves they do not provide us 
-with any particular motivation for these actions. Nor do they offer an explanation for why we 
-should do those things. Because, as Śabara puts it quite bluntly, people are selfish creatures 
-motivated by their own desires, there has to be some impetus, external to the injunctive 
-statements themselves, that convince people that they should do the ritual. For Mīmāṃsakas, 
-that motivation is provided by the mode of discourse they call arthavāda. This is the label 
-Mīmāṃsā assigns to most of Vedic textuality. Since the theology of the Vedic world is 
-essentially alien and abhorrent to the exegetes, they presume that all of the stories about gods 
-and demons or praises of specific deities, sages, sacrifices, or ingredients used in the sacrifice, 
-are effectively persuasive tools designed to convince people to execute their ritual duties. 
-Hemādri now proceeds to transpose what are typically abstract, even obtuse, scholastic 
-debates carried out within Vedāntic commentaries into the more practical realm of 
-Dharmaśāstra. Our author is certainly not the first person to theorize the commonalities 
-between ritual discourse and the act of reading. Nevertheless, the transposition of this 
-intellectual strategy into this kind of non-entextualized applied context, where the main activity 
-is not reading, seems to represent his own innovation. Hemādri’s major point here is that, just 
-as you need arthavāda to get self-interested people to actually do the rituals, you also need a 
-compelling advertisement of the benefits of the practices even to get people to read about these 
-self-same rituals. Otherwise, they might get distracted or bored and go off and read something 
-else. To mitigate against such tendencies, Hemādri tells us explicitly, very much in the spirit 
-of vocational education, you need to foreground just what is so great about a specific practice 
-and its components along with benefits that, you, the potential reader, will be accrue from 
-learning all about it. 
-1647On a more theoretical level, Hemādri has also just shown his reader how to read his 
-text. As you may have noticed, the method he outlines corresponds exactly to the approach we 
-have taken throughout our own investigations of the Caturvargacintāmaṇi. What he asserts is 
-that though on the surface, it appears to be made up of citations drawn from different sources, 
-we should read the Caturvargacintāmaṇi as offering a single connected discourse, with each 
-citation supplying something that continues to build into a coherent argument. Much as for 
-many Vedāntins, a major topic of interest is the question of aikaśāstrya—namely, of 
-determining whether or not Pūrva Mīmāṃsā and Uttara Mīmāṃsā, i.e., Vedānta, form a unitary 
-mutually complementary intellectual conversation—Hemādri proposes to collapse the 
-distinction between the methods and intentions that govern the ritual itself and those that 
-organize second-order ritual discourse. In doing so, he proposes to dissolve the hard 
-boundaries between lived experience and the act of reading and between doing and thinking. 
-Though he is less explicit about this reality, in assembling and structuring the 
-Caturvargacintāmaṇi, Hemādri also clearly practices what he preaches. In fact, once the 
-methodological and theoretical tools needed in a sub-discipline have been supplied, each 
-section of his text begins precisely with a praise of that practice, whether we are talking vrata, 
-dāna, tīrtha, or śrāddha, as well as a delineation of the various benefits that it conveys. This is 
-precisely the reason that the current chapter is entitled the division concerned with the praise 
-of the śrāddha injunction and the fruit of the śrāddha injunction 
-(śrāddhavidhiphalapraśaṃsāprakaraṇa). In this regard as well, much like the Bhāgavata, the 
-Caturvargacintāmaṇi presents itself not just as a textual aid to ostensibly Vaidika ritual, but as 
-executing at once the very functions assigned to scripture and those assigned to its 
-commentaries. It is for this reason that the theoretical discussion we have just been exploring 
-1648 
-is immediately followed by a series of citations offering manifold praises of the śrāddha, of 
-which here we will highlight only the first two, both of which, incidentally, Hemādri has ported 
-over from his predecessor Lakṣmīdhara. 
-Sumantu says: There is nothing that is better than śrāddha—it is known as producing the highest (śreyas). For that reason, the discerning person should perform the śrāddha with all of his effort. 
-The Brahma Purāṇa says: “Therefore, a man should perform the śrāddha with bhakti and śraddhā, according to the injunction outlined by all [Vedic] śākhās, no one in his kula declines.”1512 
-Since we have already spent an ample amount of time examining how Hemādri makes 
-use of and manipulates his sources, even though the same pattern of building an argument out 
-from the citations is also in evidence in this part of the nibandha, as much as possible without 
-obscuring the main arguments, the analysis that follows will limit itself to focusing on 
-Hemādri’s own prose discourse. Readers interested in the specific catalysts for some of these 
-arguments are encouraged to consult Bharatacandra Siromani’s edition. In any case, after much 
-praise of śrāddha and focus on its relationship to the feeding of Brāhmaṇas, Hemādri begins 
-to home in on his major theoretical point in this section, a doctrine that, as we will see in some 
-detail, puts him on course for a head-on collision with his Mīmāṃsā predecessors. In the 
-translation that follows, several successive discussions, each of which is interrupted by its own 
-collection of supporting proof texts, have been woven into a connected conversation. 
-In all rituals directed at deities, prior to the performance of the śrāddha, which is included as a subordinate component of the ritual, there is the satisfying (āpyāyana) of the ancestors prior to the gods,. . . .1513 
-1512Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 8: āha sumantuḥ— śrāddhāt parataraṃ nānyac chreyaskaram udāhṛtam / tasmāt sarvaprayatnena śrāddhaṃ kuryād vicakṣaṇaḥ / brahmapurāṇe— tasmāc chrāddhaṃ naro bhaktyā śā[kh]air api yathāvidhi / kurvīta śraddhayā tasya kule kaścin na sīdati // 1513Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 10: sarveṣu daiveṣu karmasu karmāṅgaśrāddhasya pūrvam anuṣṭhānāt devebhyaḥ pūrvaṃ pitṛṇām āpyāyanam iti / 
-1649 
-Now, when a śrāddha is being performed by any certain person, at the instruction of his own father or grandfather, there would be the simultaneous satisfying (prīti) in one single procedure of many [deities]—Brahmā, Indra, and so forth, even though they are not indicated directly [in the text]. [Also,] there would be the satisfaction (tṛpti) of creeping animals (sarīsṛpa), even though they have arisen from another kula. Thus is the meaning of the statement. 
-[Thus, it is made clear that] in one single procedure, by various components of the śrāddha ritual, there would be the satisfaction of the many who have come forth from the kula of the performer of the śrāddha, who have come forth from various wombs, even though they are not indicated directly [in the particular passage under discussion]. . . . 1514 
-And therefore, in the śrāddha, there is stated to be the satisfaction of all the lineages [associated with the sacrificer] by means of the components [of the ritual]. It is stated that the satisfaction of the fathers, grandfathers, and so forth, who were being indicated as the principal ritual elements (mukhya), [takes place] by means of the feeding of Brāhmaṇas and so forth, which is the main ritual activity (pradhānakarma).1515 
-Though each of these bits of the commentary reflect on successive stages in the ritual, 
-namely, the preliminary satisfying of ancestors prior to the worship of the devatā, the actual 
-worship of the devatā, and satisfaction of the ancestors that follows after that act of worship, 
-they are all joined together by a focus on a common theme. In each of these cases, Hemādri 
-has centered the satisfying or pleasing (āpyāyana, or prīti, or tṛpti) of entities that are either 
-invisible or, in the case of those born from different wombs—in other words snakes, birds, 
-worms and so forth—at least non-human. Succinctly, instead of representing a technology that 
-decenters the agents who participate within it, here ritual is understood to demand the 
-achievement of an affective mode of experience. Whether they are gods, the invisible spirits 
-of the deceased, or wild animals, the entities it invokes do not merely consume offerings they 
-1514Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 12: yena kenacit puruṣeṇa svīyapitṛpitāmahoddeśena śrāddhe kriyamāṇe brahmendrādīnām anuddiṣṭānām apy anekeṣām ekasminn eva prayoge yugapatprītir, anyatkulotpannānām api sarīsṛpādīnāṃ ca tṛiptiḥ syād iti vacanārthaḥ / śrāddhakartṛkulotpannānāṃ tu nānāyonigatānām anuddiṣṭānām apy anekeṣām ekasminn eva prayoge tattacchrāddhakriyāvayavais tṛptiḥ syād iti/ 1515Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 14: tad evaṃ śrāddhāv ayavaiḥ keṣām api vaṃśyānāṃ tṛptir uktā / brāhmaṇabhojanādinā pradhānakarmaṇā tu mukhyānām uddiśyamānānāṃ pitṛpitāmahādīnāṃ tṛptir bhavatīty uktam / 
-1650 
-need for their continued survival, but are seen as having a positive emotional response to 
-whatever they have been offered. Already we are also starting to see that quite unlike the 
-typical Vedic ritual, where each offering is reserved for one or more specifically named devatā, 
-this act of feeding and pleasing is diffuse. The intent is that it will have a positive impact on a 
-whole range of eager and hungry entities. In any case, as the passage concludes, Hemādri lets 
-his readers in on the real secret to understanding śrāddha, which runs as follows. The main 
-focus of the ritual is pleasing the ancestors. At the same time however the main ritual act of 
-the śrāddha, counterintuitively, does not occur during the śrāddha ritual itself. Instead, what 
-Hemādri asserts is that it comes at the end of the rite when the invited guests sit down in their 
-receiving lines and are fed. Succinctly, the nourishing of all the disparate types of ancestors, 
-whether they have assumed the shape of animals or invisible spirits, is best accomplished in 
-the very act of feeding actual human food to actual human Brāhmaṇas. 
-It is in response to this on the surface rather preposterous claim that Hemādri’s first 
-imagined objector chimes in, offering in reply some very good reasons for treating our author’s 
-presuppositions as rather dubious: 
-Now someone might object, how is it possible that there can be the satisfaction of those who have gone to heaven and who are possessing the highest merit—being men, fathers, grandfathers, and so forth? Given that they are subsisting on nectar (amṛta), [how is it possible that there can be satisfaction of these ancestors] by means of human food, which [after all] is consumed in the [act] of the feeding of Brāhmaṇas? 
-Or likewise, [how could there be the satisfaction] of those sinful ones who have gone to animal wombs, given that they are subsisting on grass and so forth? Or, [for] those who have taken on the forms of pretas and so forth, given that they live off blood and so forth? Thus it is stated in Padma and Matsya Purāṇas: “If it is eaten by mortal twice- borns, or if it is oblated into the fire, how can what is given be consumed by the deceased who are either auspicious or inauspicious?”1516 
-1516Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 14: nanu puṇyotkarṣavatāṃ svargalokaṃ gatānāṃ manuṣyapitṛpitāmahādīnāṃ amṛtāhārāṇāṃ satāṃ kathaṃ brāhmaṇabhojavinaṣṭena mānuṣeṇa cānnena trptiḥ sambhavati / pāpīyasāṃ vā tiryagyonigatānāṃ tṛṇādyāhārāṇāṃ satāṃ pretādirūpatvaṃ gatānām vā 
-1651 
-All things being equal, Hemādri’s imagined opponent makes some really great points. 
-Let us accept, for the sake of argument, at least for the moment, that some of the ancestors of 
-the sacrificer lived righteous lives and ascended to heaven, while others of them transgressed 
-and were therefore reborn in the wombs of animals or evil spirits. Even if all that is true, the 
-objector says, Hemādri, your model is preposterous. For, the good souls would be inclined to 
-eat the divine nectar that abounds in heaven. The mediocre ones would consume grass and 
-other vittles preferred by animals. As for your really bad ancestors, who came back as the 
-things that haunt human nightmares, they would have to make do on a diet of pus or blood. 
-But as any fool can see, at the śrāddha, we do not serve nectar, or grass, or bowls full of pus. 
-All we do is toss stuff into the fire and feed rice and the like to random Brāhmaṇa guests. In 
-other words, there are no solid logical grounds for establishing a causal connection between 
-this kind of ritual and its supposed aims. If nectar or pus are what you crave, it therefore stands 
-to reason, preta, beware, you should not come to our śrāddhas, for you will leave hungry. It 
-therefore follows that all these ideas we have about śrāddha rites actually feeding the ancestors 
-are either euphemisms for something else or a whole bunch of nonsense. 
-Hemādri responds to this eminently reasonable series of objections by leaning hard on 
-one of his favorite resources, the now lost Devalasmṛti, which apparently proposes that there 
-is a transubstantiation of the food offering. When the offering goes into the fire—or the belly 
-of a Brāhmaṇa—it is transmuted into whatever particular substance and medium corresponds 
-to the type of birth the ancestor has achieved. 
-H: The rejoinder (samādhāna) to that objection on that very matter has been stated. As Devala says on that [subject]: 
-rudhirādyāhārāṇāṃ satām ity uktaṃ / pādma-mātsyayoḥ— yadi martyair dvijair bhuktaṃ hūyate yadi vānale / śubhāśubhātmakaiḥ pretais tad dattaṃ bhuñjyate katham // 
-1652 
-“If an ancestor is born as a god, in conformity with auspicious karma, his food, having become nectar, with follow him (anugacchati) into godhood. In regard to a gandharva, through the form of what is to be enjoyed [i.e., sex], or with regard to a paśu, it would be grass. The food from the śrāddha, in the form of wind, follows him even into nāga- hood. It becomes liquor in yakṣa-hood, or in rākṣasa-hood it becomes meat. With regard to dānava-hood, it is likewise meat. With regard to being a preta, it becomes blood water. With regard to humanity, it [food] becomes rice and drink and so forth, which has various flavors of enjoyment.”1517 
-Eminently reasonable as always, Hemādri’s first objector is quick to tell us that, Smṛti 
-text or no, gaping holes abound in this kind of logic. To put the matter bluntly, what Devala is 
-teaching presumes a myriad of occurrences that directly conflict with our shared lived 
-experience of the world. 
-PP1: Now one might object that just as there is the transformation of milk into the form of yogurt, when it comes yogurt there is seen the perceptible [transformation] into the form of buttermilk and so forth, [in contrast,] we do not in the same way see the transformation of what is eaten or what is being oblated into the form of nectar and so forth and grass and so forth. Nor is it possible for it [the offering], even if it is transformed, to be obtained by a living being in some other place of its own accord, insofar as it [the offering] is devoid of the power of activity. Nor is it possible for deceased living beings, who are under the sway of various karmas, to creep to the place of the śrāddha. Nor is any connection possible. . . with the predecessors of the performer of the śrāddha, who have taken the form of those thousands of crores of taxons of beings who are excluded [from the śrāddha], including. . . .1518 
-These and other unresolved problems are indicated in the Purāṇas, as when the Padma and Matsya [say]: “How is it possible that the havyas and the kavyas that are given by people here in this world go to the world of the ancestors, or who here [in this world] is said to be the obtainer?”1519 
-1517Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 14–15: asyākṣepasya samādhānaṃ tatraivoktam / tatrāha devalaḥ— devo yadi pitā jātaḥ śubhakarmānuyogataḥ / tasyānnam amṛtaṃ bhūtvā devatve ’py anugacchati // gāndharve bhogyarūpeṇa paśutve ca tṛṇaṃ bhavet / śrāddhānnaṃ vāyurūpeṇa nāgatve ’py anugacchati // pānaṃ bhavati yakṣatve rākṣasatve tathāmiṣam / dānavatve tathā māṃsaṃ pretatve rudhirodakam / manuṣyatve ‘nnapānādi nānābhogaraso bhavet / 1518See the text below for a list of the entities in question, the nature of one of which cannot be determined. 1519Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 15: nanu yathā kṣīrasya dadhirūpeṇa pariṇāmaḥ, dadhnaś ca takrādirūpeṇa pratyakṣato dṛśyate, naivaṃ bhojyamānasya hūyamānasya vā amṛtādirūpeṇa tṛṇādirūpeṇa vā pariṇāmo dṛśyate / na ca pariṇatasyāpi svātantryeṇa kriyāśaktiśūnyasya deśānataragataprāṇiprāptiḥ sambhavati / nāpi nānākarmavaśaṅgatānāṃ pramītaprāṇināṃ śrāddhadeśopasarpaṇam upapadyate / nāpi cāsya suparṇa- gandharva-yakṣa-rākṣasa-preta-piśāca-nara-kinnara-paśū-pakṣi-kṛmi-kīṭādikoṭijātisahasratirṣkṛtasvarūpaiḥ śrāddhakartṛpūrva-jaiḥ saha sva[here the edition has a printing gap in all available printings] vivicya sambandhaḥ sambhavatītyādyākṣepāḥ purāṇeṣu sūcitāḥ / pādmamātsyayoḥ— kathaṃ kavyāni dattāni havyāni ca janair iha / gacchanti pitṛlokaṃ vā prāpakaḥ ko ‘tra gadyate // 
-1653 
-As the objector outlines, if you say that your offerings change states, like when milk 
-curdles, would there not be some proof? Would we not see the rice changing into nectar or 
-pus? For that matter, whatever their consistency, how would these offerings, after they fall into 
-the fire or are swallowed by the Brāhmaṇa, make their way to their intended recipients? It is 
-not like the melted ghee can grow legs of its own accord and go off on a quest to find your 
-great-grand uncle. Moreover, what if grandpa, after his last life, was not even born on this 
-continent, or assumed a form that either is not permitted to attend the śrāddha or, like a slug, 
-would face real trouble making its way to the sacrificial grounds to receive its offering in a 
-timely manner? In other words, not only are the pragmatics of the scenario being proposed 
-underdeveloped, but the logical connection between the ritual and its purported outcome is 
-contrived and implausible. 
-Hemādri’s response to this multitude of objections is woven into an array of passages, 
-many of which are framed as responses, both to the objections we have just encountered as 
-well as to a plethora of nitty gritty details native to specific proof texts. His overall theological 
-position, however, amounts to a thoroughgoing reimagining of the nature and function of the 
-textuality of all forms of scripture, both Vedic and non-Vedic, that overturns the cherished 
-doctrinal canons of Mīmāṃsā while retaining its exegetical technology. What he offers, in 
-essence, is an almost naïve reenchantment of the world that takes the scriptures almost at face 
-value. It is the words themselves within the mantras, Hemādri tells us, as uttered aloud by the 
-ritualists, that both transmute and are transmuted into the food for the ancestors. It is the names 
-of the recipients themselves within the mantras that when spoken aloud, show the transmuted 
-offerings how to reach their specific designated recipient. Mantras are thus not only magical, 
-but must possess in a sense their own sort of intelligence. The way they make use of that 
-1654 
-intelligence is by processing inputs through the rules of Mīmāṃsaka exegesis. What Hemādri 
-is saying is that such seemingly pedantic but essential acts of Mīmāṃsā ritual analysis as “the 
-obtaining of names” or the “identifying” of the deities are undertaken not merely because they 
-serve the instrumental aids of the ritualist seeking to remember and order his ritual actions, but 
-because they themselves assist the non-human agents in completing their tasks. In place of a 
-disenchanted world where the only trace of the supernatural is the principle of apūrva that 
-miraculously imbues sacrificial acts with efficacy, it is now spirits and an array of hidden forces 
-that in tandem with the human sacrificers make ritual work. 
-H: The meaning here is that the names and so forth of the fathers and so forth are to be obtained [from within the mantras]—[in other words,] they must be known. 
-PP: Now one raise the doubt, how is it possible for names and so forth, which are not sentient, to be the obtainers of havya and kavya [offerings]?. . . .1520 
-H: On that very matter, [it is replied:] “The name mantras and their substitutions (ādeśas) [adaptations of the original names in the texts,] having gone to the state of becoming their food, please the living beings, even if they [the ancestors] have gone on to another existence”. . . .1521 
-In this context, “substitutions” (ādeśa) means—substitutions of name, gotra, and so forth. The meaning of the statement is, the words that are iterated through the process of ūha and so forth. . . . [In any case,] the name bearer of the ancestors is recognized/authorized, by the Brāhmaṇas. . . . When it [the proof text] says “to those who have gone to another existence”—what it means is even those who have gone to other various conditions, wombs, times, and places. By this phrase, “gone to becoming their food”—it is stated that the oblation that is given is transformed into the form of the food—nectar and so forth, suitable to those various wombs—precisely on account of the mantras and so forth, which are alaukika. . . . And this is also in the Vāyu Purāṇa: 
-“What is produced by the injunction comes according to the maxim (nyāya) to the recipient in time. They [the mantras] lead the food there to where the living creature abides. . . . Those things—the name, the gotra and mantra—lead the food that is given even for hundreds of births; it approaches those ones who are satisfied, [in other words,] who have obtained it.” 
-1520Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 16: pitrādināmādīni upalabhyāni jñātavyānīty arthaḥ / nanv acetanatvān nāmādīnām kathaṃ havyakavyaprāpakatvam ity āśaṅkyoktam / 1521Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 16: tatraiva— nāmamantrās tadādeśā bhavāntaragatān api / prāṇinaḥ prīṇayanty ete tadāhāratvam āgatān / 
-1655 
-Thus, it is stated that the mantras and so forth cause the ancestors to obtain the oblation, precisely insofar as they are located in another world, and thus have not come to the place of the śrāddha. 1522 
-One of the major controversies highlighted in the passage we have just encountered, 
-which in the original occupies even more of our author’s attention, is the problem of 
-reconciling this belief in the intrinsic supernatural power of specific mantras—which now 
-offer a premodern version of GPS, and then turn into food—with the reality of mantra 
-applications and substitution. The problem is that when it comes to their actual deployment in 
-ritual, sacrificers are constantly adapting and changing the mantras. Because Sanskrit is a case- 
-based language that also mandates different forms based on grammatical number and gender, 
-inserting new proper names or designating different substances into a preexisting formula often 
-requires substantial changes to the entirety of a mantra. For Hemādri, just as it did for the 
-traditions of Mīmāṃsā, this poses a huge conceptual problem. Once we treat mantras as 
-intrinsically powerful and a special kind of linguistic function, how can we justify that that 
-power is maintained when mere ordinary human beings manipulate the mantras towards their 
-own quotidian ends? Here, as is in the Tīrthakhaṇḍa, where similar issues were reflected on at 
-length in passages we did not explore, Hemādri’s chief intellectual sparring partners are 
-Śālikanātha and Pārthasārathi Miśra, representing, in sequence, the views of Prābhākara and 
-Bhāṭṭa Mīmāṃsā. And while our author makes no groundbreaking theoretical contributions to 
-these ongoing discussions—he sides, as you might expect, with those who view the power of 
-1522Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 17: tadādeśā nāmagotramantrādīnām ādeśā ūhādiprakāreṇa viparivartitāḥ śabdā ity arthaḥ. . . . brāhmaṇair abhyanujñātaḥ svapitṝṇāṃ ca nāmadhṛk. . . . bhavāntaragatān apīty anekadeśakālayonyavasthāntaragatān apīty arthaḥ / tadāhāratvam āgatān ity anena pradattasya haviṣas tatatadyonisamucitasudhādyāhārarūpeṇa pariṇāmatvaṃ mantrāder evālaukikasya hetor uktam /. . . . ata eva vāyupurāṇe— kāle nyāyāgataṃ pātre vidhinā pratipāditam / annaṃ nayanti tatraite jantur yatrāvatiṣṭhate. . . . nāmagotraṃ ca mantraṃ ca dattam annaṃ nayanti te / api yoniśataṃ prāptān tṛptāṃs tān upatiṣṭhati // tad evaṃ śrāddhadeśaṃ praty anāgatān lokāntarasthān eva pitṝn prati mantrādayo haviḥ prāpayantīty uktam / 
-1656 
-mantra as being unimpacted by changes in number and gender—he stakes such a position from 
-within what is effectively an entirely different theology, within which the indexical actions of 
-mantraśāstra have a concrete impact on entities in the outside world, in this case ensuring that 
-numinous entities, not currently housed in a corporeal body within this world, who cannot 
-themselves make it to the śrāddha grounds, still get fed. 
-In insisting that an explanation of śrāddha rituals needs to foreground a 
-phenomenological account of the religious phenomena that the rite entails, Hemādri diverges 
-radically from all his learned predecessors across the various genres of śāstra, who were almost 
-exclusively concerned either with a narrow proceduralism or with reconciling their 
-proceduralism with Mīmāṃsā-style theories of ritual. The gravity of this departure becomes 
-most evident when Hemādri’s choices are placed into dialogue with the works of authors to 
-whom he is concretely indebted, especially in the field of Dharmaśāstra. A particularly 
-compelling example is offered by Vijñāneśvara in his Mitākṣarā, commenting upon 
-Yājñavalkyasmṛti 1.270, the second to last verse in the śrāddhaprakaraṇa and the very verse 
-Hemādri is about to tackle. The topic is explaining the causal relationship between the 
-enumerated gods who “govern” this sacrifice and the feeding of the ancestors. The obvious 
-problem with the verse is that it seems to be designating two completely distinct categories of 
-beings as “ancestors”: certain minor Vedic deities on the one hand and the ancestors of human 
-beings on the other. As we are about to see, in resolving this issue, in the Mitākṣarā, the twelfth- 
-century Dharmaśāstrin actually introduces the very same vivid metaphor that Hemādri will 
-develop in his discourse, in which the “deities” of the śrāddha—entities like the Vasus, Rudras, 
-and the sons of Aditi—are said to assist the ancestors in their feeding in the same way that a 
-pregnant woman is supported by her handmaidens. 
-1657The Vasus, Rudras, and Ādityas are the forefathers (pitṛs) who are the divinities of the ancestral offering (śrāddhadevatā). When they have been sated (tarpitāḥ) by the ancestral offering, they gratify (prīṇayanti) the forefathers (pitṝṇ) of humans.1523 
-Mitākṣarā: “And therefore, the presiding devatās, the Vasus and the rest, being pleasingly satisfied (by the food and drink offered by the sons and the rest) bestow satisfaction upon even these, viz. Devadatta and the rest, and join the offerers of Śrāddhas such as the son and the rest with the fruits. As a mother during pregnancy by means of the food and drink &c. presented by another as a dohada gift with the object of nourishing the fetus in the womb when after herself eating and getting satisfaction herself, gives satisfaction to the child in her womb also, and also confers on the giver of the dohada gifts of food. . . . in the same way the Vasus, the Rudras, and the sons of Aditi, the Ādityas, are the real pitṛs denoted by the terms “father,” “grandfather” and “great-grandfather” respectively, and not merely the souls of Devadatta &c.; these devas are the śrāddha devatās the true recipients of the offerings in the Śrāddha ceremony, but they themselves being satisfied, satisfy in their turn the Pitṛs of men, namely Devadatta &c., and the rest, by reason of the possession of great wisdom and power.”1524 
-Vijñāneśvara’s major objective here is identifying the “devatā” to whom the ritual is 
-dedicated, as we shall see, an important intellectual task for Mīmāṃsā, and it is effectively the 
-last task he will undertake in the section. His solution to the textual problem we discussed 
-above—namely, are the ancestors who are being pleased in the rite another name for these 
-gods or the actual ancestors of the sacrificer—is that he concludes that the only deities to whom 
-the ritual is dedicated are entities like the Vasus. Thankfully for human beings, these are not 
-jealous gods. Out of their own munificence, they share whatever is left over with the actual 
-ancestors of humans, in much the same way that someone who cares for a pregnant woman, 
-1523Yājñavalkyasmṛti 1.269: vasurudrāditisutāḥ pitaraḥ śrāddhadevatāḥ / prīṇayanti manuṣyāṇāṃ pitṝn śrāddhena tarpitāḥ // 1524Trans. J. R. Gharpure, in J. R. Gharpure, The Collection of Hindu law Vol II part II: Yājñavalkyasmṛti: with the commentaries the Mitākṣharā by Vijñāneśvara Bhikṣhu and the Vīramitrodaya of Mitramiśra; Āchārādhyāya Chapter VIIIXIII (Bombay: University of Bombay, 1937), 536. ataś cādhiṣṭhātṛdevatā vasvādayaḥ putrādibhir dattenānnapānādinā tṛptāḥ santas tān api devadattādīṃs tarpayanti kartṝṃś ca putrādīn phalena saṃyojayanti / yathā mātā garbhapoṣaṇāyānyadattena dohadānnapānādinā svayam upabhuktena tṛptā satī svajaṭharagatam apy apatyaṃ tarpayati dohadānnādipradāyinaś ca pratyupakāraphalena saṃyojayati tadvad vasavo rudrā aditisutāḥ ādityā eva ye pitaraḥ pitṛpitāmahaprapitāmahaśabdavācyāḥ na kevalaṃ devadattādaya eva śrāddhadevatāḥ śrāddhakarmaṇi saṃpradānabhūtāḥ kiṃ tu manuṣyāṇāṃ pitṝn devadattādīn svayaṃ śrāddhena tarpitās tarpayanti jñānaśaktyatiśayayogena / 
-1658 
-by providing her the foods that she craves, might also from time to time get a taste of her ice 
-cream or melon or chocolate. Nevertheless, there is a very clear hierarchy being maintained 
-between gods, who bestow favor, and mere “human spirits,” who should be grateful for 
-whatever is given. Also entirely absent from the Mitākṣarā, beyond delineating the causality, 
-is any substantive reflection on the actual nature of the śrāddha sacrifice, including providing 
-an answer to such obviously pertinent questions as how is it the case that feeding any old pious 
-twice-born somehow results in the feeding and pleasing of the ancestors. Attending to these 
-aporia, let us see what Hemādri does with this very same material in his own commentary on 
-Yājñavalkyasmṛti 1.270: 
-H: For example, one who is possessing somebody on the inside [i.e., a pregnant woman] who is eating the food she desires due to [her] pregnancy cravings and so forth, which are being given by a friend, is herself satisfied, and by the same food she craves, she causes to be satisfied the fetus that is dwelling inside her own body. By the giving of what is desired in pregnancy (dohada), one satisfies the giver of assistance by means of reciprocal assistances (pratyupakāra). In just the same way, the Vasus and so forth, who have eaten the food offered in the fires, who have unthinkable greatness because of their being a particular type of deity, having consumed the śrāddha, satisfy themselves [but] they also cause to be satisfied the human ancestors as well who are otherwise independent [lit., governed by themselves] and they join (yojayanti) the performer of the śrāddha with fruits, including long life and so forth. 
-In this example (atra), on the part of those ancestors, there is no capacity for returning to the place of the śrāddha and no capacity for knowledge of extra-sensory objects that are distant in time and place. Even though they are located in another place, their satisfaction takes place by means of the oblation that is delivered to them by the mantras and so forth. On the part of those ones who are endowed with the capacity of coming and on the part of those who are endowed with the capacity for extrasensory knowledge, for them, having come to the place of the śrāddha, satisfaction occurs by means of the prāṇa body (vāyavīyaśarīra) and of those who have entered Brāhmaṇa bodies.1525 
-1525Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 19: yathā hy antarva[r]t[i]nī suhṛdā dīyamānaṃ dohadādidravyam upabhuñjānā svayaṃ tṛpyati, tenaiva ca dohadadravyena svakīyodaravartinaṃ garbhaṃ tarpayati, dohadapradānenopakārakartāraṃ pratyupakāraiḥ paritoṣayati, tathāgniṣvāttādayo vasvādayaś ca devatāviśeṣatvād acintyamahimānaḥ śrāddhaṃ bhuktvā svayaṃ tṛpyanti svādhiṣṭhitāṃś ca manuṣyapitṝṃs tarpayanti, śrāddhakartāraṃ ca āyuṣyādibhiḥ phalair yojayantīty āśayaḥ / atra yeṣāṃ pitṝṇāṃ deśakālavyavahitātīndriyārthajñāne śrāddhadeśaṃ pratyāgamane ca śaktir nāsti teṣāṃ deśāntarasthānām eva mantrādiprāpitena haviṣā tṛptir bhavatīty uktam / atīndriyajñānayuktānām āgamanaśaktiyuktānāṃ śrāddhadeśaṃ ca pratyāgatānāṃ vāyavīyena śarīreṇa brāhmaṇaśarīrāviṣṭānāṃ tṛptir bhavatītyuktam / 
-1659 
-For Hemādri, quite unlike for Vijñāneśvara, instead of providing a comprehensive 
-explanation of how the ancestors at the śrāddha receive their food, the model of the pregnant 
-woman and her assistant is seen as addressing only one narrow set of circumstances, namely, 
-the subset among the ancestors who have gone on to a birth where they have no supernatural 
-powers that would inform them a sacrifice is taking place and who also lack the ability to reach 
-the śrāddha in time for the sacrifice. In the simplest terms, the problem being addressed here 
-is something akin to what do you do if grandpa led a mediocre life. Instead of ascending to 
-heaven or incarnating as a rākṣasa, silly old grandpa came back as a rabbit. In the sacrifice, 
-the scriptures say, you have to fed and then please grandpa, otherwise the sacrifice fails. The 
-issue is that if grandpa is a rabbit, he has no way of knowing that a śrāddha is being held, and 
-even if he did, there is no guarantee that his little bunny legs will be able to carry him to his 
-destination in time for him to fulfill his ritual role. In that specific set of circumstances, even 
-though, for Hemādri and unlike for Vijñāneśvara, grandpa is an independent agent with his 
-own karmic destiny who is in no way dependent on these Vedic also-rans, deities such as the 
-Vasus help out by ensuring the offerings get to their intended destination. As Hemādri then 
-clarifies, if, however, grandpa came back as some sort of powerful supernatural being, the 
-assistance of the Vasus is not necessary. This kind of ancestor can simply make the trip himself 
-in his prāṇa body and eat his fill of his own accord. 
-Finally, and for Hemādri most fundamentally, there is always a reserve option that 
-ensures all of the ancestors will get fed. As you might be anticipating, the solution he prefers 
-involves the feeding of human Brāhmaṇas as the ritual draws to a close, the very act he has 
-construed earlier as the “main act” in the śrāddha ritual. His main support for this idea is a 
-Purāṇic retelling of the Rāmāyaṇa located within the Padma Purāṇa. We will return to this 
-1660 
-aspect of Hemādri’s interpretive program in the next section, when it surfaces much later in 
-the Śrāddhakalpa and is treated in considerably more detail. For now, Hemādri turns his 
-attention in a very different direction, confronting head on the theological presuppositions of 
-Pūrva Mīmāṃsā. 
-H: [PP] On that matter, some people say that deity-hood (devatātva) consists of being the intended recipient of the oblation (uddeśya) and not of being the consumer of the oblation or the bestower of fruit. For, [the evidence for this is that] we see the state of being a deity (devatātva) even on the part of something nonsentient, as in the proof text “svāhā to the stones.”1526 Furthermore, because Indra and the others do not acquire deityhood through possessing a body, [and only embodied things can impact other material things]. It is impossible for ancestors and so forth of whatever form to be the recipient [of the śrāddha,] because they are not deities. Being the cause of a result, is only a feature of the ritual [lit., exists only on the part of action] [and it is not something the gods contribute]. That [state of affairs] is expressed metaphorically in a statement that takes the form of arthavāda, which addresses the deity as “being the means (sādhana)” for the purpose of “praise.” 
-And the sentence about satisfaction, insofar as it conveys the fact that [deities] have the quality of consciousness and so forth, is intended solely for the sake of praise (praśasti)1527 
-As will become clear in a moment when we turn to the sources in the Dharmaśāstra 
-that Hemādri is here somewhat obliquely addressing, as an essentially atheistic tradition, 
-Mīmāṃsā takes many of the same words and images that are also in currency in wider religious 
-discourse and reinscribes them with highly a delimited and technical meaning that effectively 
-undercuts the main ideas that these terms usually are used to convey. Nowhere is this more 
-evident than when it comes to the issue of the “devatā.” According to Śabara and those who 
-respond to him, just like all of the other elements in a sacrifice, far from being wish-fulfilling 
-1526Maitrāyaṇīsaṃhitā 4.9.9: grāvabhyaḥ svāhā // pratiravebhyaḥ svāhā // dyāvāpṛthivībhyāṃ svāhā pitṛbhyo gharmapebhyaḥ svāhā / rudrāya rudrahotre svāhā // 1527Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 23: tatra kecid āhuḥ / haviḥpratyuddeśyatvaṃ devatātvaṃ, na tu havirbhoktṛtvaṃ phaladātṛtvaṃ vā / grāvadbhyaḥ svāhetyādiṣv acetanasyāpi devatātvadarśanāt / indrādīnām api vigrahādimattvena devatvānabhyupagamāt / yatkiṃcidrūpāṇāṃ pitrādīnām uddeśyatvam asambhavāt devatātvopapatt[e]ḥ / phalahetutvaṃ tu karmaṇa eva / tatsādhanabhūtāyāṃ devatāyāṃ stutyartham arthavādarūpe vākye upacaryate / tṛptivākyam api cetanatvādiguṇaṃ gayamat prāśastyaparam eveti / 
-1661 
-trees, devatās can only serve a single function. Theoretically speaking, it could be the case that 
-either they make sure the benefits from the oblation go to the intended recipient, or that they 
-receive the oblation, or that they cause the ritual to yield a certain result. What is not possible, 
-the Mīmāṃsakas assert, are devatās carrying out some combination of those functions within 
-a single passage. When Vedic texts seem to be suggesting otherwise, Mīmāṃsā argues, we 
-have to read them non-literally. In other words, whenever the texts say, “the gods bestow 
-blessings upon us” or that “they make the sacrifice happen,” we should not take them at face 
-value. What they are really trying to do is to encourage the sacrificer to perform the sacrifices. 
-Whenever the text tells us that deities, or ancestors, have affective responses to our ritual 
-actions, the imagined opponent suggests, this is also something we should not really take 
-seriously, for subjective responses have nothing at all to do with the realm of ritual. 
-In this passage, Hemādri’s imagined opponent outlines his positions with a terseness 
-that prevents us from fully understanding either his objections or the nature of Hemādri’s own 
-forthcoming rebuttal, in which he will summarily dismiss this point of view as nonsense. 
-Nevertheless, as idiosyncratic and outlandish as these positions may seem to the modern reader, 
-this pūrvapakṣa is not a straw man invented for the occasion, but almost certainly corresponds 
-to a well-known perspective proffered by a respected author. At least among our surviving 
-sources, the most likely candidate is in fact Medhātithi, the ninth-century Kashmiri 
-commentator on the Mānavadharmaśāstra, whose work Hemādri knows intimately and whose 
-glosses on transactional matters not inflected by Mīmāṃsā theology he often cites with 
-approval. As we are about to see, not only does Medhātithi advocate rather robustly for each 
-of these interpretive stances, but he does so in part in response to addressing the śrāddha ritual. 
-As there is a strong case to be made that this discourse represents the most substantial 
-1662 
-engagement with the concerns of theistic religion enacted within the field of Dharmaśāstra 
-exegesis prior to Hemādri’s own writings, a sustained engagement with these materials, 
-attending at all times to their discontinuity with Hemādri’s perspective, is obviously of 
-considerable interest to our own interpretive project. 
-Medhātithi’s treatment of these matters, which amounts to a systematic rebuttal of the 
-naïve mechanics of ordinary Indian religions, occupies him for more than seven pages of often 
-dense śāstric prose spread out over the commentary on two distinctive verses, namely, Manu 
-2.176 and 2.238. In the first verse, in simply outlining the daily ablution to be offered by a 
-twice-born, the Mānavadharmaśāstra prescribes a threefold offering of “tarpaṇa” to the 
-deities, the ancestors, and the ṛṣis. In his response to this seemingly prosaic ritual detail, 
-marshalling all the Mīmāṃsā at his command, Medhātithi sets out to call into question the very 
-idea of deities as well as the very idea of “satisfaction” as they relate to the realm of ritual. 
-MDS. 2.176: “He should perform tarpaṇa to the deities (devatā), the fathers, and ṛṣis. . . .” 
-Medhātithi: Because there is habitual occurrence in the same context as the word tarpaṇa, the gift of water (udakadāna) to the gods and so forth is understood to be simply the same sort of thing that is mentioned in the dharmas of the gṛhasthas. . . . As per the quotation “he causes the deities to be tarpaṇa-ed,” this injunction that is the water gift procedure is related by the authors of the Gṛhyas. And this is conventionally recognized as the water tarpaṇa. 
-By the Gṛhya authors, these “gods” are identified indexically [lit., read out from the text] to be Agni, Prajāpati, Brahmā, and the others. And of them, there is the tarpaṇa— not [in the sense of] the production of their satisfaction (sauhitya), but rather, by the indexical referencing of them [these specific deities,] [we know] there is the scattering of the añjali of water.1528 
-1528All citations from Medhātithi in the section that follows re-translate from the edition of Ganganath Jha. Ganganath Jha, trans. Manusmṛti: With the Manubhāṣya of Medhātithi, Volume 1, Adhyāyas 1–6 (Delhi: Motilal Banarsidass, 1999). Medhātithi on Manu 2.176, vol. 1, pg. 166–67: nityaṃ snātvā śūciḥ kuryād devarṣirpitṛtarpaṇam / devatābhyarcanaṃ caiva samidādhānam eva ca // 2.176 // kuryād devarṣirpitṛtarpaṇam / udakadānaṃ devādibhyo gṛhasthadharmeṣu yad uktaṃ tādṛśaṃ eva pratīyate, tarpaṇaśabdasāhacaryāt / “yad eva tarpayaty adbhir,” iti tathā “devatās tarpayati” (āśva gṛ 3/4/3) iti gṛhyakārair udakasādhano ’yaṃ vidhir uktaḥ / udakatarpaṇam iti caitat saṃvijñāyate / te “devā” gṛhyakāraiḥ paṭhitāḥ agniprajāpatibrahmetyādayaḥ / teṣām ca “tarpaṇaṃ” na sauhityotpādanaṃ, kiṃ tarhi tadduddeśenodakāñjaliprakṣepaḥ / 
-1663 
-Ever the good Mīmāṃsaka, Medhātithi’s first task is to determine precisely what sort 
-of ritual activity is being enjoined when Manu, acting as a relay for older Vedic knowledge, 
-says one “should perform the tarpaṇa.” Based on the fact that in the Gṛhyasūtras the word 
-tarpaṇa is frequently taken as a synonym for the water offering (udakadāna), our 
-Dharmaśāstrin is satisfied that this is the intended ritual procedure, which now can be plugged 
-into this somewhat new Dharmaśāstra context. Now that he has pinned down the ritual 
-procedure—namely, the udaka offering—as well as the specific part of the Vedic corpus that 
-will give him his answers—the Gṛhya literature—he is able to move on to figuring out, since 
-Manu himself has not told us, which specific deities govern the rite. The answers again are to 
-be supplied from the Gṛhya authors, who in comparable contexts dedicated udaka offerings to 
-Agni, Prajāpati, Brahmā, and so forth. It is only now that Medhātithi begins to make the 
-conceptual point that will continue to be refined over these two verses, namely, that the ritual 
-of tarpaṇa has no affective dimension whatsoever. Moreover, wherever the texts seem to be 
-talking about pleasing gods, they are really giving us a ritual direction to scatter water. 
-Descending down into the weeds of Mīmāṃsā meta-language, Medhātithi continues by 
-“refining” just what is meant when learned Dharmaśāstrins speak about “the gods.” 
-Medhātithi: Therefore, this yāga itself is stated to have water as its main substance. But it is not that [these entities] are “gods” in any other [of the usual senses of that term]. For it is remembered that that [i.e., the devatā] is the recipient of the sacrifice, not the agent of satisfaction. For this [and nothing more] is the extent of the definition of a deity. “The deities are the ones who partake in the hymns (sūkta) and partake in the oblation.”—In the context of that quote, they partake of the sūkta insofar as they are to be praised and in the oblation insofar as they are the recipient. 
-And because of them being “tarpaṇa-ed,” [the text] conveys in a secondary sense only the fact of their being the recipients of the giving of the water. [To cite a comparable illustration,] by the giving of cows and so forth, the recipient who is the guru and so forth is indicated, because of him being an owner of property. [In the same way,] the 
-1664 
-“deity” also is the recipient; it is said that they are “tarpaṇa-ed” based on the similarity of being the recipient.1529 
-In Mīmāṃsā, Medhātithi suggests, we do things differently. When we speak of “gods,” 
-we do not mean entities with subjectivities. As a matter of fact, we don’t mean entities at all. 
-All the word “devatā” does is execute an indexical function, allowing the ritualist to sort sūkta 
-hymns according to what designated term is connected to the oblation. In much the same way 
-that we figured out what the word “tarpaṇa” meant by looking at parallel uses in a particular 
-part of the Vedic corpus, we need to do the same thing with the very notion of a god being a 
-“recipient.” Just as from context, when you see a guru is treated as a property owner (svāmin) 
-you can infer that if property is being given, even if in that specific passage the guru has not 
-been named, it is being handed to the teacher, in the same way we can deduce that deities are 
-recipients of “tarpaṇa”—in the narrow Mīmāṃsaka sense—based on parallel modes of 
-linguistic expression that occur in related parts of the Vedic corpus. 
-Using the same reading strategies, after defining what is meant by the term “ṛṣi” in a 
-restrictive fashion, in the passages that follow, Medhātithi turns to the Gṛhya literature to 
-identify the specific ṛṣis to whom the tarpaṇa is offered while affirming that the tarpaṇa in 
-question is again only the water offering. As you might be seeing, once you get the hang of 
-this counterintuitive mode of reading, cases where that is the Mīmāṃsā exegetical principle 
-being applied actually become pretty straightforward. Regarding the last of the aforementioned 
-trio, the ancestors (pitṛ), Medhātithi pulls the same maneuver. He defines them as “those 
-1529Medhātithi on Manu 2.176, vol. 1, pg. 167: ato ’yam udakadravyako yāga evokto bhavati / na hy anyathā devatātvaṃ bhavati / yāgasaṃpradānaṃ hi seti smaryate, na tṛpteḥ kartrī / etāvad dhi devatālakṣaṇaṃ— śūktabhājo havirbhājaś ca devatāh / tatra sūktaṃ stutyatayā bhajante, haviḥ saṃpradānatayā / tarpyatvena codakadānasaṃpradānatām eva guṇavṛttyā vakti / gurvādisampradānaṃ gavādinā taduddiśyamānasvāmyena pratīyate / devatā’pi saṃpradānabhūtaḥ / sampradānatvasāmyāt “tṛpyanti” ity ucyate / 
-1665 
-fathers, grandfathers, and greats who are previously deceased who are sapiṇḍā.”1530 He notes 
-that “they are the ones who receive the base line water offering.1531” Finally, as you might 
-anticipate, he delimits the meaning of tarpaṇa: “the tarpaṇa of the ancestors is ‘tarpaṇa’ 
-alone,” promising his reader that “this will be stated plainly in the injunction about the 
-śrāddha.”1532 Though it looks somewhat banal, this type of repeated and highly restrictive 
-glossing of key terms is integral to this whole system of thought, for it seeks to eliminate the 
-possibility that different interpretive communities might take these same texts and read into 
-them different sets of values. 
-With the practical matters now out of the way, Medhātithi can now begin to direct his 
-focus towards one of his pet theoretical obsessions, which is nothing less than debunking the 
-very idea of theistic religion. Though many of his positions are grounded in the arguments of 
-earlier authors, especially Śabara, the passion with which approaches this subject, especially 
-at the height of the Kashmiri Renaissance, is very much his own. 
-M: Now the worshipping of the deities. So, some of the ancients analyzed as follows: Who are these ones called devatās toward whom this worship is said to be [directed]? First of all, if for example they are the one who has four arms and a vajra in his hands and is set down in book of paintings, then, the people of the world conventionally refer to these as symbolic forms (pratikṛti). 
-Thus, the conventional usage with regard to devatā is a secondary usage in this case. Now, as for those ones who have an indexical connection with the oblation and the sūktas, who are understood from the Vedic injunctions and from the mantra sentences, those who know the connections between word and meaning remember Agni, Agni- Soma, Mitra-Varuṇa, Indra, Viṣṇu and so forth. If on the part of them, their deity-hood is only due to the fact that they are connected with those rituals, and not because there is connection with any semantic content [of the sort we assign to a god], then even so, “a deity” would only be such for a particular oblation that enjoins that particular “deity.” 
-1530Medhātithi on Manu 2.176, vol. 1, pg. 167: pitaraḥ— pūrvapretāḥ pitṛpitāmahāḥ sapiṇḍāḥ / 1531Medhātithi on Manu 2.176, vol. 1, pg. 167: samānodakāś ca / 1532Medhātithi on Manu 2.176, vol. 1, pg. 167: pitṝṇāṃ tarpaṇaṃ tarpaṇaṃ eva / etac ca śrāddhavidhau pratyakṣeṇa vakṣyate / 
-1666 
-For likewise in the citation, “the eight-fold offering vessels are dedicated to Agni (āgneya),” [Agni is the deity] only in regard to the puroḍāśa offering belonging to Agni, and not with regard to the caru offering dedicated to Sūrya. This is the definitive deliberation of those [cases]. 
-The construal [of a word] is reasonable only in a secondary sense when the primary meaning is impossible, and because of conventional usage (samācāra). Thus, this procedure of pūjā applies to the images alone [and there is no deity being worshipped]. 
-And as for the state of affairs regarding this, that will be stated later in the passage that begins “vrata.”1533 
-Medhātithi anchors his argument around an extended and thus far unidentifiable 
-passage from a work of Mīmāṃsā exegesis. Most likely, the passage in question is from a 
-subcommentary on Śabara’s treatment of Mīmāṃsā Sūtra 9.1.6–10, for this is where Śabara, 
-seeking to disabuse his readers of anything remotely recognizable as a theistic stance— 
-including the notions that gods have bodies, respond to human entreaties, and consume either 
-the substance or subtle essence of the offerings that are dedicated to them—attacks in passing 
-the idea that visual representations of specifically Vaidika deities had any logical or 
-supernatural relationship with the devatās with which the Mīmāṃsā exegetes concern 
-themselves. In engaging with these passages, Śabara’s most famous commentators, such as 
-Kumārila in his Ṭupṭikā and Pārthasārathi Miśra in his Tantraratna, shy away from much 
-reflection on the polemical dimensions of Śabara’s text, which stages what amounts to an all- 
-out attack on ordinary Indian religious understanding, choosing instead to occupy themselves 
-almost solely with technical methodological concerns. The evidence before us, however, 
-1533Medhātithi on Manu 2.176, vol. 1, pg. 167: devatābhyarcanam / atra kecit cirantanā vicārayāṃcakruḥ— kā etā devatā nāma yāsām idaṃ abhyarcanam ucyate / yadi tāvac citrapustakanyastaḥ caturbhujo vajrahasta ityādyāḥ “pratikṛtaya” iti laukikā vyavaharanti, ato gauṇas tatra devatāvyavahāraḥ / atha yā sūktahaviḥsambandhinyo vaidikībhyaś codanābhyo mantravākyebhyaś cāvagamyate— śabdārthasambandhavidaś ca smaranti “agniḥ agnīṣomau mitrāvaruṇau indro viṣṇuḥ” iti / yady evaṃ tatkriyāsamabandhitayaiva teṣāṃ devatātvaṃ nārthasambandhitayā / tatrāpi yasyaiva haviṣo yā devatā tena coditā tasyaiva sā bhavati / tathā hi āgneyo ’ṣṭākapāla ityāgneye puroḍāśe devatā, na saurye carau / ayaṃ ca teṣāṃ nirṇayaḥ / mukhyāsambhavād gauṇasyaiva grahaṇaṃ nyāyyaṃ, samācārāc ca / ataḥ pratimānām evaitat pūjāvidhānam / yac cātra tattvaṃ tad “vratavad devadaivatya” ity atra vakṣyāmaḥ / 
-1667suggests that Śabara’s militant atheism did indeed continue to find a warmer reception among 
-other scholastic audiences and that Medhātithi proudly inherits this mode of exegesis. In any 
-case, for both his unnamed predecessor and for Medhātithi himself, deity-hood (devatātva) has 
-no ontological substance whatsoever. Instead, it simply serves a context-specific indexical 
-function, operating as kind of premodern Dewey Decimal System that helps the ritualist 
-organize his materials. 
-As Medhātithi seeks to demonstrate, “being a God” is not a status based on some lasting 
-underlying essence. This is why we can say that “Agni” is only a god (devatā) when it comes 
-to those passages in the Veda where he is designated as the recipient of a specific offering, as 
-with the puroḍāśa. In other words, even within the textual field of the Veda itself, at other times 
-in the Veda where his name appears but Agni is not the designated recipient of the offering, 
-there is no reason to consider Agni as being a god at all. For Śabara and his followers, God- 
-hood in essence is nothing more than one specific semantic and syntactical relationship. 
-Methodologically, this definition of course provides the exegete with the tools they need to 
-identify the God who governs a given part of a ritual, one of the key steps in Mīmāṃsā style 
-ritual analysis. At the same time, theologically speaking, these same presuppositions strongly 
-suggest that all of the things that everyone else in Indic religious culture label worship, such 
-as the veneration of images or the offering of pūjā, amount to something very much akin to 
-Western notions of idol worship, since it is only the inert paintings or substances themselves 
-to which a worshipper is addressing his prayers. 
-Medhātithi ends the section by promising his reader that he will pick up this topic when 
-he reaches the verse that begins “vrata.” Needless to say, he does not disappoint. Executed in 
-the technical language of Mīmāṃsā, the diatribe that follows, only loosely grounded in the root 
-1668 
-text, offers us all at once one of our earliest learned attacks on the theology of bhakti religion, 
-on Brāhmaṇa participation in mere local Smārta religious life, as well as a withering dismissal 
-of the idea that the feeding of Brāhmaṇas can stand in for the veneration of deities. Succinctly, 
-in just one single portion of his commentary, our ninth-century Dharmaśāstrin dedicated 
-himself to enacting an agenda vehemently opposed to most of the core ideas that order 
-Hemādri’s interpretive project in a manner that beyond any possible ambiguity demonstrates 
-the discontinuous nature of the Smārta worldview of the Caturvargacintāmaṇi’s dharma 
-discourses and the learned Dharmaśāstra tradition it largely seeks to supplant in all but name. 
-In the Mānavadharmaśāstra, verse 2.189 forms the concluding portion of an 
-exploration of the daily duties assigned to the twice-born student studying the Veda, including 
-the rules for the receiving of alms. Manu has just told us that in general, the student should not 
-take for his meal the food that has been received from a single person. Instead, he should subsist 
-on a compilation of small food offerings given as alms acquired by seeking bhikṣā from 
-multiple different people or different households. To act otherwise, Manu tells us, is for the 
-student to violate his vow (vrata). Having provided this general rule, the Dharmaśāstrin, 
-however, than informs us of an important exception that does not conflict with his 
-commitments. As the passage reads in Patrick Olivelle’s translation: 
-When he is invited, however, he may eat (aśnīyād) freely at an offering to the gods (devadaivatye) while keeping to his vow, and at an offering to ancestors (pitrye), conducting himself like a seer; doing so does not violate his vow.1534 
-Disregarding the major focus of his root text, which is quite simply to provide two 
-contexts where the Brāhmaṇa student can eat a full meal acquired at a single location without 
-violating his vows, Medhātithi’s commentary is almost exclusively concerned with three key 
-1534Translation by Patrick Olivelle. Patrick and Suman Olivelle, Manu’s Code of Law: A Critical edition and Translation of the Mānava-Dharmaśāstra (New York: Oxford University Press, 2004), 104. 
-1669 
-terms, namely, “the offering to the gods” (devadaivatye), the offering to the ancestors (pitrye), 
-and what is meant when the injunction says “he should eat” (aśnīyād). As we will see, to the 
-exclusion of almost everything else, he tackles these issues in succession and at length. 
-“Those of whom the gods are the deities” (devadaivatya) means that [ritual] of which the gods are the deities. And that is handed down by tradition to be the feeding of Brāhmaṇas at the rituals of which gods are the deities, such as the agnihotra and the darśapūrṇamāsa; and it is handed down by tradition in reference to the āgrahāyaṇya and so forth: “Having fed the Brāhmaṇas, one should make them recite the svastyayana.” This authorization [applies] to that [particular circumstance].1535 
-Medhātithi begins by presenting his own siddhānta, which is simply that there a subset 
-of ritual activities in the Veda where, in much the same way that other ritual procedures might 
-call for the use of a special kind of spoon, one of the actions taken entails the feeding of 
-Brāhmaṇas. Again, the ritualist does this not because Brāhmaṇas are special or they are gods 
-on earth, but simply because the Veda outlines that this is the procedure for a thing that must 
-be done (itikartavyatā). Having laid out his own opinion, Medhātithi is now ready to address 
-and summarily dismiss the wrong-headed view apparently adhered to by a range of other so- 
-called “authorities.” 
-[PP]: But others say that the feeding of Brāhmaṇas that is performed based on the indexical referencing of Āditya and the other gods in the locative and other cases is understood [as the referent of the phrase] “those of whom the gods are the deities.” 
-Medhātithi: That is incorrect. After all, there is no connection between the deities and the act of eating, because [eating] is not the means of accomplishing the sacrifice. Nor is it that a “deity” is merely the thing being indexically referenced [in any case where this syntactic relationship entailing either a locative of reference or an accusative relationship is present in a text]. Because [otherwise], we would be forced to conclude that in the statements “he gives a cow to the teacher,” and “he sweeps the house,” that 
-1535Medhātithi on Manu 2.189, vol. 1, pg. 173: devā devatā yasya tad devadaivatyam / tac cāgnihotra- darśapūrṇamāsādiṣu daiveṣu karmasu brāhmaṇabhojanam āmnātam, āgrahāyaṇyādiṣu cāmnātaṃ “brāhmaṇān bhojayitvā svastyayanaṃ vācayed” iti / tatreyam anujñā / 
-1670 
-[the status of the deity would belong] to the teacher [to whom the cow is given] and the house [in so much as it is being swept].1536 
-Medhātithi’s method here amounts to argument via reductio ad absurdum 
-demonstrating that a certain perspective has to be rejected because it would yield undesirable 
-and ridiculous consequences. The person he is arguing with, apparently a major proponent of 
-feeding Brāhmaṇas whenever possible, wants to expand the scope of what types of linguistic 
-cues within the Vedic texts suggest that now is a time in ritual where Brāhmaṇas get fed. His 
-position seems to be that any time a god’s name is mentioned either in the locative case, as a 
-locative of reference (as when the Pāśupatasūtra 2.19 said nānya bhaktiḥ tu śāṃkare) or even 
-in the accusative, in a syntactic unit within which an offering is being made (for example, the 
-offering goes to the god), we need to take this as a reference to a devatā in the Mīmāṃsā sense 
-of being a recipient of a sacrificial offering. This opponent then seems to be suggesting that 
-where the text tells us gods need to be fed, it really means we need to feed a Brāhmaṇa. 
-Beyond rejecting this particular ritual direction, Medhātithi’s larger point is that we 
-need to stop confusing what are essentially hermeneutical concerns about proper reading 
-strategies for approaching Vedic texts with what on the surface would seem to be 
-corresponding events and circumstances as we experience them in the real world. When we 
-eat as part of a ritual, this is not an act of worship. Nor does that experience have anything at 
-all to do with the gods. Furthermore, we must be particularly careful not to extend the 
-application of Mīmāṃsā reading strategies such that we identify the one to whom a thing is 
-given as the devatā into our daily life. That road, Medhātithi suggests, ends in a reprehensible 
-sort of pantheism in which gurus and houses are “deities”— so obviously stupid as to be self- 
-1536Medhātithi on Manu 2.189, vol. 1, pg. 173: anye tu saptamyādāv ādityādidevoddeśena yat kriyate brāhmaṇabhojanaṃ tad devadaivatyaṃ manyante / tad asat / na hi bhujer devatāsambandho ’sti, ayāgasādhanatvāt tasya / na tūddeśymātraṃ devatā / “upādhyāyāya gām dadāti,” “gṛhaṃ sammārṣṭīty upādhyāye gṛhe ’pi prasaṅgāt/ 
-1671 
-refuting. In light of where the text is headed, namely, an all-out assault on the devotional Sun 
-worshipper of precisely the sort that was associated with royal Kārkoṭa Saura ritual center of 
-Mārtaṇḍatīrtha established in the vale of Kashmir by the emperor Muktāpīḍa Lalityāditya in 
-the prior century, given that he is writing quite specifically in the same ninth-century Kashmir 
-as Somānanda, it is tempting to view Medhātithi’s choice of examples as a thinly veiled 
-condemnations of some of the contemporary varieties of religious experience in evidence in 
-and around Srinagar. Before we can get there, however, Medhātithi has to finish establishing 
-a few more parameters he will make use of in the ensuing discourse. 
-Medhātithi: While it is true that there is a perceptible connection of the act of eating with the one doing the eating, however, the Sun god is not such an agent [who can be directly perceived eating], nor, as with the [case of] the house [being swept] is it [the Sun god] the thing being indexically referenced, nor is eating done for [Sun god’s] sake. For, the use of the accusative case indicates something’s being done for the sake of the eater, not being for the sake of the Sun god. 
-Nor is this the case, as it has not been stated anywhere, “[when] there is an indexical reference to the Sun god or other [deities,] [we infer that] one should feed Brāhmaṇas].” 
-If [one invokes the śāstric rule] “the injunction is to be conceived of on the basis of conventional usage [out in the world],” then, no, because [an injunction] has as its foundation an extant proof text [lit., a thing being obtained].1537 
-Setting aside some further forays into the philosophy of grammar that need not detain 
-us, Medhātithi begins by showing us on logical grounds why we should not draw a specious 
-connection between the dynamics and consequences that govern a normal act of eating and the 
-making of an offering to a god. In our lived experience, when someone eats something, there 
-is an eater who can be seen by external observers and food that can be seen by external 
-observers. There is also an activity conducted by the agent during which the food disappears. 
-1537Medhātithi on Manu 2.189, vol. 1, pg. 174: bhujer hi pratyakṣo bhoktrā sambandhaḥ / ādityas tu na kārakaṃ, na coddeśyo gṛhavat, na tadarthaṃ bhojanam / dvitīyā hi bhoktrarthatāṃ jñāpayati, nādityārthatām / na caivetat kvacin noditam “ādityād uddeśena brāhmaṇān bhojayed” iti / samācārād vidhiḥ kalpyata iti cet, na / tasyopalabhyamānamūlatvāt / 
-1672 
-Quite unlike in the case of ritual, we can also infer that eating serves a basic human purpose. 
-When it does not happen, eventually, people die. When it does happen, people are satiated, a 
-state of affairs we can infer from them saying, “that hit the spot,” or even just from releasing a 
-satisfied burp. When it comes to the gods, in contrast, none of those things are true. We do not 
-see them. We do not see them eat. And since we cannot perceive or interact with them, we 
-cannot infer they are satisfied. Our author will return to this line of argumentation in more 
-detail momentarily. 
-Medhātithi then notes that the core technical claim of his opponent, namely, that certain 
-types of references to deities invariably index the feeding of Brāhmaṇas, is not supported by 
-the textual evidence. When his imagined opponent responds by invoking (out of context) an 
-exegetical rule that tries to do the same work as the notion of śiṣṭācāra, namely, taking lived 
-practice on the ground as it is enacted by living authorities as a valid source of knowledge, 
-Medhātithi quickly dissents, proclaiming that all social practice governed by injunction has to 
-be founded on a valid and still extant entextualized citation. In response, his imagined opponent 
-offers the following argument, which Medhātithi rebuts with pointed glee. 
-PP: [One might object] that there is a precisely such a source, [namely,] the Smṛtis that stand outside of the Veda (bāhyasmṛti). Then, in that case, the meaning of the śāstra would be, “one should please the deities by means of feeding Brāhmaṇas.” 
-Medhātithi: And this meaning is not possible even to be conceived of! For, the purpose of the śāstras does not have as its main focus the pleasing of deities (devatāprītipradhāna), but rather is has as its main focus the goal of the injunction (vidhyarthapradhāna). Nor is it the case that the Sun god and the others who are understood as deities have a [semantic or causal] connection with this goal of the injunctions that is based on the object/scope, nor also upon eligibility [to perform the ritual]. Nor could [the deity], after all, be the efficient cause [of the accomplishing of the goals of] ritual. . . . Nor can [the deity] be desired simply for its own sake [lit., strictly in relation to itself], as in the case of [desiring] cattle [not for the milk or the wealth but just to have a cow], because a deity does not have the form of something that can be enjoyed. 
-1673 
-Now, [if it were the case that] it is the satisfaction intrinsic to the Sun god that is desired, that [satisfaction] also would require another means of valid knowledge to be itself established as valid. And no such [valid means of knowledge for perceiving the satisfaction of the gods] exists. Nor can the satisfaction of the Sun god and the other [deities] be established [to exist] by means of perception as a thing to be desired, as in the case of cattle and so forth.1538 
-Medhātithi’s opponent, quite plausibly an actual near contemporary, responds by 
-saying that we do indeed have access to authoritative texts that tell us in simple declarative 
-sentences that we should please deities by feeding Brāhmaṇas. Our Dharmaśāstrin in response 
-is quick to identify the sources in question as heretical—bāhyāḥ smṛtayaḥ—quite literally, as 
-works that fall outside the Vedas. While one often assumes that such a label is associated with 
-works that question the authority of the Veda or reject Brāhmaṇical normativity, nothing about 
-the—to the modern reader—rather banal nature of the actual evidence our Dharmaśāstrin will 
-present us can be reasonably construed as supporting such a blanket characterization of his 
-opponent’s discourse. In actuality, the archive before us seems in a fact a rather close match to 
-what we tend to think of as “orthodox” Vaidika Hinduism, wherein Vedic ritual is conducted 
-alongside a form of transactional devotionalism that sees gods as intimately involved in 
-reciprocal exchanges with their devotees. In fact, it is precisely this sort of proto-Hindu value 
-system that our author has labelled as heresy and seeks to treat as antithetical to the religion of 
-the Dharmaśāstrins. 
-As you might well have noticed, Medhātithi takes particular offense at the 
-presuppositions specific to what we call devotional religion. The problem is not merely that 
-1538Medhātithi on Manu 2.189, vol. 1, pg. 174: “asti hi mūlaṃ, bāhyāḥ smṛtayaḥ” / tatra tarhi brāhmaṇabhojanena devatāḥ prīṇayed iti śāstrārthaḥ / na cāyam arthaḥ śakyaḥ kalpayitum / na hi devatāprītipradhānaḥ śāstrārthaḥ, kiṃ tarhi vidhyarthapradhānaḥ / na cāsmin vidhyartha ādityādīnāṃ devatābhimatānāṃ viṣayadvārakaḥ sambandhaḥ, nāpy adhikāradvārakaḥ / na hi bhedanādivan nimittam / nāpi paśvādivat saṃbandhitayā kāmyate / abhogyarūpatvāt / atha tadgatā tuṣṭiḥ kāmyate / sā ’py ātmasiddhau pramāṇāntaram apekṣate / na ca tad asti / na ādityādituṣṭiḥ pratyakṣādisiddhā paśvādivad yena kāmyate pareṣṭividhinā yujyeta / 
-1674 
-the pleasing of a god (devatāprīti) directs our attention away from the main focus of ritual, 
-which as Mīmāṃsā teaches is the identification and following of ritual injunctions. Nor is it 
-the issue that deities as entities in the manner that people usually conceive of them merely 
-cannot be accommodated within Mīmāṃsā style analysis, yet may still play some other role in 
-human religious life. As Medhātithi meticulously outlines, the Sun god and other deities are 
-not in any way causally or conceptually connected with the goal of the ritual injunction, the 
-obtaining of heaven, nor does the deity play any role in making one “eligible” to perform 
-specific rituals. In other words, to put it bluntly, Medhātithi is telling us that heaven has nothing 
-to do with the gods. Neither does the receiving of any kind of dīkṣā. Nor for that matter, do the 
-gods even contribute to engendering the types of circumstances that make ritual possible. Apart 
-from the role “devatās” plays within Mīmāṃsā as a Dewey Decimal System for indexing Vedic 
-knowledge, Medhātithi is telling us that the gods can do nothing for us at all. If a person desires 
-to please the god for the god’s own sake—in other words, should he listen to the teaching of 
-Kṛṣṇa to Arjuna in the Bhagavad Gītā that ritual should simply be done “for me”—this is not 
-dharma but mere delusion. We cannot even seek out the gods and worship them free from 
-desire—what Hemādri will call niṣkāmabhakti, and what he deems the path to liberation— 
-because the deities do not have the form of something that can be enjoyed. Nor is there even 
-any reason for us to think that deities themselves are capable of enjoying anything, for as 
-Medhātithi tells us, no valid scriptural authority exists telling us that gods enjoy things, nor 
-can we perceive their enjoyment with our own faculties. 
-With these thoughts in mind, Medhātithi sets out to dismantle the very idea of a 
-devotional relationship: 
-But now, [if one were to say,] “[The Sun god] is my lord (matprabhu) and thus will connect me with the fruits that I desire,” this [position] also must be discarded, because 
-1675 
-of the nonexistence of any valid source of authority substantiating such a claim. Nor is it the case that there [could possibly be] an injunction that conveys this meaning that could be a valid authority. 
-For that [an injunction] impels a person by means of the fact that a particular known qualifier of a practitioner is a general definitive property [of that practitioner,] it does not, however, bring about knowledge of the existence of the thing that is being desired [about which we otherwise have no knowledge.]1539 
-For our Dharmaśāstrin, Vedic religion and devotional theism represent antithetical 
-worldviews. Worshipping god as if he is one’s own lord is an entirely irrational act. It is a 
-mistaken personification of the impersonal mechanistic function of the apūrva dimension of 
-ritual that makes it efficacious. Not only is it utterly impossible that forging a relationship with 
-an imagined and imaginary deity might yield any concrete benefit, but any advocacy for such 
-a perspective in and of itself is proof of the unreliable, even heretical nature of the text in which 
-it is contained. Even thinking that an injunction could convey this sort of knowledge itself 
-shows a fundamental misunderstanding of the nature of ritual. Injunctions just tell specific 
-kinds of people, for example a person desiring heaven (svargakāmaḥ), that they should do 
-certain things. Injunctions do not and cannot provide us with any additional knowledge that 
-we do not already have. Thus, for example, we already know from our experience that there is 
-a certain group of people who desire heaven, even if we do not have any reliable knowledge 
-about what the heaven in question might actually be like. For this reason, even if it were in fact 
-the case that gods and their affective states existed (and for Medhātithi, they do not), contrary 
-to this particular pūrvapakṣin, it would be impossible to establish such realities on the basis of 
-injunctive statements drawn from any sort of scripture, however authentic. 
-1539Medhātithi on Manu 2.189, vol. 1, pg. 174: atha tu matprabhur iti svābhipretena phalena yojayiṣyatīti / etad api pramāṇābhāvād upekṣaṇīyam / na cāsminn arthe vidhiḥ pramāṇam / sa hi jñātasyānuṣṭhātṛviśeṣaṇasya svasambandhitayā puruṣaṃ niyuṅkte, na punaḥ kāmyamānasya sadbhāvam avagamati / pramāṇāntarāvagataṃ hi kāmyam anuṣṭhātṛviśeṣaṇam—anuṣṭhānasādhyam anuṣṭhātṛsamabandhīti vidhiḥ pramāṇam iti mīyate / 
-1676 
-As other passages in Medhātithi’s Manubhāṣya make evident, counterintuitively, this 
-type of narrowly focused ideological perspective does not severely limit the Dharmaśāstrin’s 
-canon of what constitutes authentic scripture to essentially prescriptive Vedic texts. Instead, it 
-effectively calls for the wholesale reimagining of much what we think of as classical Hindu 
-textuality as a series of infomercials promoting Mīmāṃsaka theories of injunctivity. A 
-particularly compelling illustration of this dynamic, which takes the form of an aside to what 
-is otherwise a straightforward commentarial gloss, is found towards the beginning of 
-Medhātithi’s commentary on Manu’s second chapter. The wider context here is Medhātithi’s 
-summary of the position of some “brahmavādins,” who based on the content presented 
-elsewhere in the section are likely some form of Vedāntin. In any case, such figures apparently 
-assert that “[Rituals] being performed as aimed at a particular fruit consist of bondage, [but] 
-performing [a ritual] without desire, on the principle that it is an offering to brahman, one is 
-liberated.”1540 Medhātithi’s response takes the form of a curious invocation of a series of proof 
-texts, one of which may be startlingly familiar. 
-Medhātithi: That is stated by the dark lord Dvaipāyana (i.e., Vyāsa): “May you not be motivated by the fruit of actions.” Likewise, “Because of the incompleteness of the procedures, because of the foolishness of the ritual agent, and because of attachment to the fruit, an injunction is understood to be impure.” On this matter, there are many fallacious commentarial opinions, but they are not shown here because they are not essential.1541 
-The key to understanding this passage is recognizing that, although Medhātithi’s first 
-citation is from the Bhagavad Gītā (2.46) where it transmits a teaching given by Kṛṣṇa to 
-Ārjuna, our author has deliberately chosen to ascribe these materials to Vyāsa. By identifying 
-1540Medhātithi on Manu 2.5, vol. 1, pg. 56: phalārthitayā kriyamāṇā bandhātmakā bhavanti / niṣkāmas tu brahmārpaṇanyāyena kurvan mucyate / 1541Medhātithi on Manu 2.5, vol. 1, pg. 56: taduktaṃ bhagavatā kṛṣṇadvaipāyanena “mā karmaphalahetur bhūḥ” (Bh G. 2.46), tathā “sādhanānām akṛtsnatvān maurkhyāt karmakṛtas tathā / phalasya cābhisandhānād apavitro vidhiḥ smṛtaḥ” iti / bahavaś cātra vyākhyāvikalpāḥ, asāratvāt tu na pradarśitāḥ / 
-1677Vyāsa as the author, Medhātithi is then able to take what was originally an entirely unrelated 
-citation, dealing with the nature of injunctions, that is also ascribed to Vyāsa and treat it as if 
-it were connected discourse. In other words, as he does many other places in his commentary 
-where he cites from the Gītā with surprising frequency, albeit never from its “devotional” 
-passages, he is reading what we think of as Indic theology as Gedankenexperiments in the 
-application of Mīmāṃsā hermeneutics. Lest we think that this highly eccentric engagement 
-with classical scripture is the merely the product of ignorance of the “normative commentarial 
-tradition,” Medhātithi concludes his discussion with a biting remark addressed to the “many 
-fallacious commentarial opinions” on these texts, all of which are so inessential that they need 
-not even be consulted. 
-Now that he has addressed the phrase “those of whom the gods are the deities” 
-(devadaivatye) at considerable length and to his own satisfaction, Medhātithi turns to exploring 
-the other key term of art in Manu 2.189, “the sacrifices that pertain to the fathers (pitrye).” The 
-result is a long reflection on “the real nature” of the śrāddha sacrifice. Though much of this is 
-executed in a very similar vein to the analysis we have just been exploring, it will also prove 
-to be the case that Medhātithi highlights and explores the very same problematics that will 
-occupy Hemādri several centuries later. Moreover, he does so in a manner that will help 
-prepare us for understanding elements integral to Hemādri’s defense of Smārta religion. For 
-this reason, it is worth taking our time and seeing what elements of the śrāddha discourse were 
-long-lasting points of contention. As it turns out, the focus of the controversy is precisely these 
-questions. Are the ancestors “devatās?” If they are not, what role do they play in the sacrifice? 
-Finally, what is the rationale for the feeding of Brāhmaṇas at the end of the śrāddha? As 
-Medhātithi explains in response to some interlocutors: 
-1678 
-PP: And if one were to object, “How is there the feeding of Brāhmaṇas at the ritual dedicated to the ancestors?” There also, after all, the ancestors would not be the deities. Nor is it that the homa is dedicated to the ancestors, because we hear mention [in Vedic texts] of another deity. 
-Medhātithi: Because, as with the [erroneous notion regarding the] pleasing of Āditya and the others, there is not the establishment by means of another valid authority that the ancestors are pleased. Thus, there is no connection [of this satisfaction] with an injunction as the thing to be accomplished. . . .” 1542 
-PP: [One might object,] “If the ancestors are not the deities in the śrāddha, then how is this ritual called ‘dedicated to the ancestors,’ since this (the word pitrye) is a taddhita derivation signifying the deity?” 
-Medhātithi: We say, it is because of similarity [of the ancestors and deities] as the thing being indexically referenced. The ancestors are referenced [in a statement such as] “this feeding of the Brāhmaṇas is done for the sake of your welfare.” But in the piṇḍapitṛyajña, the ancestors are in fact the deities. It is not understood, [however,] that the ancestors are the deities in the śrāddha. 
-As for the Brāhmaṇas being fed, that is similar to the case of the oblation into the fire of a portion of ghee, cakes, and so forth. In such a way, the Brāhmaṇas take on the role of being ancestors. Thus, at the time of the serving of food, the ancestors alone are indicated, [as in the statement] “this is for you, it is not mine,” but the Brāhmaṇas occupy the place of the āhavanīya fire into which the oblation is made. The difference is to the extent that whereas the oblation is tossed into the āhavanīya fire, it is only set down near the Brāhmaṇas, and they take it up for themselves.1543 
-Medhātithi’s opponent begins by raising a series of questions about the status of the 
-ancestors and the Brāhmaṇas. As we have seen repeatedly, to be a deity (devatā) in this 
-discourse means solely that the designated agent is to be labelled the recipient of a particular 
-sacrificial offering, a state of affairs indicate by specific verbal usages. This identity is also 
-1542Medhātithi on Manu 2.189, vol. 1, pg. 174: nanu ca pitrye kathaṃ brāhmaṇabhojanam / tatrāpi hi na pitarau devatāḥ syuḥ / na ca homasya pitryatvam, devatānataraśravaṇāt / ādityādiprīter iva pitṛprīteḥ pramāṇāntarāsiddhatvān na vidheḥ sambandhaḥ sādhyatayā / 1543Medhātithi on Manu 2.189, vol. 1, pg. 175: yadi na śrāddhe pitaro devatāḥ, kathaṃ tarhi pitryam etat karmeti devatātaddhitaḥ / uddeśyatvasāmānyād iti vadāmaḥ / yuṣmadupakārārtham idaṃ brāhmaṇabhojanam iti pitara upadiśyante / piṇḍapitṛyajñe tu pitaro devatā eva / na śrāddhe pitṝṇāṃ devatātvaṃ manyante / yat tu brāhmaṇā bhojyante tad yathā’gnau homa ājyapuroḍāśādīnām hy avadānasya, tādṛśam etat / tathā ca brāhmaṇāḥ pitṛtvam āpadyante / ato ’nnapariveṣaṇakāle pitara evoddeśyāḥ— “yuṣmabhyam idaṃ na mameti” brāhmaṇās tv āhavanīyasthānīyāḥ / etāvān viśeṣo yad āhavanīye haviḥ prakṣipyate, brāhmaṇānāṃ tu sannidhāpyate, te tu svayam upādadata iti / 
-1679 
-entirely context-specific, as one term might play the role of devatā in one part of the ritual and 
-be mere arthavāda, or a nonsemantically meaningful part of a mantra in the next one. The 
-problem is that on the surface, the term “pitrya” would seem to be analogous to “āgneya,” a 
-usage that actually can mean “a sacrifice that belongs to Agni,” and thus can be used to 
-determine the devatā of a ritual. And as it so happens, in a particular Vedic ritual called the 
-piṇḍapitṛyajña, which historically speaking is an early predecessor to the śrāddha sacrifice, 
-the text has been composed in such a manner so that if you apply Mīmāṃsā reading strategies, 
-you really do have to conclude that ancestors are serving as the devatā. Medhātithi notices this 
-parallel and says that this functional equivalence explains why figuratively speaking many 
-people mistake the ancestors for the deity at the śrāddha. Going even further, he seems to make 
-an allowance that in the śrāddha, because of how they are indexically reference, the ancestors 
-are playing some sort of liminal “deity like” role in delimited ritual contexts. As for the human 
-beings who are “fed” at the śrāddha, an activity that does not align with the duties of actual 
-devatās from a Mīmaṃsā perspective, Medhātithi operationalizes them as if they are a special 
-kind of instrument. If the ancestors are “almost deities,” then the Brāhmaṇas are “surrogate 
-sacrificial fires” into which the offerings demanded by the ritual injunction are to be disposed. 
-As is so often the case when it comes to thinking through liminal cases, the prospect of 
-“the almost deity” tests the boundaries of the taxonomic framework, leading Medhātithi to 
-reflect in much greater detail on the fundamental problems in the ritual understanding of 
-ordinary people that engender widespread mistaken commitments to theism. Medhātithi begins 
-by setting out to show us that both pūjā and darśana are impossible. 
-One might also object that this definition, “the deity is that which is indexically referenced in the sacrifice,” is also underextensive, because even without a connection to the sacrifice, we see the conventional usage of the term “deity,” [as in the phrases] “the worship of deities,” and “one should approach the deities.” But neither worship 
-1680 
-nor going toward, which consists of walking with the feet, is possible with regard to deities. This is not a fault. An injunction regarding the worshipping of deities will take place where there is an injunctive force in reference to them, or in reference to the vaiśvadevatās that are connected to the agnihotra and so forth. 
-One might also object that this is also not possible. For, it is not possible that the deities can be worshipped (pūjyatvaṃ), because this would result in a violation of their essential nature [as being the indexical reference of the sacrifice]. For, if they were the direct object of pūjā (pūjākarmatve), they could not be the recipients of the sacrifice (yāgasampradānatā). It is stated, “nothing can be [a different category of ritual element] of another ritual [simultaneously].” For, the agent [of a ritual] is [its] power/force (śakti), and that [power] differs according to each ritual activity. And because that [power] is understood through its effect, it is reasonable that its division is according to its effect. Thus, that which is the recipient is [strictly] the recipient, there can be no consequence of its being the direct object. . . . For therefore, this [ritual] does not have worship (pūjā) as its object, and we do not find deities anywhere.1544 
-So far at least, it is difficult to distinguish if Medhātithi’s intention is simply to point 
-out the differences between the technical understanding of deities found in Mīmāṃsā from 
-popular usages of the term, or if he was actually seeking to unilaterally delegitimize normal 
-acts of worship. Succinctly, we are not yet sure if this is an argument about methodology or 
-ontology. The core idea here is that any ritual element can only execute a single function at 
-any given time or in a specific context. Since the definition of a “devatā “is solely being the 
-recipient of the sacrifice and not being the recipient of an act of pūjā, in this very narrow sense, 
-pūjā cannot be done to the gods. Then, gradually, the texture of the conversation begins to 
-shift into a questioning of the very existence of ritual injunctions governing pūjā (Pūjāvidhi). 
-Now, deities are Āditya and the others. [There is not] the injunction for worship (pūjāvidhi). After all, there is not established to be any deity in indexical reference to which the pūjā is enjoined. Nor, we know, is the word “deity”—Āditya and the others—a common categorical term, as for example the word “cow” [is a common 
-1544Medhātithi on Manu 2.189, vol. 1, pg. 176: nanu cāvyāpakam etad api lakṣaṇam / yāge uddeśyaḥ deveti, antareṇāpi yāgasambandhaṃ devatāvyavahāradarśanāt— “devatānāṃ ca pūjanaṃ,” “daivatāny abhigacched” iti na pūjā nāpy ābhimukhyena gamanaṃ pādavihārātmakaṃ devatāḥ prati sambhavati / naiṣa doṣaḥ / yatra devatācodanā tatraitat pūjāvidhānaṃ bhaviṣyati, vaiśvadevatāsv agnihotrādisambandhinīṣu vā / nanu caivam api nopapadyate / na hi devatāyāḥ pūjyatvaṃ sambhavati, svarūpahāniprasaṅgāt / pūjākarmatve hi yāgasampradānatā na syāt / uktam “na kriyāntarasya kiṃcid bhavati” iti / śaktir hi kārakaṃ, sā ca pratikriyaṃ bhidyate / kāryāvagamyatvāc ca tasyā yāvatkāryaṃ bhedo nyāyyaḥ / ato yat sampradānaṃ tat sampradānam eva na tasya karmāpattiḥ. . . . tasmād yadi pūjāviṣayam etat, na devatālābhaḥ / 
-1681 
-categorical term that includes specific known types of cows such as] the “śāgaleya” [breed] and so forth. On this matter, we reply: It is true, Āditya and the others are not “deities” based on possessing any essential nature. This (devatā) is a relational word. The meaning of the word “deity” must be understood only based on the injunction (vidhi): “For which [ritual] an oblation is impelled, that is the deity of that [ritual].” Thus, it is has been stated that “Agni” himself is not a “deity” anywhere apart from the Āgneya [ritual]. However, it is not possible to have an pūjā injunction (pūjāvidhi) without the [existence of an] object that is being worshipped.1545 
-As Medhātithi is beginning to make plain, in his own somewhat impenetrable manner, 
-the problem here is not that Mīmāṃsā does not permit pūjā to deities for reasons internal to its 
-technical mode of reading. The bigger issue is that, unlike when it comes to cows, of which 
-there are many sub-types known in the world, there is no possible reasonable meaning that the 
-word “god” (devatā) might communicate to another person that meaningfully refers to a thing 
-in this world apart from its technical definition. Since the gods exist only in Mīmāṃsā, pūjā to 
-gods is a meaningless act, for pūjā itself has no real object to which the worship is directed. In 
-the passage that follows, Medhātithi observes that since the word pūjā’s literal meaning is 
-impossible, we must take it metaphorically, as simply standing in for the normal mode of 
-sacrifice. PP: The deities are heard [in the Vedas] as what is being worshipped (pūjyatvena). 
-On that matter, if pūjā were possible in the primary sense toward the deity as its object, then “worship” (pūjā) would be understood only in the sense of “sacrifice” (yajña). And given that it lacks the form [of a sacrifice,] given that there is no mention [in the Vedas] of the deity and substance [involved in the feeding of Brāhmaṇas], this [use of the term pūjā in reference to an imaginary object] should be understood as an explanatory statement (anuvāda) that signifies the injunction regarding the time [of the ritual] as being before noon. . . . 
-[One might object,] why do you say that the deity is not revealed [in the Vedas]? 
-1545Medhātithi on Manu 2.189, vol. 1, pg. 176: atha devatā ādityādyaḥ, na pūjāvidhiḥ / na hi devatā siddhā yām uddiśya pūjā vidhīyate / na hy ādityādīnāṃ devatāsāmānāyaśabdaḥ, gośabdavac chāgaleyādīnāṃ / atro ’cyate satyaṃ, nādityādayaḥ svarūpato devatāḥ / sambandhiśabdo ‘yam / vidhita eva devatārtho ‘vagantavyaḥ, “yasya haviś codyate sā tasya devatā” iti / sa evāgnir āgneyād anyatra na devatety uktaṃ / kiṃtu na pūjāvidhiḥ pūjyamānam antareṇa sambhavati / 
-1682 
-[We reply,] to the extent that the word “deity” (devatā) does not appear directly. This word deity does not signify a general category. The ones toward which “deity-hood” is attributed elsewhere are the ones toward whom is directed this “injunction for worship” (pūjāvidhāna). Therefore, Agni, Rudra, Indra, Viṣṇu, Sarasvatī, and the others are to be “worshipped” [in a metaphorical sense.] And gifts (nivedana) of dhūpa, lamps, garlands, food, etc., are the offerings for the sake of “worship” (pūjārthaṃ). Among those deities, first of all, there is a direct relationship [of the offering] with Agni [i.e., it is put in the fire]. Because Āditya resides in a faraway place, through the mention of him, there is the scattering of fragrance and so forth in a clean place. Because the essential nature of Indra and the others is not perceptible, we likewise have the injunction by indexical reference alone through the words “Indra” and so forth. Even if “worship” (pūjā) has as its principal component the things being “worshipped,” all the same, because the things being worshipped are [not gods, but] a remainder of the other actions to be accomplished, “pūjā” is understood strictly as something that is to be done. . . . Just as praise is not for the sake of praise alone, likewise, this “pūjā” is not for the sake of the object of pūjā. . . .1546 
-Essentially, Medhātithi’s opponent, likely some sort of Smārta, has tried to create a 
-conceptual distinction between two types of actions, one called yajña and another called pūjā, 
-each of which he is suggesting is to be governed by different rules and norms. This Smārta’s 
-solution to the apparently extraneous inclusion within the world of the Vedic sacrifice of 
-ancestors that have be venerated and Brāhmaṇas that have to be fed was the assertion that in 
-both cases, these entities were recipients not of yajña but of pūjā. Pūjā, as his opponent 
-understands it, is a different type of activity, most likely involving the forging of a logical and 
-affective relationship with a god, which serves a different function than the yajña, where such 
-facets of experience do not come into play. Medhātithi’s response is to deny that this is a 
-meaningful distinction. He asserts instead that since pūjā to a god is impossible, based on the 
-1546Medhātithi on Manu 2.189, vol. 1, pg. 176–77: devatāś ca pūjyatvena śrutāḥ / tatra yadi devatārthe mukhyena pūjā sambhavati tadā yāga eva pūjā vijñeyā / tasya cārūpatvād asati dravyadevatāśravaṇe pūrvāhṇakālavidhyartho ’yam anuvādo vijñeyaḥ / atā pūrvāhṇe daivatāni kartavyānītyuktaṃ bhavati / kim ucyate devatā na śrūyate / yāvatā na sākṣād devatāśabdo ’sti / nāyaṃ sāmānyavacano devatāśabdaḥ / yāsām anyatra devatātvaṃ dṛṣṭaṃ tāsām etat pūjāvidhānam / tenāgnir ādityo rudra indro viṣṇuḥ sarasvatītyevamādayaḥ pūjyāḥ / pūjārthaṃ ca dhūpadīpamālyopahārādīnāṃ nivedanam / tatrāgnes tāvat sākṣātsambandaḥ / ādityasya dūradeśavartitvāc chucau deśe uddeśena gandhādiprakṣepaḥ / indrādīnāṃ svarūpasyāpratyakṣatvād indrādiśabdoddeśenaiva tathā vidhānam / yady api pūjyamānapradhānā pūjā, tathāpi hi pūjyamānānāṃ kāryāntaraśeṣabhāve pūjaiva kartavyatayā vijñāyate / dravyapradhāne hi na vidhiviṣayatvasambhavaḥ. . . . nyāyyaṃ tu stutiśastrādivat / yathā na stutiḥ stutyarthā evam iyam api pūjā na pūjyārthā/ 
-1683 
-Mīmāṃsā exegetical principle that apparently impossible statements are resolved by 
-metaphorical interpretation, the word pūjā must be simply a synonym for yajña. Since again 
-this would result in an impossible statement, we then have to construe the sentence even less 
-literally, in this case as informing us about some ritual details concerning the temporal context 
-for performing the yajña. 
-The problem is of course that our texts contain a whole bunch of statements that seem 
-to suggest we should a thing called pūjā to a target called a devata, and that this activity called 
-pūjā serves some purpose. The solution, of course, is to read all of these statements as non- 
-literal, albeit in a variety of different ways. When the text says there is a pūjāvidhāna, it really 
-means there is something you have to do. When it appears to mention a god by name, that is 
-really just a hint to the ritualist about what type of substance he should use in the ritual. So, for 
-example, when it says you have to offer something to the Sun god, that really means, it is time 
-to wave your dhūpa in a clean place. Just as the purpose of arthavāda statements in the Veda 
-was not really to inform us that Indra has big strong arms and a barrel chest, but rather to impel 
-us to do more rituals or tell us about their results, pūjā is not actually either an end in itself, 
-nor an act of worship that forges a bond between worshipper and worshipped. It is simply 
-another way of informing the ritualist about his obligations. As Medhātithi seeks to clarify: 
-Thus, [by] the passage “one should circumambulate the clay, cow, and the deity,” the practice of clockwise circumambulation (pradakṣiṇa) is enjoined. By means of circumambulation, the rituals related to the deities are to be done. It is not, after all, the case. . . that the place of the deity can reasonably be [circumambulated] by the right- hand path, because it [a deity] has no embodied form. It is the same case with the phrase “one should approach the deities.” Because it is not possible to attain the vicinity of the deity by the activity of walking with one’s feet, since the verb “going” can [secondarily] signify “knowledge,” how can we distinguish “approaching” from “remembering”? 
-[In actuality,] “one should approach the deities” [means that] at the time of the ritual, one should meditate with the mind; the sense is that one should abandon the scatteredness of thought that is known of as agitation. And having understood in this 
-1684 
-way, the Smṛti in question is in fact actually rooted in valid authority, as in the passage: “One should meditate mentally on that deity for the sake of whom the oblation would be taken up.” And one might object, “This [thinking of the deity] is also already entailed [as a consequence of your definition] given that the deity could not be other than what is indexically referenced.” There is no fault to [our position], because of the possibility of agitation that is accompanied by mental scattering.1547 
-In making sense of what Medhātithi is up to, it is helpful to think of him as something 
-akin to a logical positivist or Skinnerian behaviorist, one of those mid-twentieth century 
-analytical philosophers or psychologists who believed in essence that metaphysics of all sorts 
-was bunk and that if you could not touch it, taste it, smell it, feel it, it was not real. One of the 
-most interesting consequences of this line of argumentation was that, when applied with any 
-degree of rigor, it culminated in its proponents denying the reality of abstract concepts, 
-thoughts, and subjective emotional states (even, in the case of A.J. Ayer, the existence of a 
-unitary person), except insofar as they can be linked with concrete material consequences. For 
-Medhātithi then, it is necessary to provide a naturalistic account of the acts of darśana—seeing 
-and being seen by the deity, a process that in many places includes circumambulation—and of 
-meditation, which presumes the possibility that one can focus on an imagined mental object. 
-In both cases, the solution is to strip these acts of any assumed metaphysics and reconstrue 
-them as providing an impetus that informs how one should engage in concrete action. The 
-purpose of every subordinate act that makes up a ritual extends no further than the fact that 
-they have to be done and done in a certain way for the ritual to be a success. Since deities do 
-not exist except on the page, we cannot circle around them or “go near them” or “approach 
-1547Medhātithi on Manu 2.189, vol. 1, pg. 177: evaṃ “mṛdaṃ gāṃ daivataṃ pradakṣiṇāni kurvīteti” dakṣiṇācāratā vidhīyate / dakṣiṇena daivāni karmāṇi kartavyāni / na hi mṛdādivad devatāyā dakṣiṇena mārgeṇa sthānam amūrtyatvāt yujyate / evaṃ daivatāny abhigacched iti / pādavihāravyāpāreṇa devatāsamīpaprāptyasambhavād gameś ca jñānārthatvād abhigamanaṃ smaraṇāt kiṃ viśiṣyate? devatā abhigacchet, karmakāle manasā dhyāyet cittavyākṣeptām ākulatākhyāṃ parihared ity arthaḥ / tathā copalabhya mānamūlaiveyaṃ smṛtir bhavati / “yasyai devatāyai havir gṛhītaṃ syāt tāṃ manasā dhyāyed” iti / nanu caitad apy uddeśyatvān yathānupapatteḥ prāptam eva / savyākṣepasyākulasya ca sambhavād adoṣaḥ / 
-1685 
-them.” To derive some benefit from textual passages where such instructions are given, we 
-thus have to read key terms in increasingly metaphorical and abstract ways, such that 
-“approaching” comes to mean “one-pointed mental focus.” Since Mīmāṃsā is equally 
-unwilling to give sanction to any form of esoteric self-cultivation, invocations of “meditation” 
-must also then be naturalized. Mental focus thus is reimagined not as intrinsically valuable 
-because it plays a role in making ritual work, but as a helpful reminder not to let the mind get 
-“agitated” or “scattered.” Again, there is nothing intrinsically wrong about mental agitation, 
-but since getting distracted might lead to committing errors in the execution of what really 
-matters—performing ritual acts—it is good to counter it now and again. 
-Medhātithi now begins winding down his exegesis. Before closing his commentary on 
-this verse of Manu, which, for all its extravagant length, barely addresses most of the root text, 
-he takes the opportunity to “update” Śabarasvāmin’s critique of deities as property owners, the 
-one we encountered in the very first chapter. The ninth century in Kashmir, needless to say, is 
-a very different world than that of the imperial Guptas. Succinctly, temples have now existed 
-for so long, serving so many constituencies that they cannot simply be written out of the story. 
-His solution is simply to treat rhetorical claims that gods are present in temples that they are 
-said to “govern” and within which they hold property as transactional social phenomena with 
-no ontological basis whatsoever. 
-Thus, conventional usages such as “deity-hood,” “the cattle of the deities/the bound soul belonging to the deity (devapaśu),” “the ritual substances of the deities (devadravya),” and so forth are seen only to refer to the “cattle” (paśu) and so forth prepared for the ritual in their original meanings. [Some people], however, argue that with regard to legal eligibility for punishment [i.e., stealing property from a temple, etc.], the conventional usage of the term “deity” only concerns the image (pratikṛti), as otherwise there would be a violation of legal regulations. That alone is called the “property of the gods”—as in the passage, “the property of the gods, brahmans, and kings is to be known as the highest,”—that bears a connection based on the relationship of property and property owner (svasvāmibhāvena yatsambandhi), which is purely 
-1686 
-conceptual (kalpita) on the part of images that have been fashioned to bear the forms of the gods. It is not, after all, that the deities actually possess a relationship of property and property bearer (svasvāmibhāvaḥ). Because the primary meaning is impossible, this has to be understood strictly in a secondary sense.1548 
-On the surface, Medhātithi appears to be reiterating Śabara’s old argument that gods 
-cannot really own material property, though this time not with the aim of challenging the 
-existence of temples but simply in the service of showing that they are what one might well 
-call a purely secular social institution whose theology amounts to a mere “ideology” in the 
-most reductive of Marxist senses, obscuring the real working of power and material social 
-circumstances. As one digs more deeply, however, we begin to recognize that our author aims 
-to make a deeper more conceptual point, one that aims a dagger at the heart of one of the key 
-paradigms for early medieval religion in all but its most exalted of pantheistic and nondualist 
-esoteric modalities. We already encountered this notion of the svasvāmisambandha, the 
-relationship between an owner and a thing that is owned, or a master and his property, at the 
-very end of chapter 1. There, the fifth-century Pāśupata theologian Kauṇḍinya used this 
-formulation, especially prevalent in both grammatical philosophy and the traditions of the 
-Vaiśeṣikas, as exemplifying the relationship of the Supreme Rudra to a Pāśupata adept, 
-especially in the early stages of his sādhanā. In subsequent centuries, this same paradigm, read 
-as an account of how God relates to human beings, had become integral to the Sanskrit 
-scholastic tradition of the Śrīvaiṣṇavas and the dualistic Śaiva Siddhānta, as well as to their 
-Tamil counterparts among the traditions of the Āḻvārs and Nāyaṉārs. More broadly, insomuch 
-as theistic forms of Sāṃkhya philosophy become increasingly integral to various Mantramārga 
-1548Medhātithi on Manu 2.189: evaṃ “devatvaṃ” “devapaśavo” “devadravyam” ity ādayo vyavahārās tādarthyenopakalpiteṣu paśvādiṣu draṣṭavyāḥ / daṇḍādhikāre tu pratikṛtiviṣayam eva devatāvyavahāram icchanti / anyathā vyavasthābhaṅgaḥ syāt / kalpitadevatārūpāṇāṃ pratikṛtīnāṃ kalpitenaiva svasvāmibhāvena yatsambandhi tad eva ‘devabrāhmaṇarājñāṃ tu dravyaṃ vijñeyam uttamam ityādiṣu devadravyam / na hi devatānāṃ svasvāmibhāvo ’sti, mukhyārthāsambhavād gauṇa evārtho grāhyaḥ / 
-1687and Purāṇic cosmological discourses, this very same notion of the svasvāmisambandha also 
-comes to serve as a common ontological account of the relationship to puruṣa and the 
-mūlaprakṛti or māyā that makes up material reality. When the same configuration is 
-reinscribed with a more individuated vision of the ultimate reality as a supreme deity, what 
-emerges is a notion, ubiquitous throughout the Tantras, of a lord, whether Bhairava or some 
-other entity, defined as the śaktimat, the one who possesses/owns the powers or goddesses that 
-are the śaktis. In other words, we get a definition of what it means to be god entirely centered 
-upon the particular conceptual and grammatical relationship, governed by the genitive, that the 
-philosophers of grammar called svasvāmi(bhāva)sambandha. Thus when our Dharmaśāstrin 
-says that “it is not, after all, that the deities actually possess a relationship of the property holder 
-to a property,” and that it must be the case that all such statements have a secondary or 
-“metaphorical” meaning, he arrives at a kind of skepticism oddly akin to what would be 
-advocated by the decidedly European radical Enlightenment, and for that matter, much of the 
-academic study of religion. 
-To the cultural despisers of religion of the sort epitomized by Medhātithi, the 
-Caturvargacintāmaṇi and its author Hemādri responds with dismissive and withering 
-contempt. H: And that [all of the preceding arguments] is not the case, [that it is not reasonable to 
-conjecture the falsehood of satisfaction and being bestowers on the part of deities]. 
-For, everywhere in the Śruti, Smṛti, Itihāsa, Purāṇa and so forth there is the demonstration of the commencement of the śrāddha as precisely having as its chief purport the satisfaction of the ancestors. Furthermore, the very fact of deities being the bestower of the fruit [of sacrifice] also is stated many times in both the vidhi and mantra in the beginning and middle parts of a verse. And moreover, because the most authoritative śiṣṭas have the firm conviction that such is the case, worldly people are confident that such cannot be doubted. Thus, it is impossible to even conceive of the falsity of their [the deities] being the bestowers of fruit and satisfaction. For, just as these statements are shown in the Smṛti and Purāṇas concerning the śrāddha, which 
-1688 
-teach about the many fruits of the satisfaction of the ancestors and so forth, in just the same way there are also [statements] written teaching about the sin incurred when it [pleasing entities] is not done.1549 
-On the basis of precisely the mode of authoritativeness that Mīmāṃsā so often calls 
-into question—the actual social practices of people in the world, with the support of the very 
-modes of textuality that figures like Medhātithi viewed as so dubious, teachings in Smṛti and 
-Purāṇa for which a Vedic proof text cannot be adduced—Hemādri invokes an ideological 
-consensus in which it is self-evident that rituals like the śrāddha are for the pleasing of the 
-ancestors and that the failure to do so will bring about terrible consequences. As we will see in 
-the final section of this chapter, though for prior exegetes, the whole question of what we mean 
-when we suggest that ritual is about “pleasing” deities was usually an argument about 
-methodology or at most about the ontological existence of gods out in the world, for Hemādri 
-such reflections, even in the context of Vaidika rituals, are intrinsically of the utmost 
-significance, for they point the way to a religion of the heart that centers affect and individual 
-quotidian human experience. 
-Once again, it is worth reflecting that what we are seeing here in this discourse cannot 
-be understood as either the continuation or restoration of a learned Brāhmaṇa legalist tradition. 
-Even where our author inserts himself to ongoing discussions of great antiquity or engages and 
-appropriates the language of his predecessors, he typically does so from a counterintuitive 
-angle in the service of making arguments that either clash directly with what has been written 
-before or are founded on totally different primary theological commitments. The most 
-1549Hemādri, Caturvargacintāmaṇi, Śraddhākalpa, 23: tan na, śrutismṛtītihāsapurāṇādiṣu sarvatra pitṛtṛptiprādhānyenaiva śrāddhārambhadarśanāt, phaladātṛtvasyāpi vidhimantrayor ādimadhyāvasāneṣv anekaśo ’bhidhānād abhiyuktatarāṇāṃ śiṣṭānāṃ tādṛgdhīdārḍhyāl lokasyāyathāvicikitsāpratītes tṛptiphaladātṛtvayor alīkatvakalpanānupapatteḥ / yathā hy etāni smṛtipurāṇeṣu pitṛtṛptyādyanekaphalapratipādakāni śrāddhaviṣayāni vākyāni darśitāni, tathā tadakaraṇe pratyavāyapratipādakāny api likhayante / 
-1689 
-measured take on the written evidence at hand would suggest that we have here at long last is 
-perhaps the first entextualization of long standing localized Brāhmaṇa social practices and in 
-community understandings. It is certainly plausible that among its many marvels, Maharashtra 
-had pockets of devotionalized Brāhmaṇas to whose inchoate yearnings Hemādri—perhaps the 
-first member of their community to achieve transregional authority— at long last gives voice. 
-But as we have seen in earlier chapters, the documentary and material culture evidence from 
-the Seuṇa country, in which Brāhmaṇas of this sort play no outsize part, pushes back at such 
-understandings. Based on our archives, it is thus just as likely that Hemādri’s consensus has 
-been imagined into being during his own lifetime, even perhaps in a large part at his direction. 
-Now that Hemādri has shown us the how and why of śrāddha and defended the 
-common understanding of the practice in opposition to overintellectualizing critics, it is rather 
-appropriate that in a chapter entitled the Śrāddhavidhiphalapraśaṃsāprakaraṇa, the text 
-concludes with our author promoting śrāddha institutionalization through a celebration of its 
-virtues. As we saw earlier, such an approach is of course perfectly in keeping with Hemādri’s 
-core theory of textuality, which presumes that just as with rituals, people will stop reading 
-books if they are not provided with a core motivation about what concrete purposes their 
-reading will serve. Since, just as with injunctions, what provides that impetus is “statements in 
-praise of the fruit,” praśaṃsā, in and of itself a form of arthavāda, Hemādri concludes with an 
-annotated act of arthavāda. In other words, he tells his readers a story, and then shows them 
-why that story is significant. Unlike for the Mīmāṃsakas, for whom the category of arthavāda 
-often amounts to “myth” in the pejorative sense of that term, there is nothing Hemādri’s 
-writings that would indicate that a story cannot be compelling and also fundamentally “true.” 
-1690 
-First occurring in the Harivaṃśa but retold across a number of different Purāṇas, while 
-of marginal interest among modern Indologists, the story the Caturvargacintāmaṇi relates in 
-celebrating śrāddha is perhaps best known to the academy for its reception within the circles 
-of the American transcendentalists and metaphysical poets. As fate would have it, this very 
-same work of arthavāda, preserved in the author’s own hand, was translated by the American 
-metaphysical writer Henry David Thoreau under the title “The Transmigration of the Seven 
-Brahmans.”1550 Essentially, it is a tale about seven brothers who are fallen from yoga 
-(yogibhraṣṭa). Fallen from the path by the commission of the heinous sin of killing a cow and 
-lying about it, due to the merit they had acquired through their adherence to ritual duties, they 
-are reborn into various human and animal bodies, first as hunters, then as stags, geese, swans, 
-and ducks. In each incarnation, because of their previous piety, in spite of their sins, the best 
-of the brothers retain their memories and so are able to continue their ascetic practice even 
-while in animal bodies. While four of the brothers stray from the path and become mere 
-animals, the rest spend as much of each incarnation as possible engaged in yogic practices, 
-each time ending their lives through acts of austerity. Ultimately reborn in good circumstances 
-as pious twice-borns, they eventually achieve absolution and salvation. Here, in Thoreau’s own 
-rendering, is how the story begins: 
-“The world is founded upon the sraddha. 
-The divine eye, which Sanatcoumara had given me, made me perceive the seven Brahmans, of whom he had spoken, unfaithful to their sacred rules, but yet attached to the worship of the Pitris. . . . Their father dying, they commenced the prescribed ceremonies under the direction of their master. By his order they took care of his foster cow, named Capila, who was accompanied by her calf already as large as herself. On the way, the sight of this magnificent cow, who supplied all the wants of Gargya, 
-1550Thoreau seems to have completed this translation, a tiny extract of his own selection, from a huge and varied tome, in either 1849 or 1850. As he had little if any Sanskrit, he accessed it through the intermediary of S. A. Langlois’s French translation. S. A. Langlois, Harivansa: Ou, Histoire de la Famille de Hari, Ouvrage Formant un Appendice du Mahabbarata (Paris: Oriental Translation Fund, 1834). 
-1691 
-tempted them; hunger impelled them, their reason was blinded; they conceived the cruel and mad project of slaying her. Cavi and Swasrima endeavored to prevent them from it. What could they do against the others? But Pitrivarttin, that one among them who was always occupied with the sraddha, having his mind then on the duty the thought of which possessed him, said to his wandering brothers with anger: “Since we have a sacrifice to make to the Pitris, let this cow be sacrificed by us with devotion, and her death will profit us. Let us honor the Pitris, and no reproach can be made to us.” “Well,” said they all, and the cow was sacrificed in honor of the Pitris. They told their master afterwards: “Your cow has been slain by a tiger, but here is her calf.” The Brahman, without suspecting evil, took the calf which they delivered to him. 
-But they failed in the respect which they owed to their master; and when Time came to take them all together from this world, for having been cruel and wicked, for having rendered themselves guilty of impiety toward their preceptor, they all seven reappeared in life in the family of a hunter, of the country of Dasarna. However, as in sacrificing the cow of their master, they had rendered homage to the Pitris, these brothers, filled with force and intelligence, preserved in this existence the remembrance of the past; they showed themselves attached to their duties, performing their functions with zeal, and abstaining from every act of cupidity and injustice: now holding in their breath as long a time as endured the recitation of a mantra, now plunging themselves into profound meditations on their destiny.”1551 
-In the Harivaṃśa, the story now continues for several more pages, in which we are 
-offered detailed descriptions of each of the brothers’ succeeding incarnations. In each case, the 
-text dedicates much of its efforts to outlining the sustained programs of yogic practice that 
-render even these humble births extraordinary. Thus, for example, again in Thoreau’s 
-translation, we learn that even as stags: 
-They wandered in the woods, detached from every sentiment, from every affection, submitting with resignation to the duties which they had to fulfill, and in their solitude delivering themselves to the exercises of the Yoga. Extenuated by fasting and penitence, they died in the course of pious practices.1552 
-As Thoreau himself has highlighted, while the sacrifice to the ancestors performed 
-during the śrāddha rite is what makes possible the brothers’ retention of a capacity to 
-consciously reflect upon and thus address their karma across a number of nonhuman births, 
-1551Henry David Thoreau, The Transmigration of the Seven Brahmans: A Translation from the Harivansa of Langlois (New York: William Edwin Rudge, 1932), 3–4. 1552Thoreau, The Transmigration of the Seven Brahmans, 5. 
-1692 
-from the Harivaṃśa’s own perspective, an equally strong case could be made that this is a 
-story celebrating the practice of yoga. After all, while all of the brothers receive the benefits 
-from the śrāddha sacrifice, a number of them still end up straying into a destructive karmic 
-path. It is only those of the siblings who maintain their dedication over multiple lifetimes to 
-the practice of yoga that reap the real benefit. Needless to say, Hemādri’s commentary offers 
-a very different take on the moral of the story, centering participation in the śrāddha, nearly to 
-the expense of everything else: 
-This is the essential meaning (tātparya) of this story of seven [Brāhmaṇas], which consists of an arthavāda whose contents pertains to a previous eon. The purpose of the story is this: even having killed her [the cow], despite her being a cow; despite having deceived the guru, given the bondage of their own hunger, even though he gave the instruction of eating the cow; even though the cow had the guru as her master, and she was not authorized by the guru [to be killed]; even by [this act of] fraud—having designated the cow [as fit] for consuming at the śrāddha on the part of the sapiṇḍa [Brāhmaṇa guests], on behalf of those who perform the śrāddha, there arose the memory of previous births even when they had taken on the form of animals in another lifetime. 
-Then, for them, preceded by knowledge and dispassion of the right sort, there was the acquisition of yoga and sovereignty. There was the obtaining of mokṣa and the fact of knowing the real nature of all beings. Thus, they became of that nature [i.e., brahman]. 
-What more has to be said? By means of food offerings that are excessively well fashioned, that are produced using ghee, barley, and rice [that have been] acquired from money that was lawfully earned, having invited twice-borns, who are correctly procured (samyaksampādīta) by means of the injunction of summoning and so forth, who are suitable vessels [for receiving the śrāddha offering] and knowers of the Vedas and the meaning of the Vedas, [if that is done,] then on the part of those who perform the śrāddha according to the injunction, there exist the fruits inclusive of health, long life, and so forth, extending up to beatitude. . . . And likewise, there are also other fruits produced by particular śrāddha rites. . . . But, the satisfaction of the ancestors is the purpose in all the śrāddhas. 
-The fruit of reciting the śrāddha injunction as well is cited by Harīta: 
-“But, the one who recites and also performs this auspicious śāddha injunction is endowed with all desires and finds immortality.” 
-1693 
-However, by Bṛhaspati, is stated that there is the same fruit also on the part of those who are assenting (lit., co-doctrinal—anumata) to the instructions by means of the knowledge of the śrāddha injunction: 
-“The intelligent person who knows thus receives the fruit of the śrāddha, but if one is an ‘assenter’ to the given instructions, in this world, the two fruits are known to be equal.”1553 
-One particularly fascinating and not so apparent features of Hemādri’s practice as an 
-exegete is that he is modelling for us an entirely different theory of textuality, within which 
-the boundaries between different sources dissolve at the very moment where they touch upon 
-and address the same topic. It is for this reason that he sees himself as justified in extracting a 
-unitary intentionality (tātparya), not just from one particular text, but from the multiple 
-different tellings of “The Transmigration of the Seven Brāhmaṇas” cited by the 
-Caturvargacintāmaṇi. From our Dharmaśāstrin’s perspective, then, this “story,” in any of its 
-textual instantiations, serves to convey two interrelated messages. The first and most 
-straightforward of these promotes the value and absolute necessity of participating in the 
-śrāddha ritual by demonstrating the positive results that it is guaranteed to yield, even on behalf 
-of people who have otherwise violated their ritual duties. At the same time, Hemādri is also 
-showing his reader that, when properly executed, the study of Purāṇa amounts to a form of 
-inquiry (vicāra) that yields the same understandings and results as the study of the Upaniṣads. 
-1553Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 34–35: asya purākalparūpārthavādātmakasya saptavyādhopākhyānasyedaṃ tātparyyaṃ, yad gurusvāmikām ananujñātām api svabubhukṣānibandhan[e] bhakṣaṇoddeśenāpi guruṃ vañcayitvāpi gām api hatvāpi sapiṇḍānām api śrāddhabhojanaṃ vidhāya chadmanāpi śrāddhaṃ kṛtavatām anyasmin janmani tiryagjātīnām api yadā pūrvajanmasmṛtis tādṛgvidhajñānavairāgyapūrvako yogalābho rājyalābhaḥ, sarvasattvarutajñatā mokṣalābha ity evaṃvidhāni babhūvuḥ / tadā kiṃ vaktavyam / nyāyārjitadhanasampāditaśāliyavājyādiniṣpāditair atiśayaracanāmayair annair vedavedārthavidaḥ pātrībhūtān nimantraṇādividhinā samyaksampāditān dvijān upaveśya yathāvidhi śrāddhaṃ kṛtavatām āyurārogyādīni niḥśreyasaparyantāni phalāni bhavantīti. . . . tathā anyāny api śrāddhaviśeṣajanyāni phalāni bhavanti. . . . pitṛtṛptis tu sarveṣv api śrāddheṣu prayojanam iti / śrāddhavidhipāṭhasyāpi phalaṃ hārītenoktam— idaṃ śrāddhavidhiṃ puṇyaṃ kuryāc cāpi paṭhec ca yaḥ / sa sarvakāmasaṃyukto hy amṛtatvaṃ ca vindati // bṛhaspatinā tu śrāddhavidhijñānopadeśānumatānām api phalam uktam— [ya] evaṃ vetti matimān tasya śrāddhaphalaṃ bhavet / upadeṣṭānumantā ca loke tulyaphalau smṛtau // iti / 
-1694 
-To accomplish this task, in his analysis Hemādri repeatedly brings the contents of the 
-texts into closer alignment with the prescriptive paradigms of Vedānta discourse than their 
-actual substance would warrant. Thus, for example, while we are told that their memory of 
-prior births (pūrvajanmasmṛti) and the acquisition of yoga (yogalābha) was preceded by, and 
-thus effectively made possible through, a prior state of knowledge and dispassion 
-(jñānavairāgyapūrvaka), because that is what a Vedānta paradigm presumes; the evidence of 
-the stories themselves do not actually support such a claim. Within the text in fact, these virtues 
-seem only to emerge after the very flawed main characters have already taken up the practice 
-of yoga. Another nod to this emergent Vedānticizing paradigm, which is being superimposed 
-onto discourses to which it has only the most tangential of doctrinal relation, involves 
-collapsing the distinction between the results yielded by oneself participating in the śrāddha 
-ritual and any person enacting mere affirmation of the validity of the śrāddha paradigm. 
-Succinctly, this conceptual move enacts a classic Advaita Vedāntic tendency, namely, to 
-dissolve any difference between knowing something and doing something. Beyond its 
-apparent theological implications, this choice also has two very concrete social ramifications. 
-First, it provides accommodations within the world of the Caturvargacintāmaṇi for twice-born 
-renunciates who have taken a vow that abjures participation in all forms of “pravṛtti” oriented 
-transactional ritual without in any way implying any denigration of the value of that ritual 
-modality. So long as a renunciate is “co-doctrinal” (anumata) with the theology and method 
-that animates Smārta inscribed rituals—effectively so long as he pays lip service to what 
-Dharmaśāstrin style Brāhmaṇas do while he is out and about in the world—he can be perceived 
-not as representing a rival paradigm, but as a complementary authority participating in a shared 
-worldview and reaping the same sort of benefits. At the same time, positing the existence of 
-1695 
-“co-doctrinal” assent to the instructions given by others concerning the sacrifice also permits 
-a new kind of participation among those social demographics who are not permitted to fully 
-participate in śrāddha rituals—for example, Śūdras. So long as they “assent” to the validity of 
-the rituals performed by their betters, such people can also participate and benefit from this 
-newly emergent all encompassing “religious paradigm.” 
-It must be stressed that within the Caturvargacintāmaṇi, this emergent paradigm, in 
-which all of the texts in the canon and all of the participants in a society are supposed to 
-passively share a single worldview inflected by Vedānta and grounded in the Purāṇas, is never 
-assigned any particular name, apart from the occasional allusion to a Smārta mata. It would 
-certainly be anachronistic to say that what Hemādri has been doing, with his hallmark self- 
-awareness, is tantamount to deliberately “making up” Hinduism, still less with the aim of 
-casting it as a world religion. Nevertheless, if we are going to talk about the “invention” of 
-Hindu religion—which is of course among Religious Studies scholars who focus on the 
-subcontinent a topic of perennial interest, often it seems to the exclusion of much else—this 
-Smārta ecumene of the late Seuṇa Yādavas, of which Hemādri is at the very least the principal 
-architect, needs to be included on our itinerary as among the earliest points of interest. 
-Despite considerable efforts over the course of the better part of a decade to disabuse 
-myself of such notions by placing Hemādri’s intellectual project within a prior genealogy 
-locatable within the world of śāstra, in seeking out concrete scholastic antecedents, I am afraid 
-I have come up short. It really does seem to be the case that this is the first time in our textual 
-record when a plurality of the conceptual resources that makeup our familiar “big tent” 
-orthodox Hinduism have been assembled together. Primarily, what we are missing is what the 
-great German historian of the historicity of ideas, Reinhart Koselleck, would call “the process 
-1696 
-of conceptualization.”1554 This is when a constellation of interlinked concepts become strongly 
-associated with a particular lexeme, which is then simultaneously promoted by its advocates 
-and challenged as a unitary concept by its opponents. It is only then, or so conceptual historians 
-of semantics have argued, that we see the emergence of discourses centered upon and in 
-response to a single topic taken as a common point of reference. Based on our studies, it should 
-be self-evident that the zeitgeist being engendered by the Caturvargacintāmaṇi does not yet 
-match all of these criteria. 
-Far from being pedantic, this is the distinction between an incidental constellation of 
-interlinked concepts and what is essentially a unitary point of reference for these elements 
-presented in tandem with a form of discourse in the absence of which no meaningful discussion 
-1554Conceptual history, or Begriffsgeschichte, emerges out of the critical reflection of Reinhart Koselleck on the emergent methodology that developed over the course of thirty years during the production of the Geschichtliche Grunbegriffe (“Basic Concepts in History: A Historical Dictionary of Political and Social Language in Germany). See Reinhart Koselleck, et. al., ed., Geschichtliche Grundbegriffe:Historisches Lexikon zur Politisch-sozialen Sprache in Deutschland, 8 vols. (Stuttgart: E. Klett, 1972–1997). As Michaela Richter, working alongside Koselleck in translating the introductions to the various volumes, so aptly puts it: “It was in his ‘Introduction’ that Koselleck first underlined the significance of the historical change in the form of key political and social concepts from the plural to collective singulars, such as from histories to history, or from liberties—meaning privileges—to liberty. In a celebrated article, Koselleck later demonstrated the political and social consequences of these alterations in language. By ‘basic political and social concepts’ (Grundbegriffe), Koselleck meant to designate a distinctive type of concept, which in his view is qualitatively different from other concepts, terms, or lexemes. As formulated by Koselleck, basic concepts are said to combine manifold experiences and expectations ‘in such a way that they become indispensable to any formulation of the most urgent issues of a given time.’ They are, in other words, those terms in a language’s political and social vocabulary without which communication is no longer possible. Such concepts must be dealt with, positively and negatively, by anyone seeking to communicate with the audience or public that is being targeted. Basic concepts are highly complex; they are always unavoidable, ambiguous, controversial, and contested. It is these characteristics that make historically significant and set them off from purely technical and professional terms.” Richter’s remarks are published in Reinhart Koselleck, “Introduction and Prefaces to the Geschichtliche Grundbegriffe,” trans. Michaela Richter, Contributions to the History of Concepts 6, no. 1 (2011): 3. 
-Among the many features that distinguish the Grundbegriffe approach to corpus analysis from other projects that study the changing semantic history of words is the close attention the project pays to the correlations between context-specific deployments of given terms as well as the discursive regularities governing which types of speakers use which types of terms in which ways. The latter dimension of the project, for example, allows Koselleck to determine that well into the eighteenth century the most common terms for a peasant in German are almost exclusively etic terms used by elite classes to describe an inferior other and are virtually never self- ascriptions reflecting the self-understanding of the communities they are used to describe. Needless to say, such methods hold enormous promise for refining our own approaches as scholars of Indian religions using the digital humanities in the service of studying the historical change undergone by key religious terms of art over the longue durée. 
-1697can take place. By way of illustration, we can examine the matter in reference to Koselleck’s 
-own field of interest, namely, the history of Western political thought. The first case would be 
-represented by the anachronistic efforts of someone like Engels when he is seeking to locate 
-Marxists and socialists among the messianic peasant rebellions of medieval Europe. The social 
-agents in question possessed some of the traits and were invested in some of the issues that 
-would come to be associated in later centuries with “socialist” principles— promoting 
-communal living, for instance. At the same time, much of their worldview and agenda was not 
-explicable in these terms. In contrast, the second case of full conceptualization corresponds to 
-when Engels is analyzing the writings and activities of an eighteenth-century political actor 
-like Henri de Saint Simon, to whom the coining of the term “socialist” is assigned, and in 
-response to whom the general contours of political argument in Western discourse concerning 
-this most contested of topics took on their now all too familiar character. Labelling both of 
-these discourses “socialist” completely obscures the fact that these acts of classification in 
-actuality represent two different logical processes. To put it another way, we can credit 
-Hemādri with building a bridge to a recognizably early modern, even “Hindu” religion, without 
-concluding that he himself has ventured fully across it.1555 
-In concluding our study of the Caturvargacintāmaṇi, it is perhaps fitting that we end 
-by offering our reader a taste of the experience of what it is like to be stranded upon such a 
-bridge. Our focus will be one of the Caturvargacintāmaṇi’s most theoretically important, and 
-1555This would correspond quite closely with what Koselleck calls the Sattelzeit or threshold period, “in which the past was gradually transformed into the present. Concepts registering this change become ‘Janus-faced’: facing backwards they pointed to social and political realities no longer intelligible to us without critical commentary; facing forward to our own time, concepts have taken on meanings that may not need further explication to be directly intelligible to us.” Richter, trans., “Introduction and Prefaces to the Geschichtliche Grundbegriffe,” 9. In Koselleck’s domain of inquiry, the threshold period for the transformation of essential concepts is largely coterminous with the eighteenth century. In terms of our own archives, the thirteenth and fourteenth centuries seem more plausible candidates. 
-1698 
-most gnomic chapters, entitled the sarvaśāstropasaṃhāra.1556 This is the place where, all at 
-once, Hemādri outlines his theory of Smārta religion as comprised of a unitary canon, 
-explicates the very nature of the genre of the nibandha, and seeks to justify his overwhelming 
-reliance as a dharmaśāstrin on Purāṇic authorities of a sort largely discounted by prior thinkers. 
-To the profound frustration of modern readers, whose company you will soon be joining, rather 
-than presenting these stances in a clear and programmatic fashion in the manner you would 
-expect of someone trying to disseminate a new philosophy or value system, our śrīkaraṇeśvara 
-gradually and surreptitiously introduces these positions. Even more unappetizingly, he does 
-this in the context of an arcane reflection that attaches itself to what even in the thirteenth 
-century was an outmoded backwater debate about inter-lineage contestations among Śrauta 
-ritualists. Though scholars of śāstra might anticipate, with a title like sarvaśāstropasaṃhāra, 
-that our focus here would be on identifying the culminating or most important passage 
-(upasaṃhāra) in and among all the śāstras, for this is the usual technical meaning of this term 
-of art, especially in Vedānta circles, Hemādri construes the term in an entirely different 
-manner. For him, sarvaśāstropasaṃhāra refers to the extraction or acquisition (upasaṃhāra) 
-of various ritual details from across all the śāstras.1557 In essence, the topic at hand is: “what 
-are the rules for taking various elements from originally disparate textual domains and reading 
-them as connected discourses that complete or complement each other?” Or, to put things in a 
-more honest light, just how does one justify the method and interpretive project of the 
-Caturvargacintāmaṇi? Riding to the rescue, as we will see, is none other than Pūrva Mīmāṃsā. 
-1556The sarvaśāstropasaṃhāra occupies pg. 748–759 of the first volume of the Śrāddhakalpa, the vast majority of it taking the form of elliptical and dense śāstric prose. 1557Dakshinaranjan Shastri, in his brief discussion of the present section of the text, the only other treatment in the secondary literature known to me, interprets this term of art precisely the same way, translating it as: “gather all directions for a rite from all available sources.” See Dakshinaranjan Shastri, Origin and Development of the Rituals of Ancestor Worship in India (Calcutta: Bookland, 1963), 166. 
-1699 
-The preexisting medium that Hemādri chooses for working through this issue with the 
-aim of arriving at his preferred conclusions is an old, probably even pre Mīmāṃsaka debate 
-about the logical relationships and dependencies between different Vedic śākhās. Hearkening 
-back to some of the arguments we encountered in the very first chapter of this work, the texts 
-and collections of praxes that makeup that we now call Vedic religion have their origins within 
-specific lineages where they were viewed as the exclusive intellectual property of a delimited 
-community. Whereas we tend to think, for example, of the White and Black Yajur Veda, or, 
-zooming in a level, of even the Kāṇva and Mādhyandina versions of the Śatapathabrāhmaṇa 
-as “variants” on a shared tradition, there is ample evidence that the self-understanding within 
-these transmissions was quite different. It is quite likely that originally, they perceived their 
-counterparts as bitter rivals if not outright enemies.1558 As over the time the Veda begins to be 
-reimagined as a cohesive canon, quite naturally, this originary model gradually gives way to a 
-logic of accommodation in which not only different rituals but just as importantly differences 
-in what seems to be the same ritual as practiced across different communities have to be 
-rationalized. With the emergence of Pūrva Mīmāṃsā as an aspiring non-śākhā-specific ritual 
-metalanguage and of canons like the gṛhastha-centric Gṛhya literature and Dharmaśāstras, 
-which pitch ritual systems such as the pañcamahāyajñas as providing an alternative ritual 
-repertoire in lieu of Śrauta sacrifices, once again, priorities have to change. Thinking through 
-the scope of one’s varied ritual obligations and the competing demands they place upon a 
-professional religious person became of paramount importance. And, as the palate of ritual 
-obligations became ever more varied, because the texts themselves are hardly programmatic 
-1558See for example Michael Witzel, “On the Localisation of Vedic Texts and Schools,” in India and the Ancient World: History, Trade and Culture before A.D., ed. G. Pollet (Leuven: Department Oriëntalistic, 1987). 
-1700 
-and comprehensive, knowing “how to do the ritual” became less and less a matter of mastering 
-in childhood as thoroughly as possible a single cohesive body of hereditarily transmitted in- 
-house knowledge and ever more dependent on knowing strategies for locating the materials 
-and strategies one needs scattered across a disparate array of other people’s canons. 
-Precisely because the different śākhās perform parallel rites, often bearing the exact 
-same title, with both major and minor variations, the moment one starts seriously studying how 
-other people do things, all sorts of questions and doubts are raised about which ritual details 
-one should bring in from rival traditions and which ones should be ignored. As you might 
-expect, the tradition of reflection on ritual, Mīmāṃsaka and otherwise, offered a range of 
-answers to these questions. This then is the terrain that Hemādri has selected for making his 
-own arguments. The sarvaśāstropasaṃhāra builds upon these preexisting conversations by 
-gradually expanding them to incorporate a more capacious definition of what it means to be 
-Smārta and then seeks to reinforce its claims by deploying argumentative strategies drawn out, 
-for example, of the nascent tradition of proto-Navya Nyāya philosophy. For the modern 
-scholar, myself most certainly included, both of these choices gesture in the direction of parts 
-of the history of Sanskrit thought that have barely been explored and that carry with them their 
-own considerable difficulties. With these caveats in mind, we are ready to attempt our 
-engagement with Hemādri’s contributions. To facilitate this encounter, the translation that 
-follows aims at conveying the core ideas in the passages and is much less literal than what we 
-have been working with throughout most of this study. Just be forewarned, even with these 
-stipulations, that it is likely we are going to get stranded on this ever so treacherous bridge. 
-H: The one whose reserve of all the lofty qualities cannot be enumerated [even] by thousands of hordes of accountants, that Hemādri Sūri, who has performed an abundance of merit-making acts, now relates all the meta-rules regarding the śrāddha ritual. 
-1701 
-And now, the meta-rules. There is the sarvaśāstropasaṃhāra and this is thought of as having that [the following] as its meaning. 
-Is it the case that śrāddha is said to consist of ritual details (dharmas) inclusive only of [what is contained] in the Kalpasūtras and Gṛhyasūtras, respective to the śākhā, and thus is to be performed only on that basis, or [is the śrāddha to be done] by deploying the extracted ritual details from all sorts of śāstras (sarvaśāstropasaṃhāra) as they are enjoined in the Manusmṛti and so forth? 
-On that matter, if the śrāddha is to be performed only according to the ritual details [contained within the Kalpasūtras and Gṛhyasūtras—i.e., the first option,] then the instruction (upadeśa) in the ritual details in the Kalpasūtras and Gṛhyasūtras would be meaningful and otherwise it [such instruction in the canon of Kalpasūtras and Grḥyasūtras, at least as they pertain to śrāddha] would be without purpose. 
-Now, [in a similar light,] one might object that if the extraction of the ritual details from all the śāstras enjoined in the Smṛtis is done, then the Smṛtis would be meaningful, and otherwise, they would have no meaning. Thus, by the same logic, [if we accept the validity of this model,] the extraction of the ritual details [and details pertaining to] the aggregate of the dharmas of the Smārtas also would be a practice beyond any possibility of censure.1559 
-Essentially, Hemādri begins his discussion by confronting a basic conundrum. On the 
-one hand, there is one set procedures for śrāddha rituals outlined in the Kalpa and Gṛhyasūtras, 
-and on the other, there are another type of procedures for śrāddha presented in Smṛti works 
-like Manu, Harīta, and the Purāṇas. Even if you look briefly at these two sets of instructions, 
-it is obvious that they are quite different—at times mutually exclusive. Moreover, there is 
-enormous and irreconcilable variation even across the various Vedic śākhās themselves. Now, 
-this proliferation of discipline- and tradition-specific śrāddha ritual variations is only to be 
-expected if you accept an ideology akin to legal positivism, where legitimate rules and laws 
-1559Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, 748: gaṇakagaṇasahasrair apy aśakyo yadīyaḥ kalayitum akhilānāṃ rāśir uccair guṇānāṃ / kṛtasukṛtasamṛddhiḥ so ’tha hemādrisūriḥ / kathayati paribhāṣāṃ śrāddhakarmaṇy aśeṣām // atha paribhāṣā / tatra sarvaśāstropasaṃhāraḥ tadartham idaṃ cintyate / kiṃsvit śākhākalpasūtragṛhyeṣu yāvaddharmakaṃ śrāddham uktaṃ tāvanmātram eva kartavyam uta manvādismṛtivihitasarvadharmopasaṃhāreṇeti / tatra yadi tāvanmātradharmakaṃ kriyate tadā śākhākalpasūtragṛhyeṣu tāvanmātropadeśo ‘rthavān anyathānarthakaḥ syāt / nanu yadi smṛtivihitadharmopasaṃhāraḥ kriyate tadā smṛtaye ’rthavatyaḥ anyathānarthikāḥ syur iti samānanyāyatayā smārtadharmakalāpopasaṃhāro’pi niravadyam āsīd iti / 
-1702 
-are defined simply as whatever actions represent the longstanding practice of a given 
-community. Within such a framework, when engaging in comparative legal analysis, there is 
-thus no need to attempt to resolve or account for either the existence of repetitions across 
-communities or the presence of genuinely irresolvable differences. If, however, like Hemādri, 
-you believe in something like natural law, or a universal dharma, these apparent redundancies 
-and contradictions are enormously problematic. 
-Now, to become a Smārta Brāhmaṇa, you have to have already studied a particular 
-Gṛhya tradition that has śrāddha rites. This raises an obvious problem. What is the point of the 
-Smārta scriptures outlining another “redundant” set of śrāddha practices? Who is the audience 
-for such rites? As the very last part of the passage makes clear, what is at stake here is nothing 
-less than the legitimacy of the Smārta tradition. If one were to conclude that the Gṛhya and 
-Kalpasūtra instructions always take precedent over the teachings found in the Smṛtis, the 
-logical consequence would be that the Smṛti discourse has very delimited authority, essentially 
-only being relevant in the rare cases where the older discourse had in no way addressed a 
-particular ritual domain. Such a position self-evidently undercuts the claims of Smārta 
-Brāhmaṇas that they represent an independent and new kind of comprehensive governing 
-authority. As Hemādri’s opponents, whose positions he rapidly summarizes and then 
-dismisses, make clear, this stance effectively suggests that the Smārta claims to Brāhmaṇa- 
-hood and authority are mostly fraudulent and can be dismissed on a variety of grounds. 
-Nor can we say that the Smṛtis would be meaningful with respect to people who are devoid of Kalpa and Gṛhya literature that is respective to their individual śākhā, because there are not any people of the three varṇas who are devoid of [such texts] respective to śākhā and so forth. 
-Nor should one say that they would be meaningful only with regard to Śūdras, because of the fact that they—the Smṛtis—are chiefly concerned with the direct delineation 
-1703 
-(upadeśa) of rituals such as the agnihotra, Vedic study, the taking of sacred thread, and so forth, which have as their eligible agent a person belonging to the three varṇas. 
-[But if you say] the smṛtis should be understood as meaningful with regard to the three varṇas only—let it not be thus. With regard to particular rituals, let it be conceived that they [the Smṛtis] are meaningful [also] with regard to Śūdras. 
-Otherwise, let their suitability (upayogitva) be described through the upadeśa [direct instruction] regarding other śrāddha rites that have many ritual details pertaining to people of the three varṇas. Thus, [it is asserted that] the application [prayoga] of the śrāddha rituals that is stated in the Kalpa and Gṛhyasūtra rituals respective to one’s śākhā are only to be done in accordance [with what is in those texts], but it [this program of worship] is not to be supplemented by the introduction of Smārta matters. For, insofar as it [the Kalpasūtra- and Gṛhyasūtra-based program of worship] were to be supplemented [with Smārta ritual duties,] having abandoned the timing and ritual sequences accepted in the prayoga injunctions, it [the ritual] would have to take on another [conflicting timing and ritual sequence.]1560 
-Hemādri’s imagined opponents offer us a series of possible explanations that attempt 
-to account for the intended audience of the ritual systems offered in the Smṛti: 1) Smṛti is for 
-the twice-born who do not have a Kalpasūtra of Gṛhyasūtra. Hemādri’s response to this is to 
-point out that this category is effectively a null set, for every twice-born with ritual eligibility 
-is aligned from birth with a śākhā-specific Kalpa and Gṛhya text. 2) Smṛti (and yes, we mean 
-inclusive of Dharmaśāstra) is a religion intended for only Śūdras. Hemādri’s rejoinder is that 
-this could not possibly be true because these texts primarily teach practices that can only be 
-performed by twice-borns. The caveat here, of course, is that if the Smṛtis taught solely 
-practices meant for twice-borns, then the universalization of dharma that animates the 
-Caturvargacintāmaṇi from its very beginning would prove a fool’s errand. This statement 
-1560Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, 748–49: na ca prātisvikaśākhākalpasūtragṛhyaśūnyān puruṣān prati smṛtayo ’rthavatyo bhaviṣyantīti vācyam / prātisvikaśākhādiśūnyānāṃ traivarṇikānām abhavāt / na ca śūdrān praty arthavatyo bhaviṣyantīti vācyam, traivarṇikādhikārikopanayanādhyayanāgnihotrādikarmopadeśa- pradhānatvāt / smṛtīnāṃ traivarṇikān praty api tāsām arthavattvena bhāvyam / maivam / karmaviśeṣe śūdrān praty evārthavattvaṃ kalpyatām / athavā traivarṇikān praty api bahudharmakaśrāddhāntaropadeśenopayogitvaṃ varṇyatām / ataḥ svaśākhākalpasūtragṛhyoktaśrāddhaprayogas tāvān eva kartavyo na smārtapadārthapraveśenāti- recyaḥ / atirecyamāno hi prayogavidhyabhimatau kramakālau hitvānyāv āsādayet / 
-1704 
-therefore has to be emended to make it clear that while the Smṛtis teach many things intended 
-just for twice-borns, they also contain materials relevant to Śūdras. The concluding position 
-arrived at in this part of the text is that while the procedures for śrāddha rites in the Kalpa and 
-Gṛhyasūtras should not be modified using details from the smṛtis—that would be a mess—this 
-should not be taken as an assertion that Kalpa and Gṛhya ritual systems and Smārta ritual are 
-non-overlapping magesteria that should be kept segregated from each other. The reason we 
-know this is the case, Hemādri informs us, is that if this were so, we would run into a problem 
-when a single ritual agent is mandated to perform both sets of ritual duties in a manner that is 
-impossible because each set of rites is timed in a manner that conflicts with each other. 
-Instead of providing us right here with a practical solution for resolving the problem of 
-apparently conflicting ritual duties, Hemādri takes the discussion in an unexpected and very 
-different direction. Suddenly, instead of talking about ritual from within its own meta- 
-language, we are plunged deep into the realm of formal philosophy, especially the transitional 
-form of Nyāya that precedes the writings of Gaṅgeśa, which Hemādri is inordinately fond of 
-invoking. And moreover, now, because there is a single substrate (ekāśrayatva) for the property and the property bearer, on account of the restriction (niyama) that the Kalpa and Gṛhyasūtras have a relationship [only] to a particular type of student/reader, śruti is conceived of as the thing that possesses properties (liṅgin), [while] the Kalpasūtra [is conceived of] as being the property, which is dependent as a particular upon an agent [i.e., the possessor of the property.]1561 
-Essentially, Hemādri’s argument here is that the Kalpasūtras and Gṛhyasūtras are, 
-depending on which set of analogies you prefer, like an adjective or the color blue. Just as you 
-cannot have an adjective without a noun or perceive the color blue independent of seeing a 
-1561Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, 749: kiṃ ca, kalpasūtragṛhyāṇām adhyetṛviśeṣasambandhi- tvaniyamāl liṅgaliṅgin[a]ś caikāśrayatvāt kartṛviś[e]ṣāśritena kalpasūtreṇa liṅgena tadāśritaiva liṅginī śrutiḥ kalpyate/ 
-1705 
-specific object that is blue, in the same way, the auxiliary texts of the Veda are inconceivable 
-independent of their relationship with the property bearer—think noun or object—that is the 
-śruti. Though we have not yet seen this part of the argument worked out, everything here hinges 
-on the deliberate decision to speak of śruti as a general abstract category—of specific 
-Kalpasūtras being related to and entirely dependent on an overarching notion of scripture as 
-opposed to being linked to the specific texts within their śākhā. As will be evident by the end 
-of this section, Hemādri’s larger goal here, quite pointedly, is to dismantle older Vedic 
-sociologies of knowledge that perceived different Vaidika transmissions as teaching 
-fundamentally different things. Hemādri’s target here is nothing less than the very notion of 
-vyavasthā, the differential arrangement of discrete forms of knowledge governed by their own 
-norms and embedded within discrete communities, an idea he seeks to diminish to the point of 
-insignificance. 
-Before we can get there, however, Hemādri first dedicates an inordinate amount of 
-space to responding to a series of what are essentially pre-objections to his ultimate thesis that 
-in the end, the different śākhās of the Vedas all teach the same basic things, differing only at 
-the level of some ritual details. Beyond the bare fact that, historically speaking, his conclusion 
-is erroneous, such a model is transparently problematic from the perspective of śāstra because 
-it suggests numerous ways in which the Veda appears to be unreliable and even flawed. If this 
-is true, the objectors say, why are there so many different śākhās? Why do we have texts in the 
-Veda that tell a person, that after they have completed studying their own tradition, they may 
-study more than one śākhā or even, to great acclaim, multiple Vedas? Would the Veda not also 
-be repeatedly guilty of the flaw of punarukti—essentially redundantly saying the same sorts of 
-things again and again ad nauseum? While we will not delve into these matters in any detail, 
-1706 
-for us the important takeaways are the emergence out of this discussion of two principles. The 
-first is that no matter how many śākhās and Vedas one studies, a person can only ever “belong” 
-to a single hereditary transmission, whose strictures unilaterally take precedent over anything 
-else that he might learn especially in the domain of his own personal life. A central 
-consequence of this conclusion, call this the second principle if you like, is that every twice- 
-born person, from the time that they have begun to study the Veda, becomes subject to a śākhā- 
-specific Vaidika ācāra whose rules cannot be overridden by any subsequent initiations into 
-other bodies of knowledge. In other words, while one may “study” many things, a person 
-“belongs” only to a single domain. 
-With these observations in mind, let us return to the sarvaśāstropasaṃhāra, joining in 
-at the moment when the one main pūrvapakṣin presents his final position, enabling Hemādri 
-in turn to put forth his own siddhānta: 
-PP: It is not thus, because it is not possible to do away with the very fact of being born in a lineage of studiers belonging to a particular śākhā. [For this reason] there still exists the fact of belonging to a particular śākhā. Thus, it is established that the śrāddha is to be done precisely as is conjoined with only the dharmas stated in the Gṛhya and Kalpasūtras of one’s own śākhā, and it is not to be supplemented (atirecya) by the introduction of items stated in the Gṛhyasūtras and Kalpasūtras of another śākhā or by the introduction of extraneous “Smārta items.” 
-Hemādri replies: On this matter, it is stated: on the force of the recognition that it is impossible for it to be established otherwise, [we must accept that] there is only one single ritual for the agnihotra and so forth, of which cognitive content (pratyaya) belongs to all śākhās without exception. Thus, it is established in the śākhāntarādhikaraṇa, “or it is one because of the lack of particularity in designation, codanā, the form, and union (saṃyoga) [JMS 2.4.9],” because in all śākhās, a ritual such as the jyotiṣṭoma ritual lacks particularity of designation, codanā, rūpa, and saṃyoga. When it is recognized as such, its essential unity is ascertained. 
-The word “union,” because of its chief importance, is intending here to refer to the logical relationship [of the ritual] with the fruit. And rūpa is the deity to which a substance is offered, because of its being a subordinate component and because of its being indicative of the essence of the ritual. And codanā is the injunction of which the scope is bringing into being, that is conjoined with the meaning of the verbal root. But 
-1707designation, however, is the name jyotiṣṭoma and so forth. Thus, the ācārya says, commenting on this very sūtra: “because of the recognition in all cases, by means of designation, form, quality, and so forth, there is the cognition of there being only one ritual that does not deviate in different śākhās.” Nor is there in this matter any cause that would create distinction (bheda).1562 
-Though articulated in the arcane language of Pūrva Mīmāṃsā, at its heart, Hemādri’s 
-reply here serves to communicate a single fundamental message of momentous importance 
-that changes the texture of Indic textuality. Suppose you are reading a ritual text or even 
-listening to a religious narrative. Suddenly, in passing, the work compares the results of a 
-particular act to the fruit from performing a horse sacrifice, or one of the minor characters 
-throws something into a homa pit. Expanding on Mīmāmsā based hermeneutical insight, 
-Hemādri asserts that if in any given sentence a ritual is mentioned without further specification 
-(such as substances used, proper name of ritual, or governing deity), we must assume the text 
-is talking about a common form of a ritual, not some lineage specific tradition. Most 
-importantly, this is true independent of the tradition or genre of the work under discussion 
-within which a given passage is contained. In other words, the vast majority the Āśvalāyana 
-Śrautasūtra needs to be read as teaching a generic homa sacrifice, not something specific to 
-that tradition. Or, even if a Bhairava Tantra contains one sentence that specifies oblating mice, 
-every other surrounding mention of homa really is referring to a generic homa. 
-1562Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 750–751: naitad evam / śākhāviśeṣādhyetṛsantati- jatvānapāyāt tacchākhīyatvam asty eva / svaśākhākalpasūtragṛhyoktadharmamātrayuktam eva śrāddhaṃ kartavyaṃ nādhikasmārtapadārthapraveśena paraśākhākalpasūtragṛhyoktapadārthapraveśena vātirecyam iti sthitam / atrocyate / ananyathāsiddhapratyabhijñābalād aśeṣaśākhāpratyayam ekam evāgnihotrādikarmeti śākhāntarādhikaraṇe sthāpitam, “ekaṃ vā saṃyogarūpacodanākhyāviśeṣāt” / sarvāsv api śākhāsu jyotiṣṭomādikarmaṇaḥ saṃyogarūpacodanākhyānām aviśeṣāt / pratyabhijñāyamānasyaikatvaṃ niścīyate / saṃyogo ’tra prādhānyāt phalasambandho vivakṣitaḥ / rūpaṃ cāntaraṅgatvāt karmasvarūpanirūpakatvāc ca dravyadevatā / codanā ca dhātvarthasahitabhāvanāviṣayo vidhiḥ / ākhyā tu jyotiṣṭomādināmadheyam / etad eva sūtraṃ vyācakṣāṇāḥ prāhur ācāryāḥ / “sarvatra pratyabhijñānāt saṃjñārūpaguṇādibhiḥ / ekakarmatvavijñānaṃ na śākhāsv apagacchati” iti / na cātra kiṃcid bhedakaṃ kāraṇam iti / 
-1708 
-The major consequence of adopting this reading strategy is that the diversity of praxis 
-within Indic religion is instantly greatly reduced. To put this in perspective, it as if one were to 
-decide that when Proust refers to a tree in the Remembrance of Things Past, and when Tolkien 
-refers to a tree in the Silmarillion, and your power company refers to a tree that is blocking the 
-line on the phone, we should assume that all of these sources are talking about the exact same 
-kind of tree. Suddenly, differences in temporality, intention, and ethos vanish and the world 
-begins to look very small. It is the same sort of thing once we conclude that the vast majority 
-of Indic “religious” discourse is always talking about the same generic rituals. It also almost 
-automatically follows that, since in almost all cases, regardless of text, original community, 
-and genre, the rituals are the same, we have one built in justification for the practice of 
-extracting ritual details from all different types of authoritative sources 
-(sarvaśāstropasaṃhāra). Other people’s traditions, we must now recognize, contain tiny bits 
-of specialized information that enable the ritualist to enact slight contextual variations in ritual 
-application. 
-Thus, just there is a ritual archetype (ākṛti) that is obtained in a singular instantiation (vyakti), in the same way, textual study [takes on a particular form] within each individual śākhā. Therefore, in the passage “svādhyāya is to be studied,” according to the statement one should bring into being the awareness (avabodha) of the ritual through the recitation of a particular Vedic text (svādhyāya) that has been studied [by a particular individual who has mastered that specific Vedic canon], then, because svādhyāya is being adopted with regard to the understanding (avabodhana) of the ritual [as it pertains to that specific Vedic text], it is understood each śākhā is intended to be studied [by a particular person for the sake of recitation] individually.1563 
-A long discourse then ensues on the question of why, if most of the ritual is the same, 
-we should bother to study other Vedas? Hemādri’s position is that rather than showing us the 
-1563Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 751: itthaṃ yathaivākṛtir ekasyāṃ vyaktau samāpyate tathā svādhyāyatvam ekaikasyāṃ śākhāyāṃ tataś ca svādhyāyo ’dhyetavya ity atrādhītena svādhyāyena karmāvabodhaṃ bhāvayed ity ukteḥ svādhyāyasya karmāvabodhaṃ praty upādīyamānatvād vivakṣitaikasaṃkhyaikā śākhādhyetavyeti gamyate / 
-1709 
-“difference” (bheda) between specific śākhās’ knowledge base, comparative study has as its 
-purpose the recognition of the overwhelming unity of all of ritual discourse. It allows us to 
-realize that the form of the ritual that is given to us from within a specific śākhā, instead of 
-being a śākhā-specific form of homa, for instance, is a generic homa that travels with a few 
-lineage-specific subordinate details. To create variants on that homa, we have to understand 
-what is the base form and then manipulate the ritual details as needed, a task that is only 
-possible when one makes use of multiple transmissions and compares what parts of the rite are 
-essential to its performance and what are add-ons. In other words, accounting for “difference” 
-by saying “this is the way our community performs X ritual” is no longer sufficient. Though 
-most of the ritual content contained within them is the same, Hemādri explains, each śākhā is 
-addressed to a specific type of hereditarily defined learner with its own pedagogical traditions. 
-Part of that tradition relates to śākhā-specific household practice, as outlined in the Gṛhya 
-literature. These ācāras—strictly limited to private household ritual practice—vary by śākhā. 
-It is only these changes in the way the first Veda one learns is imparted in terms of emphases 
-and household practices that are governed by a logic of “differential arrangement” (vyavasthā), 
-according to site- and community-specific norms. When it comes to “rituals” themselves, 
-though slight ritual details may change, no such differential arrangement is possible or 
-acceptable. 
-The reason we see apparent repetition across different fields of textuality, Hemādri 
-continues, is mostly a question of positionality. In other words, the scriptures are composed in 
-such a manner as to try to meet the needs of a range of possible kinds of readers. Since different 
-readers encounter the texts at different moments in their education as both insiders and 
-outsiders, the same text has to contain both a majority of generic ritual procedure well as 
-1710 
-supplementary ritual details needed for specific applications. Succinctly, some readers might 
-encounter any given Vedic text as their “first” Vedic text. In such cases, that Vedic source is 
-foundational to their identity and also serves to introduce the core rituals and how we think 
-with them. For another learner, however, that very same text is simply one among many 
-resources one encounters after imbibing the teachings of one’s own śākhā. Thus, the exact 
-same Vedic passage serves different functions, such as introducing the common form of a rite 
-on the one hand or indicating specialized information on the other, depending on the person 
-that is studying it. As you might also have noticed, though translated into a different idiom, 
-what is at work here is the very same idea that the coherency and intentionality of ritual lies 
-not in the ritual itself, but in the relationship between the ritual enjoiner (upayoktṛ) and his 
-specific intended audience that we encountered last chapter when thinking with the 
-Nyāyakusumañjali. 
-One of the consequences of this mode of understanding is that the injunctions given by 
-one’s own śākhā, or encountered first when studying one’s tradition, takes precedence over 
-any injunctions you might encounter over the course of your later learning. The reason this is 
-the case is that if a subsequent injunction repeats something you have already been told to do, 
-it is just not meant for you. If it offers a command that conflicts with something you have 
-already been taught, you have no obligation to listen to it. In other words, Hemādri has just 
-built a firewall around twice-born habitus that makes the differentiation of conduct based on 
-subsequent initiations largely impossible. With these protections in place, it is now possible 
-for him to extend the canon of equal and acceptable resources far beyond the narrow limits of 
-Vedic textuality. 
-Since, just as an injunction is not contradictory with something that is also enjoined [in some other place], because of a difference in instruction or the undertaken activity in 
-1711 
-reference to [the specific] men who are being instructed or [who are] being made to undertake the activity, studying within their respective śākhās, thus, given that the unity of the ritual is established, in whichever cases a ritual such as the agnihotra is being connected (sambadhyamāna) with ritual details that are instructed and is being practiced, even by studiers within another śākhā, by the principle “that it is not that one is being celebrated [here]” (na ca ekaṃ pratiśiṣyate), it is to be practiced as conjoined with those ritual details [as given in a specific context]. 
-And thus, given that there is established the extraction of ritual details from all the śākhās (sarvaśākhopasaṃhāra), the śrāddha is to be done by everyone precisely as endowed with the extent of the ritual details as understood from the Gṛhya, Kalpasūtras, Smṛti, Purāṇa, and ācāra of all the śākhās. Thus, it is proven.1564 
-In the passages that follow, whose particulars need not detain us, Hemādri 
-systematically challenges the very notion of the differentiation of domains as playing a 
-meaningful role in our interpretation of rituals or ritual agents. He emphatically denies that 
-different Vedic transmissions serve different functions or could be possibly have more or less 
-intrinsic value and efficacy independent of their impact on a specific type of designated agent. 
-In this rebuttal, Hemādri even appears to deny the very idea that the forms of knowledge and 
-the means to acquiring knowledge themselves are differentially established. It is not that 
-certain Vedic transmissions (here standing in for most kinds of knowledge) intrinsically 
-contain special knowledge that one’s own does not, but rather that a person automatically has 
-a different epistemological relationship to any Veda that is not his own and this causes him to 
-see the text differently and to notice different things within the text than someone in lineage 
-would. It is this observation that prepares us for arriving at Hemādri’s rather jarring conclusion. 
-Moreover, within a particular śākhā [that belongs to someone in particular], only a universal (sāmānya) [ritual form] is instructed, not a particular. Regarding that [issue], at the time of practice, a certain particular must necessarily be accepted, having 
-1564Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 753: yatas tattacchākhādhyāyinaḥ pravartyān pratipādyāṃś ca puruṣān prati pravṛttibhedena pratipattibhedena ca vihitasyāpi vidhānaṃ na virudhyate / tad evaṃ karmaikatve sthite yatra kvacanopadiṣṭair dharmaiḥ sambadhyamānam agnihotrādikaṃ śākhāntarādhyetṛbhir apy anuṣṭhīyamānaṃ na caikaṃ pratiśiṣyata iti nyāyāt taddharmayuktam anuṣṭheyam iti sarvaśākhopasaṃhāre sthite sarvaśākhāgṛhyakalpasūtrasmṛtipurāṇetihāsācārāvagatadharmamātrayuktam eva sarvaiḥ śrāddhaṃ kartavyam iti sthitam / 
-1712 
-determined [it] according to one’s intellect. And that [particular], being accepted, on certain occasions, may be perceived as being contained within another śākhā. And in that case, if that very thing is understood in accordance with another śākhā, then, what impropriety in fact would be done?1565 
-What is at stake here, effectively, is the role played by traditional Vedic pedagogy. 
-Suddenly, though it serves the sociologically useful end of forever limiting what types of 
-further ritual commitments a twice-born Brāhmaṇa might accrue after their initial period of 
-studentship, studying a Veda in lineage does not in fact prepare you for life as a ritualist. 
-Because in-house knowledge teaches only generalized ritual forms, it does not enable a person 
-to acquire the transactional ritual skills actually needed in day-to-day ritual life. Knowledge 
-about ritual particulars is not a matter of social acculturation into a specific community. It 
-instead springs from the individual exercise of the intellect in applying skills that can only be 
-acquired from studying—or composing—texts such as the Caturvargacintāmaṇi. 
-Whatever ritual item belongs to another śākhā that is not in contradiction with the ritual items stated by one’s own śākhā—which, [although] it is not contained within the general form of that [ritual] partakes of a singularity of application (prayoga) by means of the principle of aggregation (samuccaya) as [merely] having different points of entry [into the same ritual application]—that item, insofar as it is accepted as that of which the entry is not warded off by another means of knowledge in contradiction with it. . . . it would not cause any flaw. . . . 
-Thus, it is established that the application (prayoga) is to be practiced having [first] extracted (upasaṃhṛtya) the ritual details that are accepted, according to the Kalpasūtras, Gṛhyasūtras, Smṛtis, Purāṇas, Itihāsas, and ācāras of all the śākhās.1566 
-1565Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 755: api ca kasyāṃcic chākhāyāṃ sāmānyam evopadiṣṭaṃ na viśeṣaḥ / tatrānuṣṭhānakāle ’vaśyaṃ svabuddhyādhyavasya kaścid viśeṣo grahītavyaḥ / sa ca gṛhyamāṇaḥ kadācic chākhāntaropaviṣṭo gṛhyate / tatra yadi śākhāntarānusāreṇa sa eva gṛhyate tadā kiṃ nāmāsamañjasaṃ kṛtaṃ syāt / 1566Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 755–56: yo ’pi tatsāmānyānantargato bhinnadvāratayā samuccayenaikaprayoganiveśaṃ labhamānaḥ svaśākhoktapadārthāvirodhī śākhāntarīyaḥ padārthaḥ so ‘py apūrvasyānirjñātopāyaparimāṇatvād viruddhapramāṇāntarānivāritapraveśo gṛhyamāṇo na kiṃcid dūṣayet. . . . ataḥ sarvaśākhākalpasūtragṛhyasmṛtipurāṇetihāsācārāvagatān padārthān upasaṃhṛtya prayoge ’nuṣṭheya iti siddham / 
-1713 
-The density and technical nature of this śāstric prose, for the modern reader at least, 
-unfortunately does much to obscure its intended message, which is of the utmost importance 
-to understanding the history of Indian religions. Succinctly, what Hemādri has shown to his 
-hyper-learned critics is that the tradition of Pūrva Mīmāṃsā not only permits the practice of 
-“aggregation” (samuccaya) that finds its inexorable textual expression in the genre of the 
-dharmanibandha—which we should be translating as an “aggregation” (nibandha) of ritual 
-detail (dharma)—but also, in fact, actually necessitates this mode of textual practice and the 
-kind of social actor responsible for its implementation. In other words, Smārta religion and 
-Smārta modes of textual practice are the culminating authority of all śāstric knowledge—the 
-only way anything will ever get done. Once again, it is worth breaking the argument down into 
-its component parts. 
-Hemādri has just given us a series of rules that are necessary for performing rituals. 
-Your own tradition only teaches you general ritual forms but at the same time it also supplies 
-adamantine restriction injunctions that prevent you from doing certain things and using certain 
-substances. To apply this general ritual knowledge in a specific way—to do a prayoga—you 
-have to draw details from other traditions. You can do this in all cases so long as the elements 
-you are borrowing are not explicitly forbidden by your hereditary transmission. In practice, 
-this means you take a whole bunch of disparate details from a range of sources. What enables 
-us to recognize that these sources are logically connected is they contain shared key words, 
-agnihotra for instance, or pañcagavya, or śrāddha. If that prerequisite is in place, you can 
-borrow what you need, and you can do this without worrying about whether the original 
-interpretive context around the statement you are procuring lines up with your intended ritual 
-application (or, as he puts it, “insofar as it is accepted as that of which the entry is not warded 
-1714 
-off by another means of knowledge in contradiction with it”). If this is sounding familiar once 
-all the abstruse technical language is scraped away, that is because Hemādri has just described 
-in an analytical idiom what he has been doing on nearly every page of his nibandha. Nibandhas 
-are ready-made samuccayas of ritual details, organized page by page around common key 
-words in the assembled passages, nearly all of which from our perspective are taken out of 
-context. Once the author has performed the act of upasaṃhāra, his other main task is to provide 
-one type of much less sophisticated intended reader with ready-made prayogas so he can carry 
-out ritual duties in context. At the same time, for another reader of keener mind, at least when 
-it comes to the Caturvargacintāmaṇi, Hemādri also supplies all of the methods needed to do 
-this kind of intellectual work for oneself. We have gone over these two kinds of intended 
-readers before. What is important here is that in the sarvaśāstropasaṃhāra, the existence and 
-activities of both of them have just been justified to even the most learned of śāstrins from 
-within an orthoprax Mīmāṃsā frame. These practices most likely are not new. What is 
-revolutionary is their complete integration into the highest levels of learned Brāhmaṇical 
-discourse on the basis of a metalanguage used by learned people. 
-Though deeply intellectually indebted to Mīmāṃsā for his reading strategies, Hemādri, 
-as we must always remember, first and foremost is a theistic nondualist. Succinctly, he believes 
-deeply in the significance of the very kind of personal god that much of classical Mīmāṃsā 
-seeks to deny. For this reason, immediately following his marshalling a purely 
-methodologically grounded defense of the practice of his profession, our author offers a very 
-different justification for the practice of sarvaśāstropasaṃhāra, both in general, but also quite 
-specifically in terms of its application to the ritual of the śrāddha. Unlike the convoluted 
-1715 
-hermeneutics that proceeded it, the answer he provides is transparent and straight forward. 
-Quite simply, we know we should do this, because God did it too. 
-H: [Thus,] in the Brahma Purāṇa: 
-“Rāma was instructed by the sages to feed the Brāhmaṇas according to injunction (yathāvidhi). The entirety of the vaidikī ritual that was done was remembered (smṛtā) as mānavī. And that very vidhi [that Rāma followed], which was stated in the Purāṇas, is proceeded by the Vaiśvadevika [type of śrāddha].” 
-H: “Who was instructed by the sages” means he was impelled by the sages. “Vaidikī” means that it was connected to the sacrifice to the ancestors by means of the piṇḍa (piṇḍapitṛyajña) that is enjoined in the Vedas. And it is formulated in the śrāddha by the rule of substitution (atideśa) that the pitṛ worship (i.e., the śrāddha) is done as in the case of the sacrifice to the ancestors by means of the piṇḍa (piṇḍapitṛyajña). 
-“Mānavī” means it is enjoined by the śāstra composed by Manu. Smṛtā means that it is instructed by other authors of Dharmaśāstra as well, beginning with Harīta and Gautama and so forth, having first recollected the meaning of the Vedas. 
-[Stated by the Purāṇas (purāṇokto) means that] it was taught in the Purāṇas, the Brāhmya and so forth, which possess as their defining feature the pañcalakṣaṇas, such as creation, recreation/destruction (pratisarga) and so forth. Vidhi means a particular type of practice. 
-Thus, the meaning is that, having extracted details from all the śāstras (sarvaśāstrāṇi upasamhṛtya), Rāma performed the śrāddha sacrifice.1567 
-Even just read in terms of its apparent literal meaning, this proof text from the Brahma 
-Purāṇa already substantiates a good deal of Hemādri’s agenda in the Śrāddhakalpa. It tells us 
-that no less a personage than Rāma of the Rāghavas performed a sacrifice, at the end of which 
-he fed Brāhmaṇas, and that he did it according to a set of rules (yathāvidhi) handed down from 
-the sages. Already, just in the first line, we have learned that Rāma does his sacrifices the same 
-1567Hemādri, Caturvargacintāmaṇi, Śrāddhakalpa, pg. 756: brahmapurāṇe— rāmeṇa bhojitā viprā munyuktena yathāvidhi / vaidikī ca kṛtā sarvā kriyā yā mānavī smṛtā // purāṇokto vidhiś caiva vaiśvadevikapūrvakaḥ / munyuktena munibhiḥ preritena / vaidikī vedavihitapiṇḍapitṛyajñasambandhī, piṇḍapitṛyajñavad upacāraḥ pitrya ity atideśena śrāddhe prāpitā / mānavī manupraṇītaśāstravihitā, “smṛtā” anyair api hārītagautamaprabhṛtibhir dharmaśāstrakārair vedārtham anusmṛtyopadiṣṭā, sargapratisargādi pañcalakṣaṇavanti brāhmyādīni purāṇāni, teṣu uktaḥ pratipāditaḥ / vidhiḥ anuṣṭhānaprakāraḥ / evaṃ sarvaśāstrāṇy upasaṃhṛtya rāmeṇa śrāddhaṃ kṛtam ity arthaḥ / 
-1716 
-way we do our sacrifices. The ritual in question is then labelled Vedic—in other words, 
-“orthodox”—and mānavī, which in Śrauta idiom was likely originally a term of art designating 
-a specific type of sacrifice. We then learn that Rāma followed a vidhi taught by the Purāṇas 
-and that this ritual procedure began with a vaiśvadevika sacrifice, which is one of the kinds of 
-śrāddha rites. Without any further exegesis, we have already been given a theistic charter myth 
-underwriting a key Smārta practice that complements the prior ritualist proof. 
-But, as you might by now anticipate, Hemādri is not content with leaving things here. 
-He is eager to show us that the real import of this passage is that it demonstrates beyond any 
-shadow of a doubt that when Rāma did his rituals, he followed the very same meta-exegetical 
-(paribhāṣā) rules that are taught in the Caturvargacintāmaṇi. Once again, he achieves his 
-objective through creative exegesis. Instead of taking vaidikī—literally possessing connection 
-to the Veda—as simply a variation on Vaidika adapted for the sake of gender agreement, 
-Hemādri understands it as a technical term of art that conveys that there is a ritual connection 
-(sambandha) between a specific Vedic sacrifice, called the piṇḍapitṛyajña and some other yet 
-to be specified subject. As you may remember from Medhātithi’s rantings, unlike with the 
-śrāddha sacrifices, where the role played by the ancestors in Mīmāṃsā terms is a topic of much 
-deliberation, the piṇḍapitṛyajña is the only sacrifice in the Veda where the ancestors are 
-formally designated in the text as the devatā that governs the ritual and to whom the sacrifice 
-is being offered. What Hemādri is suggesting is that Rāma looked at the rules for the 
-piṇḍapitṛyajña, and, applying the principles of substitution (atideśa), recognized that the 
-piṇḍapitṛyajña is in many ways just like (piṇḍapitṛyajñavat) a śrāddha sacrifice. Since the 
-Śrāddha sacrifice itself did not have all the ritual details he needed, he extracted them from 
-this vaidikī parallel context, made a samuccaya of the ritual details, and then applied them in 
-1717his prayoga, resulting in a ritual where at the end of it, of the Brāhmaṇas were fed in just the 
-right way. In an even less justified bit of overinterpretation, on the basis of the word “smṛtā,” 
-Hemādri qualifies that Rāma did not just rely on Manu, but also made use of other subsequent 
-Dharmaśāstra Smṛti authors, including (from our perspective) much later figures like Harīta. 
-In this way, Hemādri arrives at his preferred conclusion. What this passage really means “is 
-that, having extracted details from all the śāstras (sarvaśāstrāṇi upasamhṛtya), Rāma 
-performed the sacrifice.” Both as a general method and down to its particular contents, 
-Hemādri suggests, what I am teaching you is in fact really old. It is nothing less than the lost, 
-or at least neglected, approach to religion that the gods themselves observe when they come 
-down into the world. In becoming Smārtas in the Seuṇa land, not only do we live in a 
-rāmarājya, but, when we worship making use of the methods in the dharmanibandhas, we 
-obey Rāma’s rules. 
-Before the Age of Vedānta: Dharma without Devotion in Twelfth-Century Varanasi 
-In setting out to reconstruct the seminal contributions of Hemādri Sūri to the articulation of 
-much of what we have simply assumed to be the perennial features of a transhistorical and 
-transregional Brāhmaṇism, over the past several hundred pages, we have engaged in a number 
-of discrete but nonetheless interrelated interpretive activities. Part of the time our focus has 
-been essentially documentary, aimed at introducing into the scholarly conversation reasonable 
-representations of the contents, values, and modes of argumentation of a profoundly influential 
-thinker about whose corpus of works the modern academy knows almost nothing. These efforts 
-have in turn laid the foundation for reconstructing the transformative interventions of our 
-author. We have explored Hemādri’s impact as a social actor, vested with the authority of a 
-state-centric bureaucratic apparatus, inserting himself into preexisting lived landscapes but 
-1718 
-also as a theologian—having ingested a preexisting canon of knowledge, entering into ongoing 
-entextualized contestations about such matters as soteriology, ontology, and the nature of 
-religious experience. Setting aside for the moment that this bifurcation is in many ways a useful 
-but anachronistic heuristic, a common thread running through both modes of inquiry has been 
-that we have made evident historical change and documented innovation by juxtaposing the 
-textual sources and interlocutors with which our author is engaging directly with the contents 
-of the Caturvargacintāmaṇi itself. Through such microtextual analysis, we have been able to 
-repeatedly demonstrate specific instances where our author introduces new ideas and values 
-into preexisting conversations or incorporates new topical concerns, often transposed from 
-other disciplines, into the discourse of Dharmaśāstra. In the concluding section of this chapter, 
-in contrast, we will take as our focus a state of affairs that is somewhat less concrete, the 
-evidence for what one might call innovation at the level of ethos or episteme. 
-Succinctly, Hemādri perceives the core conceptual project of “Brāhmaṇical thought,” 
-something like a big-tent Hinduism, as inextricable from the dual shibboleths of Advaita 
-Vedānta and bhakti, the former being perceived as the hermeneutical skeleton key to tradition 
-and the latter as the hidden heart that animates all of human experience. In this regard, our 
-author is very much in alignment with the early modern, colonial era, and early nationalist 
-Indian traditions of apologetics that have profoundly informed our working presuppositions 
-about Hinduism as a World Religion. The task before us, quite simply, is to demonstrate that 
-this vision of the nature of the imagined religious mainstream is in every respect fundamentally 
-discontinuous with the actual values we find animating the religious milieu inhabited by the 
-immediate antecedents of Hemādri’s interpretive project.1568 Such a case study will in turn 
-1568As I have argued at some length elsewhere, technically speaking, there are two key formative antecedents to the revolution in Dharmaśāstra that produced the nibandha culture. Our earliest sources all emerge from a 
-1719 
-prepare us for the core arguments of the concluding chapter, where it will be demonstrated that 
-Hemādri’s Advaita philosophical leanings and devotional theology are best understood as 
-emerging not from Brāhmaṇical knowledge as such, but out of a sustained dialogical 
-engagement with the very Tantric knowledge systems he sets out to supplant, especially in 
-their vernacular instantiations. 
-In and around Varanasi and Kanauj in the century before Hemādri—which is to say, 
-in what would, with the arrival of the long fourteenth century, become one of the early modern 
-epicenters for Vedāntic disputation embedded in a sea of fervent affective Vaiṣṇava religion— 
-scholastic Vedānta was a marginal force viewed by the establishment of the day with aversion 
-if not derision. As for devotional theology, at best, it warranted the early medieval equivalent 
-of a footnote. In terms of the larger picture of attending to discontinuity in recounting the 
-emergence of a new form of Brāhmaṇical knowledge production and sociality, this is a 
-particularly productive line of inquiry. As we have seen in the past two chapters, under 
-Hemādri’s direction, the Seuṇa Yādava ecumene substantively defines itself in responding to 
-texts produced in twelfth-century north India, especially the dharmanibandha of Lakṣmīdhara. 
-Time and again, in reworking these materials, a large part of what Hemādri brings to the table 
-is an emphatically theistic vision, in which religion superintends over śāstric knowledge and 
-bends it to its service. Engaging briefly with the wider world of the Gāhaḍavālas, en route to 
-our concluding study of Hemādri’s own devotional Vedānta in the next chapter, is so critical 
-delimited region in eleventh-century Bengal, much of it confined to the area of Radha, that sees competing revivals in the study of Bhāṭṭa and Prābhākara Mīmāṃsā. In the former case, this intellectual renaissance is carried out by the very same scholars who are producing paddhatis. Originally, the present work contained a comprehensive case study of these sources, but during the revision process this material has been excised for reasons of prolixity. This Bengal-based Brāhmaṇical revival, in turn, over the course of the next century, directly influences textual production centered in Kanauj and Varanasi as well as in the kingdom of Aparārka, as we have seen in our own brief encounters with the Dānasāgara of King Ballālasena, the protégé of two of the key intellectuals of the period. In the present context, however, we will confine our explorations to the second major site of reception and innovation, twelfth century Varanasi. 
-1720 
-because the very absence of these key features makes palpably clear that Hemādri’s paradigm 
-for being Brāhmaṇa does not find its point of origin in an older set of north Indian values drawn 
-from the heartland of Āryavārta. Succinctly, looking out through the eyes of the late medieval, 
-that an Age of Vedānta1569 would soon unfold was practically inconceivable. With such 
-thoughts in mind, we are ready to direct our attention to intellectual and religious ecumene that 
-existed in and around the Gāhaḍavāla court. 
-Phuṅkaṭamiśra, ostensibly, was an adherent of the school of Advaita Vedānta, owning 
-and inhabiting a small village in the vicinity of twelfth-century Varanasi. If, as a scholar of 
-Sanskrit knowledge or Indian religions, you have not heard of him, that is hardly surprising, 
-as he emerges from the mind of a gifted satirist by the name of Śaṅkhadhara. Śaṅkhadhara 
-writes his “Confluence of Con-men,” or Laṭakamelaka, under the direction of King 
-Govindacandra, the twelfth-century Gāhaḍavāla ruler (r. 1114–1155) of a Vaiṣṇava persuasion 
-who finds himself in the somewhat precarious position of ruling over the quintessentially Śaiva 
-city of Benares.1570 This unmistakably is the very same patron to whom Lakṣmīdhara’s 
-Kṛtyakalpataru is in fact dedicated. Apart from amusing its audience—at which it succeeds 
-admirably—the “Confluence of Con-men” amounts to a taking stock of the social and doctrinal 
-diversity of the day. Much to the delight of the social historian, in contradistinction to the 
-aestheticized ideal types offered by much of kāvya, this type of prahasana demands a certain 
-degree of verisimilitude; the farce is only effective if the life-world of its targets, albeit 
-exaggerated, are basically recognizable. 
-1569The term Age of Vedānta is derived from the ongoing work, soon to be published, of a multiyear SSHRC funded collaborative research project that has set out to “trace transformations from the early generations of Vedānta thought through the early modern and modern periods to understand how Vedānta changed the shape of early modern intellectual dialogue and mediated competition between Hindu religious communities.” 1570M. Durgaprasada and Kasinath Pandurang, ed. The Latakamelaka of Sankhadhara (Bombay: Nirnaya Sagar Press, 1900). 
-1721 
-As a play commissioned by the king to be performed before his court and an audience 
-of learned pandits, the Laṭakamelaka has much to tell us about the values and sensibilities in 
-evidence among the dominant north Indian court of the twelfth century. As we will see 
-momentarily, this is the very same institutional space where, for the first time, in the realm of 
-Dharmaśāstra, Brāhmaṇical law is being reimagined as the domain within which in a scholastic 
-idiom a canon encompassing both praxis and doctrine that amounts to a nascent “Hindu” 
-religious identity is being codified. To put the matter bluntly, neither a scholastic Vedānta nor 
-bhakti religion are central to this vision. Taken in tandem, these two works suggest that at least 
-among the genuinely powerful and influential, in twelfth-century Varanasi, the age of Vedānta, 
-in so much as it represents a scholastic enterprise, had yet to dawn. Even more pointedly, far 
-from representing a civilizational pillar conferring immeasurable social capital, such as is 
-imagined by much of the modern public, Advaita Vedānta in particular was treated as joke or, 
-at best, an afterthought. 
-Even within the world of Laṭakamelaka, Phuṅkaṭamiśra and the values he instantiates 
-are treated as marginal. Unlike the Śākta Kaula leader of the legal sabhā that is the play’s 
-protagonist,1571 or its colorful supporting cast compromised of Kāpālikas, a quack doctor, a 
-Buddhist, several prostitutes and ascetics, and a Digambara Jain, the role of Phuṅkaṭamiśra is 
-a bit part. Except for the prostitutes, incidentally, all of these figures—including our 
-Vedāntin—are represented as deriving their authority and agency not from their doctrinal 
-alignments, or by belonging to transregional monastic networks, nor even by virtue of the 
-offices they hold, but simply on the basis of the fact that they themselves personally are 
-1571He is introduced with the following verse: The Latakamelaka of Sankhadhara, pg. 5: vāmāgamācāravidā variṣṭhaḥ parāpkāravyasanaikaniṣṭhaḥ / ayaṃ sa vedārthapratīpaḥ sabhāsaliḥ kaulakulapradīpaḥ // Notice that, as throughout our text, knowledge of “vedārtha” is associated with all sorts of disreputable interpretive communities. 
-1722 
-svādhīna, juridically independent agents answering to no one. As the Prakrit preface to the 
-play makes plain, this is to say, they are all svāmins in the literal legal sense of being masters, 
-independently wealthy property owners answering to neither king nor monastic heads with 
-villages in their names whose profits fund their religious and scholastic dilettantery.1572 
-Sociologically speaking, this is in many ways a very different environment than the 
-institutional worlds that gave substance to the age of Vedānta. And it is probably no accident, 
-given the perspective of the emerging Vaiṣṇava-tinged orthopraxy to whom the play is being 
-pitched, that while Naiyāyikas and Bhāṭṭa Mīmāṃsakas are altogether absent from this scene, 
-Vedāntins, specifically Advaitans, are consigned to the company of nāstikas and then lumped 
-together with the still thriving and independent world of the Śaiva Age ordered around Tantric 
-forms of knowledge and praxis. 
-Let us turn, briefly, to the play itself. Phuṅkaṭamiśra appears in a single scene where 
-he engages first in dialogue and then in pitched combat with a Prābhākara Mīmāṃsaka named 
-Mithyāśukla. The Prābhākarin—who is very pointedly depicted as not a Brāhmaṇa at all— 
-introduces us to his Vedāntin rival in the following manner: 
-Venerating the words of the teacher (guror giraḥ) for five days and the śāstras of Vedānta for three days, here approaches the honorable Phuṅkaṭamiśrapādāḥ, who reeks of the doctrine of specious reasoning (samāghrātavitarkavādāḥ).1573 
-1572To cite from the Sanskrit chāyā for this Prakrit passage (Śaṅkhadhara, Laṭakamelaka, pg. 4–5): eṣa sa mattakalakaṇṭhakalakalākulitadaśadiṅmukho vasantasamayasamārambho vartate / tat kiṃ na gṛhṇāti bandhīkṛtaṃ bhūtibhājanaṃ darihaḍāgrāmīṇas tapasvī ajñānarāśiḥ / anyac ca hagga-ulīgrāmīṇena jaṭāsuradigambareṇa necchitā picchikā / suṇḍivālagrāmīṇena sabhāsalinā mahopādhyāyenāpi bandhakaṃ kṛtvā ratnakaraṇḍikā tyaktā / hī hī hī / duṇḍhaulīgrāmīṇasya phuṅkaṭamiśrasya nirakṣaraṃ śāstrapustakaṃ pravāhe patitam / haḍivāḍigrāmīṇasya nirakṣarasutasya jantuketor mahāvaidyasyauṣadhakaraṇḍikā mūṣakaiḥ khaṇḍitā / ṭikkaḍa- uvālagrāmamukhamaṇḍanena kulavyādhinā baṭūkena bandhanaṃ kṛtvā na prārthitā dhotikā / niḥsaṃtānagrāmasarovararājahaṃsena saṃgrāmavisareṇa rā-uttarājena bandhakaṃ kṛtvā śunakasya pānīyaṃ dattam / hī hī hī / baga-ulīgrāmīṇasya jhagaḍagasārasya ṭhakkaśreṣṭhino lekhasampuṭikā pravāhapatitā / camarasenavihāravāsinā tena bandinā vyasanākareṇa nirdāritaṃ paṭṭaśāṭakam / tad etair durvidagdhair bhaṇḍitāsmi / 1573Śaṅkhadhara, Laṭakamelaka, pg. 21: guror giraḥ pañcadināny upāsya vedāntaśāstrāṇi dinatrayaṃ ca / amī samāghrātavitarkavādāḥ samāgatāḥ phuṅkaṭamiśrapādāḥ / 
-1723 
-The two scholars obsequiously then exchange pleasantries. Phuṅkaṭa asks the 
-Prābhākarin what he has been up to and is informed that his counterpart is in the process of 
-teaching the codanā sūtra of the Mīmāṃsāsūtras of Jaimini, codanā lakṣano ’rtho 
-dharmaḥ.1574 The definitive meaning of the term dharma is to be determined, he pontificates, 
-by applying the sādhanādhikaraṇa—let us call this the principle of expediency—which finds 
-reference in such injunctions as the one who desires heaven should offer oblations into eight 
-bowls. The joke here of course is that Mithyā has made a horrific jumble in his application of 
-Mīmāṃsā exegetical principles. Regardless of whether we are thinking of dharma in terms of 
-Bhāṭṭa notions of injunctivity or in alignment with the Prābhākarin concept that the ritual actor 
-is prompted to identify and make use in sequence of the most pertinent elements in the ritual, 
-this is simply not how anybody ever interprets the codanā sūtra. Living up to his name—which 
-in part literally means error, but more specifically, the miscognizing of mother of pearl as 
-silver, a standard example in Vedānta discourse—Mithyā has got it wrong. 
-A thoroughly credulous Phuṅkaṭa, however, mistakes this confusion for erudition and 
-he proceeds to praise what he sees as the great scholar—mahāmahopādhyāya—from the Radha 
-country (rāḍhīya) whose tremendous insights are deemed all the more remarkable because 
-though a teacher and Sanskrit scholar, Mithyā is not even a Brāhmaṇa.1575 With more than a 
-bit of edge to his apparent adulations, Phuṅkaṭa praises his colleague who does not know the 
-science of grammar, is wearied by reading kāvya, who takes a ritual bath to purify himself 
-when he hears the words of Kumārila, and treats being touched by the followers of the Bhaṭṭa 
-1574Śaṅkhadhara, Laṭakamelaka, pg. 22: “codanālakṣaṇo ’rtho dharmaḥ: ity atra sūtre dharmanirṇyaṃ vidhāya “aṣṭākakapālaṃ havir nivapet svargakāmaḥ” ityevamādibhir yuktibhiḥ sādhanādhikaraṇaṃ vyākhyāte ’smābhiḥ/ 1575Śaṅkhadhara, Laṭakamelaka, pg. 22: tathā hi / rāḍhīyā vacanaracanā / eṣa vyākaraṇaṃ na vetti na kṛtaḥ kāvyeṣv anena śramaḥ śrutvācāmati bhaṭṭavārtikagiraḥ snānti spṛśaṃs tadvidaḥ / caṇḍālān iva tarkaśāsanapaṭūn naiyāyikān manyate rāḍhīyair atiharṣagadgadagalaiḥ prābhākaraḥ śrūyate // 
-1724 
-as if he has encountered an untouchable, but in contrast becomes excited to excess—choked 
-up in throat—when he hears the words of Prabhākara.1576 
-The encounter then escalates, as Mithyā in turn calls out Phuṅkaṭa as a mere 
-“ekadaṇḍa-matin”—or single staff bearing follower of Śaṅkara, for calling himself “miśra”— 
-literally, mixed. Often this is simply a Brāhmaṇa honorific, but in this context, it refers to 
-someone who has mastery of multiple systems of thought. Phuṅkaṭa responds that he has 
-earned the title Miśra because he teaches two knowledge systems—namely, the 
-Karmamīmāṃsā of the Mīmāṃsakas and the Brahmamīmāṃsā of Vedānta. Let us see how this 
-unfolds: M: Now let me ask you something, the doctrine of having a single [notch] stick is 
-practiced by you, then why are you Miśra? 
-P: We comment on the Karmamīmāṃsā and the Brahmamīmāṃsā, thus we are Miśra, because [we have] knowledge of the two darśanas. 
-M: Ay ya ya, because they are mutually non-contradictory, there is only one darśana. Therefore, from whence comes this name Miśra? 
-Moreover, for you folks who advocate for Vedānta, is nonduality authoritative or not authoritative? If there is an authority, you have the undesirable consequence (āpatti) of duality [for there is a distinction between the object and means of knowledge]. If there is no authority, then how can you arrive at (upalabdhi) nondualism? 
-P: There is in fact an authority, but it is undivided! 
-M: That same thing [Advaita] is the authority, and it is also the thing to be known— This is the profundity of Vedāntic reasoning!!1577 
-1576In other words, the fictional Mithyāśukla is a Rāḍhīyan Prābhākarin. This is the very intellectual community his very real fellow Rāḍhīyan Dharmaśāstrin polymath Bhavadeva Bhaṭṭa wrote his guide to the Tantravārttika of Kumārila, the Tautikamatatilaka, with the express intent of denouncing. The same community is also featured in the Prabodhacandrodaya of Kṛṣṇamiśra, who, as we will see in passing, has his own ties to the Radha country. 1577Śaṅkhadhara, Laṭakamelaka, pg. 22–23: M: pṛcchāmi tāvat / ekadaṇḍamatam abhyastaṃ bhavadbhiḥ / tat kathaṃ miśratā bhavatām / P: vyākhyāyate ‘smābhiḥ karmamīmāṃsā brahmamīmāṃsā ca / ato darśanadvayajñānād vayam miśrāḥ / M: aye, parasparāvirodhād ekam eva darśanam / tat kuto miśrābhidhānam / kiṃ ca, vedāntavādināṃ bhavatām aprāmāṇikam advaitaṃ prāmāṇikaṃ vā / pramāṇam asti ced dvaitāpattiḥ / atha pramāṇaṃ nāsti cet katham advaitopalabdhiḥ / P: asty eva pramāṇaṃ kiṃ tv abhinnam / M: tad eva pramāṇaṃ tad eva prameyam iti gambhīrā vedāntacarcā // 
-1725 
-The two men than decide that they both had more than their fill of dry scholastic banter. 
-The subject turns to the seemingly more amiable topic of the better features of geriatric 
-prostitutes, but again, the two men cannot agree, and ultimately they come to blows, with poor 
-Phuṅkaṭa getting the worst of it. They exit and the play continues. 
-For our purposes, however, what is perhaps most significant about this slice of life 
-representation of Mīmāṃsā and Advaita Vedānta embedded in the wider social world of 
-twelfth-century north India is that whereas Mithyāśukla is to be laughed at because according 
-to the orthodox understanding of his system he is getting everything wrong, Phuṅkaṭa is 
-ridiculed precisely because he gets it right. In teaching the underlying unity—or at least 
-complementary nature of the Pūrva and Uttara Mīmāṃsā—which is to say that Vedānta is 
-essentially a branch of Mīmāṃsā—he stands in the center of the exegetical tradition alongside 
-both Rāmānuja, who argued for the complete unity of the two Mīmāṃsās and Śaṅkara, and 
-who argued for a Vedānta that was impossible without Mīmāṃsā.1578 Even Mithyāśukla’s final 
-remark—essentially that the means of knowing nonduality requires the acceptance of the 
-reality of nonduality—is eerily akin to the final position that at least some scholarship has 
-ascribed to Śrīharṣa’s Khaṇḍanakhaṇḍakhādya. In other words, the farce is targeting not the 
-stupidity of one particular scholar—but, for all its apparent “purposefulness” (prameyatva) and 
-1578On the problem of aikaśāstrya from a historical perspective, see the two essays by Asko Parpola as well as the response by Johannes Bronkhorst. Asko Parpola, “On the Formation of the Mīmāṃsā and the Problems Concerning Jaimini with Particular Reference to the Teacher Quotations and the Vedic Schools (Part I),” Wiener Zeitschrift für die Kunde Südasiens 25 (1981), 145–177; Asko Parpola, “On the Formation of the Mīmāṃsā and the Problems Concerning Jaimini with Particular Reference to the Teacher Quotations and the Vedic Schools (Part II),” In Wiener Zeitschrift für die Kunde Südasiens 38 (1994), 293–308; Johannes Bronkhorst, “Vedānta as Mīmāṃsā,” In Mīmāṃsā and Vedānta: Interaction and Continuity, ed. Johannes Bronkhorst (Delhi: Motilal Banarsidass, 2007), 1–91. For a philosophically rich engagement with the topic that continues the story from Rāmānuja onward, focusing especially on Śrīvaiṣṇava theologians, see for instance Elisa Freschi, “Aikaśāstrya: ‘Making a Single System,’” Age of Vedānta Conference, Stanford University, Stanford, CA, November 16–17, 2019. 
-1726 
-“profundity” (gambhīratva), the absurd incoherence of scholastic Advaita Vedānta itself as a 
-system. Before taking our leave of these colorful characters, it is worth attending to some 
-curious and unnoticed resonances, as well as significant points of dissonance, that the 
-Laṭakamelaka shares with a far more famous contemporary drama. Just before he encounters 
-Phuṅkaṭamiśra, as Mithyāśukla enters the stage he utters the passage from whence the play 
-derives its name: 
-Be not afraid, be not afraid, O Noble Woman. This is a [legal] council (maṇḍalī) compromised of a company of reprehensible people, who are only subject to their own authority (svadhīnaiva laṭakamelakamaṇḍalī). Thus, it is said: 
-This is Ajñānarāśi. This is Vyasanākara. Here is Kulavyādhi, full of superimpositions (upādhipūrṇa). This is Jaṭāśura. This is Jantuketu. In this world there are no others who are destroyers of faith (viśvāsaghātī).1579 
-To understand the significance of this passage, one needs to know just a tiny bit more 
-about our protagonists. Ajñānarāśi is a Kāpālika. Vyasanākara is a Buddhist. Jantaketu is a 
-quack Āyurvedic doctor. Jaṭāsura is a Digambara Jain. Though absent from this passage, the 
-head of the council, Sabhāsali is a Śākta Kaula, as is his disciple Kulavyādhi. Rounding out 
-the company of reprehensible people is our own Mithyāśukla, the non-Brāhmaṇa Prābhākara 
-Mīmāṃsaka and Phuṅkaṭamiśra, our token Advaita Vedāntin. Though it might not be 
-immediately apparent—but for one detail, this list of “the destroyers of the faith” is a close 
-match for the representation of the forces of darkness ruled by King Delusion as they appear 
-in Kṛṣṇamiśra’s allegorical drama, the Prabodhacandrodaya. Both texts even represent the 
-exact same place— namely, the area in and around Varanasi—not as the epicenter of a 
-1579Śaṅkhadhara, Laṭakamelaka, pg. 20: ārye, na bhetavyaṃ na bhetavyam / svādhīnaiva laṭakamelakamaṇḍalī / tathā hi / ajñānarāśir vyasanākaro ’yam ayaṃ kulavyādhir upādhiśūnyaḥ / jaṭāsuro ’yaṃ bhuvi jantuketur viśvāsaghātī na hi kaścid anyaḥ // 
-1727Brāhmaṇical ecumene, but as the heartland for ideologically “deviant” interpretive 
-communities, especially those who reject varṇāśramadharma normativity. In the kingdom of 
-Delusion in the early medieval period—which is to say, the Indo-Gangetic cultural center— 
-our playwright tells us, the culture of the Brāhmaṇas is now virtually absent. Instead, power 
-rests in the hands of the Kāpālikas, Kaulas, Digambara Jains, and other assorted nāstikas. 
-For Kṛṣṇamiśra, the last remaining hope for remedying this calamitous state of affairs 
-lies with the deposed King Viveka. Our playwright represents him as living in exile in Bengal, 
-at a place called the Cakratīrtha in the Radha country.1580 There, Viveka keeps company with 
-Mīmāṃsā, who, we are told, also scarcely ventures out of their shared haven. To make a long 
-story short, the forces of good only become capable of conquering King Delusion when King 
-1580 There is a longstanding scholarly consensus that places the composition of the Prabodhacandrodaya adjacent to the court of Chandella king Kīrtivarman, most likely sometime in the 1060s, either at his capital Khajuraho in Bundelkhand in northern Madhyapradesh, or, more speculatively, in Varanasi itself during the period when the Chandellas held influence in that region, before its incorporation into the Gāhaḍavāla kingdom. In contrast, in their efforts at attempting to contextualize the play, by and large, scholars have been less interested in trying to place the point of origin of the work’s author, Kṛṣṇamiśra himself. The theological and philosophical innovations of the Prabodhacandrodaya have as a result been typically treated as nascent expressions of an emergent northern India centric worldview, of a sort that would come to define the region in subsequent centuries. Apart from this nāṭaka itself, however, nothing in the documentary records or textual production in that region in the century that would follow lends support to such a hypothesis. Indeed, no other work that emerges from either the Chandellas or the Gāhaḍavālas who will succeed them as the dominant regional power bears the slightest relation to Kṛṣṇamiśra’s vision. 
-In contrast, as several Bengali scholars have observed without much wider notice, both the Prabodhacandrodaya itself and its commentarial tradition display a rather unexpected knowledge of and investment in the region of Radha in general, and in particular, the city Bhūriśreṣṭhaka, rival to Siddhala (the other major center for the Bengali dharma revival) in its aspirations at being the crown jewel of the region. In several short articles, it has been asserted that this is best accounted for by assuming that Kṛṣṇamiśra himself had personal or at familial ties with the region. While such regional chauvinism aiming to claim famous figures as a native son of the soil, often on the scantest of evidence, is an all too ubiquitous feature of nineteenth- and twentieth-century Indian scholarship, in this particular case, the assembled evidence is quite convincing. Ramakrishna Bhattacarya, in particular, directs his readers’ attention to numerous places in the play where at least two of Kṛṣṇamiśra’s characters, namely, King Viveka himself but also I-doership (Ahaṃkāra), speak evocatively and in a very informed manner about Radha and Bhūriśreṣṭhaka in a manner that does very little to advance the plot. Perhaps acting as a surrogate for our author, Ahaṃkāra, for example, tells us that within the kingdom of Gauḍa (gauḍarāṣṭraṃ) there is a peerless and incomparable (anuttamaṃ nirupamaṃ) place called (depending on the manuscript reading one chooses) either Rāḍhāpurī, or simply Rāḍhā. There, there is a supreme place (paramaṃ dhāma) called Bhūriśreṣṭhaka (bhūriśreṣṭhakanāma dhāma) wherein our ancestor is to be found (tatrottamo naḥ pitā). Ramakrishna Bhattacarya, “Was Kṛṣṇamiśra a Man of Rāḍha,” Journal of the Asiatic Society 38 (1986): 99–107. 
-1728 
-Viveka, with Mīmāṃsā acting as his commanding general, is convinced to undertake the 
-reconquest of Kāśī. In the end, victory only becomes possible when the king in exile, urged 
-on by Viṣṇubhakti (who has escaped being sacrificed by the Kāpālikas) is able at long last to 
-bring Upaniṣad into his alliance. In a long monologue near the end of the play, we learn from 
-her own words that Upaniṣad had become lost when she went to stay among the ritualists and 
-śāstrins who did not understand what she was saying. Indeed, she was only saved from 
-permanent exile by the radiant advocacy of none other than Kumārila Bhaṭṭa. It is only when 
-she enters into the company of the principles of Vedānta, soldiers in king Viveka’s army, that 
-she realizes that her real nature is in fact the mahāvākyas. When this happens, we are informed, 
-in the epilogue by Viṣṇubhakti, Upaniṣad became pregnant, giving birth to the moon of 
-awakening, an allegorical representation of ultimate liberation. 
-Setting allegorical matters aside, the play seems to be celebrating the emergence, within a 
-small outpost in the Radha country, of a newly theistic and devotionalized Vedānta, powered 
-by Mīmāṃsā exegetical methods, as well as documenting its entrance into the Indo-Gangetic 
-Plain. While many features of this worldview prefigure key elements of Hemādri’s interpretive 
-program, the elevation of Dharmaśāstra and the Dharmaśāstrin as the quintessential Brāhmaṇa 
-are not among them. Furthermore, on the basis of our surviving sources, we have no evidence 
-that in the eleventh and twelfth century this ethos had managed to evolve into an entexutalized 
-discourse with prescriptive dimensions embodied in its own śāstras. Indeed, when it comes 
-seeking out indications for this new investment in both Vedānta and bhakti on the Indo- 
-Gangetic Plain during the medieval period, apart from the Prabodhacandrodaya itself—a work 
-of literature and not formal philosophy and a likely import from the east—the trail runs cold. 
-1729 
-Indeed, returning to the Laṭakamelaka, where Śaṅkhadhara diverges radically, and 
-clearly quite deliberately, from his predecessor Kṛṣṇamiśra is that instead of identifying 
-Advaita Vedānta—especially when it is aligned with Pūrva Mīmāṃsā and other śāstras—as 
-the key to turning the tide of battle and pushing back nāstika nescience, for him poor old 
-Phuṅkaṭamiśrā—an Advaita Vedāntin plausibly placed in Śaṅkara’s own tradition— ends up 
-lumped in among the “bad guys”—the nāstikas. Succinctly, in the time of Govindacandra, 
-under whose direction a new paradigm for the unity of Brāhmaṇical knowledge is being 
-articulated, the Gāhaḍavāla court is not merely uninterested in Kṛṣṇamiśra’s articulation, which 
-takes scholastic Advaita Vedānta as the summum bonum of Vaidika knowledge with 
-Viṣṇubhakti as its most indispensable ingredient. Through mockery and searing polemic, it 
-actively rejects such values. 
-While our poet Śaṅkhadhara was himself but a bit player within the wider social world 
-of Gāhaḍavāla dominated north India, the same is not true for his contemporary, King 
-Govindacandra’s chief minister and master of war Lakṣmīdhara. Indeed, if we are to believe 
-T. P. Verma, who, quite apart from the execrable role he played in legitimating the push to 
-build a Rām Mandir at Ayodhya, is in general an excellent epigrapher, a collection of copper 
-plate grants demonstrate that Lakṣmīdhara inherits his position in Gāhaḍavāla politics from his 
-father Hṛdayadhara.1581 He in turns provides a hereditary inheritance of property and svāmin- 
-1581T. P. Verma and A. K. Singh’s two volume Inscriptions of the Gāhaḍavālas and Their Times demands to be read and taken seriously both as a strategic political intervention and a work of scholarship. The lavish edition, brought out by Aryan Books International with a degree of care and economic investment rarely seen in modern works of epigraphy, is a reflection of the fact that after the deaths of the initial two claimants in the Rāmjanmabhūmi legal case, retired BHU professor T. P. Verma assumed the role of the third “friend” acting on behalf of “Lord Rāma.” In this manner, Verma brought to court the claim that the god’s purported temple at Ayodhya, which for many centuries had been “occupied” by a mosque, should be restored. As evidence, Verma produced for the court a transcription of a Sanskrit inscription, the original of which he claimed was “lost,” that is claimed to have been recovered from on site. In a highly unusual and suspicious fashion, the text in question describes at some length the grandiosity of the supposed Rāma mandir that is said to have existed in situ during the Gāhaḍavāla era. The main intention behind the production of these volumes is thus ensuring the inclusion of 
-1730 
-hood purportedly in perpetuity to his descendants, with at the very least his great-grandson 
-Śrīravidhara following in his footsteps in serving one of the last of the Gāhaḍavāla kings in the 
-same capacity. In other words, we are talking about a discursive space in which the same 
-lineages of elite influential people held positions of power over several hundred years in the 
-heart of what was left of Āryavārta. 
-In spite of all these other responsibilities, as we have seen many times in our studies, 
-Lakṣmīdhara’s most lasting legacy is, without question, his encyclopedic work of 
-Dharmaśāstra, the Kṛtyakalpataru—the “Wish-Fulfilling Gem of What Has to be Done.” As 
-his work commences, Lakṣmīdhara informs us, in charming śleṣa, that his nibandha is like a 
-great tree, rooted in the Veda, which incorporates and subordinates as facets of itself a range 
-of other textual disciplinarities.1582 He then explicitly situates his own contributions within the 
-textual tradition of Dharmaśāstra, especially the works of his near contemporaries, alluding to 
-the lost Mahārṇava and Kāmadhenu, texts that, from their remaining citations, seemed to have 
-confined themselves to exploring canonical Dharmaśāstra topics.1583 Thus, it is his gargantuan 
-Kṛtyakalpataru—fourteen volumes in the printed edition—that effectively inaugurates the 
-genre of dharmanibandha, and there is every indication that our author is responsible for the 
-format of this new scholastic genre, which offers vast collections of citations drawn from a 
-this document in the textual and historical printed record and perhaps secondarily offering a detailed account of the last “Hindu” dynasty that can plausibly depicted as occupying Delhi and ruling north India. At the same time, as a work of epigraphical scholarship, the compilation and explication of all of the Gāhaḍavāla corpus, with the inclusion of a number of new texts, is a substantial contribution. On Lakṣmīdhara and his lineage in the epigraphical record, see pg. 218–223. T. P. Verma and A. K. Singh, ed., Inscriptions of the Gāhaḍavālas and Their Times (New Delhi: Aryan Books International, 2011). 1582Lakṣmīdhara, Kṛtyakalpataru, Brahmacārikāṇḍa, p. 3, vs. 10: tenāyaṃ vedamūlaḥ smṛtinicayamayaskandhavān yaḥ purāṇavyūhavyutpannaśākhaḥ prakaraṇanikaroddaṇḍakāṇḍapracaṇḍaḥ / unmīladvākyapatraḥ sphuradativiśadajñānaramyaḥ prasūnaḥ śrīmaddharmārthakāmāmṛtamayaphaladas tanyate kalpavṛkṣaḥ // 1583Lakṣmīdhara, Kṛtyakalpataru, Brahmacārikāṇḍa, p. 3 vs. 13: kā cintaiva mahārṇavānusaraṇe kā kāmadhenuspṛhā kṣudrāḥ kasya parisphuranti hṛdaye te ratnamālādayaḥ / śrīlakṣmīdharabuddhivaibhava- sudhāsekaprabhāvādayaṃ yenātraiva jagattrayopakṛtaye kalpadrumaḥ kalpate // 
-1731 
-wide variety of what will soon come to be called Hindu religious literature supplemented by 
-the occasional learned annotations. 
-This in and of itself is no mean feat. The dharmanibandha, and the various Smārta 
-paddhatis it would engender, would become one of dominant domains of textual production 
-throughout the early modern period with some of the highest textual circulation of any mode 
-of Sanskrit knowledge production. Furthermore, within a century, the genre even colonizes 
-other unrelated knowledge systems, for example, effectively reimagining the majority of early 
-modern Tantraśāstra in its image. Indeed, though it until relatively recently had been largely 
-been overlooked by intellectual historians—and here of course we can thank Rosalind 
-O’Hanlon and Christopher Minkowski for initiating a much needed corrective to our 
-understanding—the production and use of texts emerging out of this discourse was the primary 
-focus, we might even say the day job, for a plurality of the scholars that Sheldon Pollock has 
-labelled the new Sanskrit intellectuals.1584 Even if this had been the full extent of 
-Lakṣmīdhara’s contributions, he still would have left a substantial legacy. 
-As we have been exploring in the last two chapters, Lakṣmīdhara’s real importance, 
-however, is that seemingly out of nowhere, he begins the process of reimagining the very 
-1584For all the brilliance of the many productions of the Sanskrit Knowledge System Project, which singlehandedly has provided us with a still indispensable working framework for thinking critically about early modern śāstra as a site for innovation, most of the scholarship produced under its auspices was singularly unattuned to the multitude of sites where the textual production undertaken by “Sanskrit intellectuals” were intimately related to, and indeed largely motivated by, religious and theological projects. Indeed, in 2007, I remember attending a conference at Oxford during which none other than Christopher Minkowski and Rosalind O’Hanlon, speaking on the important Maharashtrian lineage of Deśastha Brāhmaṇas who come to be called the “Bhaṭṭas,” and compiling for the first time a comprehensive catalogue of their textual production, cavalierly labelled the majority of their writings as works of “law” while analogizing their contributions to wider discourse as the “secular” interventions of public intellectuals into an emergent public sphere. I remember looking at the list of titles, comprised of so many works on śānti, the identification of tithis, and “rudrapaddhatis,” and experiencing enormous cognitive dissonance. Ultimately, of course, it has been both Minkowski and O’Hanlon’s subsequent work that has provided us with some of our most important models for re-embedding the north Indian Sanskrit pandit in his particularized social and cultural environs in a manner that does justice to the intersectionality of concerns we now label social and legal within the discourses of Indic religion. 
-1732 
-nature of the field of Dharmaśāstra such that it becomes the primary domain for the 
-management and adjudication of modes of non-Vedic religious practice founded on Sanskrit 
-sources. In doing so, he marks the start of the process, which finds its fruition in Hemādri, of 
-reinventing the Brāhmaṇa pandit learned in the Dharmaśāstra such that he becomes the 
-overseer of the quotidian ritual lives of ordinary Hindus when they are engaged in such 
-practices as the observance of weekly or calendrically determined fasts and vows or are going 
-on pilgrimage. Quite pointedly, in contradistinction to everything that came before, all of these 
-functions do not require initiation into specific esoteric or sectarian systems and the 
-Brāhmaṇa’s authority is not confined to practices aligned with his specific personal 
-commitments. Both of these functions, on the surface, might seem banal. After all, in the 
-popular Indian imagination, this is what Brāhmaṇas are and what Brāhmaṇas have always 
-done—namely, held a monopoly within the religion industry. And yet, as the present work has 
-argued, to an extent that scholarship within both Religious Studies and Indology has yet to 
-notice, both of these developments represent a radical conceptual and epistemic rupture from 
-virtually everything that came before within the realm of śāstra. 
-In the previous section in this chapter, in exploring the topic of śrāddha, we have 
-examined at length the vast theological divide between the investments of earlier 
-Dharmaśāstrin commentators and the views of Lakṣmīdhara’s successor in the field of 
-nibandha, Hemādri Sūri. As we have seen, the classical commentator was comprised either, 
-like Medhātithi, of adamant advocates for Pūrva Mīmāṃsaka “naturalistic atheism” or, like 
-Vijñāneśvara, of those methodically committed to avoiding any and all truth claims about the 
-phenomenology of the rituals whose procedures they transmitted. Hemādri, in contrast, 
-advocates a new vision of the nibandha that is unabashedly theistic, not just as a surface 
-1733 
-commitment largely irrelevant to the workings of śāstra, but in a manner that fundamentally 
-shapes textual and interpretive practices. One of the effects of this sustained comparison was 
-to make evident the discontinuity between what are really disparate approaches to knowledge 
-construction until now disguised under the common rubric of “Dharmaśāstra.” In a similar 
-spirit, taking not the philosophical underpinnings of the system as our point of interest, but 
-rather attending to the substance and topics of the discourse, in what follows, our aim is to 
-show the completely contingent and unexpected nature of the emergence of dharmanibandha 
-as a discourse. To put the matter bluntly, in the absence of Lakṣmīdhara‘s contributions, there 
-is no evidence whatsoever indicating that Dharmaśāstra would have become the medium for a 
-new kind of scholarly investment in the overseeing of the quotidian ritual lives of ordinary 
-Hindus. To take up but a single example, prior to the Kṛtyakalpataru, which teaches a whopping 
-two-hundred and forty-four distinct “vratas”1585 and upon whose textual resources the two 
-volume Vratakhaṇḍa of the Caturvargacintāmaṇi is substantively dependent for its raw 
-materials, as we had mentioned briefly before, the term “vrata” within the field of 
-Dharmaśāstra had been applied exclusively to a delimited canon of expiatory observances. The 
-performance of these vratas were not volitional acts designed to improve the prospects of a 
-person or community, but instead were solely devoted to the removal of sin and the restoration 
-of one’s social status prior to committing the offense that engendered their performance. The 
-Devalasmṛti, for example, one of the later of the early medieval Upadharmaśāstras and a 
-1585Radha Madhav Bharadwaj’s study of vratas in both the north Indian textual and epigraphical record has proved an indispensable resource in making concrete these discursive patterns and identifying and enumerating the vratas found in textual sources up through the Kṛtyakalpataru. Bharadwaj’s work makes it quite evident to the reader that prior to the eleventh century, there is negligible evidence in our documentary records from north India for the widespread observance of many major holidays in association with the observances we know from the dharmanibandha literature. See especially her many useful charts. Radha Madhav Bharadwaj, Vratas and Utsavas in North and Central India (Delhi: Eastern Book Linkers, 2015). 
-1734 
-favorite of Hemādri, knows of eighteen such procedures it calls vrata, and offers us directions 
-for sixteen of them. Of these, only three of them, the śiśucāndrāyaṇa, the mahācāndrāyaṇa 
-and the atikṛccha (the procedure for this later observance is not given at all), which are framed 
-in relationship to an instruction given to Rāma, contain any rhetoric that one might identify as 
-Purāṇic. Even these teach a form of prāyaścitta that inflicts discomfort on the body through 
-sustained fasts and yields no bonus results. 
-That being said, as Kane has briefly noted in his critical edition of the relevant 
-passages1586, we do in fact possess a single relatively early surviving śāstric work that concerns 
-itself in part with a non-religious identity specific assemblage of vratas that one could 
-reasonably label Purāṇic. The text in question is the unpublished eleventh-century 
-Rājamārtaṇḍa of Bhoja Paramāra, composed in other words a bit less than a century before 
-Lakṣmīdhara lived. Though Bhoja’s text teaches thirty-eight vrata observances, none of these 
-have any overlap with the “vratas” of the prior dharma literature. The reason this is the case 
-is that, though the same word—vrata—is being used, the nature of the practices is rather 
-different. Ordered calendrically, thirty of the vratas derive their name from the calendrical and 
-astrological conditions that govern their observance. The remaining eight, such as the 
-indradhvajotthānotsava, when the poll is raised honoring Indra, or, durgotsava, when wine, 
-meat, and blood are offered to the goddess, as their titles make plain, are labelled according to 
-their intended objects of worship. As you may have noticed, all of these rituals, in broad terms, 
-are recognizably Purāṇic, or, if you will, suggestively “Hindu.” 
-1586V. Kane, “Passages from the Rājamārtaṇḍa on ‘Tithis,’ ‘Vratas,’ and ‘Utsavas,’” Annals of the Bhandarkar Oriental Research Institute 36, no 3/4 (1956): 306–339. 
-1735 
-In Kane’s history of Dharmaśāstra,1587 as well as in the two brief but much more 
-informative articles he composed on the Rājamārtaṇḍa,1588 he suggests that Bhoja’s text offers 
-something like a tantalizing glimpse at a lost chapter in the pre-history of the dharmanibandha. 
-Consulting the fifteenth-century manuscript of the work preserved at the Bhandarkar Oriental 
-Research Institute, however, whose final folio you can see above, has convinced me that 
-contrary to Kane, though in several places the text engages with classical Dharmaśāstra topics 
-such the sixteen saṃskāras— Bhoja does not see his work as a Dharmaśāstra at all. Instead, 
-the author seems to explicitly envision the Rājamārtaṇḍa as a continuation of the intellectual 
-projects of Varāhamihira. 
-Colophon of the Rājamārtaṇḍa of Bhoja Paramāra as preserved in the oldest surviving manuscript. 
-Indeed, Bhoja envisions that the management of religious lives, albeit in a much less 
-micromanaged scope, should properly be the focus of preferably Atharvan jyotiṣas rooted in 
-royal courts and not just of any old learned Brāhmaṇa pandit engaged with the quaint world of 
-1587P. V. Kane P. V. Kane, History of Dharmaśāstra, vol 1. (Pune: Bhandarkar Oriental Research Institute, 1930– 1962) p. 278-79. 1588See P. V. Kane, “King Bhoja and his Works on Dharmasastra and Astrology,” Journal of Oriental Research, Madras 23 (1953-54): 94–127; P. V. Kane, “Passages from the Rājamārtaṇḍa on ‘Tithis,’ ‘Vratas,’ and ‘Utsavas,’” Annals of the Bhandarkar Oriental Research Institute 36, no 3/4 (1956): 306–339. Kane consulted three manuscripts of this work; an image from the oldest of these, preserved at Bhandarkar, is reproduced below. 
-1736 
-Dharmaśāstra. Darśana of any sort, so far as can be determined, plays zero role in such a 
-system. Thus, the most accurate story we can tell, with resources available to us, of 
-Lakṣmīdhara’s relationship to his predecessors is not the expected account of gradual subtle 
-incremental adjustments designed to disguise innovation carried out over a longue durée. 
-Instead, we see indications of an epistemic and methodological rupture with what had come 
-before that selectively takes older raw materials and makes them do new things. Overall, 
-despite the enormous amount of raw materials and structural elements that Hemādri has mined 
-out of from Lakṣmīdhara’s Kṛtyakalpataru, as we have seen now in our exploration of 
-numerous different domains, something very similar holds true when we compare Hemādri’s 
-own interpretive project, within the Caturvargacintāmaṇi and beyond, with his own 
-predecessor. Right from the Kṛtyakalpataru’s inception, Lakṣmīdhara’s textual practices 
-diverge sharply from what we have seen in Hemādri. Whereas the Caturvargacintāmaṇi piles 
-up textual proofs like so many Vedic bricks in the aim conveying or constructing the 
-commonalities across text disciplines, in contrast, in offering us a single verse on his 
-methodology, Lakṣmīdhara tells us that, where possible, he will take as authoritative just a 
-single citation, embodying the view he has adopted, in addressing each topic.1589 In other 
-words, where Hemādri seeks to harmonize as much as possible nearly all of existing “religious” 
-knowledge so that it seems to be saying the same basic things, Lakṣmīdhara assumes the 
-multivocality of existing discourses and presents us with those elements that align with his 
-1589Lakṣmīdhara, Kṛtyakalpataru, Brahmacārikāṇḍa, pg. 3–4: ekārtheṣv ekaṃ ekaṃ kvacid aparam api svīkṛtaṃ kāryayogāt nyastaṃ vijñānamūlaṃ pracarad api parityaktam ajñānamūlam / śiṣṭaiḥ samyaggṛhītaṃ vacanam abhihitaṃ spaṣṭitam cāsphuṭārtham yatrāpāro virodhaḥ sphurati viracitā tena tatra vyavasthā // lakṣmīdhareṇa munimukhyavacaḥsamudraṃ nyāyādriṇā kila viloḍya samuddhṛto ’yam / kāṇḍaiś caturdaśabhir adbhutaparvabandhaiḥ vāñchocitaṃ phalati kalpatarur na kasya // 
-1737own commitments, values, and ideals. The difference, then, is not only one of method, but 
-critically of underlying theology and worldview. What is at stake are very different visions of 
-what it means to be a Brāhmaṇa. 
-In composing the Kṛtyakalpataru, Lakṣmīdhara instigated a radical expansion of the 
-canon of what constitutes the field of knowledge and praxis contained within and related to the 
-Dharmaśāstra. For the first time, there is a deliberate scholastic marriage of Smṛti to Purāṇic 
-ideas and practices, with the latter no longer serving as mere clarifying or complementary 
-citations but acting as actionable knowledge in their own right. Even so, in violation of the 
-expectations of the modern or even early modern reader, Lakṣmīdhara’s project conspicuously 
-excludes from its purview—and thus from its vision of what Brāhmaṇical thought should be 
-about—theistic Vedānta. In this regard, he is quite unlike his Deccani successor, for whom 
-Vedānta is not a mere knowledge system but the underlying telos of Brāhmaṇical thought. For 
-Hemādri, Vedāntic reading strategies prove essential to making sense of how śāstra might 
-relate to the world of lived experience. As for “devotion,” it is nothing less than the very 
-essence of experience itself. 
-As we just explored in the “Confluence of Con-men,” a play performed at the 
-Gāhaḍavāla Court, quite plausibly while Lakṣmīdhara, the king’s own minister of war, was in 
-attendance, we need to keep in mind that Lakṣmīdhara’s intellectual decision is founded not 
-upon our author’s ignorance of preexisting discourses on scholastic Vedānta and devotional 
-religion. Rather, the motivation is that he holds these two domains in relatively low regard. 
-While for Hemādri, a century later, reflections on an Advaita Vedānta that makes liberal use 
-of Pūrva Mīmāṃsā strategies are in fact virtually inextricable from a theology of bhakti 
-substantively rooted in the Purāṇas, the same is hardly true in the Kṛtyakalpataru. Insomuch 
-1738 
-as Vedānta is to be understood as an exegetical project rooted in Pūrva Mīmāṃsā reading 
-strategies, Lakṣmīdhara is largely disinvested from Vedānta. Neither its textual practices nor 
-topical obsessions inform either the structure or method of the vast majority of the 
-Kṛtyakalpataru. Indeed, Lakṣmīdhara’s interest in Vedānta as a discipline is strictly confined 
-to the very last chapter of his text, the Mokṣakāṇḍa, which advocates an austere sort of yogic 
-Vedānta. This is to say, he perceives Vedānta as one among many domain specific modes of 
-knowledge, mostly associated with preparing for death. When it comes to bhakti, so far, as 
-much as theistic devotion is perceived as demanding its own involved learned discourse that 
-shapes textual practice, in spite of his elevation of Purāṇas as source materials, our author’s 
-utter lack of interest is rendered transparent by the simple fact that the vast Kṛtyakalpataru 
-contains no commentarial reflection whatsoever on the significance of bhakti. In light of how 
-integral both topics will become to later Brāhmaṇical thought in general and the writings of 
-Hemādri in particular, it is thus fitting that we conclude this chapter with close readings of the 
-comparatively minor terrain that Lakṣmīdhara assigns to Vedānta and the utter marginality 
-allotted to bhakti theology. 
-As we turn to the place of “scholastic” Vedānta in the oldest surviving nibandha, it is 
-vital that we take a moment to recognize that over the course of the Kṛtyakalpataru, especially 
-in the division on jurisprudence, Lakṣmīdhara makes extensive use of Pūrva Mīmāṃsā derived 
-reading strategies. As we will see momentarily, in the division on mokṣa with which the 
-Kṛtyakalpataru ends, he also quotes selectively from the Brahmasūtras of Bādarāyaṇa and 
-seems quite familiar, at the very least, with the Gītabhāṣyas of Śaṅkara and Rāmānuja, whose 
-glosses he sometimes appropriates or adapts. It is even quite likely, though this would take 
-some demonstrating, that he is aware of Śaṅkara’s Brahmasūtrabhāṣya and Sureśvara’s 
-1739 
-Naiṣkarmyasiddhi, for in numerous places in passing he seems intent on treating stances found 
-in these texts as his implied pūrvapakṣas. On the basis of this evidence, then, we can brush 
-aside the hypothesis that Lakṣmīdhara’s Vedānta is almost entirely devoid of Mīmāṃsā 
-because the possibility of such a confluence was unknown to our author. 
-In light of his intimacy with Advaita Vedāntic discourse, it is all the more significant 
-that Lakṣmīdhara goes out of his way to undermine the textual foundations within the Smṛti 
-that specifically legitimize the sannyāsins of Śaṅkara’s tradition. While in no way challenging 
-scholastic Advaita Vedānta’s nondualism (here he of course is quite unlike Rāmānuja), 
-Lakṣmīdhara bats aside its other core doctrinal claims, such as, for example, the notion that the 
-Vedāntin renunciate can or should abandon worldly actions. In place of a familiar 
-scholasticism, our Dharmaśāstrin pointedly constructs, or deploys, a peculiar and largely non- 
-devotionalized Vedānta founded upon the Upaniṣads, the Bhagavad Gītā, the writings of 
-Yājñavalkya, and, to some degree, the Purāṇas. Quite pointedly, this is a discourse in which 
-Pūrva Mīmaṃsā reading strategies play no part at all. Instead, they are supplanted by a 
-Sāṃkhya-inflected yoga that has its culmination in the implementation of what the normative 
-Advaita scholastic tradition would come to call the śravaṇavidhi. 
-Let us tackle each of these stances concisely and in order, beginning with what 
-Lakṣmīdhara does to the Śaṅkaran ascetic. For Lakṣmīdhara, as for many early 
-Dharmaśāstrins, renunciation serves no direct causal role in the production of liberative 
-knowledge—its only benefit is as a purgative that creates physical suffering, a necessary 
-byproduct of the performance of austerities that burn off residual karmas. Nonetheless, quite 
-unlike Śaṅkara, our author allows for the legitimacy of both the forest dwelling sage and 
-sannyāsin, provided, that is, that they continue to observe all of their ritual duties. In his 
-1740 
-Sannyāsividhi, chapter 6 of the text,1590 our author provides what is essentially a paddhati for 
-renunciation ritual. In doing so, he closely and faithfully follows the Baudhāyanadharmasūtra 
-and its commentarial tradition—with one very notable exception. Towards the end of the 
-procedure, when the new sannyāsin has just offered up his last vyāhṛtis, the root text offers an 
-optionality—newly minted sannyāsins can either be ekadaṇḍins—bearers of a single staff 
-(typically the followers of Śaṅkara), or they can be tridaṇḍins, bearers of a staff with three 
-notches. As the seventeenth-century Dharmaśāstrin Mitramiśra points out, while it is true that 
-there are some other Dharmaśāstra root texts that mention only the tridaṇḍin, virtually every 
-known scholastic authority who engages with this passage accepts the legitimacy of 
-Baudhāyana’s reading and with it of the ekadaṇḍin. In fact, authorities commenting on root 
-texts that do not mention this kind of sannyāsin routinely and unproblematically supplete in 
-the ekadaṇḍin as a valid option. In spite of all this, rather uncharacteristically, as he is usually 
-a pretty mellow commentator, Lakṣmīdhara goes somewhat ballistic, insisting that this must 
-be a bad or interpolated reading, and that there is no optionality, for Smṛti supports only the 
-ascetic with three notches on his staff.1591 
-So much for the Śaṅkaran Advaitan as a social agent. To see how Advaita Vedānta 
-doctrine fares at Lakṣmīdhara’s hands, we will have to familiarize ourselves with how he 
-organizes his system. For Lakṣmīdhara, Vedānta is not a theory of reading but first and 
-foremost an applied soteriology, one that incidentally can be utilized in some special cases by 
-non-renunciate householders provided they live out the end of their lives with the austerity of 
-1590Lakṣmīdhara, Kṛtyakalpataru, Mokṣakāṇḍa, pg. 33–49. 1591Lakṣmīdhara, Kṛtyakalpataru Mokṣakāṇḍa, pg. 38: ekadaṇḍī tridaṇḍī veti kecit paṭhanti / so ’papāṭhaḥ adhastāt daṇḍatrayopakalpanasyoktatvāt / 
-1741 
-a yogin. For this reason, his first task is to define mokṣa, and he does so in the following 
-manner: 
-In the Mārkaṇḍeya Purāṇa, [it is said]: 
-That separation (viyoga) from ignorance (ajñāna) on the part of the yogin that is preceded by knowledge (jñānapūrva), that is liberation—and, it is union with brahman and disunion with the qualities of prakṛti. 
-L: Here, gnosis (jñāna) consists of the final direct apperception of brahman (caramaṃ brahmasākṣātkārarūpaṃ). The separation from ignorance means the cessation of avidyā. 
-[Now] by the term yogin, [we mean that] the yogin is someone who possess the union [of the sort] that is inculcated by the Viṣṇu Purāṇa and so forth in citations such as: 
-VP: “Yoga is defined as that union of the course of mind (manogati), which is particularized (viśiṣṭā), depending upon self-effort, into brahman.” 
-L: In the passage that says it is liberation and it is unity with brahman, that which is the separation on the part of the yogin from ajñāna—in other words, from ignorance (avidyā)—when that takes place, that manifestation of the soul as having the essence of brahman, which is the instantiation of bliss to a supernal degree—that alone is meaning of the word liberation. And that disjunction from the qualities of prakṛti that has no point of termination (atyantikā), that is [liberation] itself, which does not have another meaning. 
-Thus, it is stated in Brahma Purāṇa: “Liberation is the breaking of the bondage of ignorance and the absorption into brahman.” 
-L: The qualities of prakṛti are well expressed in the Bhagavad Gītā.1592 
-As we are beginning to see, Lakṣmīdhara’s Vedānta on the surface looks like it is 
-simply a theme and variation on a lightly theistic Sāṃkhya, where puruṣa becomes brahman 
-and prakṛti gets a bit of an epistemological makeover. It should come as no surprise that the 
-1592Lakṣmīdhara, Kṛtyakalpataru, Mokṣakāṇḍa, pg. 5–6: tatra mārkaṇḍeyapurāṇe— jñānapūrvo viyogo yo ’jñānena saha yoginaḥ / sā muktir brahmaṇā caikyam anaikyaṃ prākṛtair guṇaiḥ // jñānam atra caramaṃ brahmasākṣātkārarūpam / ajñānena saha vijyogaḥ avidyānivṛttiḥ / yogī— ātmaprayatnasāpekṣā viśiṣṭā yā manogatiḥ / tasyā brahmaṇi saṃyogo yoga ity abhidhīyate // ityādi viṣṇupurāṇādi // pratipāditayogavān / sā muktir brahmaṇā caikyam iti yo ’yam ajñānenā’vidyayā saha yogino vijyogas tasmin sati yā jīvasya brahmasvarūpeṇa vibhūtir atiśayānandādyabhivyaktir iti yāvat, sa muktiśabdārthaḥ / prākṛtaiś ca guṇair yad anaikyam ātyantiko vijyogaḥ so ’pi saiva nārthāntaram ity arthaḥ / tad uktaṃ brahmapurāṇe— ajñānabandhabhedas tu mokṣo brahmalayas tv iti / prākṛtā guṇāḥ bhagavadgītāsūktāḥ // 
-1742 
-fundamental resource to which our author will return to again and again in structuring his 
-discourse is the Bhagavad Gītā. In particular, it is the delineation in chapter two of the 
-sthitaprajña or man established in insight, and in chapter five of the one who is yogayukta, or 
-yoked to yoga, that provides him with the paradigm for the ideal comportment of the Vedāntin. 
-As you might also expect, our author’s use of the Gītā, and of the Viṣṇu Purāṇa for that matter, 
-deliberately neglects to incorporate the more pointedly devotional aspects of these works that 
-equate the path to liberation with an exclusive devotion to Viṣṇu. And if that were all there 
-was to his interpretation, we might do well treat his theology, despite the name he assigns to 
-it, as merely being at best Vedānta curious. However, if you read down a few more lines, this 
-picture become much more complicated and interesting: 
-Viṣṇu Purāṇa: “The one who has obtained the meditation (bhāvanā) upon that state (tadbhāvabhāvanā). . . .” 
-L: By “tadbhāvabhāvanā,” what is meant is the self-reflexive thinking (cintanam), “I am brahman. . . .” 
-Chāndogya Upaniṣad: param jyotir upasampadya svena rūpeṇā’bhiniṣpadyata iti. 
-L: This is the meaning here [in this passage]: When the knowledge that is the direct apperception of brahman (brahmasākṣātkārajñāna) arises, from the dissolution of ajñāna, which is but another name for avidyā, and, when there is the sunset of the cognitive streams (pratyaya) of difference that are caused by that, then, having “upasamapadya” —meaning, having become (bhūtvā) the supreme light that has as its essence brahman, then by its own form (svena rūpeṇa)—meaning, by the form of cidānanda, which is innate of its own nature, it is “produced” (abhiniṣpadyate)—this means it is manifested. [Thus, the] Vedāntasūtra [says] [4.1.1]: 
-“[On the Soul's] having attained [the highest light], there is manifestation [of its real nature, as we infer] from the word “own.”1593 
-1593Lakṣmīdhara, Kṛtyakalpataru, Mokṣakāṇḍa, pg. 6–7: viṣṇupurāṇe— tadbhāvabhāvanāpannas tato ’sau paramātmanaḥ / bhavaty abhedī bhedaś ca tasyā’jñānakṛto bhavet / vibhedajanake jñāne nāśam ātyantikaṃ gate / ātmano brahmaṇo bhedam asantaṃ kaḥ kariṣyate / tadbhāvabhāvanā brahmā’ham asmītity ātmacintanam. . . . śrūyate ca chāndogyopaniṣadi— paraṃ jyotir upsampadya svena rūpeṇābhinṣpadyata iti / ayam atrārthaḥ brahmasākṣātkārajñāna utpanne ajñānasyā’vidyāparanāmadheyasya vilayāt tatkṛtabhedapratyayāstamaye sati paraṃ jyotir brahmasvarūpam upasampadya bhūtvā, svena rūpeṇa svābhāvikena cidānandādirūpeṇa abhiniṣpadyate abhivyakto bhavatīti / tathā ca vedāntasūtram— sampadyāvirbhāvaḥ svenaśabdād iti / 
-1743 
-Suddenly, despite his being allergic to applying Mīmāṃsā reading strategies to the 
-Upaniṣads, the distance between Lakṣmīdhara and the later Vedāntic, especially Advaita 
-Vedāntic, traditions does not seem so great. For instance, our author’s interpretation of 
-“bhāvanā,” which he will continue to develop throughout the text, as perpetually holding in 
-one’s mind the cognitive meaning of key statements such as “I am brahman,” aligns him 
-closely with the one of core teachings of the popular prakaraṇa text, the Aparokṣānubhūti. It 
-is also a very close match for how bhāvanā is practiced within the living tradition of the 
-Śaṅkarācāryas of Sringeri. Reading down a bit further, we also begin to see that even though 
-his work is not a commentary on Bādarāyaṇa, Lakṣmīdhara knows the text well and is keen to 
-make explicit its roots in specific Upaniṣadic passages.1594 In other words, the only thing 
-missing from this Vedānta is the application of Mīmāṃsaka principles as the skeleton key to 
-the Upaniṣads as well as the elevation of being a Vedāntin as an elite form of a cultural capital. 
-Just to give you another taste of our author’s discourse, one place where our author 
-diverges quite radically doctrinally as opposed to methodologically from Śaṅkara’s tradition 
-is in his acceptance of a particularly emphatic version of a jñānakarmasamuccaya doctrine that 
-privileges a combination of gnosis and works. In fact, the manner in which he presents this 
-principal casts shade none too subtly upon both Śaṅkara and his disciple Sureśvara: 
-L: According to the statement of the Yogayājñavalkya: 
-“From the conjunction of jñāna and karma, he obtains the supreme person. It may be obtained through a state of separation. Thus, one may take recourse in both of them.” 
-L: Thus, it is refuted that because liberation comes from knowledge alone (jñānād eva), all Śrauta and Smārta rituals are not be done for they are the cause of bondage. By the 
-1594Though this is not the place to delve into such matters, there is actually a solid case to be made that the Mokṣakāṇḍa as whole is organized as a response to the final adhikaraṇa of the Brahmasūtras themselves and that steps are taken along the way at various places in the text to push back at Śaṅkara’s terse treatment of this part of the text, especially his disavowal of the role that the accumulation of various yogic powers might play within a Vedāntic sādhanā. 
-1744 
-statement that there is not a naiṣkarmya state by means of the non-commencing of action, [the intended meaning is that] the naiṣkarmya state is devoid of merit and demerit. In other words, it is mokṣa.1595 
-Before we take leave of our Dharmaśāstrin in his mode as Vedāntin, its worth taking a 
-moment to reflect on Lakṣmīdhara’s unnerving—even bizarre—contextualization of two of 
-the most famous elements passages from the Bṛhadāraṇyaka and Chāndogya Upaniṣads, 
-selections that in the realm of traditional Vedāntic exegesis come be called, respectively, the 
-śravaṇavidhi, and the daharavidyā. To do so, however, we have to look at the structure of his 
-text for this makes plain his core priorities. 
-Chapters of Kṛtyakalpataru, Mokṣakāṇḍa: 
-I. Mokṣaprastāvanā 15. Jñānakarmopayoga 2. Mokṣasvarūpam 16. Ātmajñānahetavaḥ 3. Vānaprasthyam 17. Sapallavayogaḥ 4. Vānaprasthadharmāḥ 18. Yuktalakṣaṇam 5. Yatyāśramaḥ 19. Dhyeyasvarūpam 6. Sannyāsavidhiḥ 20. Yogapravṛttcihnāni 7. Yatidharmaḥ 21. Yogavibhūtayaḥ 8. Vairāgyam 22. Sthitaprajñacaritam 9. Kāmādivarjanam 23. Yogabhraṣṭagatiḥ 10. Indriyajayaḥ 24. Ariṣṭāni 11. Tattvasṛṣṭiḥ 25. Utkrāntiḥ 12. Śarīracintā 13. Dehaśarīravivekaḥ 14. Jīvabrahmātmyabhāvaḥ 
-Even just from reading the titles of the chapters of his text, it is self-evident that 
-Lakṣmīdhara’s vision of soteriology, though inclusive of deities and hardly ignorant of 
-Vedānta, hinges upon neither the establishing of a personal relationship with a personified 
-supreme reality in the manner of a bhakta nor the cultivating of philosophical erudition and 
-1595Lakṣmīdhara, Kṛtyakalpataru, Mokṣakāṇḍa, pg. 149: jñānakarmasamāyogāt param āpnoti pūruṣam / pṛthagbhāvena siddhyeta ubhe tasmāt samāśrayed iti / yogayājñavalkyavacanāt / jñānād eva kevalān muktir iti sarvaṃ śrautaṃ smārtaṃ karma na kartavyaṃ bandhahetutvād iti nirākṛtam. . . . ityādinā naiṣkarmyaṃ, puṇyāpuṇyarahitatvaṃ, mokṣam ity arthaḥ / 
-1745 
-proper reading strategies as would a Vedāntin. What it offers in their place is a yoga-centric 
-vision of salvation strangely akin to what is found in many Tantric works. Indeed, eight of the 
-last nine chapters of the kāṇḍa are explicitly concerned with yogic praxis, for they imagine 
-Vedāntic knowledge as inseparable from the application of various yoga sādhanās, all of which 
-find their culmination in utkrānti, the practice of yogic suicide. Lakṣmīdhara is the polar 
-opposite of an adherent to the ideal of liberation in life. In fact, what he advocates is that when 
-ascetics finally master their minds, this is the sign that it is time to cast off their bodies. For the 
-austere householder, these very same practices are to be applied at the time of death. Enabling 
-a conscious form of dying, they are what makes possible videhamukti. It is in this context that 
-our author introduces what we call the śravaṇavidhi—though for reasons that will soon become 
-clear, here maybe we should relabel it the darśanavidhi. For Lakṣmīdhara, the darśanavidhi 
-appears to outline a sequence of practice that finds its fulfillment in conscious dying. 
-His authority for this practice is a passage in the prāyaścitta division of the 
-Yājñavalkyasmṛti, which, though addressing the dharma of the renouncer is primarily 
-concerned with questions of embryology and human development and their relationship to 
-dharma and worldly action. The last twenty verses of the text treat the correlation between the 
-actions taken in life and the trajectory of the soul at the moment of death. The open question 
-is whether at the time of death the soul will travel along the path of the ancestors, becoming 
-part of the water cycle and then returning into the world of the human in the form of seminal 
-fluid. Conversely, the other possibility is that, entering in sequence the flame, the day, the 
-bright fortnight, and northern course of the sun, the jīva will journey to the world of the gods. 
-There, taking recourse to the sun by riding on its rays, it will enter the world of brahman and 
-never return. In both cases, of course, we are looking at old Indo-European cosmogonic models 
-1746 
-that have been absorbed into the Upaniṣads, especially the Chāndogya. From there, they have 
-been integrated into the Brahmasūtras themselves, where they form the focus of the text’s final 
-divisions. These are of course the very same Vedāntic sūtras that occupy Lakṣmīdhara’s 
-attention. For Lakṣmīdhara, the trick to ascending on the path of liberation, it turns out, is the 
-repeated application of an echo of the daharavidyā— focusing on the lord who abides in the 
-heart in the form of the flame of a lamp, and the most important time for doing so is during the 
-process of conscious dying: 
-“For that is desired to be cognized by members of all āśramas, thusly indeed and now it is to be seen, to be contemplated, and to be heard, by twice-borns. . . .” 
-L: By all the āśramins, that paramātman is to be desired to be known by various modes (prakāra). He states that mode (prakāra) as it must be seen (draṣṭavya), which means it is to be directly apperceived. He states the means (upāya) of [enacting that mode] as śrotavya—it must be heard, and mantavya. Śrotavya means that it is to be conclusively deliberated upon by means of listening to the Vedānta (Upaniṣads). Mantavya means it is to be investigated (vicāra) by means of yuktis. From that, it [the self] becomes directly apperceived by means of dhyāna (meditation). Those twice-borns endowed with an abundance of śraddhā who have taken refuge in a wilderness place devoid of people, by the path stated thus, find—i.e., they obtain, in other words, they worship (upāsate) that thing (enaṃ) that is the self, which is truth, i.e., brahman.1596 
-For the scholar of Vedānta, two features from this passage should jump out at us 
-immediately. The first is that against tradition, which typically ignores the injunctive force of 
-the initial gerundive draṣṭavya in favor of beginning the mahāvākya with śrotavya, 
-Lakṣmīdhara not only privileges the initial command “one must see,” which he understands as 
-referring to the sākṣāt-darśana of brahman, he in fact treats śrotavya—the actual study of the 
-Upaniṣads—as subordinate, a mere means (upāya) incorporated within the dominant mode 
-1596Lakṣmīdhara, Kṛtyakalpataru, Mokṣakāṇḍa, pg. 259–260: sa hyāśramair vijijñāsyaḥ samastair evam eva tu / draṣṭavyas tv atha mantavyaḥ śrotavyaś ca dvijātibhiḥ //. . . . sakalāśramibhiḥ asau paramātmā nānāprakāraṃ jijñāsitavyaḥ / tam eva prakāram āha— draṣṭavyo ‘parokṣīkartavyaḥ / tadupāyam āha śrotavyo mantavya iti / śrotavyo vedāntaśravaṇena nirṇetavyaḥ / mantavyo yuktibhir vicārayitavyaḥ / tato ’sau dhyānenā’parokṣībhavati / ye dvijātayaḥ śraddhātiśayuktā āraṇyakaṃ nirjanapradeśam āśritāḥ, evamuktena mārgeṇa enam ātmānaṃ satyaṃ brahmopāsate vindanti labhante prāpnuvanti / 
-1747(prakāra). Nididhyāsana, however construed, you will notice is entirely absent.1597 As a result, 
-in this construal the final element in the method of Vedānta now becomes mantavya. This, of 
-course, is usually the element of the statement that is invoked to justify the application of 
-sophisticated scholastic reading practices as integral to Vedānta. For Padmapāda in the 
-Pañcapādikā, for example, manana involves both acts of dialectics, where conviction is honed 
-through debating ideological adversaries, as well an apologetics, as when the disciple learns 
-how to reconcile the Advaita Vedāntic doctrine that the universe has no origin with the 
-cosmological creation accounts found in the Purāṇas. 
-For Laksmīdhara, in contrast, as was made plain in the very first chapter of the text, the 
-intended meaning of yukti, which can of course mean applied reasoning, is in fact the 
-application in sequence of a program of planar ascent, akin to Śaiva yogic practices, through 
-the states of sāyujya, sālokya, prakṛtilaya, and finally into mokṣa.1598 It is through yukti, we 
-learn, that the deities beginning with hiraṇyagarbha acquired aiśvarya, the sovereignty- 
-bestowing collection of yogic powers that enable them to rule their respective realms. The 
-yogin is to follow in their footsteps, acquiring superintending overlordship (adhidaivatatva) 
-through complete mental identification of the apperceptive intellect with the ontic planes in 
-ascending order beginning with the earth element. Then, in a manner akin to a Tantric saṃhāra 
-practice, at the stage of prakṛtilaya, he is to identify with and then dissolve each of them in 
-turn in reverse order, a process that the culminates in his yogic suicide. Lakṣmīdhara’s Vedānta, 
-1597This is a peculiar state of affairs in light of the fact that, as Patrick Olivelle demonstrates in his critical edition of the Yājñavalkyadharmaśāstra, the dominant manuscript tradition from which he has derived his edition all have included it, albeit in a non-injunctive form, nididhyāsyaḥ, in this very verse in place of Lakṣmīdhara’s rather odd reading of vijijñāsyaḥ. See Patrick Olivelle, Yājñavalkya: A Treatise on Dharma (Cambridge, MA: Harvard University Press, 2019), 260–261. 1598Lakṣmīdhara, Kṛtyakalpataru, Mokṣakāṇḍa, pg. 8: sāyujyaṃ sālokyaṃ prakṛtilayo mokṣaś ceti caturvidhaṃ prayojanam / teṣāṃ aiśvaryāvāptiyuktyā hiraṇyagarbhanārāyaṇaśivamahendrasomasūryaskandajyeṣṭhomādevī- prabhṛtīnām. . . . pṛthivyādiṣu bhūteṣv adhidaivatatvaṃ tadbhāvabhāvitvam ca prakṛtilayo. . . . tadbhāvabhāvitvaṃ ca yogaviśeṣāc ca bhavati / 
-1748 
-in other words, culminates in something that looks like Tantra in all but name and is at best 
-only moderately interested in scholastic analysis. Thus, quite apart from the attitudes of the 
-Gāhaḍavāla court towards the use of Mīmāṃsā inspired principles in the context of reading the 
-Upaniṣads, we can see quite clearly why Vedānta as it is understood within our nibandhakāra’s 
-system, namely, as a mode of praxis, primarily conducted away from people and closely 
-associated with the end of life, whose successful execution is immediately followed by 
-deliberate disembodiment, does not readily lend itself to be lifted up as the exemplum 
-embodying and instantiating a newly emerging canon of Brāhmaṇical normativity. 
-Eccentric though it may be in its particulars, Lakṣmīdhara’s conceptualization of what 
-classical Vedānta from the time of Prakāśātman had come to understand as the śravaṇavidhi 
-is generally aligned with a valorization of Vedānta, at least within a circumscribed arena of 
-application, as representing a means of knowing brahman. If, unlike in the writings of 
-Kṛṣṇamiśra or Hemādri, Vedānta is but one knowledge system among many and does not 
-represent the fundamental essence of the śāstric tradition, for the nibandhakāra it serves a 
-unique purpose that at least warrants substantive explication and theoretical reflection. In 
-contrast, within the Kṛtyakalpataru, the same does not hold for Purāṇa as a knowledge system 
-nor its accompanying theistic devotional apparatus. Despite the fact that the vast majority of 
-the textual resources drawn upon by our Dharmaśāstrin are inescapably Purāṇic in nature, and 
-that throughout the text Purāṇa provides not merely collaborating details (in the mode preferred 
-by Pūrva Mīmāṃsā) but quite frequently the sole authoritative basis for the undertaking of 
-ritual practice, at no point in the vast Kṛtyakalpataru does its author reflect on either the nature 
-of Purāṇa as a genre or the source of its authoritativeness with any degree of focused care and 
-precision. Much like the dharma commentators who came before him (Vijñāneśvara being 
-1749 
-perhaps the closest match in method and temperament), Lakṣmīdhara in his own śāstric prose 
-takes pains to avoid reflection on the ontological status of Purāṇic ritual and the underlying set 
-of presuppositions that serve to make it viable and meaningful. His only concern throughout is 
-how something is to be done. For this reason, the closest our author, or at least his preferred 
-sources, gets to thinking about the use and usefulness of the Purāṇas and their reception is 
-embedded in a discussion of their performance. 
-The third division of the Kṛtyakalpataru, the Niyatakālakāṇḍa, is primarily concerned 
-with the regulation of the timing of ritual acts over the course of a day. The majority of the text 
-outlines the events that must punctuate a day, beginning from the moment when a person 
-brushes their teeth and culminating in the procedures for making your bed and, if it it the 
-appropriate season, having sex with your spouse. All of these activities, which make up the 
-obligatory (nitya) duties of a twice-born and occupy the first eight chapters of the division, are 
-to be conducted at the proper time and according to the proper rules. Making up a bit less than 
-a quarter of the kāṇḍa, the remainder of the text is concerned with a grab-bag of “occasional” 
-observances. Mostly, these are organized astrologically according to the parvan and tithi for 
-their observance. It is only in the last thirty pages of the whole division that we are offered a 
-miscellany of almost festival-like observances, ranging from putting torches in the jungle to 
-appease the spirits, to the tending of cows, the release of a bull, and, finally, at the very end, 
-the rules for listening to Purāṇas. 
-What Lakṣmīdhara calls the purāṇaśravaṇavidhi1599 consists of an otherwise unattested 
-extract from the famously elusive, and yet endlessly theologically innovative, Bhaviṣyat 
-Purāṇa. As you may be noticing, the name of the division instantly invokes comparisons with 
-1599 Lakṣmīdhara, Kṛtyakalpataru, Niyatakāṇḍa, pg. 473–480. 
-1750 
-the śravaṇavidhi of Vedānta, which from at least the eleventh century had been understood as 
-offering a program outlining the course of Vedāntic study as well as communicating its 
-ultimate purpose as making possible the direct experience of brahman. As we saw in the 
-opening section of this chapter, after our author sings many florid songs in praise of himself, 
-the Caturvargacintāmaṇi opens with Hemādri drawing upon this apparent parallel in the 
-service of arguing for the existence of the purāṇaśravaṇavidhi. Succinctly, his position is that 
-Purāṇic textuality makes it possible for non-twice-borns to achieve the same kind of inquiry 
-(vicāra) and obtain the same soteriological goals that had hitherto been restricted to twice- 
-borns studying the Upaniṣads. In fact, in developing this model, and revealing the scope of 
-Purāṇic knowledge, Hemādri unmistakably quotes several lines drawn from the very beginning 
-of the same purāṇaśravaṇavidhi in the Bhaviṣyat Purāṇa that serves as Lakṣmīdhara’s main 
-proof text in this part of the Kṛtyakalpataru. Hemādri’s strategic utilization of this text, 
-highlighting the radical nature of his own innovations, is all the more extraordinary because 
-the Bhaviṣyat Purāṇa itself has almost no interest whatsoever in either Vedānta or the “spiritual 
-lives” of non-twice-borns. In fact, it nowhere even hints at the possibility that listening to and 
-learning from the Purāṇas can bestow liberation. Instead, its primary concerns are ensuring 
-that the presentation of Purāṇic learning as well as community-specific Dharmaśāstra becomes 
-the exclusive purview of a class of well-compensated Brāhmaṇas, managing non-Brāhmaṇa 
-bodies, and teaching the “proper way” to recite a Purāṇa. Here is how the text begins: 
-Śatānīka said: 
-O lord, by what procedure is the [Mahā]bhārata to be listened to by men, and the story of Rāmabhadra, and, in particular, the Purāṇas? And how, in particular, [are] the Vaiṣṇava dharmas and the Śiva dharmas [to be listened to by men], or [the dharma] of the Sauras? O lord of Brāhmaṇas, tell the procedure that governs listening (śravaṇe vidhiḥ)! 
-1751 
-Sumantu said: 
-Alack, I will tell you the procedure regarding listening to the Purāṇas. Having listened with devotion to the Itihāsa and Purāṇas, O lord of the people, he is released from all sin, including the killing of Brāhmaṇas and so forth. O lord, Viṣṇu, Brahmā, and Śaṅkara are pleased with the one who listens, having become pure, in the morning, evening, and likewise [at] the night.1600 
-While Śatānīka’s initial inquiry corresponds to what we find in Hemādri, the entirety 
-of the teachings offered by Sumantu, which make up the remainder of the text, sharply diverge 
-from his interpretive project in both their form and substance. Sumantu’s initial reply appears 
-to characterize the reception of Purāṇas on a single occasion as offering a form of expiation. 
-We also learn that, when Purāṇic śravaṇa is performed by a twice-born, for only such a person 
-can become pure in the morning and evening, it pleases the trimūrti. As the text progresses, 
-we also are informed at some length that if a person pays the appropriate amount of dakṣiṇā to 
-the text reciter, he will reap the fruit of various different types of Vedic sacrifices. If, in addition 
-to paying a fee in gold an audience member also gives different forms of dāna, the audience 
-member will receive the fruits of his desires. As you may have noticed, non-expiatory benefits 
-of experiencing the Purāṇas are entirely mediated by an exchange economy, participation in 
-which is effectively limited to the well to do, whatever their caste. Merely hearing the Purāṇas 
-themselves has a very restricted benefit. There is no indication that “reflecting” upon Purāṇic 
-teachings have any value whatsoever, let alone that Purāṇas can contribute in any way to the 
-“liberation” of those who religiously attend their recitations. 
-1600Lakṣmīdhara, Kṛtyakalpataru, Niyatakāṇḍa: pg. 473–474: śatānīka uvāca— bhagavan kena vidhinā śrotavyaṃ bhārataṃ naraiḥ / caritaṃ rāmabhadrasya purāṇāni viśeṣataḥ / kathaṃ ca vaiṣṇavā dharmāḥ śivadharmā viśeṣataḥ / saurāṇāṃ vāpi vipendra śravaṇe ucyatāṃ vidhiḥ / sumantur ūvāca / hanta te kathayiṣye ’haṃ purāṇaśravaṇe vidhim / itihāsapurāṇāni śrutvā bhaktyā viśāṃpate / mucyate sarvapāpebhyo brahmahatyādibhir vibho / sāyaṃ prātas tathā rātrau śuddho bhūtvā śrṇoti yaḥ / tasya viṣṇuṣ tathā brahmā tuṣyate śaṅkaras tathā / 
-1752 
-Having outlined the fruits of the practice, Sumantu begins his discussion of the basic 
-procedure (vidhāna). The reciter of a Purāṇa, who must always be a Brāhmaṇa, is to put on a 
-set of pure clean clothes and leave his home. When he reaches the place where the recitation 
-is to occur, he is to circumambulate “whichever deity is in that place” (pradakṣiṇaṃ tataḥ kṛtvā 
-yā tasmin devataiva hi), honoring the deity according to the appropriate procedure.1601 After 
-venerating everyone without remainder like they were the guru (sarveṣām aśeṣaṃ guruvat),1602 
-he is to then begin his recitation, concluding his representation with the words “may it be 
-benevolent” (śivam astu). Or, as the passage actually reads: 
-Having done namskāra, likewise, it is to be recited (namaskṛtya yathā śrāvyaṃ) with, “śivam astu” at the end (cāntataḥ)/and not otherwise (nānyataḥ), O tiger among kings (śārdūlanṛpa), by all the varṇas, O lord of the earth (mahīpate).1603 
-In spite of the “Brāhmaṇizing” pretensions of the contents of the text, even for the 
-Purāṇas, this is very bad Sanskrit. Our Future Purāṇa even manages to fill more than a half a 
-verse with content that is either completely superfluous or underdetermined. Do we really need 
-separate information-free epithets for the king in pādas three and four? Do we need to be told 
-that the rules being given should not be done “otherwise?” What exactly is gained by telling 
-us that the vidhāna is to be done with “all the varṇas”? If we mean letters, why is the very next 
-section going to outline a seating chart for the classes? Whoever wrote this thing was not 
-particularly talented at giving clear directions—a bit of a problem when you are crafting a 
-vidhāna that people in perpetuity are supposed to follow to the letter, and not otherwise. Such 
-irregularities are not confined to this passage but are rampant throughout the whole extract. In 
-many places, even beyond what we see here, though the particulars need not detain us, 
-1601Lakṣmīdhara, Kṛtyakalpataru, Niyatakāṇḍa, pg. 474. 1602Lakṣmīdhara, Kṛtyakalpataru, Niyatakāṇḍa, pg. 474. 1603Lakṣmīdhara, Kṛtyakalpataru, Niyatakāṇḍa, pg. 474: [tāṃ vidhānena] sarveṣām aśeṣam guruvan nṛpa / [namaskṛtya yathā] śrāvyaṃ śivam astv iti cāntataḥ / nānyato nṛpaśārdūla sarvair varṇair mahīpate / 
-1753 
-deviations from classical Sanskrit extend also to matters of syntax and basic grammar, 
-including missing correlatives and lack of agreement between adjectives and the words they 
-modify as well as between subject and verb. Despite some tantalizing features showing some 
-knowledge of the discourse on aesthetics, which we will soon address, clearly this not a text 
-that was either produced by learned scholars who had studied Pāṇini, nor was it originally 
-intended to be examined by such people. The texture of the text suggests that, before its 
-integration by Lakṣmīdhara into a proper “learned” work of śāstra, albeit within what was then 
-a cutting edge even avant-garde discipline like entextualizing nibandhas, this is the sort of 
-thing that was written for and used by Brāhmaṇa subalterns carving out a niche for themselves 
-away from the big institutions. 
-Despite being composed by also-ran Brāhmaṇas, or perhaps even because of that fact, 
-the Bhaviṣyat Purāṇa is unusually concerned with the management of non-Brāhmaṇa bodies, 
-not in the service of excluding their potentially polluted forms from pristine ritual space, but 
-rather with the aim of subordinate inclusion within a shared ritual space: 
-The Vaiśyas are in front of the Śūdras. The Kṣatriyas are then in front of the Vaiśyas and Brāhmaṇas should always listen in front. Situated in the middle of all of them, O king, the reciter should recite. As for those men who are mixed caste, O king, they are behind the Śūdras. You should know the reciter is Brāhmaṇa, and not born of any [other] varṇa, out of respect. O king, having listened from a reciter born of another varṇa, he will go to hell. So, among those listening in this manner, in sequence according to their varṇas, delighter of the Kurus, there should be a recitation every month. O king, one should honor the reciter for the sake of one’s own upliftment (śreyas).1604 
-1604Lakṣmīdhara, Kṛtyakalpataru, Niyatakāṇḍa: pg. 474: śūdrāṇām purato vaiśyā vaiśyānāṃ kṣatriyās tataḥ // kṣatriyāṇām tathā viprā srṇvantv ete ’grataḥ sadā / madhye sthito’tha sarveṣāṃ vācako vācayen nṛpa // ye vāpi saṃkarā rājan narās te śūdrapṛṣṭhataḥ / brāhmaṇaṃ vācakaṃ vidyān nānyavarṇajam ādarāt // śrutvānyavarṇajād rājan vācakān narakaṃ vrajet / itthaṃ hi śṛṇvatāṃ teṣāṃ varṇānām anupūrvaśaḥ // māsi māsi bhaved rājan pāraṇaṃ kurunandana / śreyo‘rtham ātmano rājan pūjayed vācakaṃ nṛpa // 
-1754 
-In an age without audio visual equipment and amplification, spatializing the social 
-hierarchy means that the people in the back can see and hear the least of the performance. This 
-is of considerable significance, for as the text will soon make plain, cognizing the meaning of 
-the recitation and sharing in the experience of the performer’s affect is integral to this vision 
-of how Purāṇa works. Both figuratively and literally, Brāhmaṇas, of course, are placed right at 
-the front and in the center of everything. They are also suddenly the only people allowed direct 
-access to the text and who are permitted to incorporate it into their professional lives. In the 
-case of the Mahābhārata, which, as Hemādri claims, came into existence so that all kinds of 
-people can have access to religious teachings, the Bhaviṣyat Purāṇa’s claims are problematic. 
-When it comes to the appropriation of works like the Śivadharmaśāstra, explicitly for 
-everyone, and abjuring Brāhmaṇical social normativity defined by varṇāśramadharma, this 
-new arrangement effectively elides the interpretive project of the root text, not only in terms 
-of the types of social agents being empowered and disempowered, but also at the level of 
-timing and performativity. 
-Instead of fitting dharma teachings into the daily schedule of an adept as an integral 
-part of their training process, the Future Purāṇa envisions month-long periods of regular 
-recitation followed by long periods when the text and its reciter are absent. The Brāhmaṇa 
-Purāṇa reciter is no longer an esteemed member of the community whose salary is paid for on 
-an annual basis by a maṭha or temple. Instead, he is a hired outside professional and his fees 
-are to be paid by the audience, who are to contribute at the end of the month. In a typical 
-Dharmaśāstra fashion, the payment scale is “regressive” in nature. Thus, while under specified 
-(perhaps outcaste? and mixed caste) attendees are to pay a single māṣaka of gold, Brāhmaṇas 
-1755 
-and Kṣatriyas pay up two, Vaiśyas three, and Śūdras four whole gold nuggets.1605 As we have 
-seen earlier, since this is not a punishment, such an arrangement either presumes a rather 
-different distribution of wealth in early medieval north India than the one we had anticipated 
-with much of the liquid wealth being in low-caste hands, or, otherwise, that the exorbitant fees 
-paid by Śūdras ensured that only a select few elites from that community would be able attend. 
-In fact, these base line fees, which only ensured lesser results from being in the audience for a 
-Purāṇic performance, were then further supplemented by a whole hierarchy of forms of dāna. 
-The spoils included material wealth, cows, and vessels, as well as the usual symbolic 
-honorariums like garlands, all of which had to be given to the reciter if one wanted to gain any 
-of the benefits presented by a particular Purāṇa. Incidentally, in praising the reciter, the text 
-then presents us with the very same passages eulogizing the benefits that adhere to a patron at 
-whose śrāddha sacrifice the twice-borns are fed that had proved so integral to the arguments 
-Hemādri articulated within the Śrāddhakalpa, and which, incidentally he has made use of 
-completely divorced from their original context. 
-If we go by what Lakṣmīdhara presents us, the purāṇaśravaṇavidhi is not actually very 
-long. Out of a fifty-eight-verse text, for example, four verses show us how to order the audience 
-while seventeen verses are dedicated to the proper comportment towards the Brāhmaṇa reciter 
-and the compensation he is to be given. In all of these places, apart from offering some lists 
-that present us with the substances to be used, the procedural treatments are terse and show no 
-signs of self-reflexivity about what stands behind the categorizations they convey. In contrast, 
-indicative of its outsized importance, perhaps even of its innovativeness, the Bhaviṣyat 
-1605Lakṣmīdhara, Kṛtyakalpataru, Niyatakāṇḍa, pg. 479. 
-1756 
-Purāṇa’s taxonomization of the different types of reciters and listeners takes up thirty verses 
-and ample time is given to the unpacking of their significance. 
-The best kind of reciter, set apart from the rest and deemed terribly rare, is called Vyāsa, 
-for he is aligned with Vyāsa’s values (vyāsasammita) and is like Vyāsa himself. Any kingdom 
-where he dwells, the text suggests, is blessed: 
-Very clearly, in an exciting and easeful manner, the words and the syllables are enunciated. Furthermore, the performance has a low sound marked by musicality and is endowed with rasa and bhāva. He is always aware of the meaning of the text in its entirety with a superfluity of meaning. He should recite the meaning of the text to all the varṇas, beginning with Brāhmaṇas. The Brāhmaṇa who recites in this manner is called a Vyāsa.1606 
-There are two aspects to such a person’s virtuosity: his style of performance and his 
-comprehensive understanding of the text. The text’s treatment of both subjects tells a lot about 
-what ancient audiences valued. When it comes to presentation, the best of reciters enunciates 
-clearly both at level of the word and the syllable, and he does so, moreover, in a compelling 
-(adbhūta) and serene (śānta) manner, while embellishing his recitation with the appropriate 
-emotional states (bhava) and aesthetic modalities (rasa). In other words, what makes someone 
-a Vyāsa is that he does not simply read the work aloud. He performs it, adopting all the 
-appropriate affects at each part of the story or instructions, without ever losing control of his 
-emotionality in a manner that defeats the intended purpose of the text. To do this well, a Vyāsa 
-has to understand not merely the denotative meaning of every word in every verse and how all 
-the pieces fit together, but he must also have a rich sense of the significance of the text at each 
-point, including the multiple layers of meaning that are intended to be communicated to 
-different types of audience members. Finally, and perhaps most fundamentally, he has to—on 
-1606Lakṣmīdhara, Kṛtyakalpataru, Niyatakāṇḍa, pg. 476: vispaṣṭam adbhūtaṃ śāntaṃ spaṣṭākṣarapadaṃ tathā // kalasvarasamāyuktaṃ rasabhāvasamavitam / budhyamānaḥ sadātyarthaṃ granthārthaṃ kṛtsnaśo nṛpa // brāhmaṇādiṣu varṇeṣu granthārthaṃ vācayen nṛpa / ya evaṃ vācayed rājan sa vipro vyāsa ucyate // 
-1757the spot—be capable of explaining, and not just to learned Brāhmaṇas in the know, “the 
-meaning of the text.” This phrase may suggest that as with modern kathākāras, the 
-performance of the root text was to be interspersed with more colloquial and accessible 
-illustrations of its meaning. Perhaps these explanations were even to be conducted in a local 
-language. 
-As the Purāṇa of the Future makes plain, real Vyāsas, who, like the best of poets, have 
-mastered both word and meaning, are rare treasures. The vast majority of reciters, “Vyāsas 
-merely in name,” lack this full array of capacities. In this more practical vein, the text thus 
-provides us with a threefold taxonomy of Purāṇic reciters aligned with the three guṇas in 
-ascending order from the very worst sort of reciter to the best you are likely to get. Down at 
-the bottom, we find the tāmasic reciter. This worst of recitations is said to be done “very 
-quickly (atidruta).” It is “not clear” (aspaṣṭa), “without intonation” (visvara), “without any 
-rasa” (rasavarjita), “devoid of bhāva” (bhāvavarjita), and “without any division between 
-words” (padacchedavihīna).1607 Though, in a stereotypical vein, we are also informed that the 
-tāmasic person is unstable and prone to getting angry, the primary objection is that the 
-presentation of the text is performed by someone without enthusiasm (utsāhavarjita) and who 
-does not know the meaning of the text (granthārtha). In other words, the worst kind of 
-recitation is rote recitation. Either it is carried out by someone who does not know Sanskrit at 
-all, or it is done by a ritualist who treats the text as if its meaning is irrelevant, believing that 
-the ritual can be successfully executed if any sort of recitation has taken place. The person who 
-performs in this manner is called a defiler of the text (granthaviḍuṣaka). 
-1607Lakṣmīdhara, Kṛtyakalpataru, Niyatakāṇḍa, pg. 477: atidrutaṃ tathāspaṣṭaṃ visvaraṃ rasavarjitam // padacchedavihīnaṃ ca tathā [rasa]vivarjitam / abudhyamāno granthārthaṃ lolaś cotsāhavarjitaḥ // īdrśāṃ vācayed yas tu vācakas tu nareśvara / krodhano ’priyavādī cājñānād granthavidūṣakaḥ // 
-1758 
-Though preferable to the worst kind of reciter, the middling sort of performer errs in 
-turn by again emphasizing form over substance. Yes, it is all very well and good that such a 
-person, like a modern Indian classical vocalist riffing on a bhajan, offers a performance that is 
-calming, aesthetically pleasing, and intermixed with rasa and bhāva. Still, the rājasic 
-performer (the title is something of a misnomer as there is nothing “rājasic” about his manner), 
-though he enunciates each syllable clearly and beautifully, does not manage the word breaks 
-because he does not know the meaning.1608 As for the sattvic reciter, though presumably he 
-incorporates the best aspects of his predecessor, the only criteria that are given is that he knows 
-the meaning of the text in its entirety (granthārthaṃ samagraṃ kṛtsnaśaḥ) and that he gives 
-Brāhmaṇas their due by honoring them as part of the ceremony.1609 Quite succinctly, for all its 
-pro-Brāhmaṇa advocacy, the ethos out of which this text emerges is blatantly at odds with the 
-standards privileged by the advocates of Pūrva Mīmāṃsā. 
-In keeping with the threefold classification of reciters, our text next presents us with 
-three kinds of listeners, again in ascending order of quality. In the discussion that follows, 
-Lakṣmīdhara presents us with the closest thing to a second-order reflection on the role that 
-bhakti plays within Brāhmaṇical discourse that can be recovered from the entirety of his vast 
-nibandha. The argument, as articulated by the Bhaviṣyat Purāṇa, runs as follows. While the 
-reciter’s value is virtually defined by his degree of mastery over the meaning of the text, when 
-it comes to audience members, what is most important is the bare presence of śraddhā and 
-bhakti. As for what makes for a “bad audience,” that is not a question of dull incomprehension 
-on the part of the attendees. Instead, what we learn is that a bad audience is one full of skeptic 
-1608Lakṣmīdhara, Kṛtyakalpataru, Niyatakāṇḍa: pg. 477. 1609Lakṣmīdhara, Kṛtyakalpataru, Niyatakāṇḍa: pg. 477. 
-1759 
-intellectuals who undermine the authority of the Purāṇic reciter.1610 The worst kind of audience 
-member, devoid of śraddhā and bhakti, is intent upon logical or sophistic arguments 
-(hetuvādapara). Moreover, he does not pay his dakṣiṇā and is “endowed with envy.” Only 
-slightly preferable are those folks, again devoid of śraddhā and bhakti, who listen out of a 
-desire to find fault or contradiction (prasaṅgāt) or are merely curious (kautukamātra). Quite 
-noticeably, for these are usual features of stock polemic, none of these people who challenged 
-the authority and legitimacy of Purāṇic performances are defined as “heretics” (pāṣaṇḍa) or 
-nonbelievers (nāstika), nor are their backgrounds disparaged. Nor is there the slightest 
-indication that the dissenting voices represent some local or subaltern interest seeking to stop 
-the appropriation of their traditions. This is strictly a conflict in and among Brāhmaṇas. If 
-anything, it is the paurāṇikas, clearly rooted in a performance tradition and depending on 
-contract work for their financial well-being, not the proceeds from inherited land grants, who 
-serve as our subalterns. As for the best kind of audience, once again, the text tells only that 
-they are endowed with bhakti and śraddhā (bhaktiśraddhāsamanvita), they have abandoned 
-all other ritual or acts (saṃtyajya sarvakarmāṇi).1611 Motivated by their devotion, they honor 
-the reciter and always pay their dakṣiṇā. These are the sort of audience you want to have filling 
-out your seats. 
-As you have probably observed, there is noticeable asymmetry between what is 
-expected of a great reciter and what is valued in an audience member. Being a reciter is a 
-cultivable skill. Within it there are multiple levels of attainment, including the possibility, 
-however slim, of becoming a virtuoso. Moreover, the text is invested in presenting us with an 
-analytical account of the concrete components constitutive of achieving mastery. On the basis 
-1610Lakṣmīdhara, Kṛtyakalpataru, Niyatakāṇḍa, pg. 478. 1611Lakṣmīdhara, Kṛtyakalpataru, Niyatakāṇḍa, pg. 479. 
-1760 
-of these elements, we have what are in essence a set of “objective” criteria that can be used for 
-evaluating performers and performances. Unlike in the realm of śāstra, there is considerable 
-interest in the reciter’s own affect, much of which seems to be being conceptualized in a 
-language borrowed from the meta-discourse on the aesthetics of performance. At the same 
-time, however, that the exclusively Brāhmaṇa reciter is intruding in a professional domain, 
-namely, the world of singers and actors, that is dominated by social actors who are 
-quintessentially non-Brāhmaṇas, the text is exalting above all else the type of learned precision 
-and hermeneutical mastery, even intentionality, so often treated as inseparable from Brāhmaṇa 
-identity. 
-In considerable contrast, though it is adamant about what sort of traits are undesirable 
-in those involved with the reception of the text, the Bhaviṣyat Purāṇa has almost nothing 
-concrete whatsoever to say about what is entailed in cultivating the qualities that makes a 
-person into the audience equivalent of an ideal imagined “reader.” We are simply told that they 
-have set aside other actions and concerns and possess both śraddhā and bhakti. Moreover, in 
-opposition to what we will see in the next chapter, though they share discursive space, the 
-aesthetic-inflected discourse on rasa and bhāva is affiliated with the reciter of the text, who is 
-not motivated by devotion, and is in fact not viewed as applicable at all to the dynamics that 
-govern the inner worlds of the devotee. 
-In presenting virtually no critical reflection on devotional categories, nor even working 
-through what the analytical criteria might look like for determining the presence or absence of 
-śraddhā and bhakti in audience members, like the Bhaviṣyat Purāṇa before him, the twelfth- 
-century Dharmaśāstrin Lakṣmīdhara was simply following in the wake of a storied tradition 
-within the Sanskrit Knowledge Systems. Succinctly, however much such a notion might 
-1761 
-violate our expectations about the centrality of bhakti to Indian religions, in the Sanskrit 
-literature of the first millennium of the Common Era, there is an almost total scholarly neglect 
-of śraddhā and bhakti as sites for sustained inquiry. Though evocations of bhakti and its 
-associated affect as a meaningful term of art are certainly present—even prevalent—in 
-evocative literary and devotional writing produced by a range of communities, against 
-expectations, outside the context of stray commentarial glosses on texts such as the Gītā, 
-serious analysis of the category in the idiom of theology is virtually unknown. Where it does 
-begin to surface, around the turn of the millennium, nascent articulations of bhakti theology in 
-the idiom of śāstra incorporated as part of a larger argument are at first confined to two 
-domains, namely, those of the Śrīvaiṣṇavas and the Śākta Śaivas. Significantly, the status of 
-both communities as unproblematically reflecting a vision of Brāhmaṇical normativity, at least 
-among contemporaries, was very much an open and contested question. Even here however, 
-up through the twelfth century what we encounter at best are śāstrins talking about and 
-valorizing bhakti in a sophisticated manner, and not bhakti itself becoming the central focus of 
-learned composition. Quite simply, there is no such thing as bhaktiśāstra. As we shall see in 
-the next chapter, this too begins with Hemādri. 
-1762 
+
+Chapter 10: Why I Am So Clever, Why I Write Such Excellent Books, and What I Did to the Gods: Hemādri Reimagines Brāhmaṇical Thought
+
+In a manner that has few parallels in the long history of Sanskrit thought, especially in the often-subdued domain of Dharmaśāstra, to read the *Caturvargacintāmaṇi* is to stage an encounter with the mind of its author in all his richness of inspiration and many idiosyncrasies. Even after a decade of diligent research seeking out precedents across disciplines and religious boundaries, I have been forced to conclude that while Hemādri is indeed a polymath with access to immense libraries, who may well have known a myriad of intellectual resources now lost to history, both at the level of doctrine and methodology, the most essential features of his work seem to be expressions of his own individual vision and outsized personality. The scope of this accomplishment—that reading Hemādri is to hear one man’s voice—is all the more extraordinary when we take into account that the vast majority of his text is a collection of citations drawn from the writings of other people, sages, and deities, and that even among its enthusiasts, *dharmanibandha* is as a genre is almost universally characterized as one of the most colorless discourses in all of Sanskrit.
+
+If in chapter 9 we had focused on Hemādri’s interventions into preexisting social worlds, from here on in, our attention will be largely redirected to the inner worlds that lie inside his texts. While at first glance this might seem to represent a stark departure from the markedly sociological methodological focus and theoretical orientation that has animated the rest of our study, as if they are being abruptly discarded in the service of a more rarefied form of “pure” intellectual history, such appearances are deceiving. For, like the scholastic Vedāntins from whom he derives so much theological inspiration, Hemādri asserts that we must collapse the distinctions between how we read and how we live such that one becomes [[P1565]] an extension of the other. In a world where all daily activity is unavoidably punctuated by ritual, what the *Caturvargacintāmaṇi* offers, in essence, is a hermeneutics for everyday life.
+
+Though its tactics are indebted to Pūrva Mīmāṃsā, quite unlike with the dharma norms of classical legal traditions, the theology and presuppositions of the *Caturvargacintāmaṇi* are those of transactional, quotidian, common sense, everyday Indian religions. For the first time in the history of “Smārta” traditions, this ethos is articulated and defended against its scholastic objectors in the language of high *śāstra*. In a sense, at the very moment that he is taking away the authority of ordinary people to internally manage their own religious affairs without resorting to an intermediary from outside the community, Hemādri goes to enormous trouble to affirm what was already obvious to ordinary people—namely, that they lived in a world that was really full of gods and spirits who had to be fed, attended, and appeased, and that ritual was the means for making that happen. As counterintuitive as it might seem, just in doing this much, Hemādri has already turned his back on the tradition of legal exegesis. As we shall soon see, Dharmaśāstra as a scholastic tradition by and large had at least partially internalized Mīmāṃsā’s realist and atheistic values alongside its methods. Ultimately, what we will discover is that to pay close attention to how Hemādri reads and how he makes use of his sources throughout the *Caturvargacintāmaṇi* in and of itself cannot but help to bring vividly into our awareness, in both broad strokes and particulars, how comprehensively Hemādri breaks away from his predecessors within the domains of Dharmaśāstra and formal theology.
+
+In the final portions of the chapter, through examining and even regionalizing the key antecedents of the *dharmanibandha* discourse that Hemādri so capaciously makes his own, the insights we have recovered from our close readings will be placed into a wider socio-historical context. We will see that such a broad-based historical perspective once again speaks to the [[P1566]] relative marginality within the wider purview of eleventh- and twelfth-century north Indian Dharmaśāstra of much that to our author holds most sacred. In particular, the chapter will conclude by rendering transparent that the north Indian *nibandhakāra* Lakṣmīdhara shares with his successor neither his valorization of personalist Vedānta as the crowning achievement of Indic thought nor his investment in devotional theology. These observations in turn will prepare us for the final chapter in our study, which will take as its focus precisely that peculiar marriage of non-dual Vedāntic philosophical reasoning with affective devotionalism, the articulation of which, though already evident in the *Caturvargacintamāṇi*, comes to play a far more consequential role in the final stage of Hemādri’s intellectual life.
+
+That Hemādri does not follow the well-trod paths of his predecessors is a reflection of the centrality of theism to his worldview in general and his theory of scripture in particular. As this chapter will make evident, it is a vision that centers sacred personalities, their actions, and their assumptions as inseparable from what makes ritual efficacious. And so, in this spirit, before we can think with our texts, we need to take some time and get know Hemādri Sūri himself and the world from which he emerged.
+
+## Why I am So Clever: Autobiography of the Pandit as an Egomaniac
+
+Hemādri commences[^1566_1420] the *Caturvargacintāmaṇi* by celebrating as a collective total “the Brāhmaṇas who are praised within the three worlds” (*trijagatīvandyā jayanti dvijāḥ*). Then, in an extraordinary breach of normal Sanskrit decorum, under the authorial internal heading, “Now the praise of the author of the text (*atha granthakartuḥ praśastiḥ*),” Hemādri introduces us to his family as prelude to celebrating his own virtues. The best of Brāhmaṇas, we learn,
+
+[^1566_1420]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, pg. 1, 1.1. In the original work as composed by the author, what is now the first verse would have actually followed an extended delineation of the line of the Seuṇa kings, running fifty or so verses, which nonetheless is so structurally inessential to the text that it has been excised from most manuscripts.
+
+[[P1567]] arise from the incarnated lotus of Viṣṇu himself, in his aspect as the husband of fortune. While that is all well and good, however, special recognition is to be reserved for the crest jewel of the Brāhmaṇa sages, devoid of the vices of attachment, enmity, and intoxication, the *muni* known of as Vikhas (*vikhābhidhāno muniḥ*). This is the source, our author will soon inform us, of his family *gotra* (*gotre tasya*).[^1567_1421]
+
+[^1567_1421]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, pg. 1, 1.1: *atha granthakartuḥ praśastiḥ // pādaprāntaviniḥsṛtadyusarito devasya lakṣmīpater vyaktāmbhoruhasambavā trijagatīvandyā jayanti dvijāḥ / rāgadveṣamadādidoṣavirahād antasphurajjyotiṣāṃ teṣām eva śiromaṇir vijayate vikhābhidhāno muniḥ //*
+
+In speaking of Vikhas, Hemādri presumably intends to invoke the sage who revealed the scriptures of the Vaikhānasas. As Laurie Patton has discussed, the comparatively late but recognizably Vedic *Taṇḍya Brāhmaṇa* contains a short narrative in which the Vedic *ṛṣis* are said to emerge from the spilt seminal fluid that Prajāpati offers into the sacrificial fire. In this tale, Bhṛgu emerges from the fire itself and Aṅgiras comes out of the ashes, soon to be followed by Atri.[^1567_1422] Seeking out their remaining counterpart, the original sages begin digging (*√khan*) in the ground, an effort that results in the uncovering of Vaikhānasa, “the digger.” Closely aligned with some of the earliest explicitly Vaidika ascetic as well as Vaiṣṇava ritual traditions to which we have access, apart from the writings of Gerard Colas, the discourse within Vaikhānasa scriptures has yet to be subject to thorough study especially with the objective of a careful historicization of their contents. Even so, at least in light of the sources available to us, Hemādri’s invocation of this pedigree is immediately suspect. In no other source available at present is the *ṛṣi* from whom the line descends assigned the name Vikhas. Indeed, analogous to how a term like *Bhārgava* means the “ones who descend from Bhṛgu,” the otherwise barely attested word “Vikhas” seems to have been derived artificially by treating Vaikhānasa as a [[P1568]] patronymic and undoing the application of *vṛddhi* rules. The problem here is that both the Vedic *Brāhmaṇas* and the Vaikhānasa scriptures themselves consistently tells us this sage is himself already named “Vaikhanasa.” Furthermore, in the classical Sanskrit sources, Vaikhānasa is classified as the name of a Vedic *śākhā*. It is not a Vedic *gotra*, which is why Vaikhānasa practitioners even today can belong to distinctive lines of Vedic textual transmission. In other words, for the first but hardly the last time in our sources, Hemādri’s explanation here reads like the efforts of a clever outsider looking in at a tradition and attempting to reverse engineer its contents based on more general *śāstric* principles.
+
+[^1567_1422]: Laurie L. Patton, *Myth as Argument: The Bṛhaddevatā as Canonical Commentary* (Berlin: De Gruyter, 2014), 412.
+
+The *Caturvargacintāmaṇi* contains two garlands of verses where Hemādri discusses and praises his family. One of these is found in the very opening of the text at the beginning of the *Vratakhaṇḍa*, while the other makes up much of the introduction to the *Śrāddhakalpa*. Even among these two accounts contained within the same treatise, there are some interesting discrepancies. While the *Vratakhaṇḍa* begins with an account of Hemādri’s grandfather, Vāsudeva, descending from the line of Vikhas, the *Śrāddhakalpa* starts by introducing us to the man who was presumably Hemādri’s paternal great-grandfather, a gentleman named Vāmana, said to be born in the lineage of the dear sage (*vatsamuni*), as the text says explicitly, in the Vatsa Gotra.[^1568_1423] This is to say that Vāmana is assigned to an entirely different *gotra* than the one which had earlier been claimed on behalf of his son. Since *gotra* inheritance is patrilineal, this is utterly impossible. Again, the seams in this undivided and “eternal” Brāhmaṇism are showing.
+
+[^1568_1423]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa* pg. 4, 1.18: *svādhyāyādhyayanapravīṇa- dharaṇīgīrvāṇacūḍāmaniḥ vaṃśe vatsamuner manoharaguṇagrāmābhirāmākṛtiḥ / jajñe vāmanasaṃjñako valikathāgāthāsamunmīlita-pratyagrāpratimaprabhāvarucirāṃ yaḥ prāpa lakṣmīṃ parām //*
+
+Regardless of his origins, in the slightly clunky style to which we will soon grow accustomed, Vāmana is outlandishly praised. According to his great-grandson, he was one whose “delightful form was a veritable village of qualities captivating the mind” (*manoharaguṇa-grāmābhirāmākṛtiḥ*) and “the crest jewel of Brāhmaṇas, gods on earth” (*dharaṇīgīrvāṇa-cūḍāmaniḥ*). Punning on his great-grandfather’s name, which he shares with the incarnation of Viṣṇu who with his three wide strides humbled the demon king Bali, Hemādri paints him as a man so “skilled in Vedic recitation and study” (*svādhyāyādhyayana-pravīṇa*) that he “obtained the highest glory (*prāpa lakṣmīṃ parām*), “illustrious with a fresh, incomparable power unfolded by songs and stories about Bali” (*bali-kathā-gāthā-samunmīlita-pratyagrāpratima-prabhāva-rucirāṃ*). While in the *Vratakhaṇḍa*, unsurprisingly, Hemādri’s grandfather Vāsudeva is assigned a whole host of rather generic virtues, the *Śrāddhakalpa* sets out to represent Vāsudeva, a connoisseur of the secret substance of the eternal Upaniṣads (*śaśvadvedarahasyavasturasikaṃ*) as simultaneously a Vedic ritualist without peer and a master of the arts.[^1568_1424] In yet another heavily *śleṣa*-infused verse full of uneven metaphors, Vāsudeva is exalted as a person in whose Vedic sacrifice/scholarly society (*goṣṭhīsadaṃ*) there is a piling up/compilation of the sacrificial components (*kalāsambhāra*) of the nine fires/freshly radiant arts (*navojjvala*)—*navojjvala-kalāsambhāra-goṣṭhīsadaṃ*. Somewhat ineptly, he is also the “the cloud that bestows the rainwater that is contentment to the minds of the good people through the outpouring of whirlwinds of good merit” (*puṇyāvarttana-sarga-sajjana-manaḥ-santoṣa-varṣāmbudam*). Finally, the poor man is also memorialized with the wince inducing phrase, “the sun/the source of the [Sāma]veda that [[P1569]] brings delights through the nine *rasas* that drip forth from his throat, bursting forth clearly into being” (*bhūtasphīta-galodgalan-navarasa-prahlādivedodayam*).
+
+[^1568_1424]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakhaṇḍa* pg. 4: 1.19: *sa prāsūta sutaṃ navojjvalakalā-sambhāra- goṣṭhī-sadaṃ bhūta-sphīta-galodgalannavarasaprahlādi-vedodayam / puṇyāvarttana-sarga-sajjana-manaḥ- santoṣa-varṣāmb[u]daṃ śaśvadvedarahasyavasturasikaṃ śrīvāsudevāṅkayam //*
+
+At every step, this unusual and highly specific rhetoric sets out to assign to a single person a confluence of what in earlier centuries were typically values and attributes assigned to discrete interpretive communities. We cannot of course wholly rule out that this eccentric cultural formation was indeed in evidence in the social realm where Hemādri spent his youth. As we have seen throughout our study, especially prior to the thirteenth century, throughout the Deccan, site- and community-specific values were almost unimaginably diversified. Still, it is strange that unlike all of the other major figures in the almost incestuous orbit of the Seuṇa court, including Hemādri’s chief disciple Bopadeva—whose father studied in the line of Bhāskara, the grandfather in turn of Śāraṅgadeva the *śrīkaraṇeśvara* who wrote the *Saṅgītaratnākara*—we find no trace of any of Hemādri’s forebears in any of our sources, nor can we link them, however tangentially, with any preceptorial line. And in a rhetorical choice almost unheard of, except perhaps among the most transgressive lines of charismatic visionary *yogins*, Hemādri himself never mentions a teacher. It is as if he and his values came out of nowhere. In contrast to the unabashed reverential attitudes Hemādri displays towards the under specified deeds of his ancestors, there is considerable and surprising ambiguity in our polymath’s representations of his own father, Kāmadeva. Once again, there is also a discrepancy between what we find at the opening of the *CVC* and how the same matters are addressed in the *Śrāddhakhaṇḍa*. While in the *Vratakhaṇḍa*, Kāmadeva is somewhat generically lauded as a great philanthropist who was *dharma* incarnate, the *Śrāddhakalpa* suggests a much stranger story:
+
+From that one emerged the heap of insight/Prajñārāśi whose name was Kāmadeva, a connoisseur of good deeds, who even in times of calamity never abandoned true speech. [Even] his play at bantering was akin to fresh nectar. The entire world was pleased by his excellent speech, conduct, and morals.[^1569_1425]
+
+Keeping company with the best of noble teachers, having observed the *mauñjīvrata*, having married a wife by whom was enacted the rituals and household rites, that most noble person took on the fourth *āśrama* in order to worship the *jyotir* that is Śiva, who destroys the black magic that is the perceiveable and non-perceivable(?), the one who bestows comfort, just a little bit.[^1569_1426]
+
+Hemādri acknowledges his father as a truthful and eloquent man, but his real emphasis, it seems, is on the fact that his sire bore two distinct names and engaged in very different activities at different phases in his life. While in his worldly life, the father was called Kāmadeva, it is strongly implied that after he took the fourth *āśrama* and became a renunciate, Kāmadeva assumed the decidedly Atimārgic, maybe even quite specifically Pāśupata, sounding initiatory name of Prajñārāśi. Almost as if he is damning with faint praise, in contradistinction to the outlandish feats accomplished by other members of his line, Hemādri describes his father as following in the path of the best of teachers by taking the sacred thread, getting married, and then performing some ritual and social duties. Whereas as grandpa Vāmana’s deeds allegedly outshone Viṣṇu’s, despite some fine qualities, Hemādri oddly presents his father Kāmadeva as fulfilling the bare minimum requirements for being Brāhmaṇa. With unmistakable condescension—perhaps even outright venom—Hemādri informs us that the newly minted Prajñārāśi dedicated himself to what seems to be a program of Śaiva ritual [[P1572]] worship that had as its conceptual focus something akin to the practices ascribed to the *siddha* traditions we explored in the eighth chapter. As we have seen, these culminate in worshipping the deity in the form of the *liṅga* of the void, the *bindu*, or a point of light. By worshipping Śiva in the form of the light just a little bit (*jyotiḥ kiñcid upāsituṃ*), his son signals resentfully, daddy wasted the end of his life. After this interlude, at long last, the text prepares us for meeting Hemādri himself:
+
+[^1569_1425]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakhaṇḍa*, pg. 4, 1.20: *āsīt tasmād abhinavasudhāsodarālāpalīlaḥ śīlācārapravaradhiṣaṇātoṣitāśeṣalokaḥ / satyāṃ vācaṃ tyajati na purā kvāpi yaḥ saṅkaṭe ’pi prajñārāśiḥ sukṛtarasiko nāmataḥ kāmadevaḥ //*
+[^1569_1426]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakhaṇḍa*, pg. 5, 1.21: *yenācāryavarāryasaṅgatimatā nirvāhya mauñjīvrataṃ kṛtvā dāraparigrahaṃ vidadhire karmāṇi gṛhyāṇi ca / vedyāvedyamahendrajāladalanaṃ kṣemaṅkaraṃ śaṅkaraṃ jyotiḥ kiñcid upāsituṃ sa jagṛhe varyas turīyāśramam //*
+
+> Hemādri indeed was incarnated in his [Kāmadeva’s] house in order to make the world free from poverty.
+>
+> By whom can be described the marvelous deeds of Hemādri, that most desired progeny who attained the state of being a wish-fulfilling tree? . . . .
+>
+> He bears all the array of arts. He always gives hundreds of cows. Having the state of a king of the twice-borns, known across the world, he even bears the state of causing one to cross over.
+>
+> Indeed, the remaining enemies of the Lord of the Earth, Mahādeva, are cast down.
+>
+> That supreme Hemādri Sūri, who has attained the state of being the overlord over the *śrīkaraṇas* and also wisdom, is the moon that makes flourish the ocean of milk of the kingdom, set down both Śrī and Sarasvatī in the houses and bodies of learned people.[^1572_1427]
+
+[^1572_1427]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, 1.5–6, 9–10, pg. 2–3: *purāpi yat puṇyam agaṇyarūpam śrīkāmadevena kṛtaṃ nu vidmaḥ / yenādaridrāṃ jagatīṃ vidhātum hemādrir apy asya gṛhe ‘vatīrṇaḥ // caritaṃ tasya hemādrer adbhutaṃ kena varṇyate / upaiti prārthito yasya santānaḥ kalpavṛkṣatām // kalākalāpaṃ sakalaṃ bibharti gavāṃ sahasrāṇi sadā dadāti / jagatprasiddhadvijarājabhāvas tathāpi yas tārakatāṃ dadhāti // vidhvastākhilavairiṇaḥ kila mahādevasya pṛthivīpate rājyakṣīrasamudravarddhanaśaśī hemādrisūriḥ paraḥ / yena śrīkaraṇādhipatyapadavīm āsādya vidyām api / nyastā śrīś ca sarasvatī ca viduṣāṃ geheṣu deheṣu ca //*
+
+In violation of that Sanskrit ancient dictum, which proclaims that like the bickering co-wives whose names they bear, great fortune (*śrī*) and great learning (*sarasvatī*) cannot coexist in the same household—let alone the same person—Hemādri is emphatic that his coming into the world has made possible a new paradigm. From henceforth, eschewing the noble poverty of the gleaner as ideal, learned Brāhmaṇas will be guaranteed worldly success. What makes this new world possible, as we saw at some length in the prior chapter, is the confluence of a [[P1573]] new institutional form, the office of *śrīkaraṇeśvara*, which conflates the previously distinct roles of chief minister of the king (*mahāmātya*) and administrator of the kingdom (*śrīkaraṇa*). The end result is the marrying of the administrative, sacerdotal, and apotropaic functions of the king’s chief councilor and master of *mantras* with command over a bureaucratic apparatus possessing the type of intimate local knowledge necessary for ensuring the extraction of revenue, the management of debts, as well as battalions of scribes responsible for the reproduction of entextualized knowledge in all its forms. To be clear, this office has itself several centuries of prehistory highly localized to western Deccan. What it was waiting for was someone to harness its latent potential and bend it to his will. In Hemādri Sūri, the office of *śrīkaraṇeśvara* found just such a person.
+
+When a single person holds so much power, with so very little opportunity for external critique or oversight, there is always the possibility of epistemic closure, that he will come to conflate his own limited perspective with the totality of possible human experiences. Typically, such observations preface a critique of the abuse of power. Here, however, they are offered in the spirit of hermeneutical charity, as providing a working framework for making sense of the otherwise inexplicable manner in which the most famous *śrīkaraṇeśvara* in the history of Indic thought represents himself to posterity. And so, just as the *Caturvargacintāmaṇi* turns to its primary task, in introducing himself to his readers, Hemādri writes:
+
+> Some people desire knowledge (*jijñāsā*) about *dharma*. Others simply know, because they’ve read my books. And that just about sums up that “field” in its entirety. And thus, by everyone without exception, there can be named no one else on the surface of the earth who ever was or will be more capable of knowing and acting than Hemādri Sūri.[^1573_1428]
+
+[^1573_1428]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa* 1.11, pg. 3: *jijñāsām iha kurvate katipaye dharmasya tebhyo pare / jānanty eva samastaśāstraracanād asmābhir evaṃ punaḥ / niḥśeṣair abhidhīyate kṣititale hemādrisūreḥ paro jñātuṃ vā carituṃ kṣamī na hi purā bhūto na bhāvī puraḥ //*
+
+Virtually since its inception, much of Sanskrit *śāstra*[^1574_1429] has perceived *jijñāsā*—usually understood as “the desire for [[P1574]] knowledge”—as the impetus behind learned philosophical and theological inquiry. Whether the knowledge being sought after is a matter of understanding and annihilating the causes of suffering, as in *Sāṃkhya Kārikā* 1.1 (*duḥkhatrayābhighātāj jijñāsā tadabhighātake hetau*), of making sense of the eligibility and impetus for performing ritual (*athāto dharmajijñāsā*) as in the *Mīmāṃsā Sūtras*, or of seeking out the method that enables one to realize *brahman* (*athāto brahmajijñāsā*), as in Vedānta, the cultivation of this aptitude and attitude is seen as an essential dimension of what it means to be a learned and pious person. In fact, the question of just how precisely one should interpret *jijñāsā*, whether what is at stake here is “desire” as a motivating factor, or, as Śaṅkarācārya would have it, a dispassionate investigation, is utterly integral to how Pūrva and Uttara Mīmāṃsā present themselves as disciplines. And yet, with a wave of his hand, Hemādri declares that his writings have rendered this entire dimension of human nature—the quest for knowledge—antiquated and superfluous. Instead of yearning for something more, people should just read his books.
+
+[^1574_1429]: The major exceptions here are the disciplines of Vaiśeṣika and Pātañjalian Yoga. While the term does not appear in the root text of the *Nyāya Sūtras*, the early commentators rapidly reframe the root text in terms of this same Jijñāsā paradigm.
+
+Now, Sanskrit discourse is not afraid to bluntly and incessantly tell its imagined reader, “listen—I am about to tell you a wonderous, unprecedented secret, something of fundamental importance that you have never heard before,” provided, that is, that it is the gods themselves who are imagined as our authors, or a work purports to entextualize a specific *siddha’s* channeled visionary experiences. In contrast, when it comes to the taxonomic and commentarial writings of human—all too human—scholars, it is customary for Sanskrit *pandits* to offer their intellectual and theological innovations surreptitiously while making a [[P1575]] very public show of diffidence to prior authorities within their discipline. Even when presenting an agenda that from the perspective of the modern historian of ideas diverges radically from what is found in the root text, Sanskrit *pandits* present their contributions coached in the dual languages of restoration—let us return to what this author really was trying to say—as well as that of apologetics—here are five more arguments refuting attempts by rival schools of thought at discrediting our value system; in this way I have restored its honor. Poets, especially at the beginnings of their works, tend to be even more self-abnegating, such that Kālidāsa, one of the finest and most original writers in any language, after dubbing himself an “idiot” (*manda*), compares his humble attempts at poetic composition to that of a dwarf (*vāmana*) reaching out for a fruit hanging upon a branch that lies far out of his reach.[^1575_1430] When writers and poets undertake a rather bold project, by and large they claim its shortcomings as reflecting their own personal failings and ascribe any virtues residing in the end product to the grace and instruction of their teacher and to the gods.
+
+[^1575_1430]: Kālidāsa, *Raghuvaṃśa* 1.3: *mandaḥ kaviyaśaḥprārthī gamiṣyāmy avahāsyatām / prāṃśulabhye phale lobhād udbāhur iva vāmanaḥ //*
+
+These tropes and readerly expectations are hardly archaic. This is to say, Hemādri’s wholesale embrace of an idiom that is their antithesis—exalting the author and his accomplishments and celebrating his innovations above all others—is not something that can be accounted for as a product of the times or as some quaint Maharashtrian custom. Thus, writing some forty years after the completion of the *Caturvargacintamāṇi*, fifteen miles from the Brāhmaṇical center of Paithan and a mere thirty miles to the south of the Yādava capital at Devgiri, Jñāndev, perhaps the most gifted poet of his day, plaintively and apologetically still [[P1576]] hopes that if learned people encounter his Marathi *Gītā*, they will respond to it the same way a mother applauds her child when it does what she has taught him,[^1576_1431] or a parrot when it recites something it has overheard.[^1576_1432] Time and again, acting almost like the antithesis of our author, Jñāndev says he is but a marionette whose every movement reflects the guiding gestures of his guru and he pleads that the saints will help assist him in making sense of the *Bhagavad Gītā*.
+
+[^1576_1431]: The trope is repeated several times, both when Jñāndev is addressing his reader in the present in his own voice and when he is acting as a commentator. It is the first function that for our purposes is most pertinent. It first appears in the prologue to the *Bhāvārthadīpikā*, vs. 1.64, which reads: *jaisā svabhāvo māyābāpāṃcā / apatya bole jarī bobaḍī vācā / tarī adhikaci tayācā / saṃtoṣa āthī //*
+[^1576_1432]: See for example 9.0.17. Here the word for parrot is *puṃsā*: *aho puṃsā āpaṇaci paḍavije / maga puḍe tarī māthā tukije / kāṃ karavileni cojeṃ na rijhe /*
+
+Nor can we make sense of Hemādri’s stylistic eccentricity through a discursive reflection on the specific genres—medicine, poetics, devotional theology, Dharmaśāstra—in which he is working. Except in the case of his medical writings, though even there a rhetoric of newness predominates, as this chapter will demonstrate, the key formal and intellectual features of his compositions depart substantively from everything that has come before them. Against our usual expectations of the Sanskritic past that it is an emotionally distant realm governed by tropological systems that elide every hint of unvarnished human experience, Hemādri’s unforgettable voice as a writer speaks boldly and clearly down through the centuries. This voice is utterly inexplicable except when read as an organic expression of our author’s very particular and vivid personality.
+
+It is perhaps in his least self-evidently innovative work, *The Resurrection of Āyurveda* (*Āyurvedaras## The Resurrection of Āyurveda
+
+(Āyurvedarasāyana), that the enormous disparity between Hemādri’s approach to engaging the scholastic traditions he has inherited and that of his immediate predecessors working within the very same genre is most starkly rendered.[^1576_1433] Completed somewhere between fifty and one [[P1577]] hundred years before Hemādri’s *Āyurvedarasāyana*, the *Sarvāṅgasundara* of Aruṇadatta also comments systematically on the eighth-century *Aṣṭāṅgahṛdaya* of Vāgbhaṭṭa. Here is how Aruṇadatta introduces himself:
+
+[^1576_1433]: Only a single edition of the *Āyurvedarasāyana* exists. As with all of Hemādri’s works, the text as printed is both often unsatisfactory and substantively incomplete. Bisagacarya Harisastri Paradikar, ed., *Aṣṭāṅgahṛdaya* with the Commentaries *Sarvāṅgasundarā* of Aruṇadatta and *Āyurvedarasāyana* of Hemādri (Varanasi: Chowkhamba Press, Varanasi, 2000).
+
+> In this greedy world, what learned person would not desire to accomplish a little something? However, if there might exist some good person, he is my refuge. For the sake of informing about the meaning of the words directly to the person who sees this, the illustrious Aruṇa, son of the illustrious Mṛgāṅka, writes this commentary on the *Aṣṭāṅgahṛdaya*.[^1577_1434]
+
+[^1577_1434]: Aruṇadatta, *Sarvāṅgasundarā*, 1.1, vs. 1–2: *ko matsariṇi loke ’smin vidvān kiṃcic cikīrṣati / kiṃ tu kaścid bhavet sādhus tato ’yaṃ matpariśramaḥ // śrīmanmṛgāṅkatanayaṣ ṭīkām aṣṭāṅgahṛdayasya / śrīmān aruṇaḥ kurute samyag draṣṭuḥ padārthabodhāya /*
+
+Aruṇadatta’s commentary then dives right into glossing the various parts of Vāgbhaṭṭa’s opening *maṅgala* verse. This begins not with praise of the gods, but by honoring the doctor without precedent (*apūrvavaidyāya namos tu tasmai*).[^1577_1435] When he reaches its subject, the first or incomparable physician, Aruṇadatta speaks of him as a man made of marvels (*āścaryabhūta*)[^1577_1436] who is to be worshipped, for he takes away not only physical diseases such as fever, but the inner diseases of lust and delusion. Indeed, after the opening, Aruṇadatta scarcely mentions himself at all, except in passing. Placing himself in the company of the many learned doctors who came before him, the commentator continues on to talk about the rhetorical structure of the work before venturing to propose that the study of medicine contributes to the quest for liberation. Compare his approach, if you will, with the preface that serves as prelude to Hemādri’s own take on the very same treatise:
+
+[^1577_1435]: Vāgbhaṭṭa, *Aṣṭāṅgahṛdaya* 1.1: *rāgādirogān satatānuṣaktān aśeṣakāyaprasṛtān aśeṣān / autsukyamohāratidāñ jaghāna / yo ‘pūrvavaidyāya namo ’stu tasmai //1.1//*
+[^1577_1436]: Aruṇadatta, *Sarvāṅgasundarā*, 1.1: *taṃ pūjayāmīty arthaḥ /*, Aruṇadatta, *Sarvāṅgasundarā*, 1.1 *ata evāsāv apūrva āścaryabhūto vaidyaḥ /*
+
+> By Hemādri—who has instituted the *Caturvargacintāmaṇi*—for the sake of establishing that bodily “wellness” is a subordinate [but necessary] component of the attainment of vows, philanthropy, and so forth,[^1577_1437] as was stated by him [in the *Caturvargacintāmaṇi*], is composed this easy to grasp commentary on the Āyurveda [work,] the *Aṣṭāṅgahṛdaya*, adhering to the doctrines of Caraka, Hārīta, Suśruta, and so forth. [[P1578]]
+>
+> Commentators such as Haricandra on the *Carakasaṃhitā* and by commentators such as Jaijaṭa on the *Śuśrutasaṃhitā*, have not arrived at the correct conclusions stated here by Hemādri.
+>
+> From fear of them wandering in the country/motivated by the danger of things in the body being out of place, the residents/lingering elements are dispersed by means of affection/sticky stuff or ferocity/heat. Having made the mighty ones/the displaced humors of the body enter all around the interior of the fort/impassable stomach, the enemies that are flaws/bodily imbalances are expelled. [This task is accomplished] by means of maddened elephants/medicinal liquids through the upper and lower path/through induced vomiting and excretion. [Thus], the *rāmarājya* was made firm by Hemādri the physician.
+>
+> Hemādri is his name. He lords over the *śrīkaraṇas* of King Rāma. One might equally say that he is above the instruments that are the six-fold qualities residing in the Supreme Lord himself. . . . On the part of men who are physicians, this commentary of Hemādri’s—the *Resurrection of Āyurveda*— being flawless/without bodily imbalance, is to be attended to, and not any other [work].[^1578_1438]
+
+[^1577_1437]: Aruṇadatta, *Sarvāṅgasundarā*, 1.1
+
+[^1578_1438]: Hemādri, *Āyurvedarasāyana*, commentary on 1.1, vs. 2–6, 8–9: *hemādriṇā caturvargacintāmaṇividhāyinā / taduktavratadānādisiddhyaṅgārogyasiddhaye // kriyate ‘ṣṭāṅgahṛdayasyāyurvedasya sugrahā / ṭīkā carakahārītasuśrutādimatānugā // carake haricandrādyaiḥ suśrute jaijjaṭādbhiḥ / ṭīkākārair na nirṇītam iha hemādriṇoditaṃ / / deśabhraṃśabhayād vicālya layinaḥ snehaiḥ pratāpaiḥ paraṃ pradrāvya prasṛtān praveśya parito durgodaraṃ drāk tataḥ / ūrdhvādhogati nirgamayya madanair dantyādibhir vidviṣo doṣān adraḍhi rāmarājyam agadaṅkāreṇa hemādriṇā // hemādrir nāma rāmasya rājñaḥ śrīkaraṇeṣv adhi / nanūbhau bhagavanniṣṭhaṣāḍguṇyakaraṇeṣv adhi /... / sevyā hemādriṭīkeyam āyurvedarasāyanam / āyurvedātmanāṃ puṃsāṃ nirdoṣatvaṃ hi nānyathā / aṣṭāṅgahṛdayaṃ mukhyam anukte ’ṣṭāṅgasaṃgrahaḥ / tantrāntrāṇi coktāni vaiṣamye vivṛtāni ca //*
+
+As we are beginning to see, while representing the desire for inquiry (*jijñāsā*) as a mere footnote to his own intellectual accomplishments was one of the more egregious examples of our author’s extraordinary hubris, it is entirely in keeping with the peculiar texture that define all of his works. Whereas Aruṇadatta barely talks about himself at all, Hemādri can barely stop talking about himself. Apart from a single opening verse in praise of Viṣṇu, the very first word that appears in the “Resurrection of Āyurveda” is “Hemādri.” Against good sense and syntax, the opening verse in which this word appears not only somehow manages to invoke our illustrious author’s composition of the *Caturvargacintamāṇi* three times, but in doing so, it frames the entire purpose of the already ancient discipline of medicine as an adjunct to his [[P1579]] intellectual project in the *Caturvargacintamāṇi*. Next, we learn that while Hemādri is willing to adhere to the doctrines taught by semi-mythologized long departed sages, figures like Caraka, Hārīta, Suśruta, two of whose treatises quite literally define Ayurvedic practice, he is decidedly less diffident towards the commentators one might erroneously imagine to be his peers. Introducing for the first time the rather withering asides about the stupidity of all other members of the medical profession that are sprinkled throughout the body of his text, Hemādri exclaims that esteemed figures like Haricandra and Jaijaṭa failed to arrive at the correct conclusions. Learned physicians, he seems to be saying—feel free to toss their writings, just read what I have written.
+
+The exceptionally difficult but compelling verse at the center of the passage we have just been examining—in which purging the human body of *doṣic* imbalances is analogized with purging the body politic of unwanted social detritus—does a masterful job of encapsulating some essential dimensions of Hemādri’s intellectual vision. Here too, for one of the first times in Sanskrit discourse, discipline specific abstract and quotidian scholastic endeavors are blatantly wed to the disciplinary workings of the state of the region, treated as complementary facets in the project of constructing the *rāmarājya*—the righteous rule of the *dharma* king.
+
+Through this short passage from “The Resurrection of the Āyurveda,” we have begun to become acclimated to our author’s much larger interpretive project, the theoretical and philosophical dimensions of which we will explore in greater detail in the next section. Much as the emergence of the office of the *śrīkaraṇeśvara* fuses together previously unrelated modes of authority at the macrocosmic level, Hemādri reimagines the Brāhmaṇa ritualist as an all-purpose caretaker and administrator of the internally diverse ritual, medical, social, and moral [[P1580]] well-being of the wider society transcending the boundaries of religious identity and caste. As this chapter aims to demonstrate, though exceptionally familiar to us—for this is what we tend to think of when we think of the place of the Brāhmaṇa in Indian society today—while the individual elements that make up this role have their own antecedents, the coherent articulation of this social identity within the mainstream of *śāstric* discourse in general and Dharmaśāstra in particular, is hardly in evidence before this particular moment in the history of Indic thought.
+
+In fact, when the *Caturvargacintāmaṇi’s* innovations are placed within the context of prior visions of Hindu law, the revolutionary nature of the text’s intellectual and social program becomes emphatically clear. As will become evident in the middle of this chapter when we return to substantiating these claims, well into the twelfth century, Brāhmaṇical Dharmaśāstra had explicitly forbidden Brāhmaṇa ritualist-legalists from overseeing non-Vaidika ritual upon pain of outcasting. Succinctly, as we have seen before, the discourses’ responses to the theology and praxis of the Śaiva age had taken two distinctive forms. In the vast majority of cases, following in the footsteps of the *Yājñavalkyasmṛti*, Dharmaśāstra was accommodationist, without diluting its own principles. As has been demonstrated, through implementing the principle of *vyavasthā*, the differential application of norms, and by recognizing the existence of plural modes of authority, it managed to carry out this project by carving out separately governed—often quite vast—social spaces where a *varṇāśramadharma* ethos was inapplicable. In the dissenting legal tradition, which we encountered a bit at the end of the last chapter, the Śaiva Age was acknowledged by rejecting its legitimacy *in toto*. Primarily comprised of Pūrva Mīmāṃsā laden commentaries on the *Manusmṛti* but also [[P1581]] including Aparārka’s commentary on Yājñavalkya and the *Dānasāgara* of King Ballālasena of Bengal, building upon Kumārila’s arguments in the *Tantravārttika*, this corpus simply denies any validity to the dominant religious paradigms of the early medieval world, thereby prescribing that Brāhmaṇa legalists have no constructive role to play within these religious ecologies. As we have seen, political power among the ruling classes—to say nothing of their *daṇḍanāyaka* enforcers—was overwhelmingly in the hands of extended family networks that contained initiates into the Mantramārga, especially in its more transgressive dimensions. As a practical consequence, despite the radically divergent value systems at work, both of these “Brāhmaṇical” approaches by and large yielded comparable counterintuitive outcomes—namely, the exclusion of the Vaidika Dharmaśāstrin from most of the subcontinent’s religious life.
+
+As we examined a bit in the prior chapter and will soon explore in even greater detail, building upon largely untheorized inclusivist tendencies in Lakṣmīdhara’s *Kṛtyakalpataru*, which simply fold into the realm of Hindu law as supplements to its traditional canon the entire spectrum of Purāṇic praxis as well as substantial elements of the Śākta and Śaiva religious world, Hemādri’s *Caturvargacintāmaṇi* deliberately collapses the esoteric traditions of the early medieval world into the category of the Purāṇas. Then, through selective and emended citations, our text treats the resulting discourse as doctrinally univocal and perfectly in alignment with both traditional Brāhmaṇical canons of knowledge as well as the ethos of the *Bhāgavata Purāṇa*. Rather than polemicizing against and thoroughly rejecting the systems of praxis that made up the Śaiva Age, at the expense of the existing ecclesiastical establishment, Hemādri assigns authority over the management of Śaiva ritual lives, infrastructure building, and sacred geographies to Brāhmaṇa legalist ritualists who are not themselves initiates into the traditions of the Mantramārga. Rendered redundant, the ruling religious powers of the day are then purged from the body politic. As was argued last chapter, to see this [[P1582]] development as a restoration of Brāhmaṇical normativity after many centuries of diminished influence—a return to normal—is a gross misreading of the historical record. For, as Hemādri himself will tell us again and again, in both its method and conceptual framework, Hemādri’s reimagining of Brāhmaṇical knowledge is self-consciously *sui generis*. That we do not instantly recognize the radical nature of this iconoclastic vision is merely a reflection of the stunning decree to which Hemādri left his mark on the pages of the history of Indian religions.
+
+Hemādri’s iconoclasm—carried out in the service of shoring up the position of what will come to be the dehistoricized Brāhmaṇical establishment—is beautifully illustrated by the closing portion of his final work, the *Kaivalyadīpikā*, or “The Illuminator of Enstasy.” This treatise ostensibly offers a commentary on his pupil Bopadeva’s *Muktāphala*—“the Garland of Pearls”— which anthologizes, reframes, and interprets select verses extracted from the *Bhāgavata Purāṇa*. In its own right, the *Muktāphala* fuses together one of the first concrete moments in the reception history of the theology of the *Bhāgavata Purāṇa* with the earliest systematic articulation of the discourse on *bhakti rasa*. It thus offers an exceptionally odd—but important—contribution to the history of early odern Hindu thought in general and north Indian Vaiṣṇavism in particular. While we will turn to a careful reading of the text in its own right, in our concluding chapter, for the moment what concerns us are not matters of devotional theology, poetics, and Advaita Vedānta philosophy, but more circumscribed questions pertaining to form and style. Perhaps even more egregiously than the “*granthakartur praśasti*” he had authored generations early, in almost every aspect, Hemādri’s chosen ending for both the *Muktāphala* and “The Illuminator of Enstasy” flouts the inherited expectations of the proper way to organize a *śāstra* and the conventions of socially acceptable “*aucitya*” poetry. [[P1583]]
+
+After wrapping up its discussion of *bhakti* in the mode of the heroic *rasa*, Bopadeva’s text concludes with sixteen additional verses. Six of these take as their exclusive focus pun-laden praises of Hemādri. Each and every one of them comes coupled with an extensive commentary in which Hemādri offers profuse explications of his own seemingly inexhaustible greatness. The first verse runs as follows:
+
+> *Muktāphala*: Gaze with wonder upon this garland of pearls dredged up by the clever Hemādri through the shipmanship (*vaṇijyā*) [upon the ocean that is the] *Caturvargacintāmaṇi*.[^1583_1439]
+>
+> *Kaivalyadīpikā*: And here, as was stated previously, despite his own [Hemādri’s] authorship, the great minister of the king of the Yadus, Hemādri, has made the petitioned *ācārya* [Bopadeva] declare authorship of it [the *Muktāphala*]. That being the case, even up to the conclusion, he makes him [Bopadeva] relate his [Hemādri’s] fame, saying “by the clever. . . .”[^1583_1440]
+
+[^1583_1439]: Bopadeva, *Muktāphala*, pg. 321: *catureṇa caturvargacintāmaṇivaṇijyayā / hemādriṇārjitaṃ muktāphalaṃ paśyata kautukāt //*
+[^1583_1440]: Hemādri, *Kaivalyadīpikā*, pg. 321: *iha ca svakartṛkatve ’pi yadurājamahāmantriṇā hemādriṇā’ bhyarthita ācāryas tatkartṛkatvaṃ khyāpitavān iti prāg uktaṃ / tad etat paryante ’pi tatkīrtiṃ khyāpayann āha catureṇeti /*
+
+Before we turn to Hemādri’s commentary—or should we say “auto commentary”—on the verse itself, we need to pause and process what we have just learned. On the surface, it seemed that the *Muktāphala* is a work by Bopadeva, Hemādri’s disciple, that opens and closes with extensive verses in praise of Bopadeva’s teacher and his accomplishments.[^1583_1441] Though [[P1584]] the manner of praise is somewhat florid even by such standards, this arrangement would be perfectly in keeping with the normal approach to composing a Sanskrit text in classical, early medieval, and early modern South Asia. The existence of the *Kaivalyadīpikā* in and of itself at all is much less explicable. In South Asia, teachers do not typically compose commentaries on the work of their students. They certainly do not compose commentaries that in length and conceptual sophistication overshadow the root text. And they most definitely do not dedicate substantial portions of these commentaries to discussing themselves. As the sixth-century poetic theorist Bhāmaha, a stickler for traditional propriety, proclaims, “one’s own deeds (*svacaritra*) are to be related by others (*anyaiḥ*) and not by the protagonist (*nāyaka*) himself, for how could a well-born person expound on his own qualities?”[^1584_1442]
+
+[^1583_1441]: Somewhat ironically, in contrast to the sparse documentation attached to Hemādri’s writings, the paratexts associated with Bopadeva’s works incorporate many learned and insightful essays reflecting on his biography and intellectual contributions in various fields. On Bopadeva as a grammarian, responsible for the invention of the immensely popular *Mugdhabodha* tradition of Sanskrit grammar, see Jnanankasekhar Misra, *A Critique of the Mugdhabodha System of Sanskrit Grammar* (Calcutta: Sanskrit Book Depot, 2006), 21–30. On the basis of Misra’s contextualization of the non-Pāṇinian approaches to Sanskrit grammatical pedagogy popular in the early medieval period, a hypothesis presents itself that Bopadeva’s articulation of a new “easy” approach to learning Sanskrit as a grammatical tradition has a sociological and theological dimension. The two alternative systems then in circulation, namely, the Cāndra school of Candragomin and the Saṃkṣiptasāra school of Kramadīśvara respectively, belonged to and encoded Buddhist and Kālamukha values. The largely unstudied tradition of Vādindracakracuḍāmaṇi Kramadīśvara and Goyīcandra provides an introduction to the Sanskrit grammatical traditions that draws its illustrations from the study of verses of *kāvya* by the great poets. It eschews the study of Vedic while at the same time making space for an introduction to a range of Prakrits. In short, it is precisely the sort of grammatical tradition decentering Vedic knowledge that one would expect of learned non-Brāhmaṇas intent on producing polymaths who can defeat Brāhmaṇa *pandits* in debate. Given the nature of Hemādri’s intellectual project, it is unsurprising that his disciple Bopadeva should seek to replace this system with an ideologically more appropriate introduction to Sanskrit grammar. In contrast, the edition of Bopadeva’s father’s *Siddhamantra*, a pharmacological treatise accompanied by Bopadeva’s commentary on his father’s work published along with Bopadeva’s *Hṛdayadīpikānighaṇṭu*, places both works within the tradition of applied Āyurveda and both authors within the traditions of medicine aligned with the *Aṣṭāṅgahṛdaya* in the western Deccan. Here we learn that Bopadeva and his father were from a town in Vidarbha, variously called Vedapada or Devapada depending on the manuscript transmission, situated on the banks of the Varadā river (now called Wardha). Priyavat Sharma, ed., *Vopadeva’s Hṛdayadīpikā Nighaṇṭu and Siddha Mantra of Vaidyācārya Keśvara with the Prakāśa Commentary of Vopadeva* (Varanasi: Chaukhamba Prakshan, 1977). Though not accompanied by any substantial prefaces, mention should also be made of the edition of Bopadeva’s influential pharmacological treatise, the *Śataślokī* with its autocommentary. Vayaskara Mooss, ed., *Śataślokī of Bopadeva*. (Kottayam: Vaidyasarathy Press, 1962). Several works of Dharmaśāstra attributed to Bopadeva, some of which seem to be quoted by subsequent Dharmaśāstrins, remain unpublished.
+[^1584_1442]: Bhamaha, *Kāvyālaṅkāra* 1.29: *anyaiḥ svacaritraṃ tasyāṃ nāyakena tu nocyate / svaguṇāviṣkṛtiṃ kuryād abhijātaḥ kathaḥ janaḥ //* C. Śaṅkara Rāma Śāstri, ed. *Kāvyālaṅkāra of Bhāmaha* (Madras: Sri Balamanorama Press, 1956).
+
+By the time you reach the end of reading through a text by Hemādri, you are likely to have become inured to such stylistic peculiarities. And so, you may not realize that making somebody else pretend they wrote a text that you yourself composed, just so you can write a commentary on the work that provides you with ample opportunity for self-praise, is no one’s idea of normal pretty much anywhere in the history of human discourse. Even more absurdly, in a rhetorical twist that seems like something out of Borges, both the verses and the autocommentary periodically break the fourth wall, for a moment informing the attentive [[P1585]] reader of the ruse that is being played on them, before abruptly returning to maintaining the extended fiction that the author of the root text and the commentary are completely different people. Keeping in mind our text’s rather novel deployment of the author function, we are ready to turn to Hemādri’s exegesis of “Bopadeva’s” verse offered in celebration of Hemādri and his *Caturvargacintāmaṇi*.
+
+> That being the case, even up to the conclusion, he makes him [Bopadeva] relate his [Hemādri’s] fame, saying “by the clever. . .”
+>
+> “By that mercantilism (*vaṇijyayā*) in the great ocean that is the text known as the *Caturvargacintāmaṇi*.”
+>
+> Clever (*caturaṇa*) means that he has learned a distinctive style of the composition of texts. Here is the example: when it comes to shipmanship, having gathered from various countries/locations in texts the accumulated precious objects/favored topics, a man becomes clever in those subjects. In exactly the same way, having assembled quotations that concern the entire teachings on *vrata*, *dāna*, *tīrtha*, *mokṣa*, and so forth from the various *Smṛtis*, *Itihāsas*, *Purāṇas*, etc., he [Hemādri] has achieved skill in the composition of texts.
+>
+> Then, by that very same delineation, having assembled various verses from the various *skandhas* of the *Bhāgavata Purāṇa* that are concerned with the teaching of the fourfold objects that are Viṣṇu and so forth, he [Hemādri] has made this *prakaraṇa* text called the *Muktāphala*. And one should see this out of wonder. The remainder is: Hey, O astonished ones! The sense is: when this is perceived, you will attain all pleasures/forms of prosperity.
+>
+> Otherwise, [the verse is to be glossed]: by that shipmanship/being a merchant, i.e., the condition of buying and selling of those gems (*maṇi*) that are examined with *cintā*, or discrimination; of those gems, accumulated from the luster of [various] countries/regions, are the classes of the four colors of gems/*varṇas* and so forth. Clever means skillful.
+>
+> [In this interpretation the meaning would be:] By Hemādri, the wealthy merchant, these pearls that are the *Muktāphala* are accumulated.[^1585_1443]
+
+[^1585_1443]: Hemādri, *Kaivalyadīpikā*, pg. 321: *tad etat paryante ’pi tatkīrtiṃ khyāpayann āha catureṇeti / caturvargacintāmaṇyākhyagranthamahodadher vaṇijyā tayā / catureṇa viditagrantharacanārītiviśeṣaṇa / yathā hi vaṇijyāyāṃ tattaddeśebhyas tāni tāni priyavastūny āhṛtya pumān tattadviṣaye caturo bhavati / tathaitena tattatsmṛtītihāsapurāṇādibhyas tāni niḥśeṣavratadānatīrthamokṣādipratipādanaparāṇi vākyāny āhṛtya grantharacanāyāḥ kauśalam āsāditam / tatas tayaiva rekhayā bhāgavatasya tattatskhandhebhyas tāni tāni viṣṇavādivastucatuṣṭayapratipādanaparāṇi padyāny āhṛtya muktāphalākhyaṃ prakaraṇaṃ kṛtam / tad etat kautukāt paśyata / he kutūhalinaḥ iti śeṣaḥ / asmin vilokite sakalakautukaṃ vāpsyatheti bhāvaḥ / anyatra / caturṇāṃ varṇādīnāṃ vargāḥ deśacchāyāsamūhāṃ teṣāṃ cintā parīkṣā tayopalakṣitā maṇayo ratnāni teṣāṃ vaṇijyā krayavikrayasthitiḥ tayā / catureṇa nipuṇena / hemādriṇā bahusuvarṇena vaṇijā arjitaṃ muktāphalaṃ mauktikāni /*
+
+It is worth our time for a moment to attend to the texture of the text. Hemādri’s verse is conceptually interesting. It makes use of an uncommon theme and attempts, as much of his poetry will do, to construct a *śleṣa* verse that deliberately yields two discrete interpretations. At the same time, there is a strong case to made that from the perspective of the conventions of classical Sanskrit poetics, this is, objectively speaking, very bad poetry. We can say this for two reasons. The first is basically formal. Properly formed, *śleṣas* are supposed to result in two equally grammatically and syntactically sound readings of a verse. Here in contrast, unless you treat the compounded phrase “*caturvargacintāmaṇivaṇijyayā*” as containing a completely elided but essential term, some notion of the ocean—the initial interpretation of the verse makes no sense at all either semantically or syntactically. Indeed, this odd formation almost entirely serves the purpose of making possible the in many ways much more natural secondary reading of the text, where the proper title of Hemādri’s text is subdivided up into its discrete components—such that we have Hemādri, the clever merchant examining with care (*cintā*) gems (*maṇi*) from the four classes (*caturvarga*), and he has dredged up (*arjita*) pearls (*muktāphala*). In the hands of a better poet, the two interpretations of the verse would be more equally executed in a manner that better aligns with the demands of syntax. Even if we let this stylistic *faux pas* slide, whether we view the shipmanship of Hemādri as enabling him to set sail upon either a magic gem or upon a voluminous work of Dharmaśāstra, we are still left with a rather awkward mixed metaphor of the sort that Sanskrit literary critics abhor.
+
+The other reason why this verse would be almost certainly have been condemned as a quintessential example of bad or inappropriate poetry (*kukāvya*) within virtually any *sabhā* [[P1587]] dedicated to the formal study of Sanskrit poetics (*Alaṃkāraśāstra*) is that it violates the cultural propriety of its day. Here it is important to remember that within courtly cultures, Sanskrit poetry is less a matter of “self-expression” than it is a vehicle for producing artisanal objects fit for critical evaluation. Just as was the case with philosophical debate, once it is completed, poetry is intended to be presented in public to be praised or picked to pieces by the learned assembly. While inspiration and the power to evoke strong emotions are certainly considered noteworthy, the appraising of poetry is largely a matter of properly identifying the qualities (*guṇa*) and flaws (*doṣa*) of a particular work.
+
+Some schools of thought (Rājaśekhara for example is particularly generous) make allowances for captivating and sophisticated verses that occasionally transgress the inherited canon of literary norms. However, by and large, the discourse on poetics, particularly the increasingly dominant Kashmiri tradition, demands that in both its form and content verse must align with the conventions of the poets (*kavisamaya*). Just as sculptors and architects have their own in-community guild secrets, not readily shared with non-initiates, the conventions of the poets present themselves as a body of less than obvious in-house regulations governing how a literary work must be constructed. Much of this canon associates specific topics and imagery with particular emotional moods or correlates types of subjects and agents with the proper tropes and poetic imagery. For the Kashmiri tradition, which comes to dominate the history of poetics, both sets of concerns are seen as encapsulated in the discourse on literary propriety (*aucitya*). Now, when it comes to questions pertaining to the analysis of the *bhāvas*, *vibhavas*, and *sthayibhāvas*, especially as it pertains to dramaturgy, propriety (*aucitya*) is treated [[P1588]] comprehensively and explicitly in the surviving literature on poetic theory. Indeed, as we shall see in the next chapter, Hemādri’s writings cite liberally from across the spectrum of this discourse, drawing on the writings of Mammaṭa, Bhoja, Abhinavagupta, and, especially, Dhanañjaya and his brother Dhanika. Indeed, the second half of the *Muktāphala* and *Kaivalyadīpikā* are dedicated almost exclusively to offering an exhaustive exploration of the relevance of these canons for reconceptualizing the discourse on devotion in the technical language of Sanskrit poetics. In contrast, when it comes to questions of mastering the canon of poetic conventions in the service of understanding the appropriateness of deploying poetic techniques in specific contexts or assigning imagery to specific subjects, while the texts on poetics discuss the operative principles relatively clearly, they view the actual taxonomies *in toto* of appropriate and inappropriate associations as the sort of thing a poet needs to learn from his teacher. For this reason, the canon is not presented within the *śāstras*. However, when a commentator particularly invested in understanding what makes poetry “bad” turns to dismantling a sample verse at some length, invoking the maxims of practicing poets, as Mahimabhaṭṭa will do in his exploration of the nature of the poetic flaws in the second chapter of the *Vyaktiviveka*, we can glean something of the rich and intricate nature of this largely unwritten discourse as well as the impossibility of an outsider to it simply inferring the myriad of rules that govern the game.
+
+For those who believed that one of the main purposes of good poetry is to model the way that the world ought to be—by teaching people to act like Rāma and not like Rāvaṇa, and through assigning everything in the three worlds to its proper place—following these poetic conventions is no mere matter of displaying good taste, but an ethical imperative. Conversely, depicting in verse a non-idealized world full of inappropriate associations represents a massive moral failing. Because the rules governing literary practice have been imagined as comprised [[P1589]] of both entextualized and unentextualized standards, any outsider, however learned and brilliant, who inserted themselves into these discourses without undergoing the proper socialization would inevitably run afoul of breaking the hidden rules. They would therefore be deemed a bad poet, which is to say, a bad person. And just like, to use the canonical example, comparing the burly arm of Balarāma with the soft petals of a lotus is “*anaucitya*,” because Balarāma by his very nature must be depicted as hard and ripped and a lotus has neither of these traits, habitually homologizing a Brāhmaṇa with a merchant and the making of *śāstra* with mercantile activities would have represented an appalling breach of etiquette from the perspective of the *literati*. Because these are domains that operate at different levels of excellence according to divergent principles, and *kāvya* is supposed to present us with idealized representations of social forms and not the messy realities of the real world, equating Brāhmaṇa and merchant represents nothing less than a breach in the moral order. It’s the sort of thing that only an auteur—and not a properly “educated” member of the community in good standing—would even dream of doing.
+
+While in the absence of independent sources of documentary evidence, we can only engage in informed speculation, the irregularities in expression of the sort we have just been exploring found throughout all of Hemādri’s writings themselves offer a substantial body of circumstantial evidence suggesting, as we have suggested before, that our author champions a Brāhmaṇical order into which he himself is only partially and unevenly acculturated. To put things another way, for all his literary aspirations, the new world that Hemādri envisions is not a restoration of the logic that animated what Sheldon Pollock has called the Sanskrit cosmopolis but a replacement for it. In lieu of secret elitist conventions, Hemādri advocates universalized standards. In place of cultivated etiquette, Hemādri preaches values. And it is in [[P1590]] this spirit, having just told the reader “drop what you are doing and read Hemādri’s books,” that the *Caturvargacintāmaṇi* prepares us for its new *dharma* discourse.
+
+## Universalizing Hindu Dharma
+
+> Now, in order to remove the doubt (*śaṅkā*) of a world deprived of light, He, of exalted intellect, lays out the *Caturvargacintāmaṇi*.[^1590_1444]
+>
+> That wish-fulfilling gem of unmeasurable virtue, which previously Mount Mandara churned forth from the ocean, generally grants much wealth/meaning (*artha*) from petitioning it. Now, having examined the ocean of all the *Smṛtis*, Vedas, *Purāṇas*, and *Itihāsas*, Hemādri, in rivalry, makes manifest the *Caturvargacintāmaṇi*.
+>
+> Having examined this very *Cintāmaṇi*, which restrains the blind darkness at a distance (*rudhānam andhāni tamāṃsi dūre*), for the sake of fulfilling desires, may good people not put forth exertion elsewhere!
+>
+> May this very *Cintāmaṇi*, when revered with a mind fixed on nothing else, endow you always with the arts (*kalā*) you have not beheld without remainder.
+>
+> The chapters in this [work] are in order, the *Vrata*, *Dāna*, *Tīrtha* and *Mokṣa*. What is fifth is the remainder (*pariśeṣa*) division (*khaṇḍa*), where *dharma* shines undivided (*akhaṇḍita*).
+
+[^1590_1444]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa* 1.12–16, pg. 3: *sa samprati nirālokalokaśaṅkāpanuttaye / vidadhāti caturvargacintāmaṇim udāradhīḥ // yaṃ pūrvaṃ cārucintāmaṇim amitagunaṃ mandarādriḥ samudram nirmathya prāyaśo ‘yaṃ vitarati bahuśaḥ prārthanād artham eva / sampraty ālocya sarvasmṛtinigamapurāṇetihāsāmburāśīn hemādriḥ sparddhayaiva prakaṭayati caturvargacintāmaṇim saḥ // rundhānam andhāni tamāṃsi dūre vicintya cintāmaṇim etam eva / manorathānāṃ paripūraṇāya nānyatra santaḥ śramam ācarantu // ananyamanasā so ‘yaṃ cintāmaṇir upāsitaḥ / vidadhātu sadā‘śeṣam anīṣitakalāni vaḥ // khaṇḍāni cāsmin vratadānatīrthamokṣābhidhāni kramaśo bhavanti / yat pañcamaṃ tat pariśeṣakhaṇḍam akhaṇḍito yatra vibhāti dharmaḥ //*
+
+Before introducing us to the formal and conceptual structure of his text, Hemādri pauses to homologize his *dharmanibandha* to the wish-fulfilling gem that came forth from the depths of the ocean of milk when it was churned by the gods and the demons. This narrative is alluded to so frequently in the text, almost always as part of an extended metaphor, that it is worth taking seriously what such a rhetorical choice implies. During the churning of the ocean (*samudramanthana*), the ocean gods and the *dānavas*, working together, entwined the Nāga [[P1591]] king Vāsuki, as if he were a rope, around the Mandara mountain. Plunging the mountain into the ocean of milk, they used this impromptu and unlikely contraption as a churning rod, with the aim of bringing forth the nectar of immortality for which the gods and demons alike yearned. In some variants of the story—though interestingly enough, not the *Bhāgavata’s* telling—the nectar was proceeded by the wish-fulfilling cow, called Kāmadhenu or Surabhi, the wish-fulfilling tree, or Kalpataru, the wish-fulfilling gem (*cintāmaṇi*), and then, at long last, Śrī bearing the pot of nectar. It is thus certainly no accident that this precise sequence matches in both name and order of appearance the earliest works of *dharmanibandha* known to Hemādri’s predecessor Lakṣmīdhara, whose own *Kṛtyakalpataru’s* predecessors in turn were called the great ocean (*Mahārṇava*) and Kāmadhenu. Quite unlike Lakṣmīdhara, however, who merely used this trope to carve out a place for himself in the discourse, in calling his text the *Cintāmaṇi*, Hemādri has positioned himself rhetorically as the culmination of an emergent tradition.
+
+With the appearance of the *Caturvargacintāmaṇi*, which fills in all the gaps in what came before, there is no need for good people to ever put forth exertion “elsewhere.” Like the *Bhāgavata* itself,[^1591_1445] our *nibandha* is both final “revelation,” at least of a secular sort, as well as a comprehensive self-illuminating *śāstra*. For above all else, by its own inherent power, what this text does is illumine the existing darkness that pervades the early medieval Deccan. With this new guiding light, which, against the pretenses of the Kaula *niḥśaṅkāvāda* is what really removes doubt, we can differentiate the light from the dark, the right from the wrong, the pure from the impure. But more than that, with the *Caturvargacintāmaṇi* as their guide, [[P1592]] “good people”—in other words, the right sort of upright Brāhmaṇas—can contribute to the greater project of restraining blind darkness, and those who embody it, at a distance. Furthermore, our author hints, the text also provides this audience—once again, the Brāhmaṇa Dharmaśāstrin—with access to modes of community-specific artisanal knowledge.
+
+[^1591_1445]: See for example Barbara Holdrege’s discussion of the *Bhāgavata* as *Kārṣṇa Veda*. Barbara A. Holdrege, *Bhakti and Embodiment: Fashioning Divine Bodies and Devotional Bodies in Kṛṣṇa Bhakti* (New York: Routledge, 2015).
+
+As we have seen in the previous chapter, with this vision in mind, the text now tells us how it is organized, namely, into four divisions. Of these, two survive mostly intact, a third is available in part, and the fourth, and for Hemādri the most important, thus far seems lost forever. Finally, our author tells us, there is also an appendix, the *Pariśeṣa* division. Here, as he states enigmatically, “*dharma* shines undivided.” We have just seen that under the surface these seemingly simple verses all are subtly indicative of key facets of the *Caturvargacintāmaṇi’s* overall interpretive project. Still, calling *dharma* “undivided” is usually a mere truism, if not simply metrical filler. What precisely might Hemādri be getting at he when invokes an *akhaṇḍitadharma*? To understand that, we have to first grasp his idiosyncratic and very specific redefinition of the *dharma* discourses.
+
+Hemādri writes:
+
+> *Dharma* is victorious, the sole cause of victory, of which they exemplify six types, due to its union with many intermediary particulars, among which there are also many others [subcategories.] Even the Lord of Speech is not capable of proclaiming the entirety of its divisions. Even the *Mahānubhāva* sages teach one portion of it in [their] *śāstra*.[^1592_1446]
+>
+> Therefore, wise Hemādri, here, in his own *śāstra*, speaks the particular *dharma* [called] the universal *dharma*, distinguished by the desire or non-desire for fruit, which they traditionally hold to be obligatory (*nitya*) and optional (*kāmya*).
+
+[^1592_1446]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, 1.17–19, pg. 4: *dharmo jayaty abhyudayaikahetur yasya prakārān ṣaḍ uhāharanti / avāntarānekaviśeṣayogād anye ’pi yasmin bahavo bhavanti // amuṣya bhedān akhilān pravaktuṃ vācaspater apy asamarthabhāvaḥ / mahānubhāvā munayo ‘pi śāstre tad ekadeśaṃ pratipādayanti // teneha hemādrisudhīḥ svaśāstre sādhāraṇaṃ dharmaviśeṣam āha / phalābhilāṣānabhilāṣabhedāt kāmyaṃ ca nityaṃ ca yam āmananti //*
+
+In just these few verses, by drawing new connections and dissolving old boundaries, Hemādri deliberately upends almost the entirety of the scholastic conversation about what constitutes *dharma*. Just like it was in Gautama, *dharma* is singular, but there is no mention of the Veda. It is that single and comprehensive *dharma* that is sub speciated into six distinctive modes, each of which has its own subcategories. Unlike the highly restricted canon proposed by someone like Aparārka, where everything beyond the designated sources and topics is forbidden to the Dharmaśāstrin or indeed any righteous person, Hemādri leaves open a space for the seemingly subordinate inclusion of new topics, practices, and concerns, provided they can be aligned with his guiding framework. It is for this reason that he says that even the god of speech himself could not tackle the whole subject.
+
+By far the most radical assertion—entirely without precedent—however, is what comes next. Hemādri affirms that when he will speak of *dharma*, he is discussing the same problematic that the *Mahānubhāva* sages teach in their own *śāstras*. This is perhaps the first time (at least outside of Tamil Nadu and some Krama teachers of Kashmir) that a wholly vernacular religious tradition, writing and teaching almost exclusively in Old Marathi, is being openly acknowledged as producing not merely legitimate knowledge of some sort, but precisely the same sort of religious discourse that one finds in Brāhmaṇical *śāstra*. Hemādri acknowledges that Mahānubhāvika *dharma*—one might even call it religion—is the same type of phenomena as the *dharma* he teaches and tackles many of the same topics. This evaluation is rendered all the more extraordinary when we recognize that within the decade, at least according to some recensions of the *Līḷācaritra*, at the council at Devgiri, Hemādri will try the Mahānubhāvika living god Cakradhar for highly particular violations of *dharma*, and have him [[P1594]] maimed or executed.[^1594_1447] Though the matter will have to be addressed in detail in another venue, at least as this trial as depicted in our surviving Mahānubhāvika sources, the very manner in which Cakradhar is taken to trial, namely, not because he is charged with practicing a deviant mode of conduct (*ācāra*) that has to be suppressed, but instead for a single violation of *dharma* norms,[^1594_1448] presupposes the acceptance of the Mahānubhāvikas as participants within a shared paradigm of religion and values. The paradigm in question is none other than the express topic of the *Caturvargacintāmaṇi* itself: the universal or common *dharma*.
+
+[^1594_1447]: On Kolte’s determinations about the textual history of this *līlā* in the *Līḷācaritra* corpus, see Christian Novetzke, *The Quotidian Revolution* (New York: Columbia University Press, 2016), 331, ftn. 45–51. For a masterful treatment of this whole episode of the trial of Cakradhar, see Novetzke, *The Quotidian Revolution*, 201– 210.
+[^1594_1448]: Novetzke understand this episode as primarily concerning an accusation levelled against Cakradhar alleging that he has been “attracting a range of high-class women as his devotees, including, purportedly, the wife of Hemādri.” The violation, as Novetzke understands it, is essentially that he is accepting female disciples. As Novetzke (2016, pg. 206) writes: “The verb used for ‘attracted,’ *vedhaṇe*, primarily implies pious or spiritual devotion rather than sexual attraction; the word suggests a person deeply affected by the presence of another person. Demati, for example, was attracted to Chakradhar in just this way, and there is no hint in the text that there is a sexual attraction. Thus this does not seem to be an accusation of sexual impropriety, but rather an accusation that he attracts women to his order, and indeed many of his key and closest followers are women.” While Novetzke’s analysis is accurate as far as it goes, his interpretation misses the semantically charged nature of *vedhaṇe*—literally, “piercing”—as evocative quite specifically of high-level initiatory practices within non- dual Śākta Kaula traditions as well as the very specific theological meaning, heavily indebted to the tradition of the Trika, of this practice in Mahānubhāvika sources. We will explore these matters, and their implications for understanding Hemādri’s own theological project, in the concluding portions of the next chapter.
+
+> Now, which are these six types of *dharma* and which one of those will we teach in this *śāstra*? Thus, it is said [we will teach] the particular type of *dharma* known of as *sādhāraṇa dharma*.[^1594_1449]
+>
+> In conformity with *dharma*, in the *Bhaviṣyat Purāṇa* [it is stated]: There is remembered to be 1) a single *varṇadharma*. In addition to that, [there is the *dharma* of] 2) *āśramas*, but 3) *varṇāśrama dharma* is the third. Furthermore, the occasional *dharma* is a secondary usage [and not one of the six species of *dharma*].
+>
+> That *dharma* that operates by having recourse to a unitary class identity, that is said to be *varṇadharma*, O king, as in the case of the *upanayana*.
+>
+> That *dharma* that operates by having recourse to the stages of life is indeed *āśramadharma*: begging for alms, the walking stick, and the like.
+>
+> That *dharma* that operates in reference to one’s *varṇa* and *āśrama* status [[P1595]] Is the *dharma* of *varṇa* and *āśrama*, as in the case of the *mauñjī* belt.
+>
+> That *dharma* that operates through the qualities is called 4) *guṇadharma*, as in the case of the protecting of the people on the part of one who has had the royal unction. That *dharma* that operates on the basis of a single [causal factor] is known as 5) occasional/circumstantial (*nimittika*), as for instance the injunction concerning expiation.[^1595_1450]
+
+[^1594_1449]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, pg. 4: *atha ke te dharmasya ṣaṭprakārāḥ katamaṃ cāsāv asmin śāstre pratipādayiṣyamāṇaḥ sādhāraṇākhyo dharmaviśeṣa ity ucyate /*
+[^1595_1450]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, pg. 4–5: *tatra dharma ity anuvṛattau bhaviṣyatpurāṇe— varṇadharmaḥ smṛtas tv eka āśramāṇām ataḥ param / varṇāśramas tṛtīyas tu gauṇī naimittikas tathā // varṇatvam ekam āśritya yo dharmaḥ sampravarttate / varṇadharmaḥ sa uktas tu yathopanayanaṃ nṛpa // āśramaṃ ca samāśritya yo dharmaḥ sampravratte / sa khalv āśramadharmas tu bhikṣādaṇḍādiko yathā // varṇatvam āśrayamatvaṃ ca yo ‘dhikṛtya pravarttate / sa varṇāśramadharmas tu syān mauñjīmekhalā yathā // yo guṇena pravartteta guṇadharmaḥ sa ucyate / yathā mūrddhābhiṣiktasya prajānāṃ paripālanam // nimittam ekam āśritya yo dharmaḥ sampravarttate / naimiittikaḥ sa vijñyeyaḥ prāyaścittavidhir yathā //*
+
+As Hemādri explains in his commentary on these verses, the reason we need to subdivide *dharma* modalities into six categories, all of which taken together amount to a unitary *dharma* discourse, is that in each of them we are specifying the governing causal factor. This is why we need three separate categories for *varṇadharma*, *āśramadharma*, and then again, *varṇāśramadharma*, because in the first case, we are talking only about domains where a single caste identity’s strictures are relevant and in the second, we are talking about instances where only the rules for the stage of life are relevant. It is only in the last case, our familiar notion of *varṇāśramadharma*, which is hardly being equated with Dharmaśāstra let alone *dharma* discourse *in toto*, that conduct is conditioned by both class and stage of life. In other words, this is far cry from the reification of *varṇāśramadharma* we have presumed animates “Brāhmaṇical” discourse.
+
+The fourth case is even more interesting, for it again conflicts with our general presuppositions about the sort of social and ideological program a Brāhmaṇical “restoration” would be advocating. The so-called “*guṇadharma*,” which again must be completely logically distinct from *varṇāśramadharma* or any of its components, apparently refers to those *dharmas* and their required modes of comportment that are “acquired” and retained as qualities by an [[P1596]] agent. And, just as *upanayana* must be a classified as a *varṇadharma*, because how it is to be conducted is determined according to the *varṇa* of the one receiving the sacred thread, with different ages and material objects being specified for each class, so too does the *guṇadharma* receive its own illustratory example. What we learn is that the *guṇadharma* “protecting the people,” the role of kings and other big men in the Dharmaśāstra, has as its cause the receiving of a royal unction. As this framework makes explicit, it is not conditioned by *varṇa*, otherwise we would expect the text to posit a *varṇaguṇadharma* in the exact same way it specified a *varṇāśramadharma*. In other words, unlike in our normative presentation of a *varṇāśramadharma* centered worldview, Hemādri and his sources do not seem to think that being a Kṣatriya is logically related in any way to being a king.
+
+The final, explicitly labelled modality, “occasional or circumstantial *dharmas*,” need not detain us here, though it is worth noting that Hemādri’s definition in his commentary does indeed provide us with further indications that the printed *Prāyaścittakhaṇḍa*, nowhere even alluded to in the rest of *Caturvargacintāmaṇi*, is not by his hand, for it teaches a divergent model. What is more important is that, at least in the text as supplied by Hemādri, if you have been keeping count, the *Bhaviṣyat Purāṇa* has only listed five of its six modalities of *dharma*. Conspicuously missing is precisely the topic in which Hemādri is most invested, namely, the *sādhāraṇa* or *sāmānya dharma*. This is the actual domain where the *Caturvargacintāmaṇi* seeks to establish itself as indispensable. The omission is so unexpected that it is strongly suggestive that the *Bhaviṣyat Purāṇa* itself either specifies a different sixth category of *dharma* entirely or said something Hemādri did not agree with on the subject. In any case, by turning to another resource, namely, the *Mahābhārata*, Hemādri is able to steer the conversation in his preferred direction. [[P1597]]
+
+> But in the *Mahābhārata*, 6) *sādhāraṇadharma* [is discussed]:
+>
+> The ritual of *śrāddha*, *tapas*, truth, non-anger, being content with one’s own wife, purity, being constantly without envy, knowledge of the self, and patience, O king, these are *sādhāraṇa dharmas*.[^1597_1451]
+>
+> H: What is not stated and needs to be supplied is that these apply to all four *varṇas*.[^1597_1452]
+
+[^1597_1451]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, pg. 6: *sādhāraṇadharmas tu mahābhārate— śrāddhakarma tapaś caiva satyam akrodha eva ca / sveṣu dāreṣu santoṣaḥ śaucaṃ nityānasūyitā // ātmajñānaṃ titikṣā ca dharmaḥ sādhāraṇo nṛpa/*
+[^1597_1452]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, pg. 6: *cāturvarṇyasyeti śeṣaḥ /*
+
+As James Fitzgerald has rather kindly pointed out, this passage, while not an interpolation *per se*, occupies a somewhat marginal position within the *Śāntiparvan*. There it emerges in the context of a teaching given to Yudhiṣṭhira taken from the song of the sage Parāśara as it was related to King Janaka.[^1597_1453] The teachings on *sādhāraṇa dharma* make up only the tiniest fraction even of this discourse. Janaka requests from Parāśara instruction in what is essentially proto-Dharmaśāstra, a discourse that contains many eccentric elements. The sage responds by retelling the *puruṣasūkta’s* account of the creation of the *varṇas*. This he supplements with a Manu-esque account of the generation of what we called *jātis* from *varṇa* mixing. He also offers an odd explanation of the origin of *gotras* among Brāhmaṇas, subdividing them into the four foundational groupings of Aṅgiras, Kaśyapa, Vaśiṣṭha, and Bhṛgu on the one hand, and those *gotras* that arose because of the deeds of different sages on the other. Janaka is then taught the specific duties of the *varṇas*, pretty much verbatim from Āpastamba. It is only after this that, of his own accord, Parāśara mentions the existence of the common or universal *dharmas* that apply to all *varṇas*. The major focus of the text, however, is in exploring how and why twice-borns decline in status from undertaking the wrong sorts of activities. At the same time, the text also clarifies that, though Śūdras do not obtain merit from [[P1598]] following Vedic injunctions (which are expressly forbidden to them), this does not mean they do not obtain merit at all. After dispensing with an apparently rival theory that suggested that Śūdras were actually created by a whole different deity called Ka, Parāśara proclaims that Śūdras, like everything else in the universe, were created by Viṣṇu. In what is essentially a pretty pro-Śūdra stance for a work of aspirational early Dharmaśāstra, Parāśara informs Janaka that Śūdras who maintain their purity and do pious (but not Vedic) deeds, like anyone else, reside happily in this world and ascend to the next one.
+
+[^1597_1453]: Personal communication, AOS 2016. The translations and analysis here draw upon selections from Fitzgerald’s forthcoming study and translation of the Mokṣadharma division of the Śāntiparvan, which he has shared with me.
+
+Since Janaka is apparently confused with how this stance can reconciled with the idea that Śūdras are born in a degraded status, Parāśara offers further clarification. There are two ways that a person can stain themselves, namely, through foul deeds or by birth. The former is a much more heinous transgression than the latter. Indeed, Parāśara proclaims, with real admiration, that “he who is defiled by birth,” in other words a Śūdra, “but does not do evil deeds is truly a man.” Prefiguring Yudhiṣṭhira’s own commitments, Janaka now asks about the virtues of *ahiṃsā* and non-cruelty and how they fit into this schema, at which point Parāśara seems to advocate for a fireless form of asceticism animated by ethical virtues and austerities. The discourse concludes with the following words, here provided in Fitzgerald’s translation:
+
+> King, all the social Orders, having performed all the obligations of the Good Law perfectly, and having spoken nothing but true statements and having abandoned all non-Lawful actions that are cruel toward living beings, go to heaven. You need not ponder this.[^1598_1454]
+
+[^1598_1454]: James Fitzgerald, forthcoming.
+
+The message, in other words, is clear. There is such a thing as a universal ethical *dharma* that applies to all human beings, or at least everyone within the *varṇa* domain. When it is adhered to (and this includes an embrace of noncruelty), living beings of all sorts go to heaven, a reward that even this early may well be conceptually distinct from liberation as such. [[P1599]] But, as the sage is equally clear in communicating, “you need not ponder this.” In other words, this doctrine of the *sādhāraṇadharmas* is not the sort of thing exalted people like us focus on or write about.
+
+Subsequent discourses heard this message loud and clear. While not unknown in the earlier *dharma* literature, *sādhāraṇa* or *sāmānya dharma*—the two are used interchangeably—typically refers to a bare minimum baseline of shared human values upon which one can construct a particularized vision of various human *dharmas* inflected on the basis of caste and class. For almost all of *śāstra*, up until the *CVC*, it is a marginal topic whose self-evident contents demands no further explication. In fact, in practice, the concept often serves as a rationale for holding those who fall outside of the caste system culpable for crimes they have committed, as for example in the ninth-century *Āgamaprāmāṇya* of the proto-Śrīvaiṣṇava theologian Yāmunācārya.
+
+> The first option cannot be accepted, because the reason is unfounded. For, there is no one among men who is not eligible in certain cases for a Śrauta practice—because, a human being as such is already eligible for nonviolence, etc. For, otherwise, Caṇḍālas and the like who are engaging in Brāhmaṇa killing, appropriating their money, intercourse with women of caste, studying the Vedas, etc., could not be defiled, because they would not be the eligible agents with regard to these [offenses]. When a certain person ought not to do a certain thing, their doing so results in sin. Thus, the reason [in the syllogism]—that there exists on the part of everyone eligibility for this sort of Vedic practice—is unfounded, and the example has a defective reason.[^1599_1455]
+
+[^1599_1455]: Yāmunācārya, *Āgamaprāmāṇya*, pg. 138–139: *na tāvad agrimaḥ kalpaḥ kalpate hetvasiddhitaḥ / na hi so ‘sti manuṣyeṣu yaḥ śraute kvāpi karmaṇi nādhikuryād, ahiṃsādau nṛmātrasyādhikāraḥ / anyathā hi brāhmaṇahanana- taddhanāpaharaṇa-varṇāṅganāsaṅgama-vedādhyayanādi kurvāṇāś caṇḍālādayo na duṣyeyuḥ, tadanadhikāritvād / yasya hi yan na kartavyaṃ tasya hi tatkaraṇaṃ pratyavāyāya, ataḥ sarveṣām īdṛśavaidikarmaṇi adhikāro vidyata evity asiddho hetuḥ, sādhanavikalaś ca dṛṣṭāntaḥ /*
+
+Even closer to our period, in the *Brahmacārikāṇḍa* division that opens the twelfth-century *Kṛtyakalpataru*,[^1599_1456] using many of the same citations Hemādri will deploy, [[P1600]] Lakṣmīdhara outlines the universal *dharmas* without even glossing the term or offering any commentary. Succinctly, the *Caturvargacintāmaṇi* takes this tertiary topic and expounds upon it exclusively for thousands of pages. This in of itself represents a radical innovation that breaks from the norms of the *dharma* knowledge system.
+
+[^1599_1456]: K. V. Aiyangar, ed. *Kṛtyakalpataru: Brahmacārikāṇḍa*, pg. 10–12.
+
+As should soon become apparent, however, Hemādri is invested in theorizing the common *dharma* for much loftier reasons. Quite simply, envisioning an alternative mode of *adhikāra* defined by ethical excellence instead of birthright, on the grounds that the cultivation of virtues and personal purity are actionable by all four castes, he effectively incorporates the concerns and commitments of non-twice-borns within a big-tent Brāhmaṇism. By expanding the definition of the *sāmānya dharma* so as to incorporate not just the bare minimum standard of moral behavior, but the particular lofty virtues typically associated with Brāhmaṇa-hood, Hemādri gradually develops a rationale for claiming that even Śūdras and women, so long as they act with absolute detachment, can potentially obtain the same soteriological ends as a *pakka* Vaidika Brāhmaṇa, even if they must acquire them through different means. As we might expect, the alternative modalities prescribed are none other than *vrata*, *dāna*, *tīrthayātrā* and worshipping the deities in *mūrtis* and temples, the very topics which our text sets out to decisively incorporate as integral to both the practice of *dharma* and the discipline of Dharmaśāstra. The catch, of course, is that the ability and requirement that non twice-borns can participate alongside Brāhmaṇas in a shared religious system comes at the expense of a loss of agency and sovereignty. In all matters with worldly implications, the Brāhmaṇas will always be in charge.
+
+The *Mahābhārata’s* list of the *sādhāraṇadharmas*—*śrāddha* ritual, austerity, truth, non-anger, being content with one’s own wife, purity, being constantly without envy, *ātmajñāna* and patience—which Hemādri will soon refine and expand, is on the surface an [[P1601]] imperfect platform for his agenda.[^1601_1457] Though he never acknowledges this fact, the first of its elements directly conflicts with our author’s own theorization of *śrāddha*. In a similar manner, the explicit mention of behavior towards a wife—in place of sexual continence in the abstract, for example—undercuts the “universality” of the practice by effectively excluding all forms of professional ascetics. Furthermore, as we are about to see, in offering only a single category of “austerity,” which it calls *tapas*, the text does not even provide the resources Hemādri’s *Vratakhaṇḍa* needs to justify the inclusion of the array of practices, beginning with *vrata*, that the *Caturvargacintāmaṇi* will teach—nearly none of which appears in this passage—as encompassing the *sādhāraṇa dharmas*. Besides the authoritativeness of the *Mahābhārata* itself, the most likely reason this particular text has been selected is that it rather atypically includes *ātmajñāna*—what Hemādri understands as knowledge of the self-acquired through Vedāntic style inquiry—within the universal *dharma*. Though it is difficult to understand this topic with any real specificity, as, but for the passage we are about to explore, the entire portion of the text which it makes possible, the *Mokṣakhaṇḍa*, is now lost, this move was fundamental to our author’s interpretive project. In any case, to alleviate such limitations, in his usual fashion, Hemādri directs us to read the text through the lens provided by a passage from a work of *Smṛti*, as taught by the sage Devala, in which the actual term *vrata* is prominently featured.
+
+[^1601_1457]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, pg. 6: *śrāddhakarmatapaś caiva satyam akrodha eva ca / sveṣu dāreṣu santoṣaḥ śaucaṃ nityānasūyitā // ātmajñānaṃ titikṣā ca dharmaḥ sādhāraṇo nṛpa /*
+
+> H: *Tapas* means the *cāndrāyaṇa* fast and so forth.[^1601_1458]
+>
+> As Devala says: O king, the disciplining (*tapas*) of the body by means of the restrains (*niyama*), conditional vows (*vrata*), and fasts (*upavāsa*).
+
+[^1601_1458]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, pg. 6: *tapaś cāndrāyaṇādi // yad āha devalaḥ— vratopavāsaniyamaiḥ śarīrottāpanaṃ nṛpa /*
+
+[[P1602]]
+> H: The word vow (*vrata*) here signifies ritual baths, philanthropy, *mantra* repetitions, oblations, ritual worship and fasts. Therefore, all the *dharmas* that will be taught in *Vratakhaṇḍa* are indicated to have the quality of universality.[^1602_1459]
+
+[^1602_1459]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, pg. 6: *vrataśabdo ‘tra snānadānajapahomapūjopavāsādi- paraḥ, etena vratakhaṇḍapratipādyānāṃ dharmāṇām api sādhāraṇatvaṃ sūcitam /*
+
+As we will learn later in this chapter when we place Hemādri into conversation with his immediate predecessors in the world of Dharmaśāstra, nearly every feature of this passage is an innovation. Such novelty starts with this new distinction drawn between *tapas*, comprised of the *cāndrāyaṇa* fast and so forth, and another activity Hemādri labels *vrata*. In the *Upasmṛtis*, just as we find in Śabarasvāmin and those who follow him, like Manu’s commentator Medhātithi, the *cāndrāyaṇa* fast is not merely not representative of a separate activity called *tapas*. It is, in fact, the iconic example of the Smārta *vrata*. Furthermore, for all of these authorities, the category of *vrata*, identical to *tapas*, is strictly confined to the small canon of penance fasts found in these texts, which amount to a form of expiation (*prāyaścitta*). All other forms of *vrata* are condemned. Heedless of such precedents, forging his own way, Hemādri simply takes the word *vrata* and makes it mean what he wants it to mean. And what he makes it mean, apart from the fast (*upavāsa*) is the whole of religious practices (*snānadānajapahomapūjopavāsādi*). Until now these practices have never been included under this rubric, but a good deal of them were already integral to the lived religion and social systems of the Śaiva Age.
+
+Skipping over all the other terms, as for the moment they are irrelevant, Hemādri offers one final comment on the topic of *ātmajñāna*, which offers a painful testament to what we lost with the disappearance of the *CVC’s Mokṣakhaṇḍa*. Unexpectedly, and atypically given his style, this takes the form not of a gloss but of an extended rebuttal of a series of objectors. This [[P1603]] extraordinary passage, the only surviving reflection of the *Mokṣakhaṇḍa’s* theological program within the *Caturvargacintāmaṇi*, demands our sustained attention:
+
+> H: By the word “gnosis of the self,” what is indicated is the fact that all the *dharmas* to be taught in the *Mokṣakhaṇḍa* also possess the quality of universal applicability.
+>
+> P: Now, one should not inquire, “On the principle of the eligibility of the Śūdras, all Śūdras do not have eligibility with regard to gnosis; thus, how is it that there can be this kind of universality in regard to the *mokṣadharmas*?”
+>
+> H: Because it is not possible for them to study the Vedas, given their lack of *upanayana*, they are ineligible purely with regard to the inquiry (*vicāra*) into Vedic statements. And moreover, [this position] is not [be valid] because, as in the case of the five sacrifices, we see mention of even Śūdras receiving instruction in the knowledge inculcated by the *Purāṇas* and *Smṛtis*: “With regard to non-Vedic subjects, one should cause all the four *varṇas* to hear.”
+>
+> P: Now, if one were to say, “Even so, how is it the case that Śūdras have eligibility with regards to *mokṣa*, given that they lack the knowledge that is produced based on deliberation from Upaniṣadic statements?”
+>
+> H: Were you to say this, it is wrong. Because it is established that the gnosis has only one thing as its aim (*sādhya*), and that is the attainment of liberation. Thus, [we have the *Śrutis*]: “The one who knows the self crosses over sorrow; the one who knows *brahman* becomes *brahman* alone; the one who knows *brahman* obtains the supreme; by knowledge he enjoys immortality.” Thus, Śruti states the fact that *mokṣa* is to be accomplished by the knowledge of the self.
+>
+> And because it is reasonable that knowledge of the self can be accumulated on the basis of deliberation (*vicāra*) on the assemblage (*nicaya*) of statements in *Purāṇas* and so forth, [for this reason] we do not accept that such statements as *“śrotavya*—it is to be heard” have the properties of being injunctions that restrict inquiry [strictly to Vedic sentences]. Or, if we do accept this to be the case [in regard to Vedic sentences], then, because that [injunction] would be restricted to twice-borns, there is [also] an injunction that has the scope of Purāṇic sentences—such as “one should cause the four classes to hear.” Let that kind of injunction also be treated as inclusive of inquiry (*vicāra*), as in the case the injunction concerning the study [of the Vedas].
+>
+> And therefore, it is entirely without blame to state that just as sacrifices, although general in that they must be accomplished by a particular substance, must be accomplished by substances that are collected based on restrictions and means that are enjoined as appropriate to various *varṇas*, thus also, *mokṣa*, although general in being accomplished by the knowledge of the self, must be accomplished by the knowledge that is produced by [[P1604]] particular means appropriate to those [*varṇas*].[^1604_1460]
+
+[^1604_1460]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, 6–7: *ātmajñānam ity anena mokṣakhaṇḍapratipādyānām api dharmāṇāṃ sādhāraṇatvaṃ, na cāpi śūdrādhikaraṇanyāyena śūdrāṇāṃ vidyāyām anadhikāra iti kathaṃ mokṣadharmāṇāṃ sādhāraṇatvam iti vācyam / teṣām upanayanābhāvenādhyanāsambhavād vedavākyavicāra evānadhikāraḥ / na punar avaidike śrāvayec caturo varṇān iti śūdrāṇām api pañcayajñādivat purāṇasmṛtipratipādyavidyopadeśadarśanāt // nanu tathāpi kathaṃ vedāntavākyavicārajanitajñānābhāve śūdrāṇāṃ mokṣadharmādhikāra iti cet, maivam / mokṣasādhanasya jñānasya tadekasādhyatvasiddheḥ, tathā ca śrutiḥ— tarati śokam ātmavit, brahma veda brahmaiva bhavati, brahmavid āpnoti paraṃ, vidyayāmṛtatvam aśnuta iti mokṣasyātmajñānasādhyatāṃ vadati / ātmajñānasya ca purāṇādivacananicayavicāraparicayād apy upapatteḥ śrotavya ityādivākyānāṃ tu vicāraniyamavidhitvānaṅgīkārāt / aṅgīkāre vā, tasya dvijātiniyatatayā śrāvayec caturo varṇān ityādipurāṇavacanaviṣayavidher apy adhyayanavidhivad vicāraparyantatāstu // tataś ca yathā dravyasādhyatvāviśeṣe ‘pi kratūnāṃ tattadvarṇavihitopāyaniyamārjitadravyasādhyatvam, evam ātmajñānasādhyatvāviśeṣe ‘pi mokṣasya tadupāyaviśeṣajanitajñānasādhyatvam iti sarvam anavadyam /* My profound thanks to Sthaneshwar Timalsina for helping me to clarify my understanding of the final part of this argument.
+
+Now that he has established the focus of his work—the explication of the common or universal *dharmas*—Hemādri turns to justifying his implicit claim that Śūdras and, as we shall soon see, women can achieve liberation, despite their inability to receive the teaching directly from the Śruti. As we are about to see, working within a Mīmāṃsaka-inflected interpretive framework, Hemādri first attempts to establish that the restrictive injunctions in the revealed texts limiting the access of women and Śūdras to liberating knowledge pertain merely to specific, but necessary, substances and component actions involved in Vedic praxis. Thus, they make no claim that the intended results of Vedāntic inquiry, namely, liberation itself, is restricted to twice-borns. He then proceeds to locate and then advocate for a parallel method that pertains to non-Vedic texts to which non-twice-borns have access.
+
+To accomplish this task Hemādri has to take on the position articulated in the traditions of Pūrva and Uttara Mīmāṃsā denying ritual eligibilty (*adhikāra*) to non-twice-borns. In the former discourse, this is typically labelled the *śūdrādhikaraṇa*, (*JMS* 6.7), though in actuality parts of the discussion spill over from the preceding rebuttals demonstrating that non-human entities and women should not be considered to have ritual eligibility. In the case of the [[P1605]] *Brahmasūtras* of Bādarāyaṇa 1.3.9, this is called the *apaśūdrādhikaraṇa*. Hemādri’s argument is quite clearly offered as a direct rejoinder to the commentary and subcommentaries on the *Śārīrikamīmāṃsā* of Śaṅkarācārya, itself a commentary on the *Brahmasūtras*, for it in fact harnesses a passing aside in that text and develops it into its *siddhānta*. Yet, to make sense of what is at stake, we have to briefly turn back to the older conversations in Jaimini and Śabara.
+
+Śabara begins by addressing whether animals and non-human entities, be they trees, sages or gods—all of whom the Veda depicts as “sacrificing”—can actually perform Vedic sacrifices. After first considering, and then questioning, the position that animals cannot perform sacrifices because they have no sense of the existence of the future, a position he seems to reject, he arrives at the conclusion that they cannot sacrifice, not on the basis of their cognitive capacities or lack thereof, but because they cannot carry out the entirety of the details that make up the prescribed act. In order to be able to eligible to do a ritual, in other words, you have to able to do all of it. On this basis, Śabara shows, we can assert that not only animals and trees—which for example lack hands—but also the gods and the sages are not eligible to perform the rituals. In later case, this is because ritual involves the identification of the deity and the delineation of the sacrificer’s *gotra*. Since gods, Śabara says, cannot sacrifice to themselves, and sages, such as Bhṛgu, do not actually have a *gotra* (since we cannot say they descend from themselves), all such agents are not able to sacrifice.
+
+Śabara next responds to a series of objectors who take the position that women cannot sacrifice because they are a form of property, a position he rejects as unfounded. Ultimately, we learn that women, so long as they are assisting their husbands, can sacrifice and that they can benefit from the sacrifice, precisely because they are capable of fulfilling all of their assigned ritual responsibilities and meet the requirements of “desiring heaven.” This section [[P1606]] concludes, however, with plainly stating that women can sacrifice only in so much as they perform a delimited set of tasks. We need to recognize they are in no way equal to men. After some tertiary matters concerning how many people can sacrifice, the *Mīmāṃsā Sūtras* and *Śabara Bhāṣya* at last turn to the consideration of the ritual eligibility of Śūdras.
+
+One of the strange things about this part of the text, usually ignored in the secondary literature, is that Jaimini himself in the *sūtras* sees the need to respond at least six times to *pūrvapakṣins* defending the idea that Śūdras are eligible for Vedic ritual. In several cases, these figures are even given names, such as Bādri. In other words, when the *Jaimini Mīmāṃsā Sūtras* were being composed or compiled, sometime around the first century BCE, there is every indication that a blanket exclusion of Śūdras from Vedic ritual may well have represented a minority opinion.[^1606_1461] This Pūrva Mīmāṃsaka discourse on Śūdras concludes with a consideration of the claim, again rejected by Śabara, that, even though the *upanayana* is denied to them, at least in theory, Śūdras have the ability to surreptitiously acquire the knowledge needed to perform the sacrifices. Should they attain such knowledge, even by a means other than the Veda, the *pūrvapakṣin* suggests, they would then become able and eligible to sacrifice. Here, in contrast to the previous conversation, Śabara does indeed have access to a Vedic text that explicitly forbids Śūdras from hearing the Veda, and with that the matter is closed.
+
+[^1606_1461]: Further confirmation for this suggestion is provided by the nature of Śabara’s initial defense of his position. Śabara’s case, essentially, is that in a particular passage from the *Taittirīya Brāhmaṇa*, Brāhmaṇas are told to install fires in the spring, Kṣatriyas during the summer, Vaiśyas during the autumn. Since the Śūdra is omitted from this arrangement, Śabara asserts, the text is trying to tell us that he has no ritual eligibility. However, when the *pūrvapakṣin* responds by bluntly asking Śabara to show us a place in the text that states an explicit prohibition of Śūdras as sacrificers, one where we do not have to infer such a concept on the basis of the Śūdras omission, Śabara has no response to offer, strongly suggesting that he does not actually have access to this kind of a textual proof.
+
+In the *Brahmasūtras* of Bādarāyaṇa as commented upon by Śaṅkarācārya, a different *pūrvapakṣin* picks up this same line of argumentation pretty much where the previous [[P1607]] authorities had left off. Accepting that Śūdras cannot sacrifice, he argues that there is, however, no rule that prevents a Śūdra from attaining knowledge (*nyāyapūrvakatvād vidyāyām apy anavakḷptatvam*). Thus, we should assume that being able to obtain knowledge is a universal feature applying to all human beings (*nyāyasya sādhāraṇatvāt*). Furthermore, he suggests that there are actually inferentially derived pieces of evidence presented in our sources—here, the Upaniṣads— that Śūdras can obtain knowledge. This include texts where the word Śūdra is used in reference to people who obtain knowledge. A case in point is the so-called *samvargavidyā* contained in the *Chāndogya Upaniṣad* (*yat punaḥ saṃvargavidyāyāṃ śūdraśravaṇaṃ liṅgaṃ manyase*),[^1607_1462] as well as narrative sources in the *Mahābhārata* where figures like Vidura, of Śūdra birth, are depicted as having the knowledge of *brahman*.
+
+[^1607_1462]: Śabara, *Bhāṣya* on *Mīmāṃsa Sūtra* 1.3.34.
+
+Famously—indeed, infamously from the perspective of his nineteenth- and twenty-century critics—Śaṅkara rebuts this argument by asserting, just as Hemādri’s first *pūrvapakṣin* will do, that the investiture of the sacred thread (*upanayana*) temporally precedes the student receiving instruction in the texts. Since the former act makes possible the latter, therefore, you cannot have one without the other. One thing that Śaṅkara does make explicit is that eligibility to receive knowledge requires not merely any old sort of capacity for study (*sāmarthya*), but is dependent on a specific capacity called *śāstric* ability (*śāstrīye ’rthe śāstrīyasya samārthyasyāpekṣitvāt*),[^1607_1463] in the absence of which one is not fit to receive liberating knowledge. Since Śūdras do not receive the sacred thread, which makes possible the right training, *ipso facto*, they cannot receive the liberating knowledge from the Upaniṣads.
+
+[^1607_1463]: Śaṅkara, *Brahmasūtrabhāṣya* on 1.3.34.
+
+Much of the rest of the Śaṅkara’s commentary, which need not detain us, is dedicated to offering a series of rather stretched reinterpretations of seemingly positive uses of the word [[P1608]] “Śūdra” in the Upaniṣads as having a metaphorical sense, as well as an invocation of the rules from the *Manusmṛti* that assert that molten lead and lac should be poured into the ears of any Śūdra who overhears the Veda. Our interest in the text resumes with its conclusion, which seems to provide our own author with his *siddhānta*. First, Śaṅkara asserts that since in the case of a figure like Vidura who acquired and retained his knowledge in prior lives the knowledge is already present in him, (*jñānotpattis teṣāṃ*) it is not possible to withhold from him the result that that knowledge brings (*na śakyate phalaprāptiḥ pratiṣeddhuṃ*), for “knowledge brings about its result in all cases (*jñānasyaikāntikaphalatvāt*).”[^1608_1464] As the discourse draws to its close, however, Śaṅkara almost in passing makes an unexpected observation:
+
+[^1608_1464]: Śaṅkara, *Brahmasūtrabhāṣya* on 1.3.38.
+
+> Because of the *Smṛti* “One is to teach (*śrāvayet*) the four *varṇas*,” [we know] that there is eligibility (*adhikaraṇa*) on the part of the four *varṇas* in regard to the acquisition of knowledge from the *Itihāsa* and *Purāṇa*. But it is an established position that eligibility for Śūdras cannot be dependent upon the Vedas [and their study].[^1608_1465]
+
+[^1608_1465]: Śaṅkara, *Brahmasūtrabhāṣya* 1.3.38: *“śrāvayec caturo varṇān” iti cetihāsapurāṇādhigame cāturvarṇyasyādhikāra-smaraṇāt / vedapūrvakas tu nasty adhikāraḥ śūdrāṇām iti sthitam //*
+
+Notice that Śaṅkara has not actually said, nor even implied, that the study of the *Itihāsa* and *Purāṇas* produces liberative knowledge nor suggested that it does not. His only point is that while Śūdras are excluded from Vaidika knowledge systems, they still have access to other knowledge systems, whatever their worth. Yet this is enough of a hook that Hemādri is able to hang his own argument upon it. Reframing Śaṅkara’s observation, Hemādri points out that what is really at stake here is the ineligibility of Śūdras “with regard to the inquiry (*vicāra*) into Vedic statements.” Such a prohibition, however, does not necessarily extend to the practice of *vicāra* on other types of sources. And indeed, Hemādri points out, the first [[P1609]] *pūrvapakṣin* himself—a thinly veiled form of Śaṅkara—has already told us that the four *varṇas* are, quite literally, “to be made to hear” the non-Vedic teachings (*avaidike śrāvayec caturo varṇān*). What Hemādri has noticed is that verb being used here in the above citation, *śrāvayet* is the optative form of the causative derived from the verbal root *√śru*. In other words, it is actually derived from the same verbal root as the gerundive *śrotavya*, “one must listen,” as found in *Bṛhadāraṇyaka Upaniṣad* 2.4: *“ātmā vā, are, draṣṭavyaḥ śrotavyo mantavyo nididhyāsitavyaḥ;* The *ātman*, my dear, is to be seen, to be heard about, to be reflected upon, to be meditated upon.” The reason this is important is that for much of post-Śaṅkara classical Vedānta, this Upaniṣadic statement provides the impetus and justification for the process of Vedāntic study itself, under the auspices of what is called the *śravaṇavidhi*.
+
+Now as Anand Venkatkrishnan as recently demonstrated in an unpublished paper historicizing the *śravaṇavidhi*, such a notion is not yet present in Śaṅkara. He denies that the Upaniṣads contain injunctions at all. It is also rejected by his disciples. Instead, the doctrine probably first appears in the eleventh-century *Pañcapādikāvivaraṇa* of Prakāśātman, which comments upon Padmapāda’s *Pañcapādikā*.[^1609_1466] In Śaṅkara’s disciple Padmapāda, however, the meaning of *śrotavya* and so forth, “one must hear,” is already treated as aligned with a threefold process of *śravaṇa*, *manana*, and *nididhyāsana*. Just as importantly for our purposes, when Padmapāda sets out to interpret this act of *śravaṇa*, he equates the act with two things, namely, learning his teacher Śaṅkara’s *Bhāṣya* and, more pertinently for our purposes, “the inquiry into the meaning of Vedānta statements (*vedāntavākyavicāra*) that have as their purpose coming to know the nature of the *Ātman* (*ātmāvagataye*).[^1609_1467]
+
+[^1609_1466]: Anand Venkatkrishnan, “Hum Hain Naye, Andaz Kyun Ho Purana? Hermeneutical Innovation in Prakāśātman’s *Pañcapādikāvivaraṇa*,” Age of Vedānta Conference, Stanford University, Stanford, CA, November 16, 2019.
+[^1609_1467]: Anand Venkatkrishnan, “Hum Hain Naye, Andaz Kyun Ho Purana,” 10.
+
+[[P1610]] As Venkatkrishnan has demonstrated, it is only in Prakāśātman’s sub-sub-commentary on Padmapāda’s own subcommentary upon the first five *Brahmasūtras* that scholastic Vedānta begins to rigorously theorize the logical relationship between how its texts are structured and the actual practice of Vedāntic study, a task he carries out through—surprise, surprise—a renewed investment in the use of Mīmāṃsā reading strategies.[^1610_1468] And what Prakāśātman begins by doing is demonstrating that the very first *sūtra* of the *Brahmasūtras*, to quote Venkatkrishnan, “encodes an entire program of scriptural study that was initially articulated in the Upaniṣads themselves.”[^1610_1469] What he concludes is that Vedāntic *vicāra* has for its textual foundation *Bṛhadāraṇyaka Upaniṣad* 2.4 and what it teaches is not merely that one should “hear” the Upaniṣads, but one should study them, and that one should do it in a particular way. Moreover, what this study entails is a specific method, not superimposed from above, but allegedly derived from the source texts themselves. Ultimately, it is this method, and not the mere fact that a text is an Upaniṣad, that makes the *vedāntavākyas* serve as means to knowledge of the self. Or, as Prakāśātman puts it (in Venkatkrishnan’s translation), right after you hear the first *Brahmasūtra*, “Implicitly (*arthāt*), one realizes that knowledge of *Brahman* is the means to liberation for a qualified student. Proximity (*sannidhāna*) suggests inquiry into the statements of Vedānta.”[^1610_1470]
+
+[^1610_1468]: Anand Venkatkrishnan, “Hum Hain Naye, Andaz Kyun Ho Purana,” 18–21.
+[^1610_1469]: Anand Venkatkrishnan, “Hum Hain Naye, Andaz Kyun Ho Purana,” 20.
+[^1610_1470]: Anand Venkatkrishnan, “Hum Hain Naye, Andaz Kyun Ho Purana,” 19.
+
+Prakāśātman then takes this observation and deploys it in the service of a very different sort of argument, one that establishes that the statement about *śravaṇa* is not merely an injunction (*vidhi*) that tells the qualified agent he has to do something, but is actually a restrictive injunction (*niyamavidhi*) that informs the qualified agent that he has to do something [[P1611]] one particular way, forbidding all other alternatives.[^1611_1471] As you may have recognized, Prakāśātman’s position looks very much like that of Hemādri’s own imagined objector. Hemādri’s solution is to suggest that all that Śruti teaches is that it is the knowledge of the self that yields liberation. What the tradition has taught is in fact merely that the inquiry into the Vedāntic statements is the most convenient method whereby one certain audience can obtain that knowledge and, with it, liberation. Since forms of *vidyā* that communicate the knowledge of the self are also found in the *Purāṇas* and *Itihāsa*, there is no reason that “deliberation (*vicāra*) on the assemblage (*nicaya*) of statements in *Purāṇas* and so forth” would not yield the same result as inquiry into Vedāntic statements. Either we should reject that the *śravaṇavidhi* is a restrictive injunction, or we should accept that it finds its complement in another *śravaṇavidhi* that has a different scope of applicability. This, Hemādri suggests, is none other than the statement that “one should cause the four classes to hear” the *Itihāsa* and *Purāṇas*. This too can be seen as a mandatory ritual obligation for any fit person, belonging to the four *varṇas*, who desires liberation. Once again, by “causing to hear,” what Hemādri really means is that the person should be guided through an inquiry process analogous to the one used by Vedāntins.
+
+[^1611_1471]: Anand Venkatkrishnan, “Hum Hain Naye, Andaz Kyun Ho Purana,” 22.
+
+Hemādri concludes by reading this whole process through the distinctions between *varṇa*, *āśrama*, and *varṇāśramadharmas* we encountered earlier in the outline of the six modes of *dharma*, all of which form a single unity collectively called *dharma*. Just as the existence of some cases where there are rules inflected and determined by rules pertaining to a single class does not negate the existence of other sets of strictures where class and stage of life both inflect what is to be done (as when the Vedic texts give us different time spans for studentship [[P1612]] for a Brāhmaṇa, Kṣatriya, and Vaiśya, or different ages at which the *upanayana* is to be given), it is the same way with the rules governing *mokṣa*. There is, on the one hand, a general rule, that liberation is always accomplished by means of acquiring knowledge of the self (*ātmajñāna*). But that rule, in turn, has class-specific inflections that sometimes involve restrictions prohibiting the use of certain substances or engaging in specific actions. For non-twice-borns then, the path to liberation is indeed open, provided, of course, they restrict themselves to a program of inquiry that excludes Vedic texts.
+
+Let us take a step back from all the Mīmāṃsaka minutiae and take stock of what just happened. Probably for the first time in an extant Sanskrit treatise composed by an allegedly orthodox authority, Hemādri has just argued that the same process of contemplative deliberation (*vicāra*) on the profound statements in the Upaniṣads that make possible liberation, and that Vedānta treats as applicable to a highly delimited canon of Śruti passages, can be transposed onto other kinds of texts. He has done this in a scholastic language that meets the requirements of learned discourse, but the end result is that he has normalized the mode of learning about “Hindu” doctrine one was most likely to encounter on the ground in twentieth-century South Asia. Astoundingly, though, much as we saw in Parāśara Gītā from the *Mahābhārata*, some notion of the existence of such traditions had been in the air for over a millennium, until the *CVC* this topic seems never to have been written about by anyone, even with the intent of refuting the position.
+
+At the same time, Hemādri has also introduced us to one of the primary compositional strategies he will adopt throughout the remainder of his *nibandha*: argumentation through extensive exemplifications. Through piling up (*nicaya*) textual citations from the *Purāṇas* and [[P1613]] so forth, as if they were the bricks making up a Vedic altar, and then subjecting them to inquiry, Hemādri does not merely limit himself to making evident the particular qualities of the common *dharmas*. In fact, he effectively reimagines the diverse social and religious ecologies of the thirteenth century as co-existing within an integrated and totalizing interpretive framework where they are subject to a single evaluatory standard.
+
+And though Hemādri has spoken about these matters in a learned language, as his text now makes clear, it is evident that his inspiration for this at the time eccentric position originates not from his reading of Vedāntic exegesis, but from his own study of works of *Purāṇa* and *Itihāsa*, namely, the *Bhāgavata Purāṇa* and the *Mahābhārata*.
+
+> H: Thus, is it stated in the *Bhāgavata Purāṇa*: “The triad of women, Śūdras, and the relatives of twice-borns do not have the access to Śruti.” This is why the tale of the [*Mahā*]*bhārata* was made by the sage out of compassion.
+>
+> H: In the *Mahābhārata*, also [it is said:] “O son of Kuntī, having resorted to me, even those ones from sinful wombs, women, Vaiśyas, and likewise Śūdras, go to the supreme destination.”[^1613_1472]
+
+[^1613_1472]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, 7: *tathā coktaṃ bhāgavate— strīśūdradvija[b]andhūnāṃ trayī na śrutigocarā / iti bhāratam ākhyānaṃ muninā kṛpayā kṛtaṃ* [variant from published edition] *// mahābhārate ‘pi* [not in critical edition] *— mām upāśritya kaunteya ye ‘pi syuḥ pāpayonayaḥ / striyo vaiśyās tathā śūdrās te ‘pi yānti parāṃ gatim //*
+
+Though we have no time to pursue this possibility here, the *Bhāgavata* in fact may also be providing Hemādri with the very notion of second type for *śravaṇa* and *vicāra* that has the *Purāṇas* as their focus, for a similar notion, albeit not articulated in the language of scholastic Vedānta, is proposed in its opening chapters. Had we access to the *Mokṣakhaṇḍa*, originally the crowning jewel of the *Caturvargacintāmaṇi*, where this discourse is resumed and expanded upon for what must have been many hundreds of pages interwoven with dense argumentation, we could arrive at a more solid understanding of such matters. In its dearly felt absence, one can only speculate on just what sort of explicit connections Hemādri had already made, by the [[P1614]] time the *Caturvargacintāmaṇi* is composed, between his Smārta theological framework and the guiding authority of the *Bhāgavata*. While there is an understandable impulse to simply supply some of these answers by extracting parallel materials treating these same topics from Hemādri’s *Kaivalyadīpikā*, there is good reason to refrain from such efforts. As we shall see in the next chapter, though the relationship between the two texts remains indeterminate, we have some substantive evidence that this other work, composed much later in Hemādri’s life, in at least some places is advocating for a much more pointedly Vaiṣṇava worldview. In other words, ironically, over the course of his long life, Hemādri seems to have evolved from being the progenitor of early modern north Indian Smārta tradition, of the sort represented by the Bhaṭṭas, to the founding figure of north Indian Vaiṣṇava sectarianism, of the sort proffered by Jīvagosvāmin (excluding the minor matter of our author’s non-dualism).
+
+Returning to the opening chapter of the *Caturvargacintāmaṇi’s Vratakhaṇḍa*, setting these matters to the side, Hemādri resumes his discussions of the nature of the universal *dharma*, which is above all else a universal code of ethical comportment. As will happens throughout the text, his argument progresses through the compilation of citations, drawn from an array of in this case six distinct sources, all of which catalogue and define different ethical *dharmas*, with some occasional overlap of key terms, noted below in bold.[^1614_1473] Even in just this [[P1615]] sampling, it should be apparent that what we have here is a mix of ethical values and ritual practices. Each of his source texts originally offered what were competing construals—as they were evident within certain communities—of which traits and practices do and do not constitute the canon of the universal *dharmas*. Subsequent sources the *CVC* invokes, such as the *Viṣṇudharmottara*, add into the mix even more modes of praxis, such as philanthropy (*dāna*), following of the *tīrthas* (*tīrthānusaraṇa*), textual recitation, service, dwelling in the company of *sādhus*, worshipping the gods, worshipping Brāhmaṇas, non-envy of Śiva, bathing in the Gaṅgā, and meditating on Nārāyaṇa, many of which will also feature prominently in the *Caturvargacintāmaṇi*. In other words, by compiling together all the different types of things that distinct sources define as falling under the category of *dharma*, in some cases not even explicitly as *sādhāraṇa* or *sāmānya dharma*, Hemādri is able to arrive at a justification for including within the domain of Dharmaśāstra the hodge-podge of topics, many of them assigned to the *Pariśeṣa* division, that he will tackle over the course of his encyclopedic work. As he tells us explicitly:
+
+[^1614_1473]: For example, while the original *Mahābhārata* defines the *sādhāraṇa dharmas* as being comprised of the ritual of *śrāddha*, *tapas*, truth, non-anger, being content with one’s own wife, purity, being constantly without envy, knowledge of the self, and patience, the *Viṣṇu Purāṇa* speaks of the *sāmānyadharmas* as encompassing fortitude, truth, restraint, purity, charity, restraint of the senses, non-violence, total submission to the guru, following the *tīrthas*, straightforwardness, being devoid of greed, worship of the Brāhmaṇas and gods and not getting indignant, and the *Brahmavaivarta* labels as *dharma*, knowledge, compassion, restraint, purity, truth, not stealing, austerity, being one of who the senses have been conquered, being devoid of anger, and coyness. Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, pg. 7–8: *viṣṇuḥ— kṣmā satyaṃ damaḥ śaucaṃ dānam indriyasaṃyamaḥ / ahiṃsā guruśuśrūṣā tīrthānusaraṇaṃ dayā // ārjavaṃ lobhaśūnyatvaṃ devabrāhmaṇapūjanam / anyabhyasūyā ca tathā dharmaḥ sāmānya ucyate // iti / brahmavaivartte— vidyā dayā damaḥ, śaucaṃ satyam asteyatā tapaḥ / jitendriyatvam akrodhī lajjā dharma iti smṛtaḥ // viṣṇudharmottare— tasya dvārāṇi yajanaṃ tapo dānaṃ dayā kṣamā / brahmacaryaṃ tathā satyaṃ tīrthānusaraṇaṃ śubham // svādhyāya[ḥ] sevā sādhūnāṃ sahavāsaḥ surārcanam / gurūṇāṃ caiva śuśrūṣā brāhmaṇānāṃ ca pūjanan // indriyāṇāṃ yamaś caiva brahmacaryam amatsaram / gaṅgāsnānaṃ śivo devo viprapūjātmacintanam / dhyānaṃ nāyāraṇasyaitat samkṣepād dharmalakṣaṇam //... / bṛhaspatiḥ— dayā kṣamānasūyā ca śaucānāyāsamaṅgalam / akārpaṇyam aspṛhatvaṃ sarvasādhāraṇāni ca //*
+
+> H: By the word *dāna*, [it is demonstrated that] there is the property of universality of those [*dharmas*] taught in *Dānakhaṇḍa*; by “the following of the *tīrthas*,” [it is demonstrated that] there is the property of universality of those [*dharmas*] taught in the *Tīrthakhaṇḍa*; and also, by “the worshipping of the Brāhmaṇas and gods,” [it is demonstrated that] there is the property of universality of those *dharmas* such as the worship of deities as taught in the *Pariśeṣakhaṇḍa*.[^1615_1474]
+
+[^1615_1474]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, pg. 8: *dānam ity anena dānakhaṇḍapratipādyānāṃ, tīrthānu-saraṇam ity anenāpi tīrthakhaṇḍapratipādyānāṃ, devabrāhmaṇapūjanam ity anenāpi pariśeṣakhaṇḍapratipādyānāṃ devatāpūjanādidharmāṇāṃ sādhāraṇatvam /*
+
+As by now should be plain, Hemādri’s understanding of the universal and acts of universalization carries a substantively different connotation than we might first anticipate. It does not mean that the same rules apply to all people. Rather, he asserts that a method must [[P1616]] exist whereby all four classes can participate in each of these domains, even if that means, as in the case of *dāna*, they are simply able to be recipients of perishable goods such as food. The major impact here is that all of these previously site- and community-specific practices have been brought under a single shared umbrella organization. Though never assigned such a name, as might be beginning to dawn on you, in both structure and function this emergent framework strongly prefigures what we now call Hinduism.
+
+Once Hemādri has explained just what he means by *sāmānya* or *sādhāraṇa dharma*, his attention switches to two different tasks. In the first of these, which he dispatches with quickly, he delineates the table of contents of *Vratakhaṇḍa*, introducing its topics in sequence, on which the interested reader can consult the footnote below.[^1616_1475] Once this is done, over the course of the next two hundred and seventy pages out of what is a three hundred page first chapter, Hemādri incorporates and then subordinates the typical conceptual framework that orders a work of Dharmaśāstra beneath a heavily ethicalized theism that, though deeply indebted to Sāṃkhya ontologies, rejects Sāṃkhya style dualism. With this conceptual framework in place, intent upon demonstrating the overwhelming persistence of shared values and ritual practices across a vast array of interpretive communities, Hemādri then marshals a mountain of evidence, starting from the *Gṛhya* literature and working outward, which demonstrates that ancillary works of *dharma* literature, Purāṇic texts, and the “sectarian” Dharmaśāstras of the Śaivas and Bhāgavatas, even the transgressive Tantras, have common notions ranging from what constitutes a sweet thing to how one should define and use the [[P1617]] products from a cow. Practically speaking, we might say what he is showing is that they share a worldview. As the first *khaṇḍa* draws to a conclusion, as we will soon see, it proceeds to catalogue the contents of the world, from Brahmā down to the veritable blade of grass and then culminates with a formal re-presentation of traditionally Tantric Śaiva, Vaiṣṇava, and Saura *mantra* systems in a manner that renders them structurally analogous and essentially interchangeable. The chapter in fact then ends by gesturing towards the Smārta Pañcayātana, one of whose earliest dateable articulations is actually found embedded in the *Caturvargacintāmaṇi’s Pratiṣṭhāpaddhati*, portions of which we explored in the previous chapter.[^1617_1476] In short, for the first time in our discourse, the *Vratakhaṇḍa* of the [[P1618]] *Caturvargacintāmaṇi* offers something that approximates a recognizable vision of a common universalizing Hinduism.
+
+[^1616_1475]: Quite unlike what we find in the manuscript colophons, Hemādri gives a very abbreviated account of the *Vratakhaṇḍa’s* core structure. In his *saṃgraha*, we are told the text contains these main parts: 1) *dharmanirūpaṇa*, 2) *paribhāṣā*, 3) *vratapraśaṃsā*, 4) *vratas* arranged by *mukhyatīthi*, 5) various *tīthis*, 6) *vāra* and *tāra vratas*, 7) *vratas* arranged by *yoga*, *karaṇa*, and *saṃkrānti*, 8) *vratas* arranged by month, 9) *vratas* of a *śāntika* and *pauṣṭika* nature. In practice, it is the arrangement of the *vratas* in sequence according to the month of observation that dominates the two volume *Vratakhaṇḍa*.
+[^1617_1476]: Though a ubiquitous feature of early modern north Indian “Smārta” Brāhmaṇa religiosity, no substantial study exists to date historicizing the emergence of the Pañcāyatana system. Apart from a single volume on Smārta *pūjā* by Gudrun Bühnemann, as well as some stray remarks in an ethnography of the Smārta Brāhmaṇas of Sringeri, we do not even have a substantive literature concerned with the examination of the rituals themselves or their textual foundation. Gudrun Bühnemann, *Pūjā: A Study in Smārta Ritual* (Vienna: De Nobili Research Library, 1988); Yoshitsugu Sawai, *The Faith of Ascetics and Lay Smārtas: A Study of the Śaṅkaran Tradition of Śṛṅgeri*, ed. Gerhard Oberhammer (Vienna: Publications of the de Nobili Research Library, 1992). From the perspective of a historian of religion, we can safely discount the usual emic explanation, attributing the spread of the practice to Śaṅkarācārya Bhagavatpāda and his immediate disciples. To be blunt, such a mode of worship is nowhere even mentioned in early Advaita Vedānta discourse and there are numerous indications in the texts themselves that such a value system would have been anathema to these authors.
+>
+> When it comes to material culture, our evidence is equally ambiguous. As Fredrick Asher has argued, there is no reason to believe that the so-called *pañcāyatana liṅgas*, already evident as early as the sixth century, in which small images of Viṣṇu, Sūrya, and Brahmā flank a Śiva *liṅga* and appear subordinated to an anthropomorphic Śiva, have anything whatsoever to do with later Smārta Pañcāyatana worship. Fredrick Asher, “Pañcāyatana Śiva Liṅgas: Sources and Meaning,” In *Kalādarśana: American Studies in Indian Art*, ed. Joanna Gottfried Williams (Leiden: Brill, 1981), 1–11. It is also unclear whether or not the later system of praxis and its corresponding theology share anything but a name with phenomena of the *pañcāyatana* temple, which is construed as providing five separate chambers dedicated to the veneration of Śiva, Viṣṇu, Sūrya, the Goddess, and either Gaṇeśa or Skanda. As with virtually all the *vrata* performances outlined in the *nibandha* literature, epigraphical or material cultural evidence for this arrangement is sorely lacking until the twelfth century.
+>
+> As a term of art, *pañcāyatana*, referring to a temple where five deities are honored, seems to begin to surface in inscriptions around the same period, particularly in and around Rajasthan, Gujarat and Saurashtra. Thus, for example, at Karulli in Rajasthan, in 1159 CE a certain Queen Vatthalladevī, who is given the moniker “Soma,” is noted to have donated a *vāṭika* and a *kūpa* along with a *pañcāyatana* (*vāṭikūpasamāsannapañcāyatanasamyutaṃ*). What is absent from these texts however, by and large, is any clear indication of which set of five deities is actually enshrined therein. In the rare cases where such details are in fact given, they provide us with reason to doubt a single equation of the term *pañcāyatana* with the later Smārta tradition. Thus, for example, the famous Cintrā Praśasti describing the contributions of the Pāśupatācārya Tripurāntaka, which include making a *pañcāyatana*, is often pointed to as an example of an important precursor of the institutionalization of Smārta religion. What such a position overlooks is that, when the inscription itself is consulted, the five deities enshrined within the *pañcāyatana* temple (*pañcāyatanāntarale*) are the decidedly unorthodox arrangement of Gorakṣa, Bhairava, Hanumān, Sarasvatī, and Siddhivināyaka. Clearly, we cannot simply equate *pañcāyatana* format temples with the *pañcopāsanā* system of worship. See Haripriya Rangarajan, *Spread of Vaiṣṇavism in Gujarat Up to 1600 A.D. A Study with Special Reference to the Iconic Forms of Viṣṇu* (Bombay: Somaiya Publications, 1990); Vinod Kumar Singh, “New Epigraphical Evidence Located at the Tanangarh Fort,” *Proceedings of the Indian History Congress* 60 (1999): 1126–1138; Krishnendu Ray, “Tripurantaka: A Pasupata ‘Acarya’ at Somanatha (13th Century AD),” *Proceedings of the Indian History Congress* Vol. 62 (2001): 180–186.
+
+## Why I Write Such Excellent Books: Reading Like a Pandit, Judging Like a God
+
+Out all of the many domains that Dharmaśāstra comprises, in curating his *Dharma Reader*—a recent volume produced for the series *Historical Sourcebooks in Classical Indian Thought* that for the first time makes accessible core dimensions of the Sanskrit knowledge systems in translation—Patrick Olivelle selected two focuses.[^1618_1477] One the one hand, he directs his reader’s attention to the workings of the Indian courtroom, which occupies the later portion of his book. On the other, he begins the volume with an extended explication of what he calls the “Nature and Epistemology of Law.”[^1618_1478] As Olivelle so aptly and concisely characterizes it, this is the part of the discourse concerned with asking, “What is *dharma*? And where do we find it?”[^1619_1479] As Olivelle tells us, these kinds of question lead the commentators to have to reconcile competing claims presented by the conflicting sources they have inherited. They also make it incumbent upon the Dharmaśastrin that he work towards defining a canon of what comprises the genuine authorities (*pramāṇas*) and weighing their relative authoritativeness. In this context, quite unlike in philosophy, the category of *pramāṇa* is comprised equally of texts, persons, and practices, all of which the Dharmaśāstrin might draw upon to substantiate or deflect a particular claim. Because debates about what constitutes a *pramāṇa* are being [[P1619]] conducted in more general terms, theorizing authority necessarily entails coming up with criteria for determining what sources are spurious, heretical, or unreliable.
+
+[^1618_1477]: Patrick Olivelle, *A Dharma Reader: Classical Indian Law* (New York: Columbia University Press, 2016).
+[^1618_1478]: Olivelle, *A Dharma Reader*, 16.
+[^1619_1479]: Olivelle, *A Dharma Reader*, 16.
+
+We have worked with this sort of discourse before several times. Our first encounter was way back in chapter 1, in our study of the *Dharmasūtras*, and from it we began to derive the emic conceptualization of differentiation of authority into site- and community-specific domains as one prominent ethos among competing understandings that helped in reconstructing the *episteme* that animated the medieval Deccan. We have also explored similar conversations in the preceding chapter, especially in reading through the opening portion of Aparārka’s commentary on the *Yājñavalkyasmṛti*. In both of those contexts, we were privy to such debates as: are *dharmas* many or singular? Are they founded on the conduct of specific people and the Veda—or just the Veda? How do we know *dharma*/s? What specific demographics have the capacity to know *dharma*/s? In the *Caturvargacintāmaṇi’s* fleshing out of *dharma* (*dharmanirūpaṇa*), one of two main divisions in the first chapter of the *Vratakhaṇḍa*, all of these questions are ultimately raised and answered. In many cases, the resulting discourse even entails reproducing the classic citations, such as when Āpastamba tells us that *dharma* just does not go around announcing, “here I am.” But while these materials and the concerns they embody are carried over, as becomes evident once we examine Hemādri’s introduction to this topic, in the *Caturvargacintāmaṇi*, another idiom for thinking about *dharma* is given precedent.
+
+> H: Thus is the description that is the means of the causing the hearer to proceed forth. In the divine scripture, it is said:
+>
+> *Dharma* is the foundation of the entire universe. In this world, people approach the one who is exclusively devoted to *dharma*. By *dharma*, sin is driven away. In *dharma*, everything is established. Therefore, they say, *dharma* is supreme.[^1619_1479]
+
+[^1619_1479]: Cf. *Mahānārāyaṇa Upaniṣad* 76.7.
+
+[[P1620]]
+> H: In the *Bhaviṣyat Purāṇa*, it is stated: *Dharma* is indicated to be the highest good, and *śreyas* has the characteristic of raising one up [to heaven]. . . .
+>
+> From Viśvāmitra— “The ones who know the *Āgama* praise that which is being done in accordance with what is real/suitable: that is *dharma*. That which they revile is said to be *adharma*”. . . . From Bhṛgu: “Vaidika ritual action is twofold: that which causes one to engage and withdraw. This action, which is created by *brahman* who has the form of the Vedas, who is creating in heaven and so forth, is the *Dharma* that is known as engaging (*pravṛtti*). It is threefold based on the *guṇas*, according to the division *sattva*, *rajas* and also *tamas*. The *karma* that comes into being because of thinking about what is desired is devoid of result with regard to liberation. The action of the twice-borns, performed on earth, is understood to be *sāttvika*. The action that is done, having made the commitment “I do this for the sake *mokṣa*,” is *rājasic* action and it will not be the immediate cause of *mokṣa*.”[^1620_1480]
+
+[^1620_1480]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa* 9–10: *atha śrotṛpravṛttisādhanadharmanirūpaṇam / tatra bhagavatī śrutiḥ— dharmo viśvasya jagataḥ pratiṣṭhā, loke dharmaniṣṭhaṃ prajā upasarpanti, dharmeṇa pāpam apanudati, dharme sarvaṃ pratiṣṭhitam, tasmād dharmaṃ paramaṃ vadantīti / bhaviṣyatpurāṇe— dharmaḥ śreyaḥ samuddiṣṭam śreyo ‘bhyudayalakṣaṇam // prathamaśreyaḥśabdenātra śreyaḥsādhanaṃ lakṣyate, śreyo ’bhyudayalakṣaṇam iti śreyaḥśabdasyābhyudayārthavāt.... viśvāmitra— yathārthaṃ kriyamāṇaṃ hi śaṃsanty āgamavedinaḥ / sa dharmo ‘yaṃ vigarhanti tam adharmaṃ pracakṣate //.... bhṛguḥ— pravṛttaṃ ca nivṛttaṃ ca dvividhaṃ karma vaidikam / svargādau sṛjatā sṛṣṭaṃ brahmaṇā vedarūpiṇā // pravṛttasaṃjñako dharmo guṇatas trividho bhavet / sātviko rājasaṃ caiva tāmasaś ceti bhedataḥ // kāmyabuddhyā ca yat karma mokṣe ‘pi phalavarjitam / kriyate dvijakarmeha tat sātvikam udāhṛtam // mokṣāyedaṃ karomīti saṅkalpya kriyate tu yat / tat karma rājasaṃ jñeyaṃ na sākṣān mokṣakṛd bhavet //*
+
+Hemādri opens his delineation of *dharma* with the last verse of the seventy-ninth section of the *Mahānārāyaṇa Upaniṣad*. This is one of the textual resources that during the early modern period will become integral to competing Vedāntic visions that aim to depict Indian learned traditions reflecting on religion as fundamentally—as opposed incidentally—theistic in their orientation. While gods, of course, abounded in narrative and lived religion, they had typically occupied a largely marginal place in the learned imagination of *śāstra*. The same had also been true for what we think of as many commonsense Hindu religious notions—they simply are not the focus of second order reflection in educated Sanskrit discourse. These passages, in contrast, treat *dharma* as a pervasive metaphysical principle animating all human [[P1621]] activities, without dismissing such notions are mere *arthavāda*. Unlike the understanding widely held among the Mīmāṃsakas, here the realm of worldly *dharma* is no longer in any way distinct from or subordinated to the realm of Vedic practice. Nor, for that matter, is *dharma* as it operates in the Veda any different than what we find in other kinds of rituals. Instead of being “*apaurṣeya*”—authorless and without beginning—the Vedas are now created by *brahman* during the same time that the worlds were being made. In place of subdividing the world between actions that take place on and off the *vedī*, the dividing line is now between *dharmas* that entail activity in the world and produce worldly effects (*pravṛttidharma*) and those that involve withdrawal from the world and yield results outside of this realm of existence (*nirvṛttidharma*). These, in turn, are now subdivided according to the *guṇas*. Intriguingly, for this aligns with Hemādri’s *Bhāgavata*-dependent arguments in the *Kaivalyadīpikā*, all actions with a stated intention—which means effectively all of normal ritual—falls under the domain of *pravṛttidharma*. None of these are of course new notions. Indeed, most of them can be traced back in some form or other to the *Mahābhārata*.[^1621_1481] What is radically new is that they are being “centered” in a work of Dharmaśāstra, not merely accommodated.
+
+[^1621_1481]: For a convenient thematic survey in the context of the epic with extensive textual support provided, see for example Nicholas Sutton, *Religious Themes in the Mahābhārata* (Delhi: Motilal Banarsidass, 2000).
+
+This same ethos, reflected in an implicit but nonetheless rather different theory of textuality, is on display as the section continues. Here, the *Caturvargacintamāṇi* invokes and expands upon an old trope, already evident in the *Mānavadharmaśāstra*, in which *dharma* is identified as a bull whose decline is documented down through the ages. Hemādri’s source here is a long narrative excerpt from the *Varāha Purāṇa*,[^1621_1482] which makes a number of [[P1622]] substantive tweaks to the older narrative. Now, for instance, the bull is made by *brahman* himself, who enlists it to protect and support all living beings. As is usual, in each successive age, the poor bull *dharma* stands upon increasingly fewer legs, until in the *kali* age he must hop about like on a pogo stick. Much less typically, however, this bull and his activities are now filtered explicitly through a three-fold *guṇa* taxonomy. Moreover, the decline of the bull over the ages now also finds a strange counterpart in how it manifests to different categories and subcategories among the classes. Even in the decrepit *kali* age, apparently, the bull of *dharma* manifests as six-fold to Brāhmaṇas, three-fold to Kṣatriyas, two-fold to Vaiśyas, and in just one mode to Śūdras. In other words, what was previously an account of a general decline in *dharma* over the course of eons has now been reimagined as also conveying a naturalization into the fabric of reality of the unequal differentiation of opportunity that is integral to the universal *dharma*. This narrative is then supplemented by a series of additional citations,[^1622_1483] almost exclusively drawn from various *Purāṇas* and the *Mahābhārata*, that set out to establish [[P1623]] how *dharma*, and with it Dharmaśāstra, are not confined to one among many narrow domains. Since a single *dharma*, which has various differentiated expressions, suffuses human life in all its variety, it stands to reason that a single discipline, namely, Dharmaśāstra, should weigh in judgements pertaining to all those domains.
+
+[^1621_1482]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, pg. 11–12: *mahātapā uvāca— athotapattiṃ pravakṣyāmi dharmasya mahatīm nṛpa / māhātmyena samāyuktaṃ vistareṇa narādhipa // pūrvaṃ brahmāvyayaḥ śuddhaḥ parād aparasaṃjñitaḥ / sa sisṛkṣuḥ prājāsv ādau pālanaṃ tāsu cintayan // tasya cintayatas tv aṅgād dakṣiṇāṅgāt sakuṇḍalaḥ / prādurbabhūva puruṣaḥ śvetamālyānulepanaḥ // taṃ dṛṣṭvovāca bhagavānś catuṣpādaṃ vṛṣākṛtim / pālayemāḥ prajāḥ putra tvaṃ jyeṣṭho jagato bhava // ity uktaḥ sa samuttasthau catuṣpādaḥ kṛte yuge / tretāyāṃ sa tribhiḥ pādair dvābhyāṃ vai dvāpare ‘bhavat // kalāv ekena pādena prajāḥ pālayate vibhuḥ / ṣaḍbhedā brāhmāṇānāṃ sa tredhā kṣatre vyavasthitaḥ // dvedhā vaiśyeṣu śūdreṣu tv ekadhā jagataḥ prabhuḥ / rasātaleṣu sarveṣu dvāpareṣu svayambhuvaḥ // catuḥśṛṅgas tripāc caiva dviśirāḥ saptahastavān / tridhaiva baho viprāṇāṃ mukhagaḥ pālayan prajāḥ //*
+[^1622_1483]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, 12–14: *mahābhārate— vidyā vittaṃ vapuḥ śauryaṃ kule janma virogitā / samsārocchitihetuś ca dharmād eva prakīrttitaḥ // śabde sparśe rūpe ca rase gandhe ca bhārata / prabhutvaṃ labhate jantur dharmād etat phalaṃ viduḥ / tathā— arthasiddhiṃ parām icchan dharmam evāditaś caret / nahi dharmād vinaiśvaryaṃ svargalokād ivāmṛtam // dharmaṃ cintayamāno ‘pi yadi prāṇair vimucyate / tataḥ svargam avāpnoti dharmasyaitat phalam viduḥ // yathādharmeṇa te satyā ye ‘dharmeṇa dhigas tu tān / dharmaṃ hi śāsvate loke na jahyād dhanakāṅkṣayā // ūrddhvabāhur virauty eṣa na ca kaścid vṛṇoti me / dharmād arthaś ca kāmaś ca sa kimarthaṃ na sevyate / utsavād utsavaṃ yānti svargāt svargaṃ sukhāt sukham / śraddadhānāś ca śāntāś ca dhanāḍhyāḥ śubhakāriṇaḥ // dharmaḥ prajāṃ varddhyati kriyamāṇaḥ punaḥ punaḥ / vṛddhaprajās tato nityaṃ puṇyam ārabhate naraḥ // skandapurāṇe—* [Nepalese] *// dharmāt sukhaṃ ca jñānaś ca yasmād ubhayam āpnuyāt / tasmāt sarvaṃ parityajya vidvān dharmaṃ samācaret // kūrṃapurāṇe— dharmāt sañjāyate hy arthe dharmāt kāmo ‘bhijāyate / dharmād eva paraṃ brahma tasmād dharmaṃ samāśrayet // āha vedavyāsaḥ— kāmārthī lipsamānas tu dharmam evāditaś caret / na hi dharmāṭ ṭate kiṃcid duṣprāpam iti me matiḥ // nipānam iva maṇḍūkā rasapūrṇam ivāṇḍajāḥ / śubhakarmāṇam āyānti vivaśāḥ sarvasampadaḥ // skandapurāṇe— dharmād rājyaṃ dhanaṃ saukhyam adharmād duḥkhasambhavaḥ / tasmād dharmaṃ sukhārthāya kuryāt pāpaṃ ca varjjayet // lokadvaye ’pi yat saukhyaṃ taddharmāt prāpyate yataḥ / dharmam ekamataḥ kuryāt sarvakāmārthasiddhaye / yaḥ karma dharmasaṃyuktaṃ manasāpi vicintayet / sa varddhate yathā vātaḥ śuklapakṣa ivāḍurāṭ // dīrghakālena tapasā sevitena tapovane / dharmanirdūtapāpānāṃ saṃsiddhyanti manorathāḥ // dharmavṛddhau ca varddhante sarvabhūtāni sarvadā / tasminn asati hīyeta tasmād dharmaṃ vivarddhayet //*
+
+It is only once this overarching framework is put into place that Hemādri turns to the question with which most of the *dharma* literature had typically begun—the consideration of what constitutes a valid authority (*atha pramāṇato dharmanirūpaṇam*). As we might expect, he begins with a classic proof text, in this case *Mānavadharmaśāstra* 2.6, which in Olivelle’s translation reads:
+
+> The root of the law (*dharmamūla*) is the entire Veda, the tradition (*smṛti*) and practice (*śīle*) of those who know the Veda, the conduct of good people (*ācāraś caiva sādhūnāṃ*), and what is pleasing to one’s self (*ātmatuṣṭir*).[^1623_1484]
+
+[^1623_1484]: Olivelle, *Dharma Reader*, *Mānavadharmaśāstra* 2.6: *vedo ’khilo dharmamūlaṃ smṛtiśīle ca tadvidām / ācāraś caiva sādhūnām ātmanas tuṣṭir eva ca //*
+
+For most of the prior commentators on this passage, out of the five sources of authority on *dharma* Mānu presents here, namely, the Veda, *Smṛti*, *śīla*, *ācāra*, and *ātmatuṣṭi*, *śīla* and *ācāra* are the most transparent and of the least intrinsic interest. As Olivelle demonstrates, for example, in the case of the eleventh-century commentator Govindarāja, *śīla* is understood as “where love and hatred have been abandoned” (here Govindarāja is following Medhātithi, who goes on a long tangent about *yoga* as a means of refining one’s sensibilities), and *ācāra* as “practices such as tying a bracelet on occasions such as marriages.”[^1624_1485] For Govindarāja, just as it was for his ninth-century predecessor Medhātithi, the real matters under discussion here are defining the nature of Śruti and *Smṛti* with the aim of excluding from wielding authority [[P1624]] systems that fall outside of the Veda. Hemādri, in contrast, does not even bother to comment on such matters, apart from using the occasion to assert the necessity of including the *vedāṅgas* in representations of the canon. Instead, by taking up these two neglected terms, “*śīla*” and “*ācāra*,” and inscribing them with hyper-specific significance, Hemādri rethinks the nature and source of *dharmapramāṇa*.
+
+[^1624_1485]: In his *Dharma Reader*, Patrick Olivelle offers us a sampling commentarial reflections on *Mānavadharmaśāstra* 2.6 (pg. 121–144). The selection from Govindarāja (pg. 142) is rather short, and I have consulted the surrounding commentary. Rao Saheb, *The Commentary of Govindarāja on Mānavadharmaśāstra* (n.p.: Ganpat Krishnaji Press, 1886).
+
+> [PP]: [The *Amarakośa* says:] “*Śīla* is in the sense of purity (*śuci*) or in the sense of activity (*carita*).” [Now,] based on this definition, because of *śīla* being defined specifically as *ācāra* (i.e., *carita*), well, then why is there a separate mention of it [in Mānu]?
+>
+> H: [If you say that] No.
+>
+> Because *ācāra* has a particular essential nature (*svabhāva*) to it, because it consists of the ritual practice that is defined as being the practice from the teacher; its distinction from *śīla* is clear. In this definition [from the *Amarakośa*]—“*śīla* is in the sense of *śuci* (purity) or in the sense of activity (*carita*)”—because *śīla* has as its cause a particular kind of activity (*carita*), by secondary usage, there is the definition of it [*śīla*] as being activity.[^1625_1486]
+
+[^1625_1486]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, pg. 17: *śucau tu carite śīlam ity ācārasyaiva śīlatvābhidhānāt kathaṃ pṛthak upādānam / na, ācāryānuṣṭhānalakṣaṇakriyārūpatvād ācārasya svarūpaviśeṣatvāc chīlasya vyakta eva bhedaḥ / śucau tu carite śīlam iti śilasya caritaviśeṣahetutvād upacāreṇa caritatvābhidhānam/*
+
+Hemādri begins by introducing an imagined objector. This opponent implies that there is a problem with the text in Manu, namely, that by mentioning both *śīla* and *ācāra*, the text has repeated itself. Such meaningless repetition, for *śāstrins*, is a major *faux pas*. The opponent’s evidence for this is the canonical thesaurus of Amara, perhaps the most important lexical reference work in medieval India, which seems to treat one meaning of *śīla* as a synonym for *carita*. The problem here is that many sources in the *dharma* literature (the *Nāradasmṛti*, for example) use *carita* and *ācāra* essentially as synonyms.[^1625_1487] In his rebuttal, [[P1625]] which overturns a lot of jurisprudence aligned with positivist legal pluralist stances, Hemādri redefines *ācāra* solely as the sets of ritual practices one learns from the teacher. *Śīla*, he suggests, is clearly something quite different from that, so if someone says that *śīla* is the same as *carita*, they must just be speaking non-literally. So far, so pedantic—now the fun begins. Hemādri continues:
+
+[^1625_1487]: This dynamic is perhaps most famously evident in *Nāradasmṛti’s* account of the four feet of *dharma*, on which one should consult the learned editorial notes of Richard Lariviere, who translates *caritra* as “custom,” following both the pre-thirteenth-century Bhavasvāmin, as well as the arguments in Ludo Rocher, “Caritram Pustakaraṇe,” *Indologica Taurinensia* 7 (1979): 345–350. Richard Lariviere, ed. and trans., *The Nāradasmṛti* (Delhi: Motilal Banarsidass, 2001). *Nāradasmṛti* 1.10–11: *dharmaś ca vyavahāraś ca caritraṃ rājaśāsanam / catuṣpād vyavahāro ‘yam uttaraḥ pūrvabādhakaḥ // tatra satye sthito dharmo vyavahāras tu sākṣiṣu / caritraṃ pustakaraṇe rājājñāyāṃ tu śāsanam //*
+
+> Now, [on what grounds does] *śīla* cause something to operate as a veridical authority such that it becomes a source of knowledge about *dharma* [lit., causes what to be authoritative as being *dharma*]?
+>
+> That essential nature (*svābhāva*) as being a particular kind of person (*puruṣaviśeṣasvabhāva*) [i.e., God] that exists only on the part of the *ātman* and that could not possibly be any other way, provides us with knowledge about it [the self that is God] itself being the sole means of attaining *śreyas*....
+>
+> And likewise, according Harīta’s statement:[^1626_1488]
+>
+> “Being Brāhmaṇical. . . not being inappropriate, tenderness, not being inhuman (*apārūṣyaṃ*), being friendly, saying pleasant things, being compassionate, acknowledging what was done for you, providing sanctuary, and being tranquil.”[^1626_1489]
+>
+> H: In Harīta’s statement, the fact of being “Brāhmaṇical” (*brahmaṇyatā*) and so forth, because of its having an abstract suffix at its end (*tā*), is making one aware of the fact that *śīla* is distinct from ritual action (*kriyā*); it informs one precisely about its being the essential nature (*svabhāva*). This [what is taught in Harīta] is the thirteenfold [definition of] conduct (*śīla*).
+
+[^1626_1488]: This passage, emended in the original in the middle of the Sanskrit text, has been rearranged for the sake of clarity for an English-speaking audience.
+[^1626_1489]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, 17–18: *atha śīlaṃ kasya dharmatāṃ pramāpayati / ātmana eva puruṣaviśeṣasvabhāvo ‘nyathānupapadyamānaḥ svasvya śreyaḥsādhanatāṃ bodhayati / tathā ca brahmaṇyatetyādi hārītavacane bhāvapratyayāntatayābhidhānaṃ śīlasya kriyāvyatirekitā bodhayan svabhāvatām eva jñāpayati / yad āha harītaḥ— brahmaṇyatā devapitṛbhaktā saumyatā aparopatāpitā anaślīlatā mṛdutā apārūṣyaṃ mitratā, priyavāditvaṃ kāruṇyaṃ kṛtajñatāśaraṇyatā praśāntiś ceti trayodaśavidhaṃ śīlam /*
+
+The initial question here concerns how *śīla*—mere purity, at least of some yet to be defined sort—might play some causal role in the production of *dharma*. Of the many answers one might anticipate to this question emerging from traditional Vedic discourse, the one Hemādri proffers is among the least expected. As the Sanskrit here is somewhat deceptive, it [[P1626]] is worth taking apart the internal logic of the argument piece by piece. In defining *śīla*, Hemādri turns to the no longer extant writings of the Dharmaśāstrin Harīta. Based on our evidence, Harīta may or may not even be offering specifically a definition of *śīla*, for the word appears nowhere in this selection, but perhaps is only offering a generic list of virtues. In Hemādri’s reading, *śīla* has thirteen components, but for him the one that is clearly the most important—indeed likely the whole rationale for using Harīta in the first place—entails “being Brāhmaṇical—*brahmaṇyatā*.” In Hemādri’s contrived justification, what the existence of an abstract suffix—“-*tā*”—in “being Brāhmaṇa” is supposed to communicate is that *śīla* is not the same as ritual action, and that “being Brāhmaṇa”—one might even say, Srinivas style, “Brahmanization”—is its defining feature.
+
+So far all we have learned is that Hemādri has taken what was previously understood as “ritual purity,” which in the early *Dharmasūtras* especially served the purpose of enabling one to be ready to participate in Vedic ritual, and socialized the concept. At most, he has made explicit what is already implicit in works like the *Mānavadharmaśāstra*, namely, that purity is nothing more than the cultivation of the particular *habitus* that belongs to a high-status class. It is with the next leap in logic that the truly radical innovation, which leads to a thoroughgoing “theisticization” of a previously largely mechanistic *dharma* discourse, begins. Essentially, Hemādri poses a question: what is the essential nature (*svabhāva*) of “being Brāhmaṇa”— which in turn is the defining feature of *śīla*—and for what reason does “being Brāhmaṇa” intrinsically provide us with direct and accurate knowledge about the nature of reality? His answer runs as follows. The essential nature of *śīla*—which is what it means to be Brāhmaṇa—is that it has the same mode of being underlying its nature as “a particular kind of person” (*puruṣaviśeṣasvabhāva*). [[P1627]]
+
+The key to understanding this passage—indeed one might say of the whole of the *Caturvargacintāmaṇi*—is recognizing that this term “*puruṣaviśeṣa*” is a well-known euphemism. Its most famous occurrence is in Patañjali’s *Yogasūtra*, *“kleśakarmavipākāśayaiḥ parāmṛṣṭaḥ puruṣaviśeṣa īśvaraḥ* (1.24.2), wherein it is directly defined as a synonym for *īśvara*—a form of God.[^1627_1490] Though this is a text that Hemādri knows extremely well and refers to with some frequency, in light of the rhetorical specificity of his usage, it even more likely that his other source here is the tenth-century Śrīvaiṣṇava theologian Rāmānuja, who for example in his commentary on *Vedāntasūtra* 1.3, *śāstrayonitvāt*, repeatedly uses this formulation in the service of arguing for a much more “personal form of god” who dwells within every human being as the essential or defining feature of the soul (*ātman*). Though Hemādri is a nondualist, after a fashion, and Rāmānuja is most certainly not, he is just about to make a comparable argument. God exists as the part of the *ātman* “that could not possibly be any other way”—in other words, the element of the self that remains unconditioned by the transactional and ultimately quasi-illusionary world. It is the presence of God within the self that is the defining feature of our inner purity, called “*śīla*,” which is itself most perfectly manifested in “being Brāhmaṇa.” This inward dwelling lord provides us with the knowledge that it is God alone, as he dwells within in us, that is the sole means of obtaining *śreyas*—the highest aim in human life. Already we are self-evidently plunged into the realm of a Vedāntic theism. It is only as Hemādri continues to develop this argument, however, that we see why such a perspective is pertinent specifically to the life-world of the Brāhmaṇical Dharmaśāstrin: [[P1628]]
+
+[^1627_1490]: Ironically, the role of Īśvara in Pātañjalian Yoga is far more complex than its subsequent appropriation in a simplified theistic vein of the sort Hemādri is here promoting (though this reading of the text is of a piece with Hemādri’s interpretation of Patañjali across his corpus, which is quite extensive and warrants serious study on another occasion). For a thorough review of the controversy in regard to both the Sanskrit commentarial tradition as well as its colonial and post-colonial reception history, David White, *The Yoga Sutra of Patanjali: A Biography* (Princeton, NJ: Princeton University Press, 2014), chapter 10, especially pg. 177–181.
+
+> H: But with regard to *ācāra*, which is a wedding ritual and so forth, from the practice of the binding on the gold bracelet and so forth, there is the *ātmatuṣṭi*, which, in cases where there is a doubt regarding *dharma*, on the part of those good people of whom the inner organs are those in which reside the Vedic *saṃskāras*, is the satisfaction of the mind, with regard to one perspective [i.e., the correct perspective on the doubt about *dharma*].[^1628_1491]
+
+[^1628_1491]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, pg. 18: *ācāre vivāhādau kaṅkaṇabandhanādyanu- ṣṭh[ā]nād ātmatuṣṭir / atra dharmasandehe vaidikasaṃskāravāsitāntaḥkaraṇānāṃ sādhūnām ekatra pakṣe manaḥparitoṣaḥ /*
+
+As you may remember, throughout this whole part of the commentary, Hemādri is effectively riffing on *Mānavadharmaśāstra* 2.6, which had listed five independent sources for knowledge about *dharma*, namely, Veda, *Smṛti*, *śīla*, *ācāra*, and *ātmatuṣṭi*. Hemādri’s first piece of exegetical wizardry sets out to reduce this list down to four, and he does this by treating *ātmatuṣṭi*, what is pleasing to the self, admittedly a nebulous term of art that had been a bane of Mīmāṃsā-oriented commentators for centuries, as a subordinate feature of making determinations regarding what constitutes proper *ācāra*, now understood simply as any sort of ritual practice. Hemādri’s argument is that in cases where there is doubt about *dharma* (*dharmasandeha*), in other words, when a person has to decide between two or more actions, one of which is the right thing to do and one of which is not, “good people” (*sādhus* in the sense of *śiṣṭas*) need to listen to their conscience, or, if you are feeling more Freudian, their superego. The whole rationale behind participation in Vaidika social acculturation has been reimagined. What really happens when you are put through a traditional twice-born education is that your inner perceptual capacities (the idea here is something like the *antaḥkaraṇa*, though the term does not appear) have the Vedic *saṃskāras* installed inside of them. Though Hemādri does not state this here explicitly—but it was almost certainly to be found in the *Mokṣakhaṇḍa* and is in perfect alignment with what we find in the *Kaivalyadīpikā*—what his line of argument [[P1629]] is strongly implying is that this process is really about the cultivation of god’s latent nature within the soul, which expresses itself as “being Brāhmaṇa”—Brāhmaṇical *habitus*. This “inner Brāhmaṇical voice”—which is really God’s voice—once you learn to listen to it, provides a subtle sort of guidance. Where there is doubt, it tells you to do “the right thing”—both morally and methodologically. When we listen to that voice, we feel a certain form of inner satisfaction. Whatever stimulus produces this type of inner satisfaction, *ipso facto*, as long as it is in alignment with being Brāhmaṇa, must be the right choice. Ultimately, what is happening here is the self (*ātman*) that has God as its ultimate nature is being pleased. This is the real meaning, or so our author says, of what Manu has labelled *ātmatuṣṭi*.
+
+What is at stake when we understand that the accurate knowledge about *dharma* that we derive from the Veda is present within the Veda—not because that authority is intrinsically special, as the Mīmāṃsakas would have it, but because bits of God’s true nature reside within this corpus? For one thing, this perspective immediately opens the doors to the possibility that other canons represent equally valid *dharmapramāṇas*. The most immediate implication of this position is that without any further argumentation, it elevates the status of the *Purāṇas*, at least so long as they teach things aligned with *brahmaṇyatā*—God’s inner voice—such that they become equal to the Veda. After all, as Rāmānuja has already argued—so long as we are talking about the right sort of *Purāṇas*—in these texts, we are privy to God speaking to the sages who then speak to us. And so, as you might anticipate, Hemādri’s treatment of *dharmapramāṇa* now expands, first to include all the other sources of knowledge about *dharma* as outlined by Yājñavalkya, and then, via a citation from the *Viṣṇu Purāṇa*, to incorporate modes of worldly knowledge, such as statecraft and Āyurveda. On the surface, this [[P1630]] might look like a realignment with a classical Nyāya perspective, of the sort we saw in Pakṣilasvāmin’s *Nyāyabhāṣya*, which also recognized multiple domains as sources for veridical knowledge. However, there are key differences, for unlike in that older formulation—with which we are now so well acquainted—where different, even incommensurable modes of knowledge arise from distinctive sources, resulting in a differentiation of domains, here, underneath all the apparent distinctions, everything arises from a single source, namely, God. Moreover, in place of a model where each distinctive domain has its own distinctive authorities whose areas of specialization do not overlap, we are offered the Brāhmaṇa, especially the Dharmaśāstrin, as a jack of all trades who is equally equipped to make definitive judgements in all of these distinct discursive spaces. The justification for this new reality is that “being Brāhmaṇa” means that you can “discern” *dharma* and you do this by listening to God’s voice inside yourself, which has been conditioned to reveal itself by your training as a twice-born. In other words, “being Brāhmaṇa” is in essence a new kind of epistemological capacity that brings out the hidden unitary order that connects together all the seemingly disparate things that make up creation.
+
+On a more quotidian level, through this exegetical maneuver, Hemādri has just provided himself with license to expand the list of authoritative resources to include the texts that matter most to his argument, the vast majority of which were conspicuously absent from even the more extended lists of valid authorities. The *Yājñavalkya Dharmaśāstra*, which recognizes the Vedas as *pramāṇa*, alongside more mixed sources of authority such as the *Purāṇas*, Nyāya, Dharmaśāstra, and the *vidyāsthānas*, for example, had famously offered a closed canon of what constitutes Dharmaśāstra, comprised of eighteen titles[^1630_1492] culminating in itself. The problem with this kind of list, of course, is that it excludes all of the resources [[P1631]] composed after Yājñavalkya itself. The obvious solution, of course, is to compose whole new texts under the same titles, but this only possible if the original work has fallen out of currency. Another possibility, however, is that you can interpolate passages extending the canons into one of these already accepted sources. This is what seems to have happened with the *Yamadharmaśāstra*, invoked by Hemādri, which adds in the *Nāradasmṛti*, not so important to Hemādri, as well as Harīta—very important to our author indeed. And though the passage in Yama itself contains nothing to justify any further expansion of the canon, Hemādri simply baldly imposes his own preferences:
+
+[^1630_1492]: Manu, Viṣṇu, Yama, Aṅgiras, Vaśiṣṭha, Dakṣa, Samvarta, Śātātapa, Parāśara, Āpastamba, Uṣanas, Vyāsa, Kātyāyana, Bṛhaspati, Gautama, Śaṅkha, Likhita, and Yājñavalkya.
+
+> H: And because there is a word *ādi* [^1631_1493], we supply Budha, Devala, Soma, Jamadagni, Prajāpti, Viśvāmitra, Vṛddhaśātātapa, Paiṭhīnasi, Pitāmaha, Bodhyāyana, Chāgaleya, Jābāli, Cyavana, Marīci, and Kaśyapa [as additional Dharmaśāstra authorities].[^1631_1494]
+
+[^1631_1493]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, pg. 19: *manur yamo vaisiṣṭho ‘triḥ dakṣo viṣṇus tathāṅgirāḥ / uśanā vākpatir vyāsa āpastambo ‘tha gautamaḥ // kātyāyayano nāradaś ca yājñavalkyaḥ parāśaraḥ / saṃvarttaś caiva śaṅkhaś ca hārīto likhitas tathā // etair yāni praṇītāni dharmaśāstrāṇi vai purā / tāny evātipramāṇāni na hantavyāni hetubhiḥ //* At least in the printed edition, this “*ādi*” is not actually in the text upon which Hemādri comments.
+[^1631_1494]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, pg. 19: *ādiśabdāc ca budha-devala-soma-jamadagni- prajāpati-viśvāmitra-vṛddhaśātātapa-paiṭhīnasi-pitāmaha-bodhāyāna-chāgaleya-jābāli-cyavana-marīci-kaśyapāḥ/*
+
+Again, the point here is quite plainly to provide justification for authenticating some of Hemādri’s most important doctrinal influences in this discipline. These are works such as Devala, Viśvāmitra, and Paiṭhīnasi, many of which we have seen him invoke at key points in developing his arguments, and all of which, at least on the basis of their surviving citations, expressed a much more “modern” and theist-curious worldview than the earlier literature. The next step, of course, is achieving something similar with regards to the authority of the *Purāṇas*. To accomplish this task, Hemādri leans once again on the indispensable, unplaceable “future *Purāṇa*”:
+
+> H: Thus, it is said in the *Bhaviṣyat Purāṇa*:
+>
+> O disciple, having considered those sentences (*vākyāni*) that are within the eighteen *Purāṇas*, O great armed one, and likewise having looked within the other *Smṛtis* [[P1632]] (*smṛtyantareṣu*) by Manu and so forth, which are known to be twenty-six; having examined the sentences (*vākyāni*) of those [texts] in order, I will tell you.[^1632_1495]
+
+[^1632_1495]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, 19–20: *tathā hi bhaviṣyatpurāṇe— aṣṭādaśapurāṇeṣu yāni vākyāni putraka / tāny ālocya mahābāho tathā smṛtyantareṣu ca // manvādismṛtayo yāś ca ṣaḍviṃśat parikīrttitāḥ / tāsāṃ vākyāni kramaśaḥ samālokya bravīmi te // iti /*
+
+As we will see in the next section, where Hemādri will walk us through how he reads and uses texts—though we have no idea what sort of significance this text would have originally communicated, from Hemādri’s perspective, everything about this choice of passage is deliberate and rooted in specific word choices made by the composition. Essentially, the text accomplishes two things. On the simplest level, it explicitly elevates *Purāṇa* to the exact same level of authority as Dharmaśāstra. The real goal for Hemādri, however, is to meticulously and over the course of many pages continue to develop his core argument that the *Purāṇas*, just like the Upaniṣads—are comprised of *vākyas*. This is to say, they contain sentences that are to be subjected to Mīmāṃsā inspired analysis, which will then, through a process of Vedānta-style *vicāra*, yield direct insight into both *pravṛtti* and *nivṛttidharmas*.
+
+But of course, there are *Purāṇas* and then there are *Purāṇas*. In other words, merely accepting that some *Purāṇas* are authoritative does not in and of itself yield the result Hemādri is really seeking, namely, to authenticate the sources he needs to make his arguments, especially the *Bhāgavata Purāṇa*, but also to claim for the domain of *brahmaṇyatā* the right to adjudicate the *dharmas* of other communities. To get us there, once again, he draws upon the *Bhaviṣyat Purāṇa*:
+
+> H: It is stated that it is the case that there are twenty-six of the *Smṛtis* consisting of Manu and so forth and that is completed by the ones stated immediately after this. So those that commence with the *Mahābhārata*, the *Rāmāyāṇa*, the *Viṣṇudharma*, and the *Śivadharma*, along with the *Gṛhya*[sūtras] and *Pariśiṣṭas* are also mentioned by the statement “in the other *Smṛtis*” (*smṛtyantareṣu*).
+>
+> Likewise, it is stated in the *Bhaviṣyat Purāṇa*: [[P1633]]
+>
+> The Eighteen *Purāṇas* and the Story of Rāma, the *śāstras* of the *Viṣṇudharmas* and the *Śivadharma*(*śāstra*)s, O Bhārata. The text pertaining to Kṛṣṇa, the fifth Veda known of as the *Mahābhārata*. The Dharmaśāstras of the Sauras, O lord of kings, and the ones called *Mānava*, O lord of the earth—men say that the name of them is [itself] victory.
+>
+> H: Thus, whatever else is also incorporated by the great people (*mahājana*) who are beyond reproach, that can be understood to be incorporated precisely by virtue of the statement “and in the other *Smṛtis*.”[^1633_1496]
+>
+> Vasiṣṭhaḥ—
+>
+> *Dharma* is what is enjoined by Śruti and *Smṛti*. When that is not obtainable, the conduct of *śiṣṭas* is authoritative.[^1633_1497]
+>
+> Likewise—
+>
+> Those by whom the Veda is reinforced (*paribṛṃhaṇaḥ*), which has been passed down in succession, are known as exemplary Brāhmaṇas on account of their direct perception of scripture.[^1633_1498]
+
+[^1633_1496]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, pg. 19–20: *manvādismṛtīnāṃ ṣaḍviṃśa[t]tvam uktam, tac cānantaroktābhir eva pūryate / yāni punar mahābhārata-rāmāyaṇa-viṣṇudharma-śivadharma-prabhṛtīni gṛhyapariśiṣṭāni ca tāni ca smṛtyantareṣu cety anenaivoktāni / tathā coktaṃ bhaviṣyatpurāṇe— aṣṭādaśa purāṇāni rāmasya caritaṃ tathā / viṣṇudharmāṇi śāstrāṇi śivadharmāś ca bhārata // kārṣṇyaṃ ca pañcamo vedo yan mahābhārataṃ smṛtam / saurāś ca dharmā rājendra mānavoktā mahīpate //.... evaṃ yac cānyad apy avigītamahājanaparigṛhītaṃ, yad api smṛtyantareṣu cety anenaiva pargṛhītaṃ veditavṃ //*
+[^1633_1497]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, pg. 20: *vasiṣṭhaḥ— śrutismṛtivihito dharmas tadalābhe śiṣṭācāraḥ pramāṇam /*
+[^1633_1498]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, 20: *tathā— pāramparyāgato yeṣāṃ vedaḥ sa paribṛṃhaṇaḥ / viśiṣṭā brāhmaṇā jñeyā śrutipratyakṣahetavaḥ //*
+
+Through an intertextual conflation of previously discrete sources, Hemādri has now arrived at most of the stances that are constitutive of the early modern north Indian Smārta tradition—what we think of when we think of “Brāhmaṇical religion.” Śruti and *Smṛti* are now equally sources of injunctions that provide us with information about what we must and must not do. *Smṛti* in turn now includes both Dharmaśāstra, including all of the community-specific Dharmaśāstras, as well as *Purāṇas*, which are now placed on a level playing field. The adjudication and interpretation of these sources is now the exclusive purview of Brāhmaṇas who are trained to listen to the God inside themselves, the awareness of whom is inculcated through the process of becoming Brāhmaṇa. It is this inner voice that enables society to [[P1634]] properly access and make use of Śruti and that determines how we must read the *Smṛti*. With this sort of hermeneutical apparatus in place, in contradistinction to the attempts at reasserting Brāhmaṇa authority we found in Aparārka, for example, there is no longer any need to reject canons of texts like the Śiva, Vaiṣṇava, and Saura Dharmaśāstras or schools of thoughts like Sāṃkhya, Yoga, Pāñcarātra, or even Pāśupata/Śaiva knowledge. We simply leave the reading of them to Brāhmaṇas with the right kind of instincts who will extract from them the right kinds of details and messages. Apart from substantiating the authority of the *Bhāgavata* specifically,[^1634_1499] which tends not to be listed in most canons of *Purāṇa* titles (this Hemādri will accomplish through creative reinscriptions, the details of which need not detain us), a bare outline of the whole ideological apparatus that powers the rest of the text has now been presented to the reader—and we are only twenty five pages into the *Caturvargacintāmaṇi’s* three hundred page first chapter!
+
+[^1634_1499]: Hemādri’s evidence in support of the inclusion of the *Bhāgavata* here is very sketchy indeed, amounting to a single citation, otherwise unattested, purportedly from the *Kālikā Purāṇa*, which seems to connect that work with a *Bhāgavata* text presumably of a markedly different character than the famous work bearing that title. Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, pg. 22: *kālikāpurāṇe— śaivaṃ yad vāyunā proktaṃ vairiñciṃ sauram eva ca / yad idaṃ kālikākhyaṃ yatmūlaṃ bhāgavataṃ smṛtam //*
+
+Essentially, the rest of this chapter of the *Vratakhaṇḍa* is going to accomplish two more tasks. The next five pages are going to introduce us to defining features of *dharma* (*lakṣaṇa*), which Hemādri will tell us has seven characteristics, namely, place (*deśa*), time (*kāla*), method (*upāya*), substance (*dravya*), *śraddhā*, *pātra*, and *tyāga*. Most of what is going on here is that Hemādri is homologizing Mīmāṃsā categories for thinking through and with rituals to Purāṇic textual realities. The characteristics of *dharma*[^1634_1500] are then followed by a two-part prelude to [[P1635]] the rest of the chapter. First, we are offered a reflection on the depiction of place (*deśanirūpaṇa*), again relying heavily of *Bhaviṣyat Purāṇa*, that sets out to expand the notion of *Āryavārta*, the Indo-Gangetic Plain. It is replaced with a notion of *Brahmāvarta*, “another country where the *ṛṣis* reside,” a realm that is made to encompass, among other place, the *Dakṣiṇāpatha*—Maharashtra and the Koṅkaṇa. The second part explores the concept of *śraddhā*, “being a believer,” as Hemādri understands it. This is a topic we explored already in the previous chapter. Here, the focus is on how it is *śraddhā* that underwrites all activity in much the same way that *dharma* forms the foundation of all things.[^1635_1501]
+
+[^1634_1500]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, 25–26: Both Śaṅkha and Likhita say: “Now the characteristics of *dharma*: *deśa*, *kāla*, *upāya*, *dravya*, *pātra*, and *tyāga*.” H: In all of these, the uprising of *dharma* is universal (*sādhāraṇa*); otherwise, a *dharma* that is endowed with *śraddhā* or *pātra* would be inverted [i.e., not *sādhāraṇa*]. *Kāla* means certain processions of the planets and so forth. Thus, *kāla* is the occasion for arising of both the substance and the *śraddhā*, and thus it is the foundation of both of those two things. *Deśa* is *Brahmāvarta* and so forth. *Upāya* means way a thing has to be done (*itikartavyatā*)—i.e., the sequential procedure for doing it. *Dravya* means the substances to be acquired by one’s activity/livelihood. *Śraddhā* means being a believer (*āstikyabuddhiḥ*). *Pātra* means endowed with the three *vidyās* [i.e., the Veda]. Within all of these, there is the arising of universal *dharma*.” *atha nimittato dharmanirūpaṇam / śaṅkhalikhitau— tatra dharma lakṣaṇāni / deśaḥ kāla upāyo dravyaṃ śraddhā pātraṃ tyāga iti / samasteṣu dharmodayaḥ sādhāraṇo ‘nyathā viparītaḥ śraddhāpātrasa[m]panno dharmaḥ / kālaḥ saṃkrāntyādiḥ śraddhādravyotpattir iti kālas tanmūlo deśaḥ deśo brahmāvartādiḥ / upāya itikartavyatā / dravyaṃ svavṛttyupārjitam / śraddhā āstikyabuddhiḥ, pātraṃ vidyātrayīsampannam / eṣu sādhāraṇadharmotpattiḥ / śraddhādravyotpattir iti kāla iti ayam api saṃkrāntyādivad dānādau dharmakālaḥ / tanmūlodeśa iti / evaṃbhūtakālasaṃpanno deśo ‘pi dharmasya sampādayitety arthaḥ /*
+[^1635_1501]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, 30–31.
+
+Everything that follows thereafter is designed to offer one stop shopping for the Brāhmaṇa Dharmaśāstrin as he assumes his newly minted role as expert on all things “religious.” Somewhat ironically, once you understand why it is there, this material is much more straightforward and accessible than everything that preceded it, so we will just provide a more general overview, highlighting a few interesting details. Depending on how one chooses to enumerate the subsections, the so-called *Paribhāṣā* division has between twenty and thirty sections. As a representative sampling of these headings makes plain, all of what is on offer amounts either to technological guidance or ritual methodologies.
+
+Thus, after instruction on the uses of the *oṃkāra* and other ritual basics, we are given a crash course in the mechanics of key elements of *śilpa* tradition,[^1636_1502] previously a domain [[P1636]] reserved for the largely Śākta artisan communities. There are instructions on the defining features of the stone and metal turtles (*brahmakūrca*) that one sees ubiquitously in front of Maharashtrian temples but hardly anywhere else on the subcontinent, as well as definitions and proportions for different parts of the temple, such as the *prākāra* and *praṇāli*. The Dharmaśāstrin is then presented with an esoteric technology of measurements and proportions, which culminates in a long exposition of how to build a *maṇḍapa*. Almost all of the text we encounter here is excerpted directly from the Śākta and Śaiva Tantras addressed to the *pratiṣṭhāpanācārya*. The *Piṅgalāmata* in particular provides the terms of the discussion, supplemented by teachings from the *Pratiṣṭhāsārasamuccaya*, a later compilation that draws on both Śākta and Śaiva sources, as well as nominally Siddhānta Tantras like the *Svāyambhuva* and *Kālottara*. Once we have the rules we need for making the sacred space where rituals will be performed, Hemādri guides us through the rituals themselves, such the production of the *kalaśa* vessels, all of course using domesticated procedures. We are given *vidhānas* for the traditional feeding and reception of Brāhmaṇas, called the *madhuparka*,[^1636_1503] as well as a standardized procedures for performing *homa* oblations, including how to set up the fire pits.
+
+[^1636_1502]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, 44–66.
+[^1636_1503]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, 69.
+
+Now that we have a grasp of the basics of the preliminary procedures involved in most acts of worship, Hemādri catalogues all the different sorts of entities that might serve as a focus of worship in the voluminous section entitled “forms of the deity” (*devatāmūrtayaḥ*). This occupies pages 70–222 of the printed edition and is far and away the longest part of the chapter. Most of what we are offered are the names of deities accompanied by different visualizations (*dhyānas*). Sometimes, multiple versions are given for the same deity. In a comparatively small number of instances, these visualizations are assigned to specific Purāṇic sources, or to [[P1637]] something called the *Viśvakarmamata*, the source, for example, of the most famous iconographic guide to the goddess Mahālakṣmī. In the vast majority of cases, however, no source is specified. All of these features of our text’s strategic deployment of rather varied textual resources are in evidence in its presentation of an extended catalog of ferocious goddesses.[^1637_1504] As you can see even from the names given below, what we are being offered here are a mixture of icons drawn from the Purāṇic canon and Śākta goddesses from Tantras. Given the contents of the visualizations, many of which are permeated by either the language of the cremation grounds or the ecstatic rhetoric of later Kaula traditions, it is very likely that many of the original unnamed sources from which these passages were extracted were found in Śākta Tantras. In Hemādri’s text, however, all these deities are treated as if they are subspeciations of a generic great goddess, called Caṇḍikā, whose core manifestation has ten arms.[^1637_1505] Though we will not be examining those sections in this work, in his discussion of *Navarātri*, Hemādri will harness these materials in the service of demonstrating that the proper way of worshipping the goddess is through the recitation and performance of the *Devīmāhātmya*.
+
+[^1637_1504]: To cite just the first few examples, we are given in many cases multiple visualizations for Sarvamaṅgalā, Kālarātrī, Lalitā, Nīlajyeṣṭhā, Bhūtamātā, Surabhī, Yoganidrā, the mothers beginning with Brahmāṇī, the Navadurgās, Kalavikaraṇī, Balavikaraṇikā, Balapramathanī, Sarvabhūtadamanī, Manomanī, Pārvatī, Mahākālī, Vāruṇīcāmuṇḍā, Śivadūtī, Kātyāyanī, Ambikā, Yogeśvarī, Bhairavī, Rambhā, Śivā, Maṅgalā, Vaiṣṇavī, and Vijayā. Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, 76–103.
+[^1637_1505]: Her iconography is given on page 80 of the *Vratakhaṇḍa*, vol. 1. The larger argument about the nature of the goddess is spread out over a series of *vratas*, including the procedures for *Navarātri*, most of which are found in the second volume of the *Vratakhaṇḍa*.
+
+Apart from rethinking the nature of the goddesses, all of whom are treated as the same kind of entity—the *devatā*—the key focus in this division on *mūrtis* is that the *Caturvargacintāmaṇi* offers what is probably our first presentation of Indic religion as comprising a single unitary pantheon. Here is the Pañcarātra, the incarnations of Viṣṇu but also [[P1638]] Kṛṣṇa’s companions, such as Yaśodā and Devakī. We find many forms of Śiva, Virūpākṣa, Ardhanārīśvara, Harihara, the *aṣṭāmūrti* and the *dvādaśamūrti*, but also visualizations of the individual Vedic sages along with figures like Nārada and Vālmīki. There are the Vasus and the Vedic gods, but also, in many cases drawing upon the lost *Mayasaṃgraha*, iconography for all different types of supernatural creatures, such as *yakṣas*. There are the planetary deities, which of course have a long history, but also anthropomorphic personifications of specific types of astrological signs and conjunctions, the months, and other phenomena. Aśvinī, for example is mounted on a lotus (shouldn’t that be seated?) and has the face of a horse.[^1638_1506] While the personification of weapons is to be expected, the embodiment of pure abstractions to which a sacrifice might be dedicated is again somewhat anomalous.
+
+[^1638_1506]: Hemādri, *Caturvargacintāmaṇi*, *Vratakhaṇḍa*, vol. 1, pg. 156: *atha nakṣatrarūpāṇi kathayāmi samāsataḥ / tatrādāv aśvinī jñeyā padmapatranibhā śubhā / aśvavaktrāmbujārūḍhā dvibhujā ca sitāmbarā / dakṣe divyauṣadhīpātraṃ bibhratī pustakaṃ kare //*
+
+Now that the gods have all been assembled under one all-inclusive Smārta tent, which treats them as largely interchangeable in terms of the method of their propitiation, Hemādri offers the Dharmaśāstrin a quick introduction to Mantraśāstra.[^1638_1507] What these materials demonstrate is that for what is probably the first time in our documented record, Hemādri is aspiring to hand over to a newly minted community of Smārtas the previously secret and not widely circulating ritual technologies of discrete religious communities so as to make them the commonly held property of a single religious professional. To aid with the execution of deity [[P1639]] specific *prayogas*, the text then imparts twenty-six deity specific variations of the *Gāyatrī* *mantra*. As you may already be seeing, now that our author has constructed a singular and unitary theistic theory of ritual action and delineated that its preferred medium of expression is none other than Dharmaśāstra, Hemādri seeks to recast the contents of what were previously essentially distinctive religious traditions with their own theologies, values, and community-specific practices, and reimagine them as essentially dogmatically and functionally equivalent stylistic inputs operating within a single shared mode of ritual operation where the main points of variation are the deity names invoked and the specific *mantras* being used.
+
+[^1638_1507]: Here, in lieu of a formal initiation into the community, the text explains and transmits the *dvādaśākṣara mantra*—*oṃ namo bhagavate vāsudevāya*, the *nārāyaṇāṣṭākṣara mantra*—*oṃ namo nārāyaṇa* and the Śaiva *ṣaḍakṣarī* and *pañcākṣarī mantras*—[*oṃ*] *namaḥ śivāya*, along with complete explanations of their significance extracted from relevant portions of the *Purāṇas*. When it comes the now extinct system of the Sauras, however, instead of just providing the Saura *ṣaḍakṣara mantra*—*oṃ namo ādityāya*, Hemādri presents us with an complete outline of the Saura *mantra* system, including a *mūla mantra* (*oṃ khakaholkāya namaḥ*) and the full ingredients for a *mantra nyāsa* (*oṃ viṭhiṭhiṭhaṭhaṭhaḥ śiraḥ / oṃ jvalajvalaṭhaṭhaśikhā / oṃ sahasra sau ṭha ṭhaḥ kavacam / oṃ sarvatejodhipataye ṭhaṭha astram*), a set of *Gāyatrīs*, directional *mantras*, a mode for venerating Revatī, invocations of the planets, and *mantras* for summoning and dismissing the god (*āvāhana* and *visarjana mantras*).
+
+In the spirit of this new vision of a universal *dharma*, Hemādri selects, of all works, the *Śivadharmaśāstra* and *Liṅga Purāṇa*. He outlines the procedures they give for performing a ritual bath on a *śivaliṅga*, and then prunes his sources so these very same procedures become instructions on how to perform “the common procedure” for “the great bath” (*mahāsnāna*) as it is used in all basic modes of worshipping any deity. Pulling from the east Indian *Kālikā Purāṇa*, again minimizing references to a specific *devatā* (though here Parameśvara is indeed mentioned), he derives a procedure for *mahāpūjā*, again to be used regardless of the focus of worship. Regarding the use of *tāmbūla* and other substances for feeding and entertaining the god, our author pulls from an unspecified (perhaps Saura?) *ratnakośa*. When it comes to the procedure for the waving of the great lights (*mahādīpavidhi*)—precursor to the modern *ārati*—Hemādri’s source is the *Viṣṇudharmottara*. Should we decide that the *Ratnakośa* in question is in fact a Saura source—not implausible—then Hemādri would have deliberately drawn upon resources from scriptural resources aligned with four of the traditions (Vaiṣṇava, Śaiva, Saura, Śākta—all that is missing are the Gāṇapatyas) that make up the Smārta *pañcāyatana*.[^1640_1508] [[P1640]]
+
+[^1640_1508]: The relevant passages, extracted from two distinct texts and much of which are quite obscure are found on pg. 312–315 of the *Caturvargacintāmaṇi’s Vratakhaṇḍa*, vol. 1. Note that in the initial text, whose source is not made explicit, the ritual actor is actually described as *“vāmadakṣiṇasiddhāntavedāntagṛhyapāragaiḥ,”* strongly suggesting we once again are working with source materials that deliberately included practitioners of both the Bhairava Tantras and Kaula sources in a way that is antithetical to Hemādri’s recasting of these materials.
+
+Since the objective of our text is to present a complete ritual tool kit to a newly emergent class comprised of a new kind of professional—and ignorance among Brāhmaṇas about how to execute and manage ritual may well have come in all sorts of shapes and kinds—our text next digests just enough astrology, both its technical terms of art and the basic rules for determining ritual times, to facilitate its use in ritual. Suggesting once again that many among the intended audience, obsequious twice-born rhetoric aside, in actuality had minimal formal training in the contents of Vedic ritual, after a digression on *mudrā*, the *Vratakhaṇḍa* distills each of the four Vedas down to their most commonly used *mantras*, as arranged by meter as well as theme. The end result strongly resembles the correspondence courses of a generation ago, where a person could send away for a workbook and a set of audio tapes and after six or eight weeks of study set themselves up as a *pūjāri* for hire who had “mastered a Veda.” In essence, they amount to a commodification and instrumentalization of Vedic knowledge in the service of the mass professionalization of a demographic of people with minimal traditional education in the ins and outs of “doing ritual” for others. From henceforth, to “have the Veda”—which as we have seen has become the criterion in general for wielding authority in society—and thereby to embody Brāhmaṇism as religious tradition, might simply mean that a certain Brāhmaṇa had studied the *Caturvargacintāmaṇi*.
+
+## What I Did to the Gods: Feeding Your Ancestors While Fending off Mīmāṃsakas
+
+As many a modern[^1640_1509] as well as premodern commentator has observed, though it is one of the oldest and most important rites in the ritual repertoire of a range of Indic religious traditions’ [[P1641]] practices, the core logic animating the ritual of *śrāddha* rests uneasily with many of the core presuppositions that had come to be accepted by the learned traditions of classical Indian religions. From the post-classical Vaidika perspective, the paradox it poses is at once self-evident and seemingly irresolvable. The problem is quite simple. Whether you believe that through sacrifice, a twice-born man arrives at an eternal state of beatitude, called heaven, or through a program of *askesis*, entailing sensory withdrawal or self-perfection, a person can escape from cycles of transmigration, at the end of the day, within learned entextualized traditions, there is a basic consensus, namely, that there exists some mode of action or understanding that ensures that human beings, when they do right kind of thing, are no longer condemned to descend into the world and experience suffering. In contradistinction to these core notions, at the most basic level, *śrāddha* presumes an entirely different sort of religious reality. Indeed, its animating ethos is much more in alignment with the social realities anthropologists find on the ground—and not just in South Asia. Entirely free from any sort of soteriological assumptions, it is a mode of understanding in which it is presumed that all of one’s ancestors, persisting indefinitely, require the feeding, contact, and care that only *śrāddha* rituals can provide. Thus, in the *śrāddha*, much like in a Vedic ritual, invisible beings are invited, praised, fed, and then dismissed. Just as with Vedic ritual, these events coincide with a whole lot of complex activity enacted within and primarily impacting a visible human realm with its own social economies of exchange.
+
+[^1640_1509]: An exceptionally useful book in this regard is the recently published collection of essays by David Knipe, all of which are at least nominally focused on *śrāddha* rites. David Knipe, *The Hindu Rite of Entry into Heaven: And Other Essays On Death And Ancestors in Hinduism* (Delhi: Motilal Banarsidass, 2019).
+
+As we touched upon briefly in the previous chapter, in much the same way that by the early medieval period one of the primary points of interface that the ethos of the Sanskrit cosmopolis had with the wider public was through the medium of transactional Sanskrit or Sanskrit inflected *ephemera*, because they had come to punctuate so much of life’s most [[P1642]] important moments, *śrāddha* rituals of various different sorts seem to have become the public face to the world of Vedic and Vaidika style ritual. Within the insular but intellectually influential domain of Pūrva Mīmāṃsā, which maintained that real religion began at the point where its social impact ended, *śrāddha’s* paradoxes were basically irrelevant. As we have seen, and will continue to see, Mīmāṃsā precedes in all of its investigations by presuming that lived religion and its theologies were an irrelevant, perhaps even harmful fairytale. This is to be accepted by the *rubes* but in no way corresponds to the real architectonic that orders our reality. The real order of things, Mīmāṃsā proposes, is that the smooth mechanistic workings of ritual operate as a nearly autonomous miracle producing machine, requiring only occasional inputs supplied by the sacrificers that are its implements. Within such a framework, asking questions about the ontological and phenomenological status of the ancestors, such as—What are they? Where do they go? How is it the case that *śrāddha* rites feed them?—is as irrelevant an activity as inquiring into the nature of God or the gods. Insomuch as the more scholastic traditions among the legalists looked to Mīmāṃsā for guidance, the same was largely true for much of Dharmaśāstra exegesis. Either questions of “why,” as opposed to “what to do and not to do,” were deemed irrelevant, or the answers the *śāstrins* supplied aimed at pushing back against the “common sense” stances of lived Indian religions through a thoroughgoing translation of what were deemed inappropriately “subjective” affective understandings into the neutral almost technocratic view “from nowhere” provided by earlier writers like Śabara and Kumārila.
+
+By now it should be apparent that Hemādri’s reimagining of Smārta ritual as a self-consciously social and socially mediated phenomenon as well as his thoroughgoing and quite personal advocation of a theism deeply interested in lived religion and the affective imagination renders it utterly inconceivable that he would continue such “traditional” modes [[P1643]] of learned explanation. For him, above all else, the gods are as real as their worshippers. Both their and our intentions are mutually imbricated in a shared reality that makes ritual “work.” It is thus hardly surprising that for the first time, at least in the recorded history of what survives of Sanskrit discourse, it is Hemādri that responds and rebuts the traditional interpretations supplied by Mīmāṃsā. In their place, in a robust *śāstric* language attuned to resolving doctrinal discrepancies and contradictions, he articulates the common sense understanding of lived Indic religions in which ritual is powered by actual exchanges between human beings and various types of very real entities we just cannot see. Despite the fact that the passages in question occur at least more than two thirds of the way through his *magnum opus*, that the particular staging ground he chooses for laying out these arguments is the very opening of the *Caturvargacintāmaṇi’s Śrāddhakalpa* is also clearly strategic. Occupying two volumes just by itself in the edition, the *Srāddhakalpa* seems to have been designed to operate both as a component within the larger body of the text as well as a standalone reference guide putting professional Smārta ritualists through their paces in conducting the most common sort of public Vaidika ritual, *śrāddha* sacrifices in all their various permutations.
+
+We have encountered the opening of the *Śrāddhakalpa* before, in the previous chapter, when we were establishing the authenticity of the *Pratiṣṭhāpaddhati* and discerning its place and function within the rest of the *dharmanibandha*. There, we saw briefly that “Hemādri speaks the *śrāddha* injunction joined with a praise of the fruit” as the last in a series of three discourses on the larger topic of *pratiṣṭhā*, here understood more broadly as acts of institutionalization. The first section discussing the installation of the *liṅgas* and images was the *Pratiṣṭhāpaddhati* itself; the second, the now lost consideration of the *pratiṣṭhā* of cows and the veneration of Harihara as well as the companions of Kṛṣṇa in Gokula and beyond, [[P1644]] figures such as Nanda. As Hemādri has reframed things, what all of these superficially very different types of activities have in common is that they are all acts of “institutionalization” that are addressed to “*devatās*,” a category that has already been expanded to include figures like Kṛṣṇa’s foster father, the very human cow herdsman Nanda Gopāla. As the *Śrāddhakalpa* commences, then, Hemādri begins by homologizing the *śrāddha* rites to these other kinds of “sacrifice.”
+
+> H: Now, regarding the installation (*adhiṣṭhāna*) of those having the forms of Brāhmaṇas and so forth, there is stated the worship of the deities (*devatās*) who have the form of ancestors (*pitṛ*) who have great greatness (*mahā mahinam*). . . . Worship (*ārādhana*) means the act of pleasing a mind, and the means [by which that mind is pleased] is ritual (*karman*), of which the defining feature is the *śrāddha* sacrifice. Therefore, that is stated.[^1644_1510]
+
+[^1644_1510]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 8: *athedānīṃ brāhmaṇādirūpādhiṣṭhāne vasurudrāditya- pitṛmatsomāṅgirasayamakavyavāhanāgnisomapājyapāgniṣvāttādīnām mahāmahimnāṃ pitṛrūpāṇāṃ devatānām arādhanam ucyate / ārādhanaṃ ca, manasaḥ prīṇanaṃ, tasya copāyaḥ śrāddhalakṣaṇaṃ karma / atas tad ucyate /*
+
+We will soon discover that almost every aspect of how Hemādri has defined the *śrāddha* ritual flies in the face of the Pūrva Mīmāṃsā consensus, not just regarding theological matters, but in terms of the basic approach he has taken to analyzing a ritual and breaking it down into its component parts. For the moment, let us just focus on making sure we are clear about Hemādri’s own choices in analyzing the ritual. Just as when you are setting up a temple, the central focus is the installation or institutionalization of a *liṅga* or *mūrti*, Hemādri proclaims that the *śrāddha* finds its fulfillment in the institutionalization of the Brāhmaṇas who will be fed at the end of the *śrāddha*. The deity/deities that presides over the ritual, however, are the ancestors, exemplified in a long list of names. In this passage at least, the relationship between these ancestors and the “*devatā*” that governs the ritual has yet to be made clear, though this will end up being one of the fundamental focuses of Hemādri’s argument. The ancestors are worshipped by means of the ritual, and that worship is inseparable from the pleasing or [[P1645]] delighting of those entities. In other words, already, the *śrāddha* ritual has been framed as an interaction between the human and non-human world, the success or failure of which hinges on affective experience and not merely the flawless execution of predetermined rules.
+
+Having outlined the basic framework that he will spend the chapter defending against his Mīmāṃsaka opponents, Hemādri somewhat abruptly switches gears, offering his readers an unusually explicit rethinking of the relationship between ritual analysis, which makes use of Mīmāṃsā inspired models, and the act of reading, which in Sanskrit *śāstra* by this time is thoroughly mediated by Mīmāṃsaka theories of cognition, sentence analysis, and philosophy of language.
+
+> In that regard, first of all, in so much as the injunction (*vidhi*) is causing a person to engage in an activity directed towards an aim, which is [the activity] being enjoined [by the injunction], [it is] in dependence upon the praise of the object being enjoined. [It is the praise of the object being enjoined] which causes the intense investment of activity on the part of a person towards its own [the injunction’s] aim to be accomplished (*sādhya*). [Thus] it [the successful execution of the injunction] depends upon statements of praise that produce [in the ritual actor] the predilection (*ruci*) for the thing being enjoined, and upon statements of the fruit.
+>
+> Precisely as these people proceed (*pravartante*) towards the object, [which is the aim being enjoined], in just the same way, readers proceed in regard to a book that concerns that subject. Therefore, for them, also on that matter (*tatra*), there are statements in praise of the fruit of injunctions that cause people to proceed—thus they have as their subject matter the *śrāddha*. Those very statements are written first in sequence, and because of their mutual syntactic connection, [those statements] convey a single unitary meaning. Thus, this *prakaraṇa* is a single [conceptual unit.][^1645_1511]
+
+[^1645_1511]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 8: *tatra tāvad vidhiḥ svavidheye ’rthe puruṣaṃ pravartayan svasādhyapuruṣapravṛttyatiśayakāriṇīṃ vidheyaprarocanām apekṣamāṇo vidh[e]yarucyutpādakāni praśaṃsā- vacanāny apekṣate phalavacanāni ca / yathaivaite puruṣā vidheye pravartante tathaiva tadviṣaye granthe śrotāraḥ / atas teṣām api tatra vidhiphalapraśaṃsāvākyāni pravartakānīti śrāddhaviṣayāṇi / tāny eva prathamam abhilikhyante / tāni ca parasparānvayād ekavākyatāṃ gatānīty ekam evedaṃ prakaraṇam /*
+
+Underneath all that convoluted syntax, what we have here in the first paragraph is a representation of the classical Mīmāṃsaka theory of how ritual injunctions lead to actions. On the most basic level, the message here is that injunctions tell us that we have to do specific, [[P1646]] often seemingly very arbitrary things in the ritual, but by themselves they do not provide us with any particular motivation for these actions. Nor do they offer an explanation for why we should do those things. Because, as Śabara puts it quite bluntly, people are selfish creatures motivated by their own desires, there has to be some impetus, external to the injunctive statements themselves, that convince people that they should do the ritual. For Mīmāṃsakas, that motivation is provided by the mode of discourse they call *arthavāda*. This is the label Mīmāṃsā assigns to most of Vedic textuality. Since the theology of the Vedic world is essentially alien and abhorrent to the exegetes, they presume that all of the stories about gods and demons or praises of specific deities, sages, sacrifices, or ingredients used in the sacrifice, are effectively persuasive tools designed to convince people to execute their ritual duties.
+
+Hemādri now proceeds to transpose what are typically abstract, even obtuse, scholastic debates carried out within Vedāntic commentaries into the more practical realm of Dharmaśāstra. Our author is certainly not the first person to theorize the commonalities between ritual discourse and the act of reading. Nevertheless, the transposition of this intellectual strategy into this kind of non-entextualized applied context, where the main activity is not reading, seems to represent his own innovation. Hemādri’s major point here is that, just as you need *arthavāda* to get self-interested people to actually do the rituals, you also need a compelling advertisement of the benefits of the practices even to get people to read about these self-same rituals. Otherwise, they might get distracted or bored and go off and read something else. To mitigate against such tendencies, Hemādri tells us explicitly, very much in the spirit of vocational education, you need to foreground just what is so great about a specific practice and its components along with benefits that, you, the potential reader, will be accrue from learning all about it. [[P1647]]
+
+On a more theoretical level, Hemādri has also just shown his reader how to read his text. As you may have noticed, the method he outlines corresponds exactly to the approach we have taken throughout our own investigations of the *Caturvargacintāmaṇi*. What he asserts is that though on the surface, it appears to be made up of citations drawn from different sources, we should read the *Caturvargacintāmaṇi* as offering a single connected discourse, with each citation supplying something that continues to build into a coherent argument. Much as for many Vedāntins, a major topic of interest is the question of *aikaśāstrya*—namely, of determining whether or not Pūrva Mīmāṃsā and Uttara Mīmāṃsā, i.e., Vedānta, form a unitary mutually complementary intellectual conversation—Hemādri proposes to collapse the distinction between the methods and intentions that govern the ritual itself and those that organize second-order ritual discourse. In doing so, he proposes to dissolve the hard boundaries between lived experience and the act of reading and between doing and thinking.
+
+Though he is less explicit about this reality, in assembling and structuring the *Caturvargacintāmaṇi*, Hemādri also clearly practices what he preaches. In fact, once the methodological and theoretical tools needed in a sub-discipline have been supplied, each section of his text begins precisely with a praise of that practice, whether we are talking *vrata*, *dāna*, *tīrtha*, or *śrāddha*, as well as a delineation of the various benefits that it conveys. This is precisely the reason that the current chapter is entitled the division concerned with the praise of the *śrāddha* injunction and the fruit of the *śrāddha* injunction (*śrāddhavidhiphalapraśaṃsāprakaraṇa*). In this regard as well, much like the *Bhāgavata*, the *Caturvargacintāmaṇi* presents itself not just as a textual aid to ostensibly Vaidika ritual, but as executing at once the very functions assigned to scripture and those assigned to its commentaries. It is for this reason that the theoretical discussion we have just been exploring [[P1648]] is immediately followed by a series of citations offering manifold praises of the *śrāddha*, of which here we will highlight only the first two, both of which, incidentally, Hemādri has ported over from his predecessor Lakṣmīdhara.
+
+> Sumantu says: There is nothing that is better than *śrāddha*—it is known as producing the highest (*śreyas*). For that reason, the discerning person should perform the *śrāddha* with all of his effort.
+>
+> The *Brahma Purāṇa* says: “Therefore, a man should perform the *śrāddha* with *bhakti* and *śraddhā*, according to the injunction outlined by all [Vedic] *śākhās*, no one in his *kula* declines.”[^1648_1512]
+
+[^1648_1512]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 8: *āha sumantuḥ— śrāddhāt parataraṃ nānyac chreyaskaram udāhṛtam / tasmāt sarvaprayatnena śrāddhaṃ kuryād vicakṣaṇaḥ / brahmapurāṇe— tasmāc chrāddhaṃ naro bhaktyā śā[kh]air api yathāvidhi / kurvīta śraddhayā tasya kule kaścin na sīdati //*
+
+Since we have already spent an ample amount of time examining how Hemādri makes use of and manipulates his sources, even though the same pattern of building an argument out from the citations is also in evidence in this part of the *nibandha*, as much as possible without obscuring the main arguments, the analysis that follows will limit itself to focusing on Hemādri’s own prose discourse. Readers interested in the specific catalysts for some of these arguments are encouraged to consult Bharatacandra Siromani’s edition. In any case, after much praise of *śrāddha* and focus on its relationship to the feeding of Brāhmaṇas, Hemādri begins to home in on his major theoretical point in this section, a doctrine that, as we will see in some detail, puts him on course for a head-on collision with his Mīmāṃsā predecessors. In the translation that follows, several successive discussions, each of which is interrupted by its own collection of supporting proof texts, have been woven into a connected conversation.
+
+> In all rituals directed at deities, prior to the performance of the *śrāddha*, which is included as a subordinate component of the ritual, there is the satisfying (*āpyāyana*) of the ancestors prior to the gods,. . . .[^1648_1513]
+
+[^1648_1513]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 10: *sarveṣu daiveṣu karmasu karmāṅgaśrāddhasya pūrvam anuṣṭhānāt devebhyaḥ pūrvaṃ pitṛṇām āpyāyanam iti /*
+
+[[P1649]]
+> Now, when a *śrāddha* is being performed by any certain person, at the instruction of his own father or grandfather, there would be the simultaneous satisfying (*prīti*) in one single procedure of many [deities]—Brahmā, Indra, and so forth, even though they are not indicated directly [in the text]. [Also,] there would be the satisfaction (*tṛpti*) of creeping animals (*sarīsṛpa*), even though they have arisen from another *kula*. Thus is the meaning of the statement.
+>
+> [Thus, it is made clear that] in one single procedure, by various components of the *śrāddha* ritual, there would be the satisfaction of the many who have come forth from the *kula* of the performer of the *śrāddha*, who have come forth from various wombs, even though they are not indicated directly [in the particular passage under discussion]. . . . [^1649_1514]
+>
+> And therefore, in the *śrāddha*, there is stated to be the satisfaction of all the lineages [associated with the sacrificer] by means of the components [of the ritual]. It is stated that the satisfaction of the fathers, grandfathers, and so forth, who were being indicated as the principal ritual elements (*mukhya*), [takes place] by means of the feeding of Brāhmaṇas and so forth, which is the main ritual activity (*pradhānakarma*).[^1649_1515]
+
+[^1649_1514]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 12: *yena kenacit puruṣeṇa svīyapitṛpitāmahoddeśena śrāddhe kriyamāṇe brahmendrādīnām anuddiṣṭānām apy anekeṣām ekasminn eva prayoge yugapatprītir, anyatkulotpannānām api sarīsṛpādīnāṃ ca tṛiptiḥ syād iti vacanārthaḥ / śrāddhakartṛkulotpannānāṃ tu nānāyonigatānām anuddiṣṭānām apy anekeṣām ekasminn eva prayoge tattacchrāddhakriyāvayavais tṛptiḥ syād iti/*
+[^1649_1515]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 14: *tad evaṃ śrāddhāv ayavaiḥ keṣām api vaṃśyānāṃ tṛptir uktā / brāhmaṇabhojanādinā pradhānakarmaṇā tu mukhyānām uddiśyamānānāṃ pitṛpitāmahādīnāṃ tṛptir bhavatīty uktam /*
+
+Though each of these bits of the commentary reflect on successive stages in the ritual, namely, the preliminary satisfying of ancestors prior to the worship of the *devatā*, the actual worship of the *devatā*, and satisfaction of the ancestors that follows after that act of worship, they are all joined together by a focus on a common theme. In each of these cases, Hemādri has centered the satisfying or pleasing (*āpyāyana*, or *prīti*, or *tṛpti*) of entities that are either invisible or, in the case of those born from different wombs—in other words snakes, birds, worms and so forth—at least non-human. Succinctly, instead of representing a technology that decenters the agents who participate within it, here ritual is understood to demand the achievement of an affective mode of experience. Whether they are gods, the invisible spirits of the deceased, or wild animals, the entities it invokes do not merely consume offerings they [[P1650]] need for their continued survival, but are seen as having a positive emotional response to whatever they have been offered. Already we are also starting to see that quite unlike the typical Vedic ritual, where each offering is reserved for one or more specifically named *devatā*, this act of feeding and pleasing is diffuse. The intent is that it will have a positive impact on a whole range of eager and hungry entities. In any case, as the passage concludes, Hemādri lets his readers in on the real secret to understanding *śrāddha*, which runs as follows. The main focus of the ritual is pleasing the ancestors. At the same time however the main ritual act of the *śrāddha*, counterintuitively, does not occur during the *śrāddha* ritual itself. Instead, what Hemādri asserts is that it comes at the end of the rite when the invited guests sit down in their receiving lines and are fed. Succinctly, the nourishing of all the disparate types of ancestors, whether they have assumed the shape of animals or invisible spirits, is best accomplished in the very act of feeding actual human food to actual human Brāhmaṇas.
+
+It is in response to this on the surface rather preposterous claim that Hemādri’s first imagined objector chimes in, offering in reply some very good reasons for treating our author’s presuppositions as rather dubious:
+
+> Now someone might object, how is it possible that there can be the satisfaction of those who have gone to heaven and who are possessing the highest merit—being men, fathers, grandfathers, and so forth? Given that they are subsisting on nectar (*amṛta*), [how is it possible that there can be satisfaction of these ancestors] by means of human food, which [after all] is consumed in the [act] of the feeding of Brāhmaṇas?
+>
+> Or likewise, [how could there be the satisfaction] of those sinful ones who have gone to animal wombs, given that they are subsisting on grass and so forth? Or, [for] those who have taken on the forms of *pretas* and so forth, given that they live off blood and so forth? Thus it is stated in *Padma* and *Matsya Purāṇas*: “If it is eaten by mortal twice- borns, or if it is oblated into the fire, how can what is given be consumed by the deceased who are either auspicious or inauspicious?”[^1650_1516]
+
+[^1650_1516]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 14: *nanu puṇyotkarṣavatāṃ svargalokaṃ gatānāṃ manuṣyapitṛpitāmahādīnāṃ amṛtāhārāṇāṃ satāṃ kathaṃ brāhmaṇabhojavinaṣṭena mānuṣeṇa cānnena trptiḥ sambhavati / pāpīyasāṃ vā tiryagyonigatānāṃ tṛṇādyāhārāṇāṃ satāṃ pretādirūpatvaṃ gatānām vā rudhirādyāhārāṇāṃ satām ity uktaṃ / pādma-mātsyayoḥ— yadi martyair dvijair bhuktaṃ hūyate yadi vānale / śubhāśubhātmakaiḥ pretais tad dattaṃ bhuñjyate katham //*
+
+[[P1651]] All things being equal, Hemādri’s imagined opponent makes some really great points. Let us accept, for the sake of argument, at least for the moment, that some of the ancestors of the sacrificer lived righteous lives and ascended to heaven, while others of them transgressed and were therefore reborn in the wombs of animals or evil spirits. Even if all that is true, the objector says, Hemādri, your model is preposterous. For, the good souls would be inclined to eat the divine nectar that abounds in heaven. The mediocre ones would consume grass and other vittles preferred by animals. As for your really bad ancestors, who came back as the things that haunt human nightmares, they would have to make do on a diet of pus or blood. But as any fool can see, at the *śrāddha*, we do not serve nectar, or grass, or bowls full of pus. All we do is toss stuff into the fire and feed rice and the like to random Brāhmaṇa guests. In other words, there are no solid logical grounds for establishing a causal connection between this kind of ritual and its supposed aims. If nectar or pus are what you crave, it therefore stands to reason, *preta*, beware, you should not come to our *śrāddhas*, for you will leave hungry. It therefore follows that all these ideas we have about *śrāddha* rites actually feeding the ancestors are either euphemisms for something else or a whole bunch of nonsense.
+
+Hemādri responds to this eminently reasonable series of objections by leaning hard on one of his favorite resources, the now lost *Devalasmṛti*, which apparently proposes that there is a transubstantiation of the food offering. When the offering goes into the fire—or the belly of a Brāhmaṇa—it is transmuted into whatever particular substance and medium corresponds to the type of birth the ancestor has achieved.
+
+> H: The rejoinder (*samādhāna*) to that objection on that very matter has been stated. As Devala says on that [subject]: [[P1652]]
+>
+> “If an ancestor is born as a god, in conformity with auspicious *karma*, his food, having become nectar, with follow him (*anugacchati*) into godhood. In regard to a *gandharva*, through the form of what is to be enjoyed [i.e., sex], or with regard to a *paśu*, it would be grass. The food from the *śrāddha*, in the form of wind, follows him even into *nāga*-hood. It becomes liquor in *yakṣa*-hood, or in *rākṣasa*-hood it becomes meat. With regard to *dānava*-hood, it is likewise meat. With regard to being a *preta*, it becomes blood water. With regard to humanity, it [food] becomes rice and drink and so forth, which has various flavors of enjoyment.”[^1652_1517]
+
+[^1652_1517]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 14–15: *asyākṣepasya samādhānaṃ tatraivoktam / tatrāha devalaḥ— devo yadi pitā jātaḥ śubhakarmānuyogataḥ / tasyānnam amṛtaṃ bhūtvā devatve ’py anugacchati // gāndharve bhogyarūpeṇa paśutve ca tṛṇaṃ bhavet / śrāddhānnaṃ vāyurūpeṇa nāgatve ’py anugacchati // pānaṃ bhavati yakṣatve rākṣasatve tathāmiṣam / dānavatve tathā māṃsaṃ pretatve rudhirodakam / manuṣyatve ‘nnapānādi nānābhogaraso bhavet /*
+
+Eminently reasonable as always, Hemādri’s first objector is quick to tell us that, *Smṛti* text or no, gaping holes abound in this kind of logic. To put the matter bluntly, what Devala is teaching presumes a myriad of occurrences that directly conflict with our shared lived experience of the world.
+
+> PP1: Now one might object that just as there is the transformation of milk into the form of yogurt, when it comes yogurt there is seen the perceptible [transformation] into the form of buttermilk and so forth, [in contrast,] we do not in the same way see the transformation of what is eaten or what is being oblated into the form of nectar and so forth and grass and so forth. Nor is it possible for it [the offering], even if it is transformed, to be obtained by a living being in some other place of its own accord, insofar as it [the offering] is devoid of the power of activity. Nor is it possible for deceased living beings, who are under the sway of various *karmas*, to creep to the place of the *śrāddha*. Nor is any connection possible. . . with the predecessors of the performer of the *śrāddha*, who have taken the form of those thousands of crores of taxons of beings who are excluded [from the *śrāddha*], including. . . .[^1652_1518]
+>
+> These and other unresolved problems are indicated in the *Purāṇas*, as when the *Padma* and *Matsya* [say]: “How is it possible that the *havyas* and the *kavyas* that are given by people here in this world go to the world of the ancestors, or who here [in this world] is said to be the obtainer?”[^1653_1519]
+
+[^1652_1518]: See the text below for a list of the entities in question, the nature of one of which cannot be determined.
+
+[^1653_1519]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 15: *nanu yathā kṣīrasya dadhirūpeṇa pariṇāmaḥ, dadhnaś ca takrādirūpeṇa pratyakṣato dṛśyate, naivaṃ bhojyamānasya hūyamānasya vā amṛtādirūpeṇa tṛṇādirūpeṇa vā pariṇāmo dṛśyate / na ca pariṇatasyāpi svātantryeṇa kriyāśaktiśūnyasya deśānataragataprāṇiprāptiḥ sambhavati / nāpi nānākarmavaśaṅgatānāṃ pramītaprāṇināṃ śrāddhadeśopasarpaṇam upapadyate / nāpi cāsya suparṇa- gandharva-yakṣa-rākṣasa-preta-piśāca-nara-kinnara-paśū-pakṣi-kṛmi-kīṭādikoṭijātisahasratirṣkṛtasvarūpaiḥ śrāddhakartṛpūrva-jaiḥ saha sva*[here the edition has a printing gap in all available printings] *vivicya sambandhaḥ sambhavatītyādyākṣepāḥ purāṇeṣu sūcitāḥ / pādmamātsyayoḥ— kathaṃ kavyāni dattāni havyāni ca janair iha / gacchanti pitṛlokaṃ vā prāpakaḥ ko ‘tra gadyate //*
+
+As the objector outlines, if you say that your offerings change states, like when milk curdles, would there not be some proof? Would we not see the rice changing into nectar or pus? For that matter, whatever their consistency, how would these offerings, after they fall into the fire or are swallowed by the Brāhmaṇa, make their way to their intended recipients? It is not like the melted ghee can grow legs of its own accord and go off on a quest to find your great-grand uncle. Moreover, what if grandpa, after his last life, was not even born on this continent, or assumed a form that either is not permitted to attend the *śrāddha* or, like a slug, would face real trouble making its way to the sacrificial grounds to receive its offering in a timely manner? In other words, not only are the pragmatics of the scenario being proposed underdeveloped, but the logical connection between the ritual and its purported outcome is contrived and implausible.
+
+Hemādri’s response to this multitude of objections is woven into an array of passages, many of which are framed as responses, both to the objections we have just encountered as well as to a plethora of nitty gritty details native to specific proof texts. His overall theological position, however, amounts to a thoroughgoing reimagining of the nature and function of the textuality of all forms of scripture, both Vedic and non-Vedic, that overturns the cherished doctrinal canons of Mīmāṃsā while retaining its exegetical technology. What he offers, in essence, is an almost naïve reenchantment of the world that takes the scriptures almost at face value. It is the words themselves within the *mantras*, Hemādri tells us, as uttered aloud by the ritualists, that both transmute and are transmuted into the food for the ancestors. It is the names of the recipients themselves within the *mantras* that when spoken aloud, show the transmuted offerings how to reach their specific designated recipient. *Mantras* are thus not only magical, but must possess in a sense their own sort of intelligence. The way they make use of that [[P1654]] intelligence is by processing inputs through the rules of Mīmāṃsaka exegesis. What Hemādri is saying is that such seemingly pedantic but essential acts of Mīmāṃsā ritual analysis as “the obtaining of names” or the “identifying” of the deities are undertaken not merely because they serve the instrumental aids of the ritualist seeking to remember and order his ritual actions, but because they themselves assist the non-human agents in completing their tasks. In place of a disenchanted world where the only trace of the supernatural is the principle of *apūrva* that miraculously imbues sacrificial acts with efficacy, it is now spirits and an array of hidden forces that in tandem with the human sacrificers make ritual work.
+
+> H: The meaning here is that the names and so forth of the fathers and so forth are to be obtained [from within the *mantras*]—[in other words,] they must be known.
+>
+> PP: Now one raise the doubt, how is it possible for names and so forth, which are not sentient, to be the obtainers of *havya* and *kavya* [offerings]?....[^1654_1520]
+>
+> H: On that very matter, [it is replied:] “The name *mantras* and their substitutions (*ādeśas*) [adaptations of the original names in the texts,] having gone to the state of becoming their food, please the living beings, even if they [the ancestors] have gone on to another existence”. . . .[^1654_1521]
+>
+> In this context, “substitutions” (*ādeśa*) means—substitutions of name, *gotra*, and so forth. The meaning of the statement is, the words that are iterated through the process of *ūha* and so forth. . . . [In any case,] the name bearer of the ancestors is recognized/authorized, by the Brāhmaṇas. . . . When it [the proof text] says “to those who have gone to another existence”—what it means is even those who have gone to other various conditions, wombs, times, and places. By this phrase, “gone to becoming their food”—it is stated that the oblation that is given is transformed into the form of the food—nectar and so forth, suitable to those various wombs—precisely on account of the *mantras* and so forth, which are *alaukika*. . . . And this is also in the *Vāyu Purāṇa*:
+>
+> “What is produced by the injunction comes according to the maxim (*nyāya*) to the recipient in time. They [the *mantras*] lead the food there to where the living creature abides. . . . Those things—the name, the *gotra* and *mantra*—lead the food that is given even for hundreds of births; it approaches those ones who are satisfied, [in other words,] who have obtained it.” [[P1655]]
+>
+> Thus, it is stated that the *mantras* and so forth cause the ancestors to obtain the oblation, precisely insofar as they are located in another world, and thus have not come to the place of the *śrāddha*.[^1655_1522]
+
+[^1654_1520]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 16: *pitrādināmādīni upalabhyāni jñātavyānīty arthaḥ / nanv acetanatvān nāmādīnām kathaṃ havyakavyaprāpakatvam ity āśaṅkyoktam /*
+[^1654_1521]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 16: *nāmamantrās tadādeśā bhavāntaragatān api / prāṇinaḥ prīṇayanty ete tadāhāratvam āgatān /*
+[^1655_1522]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 17: *tadādeśā nāmagotramantrādīnām ādeśā ūhādiprakāreṇa viparivartitāḥ śabdā ity arthaḥ.... brāhmaṇair abhyanujñātaḥ svapitṝṇāṃ ca nāmadhṛk.... bhavāntaragatān apīty anekadeśakālayonyavasthāntaragatān apīty arthaḥ / tadāhāratvam āgatān ity anena pradattasya haviṣas tatatadyonisamucitasudhādyāhārarūpeṇa pariṇāmatvaṃ mantrāder evālaukikasya hetor uktam.... ata eva vāyupurāṇe— kāle nyāyāgataṃ pātre vidhinā pratipāditam / annaṃ nayanti tatraite jantur yatrāvatiṣṭhate.... nāmagotraṃ ca mantraṃ ca dattam annaṃ nayanti te / api yoniśataṃ prāptān tṛptāṃs tān upatiṣṭhati // tad evaṃ śrāddhadeśaṃ praty anāgatān lokāntarasthān eva pitṝn prati mantrādayo haviḥ prāpayantīty uktam /*
+
+One of the major controversies highlighted in the passage we have just encountered, which in the original occupies even more of our author’s attention, is the problem of reconciling this belief in the intrinsic supernatural power of specific *mantras*—which now offer a premodern version of GPS, and then turn into food—with the reality of *mantra* applications and substitution. The problem is that when it comes to their actual deployment in ritual, sacrificers are constantly adapting and changing the *mantras*. Because Sanskrit is a case-based language that also mandates different forms based on grammatical number and gender, inserting new proper names or designating different substances into a preexisting formula often requires substantial changes to the entirety of a *mantra*. For Hemādri, just as it did for the traditions of Mīmāṃsā, this poses a huge conceptual problem. Once we treat *mantras* as intrinsically powerful and a special kind of linguistic function, how can we justify that that power is maintained when mere ordinary human beings manipulate the *mantras* towards their own quotidian ends? Here, as is in the *Tīrthakhaṇḍa*, where similar issues were reflected on at length in passages we did not explore, Hemādri’s chief intellectual sparring partners are Śālikanātha and Pārthasārathi Miśra, representing, in sequence, the views of Prābhākara and Bhāṭṭa Mīmāṃsā. And while our author makes no groundbreaking theoretical contributions to these ongoing discussions—he sides, as you might expect, with those who view the power of [[P1656]] *mantra* as being unimpacted by changes in number and gender—he stakes such a position from within what is effectively an entirely different theology, within which the indexical actions of *mantraśāstra* have a concrete impact on entities in the outside world, in this case ensuring that numinous entities, not currently housed in a corporeal body within this world, who cannot themselves make it to the *śrāddha* grounds, still get fed.
+
+In insisting that an explanation of *śrāddha* rituals needs to foreground a phenomenological account of the religious phenomena that the rite entails, Hemādri diverges radically from all his learned predecessors across the various genres of *śāstra*, who were almost exclusively concerned either with a narrow proceduralism or with reconciling their proceduralism with Mīmāṃsā-style theories of ritual. The gravity of this departure becomes most evident when Hemādri’s choices are placed into dialogue with the works of authors to whom he is concretely indebted, especially in the field of Dharmaśāstra. A particularly compelling example is offered by Vijñāneśvara in his *Mitākṣarā*, commenting upon *Yājñavalkyasmṛti* 1.270, the second to last verse in the *śrāddhaprakaraṇa* and the very verse Hemādri is about to tackle. The topic is explaining the causal relationship between the enumerated gods who “govern” this sacrifice and the feeding of the ancestors. The obvious problem with the verse is that it seems to be designating two completely distinct categories of beings as “ancestors”: certain minor Vedic deities on the one hand and the ancestors of human beings on the other. As we are about to see, in resolving this issue, in the *Mitākṣarā*, the twelfth-century Dharmaśāstrin actually introduces the very same vivid metaphor that Hemādri will develop in his discourse, in which the “deities” of the *śrāddha*—entities like the Vasus, Rudras, and the sons of Aditi—are said to assist the ancestors in their feeding in the same way that a pregnant woman is supported by her handmaidens. [[P1657]]
+
+> The Vasus, Rudras, and Ādityas are the forefathers (*pitṛs*) who are the divinities of the ancestral offering (*śrāddhadevatā*). When they have been sated (*tarpitāḥ*) by the ancestral offering, they gratify (*prīṇayanti*) the forefathers (*pitṝṇ*) of humans.[^1657_1523]
+>
+> *Mitākṣarā*: “And therefore, the presiding *devatās*, the Vasus and the rest, being pleasingly satisfied (by the food and drink offered by the sons and the rest) bestow satisfaction upon even these, viz. Devadatta and the rest, and join the offerers of *Śrāddhas* such as the son and the rest with the fruits. As a mother during pregnancy by means of the food and drink &c. presented by another as a *dohada* gift with the object of nourishing the fetus in the womb when after herself eating and getting satisfaction herself, gives satisfaction to the child in her womb also, and also confers on the giver of the *dohada* gifts of food. . . . in the same way the Vasus, the Rudras, and the sons of Aditi, the Ādityas, are the real *pitṛs* denoted by the terms “father,” “grandfather” and “great-grandfather” respectively, and not merely the souls of Devadatta &c.; these *devas* are the *śrāddha devatās* the true recipients of the offerings in the *Śrāddha* ceremony, but they themselves being satisfied, satisfy in their turn the *Pitṛs* of men, namely Devadatta &c., and the rest, by reason of the possession of great wisdom and power.”[^1657_1524]
+
+[^1657_1523]: *Yājñavalkyasmṛti* 1.269: *vasurudrāditisutāḥ pitaraḥ śrāddhadevatāḥ / prīṇayanti manuṣyāṇāṃ pitṝn śrāddhena tarpitāḥ //*
+[^1657_1524]: Trans. J. R. Gharpure, in J. R. Gharpure, *The Collection of Hindu law* Vol II part II: *Yājñavalkyasmṛti: with the commentaries the Mitākṣharā by Vijñāneśvara Bhikṣhu and the Vīramitrodaya of Mitramiśra; Āchārādhyāya* Chapter VIIIXIII (Bombay: University of Bombay, 1937), 536. *ataś cādhiṣṭhātṛdevatā vasvādayaḥ putrādibhir dattenānnapānādinā tṛptāḥ santas tān api devadattādīṃs tarpayanti kartṝṃś ca putrādīn phalena saṃyojayanti / yathā mātā garbhapoṣaṇāyānyadattena dohadānnapānādinā svayam upabhuktena tṛptā satī svajaṭharagatam apy apatyaṃ tarpayati dohadānnādipradāyinaś ca pratyupakāraphalena saṃyojayati tadvad vasavo rudrā aditisutāḥ ādityā eva ye pitaraḥ pitṛpitāmahaprapitāmahaśabdavācyāḥ na kevalaṃ devadattādaya eva śrāddhadevatāḥ śrāddhakarmaṇi saṃpradānabhūtāḥ kiṃ tu manuṣyāṇāṃ pitṝn devadattādīn svayaṃ śrāddhena tarpitās tarpayanti jñānaśaktyatiśayayogena /*
+
+Vijñāneśvara’s major objective here is identifying the “*devatā*” to whom the ritual is dedicated, as we shall see, an important intellectual task for Mīmāṃsā, and it is effectively the last task he will undertake in the section. His solution to the textual problem we discussed above—namely, are the ancestors who are being pleased in the rite another name for these gods or the actual ancestors of the sacrificer—is that he concludes that the only deities to whom the ritual is dedicated are entities like the Vasus. Thankfully for human beings, these are not jealous gods. Out of their own munificence, they share whatever is left over with the actual ancestors of humans, in much the same way that someone who cares for a pregnant woman, [[P1658]] by providing her the foods that she craves, might also from time to time get a taste of her ice cream or melon or chocolate. Nevertheless, there is a very clear hierarchy being maintained between gods, who bestow favor, and mere “human spirits,” who should be grateful for whatever is given. Also entirely absent from the *Mitākṣarā*, beyond delineating the causality, is any substantive reflection on the actual nature of the *śrāddha* sacrifice, including providing an answer to such obviously pertinent questions as how is it the case that feeding any old pious twice-born somehow results in the feeding and pleasing of the ancestors. Attending to these *aporia*, let us see what Hemādri does with this very same material in his own commentary on *Yājñavalkyasmṛti* 1.270:
+
+> H: For example, one who is possessing somebody on the inside [i.e., a pregnant woman] who is eating the food she desires due to [her] pregnancy cravings and so forth, which are being given by a friend, is herself satisfied, and by the same food she craves, she causes to be satisfied the fetus that is dwelling inside her own body. By the giving of what is desired in pregnancy (*dohada*), one satisfies the giver of assistance by means of reciprocal assistances (*pratyupakāra*). In just the same way, the Vasus and so forth, who have eaten the food offered in the fires, who have unthinkable greatness because of their being a particular type of deity, having consumed the *śrāddha*, satisfy themselves [but] they also cause to be satisfied the human ancestors as well who are otherwise independent [lit., governed by themselves] and they join (*yojayanti*) the performer of the *śrāddha* with fruits, including long life and so forth.
+>
+> In this example (*atra*), on the part of those ancestors, there is no capacity for returning to the place of the *śrāddha* and no capacity for knowledge of extra-sensory objects that are distant in time and place. Even though they are located in another place, their satisfaction takes place by means of the oblation that is delivered to them by the *mantras* and so forth. On the part of those ones who are endowed with the capacity of coming and on the part of those who are endowed with the capacity for extrasensory knowledge, for them, having come to the place of the *śrāddha*, satisfaction occurs by means of the *prāṇa* body (*vāyavīyaśarīra*) and of those who have entered Brāhmaṇa bodies.[^1659_1525]
+
+[^1659_1525]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 19: *yathā hy antarva[r]t[i]nī suhṛdā dīyamānaṃ dohadādidravyam upabhuñjānā svayaṃ tṛpyati, tenaiva ca dohadadravyena svakīyodaravartinaṃ garbhaṃ tarpayati, dohadapradānenopakārakartāraṃ pratyupakāraiḥ paritoṣayati, tathāgniṣvāttādayo vasvādayaś ca devatāviśeṣatvād acintyamahimānaḥ śrāddhaṃ bhuktvā svayaṃ tṛpyanti svādhiṣṭhitāṃś ca manuṣyapitṝṃs tarpayanti, śrāddhakartāraṃ ca āyuṣyādibhiḥ phalair yojayantīty āśayaḥ / atra yeṣāṃ pitṝṇāṃ deśakālavyavahitātīndriyārthajñāne śrāddhadeśaṃ pratyāgamane ca śaktir nāsti teṣāṃ deśāntarasthānām eva mantrādiprāpitena haviṣā tṛptir bhavatīty uktam / atīndriyajñānayuktānām āgamanaśaktiyuktānāṃ śrāddhadeśaṃ ca pratyāgatānāṃ vāyavīyena śarīreṇa brāhmaṇaśarīrāviṣṭānāṃ tṛptir bhavatītyuktam /*
+
+[[P1659]] For Hemādri, quite unlike for Vijñāneśvara, instead of providing a comprehensive explanation of how the ancestors at the *śrāddha* receive their food, the model of the pregnant woman and her assistant is seen as addressing only one narrow set of circumstances, namely, the subset among the ancestors who have gone on to a birth where they have no supernatural powers that would inform them a sacrifice is taking place and who also lack the ability to reach the *śrāddha* in time for the sacrifice. In the simplest terms, the problem being addressed here is something akin to what do you do if grandpa led a mediocre life. Instead of ascending to heaven or incarnating as a *rākṣasa*, silly old grandpa came back as a rabbit. In the sacrifice, the scriptures say, you have to fed and then please grandpa, otherwise the sacrifice fails. The issue is that if grandpa is a rabbit, he has no way of knowing that a *śrāddha* is being held, and even if he did, there is no guarantee that his little bunny legs will be able to carry him to his destination in time for him to fulfill his ritual role. In that specific set of circumstances, even though, for Hemādri and unlike for Vijñāneśvara, grandpa is an independent agent with his own karmic destiny who is in no way dependent on these Vedic also-rans, deities such as the Vasus help out by ensuring the offerings get to their intended destination. As Hemādri then clarifies, if, however, grandpa came back as some sort of powerful supernatural being, the assistance of the Vasus is not necessary. This kind of ancestor can simply make the trip himself in his *prāṇa* body and eat his fill of his own accord.
+
+Finally, and for Hemādri most fundamentally, there is always a reserve option that ensures all of the ancestors will get fed. As you might be anticipating, the solution he prefers involves the feeding of human Brāhmaṇas as the ritual draws to a close, the very act he has construed earlier as the “main act” in the *śrāddha* ritual. His main support for this idea is a Purāṇic retelling of the *Rāmāyaṇa* located within the *Padma Purāṇa*. We will return to this [[P1660]] aspect of Hemādri’s interpretive program in the next section, when it surfaces much later in the *Śrāddhakalpa* and is treated in considerably more detail. For now, Hemādri turns his attention in a very different direction, confronting head on the theological presuppositions of Pūrva Mīmāṃsā.
+
+> H: [PP] On that matter, some people say that deity-hood (*devatātva*) consists of being the intended recipient of the oblation (*uddeśya*) and not of being the consumer of the oblation or the bestower of fruit. For, [the evidence for this is that] we see the state of being a deity (*devatātva*) even on the part of something nonsentient, as in the proof text “*svāhā* to the stones.”[^1660_1526] Furthermore, because Indra and the others do not acquire deityhood through possessing a body, [and only embodied things can impact other material things]. It is impossible for ancestors and so forth of whatever form to be the recipient [of the *śrāddha*], because they are not deities. Being the cause of a result, is only a feature of the ritual [lit., exists only on the part of action] [and it is not something the gods contribute]. That [state of affairs] is expressed metaphorically in a statement that takes the form of *arthavāda*, which addresses the deity as “being the means (*sādhana*)” for the purpose of “praise.”
+>
+> And the sentence about satisfaction, insofar as it conveys the fact that [deities] have the quality of consciousness and so forth, is intended solely for the sake of praise (*praśasti*)[^1660_1527]
+
+[^1660_1526]: *Maitrāyaṇīsaṃhitā* 4.9.9: *grāvabhyaḥ svāhā // pratiravebhyaḥ svāhā // dyāvāpṛthivībhyāṃ svāhā pitṛbhyo gharmapebhyaḥ svāhā / rudrāya rudrahotre svāhā //*
+[^1660_1527]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 23: *tatra kecid āhuḥ / haviḥpratyuddeśyatvaṃ devatātvaṃ, na tu havirbhoktṛtvaṃ phaladātṛtvaṃ vā / grāvadbhyaḥ svāhetyādiṣv acetanasyāpi devatātvadarśanāt / indrādīnām api vigrahādimattvena devatvānabhyupagamāt / yatkiṃcidrūpāṇāṃ pitrādīnām uddeśyatvam asambhavāt devatātvopapatt[e]ḥ / phalahetutvaṃ tu karmaṇa eva / tatsādhanabhūtāyāṃ devatāyāṃ stutyartham arthavādarūpe vākye upacaryate / tṛptivākyam api cetanatvādiguṇaṃ gayamat prāśastyaparam eveti /*
+
+As will become clear in a moment when we turn to the sources in the Dharmaśāstra that Hemādri is here somewhat obliquely addressing, as an essentially atheistic tradition, Mīmāṃsā takes many of the same words and images that are also in currency in wider religious discourse and reinscribes them with highly a delimited and technical meaning that effectively undercuts the main ideas that these terms usually are used to convey. Nowhere is this more evident than when it comes to the issue of the “*devatā*.” According to Śabara and those who respond to him, just like all of the other elements in a sacrifice, far from being wish-fulfilling [[P1661]] trees, *devatās* can only serve a single function. Theoretically speaking, it could be the case that either they make sure the benefits from the oblation go to the intended recipient, or that they receive the oblation, or that they cause the ritual to yield a certain result. What is not possible, the Mīmāṃsakas assert, are *devatās* carrying out some combination of those functions within a single passage. When Vedic texts seem to be suggesting otherwise, Mīmāṃsā argues, we have to read them non-literally. In other words, whenever the texts say, “the gods bestow blessings upon us” or that “they make the sacrifice happen,” we should not take them at face value. What they are really trying to do is to encourage the sacrificer to perform the sacrifices. Whenever the text tells us that deities, or ancestors, have affective responses to our ritual actions, the imagined opponent suggests, this is also something we should not really take seriously, for subjective responses have nothing at all to do with the realm of ritual.
+
+In this passage, Hemādri’s imagined opponent outlines his positions with a terseness that prevents us from fully understanding either his objections or the nature of Hemādri’s own forthcoming rebuttal, in which he will summarily dismiss this point of view as nonsense. Nevertheless, as idiosyncratic and outlandish as these positions may seem to the modern reader, this *pūrvapakṣa* is not a straw man invented for the occasion, but almost certainly corresponds to a well-known perspective proffered by a respected author. At least among our surviving sources, the most likely candidate is in fact Medhātithi, the ninth-century Kashmiri commentator on the *Mānavadharmaśāstra*, whose work Hemādri knows intimately and whose glosses on transactional matters not inflected by Mīmāṃsā theology he often cites with approval. As we are about to see, not only does Medhātithi advocate rather robustly for each of these interpretive stances, but he does so in part in response to addressing the *śrāddha* ritual. As there is a strong case to be made that this discourse represents the most substantial [[P1662]] engagement with the concerns of theistic religion enacted within the field of Dharmaśāstra exegesis prior to Hemādri’s own writings, a sustained engagement with these materials, attending at all times to their discontinuity with Hemādri’s perspective, is obviously of considerable interest to our own interpretive project.
+
+Medhātithi’s treatment of these matters, which amounts to a systematic rebuttal of the naïve mechanics of ordinary Indian religions, occupies him for more than seven pages of often dense *śāstric* prose spread out over the commentary on two distinctive verses, namely, Manu 2.176 and 2.238. In the first verse, in simply outlining the daily ablution to be offered by a twice-born, the *Mānavadharmaśāstra* prescribes a threefold offering of “*tarpaṇa*” to the deities, the ancestors, and the *ṛṣis*. In his response to this seemingly prosaic ritual detail, marshalling all the Mīmāṃsā at his command, Medhātithi sets out to call into question the very idea of deities as well as the very idea of “satisfaction” as they relate to the realm of ritual.
+
+> *MDS*. 2.176: “He should perform *tarpaṇa* to the deities (*devatā*), the fathers, and *ṛṣis*. . . .”
+>
+> Medhātithi: Because there is habitual occurrence in the same context as the word *tarpaṇa*, the gift of water (*udakadāna*) to the gods and so forth is understood to be simply the same sort of thing that is mentioned in the *dharmas* of the *gṛhasthas*. . . . As per the quotation “he causes the deities to be *tarpaṇa*-ed,” this injunction that is the water gift procedure is related by the authors of the *Gṛhyas*. And this is conventionally recognized as the water *tarpaṇa*.
+>
+> By the *Gṛhya* authors, these “gods” are identified indexically [lit., read out from the text] to be Agni, Prajāpati, Brahmā, and the others. And of them, there is the *tarpaṇa*— not [in the sense of] the production of their satisfaction (*sauhitya*), but rather, by the indexical referencing of them [these specific deities,] [we know] there is the scattering of the *añjali* of water.[^1662_1528]
+
+[^1662_1528]: All citations from Medhātithi in the section that follows re-translate from the edition of Ganganath Jha. Ganganath Jha, trans. *Manusmṛti: With the Manubhāṣya of Medhātithi*, Volume 1, Adhyāyas 1–6 (Delhi: Motilal Banarsidass, 1999). Medhātithi on Manu 2.176, vol. 1, pg. 166–67: *nityaṃ snātvā śūciḥ kuryād devarṣirpitṛtarpaṇam / devatābhyarcanaṃ caiva samidādhānam eva ca // 2.176 // kuryād devarṣirpitṛtarpaṇam / udakadānaṃ devādibhyo gṛhasthadharmeṣu yad uktaṃ tādṛśaṃ eva pratīyate, tarpaṇaśabdasāhacaryāt / “yad eva tarpayaty adbhir,” iti tathā “devatās tarpayati”* (āśva gṛ 3/4/3) *iti gṛhyakārair udakasādhano ’yaṃ vidhir uktaḥ / udakatarpaṇam iti caitat saṃvijñāyate / te “devā” gṛhyakāraiḥ paṭhitāḥ agniprajāpatibrahmetyādayaḥ / teṣām ca “tarpaṇaṃ” na sauhityotpādanaṃ, kiṃ tarhi tadduddeśenodakāñjaliprakṣepaḥ /*
+
+[[P1663]] Ever the good Mīmāṃsaka, Medhātithi’s first task is to determine precisely what sort of ritual activity is being enjoined when Manu, acting as a relay for older Vedic knowledge, says one “should perform the *tarpaṇa*.” Based on the fact that in the *Gṛhyasūtras* the word *tarpaṇa* is frequently taken as a synonym for the water offering (*udakadāna*), our Dharmaśāstrin is satisfied that this is the intended ritual procedure, which now can be plugged into this somewhat new Dharmaśāstra context. Now that he has pinned down the ritual procedure—namely, the *udaka* offering—as well as the specific part of the Vedic corpus that will give him his answers—the *Gṛhya* literature—he is able to move on to figuring out, since Manu himself has not told us, which specific deities govern the rite. The answers again are to be supplied from the *Gṛhya* authors, who in comparable contexts dedicated *udaka* offerings to Agni, Prajāpati, Brahmā, and so forth. It is only now that Medhātithi begins to make the conceptual point that will continue to be refined over these two verses, namely, that the ritual of *tarpaṇa* has no affective dimension whatsoever. Moreover, wherever the texts seem to be talking about pleasing gods, they are really giving us a ritual direction to scatter water.
+
+Descending down into the weeds of Mīmāṃsā meta-language, Medhātithi continues by “refining” just what is meant when learned Dharmaśāstrins speak about “the gods.”
+
+> Medhātithi: Therefore, this *yāga* itself is stated to have water as its main substance. But it is not that [these entities] are “gods” in any other [of the usual senses of that term]. For it is remembered that that [i.e., the *devatā*] is the recipient of the sacrifice, not the agent of satisfaction. For this [and nothing more] is the extent of the definition of a deity. “The deities are the ones who partake in the hymns (*sūkta*) and partake in the oblation.”—In the context of that quote, they partake of the *sūkta* insofar as they are to be praised and in the oblation insofar as they are the recipient.
+>
+> And because of them being “*tarpaṇa*-ed,” [the text] conveys in a secondary sense only the fact of their being the recipients of the giving of the water. [To cite a comparable illustration,] by the giving of cows and so forth, the recipient who is the guru and so forth is indicated, because of him being an owner of property. [In the same way,] the [[P1664]] “deity” also is the recipient; it is said that they are “*tarpaṇa*-ed” based on the similarity of being the recipient.[^1664_1529]
+
+[^1664_1529]: Medhātithi on Manu 2.176, vol. 1, pg. 167: *ato ’yam udakadravyako yāga evokto bhavati / na hy anyathā devatātvaṃ bhavati / yāgasaṃpradānaṃ hi seti smaryate, na tṛpteḥ kartrī / etāvad dhi devatālakṣaṇaṃ— śūktabhājo havirbhājaś ca devatāh / tatra sūktaṃ stutyatayā bhajante, haviḥ saṃpradānatayā / tarpyatvena codakadānasaṃpradānatām eva guṇavṛttyā vakti / gurvādisampradānaṃ gavādinā taduddiśyamānasvāmyena pratīyate / devatā’pi saṃpradānabhūtaḥ / sampradānatvasāmyāt “tṛpyanti” ity ucyate /*
+
+In Mīmāṃsā, Medhātithi suggests, we do things differently. When we speak of “gods,” we do not mean entities with subjectivities. As a matter of fact, we don’t mean entities at all. All the word “*devatā*” does is execute an indexical function, allowing the ritualist to sort *sūkta* hymns according to what designated term is connected to the oblation. In much the same way that we figured out what the word “*tarpaṇa*” meant by looking at parallel uses in a particular part of the Vedic corpus, we need to do the same thing with the very notion of a god being a “recipient.” Just as from context, when you see a guru is treated as a property owner (*svāmin*) you can infer that if property is being given, even if in that specific passage the guru has not been named, it is being handed to the teacher, in the same way we can deduce that deities are recipients of “*tarpaṇa*”—in the narrow Mīmāṃsaka sense—based on parallel modes of linguistic expression that occur in related parts of the Vedic corpus.
+
+Using the same reading strategies, after defining what is meant by the term “*ṛṣi*” in a restrictive fashion, in the passages that follow, Medhātithi turns to the *Gṛhya* literature to identify the specific *ṛṣis* to whom the *tarpaṇa* is offered while affirming that the *tarpaṇa* in question is again only the water offering. As you might be seeing, once you get the hang of this counterintuitive mode of reading, cases where that is the Mīmāṃsā exegetical principle being applied actually become pretty straightforward. Regarding the last of the aforementioned trio, the ancestors (*pitṛ*), Medhātithi pulls the same maneuver. He defines them as “those [[P1665]] fathers, grandfathers, and greats who are previously deceased who are *sapiṇḍā*.”[^1665_1530] He notes that “they are the ones who receive the base line water offering.[^1665_1531]” Finally, as you might anticipate, he delimits the meaning of *tarpaṇa*: “the *tarpaṇa* of the ancestors is ‘*tarpaṇa*’ alone,” promising his reader that “this will be stated plainly in the injunction about the *śrāddha*.”[^1665_1532] Though it looks somewhat banal, this type of repeated and highly restrictive glossing of key terms is integral to this whole system of thought, for it seeks to eliminate the possibility that different interpretive communities might take these same texts and read into them different sets of values.
+
+[^1665_1530]: Medhātithi on Manu 2.176, vol. 1, pg. 167: *pitaraḥ— pūrvapretāḥ pitṛpitāmahāḥ sapiṇḍāḥ /*
+[^1665_1531]: Medhātithi on Manu 2.176, vol. 1, pg. 167: *samānodakāś ca /*
+[^1665_1532]: Medhātithi on Manu 2.176, vol. 1, pg. 167: *pitṝṇāṃ tarpaṇaṃ tarpaṇaṃ eva / etac ca śrāddhavidhau pratyakṣeṇa vakṣyate /*
+
+With the practical matters now out of the way, Medhātithi can now begin to direct his focus towards one of his pet theoretical obsessions, which is nothing less than debunking the very idea of theistic religion. Though many of his positions are grounded in the arguments of earlier authors, especially Śabara, the passion with which approaches this subject, especially at the height of the Kashmiri Renaissance, is very much his own.
+
+> M: Now the worshipping of the deities. So, some of the ancients analyzed as follows: Who are these ones called *devatās* toward whom this worship is said to be [directed]? First of all, if for example they are the one who has four arms and a *vajra* in his hands and is set down in book of paintings, then, the people of the world conventionally refer to these as symbolic forms (*pratikṛti*).
+>
+> Thus, the conventional usage with regard to *devatā* is a secondary usage in this case. Now, as for those ones who have an indexical connection with the oblation and the *sūktas*, who are understood from the Vedic injunctions and from the *mantra* sentences, those who know the connections between word and meaning remember Agni, Agni-Soma, Mitra-Varuṇa, Indra, Viṣṇu and so forth. If on the part of them, their deity-hood is only due to the fact that they are connected with those rituals, and not because there is connection with any semantic content [of the sort we assign to a god], then even so, “a deity” would only be such for a particular oblation that enjoins that particular “deity.” [[P1666]]
+>
+> For likewise in the citation, “the eight-fold offering vessels are dedicated to Agni (*āgneya*),” [Agni is the deity] only in regard to the *puroḍāśa* offering belonging to Agni, and not with regard to the *caru* offering dedicated to Sūrya. This is the definitive deliberation of those [cases].
+>
+> The construal [of a word] is reasonable only in a secondary sense when the primary meaning is impossible, and because of conventional usage (*samācāra*). Thus, this procedure of *pūjā* applies to the images alone [and there is no deity being worshipped].
+>
+> And as for the state of affairs regarding this, that will be stated later in the passage that begins “*vrata*.”[^1666_1533]
+
+[^1666_1533]: Medhātithi on Manu 2.176, vol. 1, pg. 167: *devatābhyarcanam / atra kecit cirantanā vicārayāṃcakruḥ— kā etā devatā nāma yāsām idaṃ abhyarcanam ucyate / yadi tāvac citrapustakanyastaḥ caturbhujo vajrahasta ityādyāḥ “pratikṛtaya” iti laukikā vyavaharanti, ato gauṇas tatra devatāvyavahāraḥ / atha yā sūktahaviḥsambandhinyo vaidikībhyaś codanābhyo mantravākyebhyaś cāvagamyate— śabdārthasambandhavidaś ca smaranti “agniḥ agnīṣomau mitrāvaruṇau indro viṣṇuḥ” iti / yady evaṃ tatkriyāsamabandhitayaiva teṣāṃ devatātvaṃ nārthasambandhitayā / tatrāpi yasyaiva haviṣo yā devatā tena coditā tasyaiva sā bhavati / tathā hi āgneyo ’ṣṭākapāla ityāgneye puroḍāśe devatā, na saurye carau / ayaṃ ca teṣāṃ nirṇayaḥ / mukhyāsambhavād gauṇasyaiva grahaṇaṃ nyāyyaṃ, samācārāc ca / ataḥ pratimānām evaitat pūjāvidhānam / yac cātra tattvaṃ tad “vratavad devadaivatya” ity atra vakṣyāmaḥ /*
+
+Medhātithi anchors his argument around an extended and thus far unidentifiable passage from a work of Mīmāṃsā exegesis. Most likely, the passage in question is from a subcommentary on Śabara’s treatment of *Mīmāṃsā Sūtra* 9.1.6–10, for this is where Śabara, seeking to disabuse his readers of anything remotely recognizable as a theistic stance—including the notions that gods have bodies, respond to human entreaties, and consume either the substance or subtle essence of the offerings that are dedicated to them—attacks in passing the idea that visual representations of specifically Vaidika deities had any logical or supernatural relationship with the *devatās* with which the Mīmāṃsā exegetes concern themselves. In engaging with these passages, Śabara’s most famous commentators, such as Kumārila in his *Ṭupṭikā* and Pārthasārathi Miśra in his *Tantraratna*, shy away from much reflection on the polemical dimensions of Śabara’s text, which stages what amounts to an all-out attack on ordinary Indian religious understanding, choosing instead to occupy themselves almost solely with technical methodological concerns. The evidence before us, however, [[P1667]] suggests that Śabara’s militant atheism did indeed continue to find a warmer reception among other scholastic audiences and that Medhātithi proudly inherits this mode of exegesis. In any case, for both his unnamed predecessor and for Medhātithi himself, deity-hood (*devatātva*) has no ontological substance whatsoever. Instead, it simply serves a context-specific indexical function, operating as kind of premodern Dewey Decimal System that helps the ritualist organize his materials.
+
+As Medhātithi seeks to demonstrate, “being a God” is not a status based on some lasting underlying essence. This is why we can say that “Agni” is only a god (*devatā*) when it comes to those passages in the Veda where he is designated as the recipient of a specific offering, as with the *puroḍāśa*. In other words, even within the textual field of the Veda itself, at other times in the Veda where his name appears but Agni is not the designated recipient of the offering, there is no reason to consider Agni as being a god at all. For Śabara and his followers, God-hood in essence is nothing more than one specific semantic and syntactical relationship. Methodologically, this definition of course provides the exegete with the tools they need to identify the God who governs a given part of a ritual, one of the key steps in Mīmāṃsā style ritual analysis. At the same time, theologically speaking, these same presuppositions strongly suggest that all of the things that everyone else in Indic religious culture label worship, such as the veneration of images or the offering of *pūjā*, amount to something very much akin to Western notions of idol worship, since it is only the inert paintings or substances themselves to which a worshipper is addressing his prayers.
+
+Medhātithi ends the section by promising his reader that he will pick up this topic when he reaches the verse that begins “*vrata*.” Needless to say, he does not disappoint. Executed in the technical language of Mīmāṃsā, the diatribe that follows, only loosely grounded in the root [[P1668]] text, offers us all at once one of our earliest learned attacks on the theology of *bhakti* religion, on Brāhmaṇa participation in mere local Smārta religious life, as well as a withering dismissal of the idea that the feeding of Brāhmaṇas can stand in for the veneration of deities. Succinctly, in just one single portion of his commentary, our ninth-century Dharmaśāstrin dedicated himself to enacting an agenda vehemently opposed to most of the core ideas that order Hemādri’s interpretive project in a manner that beyond any possible ambiguity demonstrates the discontinuous nature of the Smārta worldview of the *Caturvargacintāmaṇi’s* *dharma* discourses and the learned Dharmaśāstra tradition it largely seeks to supplant in all but name.
+
+In the *Mānavadharmaśāstra*, verse 2.189 forms the concluding portion of an exploration of the daily duties assigned to the twice-born student studying the Veda, including the rules for the receiving of alms. Manu has just told us that in general, the student should not take for his meal the food that has been received from a single person. Instead, he should subsist on a compilation of small food offerings given as alms acquired by seeking *bhikṣā* from multiple different people or different households. To act otherwise, Manu tells us, is for the student to violate his vow (*vrata*). Having provided this general rule, the Dharmaśāstrin, however, than informs us of an important exception that does not conflict with his commitments. As the passage reads in Patrick Olivelle’s translation:
+
+> When he is invited, however, he may eat (*aśnīyād*) freely at an offering to the gods (*devadaivatye*) while keeping to his vow, and at an offering to ancestors (*pitrye*), conducting himself like a seer; doing so does not violate his vow.[^1668_1534]
+
+[^1668_1534]: Translation by Patrick Olivelle. Patrick and Suman Olivelle, *Manu’s Code of Law: A Critical edition and Translation of the Mānava-Dharmaśāstra* (New York: Oxford University Press, 2004), 104.
+
+Disregarding the major focus of his root text, which is quite simply to provide two contexts where the Brāhmaṇa student can eat a full meal acquired at a single location without violating his vows, Medhātithi’s commentary is almost exclusively concerned with three key [[P1669]] terms, namely, “the offering to the gods” (*devadaivatye*), the offering to the ancestors (*pitrye*), and what is meant when the injunction says “he should eat” (*aśnīyād*). As we will see, to the exclusion of almost everything else, he tackles these issues in succession and at length.
+
+> “Those of whom the gods are the deities” (*devadaivatya*) means that [ritual] of which the gods are the deities. And that is handed down by tradition to be the feeding of Brāhmaṇas at the rituals of which gods are the deities, such as the *agnihotra* and the *darśapūrṇamāsa*; and it is handed down by tradition in reference to the *āgrahāyaṇya* and so forth: “Having fed the Brāhmaṇas, one should make them recite the *svastyayana*.” This authorization [applies] to that [particular circumstance].[^1669_1535]
+
+[^1669_1535]: Medhātithi on Manu 2.189, vol. 1, pg. 173: *devā devatā yasya tad devadaivatyam / tac cāgnihotra- darśapūrṇamāsādiṣu daiveṣu karmasu brāhmaṇabhojanam āmnātam, āgrahāyaṇyādiṣu cāmnātaṃ “brāhmaṇān bhojayitvā svastyayanaṃ vācayed” iti / tatreyam anujñā /*
+
+Medhātithi begins by presenting his own *siddhānta*, which is simply that there a subset of ritual activities in the Veda where, in much the same way that other ritual procedures might call for the use of a special kind of spoon, one of the actions taken entails the feeding of Brāhmaṇas. Again, the ritualist does this not because Brāhmaṇas are special or they are gods on earth, but simply because the Veda outlines that this is the procedure for a thing that must be done (*itikartavyatā*). Having laid out his own opinion, Medhātithi is now ready to address and summarily dismiss the wrong-headed view apparently adhered to by a range of other so-called “authorities.”
+
+> [PP]: But others say that the feeding of Brāhmaṇas that is performed based on the indexical referencing of Āditya and the other gods in the locative and other cases is understood [as the referent of the phrase] “those of whom the gods are the deities.”
+>
+> Medhātithi: That is incorrect. After all, there is no connection between the deities and the act of eating, because [eating] is not the means of accomplishing the sacrifice. Nor is it that a “deity” is merely the thing being indexically referenced [in any case where this syntactic relationship entailing either a locative of reference or an accusative relationship is present in a text]. Because [otherwise], we would be forced to conclude that in the statements “he gives a cow to the teacher,” and “he sweeps the house,” that [[P1670]] [the status of the deity would belong] to the teacher [to whom the cow is given] and the house [in so much as it is being swept].[^1670_1536]
+
+[^1670_1536]: Medhātithi on Manu 2.189, vol. 1, pg. 173: *anye tu saptamyādāv ādityādidevoddeśena yat kriyate brāhmaṇabhojanaṃ tad devadaivatyaṃ manyante / tad asat / na hi bhujer devatāsambandho ’sti, ayāgasādhanatvāt tasya / na tūddeśymātraṃ devatā / “upādhyāyāya gām dadāti,” “gṛhaṃ sammārṣṭīty upādhyāye gṛhe ’pi prasaṅgāt/*
+
+Medhātithi’s method here amounts to argument via *reductio ad absurdum* demonstrating that a certain perspective has to be rejected because it would yield undesirable and ridiculous consequences. The person he is arguing with, apparently a major proponent of feeding Brāhmaṇas whenever possible, wants to expand the scope of what types of linguistic cues within the Vedic texts suggest that now is a time in ritual where Brāhmaṇas get fed. His position seems to be that any time a god’s name is mentioned either in the locative case, as a locative of reference (as when the *Pāśupatasūtra* 2.19 said *nānya bhaktiḥ tu śāṃkare*) or even in the accusative, in a syntactic unit within which an offering is being made (for example, the offering goes to the god), we need to take this as a reference to a *devatā* in the Mīmāṃsā sense of being a recipient of a sacrificial offering. This opponent then seems to be suggesting that where the text tells us gods need to be fed, it really means we need to feed a Brāhmaṇa.
+
+Beyond rejecting this particular ritual direction, Medhātithi’s larger point is that we need to stop confusing what are essentially hermeneutical concerns about proper reading strategies for approaching Vedic texts with what on the surface would seem to be corresponding events and circumstances as we experience them in the real world. When we eat as part of a ritual, this is not an act of worship. Nor does that experience have anything at all to do with the gods. Furthermore, we must be particularly careful not to extend the application of Mīmāṃsā reading strategies such that we identify the one to whom a thing is given as the *devatā* into our daily life. That road, Medhātithi suggests, ends in a reprehensible sort of pantheism in which gurus and houses are “deities”— so obviously stupid as to be self- [[P1671]] refuting. In light of where the text is headed, namely, an all-out assault on the devotional Sun worshipper of precisely the sort that was associated with royal Kārkoṭa Saura ritual center of Mārtaṇḍatīrtha established in the vale of Kashmir by the emperor Muktāpīḍa Lalityāditya in the prior century, given that he is writing quite specifically in the same ninth-century Kashmir as Somānanda, it is tempting to view Medhātithi’s choice of examples as a thinly veiled condemnations of some of the contemporary varieties of religious experience in evidence in and around Srinagar. Before we can get there, however, Medhātithi has to finish establishing a few more parameters he will make use of in the ensuing discourse.
+
+> Medhātithi: While it is true that there is a perceptible connection of the act of eating with the one doing the eating, however, the Sun god is not such an agent [who can be directly perceived eating], nor, as with the [case of] the house [being swept] is it [the Sun god] the thing being indexically referenced, nor is eating done for [Sun god’s] sake. For, the use of the accusative case indicates something’s being done for the sake of the eater, not being for the sake of the Sun god.
+>
+> Nor is this the case, as it has not been stated anywhere, “[when] there is an indexical reference to the Sun god or other [deities,] [we infer that] one should feed Brāhmaṇas].”
+>
+> If [one invokes the *śāstric* rule] “the injunction is to be conceived of on the basis of conventional usage [out in the world],” then, no, because [an injunction] has as its foundation an extant proof text [lit., a thing being obtained].[^1671_1537]
+
+[^1671_1537]: Medhātithi on Manu 2.189, vol. 1, pg. 174: *bhujer hi pratyakṣo bhoktrā sambandhaḥ / ādityas tu na kārakaṃ, na coddeśyo gṛhavat, na tadarthaṃ bhojanam / dvitīyā hi bhoktrarthatāṃ jñāpayati, nādityārthatām / na caivetat kvacin noditam “ādityād uddeśena brāhmaṇān bhojayed” iti / samācārād vidhiḥ kalpyata iti cet, na / tasyopalabhyamānamūlatvāt /*
+
+Setting aside some further forays into the philosophy of grammar that need not detain us, Medhātithi begins by showing us on logical grounds why we should not draw a specious connection between the dynamics and consequences that govern a normal act of eating and the making of an offering to a god. In our lived experience, when someone eats something, there is an eater who can be seen by external observers and food that can be seen by external observers. There is also an activity conducted by the agent during which the food disappears. [[P1672]] Quite unlike in the case of ritual, we can also infer that eating serves a basic human purpose. When it does not happen, eventually, people die. When it does happen, people are satiated, a state of affairs we can infer from them saying, “that hit the spot,” or even just from releasing a satisfied burp. When it comes to the gods, in contrast, none of those things are true. We do not see them. We do not see them eat. And since we cannot perceive or interact with them, we cannot infer they are satisfied. Our author will return to this line of argumentation in more detail momentarily.
+
+Medhātithi then notes that the core technical claim of his opponent, namely, that certain types of references to deities invariably index the feeding of Brāhmaṇas, is not supported by the textual evidence. When his imagined opponent responds by invoking (out of context) an exegetical rule that tries to do the same work as the notion of *śiṣṭācāra*, namely, taking lived practice on the ground as it is enacted by living authorities as a valid source of knowledge, Medhātithi quickly dissents, proclaiming that all social practice governed by injunction has to be founded on a valid and still extant entextualized citation. In response, his imagined opponent offers the following argument, which Medhātithi rebuts with pointed glee.
+
+> PP: [One might object] that there is a precisely such a source, [namely,] the *Smṛtis* that stand outside of the Veda (*bāhyasmṛti*). Then, in that case, the meaning of the *śāstra* would be, “one should please the deities by means of feeding Brāhmaṇas.”
+>
+> Medhātithi: And this meaning is not possible even to be conceived of! For, the purpose of the *śāstras* does not have as its main focus the pleasing of deities (*devatāprītipradhāna*), but rather is has as its main focus the goal of the injunction (*vidhyarthapradhāna*). Nor is it the case that the Sun
+
+god and the others who are understood as deities have a [semantic or causal] connection with this goal of the injunctions that is based on the object/scope, nor also upon eligibility [to perform the ritual]. Nor could [the deity], after all, be the efficient cause [of the accomplishing of the goals of] ritual. . . . Nor can [the deity] be desired simply for its own sake [lit., strictly in relation to itself], as in the case of [desiring] cattle [not for the milk or the wealth but just to have a cow], because a deity does not have the form of something that can be enjoyed. [[P1673]]
+>
+> Now, [if it were the case that] it is the satisfaction intrinsic to the Sun god that is desired, that [satisfaction] also would require another means of valid knowledge to be itself established as valid. And no such [valid means of knowledge for perceiving the satisfaction of the gods] exists. Nor can the satisfaction of the Sun god and the other [deities] be established [to exist] by means of perception as a thing to be desired, as in the case of cattle and so forth.[^1673_1538]
+
+[^1673_1538]: Medhātithi on Manu 2.189, vol. 1, pg. 174: *“asti hi mūlaṃ, bāhyāḥ smṛtayaḥ” / tatra tarhi brāhmaṇabhojanena devatāḥ prīṇayed iti śāstrārthaḥ / na cāyam arthaḥ śakyaḥ kalpayitum / na hi devatāprītipradhānaḥ śāstrārthaḥ, kiṃ tarhi vidhyarthapradhānaḥ / na cāsmin vidhyartha ādityādīnāṃ devatābhimatānāṃ viṣayadvārakaḥ sambandhaḥ, nāpy adhikāradvārakaḥ / na hi bhedanādivan nimittam / nāpi paśvādivat saṃbandhitayā kāmyate / abhogyarūpatvāt / atha tadgatā tuṣṭiḥ kāmyate / sā ’py ātmasiddhau pramāṇāntaram apekṣate / na ca tad asti / na ādityādituṣṭiḥ pratyakṣādisiddhā paśvādivad yena kāmyate pareṣṭividhinā yujyeta /*
+
+Medhātithi’s opponent, quite plausibly an actual near contemporary, responds by saying that we do indeed have access to authoritative texts that tell us in simple declarative sentences that we should please deities by feeding Brāhmaṇas. Our Dharmaśāstrin in response is quick to identify the sources in question as heretical—*bāhyāḥ smṛtayaḥ*—quite literally, as works that fall outside the Vedas. While one often assumes that such a label is associated with works that question the authority of the Veda or reject Brāhmaṇical normativity, nothing about the—to the modern reader—rather banal nature of the actual evidence our Dharmaśāstrin will present us can be reasonably construed as supporting such a blanket characterization of his opponent’s discourse. In actuality, the archive before us seems in a fact a rather close match to what we tend to think of as “orthodox” Vaidika Hinduism, wherein Vedic ritual is conducted alongside a form of transactional devotionalism that sees gods as intimately involved in reciprocal exchanges with their devotees. In fact, it is precisely this sort of proto-Hindu value system that our author has labelled as heresy and seeks to treat as antithetical to the religion of the Dharmaśāstrins.
+
+As you might well have noticed, Medhātithi takes particular offense at the presuppositions specific to what we call devotional religion. The problem is not merely that [[P1674]] the pleasing of a god (*devatāprīti*) directs our attention away from the main focus of ritual, which as Mīmāṃsā teaches is the identification and following of ritual injunctions. Nor is it the issue that deities as entities in the manner that people usually conceive of them merely cannot be accommodated within Mīmāṃsā style analysis, yet may still play some other role in human religious life. As Medhātithi meticulously outlines, the Sun god and other deities are not in any way causally or conceptually connected with the goal of the ritual injunction, the obtaining of heaven, nor does the deity play any role in making one “eligible” to perform specific rituals. In other words, to put it bluntly, Medhātithi is telling us that heaven has nothing to do with the gods. Neither does the receiving of any kind of *dīkṣā*. Nor for that matter, do the gods even contribute to engendering the types of circumstances that make ritual possible. Apart from the role “*devatās*” plays within Mīmāṃsā as a Dewey Decimal System for indexing Vedic knowledge, Medhātithi is telling us that the gods can do nothing for us at all. If a person desires to please the god for the god’s own sake—in other words, should he listen to the teaching of Kṛṣṇa to Arjuna in the *Bhagavad Gītā* that ritual should simply be done “for me”—this is not *dharma* but mere delusion. We cannot even seek out the gods and worship them free from desire—what Hemādri will call *niṣkāmabhakti*, and what he deems the path to liberation—because the deities do not have the form of something that can be enjoyed. Nor is there even any reason for us to think that deities themselves are capable of enjoying anything, for as Medhātithi tells us, no valid scriptural authority exists telling us that gods enjoy things, nor can we perceive their enjoyment with our own faculties.
+
+With these thoughts in mind, Medhātithi sets out to dismantle the very idea of a devotional relationship:
+
+> But now, [if one were to say,] “[The Sun god] is my lord (*matprabhu*) and thus will connect me with the fruits that I desire,” this [position] also must be discarded, because [[P1675]] of the nonexistence of any valid source of authority substantiating such a claim. Nor is it the case that there [could possibly be] an injunction that conveys this meaning that could be a valid authority.
+>
+> For that [an injunction] impels a person by means of the fact that a particular known qualifier of a practitioner is a general definitive property [of that practitioner,] it does not, however, bring about knowledge of the existence of the thing that is being desired [about which we otherwise have no knowledge.][^1675_1539]
+
+[^1675_1539]: Medhātithi on Manu 2.189, vol. 1, pg. 174: *atha tu matprabhur iti svābhipretena phalena yojayiṣyatīti / etad api pramāṇābhāvād upekṣaṇīyam / na cāsminn arthe vidhiḥ pramāṇam / sa hi jñātasyānuṣṭhātṛviśeṣaṇasya svasambandhitayā puruṣaṃ niyuṅkte, na punaḥ kāmyamānasya sadbhāvam avagamati / pramāṇāntarāvagataṃ hi kāmyam anuṣṭhātṛviśeṣaṇam—anuṣṭhānasādhyam anuṣṭhātṛsamabandhīti vidhiḥ pramāṇam iti mīyate /*
+
+For our Dharmaśāstrin, Vedic religion and devotional theism represent antithetical worldviews. Worshipping god as if he is one’s own lord is an entirely irrational act. It is a mistaken personification of the impersonal mechanistic function of the *apūrva* dimension of ritual that makes it efficacious. Not only is it utterly impossible that forging a relationship with an imagined and imaginary deity might yield any concrete benefit, but any advocacy for such a perspective in and of itself is proof of the unreliable, even heretical nature of the text in which it is contained. Even thinking that an injunction could convey this sort of knowledge itself shows a fundamental misunderstanding of the nature of ritual. Injunctions just tell specific kinds of people, for example a person desiring heaven (*svargakāmaḥ*), that they should do certain things. Injunctions do not and cannot provide us with any additional knowledge that we do not already have. Thus, for example, we already know from our experience that there is a certain group of people who desire heaven, even if we do not have any reliable knowledge about what the heaven in question might actually be like. For this reason, even if it were in fact the case that gods and their affective states existed (and for Medhātithi, they do not), contrary to this particular *pūrvapakṣin*, it would be impossible to establish such realities on the basis of injunctive statements drawn from any sort of scripture, however authentic. [[P1676]]
+
+As other passages in Medhātithi’s *Manubhāṣya* make evident, counterintuitively, this type of narrowly focused ideological perspective does not severely limit the Dharmaśāstrin’s canon of what constitutes authentic scripture to essentially prescriptive Vedic texts. Instead, it effectively calls for the wholesale reimagining of much what we think of as classical Hindu textuality as a series of infomercials promoting Mīmāṃsaka theories of injunctivity. A particularly compelling illustration of this dynamic, which takes the form of an aside to what is otherwise a straightforward commentarial gloss, is found towards the beginning of Medhātithi’s commentary on Manu’s second chapter. The wider context here is Medhātithi’s summary of the position of some “*brahmavādins*,” who based on the content presented elsewhere in the section are likely some form of Vedāntin. In any case, such figures apparently assert that “[Rituals] being performed as aimed at a particular fruit consist of bondage, [but] performing [a ritual] without desire, on the principle that it is an offering to *brahman*, one is liberated.”[^1676_1540] Medhātithi’s response takes the form of a curious invocation of a series of proof texts, one of which may be startlingly familiar.
+
+[^1676_1540]: Medhātithi on Manu 2.5, vol. 1, pg. 56: *phalārthitayā kriyamāṇā bandhātmakā bhavanti / niṣkāmas tu brahmārpaṇanyāyena kurvan mucyate /*
+
+> Medhātithi: That is stated by the dark lord Dvaipāyana (i.e., Vyāsa): “May you not be motivated by the fruit of actions.” Likewise, “Because of the incompleteness of the procedures, because of the foolishness of the ritual agent, and because of attachment to the fruit, an injunction is understood to be impure.” On this matter, there are many fallacious commentarial opinions, but they are not shown here because they are not essential.[^1676_1541]
+
+[^1676_1541]: Medhātithi on Manu 2.5, vol. 1, pg. 56: *taduktaṃ bhagavatā kṛṣṇadvaipāyanena “mā karmaphalahetur bhūḥ”* (*Bh G.* 2.46), *tathā “sādhanānām akṛtsnatvān maurkhyāt karmakṛtas tathā / phalasya cābhisandhānād apavitro vidhiḥ smṛtaḥ” iti / bahavaś cātra vyākhyāvikalpāḥ, asāratvāt tu na pradarśitāḥ /*
+
+The key to understanding this passage is recognizing that, although Medhātithi’s first citation is from the *Bhagavad Gītā* (2.46) where it transmits a teaching given by Kṛṣṇa to Ārjuna, our author has deliberately chosen to ascribe these materials to Vyāsa. By identifying [[P1677]] Vyāsa as the author, Medhātithi is then able to take what was originally an entirely unrelated citation, dealing with the nature of injunctions, that is also ascribed to Vyāsa and treat it as if it were connected discourse. In other words, as he does many other places in his commentary where he cites from the *Gītā* with surprising frequency, albeit never from its “devotional” passages, he is reading what we think of as Indic theology as *Gedankenexperiments* in the application of Mīmāṃsā hermeneutics. Lest we think that this highly eccentric engagement with classical scripture is the merely the product of ignorance of the “normative commentarial tradition,” Medhātithi concludes his discussion with a biting remark addressed to the “many fallacious commentarial opinions” on these texts, all of which are so inessential that they need not even be consulted.
+
+Now that he has addressed the phrase “those of whom the gods are the deities” (*devadaivatye*) at considerable length and to his own satisfaction, Medhātithi turns to exploring the other key term of art in Manu 2.189, “the sacrifices that pertain to the fathers (*pitrye*).” The result is a long reflection on “the real nature” of the *śrāddha* sacrifice. Though much of this is executed in a very similar vein to the analysis we have just been exploring, it will also prove to be the case that Medhātithi highlights and explores the very same problematics that will occupy Hemādri several centuries later. Moreover, he does so in a manner that will help prepare us for understanding elements integral to Hemādri’s defense of Smārta religion. For this reason, it is worth taking our time and seeing what elements of the *śrāddha* discourse were long-lasting points of contention. As it turns out, the focus of the controversy is precisely these questions. Are the ancestors “*devatās*?” If they are not, what role do they play in the sacrifice? Finally, what is the rationale for the feeding of Brāhmaṇas at the end of the *śrāddha*? As Medhātithi explains in response to some interlocutors: [[P1678]]
+
+> PP: And if one were to object, “How is there the feeding of Brāhmaṇas at the ritual dedicated to the ancestors?” There also, after all, the ancestors would not be the deities. Nor is it that the *homa* is dedicated to the ancestors, because we hear mention [in Vedic texts] of another deity.
+>
+> Medhātithi: Because, as with the [erroneous notion regarding the] pleasing of Āditya and the others, there is not the establishment by means of another valid authority that the ancestors are pleased. Thus, there is no connection [of this satisfaction] with an injunction as the thing to be accomplished. . . .”[^1678_1542]
+>
+> PP: [One might object,] “If the ancestors are not the deities in the *śrāddha*, then how is this ritual called ‘dedicated to the ancestors,’ since this (the word *pitrye*) is a *taddhita* derivation signifying the deity?”
+>
+> Medhātithi: We say, it is because of similarity [of the ancestors and deities] as the thing being indexically referenced. The ancestors are referenced [in a statement such as] “this feeding of the Brāhmaṇas is done for the sake of your welfare.” But in the *piṇḍapitṛyajña*, the ancestors are in fact the deities. It is not understood, [however,] that the ancestors are the deities in the *śrāddha*.
+>
+> As for the Brāhmaṇas being fed, that is similar to the case of the oblation into the fire of a portion of ghee, cakes, and so forth. In such a way, the Brāhmaṇas take on the role of being ancestors. Thus, at the time of the serving of food, the ancestors alone are indicated, [as in the statement] “this is for you, it is not mine,” but the Brāhmaṇas occupy the place of the *āhavanīya* fire into which the oblation is made. The difference is to the extent that whereas the oblation is tossed into the *āhavanīya* fire, it is only set down near the Brāhmaṇas, and they take it up for themselves.[^1678_1543]
+
+[^1678_1542]: Medhātithi on Manu 2.189, vol. 1, pg. 174: *nanu ca pitrye kathaṃ brāhmaṇabhojanam / tatrāpi hi na pitarau devatāḥ syuḥ / na ca homasya pitryatvam, devatānataraśravaṇāt / ādityādiprīter iva pitṛprīteḥ pramāṇāntarāsiddhatvān na vidheḥ sambandhaḥ sādhyatayā /*
+[^1678_1543]: Medhātithi on Manu 2.189, vol. 1, pg. 175: *yadi na śrāddhe pitaro devatāḥ, kathaṃ tarhi pitryam etat karmeti devatātaddhitaḥ / uddeśyatvasāmānyād iti vadāmaḥ / yuṣmadupakārārtham idaṃ brāhmaṇabhojanam iti pitara upadiśyante / piṇḍapitṛyajñe tu pitaro devatā eva / na śrāddhe pitṝṇāṃ devatātvaṃ manyante / yat tu brāhmaṇā bhojyante tad yathā’gnau homa ājyapuroḍāśādīnām hy avadānasya, tādṛśam etat / tathā ca brāhmaṇāḥ pitṛtvam āpadyante / ato ’nnapariveṣaṇakāle pitara evoddeśyāḥ— “yuṣmabhyam idaṃ na mameti” brāhmaṇās tv āhavanīyasthānīyāḥ / etāvān viśeṣo yad āhavanīye haviḥ prakṣipyate, brāhmaṇānāṃ tu sannidhāpyate, te tu svayam upādadata iti /*
+
+Medhātithi’s opponent begins by raising a series of questions about the status of the ancestors and the Brāhmaṇas. As we have seen repeatedly, to be a deity (*devatā*) in this discourse means solely that the designated agent is to be labelled the recipient of a particular sacrificial offering, a state of affairs indicate by specific verbal usages. This identity is also [[P1679]] entirely context-specific, as one term might play the role of *devatā* in one part of the ritual and be mere *arthavāda*, or a nonsemantically meaningful part of a *mantra* in the next one. The problem is that on the surface, the term “*pitrya*” would seem to be analogous to “*āgneya*,” a usage that actually can mean “a sacrifice that belongs to Agni,” and thus can be used to determine the *devatā* of a ritual. And as it so happens, in a particular Vedic ritual called the *piṇḍapitṛyajña*, which historically speaking is an early predecessor to the *śrāddha* sacrifice, the text has been composed in such a manner so that if you apply Mīmāṃsā reading strategies, you really do have to conclude that ancestors are serving as the *devatā*. Medhātithi notices this parallel and says that this functional equivalence explains why figuratively speaking many people mistake the ancestors for the deity at the *śrāddha*. Going even further, he seems to make an allowance that in the *śrāddha*, because of how they are indexically reference, the ancestors are playing some sort of liminal “deity like” role in delimited ritual contexts. As for the human beings who are “fed” at the *śrāddha*, an activity that does not align with the duties of actual *devatās* from a Mīmāṃsā perspective, Medhātithi operationalizes them as if they are a special kind of instrument. If the ancestors are “almost deities,” then the Brāhmaṇas are “surrogate sacrificial fires” into which the offerings demanded by the ritual injunction are to be disposed.
+
+As is so often the case when it comes to thinking through liminal cases, the prospect of “the almost deity” tests the boundaries of the taxonomic framework, leading Medhātithi to reflect in much greater detail on the fundamental problems in the ritual understanding of ordinary people that engender widespread mistaken commitments to theism. Medhātithi begins by setting out to show us that both *pūjā* and *darśana* are impossible.
+
+> One might also object that this definition, “the deity is that which is indexically referenced in the sacrifice,” is also underextensive, because even without a connection to the sacrifice, we see the conventional usage of the term “deity,” [as in the phrases] “the worship of deities,” and “one should approach the deities.” But neither worship [[P1680]] nor going toward, which consists of walking with the feet, is possible with regard to deities. This is not a fault. An injunction regarding the worshipping of deities will take place where there is an injunctive force in reference to them, or in reference to the *vaiśvadevatās* that are connected to the *agnihotra* and so forth.
+>
+> One might also object that this is also not possible. For, it is not possible that the deities can be worshipped (*pūjyatvaṃ*), because this would result in a violation of their essential nature [as being the indexical reference of the sacrifice]. For, if they were the direct object of *pūjā* (*pūjākarmatve*), they could not be the recipients of the sacrifice (*yāgasampradānatā*). It is stated, “nothing can be [a different category of ritual element] of another ritual [simultaneously].” For, the agent [of a ritual] is [its] power/force (*śakti*), and that [power] differs according to each ritual activity. And because that [power] is understood through its effect, it is reasonable that its division is according to its effect. Thus, that which is the recipient is [strictly] the recipient, there can be no consequence of its being the direct object. . . . For therefore, this [ritual] does not have worship (*pūjā*) as its object, and we do not find deities anywhere.[^1680_1544]
+
+[^1680_1544]: Medhātithi on Manu 2.189, vol. 1, pg. 176: *nanu cāvyāpakam etad api lakṣaṇam / yāge uddeśyaḥ deveti, antareṇāpi yāgasambandhaṃ devatāvyavahāradarśanāt— “devatānāṃ ca pūjanaṃ,” “daivatāny abhigacched” iti na pūjā nāpy ābhimukhyena gamanaṃ pādavihārātmakaṃ devatāḥ prati sambhavati / naiṣa doṣaḥ / yatra devatācodanā tatraitat pūjāvidhānaṃ bhaviṣyati, vaiśvadevatāsv agnihotrādisambandhinīṣu vā / nanu caivam api nopapadyate / na hi devatāyāḥ pūjyatvaṃ sambhavati, svarūpahāniprasaṅgāt / pūjākarmatve hi yāgasampradānatā na syāt / uktam “na kriyāntarasya kiṃcid bhavati” iti / śaktir hi kārakaṃ, sā ca pratikriyaṃ bhidyate / kāryāvagamyatvāc ca tasyā yāvatkāryaṃ bhedo nyāyyaḥ / ato yat sampradānaṃ tat sampradānam eva na tasya karmāpattiḥ.... tasmād yadi pūjāviṣayam etat, na devatālābhaḥ /*
+
+So far at least, it is difficult to distinguish if Medhātithi’s intention is simply to point out the differences between the technical understanding of deities found in Mīmāṃsā from popular usages of the term, or if he was actually seeking to unilaterally delegitimize normal acts of worship. Succinctly, the core idea here is that any ritual element can only execute a single function at any given time or in a specific context. Since the definition of a “*devatā* “is solely being the recipient of the sacrifice and not being the recipient of an act of *pūjā*, in this very narrow sense, *pūjā* cannot be done to the gods. Then, gradually, the texture of the conversation begins to shift into a questioning of the very existence of ritual injunctions governing *pūjā* (*Pūjāvidhi*).
+
+> Now, deities are Āditya and the others. [There is not] the injunction for worship (*pūjāvidhi*). After all, there is not established to be any deity in indexical reference to which the *pūjā* is enjoined. Nor, we know, is the word “deity”—Āditya and the others—a common categorical term, as for example the word “cow” [is a common [[P1681]] categorical term that includes specific known types of cows such as] the “*śāgaleya*” [breed] and so forth. On this matter, we reply: It is true, Āditya and the others are not “deities” based on possessing any essential nature. This (*devatā*) is a relational word. The meaning of the word “deity” must be understood only based on the injunction (*vidhi*): “For which [ritual] an oblation is impelled, that is the deity of that [ritual].” Thus, it is has been stated that “Agni” himself is not a “deity” anywhere apart from the *Āgneya* [ritual]. However, it is not possible to have an *pūjā* injunction (*pūjāvidhi*) without the [existence of an] object that is being worshipped.[^1681_1545]
+
+[^1681_1545]: Medhātithi on Manu 2.189, vol. 1, pg. 176: *atha devatā ādityādyaḥ, na pūjāvidhiḥ / na hi devatā siddhā yām uddiśya pūjā vidhīyate / na hy ādityādīnāṃ devatāsāmānāyaśabdaḥ, gośabdavac chāgaleyādīnāṃ / atro ’cyate satyaṃ, nādityādayaḥ svarūpato devatāḥ / sambandhiśabdo ‘yam / vidhita eva devatārtho ‘vagantavyaḥ, “yasya haviś codyate sā tasya devatā” iti / sa evāgnir āgneyād anyatra na devatety uktaṃ / kiṃtu na pūjāvidhiḥ pūjyamānam antareṇa sambhavati /*
+
+As Medhātithi is beginning to make plain, in his own somewhat impenetrable manner, the problem here is not that Mīmāṃsā does not permit *pūjā* to deities for reasons internal to its technical mode of reading. The bigger issue is that, unlike when it comes to cows, of which there are many sub-types known in the world, there is no possible reasonable meaning that the word “god” (*devatā*) might communicate to another person that meaningfully refers to a thing in this world apart from its technical definition. Since the gods exist only in Mīmāṃsā, *pūjā* to gods is a meaningless act, for *pūjā* itself has no real object to which the worship is directed. In the passage that follows, Medhātithi observes that since the word *pūjā’s* literal meaning is impossible, we must take it metaphorically, as simply standing in for the normal mode of sacrifice.
+
+> PP: The deities are heard [in the Vedas] as what is being worshipped (*pūjyatvena*).
+>
+> On that matter, if *pūjā* were possible in the primary sense toward the deity as its object, then “worship” (*pūjā*) would be understood only in the sense of “sacrifice” (*yajña*). And given that it lacks the form [of a sacrifice,] given that there is no mention [in the Vedas] of the deity and substance [involved in the feeding of Brāhmaṇas], this [use of the term *pūjā* in reference to an imaginary object] should be understood as an explanatory statement (*anuvāda*) that signifies the injunction regarding the time [of the ritual] as being before noon. . . .
+>
+> [One might object,] why do you say that the deity is not revealed [in the Vedas]? [[P1682]]
+>
+> [We reply,] to the extent that the word “deity” (*devatā*) does not appear directly. This word deity does not signify a general category. The ones toward which “deity-hood” is attributed elsewhere are the ones toward whom is directed this “injunction for worship” (*pūjāvidhāna*). Therefore, Agni, Rudra, Indra, Viṣṇu, Sarasvatī, and the others are to be “worshipped” [in a metaphorical sense.] And gifts (*nivedana*) of *dhūpa*, lamps, garlands, food, etc., are the offerings for the sake of “worship” (*pūjārthaṃ*). Among those deities, first of all, there is a direct relationship [of the offering] with Agni [i.e., it is put in the fire]. Because Āditya resides in a faraway place, through the mention of him, there is the scattering of fragrance and so forth in a clean place. Because the essential nature of Indra and the others is not perceptible, we likewise have the injunction by indexical reference alone through the words “Indra” and so forth. Even if “worship” (*pūjā*) has as its principal component the things being “worshipped,” all the same, because the things being worshipped are [not gods, but] a remainder of the other actions to be accomplished, “*pūjā*” is understood strictly as something that is to be done. . . . Just as praise is not for the sake of praise alone, likewise, this “*pūjā*” is not for the sake of the object of *pūjā*. . . .[^1682_1546]
+
+[^1682_1546]: Medhātithi on Manu 2.189, vol. 1, pg. 176–77: *atha devatāś ca pūjyatvena śrutāḥ / tatra yadi devatārthe mukhyena pūjā sambhavati tadā yāga eva pūjā vijñeyā / tasya cārūpatvād asati dravyadevatāśravaṇe pūrvāhṇakālavidhyartho ’yam anuvādo vijñeyaḥ / atā pūrvāhṇe daivatāni kartavyānītyuktaṃ bhavati / kim ucyate devatā na śrūyate / yāvatā na sākṣād devatāśabdo ’sti / nāyaṃ sāmānyavacano devatāśabdaḥ / yāsām anyatra devatātvaṃ dṛṣṭaṃ tāsām etat pūjāvidhānam / tenāgnir ādityo rudra indro viṣṇuḥ sarasvatītyevamādayaḥ pūjyāḥ / pūjārthaṃ ca dhūpadīpamālyopahārādīnāṃ nivedanam / tatrāgnes tāvat sākṣātsambandaḥ / ādityasya dūradeśavartitvāc chucau deśe uddeśena gandhādiprakṣepaḥ / indrādīnāṃ svarūpasyāpratyakṣatvād indrādiśabdoddeśenaiva tathā vidhānam / yady api pūjyamānapradhānā pūjā, tathāpi hi pūjyamānānāṃ kāryāntaraśeṣabhāve pūjaiva kartavyatayā vijñāyate / dravyapradhāne hi na vidhiviṣayatvasambhavaḥ.... nyāyyaṃ tu stutiśastrādivat / yathā na stutiḥ stutyarthā evam iyam api pūjā na pūjyārthā/*
+
+Essentially, Medhātithi’s opponent, likely some sort of Smārta, has tried to create a conceptual distinction between two types of actions, one called *yajña* and another called *pūjā*, each of which he is suggesting is to be governed by different rules and norms. This Smārta’s solution to the apparently extraneous inclusion within the world of the Vedic sacrifice of ancestors that have be venerated and Brāhmaṇas that have to be fed was the assertion that in both cases, these entities were recipients not of *yajña* but of *pūjā*. *Pūjā*, as his opponent understands it, is a different type of activity, most likely involving the forging of a logical and affective relationship with a god, which serves a different function than the *yajña*, where such facets of experience do not come into play. Medhātithi’s response is to deny that this is a meaningful distinction. He asserts instead that since *pūjā* to a god is impossible, based on the [[P1683]] Mīmāṃsā exegetical principle that apparently impossible statements are resolved by metaphorical interpretation, the word *pūjā* must be simply a synonym for *yajña*. Since again this would result in an impossible statement, we then have to construe the sentence even less literally, in this case as informing us about some ritual details concerning the temporal context for performing the *yajña*.
+
+The problem is of course that our texts contain a whole bunch of statements that seem to suggest we should a thing called *pūjā* to a target called a *devata*, and that this activity called *pūjā* serves some purpose. The solution, of course, is to read all of these statements as non-literal, albeit in a variety of different ways. When the text says there is a *pūjāvidhāna*, it really means there is something you have to do. When it appears to mention a god by name, that is really just a hint to the ritualist about what type of substance he should use in the ritual. So, for example, when it says you have to offer something to the Sun god, that really means, it is time to wave your *dhūpa* in a clean place. Just as the purpose of *arthavāda* statements in the Veda was not really to inform us that Indra has big strong arms and a barrel chest, but rather to impel us to do more rituals or tell us about their results, *pūjā* is not actually either an end in itself, nor an act of worship that forges a bond between worshipper and worshipped. It is simply another way of informing the ritualist about his obligations. As Medhātithi seeks to clarify:
+
+> Thus, [by] the passage “one should circumambulate the clay, cow, and the deity,” the practice of clockwise circumambulation (*pradakṣiṇa*) is enjoined. By means of circumambulation, the rituals related to the deities are to be done. It is not, after all, the case. . . that the place of the deity can reasonably be [circumambulated] by the right-hand path, because it [a deity] has no embodied form. It is the same case with the phrase “one should approach the deities.” Because it is not possible to attain the vicinity of the deity by the activity of walking with one’s feet, since the verb “going” can [secondarily] signify “knowledge,” how can we distinguish “approaching” from “remembering”? [[P1684]]
+>
+> [In actuality,] “one should approach the deities” [means that] at the time of the ritual, one should meditate with the mind; the sense is that one should abandon the scatteredness of thought that is known of as agitation. And having understood in this way, the *Smṛti* in question is in fact actually rooted in valid authority, as in the passage: “One should meditate mentally on that deity for the sake of whom the oblation would be taken up.” And one might object, “This [thinking of the deity] is also already entailed [as a consequence of your definition] given that the deity could not be other than what is indexically referenced.” There is no fault to [our position], because of the possibility of agitation that is accompanied by mental scattering.[^1684_1547]
+
+[^1684_1547]: Medhātithi on Manu 2.189, vol. 1, pg. 177: *evaṃ “mṛdaṃ gāṃ daivataṃ pradakṣiṇāni kurvīteti” dakṣiṇācāratā vidhīyate / dakṣiṇena daivāni karmāṇi kartavyāni / na hi mṛdādivad devatāyā dakṣiṇena mārgeṇa sthānam amūrtyatvāt yujyate / evaṃ daivatāny abhigacched iti / pādavihāravyāpāreṇa devatāsamīpaprāptyasambhavād gameś ca jñānārthatvād abhigamanaṃ smaraṇāt kiṃ viśiṣyate? devatā abhigacchet, karmakāle manasā dhyāyet cittavyākṣeptām ākulatākhyāṃ parihared ity arthaḥ / tathā copalabhya mānamūlaiveyaṃ smṛtir bhavati / “yasyai devatāyai havir gṛhītaṃ syāt tāṃ manasā dhyāyed” iti / nanu caitad apy uddeśyatvān yathānupapatteḥ prāptam eva / savyākṣepasyākulasya ca sambhavād adoṣaḥ /*
+
+In making sense of what Medhātithi is up to, it is helpful to think of him as something akin to a logical positivist or Skinnerian behaviorist, one of those mid-twentieth century analytical philosophers or psychologists who believed in essence that metaphysics of all sorts was bunk and that if you could not touch it, taste it, smell it, feel it, it was not real. One of the most interesting consequences of this line of argumentation was that, when applied with any degree of rigor, it culminated in its proponents denying the reality of abstract concepts, thoughts, and subjective emotional states (even, in the case of A.J. Ayer, the existence of a unitary person), except insofar as they can be linked with concrete material consequences. For Medhātithi then, it is necessary to provide a naturalistic account of the acts of *darśana*—seeing and being seen by the deity, a process that in many places includes circumambulation—and of meditation, which presumes the possibility that one can focus on an imagined mental object. In both cases, the solution is to strip these acts of any assumed metaphysics and reconstrue them as providing an impetus that informs how one should engage in concrete action. The purpose of every subordinate act that makes up a ritual extends no further than the fact that they have to be done and done in a certain way for the ritual to be a success. Since deities do not exist except on the page, we cannot circle around them or “go near them” or “approach [[P1685]] them.” To derive some benefit from textual passages where such instructions are given, we thus have to read key terms in increasingly metaphorical and abstract ways, such that “approaching” comes to mean “one-pointed mental focus.” Since Mīmāṃsā is equally unwilling to give sanction to any form of esoteric self-cultivation, invocations of “meditation” must also then be naturalized. Mental focus thus is reimagined not as intrinsically valuable because it plays a role in making ritual work, but as a helpful reminder not to let the mind get “agitated” or “scattered.” Again, there is nothing intrinsically wrong about mental agitation, but since getting distracted might lead to committing errors in the execution of what really matters—performing ritual acts—it is good to counter it now and again.
+
+Medhātithi now begins winding down his exegesis. Before closing his commentary on this verse of Manu, which, for all its extravagant length, barely addresses most of the root text, he takes the opportunity to “update” Śabarasvāmin’s critique of deities as property owners, the one we encountered in the very first chapter. The ninth century in Kashmir, needless to say, is a very different world than that of the imperial Guptas. Succinctly, temples have now existed for so long, serving so many constituencies that they cannot simply be written out of the story. His solution is simply to treat rhetorical claims that gods are present in temples that they are said to “govern” and within which they hold property as transactional social phenomena with no ontological basis whatsoever.
+
+> Thus, conventional usages such as “deity-hood,” “the cattle of the deities/the bound soul belonging to the deity (*devapaśu*),” “the ritual substances of the deities (*devadravya*),” and so forth are seen only to refer to the “cattle” (*paśu*) and so forth prepared for the ritual in their original meanings. [Some people], however, argue that with regard to legal eligibility for punishment [i.e., stealing property from a temple, etc.], the conventional usage of the term “deity” only concerns the image (*pratikṛti*), as otherwise there would be a violation of legal regulations. That alone is called the “property of the gods”—as in the passage, “the property of the gods, brahmans, and kings is to be known as the highest,”—that bears a connection based on the relationship of property and property owner (*svasvāmibhāvena yatsambandhi*), which is purely [[P1686]] conceptual (*kalpita*) on the part of images that have been fashioned to bear the forms of the gods. It is not, after all, that the deities actually possess a relationship of property and property bearer (*svasvāmibhāvaḥ*). Because the primary meaning is impossible, this has to be understood strictly in a secondary sense.[^1686_1548]
+
+[^1686_1548]: Medhātithi on Manu 2.189: *evaṃ “devatvaṃ” “devapaśavo” “devadravyam” ity ādayo vyavahārās tādarthyenopakalpiteṣu paśvādiṣu draṣṭavyāḥ / daṇḍādhikāre tu pratikṛtiviṣayam eva devatāvyavahāram icchanti / anyathā vyavasthābhaṅgaḥ syāt / kalpitadevatārūpāṇāṃ pratikṛtīnāṃ kalpitenaiva svasvāmibhāvena yatsambandhi tad eva ‘devabrāhmaṇarājñāṃ tu dravyaṃ vijñeyam uttamam ityādiṣu devadravyam / na hi devatānāṃ svasvāmibhāvo ’sti, mukhyārthāsambhavād gauṇa evārtho grāhyaḥ /*
+
+On the surface, Medhātithi appears to be reiterating Śabara’s old argument that gods cannot really own material property, though this time not with the aim of challenging the existence of temples but simply in the service of showing that they are what one might well call a purely secular social institution whose theology amounts to a mere “ideology” in the most reductive of Marxist senses, obscuring the real working of power and material social circumstances. As one digs more deeply, however, we begin to recognize that our author aims to make a deeper more conceptual point, one that aims a dagger at the heart of one of the key paradigms for early medieval religion in all but its most exalted of pantheistic and nondualist esoteric modalities. We already encountered this notion of the *svasvāmisambandha*, the relationship between an owner and a thing that is owned, or a master and his property, at the very end of chapter 1. There, the fifth-century Pāśupata theologian Kauṇḍinya used this formulation, especially prevalent in both grammatical philosophy and the traditions of the Vaiśeṣikas, as exemplifying the relationship of the Supreme Rudra to a Pāśupata adept, especially in the early stages of his *sādhanā*. In subsequent centuries, this same paradigm, read as an account of how God relates to human beings, had become integral to the Sanskrit scholastic tradition of the Śrīvaiṣṇavas and the dualistic Śaiva Siddhānta, as well as to their Tamil counterparts among the traditions of the Āḻvārs and Nāyaṉārs. More broadly, insomuch as theistic forms of Sāṃkhya philosophy become increasingly integral to various Mantramārga [[P1687]] and Purāṇic cosmological discourses, this very same notion of the *svasvāmisambandha* also comes to serve as a common ontological account of the relationship to *puruṣa* and the *mūlaprakṛti* or *māyā* that makes up material reality. When the same configuration is reinscribed with a more individuated vision of the ultimate reality as a supreme deity, what emerges is a notion, ubiquitous throughout the Tantras, of a lord, whether Bhairava or some other entity, defined as the *śaktimat*, the one who possesses/owns the powers or goddesses that are the *śaktis*. In other words, we get a definition of what it means to be god entirely centered upon the particular conceptual and grammatical relationship, governed by the genitive, that the philosophers of grammar called *svasvāmi*(*bhāva*)*sambandha*. Thus when our Dharmaśāstrin says that “it is not, after all, that the deities actually possess a relationship of the property holder to a property,” and that it must be the case that all such statements have a secondary or “metaphorical” meaning, he arrives at a kind of skepticism oddly akin to what would be advocated by the decidedly European radical Enlightenment, and for that matter, much of the academic study of religion.
+
+To the cultural despisers of religion of the sort epitomized by Medhātithi, the *Caturvargacintāmaṇi* and its author Hemādri responds with dismissive and withering contempt.
+
+> H: And that [all of the preceding arguments] is not the case, [that it is not reasonable to conjecture the falsehood of satisfaction and being bestowers on the part of deities].
+>
+> For, everywhere in the Śruti, *Smṛti*, *Itihāsa*, *Purāṇa* and so forth there is the demonstration of the commencement of the *śrāddha* as precisely having as its chief purport the satisfaction of the ancestors. Furthermore, the very fact of deities being the bestower of the fruit [of sacrifice] also is stated many times in both the *vidhi* and *mantra* in the beginning and middle parts of a verse. And moreover, because the most authoritative *śiṣṭas* have the firm conviction that such is the case, worldly people are confident that such cannot be doubted. Thus, it is impossible to even conceive of the falsity of their [the deities] being the bestowers of fruit and satisfaction. For, just as these statements are shown in the *Smṛti* and *Purāṇas* concerning the *śrāddha*, which [[P1688]] teach about the many fruits of the satisfaction of the ancestors and so forth, in just the same way there are also [statements] written teaching about the sin incurred when it [pleasing entities] is not done.[^1688_1549]
+
+[^1688_1549]: Hemādri, *Caturvargacintāmaṇi*, *Śraddhākalpa*, 23: *tan na, śrutismṛtītihāsapurāṇādiṣu sarvatra pitṛtṛptiprādhānyenaiva śrāddhārambhadarśanāt, phaladātṛtvasyāpi vidhimantrayor ādimadhyāvasāneṣv anekaśo ’bhidhānād abhiyuktatarāṇāṃ śiṣṭānāṃ tādṛgdhīdārḍhyāl lokasyāyathāvicikitsāpratītes tṛptiphaladātṛtvayor alīkatvakalpanānupapatteḥ / yathā hy etāni smṛtipurāṇeṣu pitṛtṛptyādyanekaphalapratipādakāni śrāddhaviṣayāni vākyāni darśitāni, tathā tadakaraṇe pratyavāyapratipādakāny api likhayante /*
+
+On the basis of precisely the mode of authoritativeness that Mīmāṃsā so often calls into question—the actual social practices of people in the world, with the support of the very modes of textuality that figures like Medhātithi viewed as so dubious, teachings in *Smṛti* and *Purāṇa* for which a Vedic proof text cannot be adduced—Hemādri invokes an ideological consensus in which it is self-evident that rituals like the *śrāddha* are for the pleasing of the ancestors and that the failure to do so will bring about terrible consequences. As we will see in the final section of this chapter, though for prior exegetes, the whole question of what we mean when we suggest that ritual is about “pleasing” deities was usually an argument about methodology or at most about the ontological existence of gods out in the world, for Hemādri such reflections, even in the context of Vaidika rituals, are intrinsically of the utmost significance, for they point the way to a religion of the heart that centers affect and individual quotidian human experience.
+
+Once again, it is worth reflecting that what we are seeing here in this discourse cannot be understood as either the continuation or restoration of a learned Brāhmaṇa legalist tradition. Even where our author inserts himself to ongoing discussions of great antiquity or engages and appropriates the language of his predecessors, he typically does so from a counterintuitive angle in the service of making arguments that either clash directly with what has been written before or are founded on totally different primary theological commitments. The most [[P1689]] measured take on the written evidence at hand would suggest that we have here at long last is perhaps the first entextualization of long standing localized Brāhmaṇa social practices and in community understandings. It is certainly plausible that among its many marvels, Maharashtra had pockets of devotionalized Brāhmaṇas to whose inchoate yearnings Hemādri—perhaps the first member of their community to achieve transregional authority— at long last gives voice. But as we have seen in earlier chapters, the documentary and material culture evidence from the Seuṇa country, in which Brāhmaṇas of this sort play no outsize part, pushes back at such understandings. Based on our archives, it is thus just as likely that Hemādri’s consensus has been imagined into being during his own lifetime, even perhaps in a large part at his direction.
+
+Now that Hemādri has shown us the how and why of *śrāddha* and defended the common understanding of the practice in opposition to overintellectualizing critics, it is rather appropriate that in a chapter entitled the *Śrāddhavidhiphalapraśaṃsāprakaraṇa*, the text concludes with our author promoting *śrāddha* institutionalization through a celebration of its virtues. As we saw earlier, such an approach is of course perfectly in keeping with Hemādri’s core theory of textuality, which presumes that just as with rituals, people will stop reading books if they are not provided with a core motivation about what concrete purposes their reading will serve. Since, just as with injunctions, what provides that impetus is “statements in praise of the fruit,” *praśaṃsā*, in and of itself a form of *arthavāda*, Hemādri concludes with an annotated act of *arthavāda*. In other words, he tells his readers a story, and then shows them why that story is significant. Unlike for the Mīmāṃsakas, for whom the category of *arthavāda* often amounts to “myth” in the pejorative sense of that term, there is nothing Hemādri’s writings that would indicate that a story cannot be compelling and also fundamentally “true.” [[P1690]]
+
+First occurring in the *Harivaṃśa* but retold across a number of different *Purāṇas*, while of marginal interest among modern Indologists, the story the *Caturvargacintāmaṇi* relates in celebrating *śrāddha* is perhaps best known to the academy for its reception within the circles of the American transcendentalists and metaphysical poets. As fate would have it, this very same work of *arthavāda*, preserved in the author’s own hand, was translated by the American metaphysical writer Henry David Thoreau under the title “The Transmigration of the Seven Brahmans.”[^1690_1550] Essentially, it is a tale about seven brothers who are fallen from *yoga* (*yogibhraṣṭa*). Fallen from the path by the commission of the heinous sin of killing a cow and lying about it, due to the merit they had acquired through their adherence to ritual duties, they are reborn into various human and animal bodies, first as hunters, then as stags, geese, swans, and ducks. In each incarnation, because of their previous piety, in spite of their sins, the best of the brothers retain their memories and so are able to continue their ascetic practice even while in animal bodies. While four of the brothers stray from the path and become mere animals, the rest spend as much of each incarnation as possible engaged in yogic practices, each time ending their lives through acts of austerity. Ultimately reborn in good circumstances as pious twice-borns, they eventually achieve absolution and salvation. Here, in Thoreau’s own rendering, is how the story begins:
+
+[^1690_1550]: Thoreau seems to have completed this translation, a tiny extract of his own selection, from a huge and varied tome, in either 1849 or 1850. As he had little if any Sanskrit, he accessed it through the intermediary of S. A. Langlois’s French translation. S. A. Langlois, *Harivansa: Ou, Histoire de la Famille de Hari, Ouvrage Formant un Appendice du Mahabbarata* (Paris: Oriental Translation Fund, 1834).
+
+> “The world is founded upon the *sraddha*.
+>
+> The divine eye, which Sanatcoumara had given me, made me perceive the seven Brahmans, of whom he had spoken, unfaithful to their sacred rules, but yet attached to the worship of the Pitris. . . . Their father dying, they commenced the prescribed ceremonies under the direction of their master. By his order they took care of his foster cow, named Capila, who was accompanied by her calf already as large as herself. On the way, the sight of this magnificent cow, who supplied all the wants of Gargya, [[P1691]] tempted them; hunger impelled them, their reason was blinded; they conceived the cruel and mad project of slaying her. Cavi and Swasrima endeavored to prevent them from it. What could they do against the others? But Pitrivarttin, that one among them who was always occupied with the *sraddha*, having his mind then on the duty the thought of which possessed him, said to his wandering brothers with anger: “Since we have a sacrifice to make to the Pitris, let this cow be sacrificed by us with devotion, and her death will profit us. Let us honor the Pitris, and no reproach can be made to us.” “Well,” said they all, and the cow was sacrificed in honor of the Pitris. They told their master afterwards: “Your cow has been slain by a tiger, but here is her calf.” The Brahman, without suspecting evil, took the calf which they delivered to him.
+>
+> But they failed in the respect which they owed to their master; and when Time came to take them all together from this world, for having been cruel and wicked, for having rendered themselves guilty of impiety toward their preceptor, they all seven reappeared in life in the family of a hunter, of the country of Dasarna. However, as in sacrificing the cow of their master, they had rendered homage to the Pitris, these brothers, filled with force and intelligence, preserved in this existence the remembrance of the past; they showed themselves attached to their duties, performing their functions with zeal, and abstaining from every act of cupidity and injustice: now holding in their breath as long a time as endured the recitation of a *mantra*, now plunging themselves into profound meditations on their destiny.”[^1691_1551]
+
+[^1691_1551]: Henry David Thoreau, *The Transmigration of the Seven Brahmans: A Translation from the Harivansa of Langlois* (New York: William Edwin Rudge, 1932), 3–4.
+
+In the *Harivaṃśa*, the story now continues for several more pages, in which we are offered detailed descriptions of each of the brothers’ succeeding incarnations. In each case, the text dedicates much of its efforts to outlining the sustained programs of yogic practice that render even these humble births extraordinary. Thus, for example, again in Thoreau’s translation, we learn that even as stags:
+
+> They wandered in the woods, detached from every sentiment, from every affection, submitting with resignation to the duties which they had to fulfill, and in their solitude delivering themselves to the exercises of the Yoga. Extenuated by fasting and penitence, they died in the course of pious practices.[^1691_1552]
+
+[^1691_1552]: Thoreau, *The Transmigration of the Seven Brahmans*, 5.
+
+As Thoreau himself has highlighted, while the sacrifice to the ancestors performed during the *śrāddha* rite is what makes possible the brothers’ retention of a capacity to consciously reflect upon and thus address their *karma* across a number of nonhuman births, [[P1692]] from the *Harivaṃśa’s* own perspective, an equally strong case could be made that this is a story celebrating the practice of *yoga*. After all, while all of the brothers receive the benefits from the *śrāddha* sacrifice, a number of them still end up straying into a destructive karmic path. It is only those of the siblings who maintain their dedication over multiple lifetimes to the practice of *yoga* that reap the real benefit. Needless to say, Hemādri’s commentary offers a very different take on the moral of the story, centering participation in the *śrāddha*, nearly to the expense of everything else:
+
+> This is the essential meaning (*tātparya*) of this story of seven [Brāhmaṇas], which consists of an *arthavāda* whose contents pertains to a previous eon. The purpose of the story is this: even having killed her [the cow], despite her being a cow; despite having deceived the guru, given the bondage of their own hunger, even though he gave the instruction of eating the cow; even though the cow had the guru as her master, and she was not authorized by the guru [to be killed]; even by [this act of] fraud—having designated the cow [as fit] for consuming at the *śrāddha* on the part of the *sapiṇḍa* [Brāhmaṇa guests], on behalf of those who perform the *śrāddha*, there arose the memory of previous births even when they had taken on the form of animals in another lifetime.
+>
+> Then, for them, preceded by knowledge and dispassion of the right sort, there was the acquisition of *yoga* and sovereignty. There was the obtaining of *mokṣa* and the fact of knowing the real nature of all beings. Thus, they became of that nature [i.e., *brahman*].
+>
+> What more has to be said? By means of food offerings that are excessively well fashioned, that are produced using ghee, barley, and rice [that have been] acquired from money that was lawfully earned, having invited twice-borns, who are correctly procured (*samyaksampādīta*) by means of the injunction of summoning and so forth, who are suitable vessels [for receiving the *śrāddha* offering] and knowers of the Vedas and the meaning of the Vedas, [if that is done,] then on the part of those who perform the *śrāddha* according to the injunction, there exist the fruits inclusive of health, long life, and so forth, extending up to beatitude. . . . And likewise, there are also other fruits produced by particular *śrāddha* rites. . . . But, the satisfaction of the ancestors is the purpose in all the *śrāddhas*.
+>
+> The fruit of reciting the *śrāddha* injunction as well is cited by Harīta:
+>
+> “But, the one who recites and also performs this auspicious *śāddha* injunction is endowed with all desires and finds immortality.” [[P1693]]
+>
+> However, by Bṛhaspati, is stated that there is the same fruit also on the part of those who are assenting (lit., co-doctrinal—*anumata*) to the instructions by means of the knowledge of the *śrāddha* injunction:
+>
+> “The intelligent person who knows thus receives the fruit of the *śrāddha*, but if one is an ‘assenter’ to the given instructions, in this world, the two fruits are known to be equal.”[^1693_1553]
+
+[^1693_1553]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 34–35: *asya purākalparūpārthavādātmakasya saptavyādhopākhyānasyedaṃ tātparyyaṃ, yad gurusvāmikām ananujñātām api svabubhukṣānibandhan[e] bhakṣaṇoddeśenāpi guruṃ vañcayitvāpi gām api hatvāpi sapiṇḍānām api śrāddhabhojanaṃ vidhāya chadmanāpi śrāddhaṃ kṛtavatām anyasmin janmani tiryagjātīnām api yadā pūrvajanmasmṛtis tādṛgvidhajñānavairāgyapūrvako yogalābho rājyalābhaḥ, sarvasattvarutajñatā mokṣalābha ity evaṃvidhāni babhūvuḥ / tadā kiṃ vaktavyam / nyāyārjitadhanasampāditaśāliyavājyādiniṣpāditair atiśayaracanāmayair annair vedavedārthavidaḥ pātrībhūtān nimantraṇādividhinā samyaksampāditaṃ dvijān upaveśya yathāvidhi śrāddhaṃ kṛtavatām āyurārogyādīni niḥśreyasaparyantāni phalāni bhavantīti.... tathā anyāny api śrāddhaviśeṣajanyāni phalāni bhavanti.... pitṛtṛptis tu sarveṣv api śrāddheṣu prayojanam iti / śrāddhavidhipāṭhasyāpi phalaṃ hārītenoktam— idaṃ śrāddhavidhiṃ puṇyaṃ kuryāc cāpi paṭhec ca yaḥ / sa sarvakāmasaṃyukto hy amṛtatvaṃ ca vindati // bṛhaspatinā tu śrāddhavidhijñānopadeśānumatānām api phalam uktam—* [ya] *evaṃ vetti matimān tasya śrāddhaphalaṃ bhavet / upadeṣṭānumantā ca loke tulyaphalau smṛtau // iti /*
+
+One particularly fascinating and not so apparent features of Hemādri’s practice as an exegete is that he is modelling for us an entirely different theory of textuality, within which the boundaries between different sources dissolve at the very moment where they touch upon and address the same topic. It is for this reason that he sees himself as justified in extracting a unitary intentionality (*tātparya*), not just from one particular text, but from the multiple different tellings of “The Transmigration of the Seven Brāhmaṇas” cited by the *Caturvargacintāmaṇi*. From our Dharmaśāstrin’s perspective, then, this “story,” in any of its textual instantiations, serves to convey two interrelated messages. The first and most straightforward of these promotes the value and absolute necessity of participating in the *śrāddha* ritual by demonstrating the positive results that it is guaranteed to yield, even on behalf of people who have otherwise violated their ritual duties. At the same time, Hemādri is also showing his reader that, when properly executed, the study of *Purāṇa* amounts to a form of inquiry (*vicāra*) that yields the same understandings and results as the study of the Upaniṣads. [[P1694]]
+
+To accomplish this task, in his analysis Hemādri repeatedly brings the contents of the texts into closer alignment with the prescriptive paradigms of Vedānta discourse than their actual substance would warrant. Thus, for example, while we are told that their memory of prior births (*pūrvajanmasmṛti*) and the acquisition of *yoga* (*yogalābha*) was preceded by, and thus effectively made possible through, a prior state of knowledge and dispassion (*jñānavairāgyapūrvaka*), because that is what a Vedānta paradigm presumes; the evidence of the stories themselves do not actually support such a claim. Within the text in fact, these virtues seem only to emerge after the very flawed main characters have already taken up the practice of *yoga*. Another nod to this emergent Vedānticizing paradigm, which is being superimposed onto discourses to which it has only the most tangential of doctrinal relation, involves collapsing the distinction between the results yielded by oneself participating in the *śrāddha* ritual and any person enacting mere affirmation of the validity of the *śrāddha* paradigm. Succinctly, this conceptual move enacts a classic Advaita Vedāntic tendency, namely, to dissolve any difference between knowing something and doing something. Beyond its apparent theological implications, this choice also has two very concrete social ramifications. First, it provides accommodations within the world of the *Caturvargacintāmaṇi* for twice-born renunciates who have taken a vow that abjures participation in all forms of “*pravṛtti*” oriented transactional ritual without in any way implying any denigration of the value of that ritual modality. So long as a renunciate is “co-doctrinal” (*anumata*) with the theology and method that animates Smārta inscribed rituals—effectively so long as he pays lip service to what Dharmaśāstrin style Brāhmaṇas do while he is out and about in the world—he can be perceived not as representing a rival paradigm, but as a complementary authority participating in a shared worldview and reaping the same sort of benefits. At the same time, positing the existence of [[P1695]] “co-doctrinal” assent to the instructions given by others concerning the sacrifice also permits a new kind of participation among those social demographics who are not permitted to fully participate in *śrāddha* rituals—for example, Śūdras. So long as they “assent” to the validity of the rituals performed by their betters, such people can also participate and benefit from this newly emergent all encompassing “religious paradigm.”
+
+It must be stressed that within the *Caturvargacintāmaṇi*, this emergent paradigm, in which all of the texts in the canon and all of the participants in a society are supposed to passively share a single worldview inflected by Vedānta and grounded in the *Purāṇas*, is never assigned any particular name, apart from the occasional allusion to a Smārta *mata*. It would certainly be anachronistic to say that what Hemādri has been doing, with his hallmark self-awareness, is tantamount to deliberately “making up” Hinduism, still less with the aim of casting it as a world religion. Nevertheless, if we are going to talk about the “invention” of Hindu religion—which is of course among Religious Studies scholars who focus on the subcontinent a topic of perennial interest, often it seems to the exclusion of much else—this Smārta *ecumene* of the late Seuṇa Yādavas, of which Hemādri is at the very least the principal architect, needs to be included on our itinerary as among the earliest points of interest.
+
+Despite considerable efforts over the course of the better part of a decade to disabuse myself of such notions by placing Hemādri’s intellectual project within a prior genealogy locatable within the world of *śāstra*, in seeking out concrete scholastic antecedents, I am afraid I have come up short. It really does seem to be the case that this is the first time in our textual record when a plurality of the conceptual resources that makeup our familiar “big tent” orthodox Hinduism have been assembled together. Primarily, what we are missing is what the great German historian of the historicity of ideas, Reinhart Koselleck, would call “the process [[P1696]] of conceptualization.”[^1696_1554] This is when a constellation of interlinked concepts become strongly associated with a particular *lexeme*, which is then simultaneously promoted by its advocates and challenged as a unitary concept by its opponents. It is only then, or so conceptual historians of semantics have argued, that we see the emergence of discourses centered upon and in response to a single topic taken as a common point of reference. Based on our studies, it should be self-evident that the *zeitgeist* being engendered by the *Caturvargacintāmaṇi* does not yet match all of these criteria.
+
+[^1696_1554]: Conceptual history, or *Begriffsgeschichte*, emerges out of the critical reflection of Reinhart Koselleck on the emergent methodology that developed over the course of thirty years during the production of the *Geschichtliche Grunbegriffe* (“Basic Concepts in History: A Historical Dictionary of Political and Social Language in Germany). See Reinhart Koselleck, et. al., ed., *Geschichtliche Grundbegriffe:Historisches Lexikon zur Politisch-sozialen Sprache in Deutschland*, 8 vols. (Stuttgart: E. Klett, 1972–1997). As Michaela Richter, working alongside Koselleck in translating the introductions to the various volumes, so aptly puts it: “It was in his ‘Introduction’ that Koselleck first underlined the significance of the historical change in the form of key political and social concepts from the plural to collective singulars, such as from histories to history, or from liberties—meaning privileges—to liberty. In a celebrated article, Koselleck later demonstrated the political and social consequences of these alterations in language. By ‘basic political and social concepts’ (*Grundbegriffe*), Koselleck meant to designate a distinctive type of concept, which in his view is qualitatively different from other concepts, terms, or *lexemes*. As formulated by Koselleck, basic concepts are said to combine manifold experiences and expectations ‘in such a way that they become indispensable to any formulation of the most urgent issues of a given time.’ They are, in other words, those terms in a language’s political and social vocabulary without which communication is no longer possible. Such concepts must be dealt with, positively and negatively, by anyone seeking to communicate with the audience or public that is being targeted. Basic concepts are highly complex; they are always unavoidable, ambiguous, controversial, and contested. It is these characteristics that make historically significant and set them off from purely technical and professional terms.” Richter’s remarks are published in Reinhart Koselleck, “Introduction and Prefaces to the Geschichtliche Grundbegriffe,” trans. Michaela Richter, *Contributions to the History of Concepts* 6, no. 1 (2011): 3.
+>
+> Among the many features that distinguish the *Grundbegriffe* approach to corpus analysis from other projects that study the changing semantic history of words is the close attention the project pays to the correlations between context-specific deployments of given terms as well as the discursive regularities governing which types of speakers use which types of terms in which ways. The latter dimension of the project, for example, allows Koselleck to determine that well into the eighteenth century the most common terms for a peasant in German are almost exclusively *etic* terms used by elite classes to describe an inferior other and are virtually never self- ascriptions reflecting the self-understanding of the communities they are used to describe. Needless to say, such methods hold enormous promise for refining our own approaches as scholars of Indian religions using the digital humanities in the service of studying the historical change undergone by key religious terms of art over the *longue durée*.
+
+Far from being pedantic, this is the distinction between an incidental constellation of interlinked concepts and what is essentially a unitary point of reference for these elements presented in tandem with a form of discourse in the absence of which no meaningful discussion [[P1697]] can take place. By way of illustration, we can examine the matter in reference to Koselleck’s own field of interest, namely, the history of Western political thought. The first case would be represented by the anachronistic efforts of someone like Engels when he is seeking to locate Marxists and socialists among the messianic peasant rebellions of medieval Europe. The social agents in question possessed some of the traits and were invested in some of the issues that would come to be associated in later centuries with “socialist” principles— promoting communal living, for instance. At the same time, much of their worldview and agenda was not explicable in these terms. In contrast, the second case of full conceptualization corresponds to when Engels is analyzing the writings and activities of an eighteenth-century political actor like Henri de Saint Simon, to whom the coining of the term “socialist” is assigned, and in response to whom the general contours of political argument in Western discourse concerning this most contested of topics took on their now all too familiar character. Labelling both of these discourses “socialist” completely obscures the fact that these acts of classification in actuality represent two different logical processes. To put it another way, we can credit Hemādri with building a bridge to a recognizably early modern, even “Hindu” religion, without concluding that he himself has ventured fully across it.[^1697_1555]
+
+[^1697_1555]: This would correspond quite closely with what Koselleck calls the *Sattelzeit* or threshold period, “in which the past was gradually transformed into the present. Concepts registering this change become ‘Janus-faced’: facing backwards they pointed to social and political realities no longer intelligible to us without critical commentary; facing forward to our own time, concepts have taken on meanings that may not need further explication to be directly intelligible to us.” Richter, trans., “Introduction and Prefaces to the Geschichtliche Grundbegriffe,” 9. In Koselleck’s domain of inquiry, the threshold period for the transformation of essential concepts is largely coterminous with the eighteenth century. In terms of our own archives, the thirteenth and fourteenth centuries seem more plausible candidates.
+
+In concluding our study of the *Caturvargacintāmaṇi*, it is perhaps fitting that we end by offering our reader a taste of the experience of what it is like to be stranded upon such a bridge. Our focus will be one of the *Caturvargacintāmaṇi’s* most theoretically important, and [[P1698]] most gnomic chapters, entitled the *sarvaśāstropasaṃhāra*.[^1698_1556] This is the place where, all at once, Hemādri outlines his theory of Smārta religion as comprised of a unitary canon, explicates the very nature of the genre of the *nibandha*, and seeks to justify his overwhelming reliance as a *dharmaśāstrin* on Purāṇic authorities of a sort largely discounted by prior thinkers. To the profound frustration of modern readers, whose company you will soon be joining, rather than presenting these stances in a clear and programmatic fashion in the manner you would expect of someone trying to disseminate a new philosophy or value system, our *śrīkaraṇeśvara* gradually and surreptitiously introduces these positions. Even more unappetizingly, he does this in the context of an arcane reflection that attaches itself to what even in the thirteenth century was an outmoded backwater debate about inter-lineage contestations among Śrauta ritualists. Though scholars of *śāstra* might anticipate, with a title like *sarvaśāstropasaṃhāra*, that our focus here would be on identifying the culminating or most important passage (*upasaṃhāra*) in and among all the *śāstras*, for this is the usual technical meaning of this term of art, especially in Vedānta circles, Hemādri construes the term in an entirely different manner. For him, *sarvaśāstropasaṃhāra* refers to the extraction or acquisition (*upasaṃhāra*) of various ritual details from across all the *śāstras*.[^1698_1557] In essence, the topic at hand is: “what are the rules for taking various elements from originally disparate textual domains and reading them as connected discourses that complete or complement each other?” Or, to put things in a more honest light, just how does one justify the method and interpretive project of the *Caturvargacintāmaṇi*? Riding to the rescue, as we will see, is none other than Pūrva Mīmāṃsā. [[P1699]]
+
+[^1698_1556]: The *sarvaśāstropasaṃhāra* occupies pg. 748–759 of the first volume of the *Śrāddhakalpa*, the vast majority of it taking the form of elliptical and dense *śāstric* prose.
+[^1698_1557]: Dakshinaranjan Shastri, in his brief discussion of the present section of the text, the only other treatment in the secondary literature known to me, interprets this term of art precisely the same way, translating it as: “gather all directions for a rite from all available sources.” See Dakshinaranjan Shastri, *Origin and Development of the Rituals of Ancestor Worship in India* (Calcutta: Bookland, 1963), 166.
+
+The preexisting medium that Hemādri chooses for working through this issue with the aim of arriving at his preferred conclusions is an old, probably even pre Mīmāṃsaka debate about the logical relationships and dependencies between different Vedic *śākhās*. Hearkening back to some of the arguments we encountered in the very first chapter of this work, the texts and collections of praxes that makeup that we now call Vedic religion have their origins within specific lineages where they were viewed as the exclusive intellectual property of a delimited community. Whereas we tend to think, for example, of the White and Black Yajur Veda, or, zooming in a level, of even the Kāṇva and Mādhyandina versions of the *Śatapathabrāhmaṇa* as “variants” on a shared tradition, there is ample evidence that the self-understanding within these transmissions was quite different. It is quite likely that originally, they perceived their counterparts as bitter rivals if not outright enemies.[^1699_1558] As over the time the Veda begins to be reimagined as a cohesive canon, quite naturally, this originary model gradually gives way to a logic of accommodation in which not only different rituals but just as importantly differences in what seems to be the same ritual as practiced across different communities have to be rationalized. With the emergence of Pūrva Mīmāṃsā as an aspiring non-śākhā-specific ritual metalanguage and of canons like the *gṛhastha*-centric *Gṛhya* literature and Dharmaśāstras, which pitch ritual systems such as the *pañcamahāyajñas* as providing an alternative ritual repertoire in lieu of Śrauta sacrifices, once again, priorities have to change. Thinking through the scope of one’s varied ritual obligations and the competing demands they place upon a professional religious person became of paramount importance. And, as the palate of ritual obligations became ever more varied, because the texts themselves are hardly programmatic [[P1700]] and comprehensive, knowing “how to do the ritual” became less and less a matter of mastering in childhood as thoroughly as possible a single cohesive body of hereditarily transmitted in-house knowledge and ever more dependent on knowing strategies for locating the materials and strategies one needs scattered across a disparate array of other people’s canons.
+
+[^1699_1558]: See for example Michael Witzel, “On the Localisation of Vedic Texts and Schools,” in *India and the Ancient World: History, Trade and Culture before A.D.*, ed. G. Pollet (Leuven: Department Oriëntalistic, 1987).
+
+Precisely because the different *śākhās* perform parallel rites, often bearing the exact same title, with both major and minor variations, the moment one starts seriously studying how other people do things, all sorts of questions and doubts are raised about which ritual details one should bring in from rival traditions and which ones should be ignored. As you might expect, the tradition of reflection on ritual, Mīmāṃsaka and otherwise, offered a range of answers to these questions. This then is the terrain that Hemādri has selected for making his own arguments. The *sarvaśāstropasaṃhāra* builds upon these preexisting conversations by gradually expanding them to incorporate a more capacious definition of what it means to be Smārta and then seeks to reinforce its claims by deploying argumentative strategies drawn out, for example, of the nascent tradition of proto-Navya Nyāya philosophy. For the modern scholar, myself most certainly included, both of these choices gesture in the direction of parts of the history of Sanskrit thought that have barely been explored and that carry with them their own considerable difficulties. With these caveats in mind, we are ready to attempt our engagement with Hemādri’s contributions. To facilitate this encounter, the translation that follows aims at conveying the core ideas in the passages and is much less literal than what we have been working with throughout most of this study. Just be forewarned, even with these stipulations, that it is likely we are going to get stranded on this ever so treacherous bridge. [[P1701]]
+
+> H: The one whose reserve of all the lofty qualities cannot be enumerated [even] by thousands of hordes of accountants, that Hemādri Sūri, who has performed an abundance of merit-making acts, now relates all the meta-rules regarding the *śrāddha* ritual.
+>
+> And now, the meta-rules. There is the *sarvaśāstropasaṃhāra* and this is thought of as having that [the following] as its meaning.
+>
+> Is it the case that *śrāddha* is said to consist of ritual details (*dharmas*) inclusive only of [what is contained] in the *Kalpasūtras* and *Gṛhyasūtras*, respective to the *śākhā*, and thus is to be performed only on that basis, or [is the *śrāddha* to be done] by deploying the extracted ritual details from all sorts of *śāstras* (*sarvaśāstropasaṃhāra*) as they are enjoined in the *Manusmṛti* and so forth?
+>
+> On that matter, if the *śrāddha* is to be performed only according to the ritual details [contained within the *Kalpasūtras* and *Gṛhyasūtras*—i.e., the first option,] then the instruction (*upadeśa*) in the ritual details in the *Kalpasūtras* and *Gṛhyasūtras* would be meaningful and otherwise it [such instruction in the canon of *Kalpasūtras* and *Grḥyasūtras*, at least as they pertain to *śrāddha*] would be without purpose.
+>
+> Now, [in a similar light,] one might object that if the extraction of the ritual details from all the *śāstras* enjoined in the *Smṛtis* is done, then the *Smṛtis* would be meaningful, and otherwise, they would have no meaning. Thus, by the same logic, [if we accept the validity of this model,] the extraction of the ritual details [and details pertaining to] the aggregate of the *dharmas* of the Smārtas also would be a practice beyond any possibility of censure.[^1701_1559]
+
+[^1701_1559]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, 748: *gaṇakagaṇasahasrair apy aśakyo yadīyaḥ kalayitum akhilānāṃ rāśir uccair guṇānāṃ / kṛtasukṛtasamṛddhiḥ so ’tha hemādrisūriḥ / kathayati paribhāṣāṃ śrāddhakarmaṇy aśeṣām // atha paribhāṣā / tatra sarvaśāstropasaṃhāraḥ tadartham idaṃ cintyate / kiṃsvit śākhākalpasūtragṛhyeṣu yāvaddharmakaṃ śrāddham uktaṃ tāvanmātram eva kartavyam uta manvādismṛtivihitasarvadharmopasaṃhāreṇeti / tatra yadi tāvanmātradharmakaṃ kriyate tadā śākhākalpasūtragṛhyeṣu tāvanmātropadeśo ‘rthavān anyathānarthakaḥ syāt / nanu yadi smṛtivihitadharmopasaṃhāraḥ kriyate tadā smṛtaye ’rthavatyaḥ anyathānarthikāḥ syur iti samānanyāyatayā smārtadharmakalāpopasaṃhāro’pi niravadyam āsīd iti /*
+
+Essentially, Hemādri begins his discussion by confronting a basic conundrum. On the one hand, there is one set procedures for *śrāddha* rituals outlined in the *Kalpa* and *Gṛhyasūtras*, and on the other, there are another type of procedures for *śrāddha* presented in *Smṛti* works like Manu, Harīta, and the *Purāṇas*. Even if you look briefly at these two sets of instructions, it is obvious that they are quite different—at times mutually exclusive. Moreover, there is enormous and irreconcilable variation even across the various Vedic *śākhās* themselves. Now, this proliferation of discipline- and tradition-specific *śrāddha* ritual variations is only to be expected if you accept an ideology akin to legal positivism, where legitimate rules and laws [[P1702]] are defined simply as whatever actions represent the longstanding practice of a given community. Within such a framework, when engaging in comparative legal analysis, there is thus no need to attempt to resolve or account for either the existence of repetitions across communities or the presence of genuinely irresolvable differences. If, however, like Hemādri, you believe in something like natural law, or a universal *dharma*, these apparent redundancies and contradictions are enormously problematic.
+
+Now, to become a Smārta Brāhmaṇa, you have to have already studied a particular *Gṛhya* tradition that has *śrāddha* rites. This raises an obvious problem. What is the point of the *Smārta* scriptures outlining another “redundant” set of *śrāddha* practices? Who is the audience for such rites? As the very last part of the passage makes clear, what is at stake here is nothing less than the legitimacy of the Smārta tradition. If one were to conclude that the *Gṛhya* and *Kalpasūtra* instructions always take precedent over the teachings found in the *Smṛtis*, the logical consequence would be that the *Smṛti* discourse has very delimited authority, essentially only being relevant in the rare cases where the older discourse had in no way addressed a particular ritual domain. Such a position self-evidently undercuts the claims of Smārta Brāhmaṇas that they represent an independent and new kind of comprehensive governing authority. As Hemādri’s opponents, whose positions he rapidly summarizes and then dismisses, make clear, this stance effectively suggests that the Smārta claims to Brāhmaṇa-hood and authority are mostly fraudulent and can be dismissed on a variety of grounds.
+
+> Nor can we say that the *Smṛtis* would be meaningful with respect to people who are devoid of *Kalpa* and *Gṛhya* literature that is respective to their individual *śākhā*, because there are not any people of the three *varṇas* who are devoid of [such texts] respective to *śākhā* and so forth. [[P1703]]
+>
+> Nor should one say that they would be meaningful only with regard to Śūdras, because of the fact that they—the *Smṛtis*—are chiefly concerned with the direct delineation (*upadeśa*) of rituals such as the *agnihotra*, Vedic study, the taking of sacred thread, and so forth, which have as their eligible agent a person belonging to the three *varṇas*.
+>
+> [But if you say] the *smṛtis* should be understood as meaningful with regard to the three *varṇas* only—let it not be thus. With regard to particular rituals, let it be conceived that they [the *Smṛtis*] are meaningful [also] with regard to Śūdras.
+>
+> Otherwise, let their suitability (*upayogitva*) be described through the *upadeśa* [direct instruction] regarding other *śrāddha* rites that have many ritual details pertaining to people of the three *varṇas*. Thus, [it is asserted that] the application [prayoga] of the *śrāddha* rituals that is stated in the *Kalpa* and *Gṛhyasūtra* rituals respective to one’s *śākhā* are only to be done in accordance [with what is in those texts], but it [this program of worship] is not to be supplemented by the introduction of Smārta matters. For, insofar as it [the *Kalpasūtra*- and *Gṛhyasūtra*-based program of worship] were to be supplemented [with Smārta ritual duties,] having abandoned the timing and ritual sequences accepted in the *prayoga* injunctions, it [the ritual] would have to take on another [conflicting timing and ritual sequence.][^1703_1560]
+
+[^1703_1560]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, 748–49: *na ca prātisvikaśākhākalpasūtragṛhyaśūnyān puruṣān prati smṛtayo ’rthavatyo bhaviṣyantīti vācyam / prātisvikaśākhādiśūnyānāṃ traivarṇikānām abhavāt / na ca śūdrān praty arthavatyo bhaviṣyantīti vācyam, traivarṇikādhikārikopanayanādhyayanāgnihotrādikarmopadeśa- pradhānatvāt / smṛtīnāṃ traivarṇikān praty api tāsām arthavattvena bhāvyam / maivam / karmaviśeṣe śūdrān praty evārthavattvaṃ kalpyatām / athavā traivarṇikān praty api bahudharmakaśrāddhāntaropadeśenopayogitvaṃ varṇyatām / ataḥ svaśākhākalpasūtragṛhyoktaśrāddhaprayogas tāvān eva kartavyo na smārtapadārthapraveśenāti- recyaḥ / atirecyamāno hi prayogavidhyabhimatau kramakālau hitvānyāv āsādayet /*
+
+Hemādri’s imagined opponents offer us a series of possible explanations that attempt to account for the intended audience of the ritual systems offered in the *Smṛti*: 1) *Smṛti* is for the twice-born who do not have a *Kalpasūtra* of *Gṛhyasūtra*. Hemādri’s response to this is to point out that this category is effectively a null set, for every twice-born with ritual eligibility is aligned from birth with a *śākhā*-specific *Kalpa* and *Gṛhya* text. 2) *Smṛti* (and yes, we mean inclusive of Dharmaśāstra) is a religion intended for only Śūdras. Hemādri’s rejoinder is that this could not possibly be true because these texts primarily teach practices that can only be performed by twice-borns. The caveat here, of course, is that if the *Smṛtis* taught solely practices meant for twice-borns, then the universalization of *dharma* that animates the *Caturvargacintāmaṇi* from its very beginning would prove a fool’s errand. This statement [[P1704]] therefore has to be emended to make it clear that while the *Smṛtis* teach many things intended just for twice-borns, they also contain materials relevant to Śūdras. The concluding position arrived at in this part of the text is that while the procedures for *śrāddha* rites in the *Kalpa* and *Gṛhyasūtras* should not be modified using details from the *smṛtis*—that would be a mess—this should not be taken as an assertion that *Kalpa* and *Gṛhya* ritual systems and Smārta ritual are non-overlapping *magesteria* that should be kept segregated from each other. The reason we know this is the case, Hemādri informs us, is that if this were so, we would run into a problem when a single ritual agent is mandated to perform both sets of ritual duties in a manner that is impossible because each set of rites is timed in a manner that conflicts with each other.
+
+Instead of providing us right here with a practical solution for resolving the problem of apparently conflicting ritual duties, Hemādri takes the discussion in an unexpected and very different direction. Suddenly, instead of talking about ritual from within its own meta-language, we are plunged deep into the realm of formal philosophy, especially the transitional form of Nyāya that precedes the writings of Gaṅgeśa, which Hemādri is inordinately fond of invoking.
+
+> And moreover, now, because there is a single substrate (*ekāśrayatva*) for the property and the property bearer, on account of the restriction (*niyama*) that the *Kalpa* and *Gṛhyasūtras* have a relationship [only] to a particular type of student/reader, *śruti* is conceived of as the thing that possesses properties (*liṅgin*), [while] the *Kalpasūtra* [is conceived of] as being the property, which is dependent as a particular upon an agent [i.e., the possessor of the property.][^1704_1561]
+
+[^1704_1561]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, 749: *kiṃ ca, kalpasūtragṛhyāṇām adhyetṛviśeṣasambandhi- tvanityamāl liṅgaliṅgin[a]ś caikāśrayatvāt kartṛviś[e]ṣāśritena kalpasūtreṇa liṅgena tadāśritaiva liṅginī śrutiḥ kalpyate/*
+
+Essentially, Hemādri’s argument here is that the *Kalpasūtras* and *Gṛhyasūtras* are, depending on which set of analogies you prefer, like an adjective or the color blue. Just as you cannot have an adjective without a noun or perceive the color blue independent of seeing a [[P1705]] specific object that is blue, in the same way, the auxiliary texts of the Veda are inconceivable independent of their relationship with the property bearer—think noun or object—that is the *śruti*. Though we have not yet seen this part of the argument worked out, everything here hinges on the deliberate decision to speak of *śruti* as a general abstract category—of specific *Kalpasūtras* being related to and entirely dependent on an overarching notion of scripture as opposed to being linked to the specific texts within their *śākhā*. As will be evident by the end of this section, Hemādri’s larger goal here, quite pointedly, is to dismantle older Vedic sociologies of knowledge that perceived different Vaidika transmissions as teaching fundamentally different things. Hemādri’s target here is nothing less than the very notion of *vyavasthā*, the differential arrangement of discrete forms of knowledge governed by their own norms and embedded within discrete communities, an idea he seeks to diminish to the point of insignificance.
+
+Before we can get there, however, Hemādri first dedicates an inordinate amount of space to responding to a series of what are essentially pre-objections to his ultimate thesis that in the end, the different *śākhās* of the Vedas all teach the same basic things, differing only at the level of some ritual details. Beyond the bare fact that, historically speaking, his conclusion is erroneous, such a model is transparently problematic from the perspective of *śāstra* because it suggests numerous ways in which the Veda appears to be unreliable and even flawed. If this is true, the objectors say, why are there so many different *śākhās*? Why do we have texts in the Veda that tell a person, that after they have completed studying their own tradition, they may study more than one *śākhā* or even, to great acclaim, multiple Vedas? Would the Veda not also be repeatedly guilty of the flaw of *punarukti*—essentially redundantly saying the same sorts of things again and again *ad nauseum*? While we will not delve into these matters in any detail, [[P1706]] for us the important takeaways are the emergence out of this discussion of two principles. The first is that no matter how many *śākhās* and Vedas one studies, a person can only ever “belong” to a single hereditary transmission, whose strictures unilaterally take precedent over anything else that he might learn especially in the domain of his own personal life. A central consequence of this conclusion, call this the second principle if you like, is that every twice-born person, from the time that they have begun to study the Veda, becomes subject to a *śākhā*-specific Vaidika *ācāra* whose rules cannot be overridden by any subsequent initiations into other bodies of knowledge. In other words, while one may “study” many things, a person “belongs” only to a single domain.
+
+With these observations in mind, let us return to the *sarvaśāstropasaṃhāra*, joining in at the moment when the one main *pūrvapakṣin* presents his final position, enabling Hemādri in turn to put forth his own *siddhānta*:
+
+> PP: It is not thus, because it is not possible to do away with the very fact of being born in a lineage of studiers belonging to a particular *śākhā*. [For this reason] there still exists the fact of belonging to a particular *śākhā*. Thus, it is established that the *śrāddha* is to be done precisely as is conjoined with only the *dharmas* stated in the *Gṛhya* and *Kalpasūtras* of one’s own *śākhā*, and it is not to be supplemented (*atirecya*) by the introduction of items stated in the *Gṛhyasūtras* and *Kalpasūtras* of another *śākhā* or by the introduction of extraneous “Smārta items.”
+>
+> Hemādri replies: On this matter, it is stated: on the force of the recognition that it is impossible for it to be established otherwise, [we must accept that] there is only one single ritual for the *agnihotra* and so forth, of which cognitive content (*pratyaya*) belongs to all *śākhās* without exception. Thus, it is established in the *śākhāntarādhikaraṇa*, “or it is one because of the lack of particularity in designation, *codanā*, the form, and union (*saṃyoga*) [*JMS* 2.4.9],” because in all *śākhās*, a ritual such as the *jyotiṣṭoma* ritual lacks particularity of designation, *codanā*, *rūpa*, and *saṃyoga*. When it is recognized as such, its essential unity is ascertained. [[P1707]]
+>
+> The word “union,” because of its chief importance, is intending here to refer to the logical relationship [of the ritual] with the fruit. And *rūpa* is the deity to which a substance is offered, because of its being a subordinate component and because of its being indicative of the essence of the ritual. And *codanā* is the injunction of which the scope is bringing into being, that is conjoined with the meaning of the verbal root. But designation, however, is the name *jyotiṣṭoma* and so forth. Thus, the *ācārya* says, commenting on this very *sūtra*: “because of the recognition in all cases, by means of designation, form, quality, and so forth, there is the cognition of there being only one ritual that does not deviate in different *śākhās*.” Nor is there in this matter any cause that would create distinction (*bheda*).[^1707_1562]
+
+[^1707_1562]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 750–751: *naitad evam / śākhāviśeṣādhyetṛsantati- jatvānapāyāt tacchākhīyatvam asty eva / svaśākhākalpasūtragṛhyoktadharmamātrayuktam eva śrāddhaṃ kartavyaṃ nādhikasmārtapadārthapraveśena paraśākhākalpasūtragṛhyoktapadārthapraveśena vātirecyam iti sthitam / atrocyate / ananyathāsiddhapratyabhijñābalād aśeṣaśākhāpratyayam ekam evāgnihotrādikarmeti śākhāntarādhikaraṇe sthāpitam, “ekaṃ vā saṃyogarūpacodanākhyāviśeṣāt” / sarvāsv api śākhāsu jyotiṣṭomādikarmaṇaḥ saṃyogarūpacodanākhyānām aviśeṣāt / pratyabhijñāyamānasyaikatvaṃ niścīyate / saṃyogo ’tra prādhānyāt phalasambandho vivakṣitaḥ / rūpaṃ cāntaraṅgatvāt karmasvarūpanirūpakatvāc ca dravyadevatā / codanā ca dhātvarthasahitabhāvanāviṣayo vidhiḥ / ākhyā tu jyotiṣṭomādināmadheyam / etad eva sūtraṃ vyācakṣāṇāḥ prāhur ācāryāḥ / “sarvatra pratyabhijñānāt saṃjñārūpaguṇādibhiḥ / ekakarmatvavijñānaṃ na śākhāsv apagacchati” iti / na cātra kiṃcid bhedakaṃ kāraṇam iti /*
+
+Though articulated in the arcane language of Pūrva Mīmāṃsā, at its heart, Hemādri’s reply here serves to communicate a single fundamental message of momentous importance that changes the texture of Indic textuality. Suppose you are reading a ritual text or even listening to a religious narrative. Suddenly, in passing, the work compares the results of a particular act to the fruit from performing a horse sacrifice, or one of the minor characters throws something into a *homa* pit. Expanding on Mīmāmsā based hermeneutical insight, Hemādri asserts that if in any given sentence a ritual is mentioned without further specification (such as substances used, proper name of ritual, or governing deity), we must assume the text is talking about a common form of a ritual, not some lineage specific tradition. Most importantly, this is true independent of the tradition or genre of the work under discussion within which a given passage is contained. In other words, the vast majority the *Āśvalāyana Śrautasūtra* needs to be read as teaching a generic *homa* sacrifice, not something specific to that tradition. Or, even if a Bhairava Tantra contains one sentence that specifies oblating mice, every other surrounding mention of *homa* really is referring to a generic *homa*. [[P1708]]
+
+The major consequence of adopting this reading strategy is that the diversity of praxis within Indic religion is instantly greatly reduced. To put this in perspective, it as if one were to decide that when Proust refers to a tree in the *Remembrance of Things Past*, and when Tolkien refers to a tree in the *Silmarillion*, and your power company refers to a tree that is blocking the line on the phone, we should assume that all of these sources are talking about the exact same kind of tree. Suddenly, differences in temporality, intention, and ethos vanish and the world begins to look very small. It is the same sort of thing once we conclude that the vast majority of Indic “religious” discourse is always talking about the same generic rituals. It also almost automatically follows that, since in almost all cases, regardless of text, original community, and genre, the rituals are the same, we have one built in justification for the practice of extracting ritual details from all different types of authoritative sources (*sarvaśāstropasaṃhāra*). Other people’s traditions, we must now recognize, contain tiny bits of specialized information that enable the ritualist to enact slight contextual variations in ritual application.
+
+> Thus, just there is a ritual archetype (*ākṛti*) that is obtained in a singular instantiation (*vyakti*), in the same way, textual study [takes on a particular form] within each individual *śākhā*. Therefore, in the passage “*svādhyāya* is to be studied,” according to the statement one should bring into being the awareness (*avabodha*) of the ritual through the recitation of a particular Vedic text (*svādhyāya*) that has been studied [by a particular individual who has mastered that specific Vedic canon], then, because *svādhyāya* is being adopted with regard to the understanding (*avabodhana*) of the ritual [as it pertains to that specific Vedic text], it is understood each *śākhā* is intended to be studied [by a particular person for the sake of recitation] individually.[^1708_1563]
+
+[^1708_1563]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 751: *itthaṃ yathaivākṛtir ekasyāṃ vyaktau samāpyate tathā svādhyāyatvam ekaikasyāṃ śākhāyāṃ tataś ca svādhyāyo ’dhyetavya ity atrādhītena svādhyāyena karmāvabodhaṃ bhāvayed ity ukteḥ svādhyāyasya karmāvabodhaṃ praty upādīyamānatvād vivakṣitaikasaṃkhyaikā śākhādhyetavyeti gamyate /*
+
+A long discourse then ensues on the question of why, if most of the ritual is the same, we should bother to study other Vedas? Hemādri’s position is that rather than showing us the [[P1709]] “difference” (*bheda*) between specific *śākhās’* knowledge base, comparative study has as its purpose the recognition of the overwhelming unity of all of ritual discourse. It allows us to realize that the form of the ritual that is given to us from within a specific *śākhā*, instead of being a *śākhā*-specific form of *homa*, for instance, is a generic *homa* that travels with a few lineage-specific subordinate details. To create variants on that *homa*, we have to understand what is the base form and then manipulate the ritual details as needed, a task that is only possible when one makes use of multiple transmissions and compares what parts of the rite are essential to its performance and what are add-ons. In other words, accounting for “difference” by saying “this is the way our community performs X ritual” is no longer sufficient. Though most of the ritual content contained within them is the same, Hemādri explains, each *śākhā* is addressed to a specific type of hereditarily defined learner with its own pedagogical traditions. Part of that tradition relates to *śākhā*-specific household practice, as outlined in the *Gṛhya* literature. These *ācāras*—strictly limited to private household ritual practice—vary by *śākhā*. It is only these changes in the way the first Veda one learns is imparted in terms of emphases and household practices that are governed by a logic of “differential arrangement” (*vyavasthā*), according to site- and community-specific norms. When it comes to “rituals” themselves, though slight ritual details may change, no such differential arrangement is possible or acceptable.
+
+The reason we see apparent repetition across different fields of textuality, Hemādri continues, is mostly a question of positionality. In other words, the scriptures are composed in such a manner as to try to meet the needs of a range of possible kinds of readers. Since different readers encounter the texts at different moments in their education as both insiders and outsiders, the same text has to contain both a majority of generic ritual procedure well as [[P1710]] supplementary ritual details needed for specific applications. Succinctly, some readers might encounter any given Vedic text as their “first” Vedic text. In such cases, that Vedic source is foundational to their identity and also serves to introduce the core rituals and how we think with them. For another learner, however, that very same text is simply one among many resources one encounters after imbibing the teachings of one’s own *śākhā*. Thus, the exact same Vedic passage serves different functions, such as introducing the common form of a rite on the one hand or indicating specialized information on the other, depending on the person that is studying it. As you might also have noticed, though translated into a different idiom, what is at work here is the very same idea that the coherency and intentionality of ritual lies not in the ritual itself, but in the relationship between the ritual enjoiner (*upayoktṛ*) and his specific intended audience that we encountered last chapter when thinking with the *Nyāyakusumañjali*.
+
+One of the consequences of this mode of understanding is that the injunctions given by one’s own *śākhā*, or encountered first when studying one’s tradition, takes precedence over any injunctions you might encounter over the course of your later learning. The reason this is the case is that if a subsequent injunction repeats something you have already been told to do, it is just not meant for you. If it offers a command that conflicts with something you have already been taught, you have no obligation to listen to it. In other words, Hemādri has just built a firewall around twice-born *habitus* that makes the differentiation of conduct based on subsequent initiations largely impossible. With these protections in place, it is now possible for him to extend the canon of equal and acceptable resources far beyond the narrow limits of Vedic textuality.
+
+> Since, just as an injunction is not contradictory with something that is also enjoined [in some other place], because of a difference in instruction or the undertaken activity in [[P1711]] reference to [the specific] men who are being instructed or [who are] being made to undertake the activity, studying within their respective *śākhās*, thus, given that the unity of the ritual is established, in whichever cases a ritual such as the *agnihotra* is being connected (*sambadhyamāna*) with ritual details that are instructed and is being practiced, even by studiers within another *śākhā*, by the principle “that it is not that one is being celebrated [here]” (*na ca ekaṃ pratiśiṣyate*), it is to be practiced as conjoined with those ritual details [as given in a specific context].
+>
+> And thus, given that there is established the extraction of ritual details from all the *śākhās* (*sarvaśākhopasaṃhāra*), the *śrāddha* is to be done by everyone precisely as endowed with the extent of the ritual details as understood from the *Gṛhya*, *Kalpasūtras*, *Smṛti*, *Purāṇa*, and *ācāra* of all the *śākhās*. Thus, it is proven.[^1711_1564]
+
+[^1711_1564]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 753: *yatas tattacchākhādhyāyinaḥ pravartyān pratipādyāṃś ca puruṣān prati pravṛttibhedena pratipattibhedena ca vihitasyāpi vidhānaṃ na virudhyate / tad evaṃ karmaikatve sthite yatra kvacanopadiṣṭair dharmaiḥ sambadhyamānam agnihotrādikaṃ śākhāntarādhyetṛbhir apy anuṣṭhīyamānaṃ na caikaṃ pratiśiṣyata iti nyāyāt taddharmayuktam anuṣṭheyam iti sarvaśākhopasaṃhāre sthite sarvaśākhāgṛhyakalpasūtrasmṛtipurāṇetihāsācārāvagatadharmamātrayuktam eva sarvaiḥ śrāddhaṃ kartavyam iti sthitam /*
+
+In the passages that follow, whose particulars need not detain us, Hemādri systematically challenges the very notion of the differentiation of domains as playing a meaningful role in our interpretation of rituals or ritual agents. He emphatically denies that different Vedic transmissions serve different functions or could be possibly have more or less intrinsic value and efficacy independent of their impact on a specific type of designated agent. In this rebuttal, Hemādri even appears to deny the very idea that the forms of knowledge and the means to acquiring knowledge themselves are differentially established. It is not that certain Vedic transmissions (here standing in for most kinds of knowledge) intrinsically contain special knowledge that one’s own does not, but rather that a person automatically has a different epistemological relationship to any Veda that is not his own and this causes him to see the text differently and to notice different things within the text than someone in lineage would. It is this observation that prepares us for arriving at Hemādri’s rather jarring conclusion.
+
+> Moreover, within a particular *śākhā* [that belongs to someone in particular], only a universal (*sāmānya*) [ritual form] is instructed, not a particular. Regarding that [issue], at the time of practice, a certain particular must necessarily be accepted, having [[P1712]] determined [it] according to one’s intellect. And that [particular], being accepted, on certain occasions, may be perceived as being contained within another *śākhā*. And in that case, if that very thing is understood in accordance with another *śākhā*, then, what impropriety in fact would be done?[^1712_1565]
+
+[^1712_1565]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 755: *api ca kasyāṃcic chākhāyāṃ sāmānyam evopadiṣṭaṃ na viśeṣaḥ / tatrānuṣṭhānakāle ’vaśyaṃ svabuddhyādhyavasya kaścid viśeṣo grahītavyaḥ / sa ca gṛhyamāṇaḥ kadācic chākhāntaropaviṣṭo gṛhyate / tatra yadi śākhāntarānusāreṇa sa eva gṛhyate tadā kiṃ nāmāsamañjasaṃ kṛtaṃ syāt /*
+
+What is at stake here, effectively, is the role played by traditional Vedic pedagogy. Suddenly, though it serves the sociologically useful end of forever limiting what types of further ritual commitments a twice-born Brāhmaṇa might accrue after their initial period of studentship, studying a Veda in lineage does not in fact prepare you for life as a ritualist. Because in-house knowledge teaches only generalized ritual forms, it does not enable a person to acquire the transactional ritual skills actually needed in day-to-day ritual life. Knowledge about ritual particulars is not a matter of social acculturation into a specific community. It instead springs from the individual exercise of the intellect in applying skills that can only be acquired from studying—or composing—texts such as the *Caturvargacintāmaṇi*.
+
+> Whatever ritual item belongs to another *śākhā* that is not in contradiction with the ritual items stated by one’s own *śākhā*—which, [although] it is not contained within the general form of that [ritual] partakes of a singularity of application (*prayoga*) by means of the principle of aggregation (*samuccaya*) as [merely] having different points of entry [into the same ritual application]—that item, insofar as it is accepted as that of which the entry is not warded off by another means of knowledge in contradiction with it. . . . it would not cause any flaw. . . .
+>
+> Thus, it is established that the application (*prayoga*) is to be practiced having [first] extracted (*upasaṃhṛtya*) the ritual details that are accepted, according to the *Kalpasūtras*, *Gṛhyasūtras*, *Smṛtis*, *Purāṇas*, *Itihāsas*, and *ācāras* of all the *śākhās*.[^1712_1566]
+
+[^1712_1566]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 755–56: *yo ’pi tatsāmānyānantargato bhinnadvāratayā samuccayenaikaprayoganiveśaṃ labhamānaḥ svaśākhoktapadārthāvirodhī śākhāntarīyaḥ padārthaḥ so ‘py apūrvasyānirjñātopāyaparimāṇatvād viruddhapramāṇāntarānivāritapraveśo gṛhyamāṇo na kiṃcid dūṣayet.... ataḥ sarvaśākhākalpasūtragṛhyasmṛtipurāṇetihāsācārāvagatān padārthān upasaṃhṛtya prayoge ’nuṣṭheya iti siddham /*
+
+The density and technical nature of this *śāstric* prose, for the modern reader at least, unfortunately does much to obscure its intended message, which is of the utmost importance to understanding the history of Indian religions. Succinctly, what Hemādri has shown to his hyper-learned critics is that the tradition of Pūrva Mīmāṃsā not only permits the practice of “aggregation” (*samuccaya*) that finds its inexorable textual expression in the genre of the *dharmanibandha*—which we should be translating as an “aggregation” (*nibandha*) of ritual detail (*dharma*)—but also, in fact, actually necessitates this mode of textual practice and the kind of social actor responsible for its implementation. In other words, Smārta religion and Smārta modes of textual practice are the culminating authority of all *śāstric* knowledge—the only way anything will ever get done. Once again, it is worth breaking the argument down into its component parts. [[P1714]]
+
+Hemādri has just given us a series of rules that are necessary for performing rituals. Your own tradition only teaches you general ritual forms but at the same time it also supplies adamantine restriction injunctions that prevent you from doing certain things and using certain substances. To apply this general ritual knowledge in a specific way—to do a *prayoga*—you have to draw details from other traditions. You can do this in all cases so long as the elements you are borrowing are not explicitly forbidden by your hereditary transmission. In practice, this means you take a whole bunch of disparate details from a range of sources. What enables us to recognize that these sources are logically connected is they contain shared key words, *agnihotra* for instance, or *pañcagavya*, or *śrāddha*. If that prerequisite is in place, you can borrow what you need, and you can do this without worrying about whether the original interpretive context around the statement you are procuring lines up with your intended ritual application (or, as he puts it, “insofar as it is accepted as that of which the entry is not warded off by another means of knowledge in contradiction with it”). If this is sounding familiar once all the abstruse technical language is scraped away, that is because Hemādri has just described in an analytical idiom what he has been doing on nearly every page of his *nibandha*. *Nibandhas* are ready-made *samuccayas* of ritual details, organized page by page around common key words in the assembled passages, nearly all of which from our perspective are taken out of context. Once the author has performed the act of *upasaṃhāra*, his other main task is to provide one type of much less sophisticated intended reader with ready-made *prayogas* so he can carry out ritual duties in context. At the same time, for another reader of keener mind, at least when it comes to the *Caturvargacintāmaṇi*, Hemādri also supplies all of the methods needed to do this kind of intellectual work for oneself. We have gone over these two kinds of intended readers before. What is important here is that in the *sarvaśāstropasaṃhāra*, the existence and activities of both of them have just been justified to even the most learned of *śāstrins* from within an *orthoprax* Mīmāṃsā frame. These practices most likely are not new. What is revolutionary is their complete integration into the highest levels of learned Brāhmaṇical discourse on the basis of a metalanguage used by learned people. [[P1715]]
+
+Though deeply intellectually indebted to Mīmāṃsā for his reading strategies, Hemādri, as we must always remember, first and foremost is a theistic nondualist. Succinctly, he believes deeply in the significance of the very kind of personal god that much of classical Mīmāṃsā seeks to deny. For this reason, immediately following his marshalling a purely methodologically grounded defense of the practice of his profession, our author offers a very different justification for the practice of *sarvaśāstropasaṃhāra*, both in general, but also quite specifically in terms of its application to the ritual of the *śrāddha*. Unlike the convoluted hermeneutics that proceeded it, the answer he provides is transparent and straight forward. Quite simply, we know we should do this, because God did it too.
+
+> H: [Thus,] in the *Brahma Purāṇa*:
+>
+> “Rāma was instructed by the sages to feed the Brāhmaṇas according to injunction (*yathāvidhi*). The entirety of the *vaidikī* ritual that was done was remembered (*smṛtā*) as *mānavī*. And that very *vidhi* [that Rāma followed], which was stated in the *Purāṇas*, is proceeded by the *Vaiśvadevika* [type of *śrāddha*].”
+>
+> H: “Who was instructed by the sages” means he was impelled by the sages. “*Vaidikī*” means that it was connected to the sacrifice to the ancestors by means of the *piṇḍa* (*piṇḍapitṛyajña*) that is enjoined in the Vedas. And it is formulated in the *śrāddha* by the rule of substitution (*atideśa*) that the *pitṛ* worship (i.e., the *śrāddha*) is done as in the case of the sacrifice to the ancestors by means of the *piṇḍa* (*piṇḍapitṛyajña*).
+>
+> “*Mānavī*” means it is enjoined by the *śāstra* composed by Manu. *Smṛtā* means that it is instructed by other authors of Dharmaśāstra as well, beginning with Harīta and Gautama and so forth, having first recollected the meaning of the Vedas.
+>
+> [Stated by the *Purāṇas* (*purāṇokto*) means that] it was taught in the *Purāṇas*, the *Brāhmya* and so forth, which possess as their defining feature the *pañcalakṣaṇas*, such as creation, recreation/destruction (*pratisarga*) and so forth. *Vidhi* means a particular type of practice.
+>
+> Thus, the meaning is that, having extracted details from all the *śāstras* (*sarvaśāstrāṇi upasamhṛtya*), Rāma performed the *śrāddha* sacrifice.[^1715_1567]
+
+[^1715_1567]: Hemādri, *Caturvargacintāmaṇi*, *Śrāddhakalpa*, pg. 756: *brahmapurāṇe— rāmeṇa bhojitā viprā munyuktena yathāvidhi / vaidikī ca kṛtā sarvā kriyā yā mānavī smṛtā // purāṇokto vidhiś caiva vaiśvadevikapūrvakaḥ / munyuktena munibhiḥ preritena / vaidikī vedavihitapiṇḍapitṛyajñasambandhī, piṇḍapitṛyajñavad upacāraḥ pitrya ity atideśena śrāddhe prāpitā / mānavī manupraṇītaśāstravihitā, “smṛtā” anyair api hārītagautamaprabhṛtibhir dharmaśāstrakārair vedārtham anusmṛtyopadiṣṭā, sargapratisargādi pañcalakṣaṇavanti brāhmyādīni purāṇāni, teṣu uktaḥ pratipāditaḥ / vidhiḥ anuṣṭhānaprakāraḥ / evaṃ sarvaśāstrāṇy upasaṃhṛtya rāmeṇa śrāddhaṃ kṛtam ity arthaḥ /*
+
+Even just read in terms of its apparent literal meaning, this proof text from the *Brahma Purāṇa* already substantiates a good deal of Hemādri’s agenda in the *Śrāddhakalpa*. It tells us that no less a personage than Rāma of the Rāghavas performed a sacrifice, at the end of which he fed Brāhmaṇas, and that he did it according to a set of rules (*yathāvidhi*) handed down from the sages. Already, just in the first line, we have learned that Rāma does his sacrifices the same [[P1716]] way we do our sacrifices. The ritual in question is then labelled Vedic—in other words, “orthodox”—and *mānavī*, which in Śrauta idiom was likely originally a term of art designating a specific type of sacrifice. We then learn that Rāma followed a *vidhi* taught by the *Purāṇas* and that this ritual procedure began with a *vaiśvadevika* sacrifice, which is one of the kinds of *śrāddha* rites. Without any further exegesis, we have already been given a theistic charter myth underwriting a key Smārta practice that complements the prior ritualist proof.
+
+But, as you might by now anticipate, Hemādri is not content with leaving things here. He is eager to show us that the real import of this passage is that it demonstrates beyond any shadow of a doubt that when Rāma did his rituals, he followed the very same meta-exegetical (*paribhāṣā*) rules that are taught in the *Caturvargacintāmaṇi*. Once again, he achieves his objective through creative exegesis. Instead of taking *vaidikī*—literally possessing connection to the Veda—as simply a variation on Vaidika adapted for the sake of gender agreement, Hemādri understands it as a technical term of art that conveys that there is a ritual connection (*sambandha*) between a specific Vedic sacrifice, called the *piṇḍapitṛyajña* and some other yet to be specified subject. As you may remember from Medhātithi’s rantings, unlike with the *śrāddha* sacrifices, where the role played by the ancestors in Mīmāṃsā terms is a topic of much deliberation, the *piṇḍapitṛyajña* is the only sacrifice in the Veda where the ancestors are formally designated in the text as the *devatā* that governs the ritual and to whom the sacrifice is being offered. What Hemādri is suggesting is that Rāma looked at the rules for the *piṇḍapitṛyajña*, and, applying the principles of substitution (*atideśa*), recognized that the *piṇḍapitṛyajña* is in many ways just like (*piṇḍapitṛyajñavat*) a *śrāddha* sacrifice. Since the *Śrāddha* sacrifice itself did not have all the ritual details he needed, he extracted them from this *vaidikī* parallel context, made a *samuccaya* of the ritual details, and then applied them in [[P1717]] his *prayoga*, resulting in a ritual where at the end of it, of the Brāhmaṇas were fed in just the right way. In an even less justified bit of overinterpretation, on the basis of the word “*smṛtā*,” Hemādri qualifies that Rāma did not just rely on Manu, but also made use of other subsequent Dharmaśāstra *Smṛti* authors, including (from our perspective) much later figures like Harīta. In this way, Hemādri arrives at his preferred conclusion. What this passage really means “is that, having extracted details from all the *śāstras* (*sarvaśāstrāṇi upasamhṛtya*), Rāma performed the sacrifice.” Both as a general method and down to its particular contents, Hemādri suggests, what I am teaching you is in fact really old. It is nothing less than the lost, or at least neglected, approach to religion that the gods themselves observe when they come down into the world. In becoming Smārtas in the Seuṇa land, not only do we live in a *rāmarājya*, but, when we worship making use of the methods in the *dharmanibandhas*, we obey Rāma’s rules.
+
+## Before the Age of Vedānta: Dharma without Devotion in Twelfth-Century Varanasi
+
+In setting out to reconstruct the seminal contributions of Hemādri Sūri to the articulation of much of what we have simply assumed to be the perennial features of a transhistorical and transregional Brāhmaṇism, over the past several hundred pages, we have engaged in a number of discrete but nonetheless interrelated interpretive activities. Part of the time our focus has been essentially documentary, aimed at introducing into the scholarly conversation reasonable representations of the contents, values, and modes of argumentation of a profoundly influential thinker about whose corpus of works the modern academy knows almost nothing. These efforts have in turn laid the foundation for reconstructing the transformative interventions of our author. We have explored Hemādri’s impact as a social actor, vested with the authority of a state-centric bureaucratic apparatus, inserting himself into preexisting lived landscapes but [[P1718]] also as a theologian—having ingested a preexisting canon of knowledge, entering into ongoing entextualized contestations about such matters as soteriology, ontology, and the nature of religious experience. Setting aside for the moment that this bifurcation is in many ways a useful but anachronistic heuristic, a common thread running through both modes of inquiry has been that we have made evident historical change and documented innovation by juxtaposing the textual sources and interlocutors with which our author is engaging directly with the contents of the *Caturvargacintāmaṇi* itself. Through such microtextual analysis, we have been able to repeatedly demonstrate specific instances where our author introduces new ideas and values into preexisting conversations or incorporates new topical concerns, often transposed from other disciplines, into the discourse of Dharmaśāstra. In the concluding section of this chapter, in contrast, we will take as our focus a state of affairs that is somewhat less concrete, the evidence for what one might call innovation at the level of ethos or *episteme*.
+
+Succinctly, Hemādri perceives the core conceptual project of “Brāhmaṇical thought,” something like a big-tent Hinduism, as inextricable from the dual shibboleths of Advaita Vedānta and *bhakti*, the former being perceived as the hermeneutical skeleton key to tradition and the latter as the hidden heart that animates all of human experience. In this regard, our author is very much in alignment with the early modern, colonial era, and early nationalist Indian traditions of apologetics that have profoundly informed our working presuppositions about Hinduism as a World Religion. The task before us, quite simply, is to demonstrate that this vision of the nature of the imagined religious mainstream is in every respect fundamentally discontinuous with the actual values we find animating the religious milieu inhabited by the immediate antecedents of Hemādri’s interpretive project.[^1718_1568] Such a case study will in turn [[P1719]] prepare us for the core arguments of the concluding chapter, where it will be demonstrated that Hemādri’s Advaita philosophical leanings and devotional theology are best understood as emerging not from Brāhmaṇical knowledge as such, but out of a sustained dialogical engagement with the very Tantric knowledge systems he sets out to supplant, especially in their vernacular instantiations.
+
+[^1718_1568]: As I have argued at some length elsewhere, technically speaking, there are two key formative antecedents to the revolution in Dharmaśāstra that produced the *nibandha* culture. Our earliest sources all emerge from a delimited region in eleventh-century Bengal, much of it confined to the area of Radha, that sees competing revivals in the study of Bhāṭṭa and Prābhākara Mīmāṃsā. In the former case, this intellectual renaissance is carried out by the very same scholars who are producing *paddhatis*. Originally, the present work contained a comprehensive case study of these sources, but during the revision process this material has been excised for reasons of prolixity. This Bengal-based Brāhmaṇical revival, in turn, over the course of the next century, directly influences textual production centered in Kanauj and Varanasi as well as in the kingdom of Aparārka, as we have seen in our own brief encounters with the *Dānasāgara* of King Ballālasena, the protégé of two of the key intellectuals of the period. In the present context, however, we will confine our explorations to the second major site of reception and innovation, twelfth century Varanasi.
+
+In and around Varanasi and Kanauj in the century before Hemādri—which is to say, in what would, with the arrival of the long fourteenth century, become one of the early modern epicenters for Vedāntic disputation embedded in a sea of fervent affective Vaiṣṇava religion—scholastic Vedānta was a marginal force viewed by the establishment of the day with aversion if not derision. As for devotional theology, at best, it warranted the early medieval equivalent of a footnote. In terms of the larger picture of attending to discontinuity in recounting the emergence of a new form of Brāhmaṇical knowledge production and sociality, this is a particularly productive line of inquiry. As we have seen in the past two chapters, under Hemādri’s direction, the Seuṇa Yādava *ecumene* substantively defines itself in responding to texts produced in twelfth-century north India, especially the *dharmanibandha* of Lakṣmīdhara. Time and again, in reworking these materials, a large part of what Hemādri brings to the table is an emphatically theistic vision, in which religion superintends over *śāstric* knowledge and bends it to its service. Engaging briefly with the wider world of the Gāhaḍavālas, en route to our concluding study of Hemādri’s own devotional Vedānta in the next chapter, is so critical [[P1720]] because the very absence of these key features makes palpably clear that Hemādri’s paradigm for being Brāhmaṇa does not find its point of origin in an older set of north Indian values drawn from the heartland of *Āryavārta*. Succinctly, looking out through the eyes of the late medieval, that an Age of Vedānta[^1720_1569] would soon unfold was practically inconceivable. With such thoughts in mind, we are ready to direct our attention to intellectual and religious *ecumene* that existed in and around the Gāhaḍavāla court.
+
+[^1720_1569]: The term Age of Vedānta is derived from the ongoing work, soon to be published, of a multiyear SSHRC funded collaborative research project that has set out to “trace transformations from the early generations of Vedānta thought through the early modern and modern periods to understand how Vedānta changed the shape of early modern intellectual dialogue and mediated competition between Hindu religious communities.”
+
+Phuṅkaṭamiśra, ostensibly, was an adherent of the school of Advaita Vedānta, owning and inhabiting a small village in the vicinity of twelfth-century Varanasi. If, as a scholar of Sanskrit knowledge or Indian religions, you have not heard of him, that is hardly surprising, as he emerges from the mind of a gifted satirist by the name of Śaṅkhadhara. Śaṅkhadhara writes his “Confluence of Con-men,” or *Laṭakamelaka*, under the direction of King Govindacandra, the twelfth-century Gāhaḍavāla ruler (r. 1114–1155) of a Vaiṣṇava persuasion who finds himself in the somewhat precarious position of ruling over the quintessentially Śaiva city of Benares.[^1721_1570] This unmistakably is the very same patron to whom Lakṣmīdhara’s *Kṛtyakalpataru* is in fact dedicated. Apart from amusing its audience—at which it succeeds admirably—the “Confluence of Con-men” amounts to a taking stock of the social and doctrinal diversity of the day. Much to the delight of the social historian, in contradistinction to the aestheticized ideal types offered by much of *kāvya*, this type of *prahasana* demands a certain degree of *verisimilitude*; the farce is only effective if the life-world of its targets, albeit exaggerated, are basically recognizable. [[P1721]]
+
+[^1721_1570]: M. Durgaprasada and Kasinath Pandurang, ed. *The Latakamelaka of Sankhadhara* (Bombay: Nirnaya Sagar Press, 1900).
+
+As a play commissioned by the king to be performed before his court and an audience of learned *pandits*, the *Laṭakamelaka* has much to tell us about the values and sensibilities in evidence among the dominant north Indian court of the twelfth century. As we will see momentarily, this is the very same institutional space where, for the first time, in the realm of Dharmaśāstra, Brāhmaṇical law is being reimagined as the domain within which in a scholastic idiom a canon encompassing both praxis and doctrine that amounts to a nascent “Hindu” religious identity is being codified. To put the matter bluntly, neither a scholastic Vedānta nor *bhakti* religion are central to this vision. Taken in tandem, these two works suggest that at least among the genuinely powerful and influential, in twelfth-century Varanasi, the age of Vedānta, in so much as it represents a scholastic enterprise, had yet to dawn. Even more pointedly, far from representing a civilizational pillar conferring immeasurable social capital, such as is imagined by much of the modern public, Advaita Vedānta in particular was treated as joke or, at best, an afterthought.
+
+Even within the world of *Laṭakamelaka*, Phuṅkaṭamiśra and the values he instantiates are treated as marginal. Unlike the Śākta Kaula leader of the legal *sabhā* that is the play’s protagonist,[^1721_1571] or its colorful supporting cast compromised of Kāpālikas, a quack doctor, a Buddhist, several prostitutes and ascetics, and a Digambara Jain, the role of Phuṅkaṭamiśra is a bit part. Except for the prostitutes, incidentally, all of these figures—including our Vedāntin—are represented as deriving their authority and agency not from their doctrinal alignments, or by belonging to transregional monastic networks, nor even by virtue of the offices they hold, but simply on the basis of the fact that they themselves personally are [[P1722]] *svādhīna*, juridically independent agents answering to no one. As the Prakrit preface to the play makes plain, this is to say, they are all *svāmins* in the literal legal sense of being masters, independently wealthy property owners answering to neither king nor monastic heads with villages in their names whose profits fund their religious and scholastic dilettantery.[^1722_1572] Sociologically speaking, this is in many ways a very different environment than the institutional worlds that gave substance to the age of Vedānta. And it is probably no accident, given the perspective of the emerging Vaiṣṇava-tinged orthopraxy to whom the play is being pitched, that while Naiyāyikas and Bhāṭṭa Mīmāṃsakas are altogether absent from this scene, Vedāntins, specifically Advaitans, are consigned to the company of *nāstikas* and then lumped together with the still thriving and independent world of the Śaiva Age ordered around Tantric forms of knowledge and praxis.
+
+[^1721_1571]: He is introduced with the following verse: *The Latakamelaka of Sankhadhara*, pg. 5: *vāmāgamācāravidā variṣṭhaḥ parāpkāravyasanaikaniṣṭhaḥ / ayaṃ sa vedārthapratīpaḥ sabhāsaliḥ kaulakulapradīpaḥ //* Notice that, as throughout our text, knowledge of “*vedārtha*” is associated with all sorts of disreputable interpretive communities.
+[^1722_1572]: To cite from the Sanskrit *chāyā* for this Prakrit passage (*Śaṅkhadhara, Laṭakamelaka*, pg. 4–5): *eṣa sa mattakalakaṇṭhakalakalākulitadaśadiṅmukho vasantasamayasamārambho vartate / tat kiṃ na gṛhṇāti bandhīkṛtaṃ bhūtibhājanaṃ darihaḍāgrāmīṇas tapasvī ajñānarāśiḥ / anyac ca hagga-ulīgrāmīṇena jaṭāsuradigambareṇa necchitā picchikā / suṇḍivālagrāmīṇena sabhāsalinā mahopādhyāyenāpi bandhakaṃ kṛtvā ratnakaraṇḍikā tyaktā / hī hī hī / duṇḍhaulīgrāmīṇasya phuṅkaṭamiśrasya nirakṣaraṃ śāstrapustakaṃ pravāhe patitam / haḍivāḍigrāmīṇasya nirakṣarasutasya jantuketor mahāvaidyasyauṣadhakaraṇḍikā mūṣakaiḥ khaṇḍitā / ṭikkaḍa- uvālagrāmamukhamaṇḍanena kulavyādhinā baṭūkena bandhanaṃ kṛtvā na prārthitā dhotikā / niḥsaṃtānagrāmasarovararājahaṃsena saṃgrāmavisareṇa rā-uttarājena bandhakaṃ kṛtvā śunakasya pānīyaṃ dattam / hī hī hī / baga-ulīgrāmīṇasya jhagaḍagasārasya ṭhakkaśreṣṭhino lekhasampuṭikā pravāhapatitā / camarasenavihāravāsinā tena bandinā vyasanākareṇa nirdāritaṃ paṭṭaśāṭakam / tad etair durvidagdhair bhaṇḍitāsmi /*
+
+Let us turn, briefly, to the play itself. Phuṅkaṭamiśra appears in a single scene where he engages first in dialogue and then in pitched combat with a Prābhākara Mīmāṃsaka named Mithyāśukla. The Prābhākarin—who is very pointedly depicted as not a Brāhmaṇa at all— introduces us to his Vedāntin rival in the following manner:
+
+> Venerating the words of the teacher (*guror giraḥ*) for five days and the *śāstras* of Vedānta for three days, here approaches the honorable Phuṅkaṭamiśrapādāḥ, who reeks of the doctrine of specious reasoning (*samāghrātavitarkavādāḥ*).[^1722_1573]
+
+[^1722_1573]: Śaṅkhadhara, *Laṭakamelaka*, pg. 21: *guror giraḥ pañcadināny upāsya vedāntaśāstrāṇi dinatrayaṃ ca / amī samāghrātavitarkavādāḥ samāgatāḥ phuṅkaṭamiśrapādāḥ /*
+
+[[P1723]] The two scholars obsequiously then exchange pleasantries. Phuṅkaṭa asks the Prābhākarin what he has been up to and is informed that his counterpart is in the process of teaching the *codanā sūtra* of the *Mīmāṃsāsūtras* of Jaimini, *codanā lakṣano ’rtho dharmaḥ*.[^1723_1574] The definitive meaning of the term *dharma* is to be determined, he pontificates, by applying the *sādhanādhikaraṇa*—let us call this the principle of expediency—which finds reference in such injunctions as the one who desires heaven should offer oblations into eight bowls. The joke here of course is that Mithyā has made a horrific jumble in his application of Mīmāṃsā exegetical principles. Regardless of whether we are thinking of *dharma* in terms of Bhāṭṭa notions of injunctivity or in alignment with the Prābhākarin concept that the ritual actor is prompted to identify and make use in sequence of the most pertinent elements in the ritual, this is simply not how anybody ever interprets the *codanā sūtra*. Living up to his name—which in part literally means error, but more specifically, the miscognizing of mother of pearl as silver, a standard example in Vedānta discourse—Mithyā has got it wrong.
+
+[^1723_1574]: Śaṅkhadhara, *Laṭakamelaka*, pg. 22: *“codanālakṣaṇo ’rtho dharmaḥ: ity atra sūtre dharmanirṇyaṃ vidhāya “aṣṭākakapālaṃ havir nivapet svargakāmaḥ” ityevamādibhir yuktibhiḥ sādhanādhikaraṇaṃ vyākhyāte ’smābhiḥ/*
+
+A thoroughly credulous Phuṅkaṭa, however, mistakes this confusion for erudition and he proceeds to praise what he sees as the great scholar—*mahāmahopādhyāya*—from the Radha country (*rāḍhīya*) whose tremendous insights are deemed all the more remarkable because though a teacher and Sanskrit scholar, Mithyā is not even a Brāhmaṇa.[^1723_1575] With more than a bit of edge to his apparent adulations, Phuṅkaṭa praises his colleague who does not know the science of grammar, is wearied by reading *kāvya*, who takes a ritual bath to purify himself when he hears the words of Kumārila, and treats being touched by the followers of the Bhaṭṭa [[P1724]] as if he has encountered an untouchable, but in contrast becomes excited to excess—choked up in throat—when he hears the words of Prabhākara.[^1724_1576]
+
+[^1723_1575]: Śaṅkhadhara, *Laṭakamelaka*, pg. 22: *tathā hi / rāḍhīyā vacanaracanā / eṣa vyākaraṇaṃ na vetti na kṛtaḥ kāvyeṣv anena śramaḥ śrutvācāmati bhaṭṭavārtikagiraḥ snānti spṛśaṃs tadvidaḥ / caṇḍālān iva tarkaśāsanapaṭūn naiyāyikān manyate rāḍhīyair atiharṣagadgadagalaiḥ prābhākaraḥ śrūyate //*
+[^1724_1576]: In other words, the fictional Mithyāśukla is a Rāḍhīyan Prābhākarin. This is the very intellectual community his very real fellow Rāḍhīyan Dharmaśāstrin polymath Bhavadeva Bhaṭṭa wrote his guide to the *Tantravārttika* of Kumārila, the *Tautikamatatilaka*, with the express intent of denouncing. The same community is also featured in the *Prabodhacandrodaya* of Kṛṣṇamiśra, who, as we will see in passing, has his own ties to the Radha country.
+
+The encounter then escalates, as Mithyā in turn calls out Phuṅkaṭa as a mere “*ekadaṇḍa*-matin”—or single staff bearing follower of Śaṅkara, for calling himself “*miśra*”— literally, mixed. Often this is simply a Brāhmaṇa honorific, but in this context, it refers to someone who has mastery of multiple systems of thought. Phuṅkaṭa responds that he has earned the title *Miśra* because he teaches two knowledge systems—namely, the *Karmamīmāṃsā* of the Mīmāṃsakas and the *Brahmamīmāṃsā* of Vedānta. Let us see how this unfolds:
+
+> M: Now let me ask you something, the doctrine of having a single [notch] stick is practiced by you, then why are you *Miśra*?
+>
+> P: We comment on the *Karmamīmāṃsā* and the *Brahmamīmāṃsā*, thus we are *Miśra*, because [we have] knowledge of the two *darśanas*.
+>
+> M: Ay ya ya, because they are mutually non-contradictory, there is only one *darśana*. Therefore, from whence comes this name *Miśra*?
+>
+> Moreover, for you folks who advocate for Vedānta, is nonduality authoritative or not authoritative? If there is an authority, you have the undesirable consequence (*āpatti*) of duality [for there is a distinction between the object and means of knowledge]. If there is no authority, then how can you arrive at (*upalabdhi*) nondualism?
+>
+> P: There is in fact an authority, but it is undivided!
+>
+> M: That same thing [Advaita] is the authority, and it is also the thing to be known— This is the profundity of Vedāntic reasoning!![^1724_1577]
+
+[^1724_1577]: Śaṅkhadhara, *Laṭakamelaka*, pg. 22–23: *M: pṛcchāmi tāvat / ekadaṇḍamatam abhyastaṃ bhavadbhiḥ / tat kathaṃ miśratā bhavatām / P: vyākhyāyate ‘smābhiḥ karmamīmāṃsā brahmamīmāṃsā ca / ato darśanadvayajñānād vayam miśrāḥ / M: aye, parasparāvirodhād ekam eva darśanam / tat kuto miśrābhidhānam / kiṃ ca, vedāntavādināṃ bhavatām aprāmāṇikam advaitaṃ prāmāṇikaṃ vā / pramāṇam asti ced dvaitāpattiḥ / atha pramāṇaṃ nāsti cet katham advaitopalabdhiḥ / P: asty eva pramāṇaṃ kiṃ tv abhinnam / M: tad eva pramāṇaṃ tad eva prameyam iti gambhīrā vedāntacarcā //*
+
+[[P1725]] The two men than decide that they both had more than their fill of dry scholastic banter. The subject turns to the seemingly more amiable topic of the better features of geriatric prostitutes, but again, the two men cannot agree, and ultimately they come to blows, with poor Phuṅkaṭa getting the worst of it. They exit and the play continues.
+
+For our purposes, however, what is perhaps most significant about this slice of life representation of Mīmāṃsā and Advaita Vedānta embedded in the wider social world of twelfth-century north India is that whereas Mithyāśukla is to be laughed at because according to the orthodox understanding of his system he is getting everything wrong, Phuṅkaṭa is ridiculed precisely because he gets it right. In teaching the underlying unity—or at least complementary nature of the Pūrva and Uttara Mīmāṃsā—which is to say that Vedānta is essentially a branch of Mīmāṃsā—he stands in the center of the exegetical tradition alongside both Rāmānuja, who argued for the complete unity of the two Mīmāṃsās and Śaṅkara, and who argued for a Vedānta that was impossible without Mīmāṃsā.[^1725_1578] Even Mithyāśukla’s final remark—essentially that the means of knowing nonduality requires the acceptance of the reality of nonduality—is eerily akin to the final position that at least some scholarship has ascribed to Śrīharṣa’s *Khaṇḍanakhaṇḍakhādya*. In other words, the farce is targeting not the stupidity of one particular scholar—but, for all its apparent “purposefulness” (*prameyatva*) and [[P1726]] “profundity” (*gambhīratva*), the absurd incoherence of scholastic Advaita Vedānta itself as a system. Before taking our leave of these colorful characters, it is worth attending to some curious and unnoticed resonances, as well as significant points of dissonance, that the *Laṭakamelaka* shares with a far more famous contemporary drama. Just before he encounters Phuṅkaṭamiśra, as Mithyāśukla enters the stage he utters the passage from whence the play derives its name:
+
+[^1725_1578]: On the problem of *aikaśāstrya* from a historical perspective, see the two essays by Asko Parpola as well as the response by Johannes Bronkhorst. Asko Parpola, “On the Formation of the Mīmāṃsā and the Problems Concerning Jaimini with Particular Reference to the Teacher Quotations and the Vedic Schools (Part I),” *Wiener Zeitschrift für die Kunde Südasiens* 25 (1981), 145–177; Asko Parpola, “On the Formation of the Mīmāṃsā and the Problems Concerning Jaimini with Particular Reference to the Teacher Quotations and the Vedic Schools (Part II),” In *Wiener Zeitschrift für die Kunde Südasiens* 38 (1994), 293–308; Johannes Bronkhorst, “Vedānta as Mīmāṃsā,” In *Mīmāṃsā and Vedānta: Interaction and Continuity*, ed. Johannes Bronkhorst (Delhi: Motilal Banarsidass, 2007), 1–91. For a philosophically rich engagement with the topic that continues the story from Rāmānuja onward, focusing especially on Śrīvaiṣṇava theologians, see for instance Elisa Freschi, “Aikaśāstrya: ‘Making a Single System,’” Age of Vedānta Conference, Stanford University, Stanford, CA, November 16–17, 2019.
+
+> Be not afraid, be not afraid, O Noble Woman. This is a [legal] council (*maṇḍalī*) compromised of a company of reprehensible people, who are only subject to their own authority (*svadhīnaiva laṭakamelakamaṇḍalī*). Thus, it is said:
+>
+> This is Ajñānarāśi. This is Vyasanākara. Here is Kulavyādhi, full of superimpositions (*upādhipūrṇa*). This is Jaṭāśura. This is Jantuketu. In this world there are no others who are destroyers of faith (*viśvāsaghātī*).[^1726_1579]
+
+[^1726_1579]: Śaṅkhadhara, *Laṭakamelaka*, pg. 20: *ārye, na bhetavyaṃ na bhetavyam / svādhīnaiva laṭakamelakamaṇḍalī / tathā hi / ajñānarāśir vyasanākaro ’yam ayaṃ kulavyādhir upādhiśūnyaḥ / jaṭāsuro ’yaṃ bhuvi jantuketur viśvāsaghātī na hi kaścid anyaḥ //*
+
+To understand the significance of this passage, one needs to know just a tiny bit more about our protagonists. Ajñānarāśi is a Kāpālika. Vyasanākara is a Buddhist. Jantaketu is a quack Āyurvedic doctor. Jaṭāsura is a Digambara Jain. Though absent from this passage, the head of the council, Sabhāsali is a Śākta Kaula, as is his disciple Kulavyādhi. Rounding out the company of reprehensible people is our own Mithyāśukla, the non-Brāhmaṇa Prābhākara Mīmāṃsaka and Phuṅkaṭamiśra, our token Advaita Vedāntin. Though it might not be immediately apparent—but for one detail, this list of “the destroyers of the faith” is a close match for the representation of the forces of darkness ruled by King Delusion as they appear in Kṛṣṇamiśra’s allegorical drama, the *Prabodhacandrodaya*. Both texts even represent the exact same place— namely, the area in and around Varanasi—not as the epicenter of a [[P1727]] Brāhmaṇical *ecumene*, but as the heartland for ideologically “deviant” interpretive communities, especially those who reject *varṇāśramadharma* normativity. In the kingdom of Delusion in the early medieval period—which is to say, the Indo-Gangetic cultural center—our playwright tells us, the culture of the Brāhmaṇas is now virtually absent. Instead, power rests in the hands of the Kāpālikas, Kaulas, Digambara Jains, and other assorted *nāstikas*.
+
+For Kṛṣṇamiśra, the last remaining hope for remedying this calamitous state of affairs lies with the deposed King Viveka. Our playwright represents him as living in exile in Bengal, at a place called the Cakratīrtha in the Radha country.[^1727_1580] There, Viveka keeps company with Mīmāṃsā, who, we are told, also scarcely ventures out of their shared haven. To make a long story short, the forces of good only become capable of conquering King Delusion when King [[P1728]] Viveka, with Mīmāṃsā acting as his commanding general, is convinced to undertake the reconquest of Kāśī. In the end, victory only becomes possible when the king in exile, urged on by Viṣṇubhakti (who has escaped being sacrificed by the Kāpālikas) is able at long last to bring Upaniṣad into his alliance. In a long monologue near the end of the play, we learn from her own words that Upaniṣad had become lost when she went to stay among the ritualists and *śāstrins* who did not understand what she was saying. Indeed, she was only saved from permanent exile by the radiant advocacy of none other than Kumārila Bhaṭṭa. It is only when she enters into the company of the principles of Vedānta, soldiers in king Viveka’s army, that she realizes that her real nature is in fact the *mahāvākyas*. When this happens, we are informed, in the epilogue by Viṣṇubhakti, Upaniṣad became pregnant, giving birth to the moon of awakening, an allegorical representation of ultimate liberation.
+
+[^1727_1580]: There is a longstanding scholarly consensus that places the composition of the *Prabodhacandrodaya* adjacent to the court of Chandella king Kīrtivarman, most likely sometime in the 1060s, either at his capital Khajuraho in Bundelkhand in northern Madhyapradesh, or, more speculatively, in Varanasi itself during the period when the Chandellas held influence in that region, before its incorporation into the Gāhaḍavāla kingdom. In contrast, in their efforts at attempting to contextualize the play, by and large, scholars have been less interested in trying to place the point of origin of the work’s author, Kṛṣṇamiśra himself. The theological and philosophical innovations of the *Prabodhacandrodaya* have as a result been typically treated as nascent expressions of an emergent northern India centric worldview, of a sort that would come to define the region in subsequent centuries. Indeed, no other work that emerges from either the Chandellas or the Gāhaḍavālas who will succeed them as the dominant regional power bears the slightest relation to Kṛṣṇamiśra’s vision.
+>
+> In contrast, as several Bengali scholars have observed without much wider notice, both the *Prabodhacandrodaya* itself and its commentarial tradition display a rather unexpected knowledge of and investment in the region of Radha in general, and in particular, the city Bhūriśreṣṭhaka, rival to Siddhala (the other major center for the Bengali *dharma* revival) in its aspirations at being the crown jewel of the region. In several short articles, it has been asserted that this is best accounted for by assuming that Kṛṣṇamiśra himself had personal or at familial ties with the region. While such regional chauvinism aiming to claim famous figures as a native son of the soil, often on the scantest of evidence, is an all too ubiquitous feature of nineteenth- and twentieth-century Indian scholarship, in this particular case, the assembled evidence is quite convincing. Ramakrishna Bhattacarya, in particular, directs his readers’ attention to numerous places in the play where at least two of Kṛṣṇamiśra’s characters, namely, King Viveka himself but also I-doership (*Ahaṃkāra*), speak evocatively and in a very informed manner about Radha and Bhūriśreṣṭhaka in a manner that does very little to advance the plot. Perhaps acting as a surrogate for our author, *Ahaṃkāra*, for example, tells us that within the kingdom of Gauḍa (*gauḍarāṣṭraṃ*) there is a peerless and incomparable (*anuttamaṃ nirupamaṃ*) place called (depending on the manuscript reading one chooses) either Rāḍhāpurī, or simply Rāḍhā. There, there is a supreme place (*paramaṃ dhāma*) called Bhūriśreṣṭhaka (*bhūriśreṣṭhakanāma dhāma*) wherein our ancestor is to be found (*tatrottomo naḥ pitā*). Ramakrishna Bhattacarya, “Was Kṛṣṇamiśra a Man of Rāḍha,” *Journal of the Asiatic Society* 38 (1986): 99–107.
+
+Setting allegorical matters aside, the play seems to be celebrating the emergence, within a small outpost in the Radha country, of a newly theistic and devotionalized Vedānta, powered by Mīmāṃsā exegetical methods, as well as documenting its entrance into the Indo-Gangetic Plain. While many features of this worldview prefigure key elements of Hemādri’s interpretive program, the elevation of Dharmaśāstra and the Dharmaśāstrin as the quintessential Brāhmaṇa are not among them. Furthermore, on the basis of our surviving sources, we have no evidence that in the eleventh and twelfth century this ethos had managed to evolve into an *entexutalized* discourse with prescriptive dimensions embodied in its own *śāstras*. Indeed, when it comes seeking out indications for this new investment in both Vedānta and *bhakti* on the Indo-Gangetic Plain during the medieval period, apart from the *Prabodhacandrodaya* itself—a work of literature and not formal philosophy and a likely import from the east—the trail runs cold. [[P1729]]
+
+Indeed, returning to the *Laṭakamelaka*, where Śaṅkhadhara diverges radically, and clearly quite deliberately, from his predecessor Kṛṣṇamiśra is that instead of identifying Advaita Vedānta—especially when it is aligned with Pūrva Mīmāṃsā and other *śāstras*—as the key to turning the tide of battle and pushing back *nāstika nescience*, for him poor old Phuṅkaṭamiśrā—an Advaita Vedāntin plausibly placed in Śaṅkara’s own tradition— ends up lumped in among the “bad guys”—the *nāstikas*. Succinctly, in the time of Govindacandra, under whose direction a new paradigm for the unity of Brāhmaṇical knowledge is being articulated, the Gāhaḍavāla court is not merely uninterested in Kṛṣṇamiśra’s articulation, which takes scholastic Advaita Vedānta as the *summum bonum* of Vaidika knowledge with Viṣṇubhakti as its most indispensable ingredient. Through mockery and searing polemic, it actively rejects such values.
+
+While our poet Śaṅkhadhara was himself but a bit player within the wider social world of Gāhaḍavāla dominated north India, the same is not true for his contemporary, King Govindacandra’s chief minister and master of war Lakṣmīdhara. Indeed, if we are to believe T. P. Verma, who, quite apart from the execrable role he played in legitimating the push to build a Rām Mandir at Ayodhya, is in general an excellent epigrapher, a collection of copper plate grants demonstrate that Lakṣmīdhara inherits his position in Gāhaḍavāla politics from his father Hṛdayadhara.[^1729_1581] He in turns provides a hereditary inheritance of property and *svāmin*- [[P1730]] hood purportedly in perpetuity to his descendants, with at the very least his great-grandson Śrīravidhara following in his footsteps in serving one of the last of the Gāhaḍavāla kings in the same capacity. In other words, we are talking about a discursive space in which the same lineages of elite influential people held positions of power over several hundred years in the heart of what was left of *Āryavārta*.
+
+[^1729_1581]: T. P. Verma and A. K. Singh’s two volume *Inscriptions of the Gāhaḍavālas and Their Times* demands to be read and taken seriously both as a strategic political intervention and a work of scholarship. The lavish edition, brought out by Aryan Books International with a degree of care and economic investment rarely seen in modern works of epigraphy, is a reflection of the fact that after the deaths of the initial two claimants in the Rāmjanmabhūmi legal case, retired BHU professor T. P. Verma assumed the role of the third “friend” acting on behalf of “Lord Rāma.” In this manner, Verma brought to court the claim that the god’s purported temple at Ayodhya, which for many centuries had been “occupied” by a mosque, should be restored. As evidence, Verma produced for the court a transcription of a Sanskrit inscription, the original of which he claimed was “lost,” that is claimed to have been recovered from on site. In a highly unusual and suspicious fashion, the text in question describes at some length the grandiosity of the supposed Rāma *mandir* that is said to have existed in situ during the Gāhaḍavāla era. The main intention behind the production of these volumes is thus ensuring the inclusion of this document in the textual and historical printed record and perhaps secondarily offering a detailed account of the last “Hindu” dynasty that can plausibly depicted as occupying Delhi and ruling north India. At the same time, as a work of epigraphical scholarship, the compilation and explication of all of the Gāhaḍavāla corpus, with the inclusion of a number of new texts, is a substantial contribution. On Lakṣmīdhara and his lineage in the epigraphical record, see pg. 218–223. T. P. Verma and A. K. Singh, ed., *Inscriptions of the Gāhaḍavālas and Their Times* (New Delhi: Aryan Books International, 2011).
+
+In spite of all these other responsibilities, as we have seen many times in our studies, Lakṣmīdhara’s most lasting legacy is, without question, his encyclopedic work of Dharmaśāstra, the *Kṛtyakalpataru*—the “Wish-Fulfilling Gem of What Has to be Done.” As his work commences, Lakṣmīdhara informs us, in charming *śleṣa*, that his *nibandha* is like a great tree, rooted in the Veda, which incorporates and subordinates as facets of itself a range of other textual disciplinarities.[^1730_1582] He then explicitly situates his own contributions within the textual tradition of Dharmaśāstra, especially the works of his near contemporaries, alluding to the lost *Mahārṇava* and *Kāmadhenu*, texts that, from their remaining citations, seemed to have confined themselves to exploring canonical Dharmaśāstra topics.[^1730_1583] Thus, it is his gargantuan *Kṛtyakalpataru*—fourteen volumes in the printed edition—that effectively inaugurates the genre of *dharmanibandha*, and there is every indication that our author is responsible for the format of this new scholastic genre, which offers vast collections of citations drawn from a [[P1731]] wide variety of what will soon come to be called Hindu religious literature supplemented by the occasional learned annotations.
+
+[^1730_1582]: Lakṣmīdhara, *Kṛtyakalpataru*, *Brahmacārikāṇḍa*, p. 3, vs. 10: *tenāyaṃ vedamūlaḥ smṛtinicayamayaskandhavān yaḥ purāṇavyūhavyutpannaśākhaḥ prakaraṇanikaroddaṇḍakāṇḍapracaṇḍaḥ / unmīladvākyapatraḥ sphuradativiśadajñānaramyaḥ prasūnaḥ śrīmaddharmārthakāmāmṛtamayaphaladas tanyate kalpavṛkṣaḥ //*
+[^1730_1583]: Lakṣmīdhara, *Kṛtyakalpataru*, *Brahmacārikāṇḍa*, p. 3 vs. 13: *kā cintaiva mahārṇavānusaraṇe kā kāmadhenuspṛhā kṣudrāḥ kasya parisphuranti hṛdaye te ratnamālādayaḥ / śrīlakṣmīdharabuddhivaibhava- sudhāsekaprabhāvādayaṃ yenātraiva jagattrayopakṛtaye kalpadrumaḥ kalpate //*
+
+This in and of itself is no mean feat. The *dharmanibandha*, and the various Smārta *paddhatis* it would engender, would become one of dominant domains of textual production throughout the early modern period with some of the highest textual circulation of any mode of Sanskrit knowledge production. Furthermore, within a century, the genre even colonizes other unrelated knowledge systems, for example, effectively reimagining the majority of early modern Tantraśāstra in its image. Indeed, though it until relatively recently had been largely been overlooked by intellectual historians—and here of course we can thank Rosalind O’Hanlon and Christopher Minkowski for initiating a much needed corrective to our understanding—the production and use of texts emerging out of this discourse was the primary focus, we might even say the day job, for a plurality of the scholars that Sheldon Pollock has labelled the new Sanskrit intellectuals.[^1731_1584] Even if this had been the full extent of Lakṣmīdhara’s contributions, he still would have left a substantial legacy.
+
+[^1731_1584]: For all the brilliance of the many productions of the Sanskrit Knowledge System Project, which singlehandedly has provided us with a still indispensable working framework for thinking critically about early modern *śāstra* as a site for innovation, most of the scholarship produced under its auspices was singularly unattuned to the multitude of sites where the textual production undertaken by “Sanskrit intellectuals” were intimately related to, and indeed largely motivated by, religious and theological projects. Indeed, in 2007, I remember attending a conference at Oxford during which none other than Christopher Minkowski and Rosalind O’Hanlon, speaking on the important Maharashtrian lineage of Deśastha Brāhmaṇas who come to be called the “Bhaṭṭas,” and compiling for the first time a comprehensive catalogue of their textual production, cavalierly labelled the majority of their writings as works of “law” while analogizing their contributions to wider discourse as the “secular” interventions of public intellectuals into an emergent public sphere. I remember looking at the list of titles, comprised of so many works on *śānti*, the identification of *tithis*, and “*rudrapaddhatis*,” and experiencing enormous cognitive dissonance. Ultimately, of course, it has been both Minkowski and O’Hanlon’s subsequent work that has provided us with some of our most important models for re-embedding the north Indian Sanskrit *pandit* in his particularized social and cultural environs in a manner that does justice to the intersectionality of concerns we now label social and legal within the discourses of Indic religion.
+
+As we have been exploring in the last two chapters, Lakṣmīdhara’s real importance, however, is that seemingly out of nowhere, he begins the process of reimagining the very [[P1732]] nature of the field of Dharmaśāstra such that it becomes the primary domain for the management and adjudication of modes of non-Vedic religious practice founded on Sanskrit sources. In doing so, he marks the start of the process, which finds its fruition in Hemādri, of reinventing the Brāhmaṇa *pandit* learned in the Dharmaśāstra such that he becomes the overseer of the quotidian ritual lives of ordinary Hindus when they are engaged in such practices as the observance of weekly or calendrically determined fasts and vows or are going on pilgrimage. Quite pointedly, in contradistinction to everything that came before, all of these functions do not require initiation into specific esoteric or sectarian systems and the Brāhmaṇa’s authority is not confined to practices aligned with his specific personal commitments. Both of these functions, on the surface, might seem banal. After all, in the popular Indian imagination, this is what Brāhmaṇas are and what Brāhmaṇas have always done—namely, held a monopoly within the religion industry. And yet, as the present work has argued, to an extent that scholarship within both Religious Studies and Indology has yet to notice, both of these developments represent a radical conceptual and *epistemic* rupture from virtually everything that came before within the realm of *śāstra*.
+
+In the previous section in this chapter, in exploring the topic of *śrāddha*, we have examined at length the vast theological divide between the investments of earlier Dharmaśāstrin commentators and the views of Lakṣmīdhara’s successor in the field of *nibandha*, Hemādri Sūri. As we have seen, the classical commentator was comprised either, like Medhātithi, of adamant advocates for Pūrva Mīmāṃsaka “naturalistic atheism” or, like Vijñāneśvara, of those methodically committed to avoiding any and all truth claims about the phenomenology of the rituals whose procedures they transmitted. Hemādri, in contrast, advocates a new vision of the *nibandha* that is unabashedly theistic, not just as a surface [[P1733]] commitment largely irrelevant to the workings of *śāstra*, but in a manner that fundamentally shapes textual and interpretive practices. One of the effects of this sustained comparison was to make evident the discontinuity between what are really disparate approaches to knowledge construction until now disguised under the common rubric of “Dharmaśāstra.” In a similar spirit, taking not the philosophical underpinnings of the system as our point of interest, but rather attending to the substance and topics of the discourse, in what follows, our aim is to show the completely contingent and unexpected nature of the emergence of *dharmanibandha* as a discourse. To put the matter bluntly, in the absence of Lakṣmīdhara‘s contributions, there is no evidence whatsoever indicating that Dharmaśāstra would have become the medium for a new kind of scholarly investment in the overseeing of the quotidian ritual lives of ordinary Hindus. To take up but a single example, prior to the *Kṛtyakalpataru*, which teaches a whopping two-hundred and forty-four distinct “*vratas*”[^1733_1585] and upon whose textual resources the two volume *Vratakhaṇḍa* of the *Caturvargacintāmaṇi* is substantively dependent for its raw materials, as we had mentioned briefly before, the term “*vrata*” within the field of Dharmaśāstra had been applied exclusively to a delimited canon of expiatory observances. The performance of these *vratas* were not volitional acts designed to improve the prospects of a person or community, but instead were solely devoted to the removal of sin and the restoration of one’s social status prior to committing the offense that engendered their performance. The *Devalasmṛti*, for example, one of the later of the early medieval *Upadharmaśāstras* and a [[P1734]] favorite of Hemādri, knows of eighteen such procedures it calls *vrata*, and offers us directions for sixteen of them. Of these, only three of them, the *śiśucāndrāyaṇa*, the *mahācāndrāyaṇa* and the *atikṛccha* (the procedure for this later observance is not given at all), which are framed in relationship to an instruction given to Rāma, contain any rhetoric that one might identify as Purāṇic. Even these teach a form of *prāyaścitta* that inflicts discomfort on the body through sustained fasts and yields no bonus results.
+
+[^1733_1585]: Radha Madhav Bharadwaj’s study of *vratas* in both the north Indian textual and epigraphical record has proved an indispensable resource in making concrete these discursive patterns and identifying and enumerating the *vratas* found in textual sources up through the *Kṛtyakalpataru*. Bharadwaj’s work makes it quite evident to the reader that prior to the eleventh century, there is negligible evidence in our documentary records from north India for the widespread observance of many major holidays in association with the observances we know from the *dharmanibandha* literature. See especially her many useful charts. Radha Madhav Bharadwaj, *Vratas and Utsavas in North and Central India* (Delhi: Eastern Book Linkers, 2015).
+
+That being said, as Kane has briefly noted in his critical edition of the relevant passages[^1734_1586], we do in fact possess a single relatively early surviving *śāstric* work that concerns itself in part with a non-religious identity specific assemblage of *vratas* that one could reasonably label Purāṇic. The text in question is the unpublished eleventh-century *Rājamārtaṇḍa* of Bhoja Paramāra, composed in other words a bit less than a century before Lakṣmīdhara lived. Though Bhoja’s text teaches thirty-eight *vrata* observances, none of these have any overlap with the “*vratas*” of the prior *dharma* literature. The reason this is the case is that, though the same word—*vrata*—is being used, the nature of the practices is rather different. Ordered calendrically, thirty of the *vratas* derive their name from the calendrical and astrological conditions that govern their observance. The remaining eight, such as the *indradhvajotthānotsava*, when the poll is raised honoring Indra, or, *durgotsava*, when wine, meat, and blood are offered to the goddess, as their titles make plain, are labelled according to their intended objects of worship. As you may have noticed, all of these rituals, in broad terms, are recognizably Purāṇic, or, if you will, suggestively “Hindu.” [[P1735]]
+
+[^1734_1586]: V. Kane, “Passages from the *Rājamārtaṇḍa* on ‘Tithis,’ ‘Vratas,’ and ‘Utsavas,’” *Annals of the Bhandarkar Oriental Research Institute* 36, no 3/4 (1956): 306–339.
+
+In Kane’s history of Dharmaśāstra,[^1735_1587] as well as in the two brief but much more informative articles he composed on the *Rājamārtaṇḍa*,[^1735_1588] he suggests that Bhoja’s text offers something like a tantalizing glimpse at a lost chapter in the pre-history of the *dharmanibandha*. Consulting the fifteenth-century manuscript of the work preserved at the Bhandarkar Oriental Research Institute, however, whose final folio you can see above, has convinced me that contrary to Kane, though in several places the text engages with classical Dharmaśāstra topics such the sixteen *saṃskāras*— Bhoja does not see his work as a Dharmaśāstra at all. Instead, the author seems to explicitly envision the *Rājamārtaṇḍa* as a continuation of the intellectual projects of Varāhamihira.
+
+[^1735_1587]: P. V. Kane P. V. Kane, *History of Dharmaśāstra*, vol 1. (Pune: Bhandarkar Oriental Research Institute, 1930– 1962) p. 278-79.
+[^1735_1588]: See P. V. Kane, “King Bhoja and his Works on Dharmasastra and Astrology,” *Journal of Oriental Research, Madras* 23 (1953-54): 94–127; P. V. Kane, “Passages from the *Rājamārtaṇḍa* on ‘Tithis,’ ‘Vratas,’ and ‘Utsavas,’” *Annals of the Bhandarkar Oriental Research Institute* 36, no 3/4 (1956): 306–339. Kane consulted three manuscripts of this work; an image from the oldest of these, preserved at Bhandarkar, is reproduced below.
+
+> Colophon of the *Rājamārtaṇḍa* of Bhoja Paramāra as preserved in the oldest surviving manuscript. [[P1736]]
+
+Indeed, Bhoja envisions that the management of religious lives, albeit in a much less micromanaged scope, should properly be the focus of preferably Atharvan *jyotiṣas* rooted in royal courts and not just of any old learned Brāhmaṇa *pandit* engaged with the quaint world of Dharmaśāstra. *Darśana* of any sort, so far as can be determined, plays zero role in such a system. Thus, the most accurate story we can tell, with resources available to us, of Lakṣmīdhara’s relationship to his predecessors is not the expected account of gradual subtle incremental adjustments designed to disguise innovation carried out over a *longue durée*. Instead, we see indications of an *epistemic* and methodological rupture with what had come before that selectively takes older raw materials and makes them do new things. Overall, despite the enormous amount of raw materials and structural elements that Hemādri has mined out of from Lakṣmīdhara’s *Kṛtyakalpataru*, as we have seen now in our exploration of numerous different domains, something very similar holds true when we compare Hemādri’s own interpretive project, within the *Caturvargacintāmaṇi* and beyond, with his own predecessor. Right from the *Kṛtyakalpataru’s* inception, Lakṣmīdhara’s textual practices diverge sharply from what we have seen in Hemādri. Whereas the *Caturvargacintāmaṇi* piles up textual proofs like so many Vedic bricks in the aim conveying or constructing the commonalities across text disciplines, in contrast, in offering us a single verse on his methodology, Lakṣmīdhara tells us that, where possible, he will take as authoritative just a single citation, embodying the view he has adopted, in addressing each topic.[^1736_1589] In other words, where Hemādri seeks to harmonize as much as possible nearly all of existing “religious” knowledge so that it seems to be saying the same basic things, Lakṣmīdhara assumes the multivocality of existing discourses and presents us with those elements that align with his [[P1737]] own commitments, values, and ideals. The difference, then, is not only one of method, but critically of underlying theology and worldview. What is at stake are very different visions of what it means to be a Brāhmaṇa.
+
+[^1736_1589]: Lakṣmīdhara, *Kṛtyakalpataru*, *Brahmacārikāṇḍa*, pg. 3–4: *ekārtheṣv ekaṃ ekaṃ kvacid aparam api svīkṛtaṃ kāryayogāt nyastaṃ vijñānamūlaṃ pracarad api parityaktam ajñānamūlam / śiṣṭaiḥ samyaggṛhītaṃ vacanam abhihitaṃ spaṣṭitam cāsphuṭārtham yatrāpāro virodhaḥ sphurati viracitā tena tatra vyavasthā // lakṣmīdhareṇa munimukhyavacaḥsamudraṃ nyāyādriṇā kila viloḍya samuddhṛto ’yam / kāṇḍaiś caturdaśabhir adbhutaparvabandhaiḥ vāñchocitaṃ phalati kalpatarur na kasya //*
+
+In composing the *Kṛtyakalpataru*, Lakṣmīdhara instigated a radical expansion of the canon of what constitutes the field of knowledge and praxis contained within and related to the Dharmaśāstra. For the first time, there is a deliberate scholastic marriage of *Smṛti* to Purāṇic ideas and practices, with the latter no longer serving as mere clarifying or complementary citations but acting as actionable knowledge in their own right. Even so, in violation of the expectations of the modern or even early modern reader, Lakṣmīdhara’s project conspicuously excludes from its purview—and thus from its vision of what Brāhmaṇical thought should be about—theistic Vedānta. In this regard, he is quite unlike his Deccani successor, for whom Vedānta is not a mere knowledge system but the underlying *telos* of Brāhmaṇical thought. For Hemādri, Vedāntic reading strategies prove essential to making sense of how *śāstra* might relate to the world of lived experience. As for “devotion,” it is nothing less than the very essence of experience itself.
+
+As we just explored in the “Confluence of Con-men,” a play performed at the Gāhaḍavāla Court, quite plausibly while Lakṣmīdhara, the king’s own minister of war, was in attendance, we need to keep in mind that Lakṣmīdhara’s intellectual decision is founded not upon our author’s ignorance of preexisting discourses on scholastic Vedānta and devotional religion. Rather, the motivation is that he holds these two domains in relatively low regard. While for Hemādri, a century later, reflections on an Advaita Vedānta that makes liberal use of Pūrva Mīmāṃsā strategies are in fact virtually inextricable from a theology of *bhakti* substantively rooted in the *Purāṇas*, the same is hardly true in the *Kṛtyakalpataru*. Insomuch [[P1738]] as Vedānta is to be understood as an exegetical project rooted in Pūrva Mīmāṃsā reading strategies, Lakṣmīdhara is largely disinvested from Vedānta. Neither its textual practices nor topical obsessions inform either the structure or method of the vast majority of the *Kṛtyakalpataru*. Indeed, Lakṣmīdhara’s interest in Vedānta as a discipline is strictly confined to the very last chapter of his text, the *Mokṣakāṇḍa*, which advocates an austere sort of yogic Vedānta. This is to say, he perceives Vedānta as one among many domain specific modes of knowledge, mostly associated with preparing for death. When it comes to *bhakti*, so far, as much as theistic devotion is perceived as demanding its own involved learned discourse that shapes textual practice, in spite of his elevation of *Purāṇas* as source materials, our author’s utter lack of interest is rendered transparent by the simple fact that the vast *Kṛtyakalpataru* contains no commentarial reflection whatsoever on the significance of *bhakti*. In light of how integral both topics will become to later Brāhmaṇical thought in general and the writings of Hemādri in particular, it is thus fitting that we conclude this chapter with close readings of the comparatively minor terrain that Lakṣmīdhara assigns to Vedānta and the utter marginality allotted to *bhakti* theology.
+
+As we turn to the place of “scholastic” Vedānta in the oldest surviving *nibandha*, it is vital that we take a moment to recognize that over the course of the *Kṛtyakalpataru*, especially in the division on jurisprudence, Lakṣmīdhara makes extensive use of Pūrva Mīmāṃsā derived reading strategies. As we will see momentarily, in the division on *mokṣa* with which the *Kṛtyakalpataru* ends, he also quotes selectively from the *Brahmasūtras* of Bādarāyaṇa and seems quite familiar, at the very least, with the *Gītabhāṣyas* of Śaṅkara and Rāmānuja, whose glosses he sometimes appropriates or adapts. It is even quite likely, though this would take some demonstrating, that he is aware of Śaṅkara’s *Brahmasūtrabhāṣya* and Sureśvara’s [[P1739]] *Naiṣkarmyasiddhi*, for in numerous places in passing he seems intent on treating stances found in these texts as his implied *pūrvapakṣas*. On the basis of this evidence, then, we can brush aside the hypothesis that Lakṣmīdhara’s Vedānta is almost entirely devoid of Mīmāṃsā because the possibility of such a confluence was unknown to our author.
+
+In light of his intimacy with Advaita Vedāntic discourse, it is all the more significant that Lakṣmīdhara goes out of his way to undermine the textual foundations within the *Smṛti* that specifically legitimize the *sannyāsins* of Śaṅkara’s tradition. While in no way challenging scholastic Advaita Vedānta’s nondualism (here he of course is quite unlike Rāmānuja), Lakṣmīdhara bats aside its other core doctrinal claims, such as, for example, the notion that the Vedāntin renunciate can or should abandon worldly actions. In place of a familiar scholasticism, our Dharmaśāstrin pointedly constructs, or deploys, a peculiar and largely non-devotionalized Vedānta founded upon the Upaniṣads, the *Bhagavad Gītā*, the writings of Yājñavalkya, and, to some degree, the *Purāṇas*. Quite pointedly, this is a discourse in which Pūrva Mīmāṃsā reading strategies play no part at all. Instead, they are supplanted by a Sāṃkhya-inflected *yoga* that has its culmination in the implementation of what the normative Advaita scholastic tradition would come to call the *śravaṇavidhi*.
+
+Let us tackle each of these stances concisely and in order, beginning with what Lakṣmīdhara does to the Śaṅkaran ascetic. For Lakṣmīdhara, as for many early Dharmaśāstrins, renunciation serves no direct causal role in the production of liberative knowledge—its only benefit is as a purgative that creates physical suffering, a necessary byproduct of the performance of austerities that burn off residual *karmas*. Nonetheless, quite unlike Śaṅkara, our author allows for the legitimacy of both the forest dwelling sage and *sannyāsin*, provided, that is, that they continue to observe all of their ritual duties. In his [[P1740]] *Sannyāsividhi*, chapter 6 of the text,[^1740_1590] our author provides what is essentially a *paddhati* for renunciation ritual. In doing so, he closely and faithfully follows the *Baudhāyanadharmasūtra* and its commentarial tradition—with one very notable exception. Towards the end of the procedure, when the new *sannyāsin* has just offered up his last *vyāhṛtis*, the root text offers an optionality—newly minted *sannyāsins* can either be *ekadaṇḍins*—bearers of a single staff (typically the followers of Śaṅkara), or they can be *tridaṇḍins*, bearers of a staff with three notches. As the seventeenth-century Dharmaśāstrin Mitramiśra points out, while it is true that there are some other Dharmaśāstra root texts that mention only the *tridaṇḍin*, virtually every known scholastic authority who engages with this passage accepts the legitimacy of Baudhāyana’s reading and with it of the *ekadaṇḍin*. In fact, authorities commenting on root texts that do not mention this kind of *sannyāsin* routinely and unproblematically supplete in the *ekadaṇḍin* as a valid option. In spite of all this, rather uncharacteristically, as he is usually a pretty mellow commentator, Lakṣmīdhara goes somewhat ballistic, insisting that this must be a bad or interpolated reading, and that there is no optionality, for *Smṛti* supports only the ascetic with three notches on his staff.[^1740_1591]
+
+[^1740_1590]: Lakṣmīdhara, *Kṛtyakalpataru*, *Mokṣakāṇḍa*, pg. 33–49.
+[^1740_1591]: Lakṣmīdhara, *Kṛtyakalpataru Mokṣakāṇḍa*, pg. 38: *ekadaṇḍī tridaṇḍī veti kecit paṭhanti / so ’papāṭhaḥ adhastāt daṇḍatrayopakalpanasyoktatvāt /*
+
+So much for the Śaṅkaran Advaitan as a social agent. To see how Advaita Vedānta doctrine fares at Lakṣmīdhara’s hands, we will have to familiarize ourselves with how he organizes his system. For Lakṣmīdhara, Vedānta is not a theory of reading but first and foremost an applied soteriology, one that incidentally can be utilized in some special cases by non-renunciate householders provided they live out the end of their lives with the austerity of [[P1741]] a *yogin*. For this reason, his first task is to define *mokṣa*, and he does so in the following manner:
+
+> In the *Mārkaṇḍeya Purāṇa*, [it is said]:
+>
+> That separation (*viyoga*) from ignorance (*ajñāna*) on the part of the *yogin* that is preceded by knowledge (*jñānapūrva*), that is liberation—and, it is union with *brahman* and disunion with the qualities of *prakṛti*.
+>
+> L: Here, gnosis (*jñāna*) consists of the final direct apperception of *brahman* (*caramaṃ brahmasākṣātkārarūpaṃ*). The separation from ignorance means the cessation of *avidyā*.
+>
+> [Now] by the term *yogin*, [we mean that] the *yogin* is someone who possess the union [of the sort] that is inculcated by the *Viṣṇu Purāṇa* and so forth in citations such as:
+>
+> *VP*: “*Yoga* is defined as that union of the course of mind (*manogati*), which is particularized (*viśiṣṭā*), depending upon self-effort, into *brahman*.”
+>
+> L: In the passage that says it is liberation and it is unity with *brahman*, that which is the separation on the part of the *yogin* from *ajñāna*—in other words, from ignorance (*avidyā*)—when that takes place, that manifestation of the soul as having the essence of *brahman*, which is the instantiation of bliss to a supernal degree—that alone is meaning of the word liberation. And that disjunction from the qualities of *prakṛti* that has no point of termination (*atyantikā*), that is [liberation] itself, which does not have another meaning.
+>
+> Thus, it is stated in *Brahma Purāṇa*: “Liberation is the breaking of the bondage of ignorance and the absorption into *brahman*.”
+>
+> L: The qualities of *prakṛti* are well expressed in the *Bhagavad Gītā*.[^1741_1592]
+
+[^1741_1592]: Lakṣmīdhara, *Kṛtyakalpataru*, *Mokṣakāṇḍa*, pg. 5–6: *tatra mārkaṇḍeyapurāṇe— jñānapūrvo viyogo yo ’jñānena saha yoginaḥ / sā muktir brahmaṇā caikyam anaikyaṃ prākṛtair guṇaiḥ // jñānam atra caramaṃ brahmasākṣātkārarūpam / ajñānena saha vijyogaḥ avidyānivṛttiḥ / yogī— ātmaprayatnasāpekṣā viśiṣṭā yā manogatiḥ / tasyā brahmaṇi saṃyogo yoga ity abhidhīyate // ityādi viṣṇupurāṇādi // pratipāditayogavān / sā muktir brahmaṇā caikyam iti yo ’yam ajñānenā’vidyayā saha yogino vijyogas tasmin sati yā jīvasya brahmasvarūpeṇa vibhūtir atiśayānandādyabhivyaktir iti yāvat, sa muktiśabdārthaḥ / prākṛtaiś ca guṇair yad anaikyam ātyantiko vijyogaḥ so ’pi saiva nārthāntaram ity arthaḥ / tad uktaṃ brahmapurāṇe— ajñānabandhabhedas tu mokṣo brahmalayas tv iti / prākṛtā guṇāḥ bhagavadgītāsūktāḥ //*
+
+As we are beginning to see, Lakṣmīdhara’s Vedānta on the surface looks like it is simply a theme and variation on a lightly theistic Sāṃkhya, where *puruṣa* becomes *brahman* and *prakṛti* gets a bit of an epistemological makeover. It should come as no surprise that the [[P1742]] fundamental resource to which our author will return to again and again in structuring his discourse is the *Bhagavad Gītā*. In particular, it is the delineation in chapter two of the *sthitaprajña* or man established in insight, and in chapter five of the one who is *yogayukta*, or yoked to *yoga*, that provides him with the paradigm for the ideal comportment of the Vedāntin. As you might also expect, our author’s use of the *Gītā*, and of the *Viṣṇu Purāṇa* for that matter, deliberately neglects to incorporate the more pointedly devotional aspects of these works that equate the path to liberation with an exclusive devotion to Viṣṇu. And if that were all there was to his interpretation, we might do well treat his theology, despite the name he assigns to it, as merely being at best Vedānta curious. However, if you read down a few more lines, this picture become much more complicated and interesting:
+
+> *Viṣṇu Purāṇa*: “The one who has obtained the meditation (*bhāvanā*) upon that state (*tadbhāvabhāvanā*). . . .”
+>
+> L: By “*tadbhāvabhāvanā*,” what is meant is the self-reflexive thinking (*cintanam*), “I am *brahman*....”
+>
+> *Chāndogya Upaniṣad*: *param jyotir upasampadya svena rūpeṇā’bhiniṣpadyata iti*.
+>
+> L: This is the meaning here [in this passage]: When the knowledge that is the direct apperception of *brahman* (*brahmasākṣātkārajñāna*) arises, from the dissolution of *ajñāna*, which is but another name for *avidyā*, and, when there is the sunset of the cognitive streams (*pratyaya*) of difference that are caused by that, then, having “*upasamapadya*” —meaning, having become (*bhūtvā*) the supreme light that has as its essence *brahman*, then by its own form (*svena rūpeṇa*)—meaning, by the form of *cidānanda*, which is innate of its own nature, it is “produced” (*abhiniṣpadyate*)—this means it is manifested. [Thus, the] *Vedāntasūtra* [says] [4.1.1]:
+>
+> “[On the Soul's] having attained [the highest light], there is manifestation [of its real nature, as we infer] from the word “own.”[^1742_1593]
+
+[^1742_1593]: Lakṣmīdhara, *Kṛtyakalpataru*, *Mokṣakāṇḍa*, pg. 6–7: *viṣṇupurāṇe— tadbhāvabhāvanāpannas tato ’sau paramātmanaḥ / bhavaty abhedī bhedaś ca tasyā’jñānakṛto bhavet / vibhedajanake jñāne nāśam ātyantikaṃ gate / ātmano brahmaṇo bhedam asantaṃ kaḥ kariṣyate / tadbhāvabhāvanā brahmā’ham asmītity ātmacintanam.... śrūyate ca chāndogyopaniṣadi— paraṃ jyotir upsampadya svena rūpeṇābhinṣpadyata iti / ayam atrārthaḥ brahmasākṣātkārajñāna utpanne ajñānasyā’vidyāparanāmadheyasya vilayāt tatkṛtabhedapratyayāstamaye sati paraṃ jyotir brahmasvarūpam upasampadya bhūtvā, svena rūpeṇa svābhāvikena cidānandādirūpeṇa abhiniṣpadyate abhivyakto bhavatīti / tathā ca vedāntasūtram— sampadyāvirbhāvaḥ svenaśabdād iti /*
+
+[[P1743]] Suddenly, despite his being allergic to applying Mīmāṃsā reading strategies to the Upaniṣads, the distance between Lakṣmīdhara and the later Vedāntic, especially Advaita Vedāntic, traditions does not seem so great. For instance, our author’s interpretation of “*bhāvanā*,” which he will continue to develop throughout the text, as perpetually holding in one’s mind the cognitive meaning of key statements such as “I am *brahman*,” aligns him closely with the one of core teachings of the popular *prakaraṇa* text, the *Aparokṣānubhūti*. It is also a very close match for how *bhāvanā* is practiced within the living tradition of the Śaṅkarācāryas of Sringeri. Reading down a bit further, we also begin to see that even though his work is not a commentary on Bādarāyaṇa, Lakṣmīdhara knows the text well and is keen to make explicit its roots in specific Upaniṣadic passages.[^1743_1594] In other words, the only thing missing from this Vedānta is the application of Mīmāṃsaka principles as the skeleton key to the Upaniṣads as well as the elevation of being a Vedāntin as an elite form of a cultural capital.
+
+[^1743_1594]: Though this is not the place to delve into such matters, there is actually a solid case to be made that the *Mokṣakāṇḍa* as whole is organized as a response to the final *adhikaraṇa* of the *Brahmasūtras* themselves and that steps are taken along the way at various places in the text to push back at Śaṅkara’s terse treatment of this part of the text, especially his disavowal of the role that the accumulation of various yogic powers might play within a Vedāntic *sādhanā*.
+
+Just to give you another taste of our author’s discourse, one place where our author diverges quite radically doctrinally as opposed to methodologically from Śaṅkara’s tradition is in his acceptance of a particularly emphatic version of a *jñānakarmasamuccaya* doctrine that privileges a combination of gnosis and works. In fact, the manner in which he presents this principal casts shade none too subtly upon both Śaṅkara and his disciple Sureśvara: [[P1744]]
+
+> L: According to the statement of the *Yogayājñavalkya*:
+>
+> “From the conjunction of *jñāna* and *karma*, he obtains the supreme person. It may be obtained through a state of separation. Thus, one may take recourse in both of them.”
+>
+> L: Thus, it is refuted that because liberation comes from knowledge alone (*jñānād eva*), all Śrauta and Smārta rituals are not be done for they are the cause of bondage. By the statement that there is not a *naiṣkarmya* state by means of the non-commencing of action, [the intended meaning is that] the *naiṣkarmya* state is devoid of merit and demerit. In other words, it is *mokṣa*.[^1744_1595]
+
+[^1744_1595]: Lakṣmīdhara, *Kṛtyakalpataru*, *Mokṣakāṇḍa*, pg. 149: *jñānakarmasamāyogāt param āpnoti pūruṣam / pṛthagbhāvena siddhyeta ubhe tasmāt samāśrayed iti / yogayājñavalkyavacanāt / jñānād eva kevalān muktir iti sarvaṃ śrautaṃ smārtaṃ karma na kartavyaṃ bandhahetutvād iti nirākṛtam.... ityādinā naiṣkarmyaṃ, puṇyāpuṇyarahitatvaṃ, mokṣam ity arthaḥ /*
+
+Before we take leave of our Dharmaśāstrin in his mode as Vedāntin, its worth taking a moment to reflect on Lakṣmīdhara’s unnerving—even bizarre—contextualization of two of the most famous elements passages from the *Bṛhadāraṇyaka* and *Chāndogya Upaniṣads*, selections that in the realm of traditional Vedāntic exegesis come be called, respectively, the *śravaṇavidhi*, and the *daharavidyā*. To do so, however, we have to look at the structure of his text for this makes plain his core priorities.
+
+> **Chapters of *Kṛtyakalpataru*, *Mokṣakāṇḍa***:
+>
+> 1.  *Mokṣaprastāvanā*
+> 2.  *Mokṣasvarūpam*
+> 3.  *Vānaprasthyam*
+> 4.  *Vānaprasthadharmāḥ*
+> 5.  *Yatyāśramaḥ*
+> 6.  *Sannyāsavidhiḥ*
+> 7.  *Yatidharmaḥ*
+> 8.  *Vairāgyam*
+> 9.  *Kāmādivarjanam*
+> 10. *Indriyajayaḥ*
+> 11. *Tattvasṛṣṭiḥ*
+> 12. *Śarīracintā*
+> 13. *Dehaśarīravivekaḥ*
+> 14. *Jīvabrahmātmyabhāvaḥ*
+> 15. *Jñānakarmopayoga*
+> 16. *Ātmajñānahetavaḥ*
+> 17. *Sapallavayogaḥ*
+> 18. *Yuktalakṣaṇam*
+> 19. *Dhyeyasvarūpam*
+> 20. *Yogapravṛttcihnāni*
+> 21. *Yogavibhūtayaḥ*
+> 22. *Sthitaprajñacaritam*
+> 23. *Yogabhraṣṭagatiḥ*
+> 24. *Ariṣṭāni*
+> 25. *Utkrāntiḥ*
+
+Even just from reading the titles of the chapters of his text, it is self-evident that Lakṣmīdhara’s vision of soteriology, though inclusive of deities and hardly ignorant of Vedānta, hinges upon neither the establishing of a personal relationship with a personified supreme reality in the manner of a *bhakta* nor the cultivating of philosophical erudition and [[P1745]] proper reading strategies as would a Vedāntin. What it offers in their place is a *yoga*-centric vision of salvation strangely akin to what is found in many Tantric works. Indeed, eight of the last nine chapters of the *kāṇḍa* are explicitly concerned with yogic praxis, for they imagine Vedāntic knowledge as inseparable from the application of various *yoga sādhanās*, all of which find their culmination in *utkrānti*, the practice of yogic suicide. Lakṣmīdhara is the polar opposite of an adherent to the ideal of liberation in life. In fact, what he advocates is that when ascetics finally master their minds, this is the sign that it is time to cast off their bodies. For the austere householder, these very same practices are to be applied at the time of death. Enabling a conscious form of dying, they are what makes possible *videhamukti*. It is in this context that our author introduces what we call the *śravaṇavidhi*—though for reasons that will soon become clear, here maybe we should relabel it the *darśanavidhi*. For Lakṣmīdhara, the *darśanavidhi* appears to outline a sequence of practice that finds its fulfillment in conscious dying.
+
+His authority for this practice is a passage in the *prāyaścitta* division of the *Yājñavalkyasmṛti*, which, though addressing the *dharma* of the renouncer is primarily concerned with questions of embryology and human development and their relationship to *dharma* and worldly action. The last twenty verses of the text treat the correlation between the actions taken in life and the trajectory of the soul at the moment of death. The open question is whether at the time of death the soul will travel along the path of the ancestors, becoming part of the water cycle and then returning into the world of the human in the form of seminal fluid. Conversely, the other possibility is that, entering in sequence the flame, the day, the bright fortnight, and northern course of the sun, the *jīva* will journey to the world of the gods. There, taking recourse to the sun by riding on its rays, it will enter the world of *brahman* and never return. In both cases, of course, we are looking at old Indo-European cosmogonic models [[P1746]] that have been absorbed into the Upaniṣads, especially the *Chāndogya*. From there, they have been integrated into the *Brahmasūtras* themselves, where they form the focus of the text’s final divisions. These are of course the very same Vedāntic *sūtras* that occupy Lakṣmīdhara’s attention. For Lakṣmīdhara, the trick to ascending on the path of liberation, it turns out, is the repeated application of an echo of the *daharavidyā*— focusing on the lord who abides in the heart in the form of the flame of a lamp, and the most important time for doing so is during the process of conscious dying:
+
+> “For that is desired to be cognized by members of all *āśramas*, thusly indeed and now it is to be seen, to be contemplated, and to be heard, by twice-borns....”
+>
+> L: By all the *āśramins*, that *paramātman* is to be desired to be known by various modes (*prakāra*). He states that mode (*prakāra*) as it must be seen (*draṣṭavya*), which means it is to be directly apperceived. He states the means (*upāya*) of [enacting that mode] as *śrotavya*—it must be heard, and *mantavya*. *Śrotavya* means that it is to be conclusively deliberated upon by means of listening to the Vedānta (Upaniṣads). *Mantavya* means it is to be investigated (*vicāra*) by means of *yuktis*. From that, it [the self] becomes directly apperceived by means of *dhyāna* (meditation). Those twice-borns endowed with an abundance of *śraddhā* who have taken refuge in a wilderness place devoid of people, by the path stated thus, find—i.e., they obtain, in other words, they worship (*upāsate*) that thing (*enaṃ*) that is the self, which is truth, i.e., *brahman*.[^1746_1596]
+
+[^1746_1596]: Lakṣmīdhara, *Kṛtyakalpataru*, *Mokṣakāṇḍa*, pg. 259–260: *sa hyāśramair vijijñāsyaḥ samastair evam eva tu / draṣṭavyas tv atha mantavyaḥ śrotavyaś ca dvijātibhiḥ //.... sakalāśramibhiḥ asau paramātmā nānāprakāraṃ jijñāsitavyaḥ / tam eva prakāram āha— draṣṭavyo ‘parokṣīkartavyaḥ / tadupāyam āha śrotavyo mantavya iti / śrotavyo vedāntaśravaṇena nirṇetavyaḥ / mantavyo yuktibhir vicārayitavyaḥ / tato ’sau dhyānenā’parokṣībhavati / ye dvijātayaḥ śraddhātiśayuktā āraṇyakaṃ nirjanapradeśam āśritāḥ, evamuktena mārgeṇa enam ātmānaṃ satyaṃ brahmopāsate vindanti labhante prāpnuvanti /*
+
+For the scholar of Vedānta, two features from this passage should jump out at us immediately. The first is that against tradition, which typically ignores the injunctive force of the initial gerundive *draṣṭavya* in favor of beginning the *mahāvākya* with *śrotavya*, Lakṣmīdhara not only privileges the initial command “one must see,” which he understands as referring to the *sākṣāt-darśana* of *brahman*, he in fact treats *śrotavya*—the actual study of the Upaniṣads—as subordinate, a mere means (*upāya*) incorporated within the dominant mode [[P1747]] (*prakāra*). *Nididhyāsana*, however construed, you will notice is entirely absent.[^1747_1597] As a result, in this construal the final element in the method of Vedānta now becomes *mantavya*. This, of course, is usually the element of the statement that is invoked to justify the application of sophisticated scholastic reading practices as integral to Vedānta. For Padmapāda in the *Pañcapādikā*, for example, *manana* involves both acts of dialectics, where conviction is honed through debating ideological adversaries, as well an apologetics, as when the disciple learns how to reconcile the Advaita Vedāntic doctrine that the universe has no origin with the cosmological creation accounts found in the *Purāṇas*.
+
+[^1747_1597]: This is a peculiar state of affairs in light of the fact that, as Patrick Olivelle demonstrates in his critical edition of the *Yājñavalkyadharmaśāstra*, the dominant manuscript tradition from which he has derived his edition all have included it, albeit in a non-injunctive form, *nididhyāsyaḥ*, in this very verse in place of Lakṣmīdhara’s rather odd reading of *vijijñāsyaḥ*. See Patrick Olivelle, *Yājñavalkya: A Treatise on Dharma* (Cambridge, MA: Harvard University Press, 2019), 260–261.
+
+For Laksmīdhara, in contrast, as was made plain in the very first chapter of the text, the intended meaning of *yukti*, which can of course mean applied reasoning, is in fact the application in sequence of a program of planar ascent, akin to Śaiva yogic practices, through the states of *sāyujya*, *sālokya*, *prakṛtilaya*, and finally into *mokṣa*.[^1747_1598] It is through *yukti*, we learn, that the deities beginning with *hiraṇyagarbha* acquired *aiśvarya*, the sovereignty-bestowing collection of yogic powers that enable them to rule their respective realms. The *yogin* is to follow in their footsteps, acquiring superintending overlordship (*adhidaivatatva*) through complete mental identification of the apperceptive intellect with the ontic planes in ascending order beginning with the earth element. Then, in a manner akin to a Tantric *saṃhāra* practice, at the stage of *prakṛtilaya*, he is to identify with and then dissolve each of them in turn in reverse order, a process that the culminates in his yogic suicide. Lakṣmīdhara’s Vedānta, [[P1748]] in other words, culminates in something that looks like Tantra in all but name and is at best only moderately interested in scholastic analysis. Thus, quite apart from the attitudes of the Gāhaḍavāla court towards the use of Mīmāṃsā inspired principles in the context of reading the Upaniṣads, we can see quite clearly why Vedānta as it is understood within our *nibandhakāra’s* system, namely, as a mode of praxis, primarily conducted away from people and closely associated with the end of life, whose successful execution is immediately followed by deliberate disembodiment, does not readily lend itself to be lifted up as the *exemplum* embodying and instantiating a newly emerging canon of Brāhmaṇical normativity.
+
+[^1747_1598]: Lakṣmīdhara, *Kṛtyakalpataru*, *Mokṣakāṇḍa*, pg. 8: *sāyujyaṃ sālokyaṃ prakṛtilayo mokṣaś ceti caturvidhaṃ prayojanam / teṣāṃ aiśvaryāvāptiyuktyā hiraṇyagarbhanārāyaṇaśivamahendrasomasūryaskandajyeṣṭhomādevī- prabhṛtīnām.... pṛthivyādiṣu bhūteṣv adhidaivatatvaṃ tadbhāvabhāvitvam ca prakṛtilayo.... tadbhāvabhāvitvaṃ ca yogaviśeṣāc ca bhavati /*
+
+Eccentric though it may be in its particulars, Lakṣmīdhara’s conceptualization of what classical Vedānta from the time of Prakāśātman had come to understand as the *śravaṇavidhi* is generally aligned with a valorization of Vedānta, at least within a circumscribed arena of application, as representing a means of knowing *brahman*. If, unlike in the writings of Kṛṣṇamiśra or Hemādri, Vedānta is but one knowledge system among many and does not represent the fundamental essence of the *śāstric* tradition, for the *nibandhakāra* it serves a unique purpose that at least warrants substantive explication and theoretical reflection. In contrast, within the *Kṛtyakalpataru*, the same does not hold for *Purāṇa* as a knowledge system nor its accompanying theistic devotional apparatus. Despite the fact that the vast majority of the textual resources drawn upon by our Dharmaśāstrin are inescapably Purāṇic in nature, and that throughout the text *Purāṇa* provides not merely collaborating details (in the mode preferred by Pūrva Mīmāṃsā) but quite frequently the sole authoritative basis for the undertaking of ritual practice, at no point in the vast *Kṛtyakalpataru* does its author reflect on either the nature of *Purāṇa* as a genre or the source of its authoritativeness with any degree of focused care and precision. Much like the *dharma* commentators who came before him (Vijñāneśvara being [[P1749]] perhaps the closest match in method and temperament), Lakṣmīdhara in his own *śāstric* prose takes pains to avoid reflection on the ontological status of Purāṇic ritual and the underlying set of presuppositions that serve to make it viable and meaningful. His only concern throughout is how something is to be done. For this reason, the closest our author, or at least his preferred sources, gets to thinking about the use and usefulness of the *Purāṇas* and their reception is embedded in a discussion of their performance.
+
+The third division of the *Kṛtyakalpataru*, the *Niyatakālakāṇḍa*, is primarily concerned with the regulation of the timing of ritual acts over the course of a day. The majority of the text outlines the events that must punctuate a day, beginning from the moment when a person brushes their teeth and culminating in the procedures for making your bed and, if it it the appropriate season, having sex with your spouse. All of these activities, which make up the obligatory (*nitya*) duties of a twice-born and occupy the first eight chapters of the division, are to be conducted at the proper time and according to the proper rules. Making up a bit less than a quarter of the *kāṇḍa*, the remainder of the text is concerned with a grab-bag of “occasional” observances. Mostly, these are organized astrologically according to the *parvan* and *tithi* for their observance. It is only in the last thirty pages of the whole division that we are offered a miscellany of almost festival-like observances, ranging from putting torches in the jungle to appease the spirits, to the tending of cows, the release of a bull, and, finally, at the very end, the rules for listening to *Purāṇas*.
+
+What Lakṣmīdhara calls the *purāṇaśravaṇavidhi*[^1749_1599] consists of an otherwise unattested extract from the famously elusive, and yet endlessly theologically innovative, *Bhaviṣyat Purāṇa*. As you may be noticing, the name of the division instantly invokes comparisons with [[P1750]] the *śravaṇavidhi* of Vedānta, which from at least the eleventh century had been understood as offering a program outlining the course of Vedāntic study as well as communicating its ultimate purpose as making possible the direct experience of *brahman*. As we saw in the opening section of this chapter, after our author sings many florid songs in praise of himself, the *Caturvargacintāmaṇi* opens with Hemādri drawing upon this apparent parallel in the service of arguing for the existence of the *purāṇaśravaṇavidhi*. Succinctly, his position is that Purāṇic textuality makes it possible for non-twice-borns to achieve the same kind of inquiry (*vicāra*) and obtain the same soteriological goals that had hitherto been restricted to twice-borns studying the Upaniṣads. In fact, in developing this model, and revealing the scope of Purāṇic knowledge, Hemādri unmistakably quotes several lines drawn from the very beginning of the same *purāṇaśravaṇavidhi* in the *Bhaviṣyat Purāṇa* that serves as Lakṣmīdhara’s main proof text in this part of the *Kṛtyakalpataru*. Hemādri’s strategic utilization of this text, highlighting the radical nature of his own innovations, is all the more extraordinary because the *Bhaviṣyat Purāṇa* itself has almost no interest whatsoever in either Vedānta or the “spiritual lives” of non-twice-borns. In fact, it nowhere even hints at the possibility that listening to and learning from the *Purāṇas* can bestow liberation. Instead, its primary concerns are ensuring that the presentation of Purāṇic learning as well as community-specific Dharmaśāstra becomes the exclusive purview of a class of well-compensated Brāhmaṇas, managing non-Brāhmaṇa bodies, and teaching the “proper way” to recite a *Purāṇa*. Here is how the text begins:
+
+[^1749_1599]: Lakṣmīdhara, *Kṛtyakalpataru*, *Niyatakāṇḍa*, pg. 473–480.
+
+> Śatānīka said:
+>
+> O lord, by what procedure is the [*Mahā*]*bhārata* to be listened to by men, and the story of Rāmabhadra, and, in particular, the *Purāṇas*? And how, in particular, [are] the Vaiṣṇava *dharmas* and the Śiva *dharmas* [to be listened to by men], or [the *dharma*] of the Sauras? O lord of Brāhmaṇas, tell the procedure that governs listening (*śravaṇe vidhiḥ*)!
+>
+> Sumantu said: [[P1751]]
+>
+> Alack, I will tell you the procedure regarding listening to the *Purāṇas*. Having listened with devotion to the *Itihāsa* and *Purāṇas*, O lord of the people, he is released from all sin, including the killing of Brāhmaṇas and so forth. O lord, Viṣṇu, Brahmā, and Śaṅkara are pleased with the one who listens, having become pure, in the morning, evening, and likewise [at] the night.[^1751_1600]
+
+[^1751_1600]: Lakṣmīdhara, *Kṛtyakalpataru*, *Niyatakāṇḍa*: pg. 473–474: *śatānīka uvāca— bhagavan kena vidhinā śrotavyaṃ bhārataṃ naraiḥ / caritaṃ rāmabhadrasya purāṇāni viśeṣataḥ / kathaṃ ca vaiṣṇavā dharmāḥ śivadharmā viśeṣataḥ / saurāṇāṃ vāpi vipendra śravaṇe ucyatāṃ vidhiḥ / sumantur ūvāca / hanta te kathayiṣye ’haṃ purāṇaśravaṇe vidhim / itihāsapurāṇāni śrutvā bhaktyā viśāṃpate / mucyate sarvapāpebhyo brahmahatyādibhir vibho / sāyaṃ prātas tathā rātrau śuddho bhūtvā śrṇoti yaḥ / tasya viṣṇuṣ tathā brahmā tuṣyate śaṅkaras tathā /*
+
+While Śatānīka’s initial inquiry corresponds to what we find in Hemādri, the entirety of the teachings offered by Sumantu, which make up the remainder of the text, sharply diverge from his interpretive project in both their form and substance. Sumantu’s initial reply appears to characterize the reception of *Purāṇas* on a single occasion as offering a form of expiation. We also learn that, when Purāṇic *śravaṇa* is performed by a twice-born, for only such a person can become pure in the morning and evening, it pleases the *trimūrti*. As the text progresses, we also are informed at some length that if a person pays the appropriate amount of *dakṣiṇā* to the text reciter, he will reap the fruit of various different types of Vedic sacrifices. If, in addition to paying a fee in gold an audience member also gives different forms of *dāna*, the audience member will receive the fruits of his desires. As you may have noticed, non-expiatory benefits of experiencing the *Purāṇas* are entirely mediated by an exchange economy, participation in which is effectively limited to the well to do, whatever their caste. Merely hearing the *Purāṇas* themselves has a very restricted benefit. There is no indication that “reflecting” upon Purāṇic teachings have any value whatsoever, let alone that *Purāṇas* can contribute in any way to the “liberation” of those who religiously attend their recitations. [[P1752]]
+
+Having outlined the fruits of the practice, Sumantu begins his discussion of the basic procedure (*vidhāna*). The reciter of a *Purāṇa*, who must always be a Brāhmaṇa, is to put on a set of pure clean clothes and leave his home. When he reaches the place where the recitation is to occur, he is to circumambulate “whichever deity is in that place” (*pradakṣiṇaṃ tataḥ kṛtvā yā tasmin devataiva hi*), honoring the deity according to the appropriate procedure.[^1752_1601] After venerating everyone without remainder like they were the guru (*sarveṣām aśeṣaṃ guruvat*),[^1752_1602] he is to then begin his recitation, concluding his representation with the words “may it be benevolent” (*śivam astu*). Or, as the passage actually reads:
+
+[^1752_1601]: Lakṣmīdhara, *Kṛtyakalpataru*, *Niyatakāṇḍa*, pg. 474.
+[^1752_1602]: Lakṣmīdhara, *Kṛtyakalpataru*, *Niyatakāṇḍa*, pg. 474.
+
+> Having done *namskāra*, likewise, it is to be recited (*namaskṛtya yathā śrāvyaṃ*) with, “*śivam astu*” at the end (*cāntataḥ*)/and not otherwise (*nānyataḥ*), O tiger among kings (*śārdūlanṛpa*), by all the *varṇas*, O lord of the earth (*mahīpate*).[^1752_1603]
+
+[^1752_1603]: Lakṣmīdhara, *Kṛtyakalpataru*, *Niyatakāṇḍa*, pg. 474: [tāṃ vidhānena] *sarveṣām aśeṣam guruvat nṛpa / [namaskṛtya yathā] śrāvyaṃ śivam astv iti cāntataḥ / nānyato nṛpaśārdūla sarvair varṇair mahīpate /*
+
+In spite of the “Brāhmaṇizing” pretensions of the contents of the text, even for the *Purāṇas*, this is very bad Sanskrit. Our Future *Purāṇa* even manages to fill more than a half a verse with content that is either completely superfluous or underdetermined. Do we really need separate information-free epithets for the king in *pādas* three and four? Do we need to be told that the rules being given should not be done “otherwise?” What exactly is gained by telling us that the *vidhāna* is to be done with “all the *varṇas*”? If we mean letters, why is the very next section going to outline a seating chart for the classes? Whoever wrote this thing was not particularly talented at giving clear directions—a bit of a problem when you are crafting a *vidhāna* that people in perpetuity are supposed to follow to the letter, and not otherwise. Such irregularities are not confined to this passage but are rampant throughout the whole extract. In many places, even beyond what we see here, though the particulars need not detain us, [[P1753]] deviations from classical Sanskrit extend also to matters of syntax and basic grammar, including missing correlatives and lack of agreement between adjectives and the words they modify as well as between subject and verb. Despite some tantalizing features showing some knowledge of the discourse on aesthetics, which we will soon address, clearly this not a text that was either produced by learned scholars who had studied Pāṇini, nor was it originally intended to be examined by such people. The texture of the text suggests that, before its integration by Lakṣmīdhara into a proper “learned” work of *śāstra*, albeit within what was then a cutting edge even *avant-garde* discipline like entextualizing *nibandhas*, this is the sort of thing that was written for and used by Brāhmaṇa *subalterns* carving out a niche for themselves away from the big institutions.
+
+Despite being composed by also-ran Brāhmaṇas, or perhaps even because of that fact, the *Bhaviṣyat Purāṇa* is unusually concerned with the management of non-Brāhmaṇa bodies, not in the service of excluding their potentially polluted forms from pristine ritual space, but rather with the aim of subordinate inclusion within a shared ritual space:
+
+> The Vaiśyas are in front of the Śūdras. The Kṣatriyas are then in front of the Vaiśyas and Brāhmaṇas should always listen in front. Situated in the middle of all of them, O king, the reciter should recite. As for those men who are mixed caste, O king, they are behind the Śūdras. You should know the reciter is Brāhmaṇa, and not born of any [other] *varṇa*, out of respect. O king, having listened from a reciter born of another *varṇa*, he will go to hell. So, among those listening in this manner, in sequence according to their *varṇas*, delighter of the Kurus, there should be a recitation every month. O king, one should honor the reciter for the sake of one’s own upliftment (*śreyas*).[^1754_1604]
+
+[^1754_1604]: Lakṣmīdhara, *Kṛtyakalpataru*, *Niyatakāṇḍa*: pg. 474: *śūdrāṇām purato vaiśyā vaiśyānāṃ kṣatriyās tataḥ // kṣatriyāṇām tathā viprā srṇvantv ete ’grataḥ sadā / madhye sthito’tha sarveṣāṃ vācako vācayen nṛpa // ye vāpi saṃkarā rājan narās te śūdrapṛṣṭhataḥ / brāhmaṇaṃ vācakaṃ vidyān nānyavarṇajam ādarāt // śrutvānyavarṇajād rājan vācakān narakaṃ vrajet / itthaṃ hi śṛṇvatāṃ teṣāṃ varṇānām anupūrvaśaḥ // māsi māsi bhaved rājan pāraṇaṃ kurunandana / śreyo‘rtham ātmano rājan pūjayed vācakaṃ nṛpa //*
+
+[[P1754]] In an age without audio visual equipment and amplification, spatializing the social hierarchy means that the people in the back can see and hear the least of the performance. This is of considerable significance, for as the text will soon make plain, cognizing the meaning of the recitation and sharing in the experience of the performer’s affect is integral to this vision of how *Purāṇa* works. Both figuratively and literally, Brāhmaṇas, of course, are placed right at the front and in the center of everything. They are also suddenly the only people allowed direct access to the text and who are permitted to incorporate it into their professional lives. In the case of the *Mahābhārata*, which, as Hemādri claims, came into existence so that all kinds of people can have access to religious teachings, the *Bhaviṣyat Purāṇa’s* claims are problematic. When it comes to the appropriation of works like the *Śivadharmaśāstra*, explicitly for everyone, and abjuring Brāhmaṇical social normativity defined by *varṇāśramadharma*, this new arrangement effectively elides the interpretive project of the root text, not only in terms of the types of social agents being empowered and disempowered, but also at the level of timing and performativity.
+
+Instead of fitting *dharma* teachings into the daily schedule of an adept as an integral part of their training process, the Future *Purāṇa* envisions month-long periods of regular recitation followed by long periods when the text and its reciter are absent. The Brāhmaṇa *Purāṇa* reciter is no longer an esteemed member of the community whose salary is paid for on an annual basis by a *maṭha* or temple. Instead, he is a hired outside professional and his fees are to be paid by the audience, who are to contribute at the end of the month. In a typical Dharmaśāstra fashion, the payment scale is “regressive” in nature. Thus, while under specified (perhaps outcaste? and mixed caste) attendees are to pay a single *māṣaka* of gold, Brāhmaṇas [[P1755]] and Kṣatriyas pay up two, Vaiśyas three, and Śūdras four whole gold nuggets.[^1755_1605] As we have seen earlier, since this is not a punishment, such an arrangement either presumes a rather different distribution of wealth in early medieval north India than the one we had anticipated with much of the liquid wealth being in low-caste hands, or, otherwise, that the exorbitant fees paid by Śūdras ensured that only a select few elites from that community would be able attend. In fact, these base line fees, which only ensured lesser results from being in the audience for a Purāṇic performance, were then further supplemented by a whole hierarchy of forms of *dāna*. The spoils included material wealth, cows, and vessels, as well as the usual symbolic honorariums like garlands, all of which had to be given to the reciter if one wanted to gain any of the benefits presented by a particular *Purāṇa*. Incidentally, in praising the reciter, the text then presents us with the very same passages eulogizing the benefits that adhere to a patron at whose *śrāddha* sacrifice the twice-borns are fed that had proved so integral to the arguments Hemādri articulated within the *Śrāddhakalpa*, and which, incidentally he has made use of completely divorced from their original context.
+
+[^1755_1605]: Lakṣmīdhara, *Kṛtyakalpataru*, *Niyatakāṇḍa*, pg. 479.
+
+If we go by what Lakṣmīdhara presents us, the *purāṇaśravaṇavidhi* is not actually very long. Out of a fifty-eight-verse text, for example, four verses show us how to order the audience while seventeen verses are dedicated to the proper comportment towards the Brāhmaṇa reciter and the compensation he is to be given. In all of these places, apart from offering some lists that present us with the substances to be used, the procedural treatments are terse and show no signs of self-reflexivity about what stands behind the categorizations they convey. In contrast, indicative of its outsized importance, perhaps even of its innovativeness, the *Bhaviṣyat* [[P1756]] *Purāṇa’s* taxonomization of the different types of reciters and listeners takes up thirty verses and ample time is given to the unpacking of their significance.
+
+The best kind of reciter, set apart from the rest and deemed terribly rare, is called Vyāsa, for he is aligned with Vyāsa’s values (*vyāsasammita*) and is like Vyāsa himself. Any kingdom where he dwells, the text suggests, is blessed:
+
+> Very clearly, in an exciting and easeful manner, the words and the syllables are enunciated. Furthermore, the performance has a low sound marked by musicality and is endowed with *rasa* and *bhāva*. He is always aware of the meaning of the text in its entirety with a superfluity of meaning. He should recite the meaning of the text to all the *varṇas*, beginning with Brāhmaṇas. The Brāhmaṇa who recites in this manner is called a Vyāsa.[^1756_1606]
+
+[^1756_1606]: Lakṣmīdhara, *Kṛtyakalpataru*, *Niyatakāṇḍa*, pg. 476: *vispaṣṭam adbhūtaṃ śāntaṃ spaṣṭākṣarapadaṃ tathā // kalasvarasamāyuktaṃ rasabhāvasamavitam / budhyamānaḥ sadātyarthaṃ granthārthaṃ kṛtsnaśo nṛpa // brāhmaṇādiṣu varṇeṣu granthārthaṃ vācayen nṛpa / ya evaṃ vācayed rājan sa vipro vyāsa ucyate //*
+
+There are two aspects to such a person’s virtuosity: his style of performance and his comprehensive understanding of the text. The text’s treatment of both subjects tells a lot about what ancient audiences valued. When it comes to presentation, the best of reciters enunciates clearly both at level of the word and the syllable, and he does so, moreover, in a compelling (*adbhūta*) and serene (*śānta*) manner, while embellishing his recitation with the appropriate emotional states (*bhava*) and aesthetic modalities (*rasa*). In other words, what makes someone a Vyāsa is that he does not simply read the work aloud. He performs it, adopting all the appropriate affects at each part of the story or instructions, without ever losing control of his emotionality in a manner that defeats the intended purpose of the text. To do this well, a Vyāsa has to understand not merely the denotative meaning of every word in every verse and how all the pieces fit together, but he must also have a rich sense of the significance of the text at each point, including the multiple layers of meaning that are intended to be communicated to different types of audience members. Finally, and perhaps most fundamentally, he has to—on [[P1757]] the spot—be capable of explaining, and not just to learned Brāhmaṇas in the know, “the meaning of the text.” This phrase may suggest that as with modern *kathākāras*, the performance of the root text was to be interspersed with more colloquial and accessible illustrations of its meaning. Perhaps these explanations were even to be conducted in a local language.
+
+As the *Purāṇa* of the Future makes plain, real Vyāsas, who, like the best of poets, have mastered both word and meaning, are rare treasures. The vast majority of reciters, “Vyāsas merely in name,” lack this full array of capacities. In this more practical vein, the text thus provides us with a threefold taxonomy of Purāṇic reciters aligned with the three *guṇas* in ascending order from the very worst sort of reciter to the best you are likely to get. Down at the bottom, we find the *tāmasic* reciter. This worst of recitations is said to be done “very quickly (*atidruta*).” It is “not clear” (*aspaṣṭa*), “without intonation” (*visvara*), “without any *rasa*” (*rasavarjita*), “devoid of *bhāva*” (*bhāvavarjita*), and “without any division between words” (*padacchedavihīna*).[^1757_1607] Though, in a stereotypical vein, we are also informed that the *tāmasic* person is unstable and prone to getting angry, the primary objection is that the presentation of the text is performed by someone without enthusiasm (*utsāhavarjita*) and who does not know the meaning of the text (*granthārtha*). In other words, the worst kind of recitation is rote recitation. Either it is carried out by someone who does not know Sanskrit at all, or it is done by a ritualist who treats the text as if its meaning is irrelevant, believing that the ritual can be successfully executed if any sort of recitation has taken place. The person who performs in this manner is called a defiler of the text (*granthaviḍuṣaka*). [[P1758]]
+
+[^1757_1607]: Lakṣmīdhara, *Kṛtyakalpataru*, *Niyatakāṇḍa*, pg. 477: *atidrutaṃ tathāspaṣṭaṃ visvaraṃ rasavarjitam // padacchedavihīnaṃ ca tathā* [rasa] *vivarjitam / abudhyamāno granthārthaṃ lolaś cotsāhavarjitaḥ // īdrśāṃ vācayed yas tu vācakas tu nareśvara / krodhano ’priyavādī cājñānād granthavidūṣakaḥ //*
+
+Though preferable to the worst kind of reciter, the middling sort of performer errs in turn by again emphasizing form over substance. Yes, it is all very well and good that such a person, like a modern Indian classical vocalist riffing on a *bhajan*, offers a performance that is calming, aesthetically pleasing, and intermixed with *rasa* and *bhāva*. Still, the *rājasic* performer (the title is something of a misnomer as there is nothing “*rājasic*” about his manner), though he enunciates each syllable clearly and beautifully, does not manage the word breaks because he does not know the meaning.[^1758_1608] As for the *sattvic* reciter, though presumably he incorporates the best aspects of his predecessor, the only criteria that are given is that he knows the meaning of the text in its entirety (*granthārthaṃ samagraṃ kṛtsnaśaḥ*) and that he gives Brāhmaṇas their due by honoring them as part of the ceremony.[^1758_1609] Quite succinctly, for all its pro-Brāhmaṇa advocacy, the ethos out of which this text emerges is blatantly at odds with the standards privileged by the advocates of Pūrva Mīmāṃsā.
+
+[^1758_1608]: Lakṣmīdhara, *Kṛtyakalpataru*, *Niyatakāṇḍa*: pg. 477.
+[^1758_1609]: Lakṣmīdhara, *Kṛtyakalpataru*, *Niyatakāṇḍa*: pg. 477.
+
+In keeping with the threefold classification of reciters, our text next presents us with three kinds of listeners, again in ascending order of quality. In the discussion that follows, Lakṣmīdhara presents us with the closest thing to a second-order reflection on the role that *bhakti* plays within Brāhmaṇical discourse that can be recovered from the entirety of his vast *nibandha*. The argument, as articulated by the *Bhaviṣyat Purāṇa*, runs as follows. While the reciter’s value is virtually defined by his degree of mastery over the meaning of the text, when it comes to audience members, what is most important is the bare presence of *śraddhā* and *bhakti*. As for what makes for a “bad audience,” that is not a question of dull incomprehension on the part of the attendees. Instead, what we learn is that a bad audience is one full of skeptic [[P1759]] intellectuals who undermine the authority of the Purāṇic reciter.[^1759_1610] The worst kind of audience member, devoid of *śraddhā* and *bhakti*, is intent upon logical or sophistic arguments (*hetuvādapara*). Moreover, he does not pay his *dakṣiṇā* and is “endowed with envy.” Only slightly preferable are those folks, again devoid of *śraddhā* and *bhakti*, who listen out of a desire to find fault or contradiction (*prasaṅgāt*) or are merely curious (*kautukamātra*). Quite noticeably, for these are usual features of stock polemic, none of these people who challenged the authority and legitimacy of Purāṇic performances are defined as “heretics” (*pāṣaṇḍa*) or nonbelievers (*nāstika*), nor are their backgrounds disparaged. Nor is there the slightest indication that the dissenting voices represent some local or *subaltern* interest seeking to stop the appropriation of their traditions. This is strictly a conflict in and among Brāhmaṇas. If anything, it is the *paurāṇikas*, clearly rooted in a performance tradition and depending on contract work for their financial well-being, not the proceeds from inherited land grants, who serve as our *subalterns*. As for the best kind of audience, once again, the text tells only that they are endowed with *bhakti* and *śraddhā* (*bhaktiśraddhāsamanvita*), they have abandoned all other ritual or acts (*saṃtyajya sarvakarmāṇi*).[^1759_1611] Motivated by their devotion, they honor the reciter and always pay their *dakṣiṇā*. These are the sort of audience you want to have filling out your seats.
+
+[^1759_1610]: Lakṣmīdhara, *Kṛtyakalpataru*, *Niyatakāṇḍa*, pg. 478.
+[^1759_1611]: Lakṣmīdhara, *Kṛtyakalpataru*, *Niyatakāṇḍa*, pg. 479.
+
+As you have probably observed, there is noticeable asymmetry between what is expected of a great reciter and what is valued in an audience member. Being a reciter is a cultivable skill. Within it there are multiple levels of attainment, including the possibility, however slim, of becoming a virtuoso. Moreover, the text is invested in presenting us with an analytical account of the concrete components constitutive of achieving mastery. On the basis [[P1760]] of these elements, we have what are in essence a set of “objective” criteria that can be used for evaluating performers and performances. Unlike in the realm of *śāstra*, there is considerable interest in the reciter’s own affect, much of which seems to be being conceptualized in a language borrowed from the meta-discourse on the aesthetics of performance. At the same time, however, that the exclusively Brāhmaṇa reciter is intruding in a professional domain, namely, the world of singers and actors, that is dominated by social actors who are quintessentially non-Brāhmaṇas, the text is exalting above all else the type of learned precision and hermeneutical mastery, even intentionality, so often treated as inseparable from Brāhmaṇa identity.
+
+In considerable contrast, though it is adamant about what sort of traits are undesirable in those involved with the reception of the text, the *Bhaviṣyat Purāṇa* has almost nothing concrete whatsoever to say about what is entailed in cultivating the qualities that makes a person into the audience equivalent of an ideal imagined “reader.” We are simply told that they have set aside other actions and concerns and possess both *śraddhā* and *bhakti*. Moreover, in opposition to what we will see in the next chapter, though they share discursive space, the aesthetic-inflected discourse on *rasa* and *bhāva* is affiliated with the reciter of the text, who is not motivated by devotion, and is in fact not viewed as applicable at all to the dynamics that govern the inner worlds of the devotee. [[P1761]]
+
+In presenting virtually no critical reflection on devotional categories, nor even working through what the analytical criteria might look like for determining the presence or absence of *śraddhā* and *bhakti* in audience members, like the *Bhaviṣyat Purāṇa* before him, the twelfth-century Dharmaśāstrin Lakṣmīdhara was simply following in the wake of a storied tradition within the Sanskrit Knowledge Systems. Succinctly, however much such a notion might violate our expectations about the centrality of *bhakti* to Indian religions, in the Sanskrit literature of the first millennium of the Common Era, there is an almost total scholarly neglect of *śraddhā* and *bhakti* as sites for sustained inquiry. Though evocations of *bhakti* and its associated affect as a meaningful term of art are certainly present—even prevalent—in evocative literary and devotional writing produced by a range of communities, against expectations, outside the context of stray commentarial glosses on texts such as the *Gītā*, serious analysis of the category in the idiom of theology is virtually unknown. Where it does begin to surface, around the turn of the millennium, nascent articulations of *bhakti* theology in the idiom of *śāstra* incorporated as part of a larger argument are at first confined to two domains, namely, those of the Śrīvaiṣṇavas and the Śākta Śaivas. Significantly, the status of both communities as unproblematically reflecting a vision of Brāhmaṇical normativity, at least among contemporaries, was very much an open and contested question. Even here however, up through the twelfth century what we encounter at best are *śāstrins* talking about and valorizing *bhakti* in a sophisticated manner, and not *bhakti* itself becoming the central focus of learned composition. Quite simply, there is no such thing as *bhaktiśāstra*. As we shall see in the next chapter, this too begins with Hemādri. [[P1762]]
