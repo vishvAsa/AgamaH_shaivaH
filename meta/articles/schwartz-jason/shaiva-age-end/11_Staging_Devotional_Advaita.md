@@ -649,3830 +649,485 @@ An otherwise purely materialist account of the workings of an automated universe
 
 In our study of the *Muktāphala* and *Kaivalyadīpikā* thus far, generally our working method has been to pay little heed to trying to determine how closely Hemādri’s exegesis or his theology aligns with that of the *Bhāgavata* itself. The tacit assumption has been that this is an enormous task that would take us far afield from our own investigations, but also that with the emergence in recent years of numerous learned and skilled specialists in the *Bhāgavata* and its reception such endeavors are best left to others whose command of the root text far exceeds my own. In this particular instance, however, the disparity between the purport of the passages we have just been exploring as Hemādri understands them and their function in the *Bhāgavata* is too vast and telling to simply pass over in silence. Succinctly, Hemādri has taken what in situ is a sequential account of the stages of yogic suicide (*utkrānti*) [^1866_1699] and rewritten it [[P1867]] as if it were a doctrinal dispensation. In the original text, when a *yogin* decides he is ready to leave his body, entering into a firm seated *āsana*, using the power of his mind, he commences a process of involution, dissolving the *buddhi* into the *ahaṃkāra*, the *ahaṃkāra* into the knower of the field, so on and so forth, suspending the breath until his life has ceased. Intriguingly, in alignment with the model of Vedānta presented by Lakṣmīdhara, which we examined in the previous chapter, this process of yogic suicide is mediated through the application of one of the *mahāvākyas*. In this case, “*neti neti*” is used programmatically so that the *yogin* ceases to identify with the faculties and substances that make up his body, a process which culminates, in the moments of death, with divorcing oneself from the *guṇas* themselves. This is the very verse with which Hemādri begins his “trans-creation” of the *Bhāgavata* proof text. No longer describing a practice, it instead becomes a site for developing a theological model, one that the discourse that follows will reveal is most pertinent to the highest level of enjoined *bhakti* praxis, for this is the domain where Advaita Vedānta as a knowledge system comes into play and is then surpassed. In the language of the tradition of aesthetics, such a person becomes *sauhṛda*—not in the sense that he is the ideal consumer of elite literature, but on the basis that he is capable of extracting the most choice “enjoyment” and “wonder” out of his experiences in the world. He does this by withdrawing the senses from engagement with anything that is not the real source of our delight, in other words, Kṛṣṇa. This is accomplished “by means of the heart,” which at once recognizes the capacity of Kṛṣṇa- tinged objects of experience to bring about the experience of wonder (*camatkāra*) as well as the inability of other types of objects of experience to evoke this intrinsically valuable affect. Hemādri reencodes the repeated recognition of the utter inadequacy of non-Kṛṣṇa-tinged objects of experience
 
-## 
-Chapter 11: Staging Devotional Advaita in Thirteenth-Century Maharashtra: 
-Possession, Poetics, and the Anxiety of Influence 
-Over the previous two chapters, we have seen how Hemādri orchestrates a sea-change of values 
-that forever alters the nature and ethos of Hindu law as well as those who practiced it. In the 
-wake of the Caturvargacintāmaṇi, deployed as an operating manual by a new kind of agent 
-acting on behalf of a new kind of state, there is a transformation in the sociology of 
-knowledge—of who has access to what knowledge and under what circumstances, a 
-redistribution of wealth and cultural capital, and substantive alterations in real-world social 
-relations. At the same time, there is also a drastic change in the self-understanding of the 
-religious authorities themselves and the nature of their intellectual production. Throughout the 
-Caturvargacintāmaṇi, Hemādri inserts himself into long-standing conversations introducing 
-new and essentially alien problematics whose founding presuppositions are often 
-fundamentally opposed to the very rules underlying most scholarly language games. The result 
-is that śāstra does not merely have to accommodate new topics, it itself has to become 
-something new. Frequently, such developments entail deploying inherited and often 
-Mīmāṃsā-inflected exegetical technologies and textual practices in the service of very 
-different ends and values. At the center of this new value system stands a reappraisal of 
-affectivity and individual experience. They are suddenly treated as irreducibly philosophical 
-topics of interest that provide us the answers to longstanding epistemological and ontological 
-questions. 
-We have seen that this marriage of philosophy with devotion—where neither makes 
-sense without its counterpart—is not something that Hemādri inherits from his immediate 
-intellectual antecedents among the proto-Smārta Brāhmaṇas of twelfth-century north India 
-1763 
-with whom the genre of the dharmanibandha commences. This is not the same as saying, 
-however, that such an episteme lacks its own prehistory. What this chapter aims to make plain 
-is that there is indeed a recoverable interpretive context for making sense not only of Hemādri’s 
-core theological commitments, but also of many of the key intellectual strategies and 
-conceptual models he will deploy in breathing into being his own bhaktiśāstra. They in fact 
-arise from the very episteme of the Śaiva Age that Hemādri invests so much energy in 
-discrediting and deinstitutionalizing. The task before us in this chapter is thus twofold. We will 
-offer, for the first time in the history of the Western academy, an introduction to the core 
-arguments of Hemādri’s bhaktiśāstra, the Muktāphala and Kaivalyadīpikā. At the same time, 
-we will read the text—which on the surface offers commentary on select verses from the 
-Bhāgavata Purāṇa—as a sustained polemical and dialogical engagement with this preceding 
-knowledge system. Time and again, what we will see is that while Hemādri draws upon a range 
-of textual resources originating in the elite milieu of the Sanskrit cosmopolis and its poetic 
-traditions, his core conceptual resources and reoccurring problematics are directly appropriated 
-from or the product of critical engagement with what are essentially Śākta knowledge systems. 
-Our exploration will thus unfold in the following manner. We will begin by briefly 
-locating the confluence of ambiguously philosophical non-dualism and the discourse of 
-devotion within early Mantramārga, goddess adjacent traditions. We will then demonstrate 
-that, while absent from the Bhāgavata Purāṇa, both the central concern of the latter half of the 
-Muktāphala—namely, theologizing bhaktirasa—as well as a key part of the organizational 
-framework that orders the first half of Hemādri’s text—a particular framing of the opposition 
-between rule governed ritual, spontaneity, and a theology of direct affective experience—find 
-their earliest recoverable articulation in the writings of the Trika exegetes, especially 
-1764 
-Utpaladeva and Abhinavagupta. With these insights in mind, we will then turn directly to a 
-close reading of the Muktāphala and Kaivalyadīpikā’s discourse on bhaktirasa. By attending 
-to its inheritances from the traditions of Sanskrit poetics, what will be revealed is that while 
-Hemādri makes an essentially instrumentalist use of the Alaṃkāraśāstra tradition, the real 
-problematics that animate this part of the work are best accounted for as emerging out of critical 
-dialogical engagement with Śākta values and Śākta critiques. We will also begin to examine 
-how Hemādri reframes his new valorization of affectively charged “direct religious 
-experience,” so that it ceases to be the provenance of an elite of adepts, while at the very same 
-time “authentic religious experience” is decoupled from questions of adhikāra. 
-Having made sense of Hemādri’s devotional theology and having been introduced to 
-some of its sociological implications, we will then examine the nature of Hemādri’s theism. 
-While substantively indebted to the Bhāgavata itself, Hemādri’s theorization of the nature of 
-a personal god expands upon and even diverges from its core understandings. We will thus 
-delve in some detail into the nuts and bolts of Hemādri’s theistic—even materialist—non-dual 
-Vedānta, an important resource for later scholastic traditions that has never been addressed in 
-an academic publication. Reconstructing our author’s core arguments will render transparent 
-the eccentricity of his Advaita philosophy vis-à-vis our normative perceptions of contemporary 
-scholastic Advaita Vedāntic discourse. At the same time, it will reveal the essential consonance 
-of his Vedānta with the strikingly similar and equally unfamiliar ontological and 
-epistemological models present within an array of literature composed in old Marathi, 
-including the contemporary writings of Cakradhar and the late-twelfth-century Vivekasindhu 
-of Mukundarāja. What will emerge from our explorations is an alternative localized history 
-that speaks to the flourishing in the early medieval period of a heavily devotionalized Deccani 
-1765 
-Vedānta growing out of older Śākta traditions. That this appears to have represented a 
-widespread and popular theological tradition even in the absence of the hegemonical 
-identification of Brāhmaṇical tradition with Vedāntic knowledge systems poses a serious 
-challenge to our normative narratives about the Brāhmaṇization of “popular” religion. 
-Hemādri’s intellectual project as a Vedāntin in fact suggests that we begin to think seriously 
-about the “popularization of Brāhmaṇical religion” as playing a pivotal role in the history of 
-the elevation of Vedāntic traditions. The chapter will then conclude by looking at the 
-sociological implications of Hemādri’s new bhaktiśāstra, making sense of his appropriation 
-and subversion of his Śākta antecedents in a manner that calls for a more general reappraisal 
-of the concrete real-world implications of bhakti as a social form and its complex and occluded 
-relationship to the life-worlds of the early medieval Śaiva Age. 
-The Essence of the Matter: A Brief Prehistory of Devotion, Non-duality, and the Śākta Tradition of Direct Experience as They Pertain to the Emergence of “Vaiṣṇava” Bhaktiśāstra 
-In his seminal study of the writings of Madhusūdana Sarasvatī, the great sixteenth-century 
-theologian who sets out to reconcile the purportedly non-overlapping magisterial worlds of 
-devotional religion and Advaita Vedānta,1612 Lance Nelson begins by offering the following 
-cautionary words: 
-The tension between the spiritual paths of knowledge and devotion has been a key internal problem for the Hindu tradition since the rise of the devotional schools in the second half of the first millennium C.E. Popular Hindu piety centers on bhakti, a religion of devotion and grace, of loving surrender to a personal God. From the seventh century, time of Śaṃkara, however, the dominant vision of Hindu metaphysical thought has included the idea of salvation through knowledge of the radical oneness of the 
-1612To a degree that has scarcely been recognized, though his philosophical arguments are often presented in a much more sophisticated idiom, Madhusūdana’s theological “innovations” are substantively indebted to Hemādri’s doctrinal stances in the Muktāphala and Kaivalyadīpikā. Here, it is worth noting in passing there are also clear genealogical connections between Madhusūdana’s intellectual project and the Maharashtra-based Smārta pandit traditions that Hemādri engendered. Madhusūdana’s root teacher was none other than Nārāyaṇa Bhaṭṭa, a descendant of Deśastha Brāhmaṇas based out of Paithan, whose own indebtedness to Hemādri’s intellectual project we have already documented in chapter 9. 
-1766 
-individual self with an impersonal ultimate reality, Brahman. Śaṃkara’s monastic followers—a small but highly influential minority of the religious population—have maintained and elaborated, and even today continue to carry on, the tradition of his Advaita (“non-dualistic”) Vedānta. For these renunciates, the tat tvam asi (“That thou art”) of the Chāndogya Upaniṣad, which seems to proclaim the identity of the soul and Brahman, is the sacred Word that conveys enlightenment. But for the devotionalists who not without reason see any tendency towards monistic thought as inimical to the development of bhakti, both this “great sentence” (mahāvākya) and the aspect of Upaniṣadic thought which it symbolizes are problematic. 
-Religious devotion, like other forms of love, seems to require several things. First, it presupposes duality, so that there can be a relationship between the lover and the beloved. Second, it demands that each term of the relationship be personal, capable of feeling and response. . . . Third, and here religious devotion differs from ordinary love, the relationship must be between unequals: the worshipper feels that he or she is limited and dependent and that the object of worship is unlimited and independent, a being of a wholly different order. Religious devotion flows from the I, the lover, to a Thou who is the one supreme Beloved. 
-For the theologian of bhakti, Advaita Vedānta seems to threaten and undermine all of these essentials.1613 
-Here, Nelson is giving voice to what is essentially a colonial era metanarrative, which 
-draws, at best, upon an early modern and primarily north Indian Vaiṣṇava textual archive. 
-While of great interest as topics of inquiry in their own right, far from representing the 
-perennial focus of two thousand or more years of Hindu dharma, these problematics bear little 
-relation to the dichotomies that animated the life-worlds that we have spent the past thousand 
-pages coming to understand. As we have seen, in those spaces, while Advaitas and monisms 
-of all sorts abound, Śaṅkara’s Pūrva Mīmāṃsā-centric nondual philosophy is a “johnny-come- 
-lately” interloper, held in low regard even in north Indian Brāhmaṇa-centric courts such as that 
-of the Gāhaḍavālas. But far from a theology of devotion being absent from the discursive and 
-religious worlds of the first millennium, in essence, from the seventh well into the twelfth 
-century, the early medieval Deccan was anchored and animated precisely by a widely 
-1613Lance Nelson, Bhakti in Advaita Vedanta: A Translation and Study of Madhusūdana Sarasvatī’s Bhaktirasāyana, (PhD diss., McMaster University, 1986), 1–2. 
-1767disseminated theology of devotion. This was the ethos of śivabhakti, most memorably and 
-formatively given shape within the Śivadharmaśāstra, which the Tantric knowledge systems 
-essentially presume as their formative context. As was explored in chapter 3, the easy path of 
-śivabhakti offered at once an affective theology and a legally binding normativity that 
-concretely reordered the life-worlds of those who fell under its jurisdiction. Within such 
-Deccani epistemes—often monist-curious if not outright “non-dual”—a notion of bhakti being 
-predicated on the bhakta and his object of worship, in Nelson’s words “being of a wholly 
-different order,” is virtually absent. Instead, bhakti theology, whether individual or communal, 
-was itself viewed as all but inseparable from acts of mimesis, which result in either becoming 
-the deity or recollecting that, despite current appearances to the contrary, one was always of 
-the same nature as the deity. 
-Unlike in later and more familiar philosophical discourses, however, where 
-distinguishing between what we would label Advaita, monistic, pantheistic, and ontic 
-multiplicity was one of the central activities of intellectuals, in these domains such 
-problematics were seemingly of minimal emic importance. For this reason, from our 
-perspective at least, the boundaries between what we would presume to be mutually exclusive 
-positions on ontology are often frustratingly porous and unclear. As we are about to see, it is 
-utterly commonplace for the very same composition to make use of rhetoric that seemingly 
-adopts several of these positions over the course of the same discourse. In other words, when 
-one reaches for a wider historical perspective over the longue durée of the history of Indic 
-religion, the tension that Nelson has detected within his own early modern devotional Advaita 
-sources and the theology of devotion is no novel anomaly confined to Madhusūdana’s writings, 
-but part and parcel of a deep pre-philosophical history of devotion that precedes and informs 
-1768 
-the articulation of Vaiṣṇava devotional theologies, offered in a śāstric idiom, including those 
-of Hemādri. In making this often occluded dynamic apparent, for reasons of expediency, a 
-single relatively accessible example will do much to clarify our understanding, preparing us 
-for the otherwise confusingly eccentric “Advaita” devotionalism we will find at play in 
-Madhusūdana’s main antecedent—the first real works of bhaktiśāstra, Hemādri’s Muktāphala 
-and Kaivalyadīpikā. 
-As masterfully edited and translated by Shaman Hatley,1614 the frame story of the 
-seventh- to eighth-century Picumatabrahmayāmala offers us a vivid and compelling 
-representation of just how readily and unproblematically these first millennium sources 
-invoked a theology of devotion in tandem with a hazy hash of ontology that thought nothing 
-of oscillating back and forth between nondualism and what to us looks like qualified 
-nondualism, often within the confines of a single passage. Thus, as the Picumata begins, the 
-goddess Aghorī requests the teaching from Kāpalīśa Bhairava in the following manner: 
-When one is devoted to serving the guru, following the Left Way, in a state of nondual meditation, the mind remaining without dualist thought, tell me the procedure O Lord, such that one might attain siddhi, O god. And yoginīs who have very little intellect, small minds, and little courage, [but are] intent on serving their husbands, possessing devotion to the gurus. . . tell me in brief how they obtain siddhi.1615 
-Bhairava’s unexpected reply is to inform an astonished Aghorī he had already taught 
-her the practices in this text. She has just forgotten them. Bhairava explains: 
-I worshipped Śrīkaṇṭha, who is affectionate to his devotees (bhaktivatsala), for a thousand divine years, O goddess, my mind filled with devotion (bhaktyāviṣṭena). Then, because of his supreme compassion, Śrīkaṇṭha taught me the great mass of scriptural wisdom. . . . I absorbed all this by the grace of Śrīkaṇṭha. And you too, through contact with me (matsamparkā), learned it in its entirety. Then, my dear, without authorization, you commenced to teach it to your attendants, desiring their good and being exhilarated with devotion (bhaktihṛṣṭayā). But on seeing that great 
-1614Shaman Hatley, ed. and trans., The Brahmayāmalatantra or Picumata, Vol. 1, Chapters 1–2, 9-40 and 83 (Volume 1) (Pondicherry: Institut Français d’ Indologie/École française d’ Extrême-Orient, 2018), 389–90. 1615Hatley, The Brahmayāmalatantra or Picumata, 389–90. 
-1769 
-tantra being violated, I was filled with anger and cursed you, by which your scriptural knowledge was destroyed. Then, O fortunate woman, terrified and trembling, and with tears in your eyes, you prostrated on the ground. Folding your hands. . . you entreated me, O Mahādevī, overcome with sorrow. After this, seeing you agitated, I was overcome by compassion. I spoke to you thus—out of compassion, but filled with great anger: 
-“Go to the mundane world (bhūrloka), O Queen of the gods; incarnate yourself. Take on another body in the house of a brahmin, O pious lady. Then, impelled (saṃpracoditaḥ) by your devotion (bhaktyā) while you dwell there, I shall bestow my grace upon you, by the command of the Śakti. Oneness (aikya) with me again—you will obtain all this, my dear.1616 
-The Picumatabramayāmala is offering its audience a cautionary tale. The intended 
-moral of this framing story is that “in this system,” above and beyond devotion, there is also a 
-complementary demand made upon the adept, namely, he or she must keep the secrets. A key 
-rhetorical feature here is that a contrast is being explicitly drawn with the theology of the 
-Śivadharmaśāstra (with which this Tantra is intimately familiar and which it will soon evoke), 
-where the path is open to all who embody Śiva’s devotion. As our story demonstrates, the 
-Brahmayāmala’s value system comes with its own markedly more differentiated and 
-hierarchical sociality, which assigns the role of teacher of the tradition only to special 
-designated persons, and not just anyone who has been initiated into and has embodied the 
-system. Thus, because although she was an authentic adept, Aghorī was not a designated 
-teacher, the goddess had to be punished for freely sharing this hidden knowledge with her 
-attendants out of a misdirected bhakti. And so, the supreme goddess, here standing in as a 
-template for any adept, was made to incarnate into the world as a mortal being subject to death 
-and suffering. If in this new, strange world of the Yāmalas, “bhakti alone” without any other 
-restraints is no longer a sufficient path onto itself, nevertheless devotion still remains a 
-1616Hatley, The Brahmayāmalatantra or Picumata, 391–93. Original Sanskrit text added to the translation, preserving Aiśa forms. 
-1770 
-necessary and ubiquitous component of religious life. For, while misdirected bhakti was the 
-cause of Aghorī’s fall from the highest reality, it is also fervent all-encompassing bhakti that 
-enables her restoration to a state of unity (aikya) with the lord Bhairava. As he explains: 
-O Mahādevī, you were begot of chāndogya [brahmins] and possessed of the marks of auspiciousness. Born there, undoubtedly, your name was Satikā. Then, endowed with intelligence, you paid reverence to me through constant worship of the liṅgam, with great devotion (mahā bhaktyā). There, in [your] thirteenth year, you attained siddhi by the grace of the Śakti. You attained the state of the Sky-traveler, and reached my proximity. You are that Śakti (sā śaktis tvam), O highly fortunate one, whom of old I cursed when a transgression was made. Remember yourself (smarātmānāṃ)! Your name is now Aghorī.1617 
-In these passages, Aghorī models for future adepts the core logic of Śākta sādhanās as 
-outlined in the scripture, where the highest practices are heavily associated with a fierce logic 
-of mimesis. Most importantly for our purposes, in narrative passages of this sort, as in their 
-prescriptive counterparts, the line is constantly blurring between whether one is “becoming 
-Bhairava” or some form of the goddess, or merely recovering one’s hidden latent nature. In 
-essence, unlike the compositions of the coming millennium, this register of textuality seems 
-thoroughly uninvested in which explanation offers a more accurate account of the nature of 
-reality let alone in fiercely promoting specific interpretations. Ontologies aside, it is 
-devotion—moreover, an affective devotion that has as its foundation the strictures of the 
-Śivadharmaśāstra (reflected here in Satikā’s constant worship of the liṅga)—that gets one to 
-the presence of the lord, so that, through “contact,” two can become, or resume being, one. 
-This is not the occasion for unpacking this alternative history of Indic devotion in the 
-early medieval period in a manner that centers the systematicities locked within hitherto 
-1617Hatley, The Brahmayāmalatantra or Picumata, 394. Original Sanskrit text added to the translation, preserving Aiśa forms. 
-1771 
-neglected canons of knowledge.1618 For the moment, we will have to confine ourselves to 
-picking up this much larger story at the specific moment of articulation when these notions for 
-the first time become the focus of second order scholastic reflection. This task will prove 
-absolutely essential, for, as we are about to see, both the idiom and key conceptual concerns 
-that animate Hemādri’s “Advaita” theology of bhakti, especially in those domains where 
-Hemādri makes interpretive choices that deviate from those found in the Bhāgavata itself, are 
-uncannily prefigured not among expected Vaiṣṇava antecedents such as Rāmānuja, but in the 
-writings of the Trika exegetes. In other words, in articulating his bhaktiśāstra, Hemādri’s key 
-intellectual predecessors are the very people whose episteme he is largely responsible for 
-effacing. 
-As preserved in the surviving textual record, bhaktirasa’s scanty pre-history in the 
-scholastic sources is largely a matter of passing allusions followed by vigorous but terse 
-condemnation. It is almost as if we are only privy to half of a conversation. Already in Daṇḍin’s 
-Kāvyādarśa, one of our earliest works on poetic theory, which was likely composed in the late 
-seventh or early eighth century under the patronage of the Pallava kings, bhakti’s role in 
-aesthetics is being thinly theorized. Though not treated as an independent rasa per se, Daṇḍin 
-perceives bhakti as a subspecies of “non-erotic” affection (preyas). For him, this is exemplified 
-by the connection of a vassal to his patron or the devotee towards Śiva. It is the latter feature 
-that is called bhakti. In keeping with his approach to poetics that decenters subjective aesthetic 
-experience in favor of a focus on rhetoric centered on ornamentation (alaṃkāra), however, 
-Daṇḍin classifies the bhakti type of preyas not as a rasa but as a special sort of poetic ornament. 
-What he is really concerned with is the literary representation of a topos and not, as will be the 
-1618If one hoped to write a prehistory of the religious valorization of “spiritual experience” (anubhava) and “rasa,” that task would lead the investigator deep into mostly unstudied Śākta sources largely indebted to the Kāpālikas. 
-1772 
-case with later thinkers, the cognitive and emotional impact specific topics and modes have on 
-the reader. But even his delimited proposal for the inclusion of this topos receives considerable 
-pushback from his immediate successors among the rhetoric oriented poeticians such that the 
-still conjoined topics of preyas and bhakti, and their place in poetic thought, fall entirely out 
-of view. 
-When the conversations resurfaces more than a century later, it is in the court of King 
-Jayāpīḍa in ninth-century Kashmir. Here, two near contemporaries—Rudraṭa and Udbhaṭa— 
-end up proposing, on the one hand, that preyas or non-erotic affection should be treated as a 
-rasa in its own right, or, on the other, that preyas is not a rasa per se but in fact should be 
-associated with its own special poetics of affect called bhāvakāvya. Though both of these 
-discussions begin to articulate what will come to constitute key elements of a bhaktirasa 
-model, as you may have noticed, a discourse concerned with aestheticizing bhakti itself, let 
-alone bhaktirasa, is nowhere articulated explicitly. In fact, the word itself in our sense is absent 
-from the texts. And yet, it is at the very same historical moment, in precisely the same place, 
-that we also suddenly see the emergence of literary production, perhaps beginning with 
-Bhaṭṭanārāyaṇa’s Stavacintāmaṇi, that takes up the lexeme bhaktirasa as a term of art. This is 
-followed shortly thereafter by sophisticated commentarial reflection by learned Śākta-Śaiva 
-exegetes steeped in the new poetic discourses of the day on bhakti and its relation to rasa. 
-As Ben Williams and Hamsa Stainton have discussed at some length,1619 the key 
-formative antecedent to the emergence of a bhaktiśāstra and the theology of bhaktirasa thus 
-1619Of these arguments, only Stainton’s, which developed in dialogue with Williams’s work, is published. See Hamsa Stainton, “Poetry and Kṣemarāja’s Hermeneutics of Non-Dualism,” in Tantrapuṣpañjali: Tantric Traditions and Philosophy of Kashmir, ed. Bettina Bäumer and Hamsa Stainton (New Delhi: Aryan Books, 2018), 339–370, but especially 345–6, 349, 352–53. See also Hamsa Stainton, Poetry and Prayer: Stotras in the Religious History of Kashmir (PhD Dissertation, Columbia University, 2013), which contains some materials on these matters no longer present in the 2019 monograph. 
-1773 
-seems to be locatable in the Kashmir-specific world of the Trika exegetes, especially in the 
-writings of Utpaladeva, Abhinavagupta, and his disciple Kṣemarāja. Here, for the first time, 
-we have nascent indications of bhakti being thought through with a new kind of sophistication 
-that seeks to understand how devotion relates to specific epistemologies and ontologies. As 
-Williams and Stainton have each demonstrated, at a stylistic level, for what seems to be the 
-first time, each of these authors seek to homologize thinking about bhakti concurrently with, 
-on the one hand, Śākta discourses on possession, and on the other, a technical idiom drawn 
-from the philosophy of Sanskrit poetics and aesthetics. As Stainton has explored in his 
-groundbreaking recent monograph on stotra literature, the Trika exegetes are also seriously 
-invested, for the first time in any surviving discourse from the subcontinent, in theologizing 
-the production and performance of devotional verse in terms of its impact on performer and 
-audience.1620 
-Less explicit in our secondary literature are the considerable continuities between the 
-content of this newly theorized discourse on bhakti and the “naïve” theologies of the older 
-textual corpuses on which they are subtly drawing. By way of an illustration, in the opening 
-verse of Utpaladeva’s Śivastotrāvali, echoing the Śivadharmaśāstra, the poet proclaims that 
-on our path, the śivamārga (śivamārge ’smin), the adept is not led (pranīyate) by yoga, 
-austerity, or ritual worship, but rather, he is ruled or directed by bhakti (bhaktir praśasyate).1621 
-As Williams in particular1622 has convincingly demonstrated in an unpublished paper, it is in 
-the Śivastotrāvali and its commentary that, for the first time in the Sanskrit corpus, Utpaladeva 
-1620Hamsa Stainton, Poetry as Prayer in the Sanskrit Hymns of Kashmir (New York: Oxford University Press, 2019). 1621Utpaladeva, Śivastotrāvali 1.18: na yogo na tapo nārcākramaḥ ko ‘pi praṇīyate / amāye śivamārge ‘smin bhaktir ekā praśasyate / 1622 The unpublished paper in question, “Suggesting Similitude: The Śaiva Poetics of Kashmir,” was kindly shared with me. 
-1774 
-and his commentator Kṣemarāja make substantive and repeated use of the term “bhaktirasa”— 
-quite literally the juice or essence of bhakti.1623 While this compound is all but absent from 
-1623Rai Pramadadasa Mittra Bahadur, ed., Śivastotrāvalī Utpaladevaviracitā Mahāmaheśvara-Śrī-Kṣemarāja- viracitavivṛtisametā (Benares: Chowkhamba Sanskrit Book Depot, 2016 [1902]). All of the relevant instances in both the root text of Utpaladeva and Kṣemarāja’s commentary are provided below in the sequence of their occurrence, vs. 1.22–24, 3.11, 5.5, 5.16, 5.22, 9.13, 9.17–18, 14.10, 16.4–6, 17.42, 18.12–13, 20.20: mādṛśaiḥ kiṃ na carvyeta bhavadbhaktimahauṣadhiḥ / tādṛśī bhagavan yasyā mokṣākhyo ‘nantaro rasaḥ // 1.22 // mādṛśair iti / mādṛśaiḥ bhaktitattvajñaiḥ tādṛśī iti alaukikī bhavadbhaktir eva abhīṣṭapradatvān mahauṣadhiḥ kiṃ na carvyeta kiṃ na dhāryeta vicāreṇāsvādyeta iti yāvat / kīdṛśī / yasyāś carvaṇaparāmarśānantaram eva jīvanmuktākhyaḥ anantaraḥ avyavahito rasaś carvaṇānandaḥ // 22 // tā eva paramarthyante sampadaḥ sadbhir īśa yāḥ / tvadbhaktirasasambhogavisrambhaparipoṣikāḥ // 1.23 // tā eva iti / sadbhiḥ bhaktiśālibhiḥ tā eveti asamatvatsamāveśamayyaḥ sampadaḥ paraṃ kevalam arthyante na tu aṇimādyāḥ / kīdṛśyo yāḥ tvadbhaktirasasambhoge bhavatsamāveśāmṛtacamatkāre visrambhaṃ svairaṃ svīkāraṃ puṣṇanti / atra priyāsambhogapoṣikā eva sarvasya sampado ‘rthanītyā ity anuraṇanavyaṅgyopamādhvaniḥ // 23 // citraṃ nisargato nātha duḥkhabījamidaṃ manaḥ / tvadbhaktirasasaṃsiktaṃ niḥśreyasamahāphalam // 1.24 // citraṃ nisarga iti / nātha svāmin idaṃ citraṃ duḥkhakāraṇam idaṃ manaḥ sarvasya heyaṃ yad abhimataṃ tad eva tvadbhaktirasāyanena siktaṃ paramānandamokṣamahāphalam / garjāmi bata nṛtyāmi pūrṇā mama manorathāḥ // 24 // svāmī mamaiṣa ghaṭito yat tvam atyantarocanaḥ // 3.11 // garjāmi bateti / atibhaktirasānandaghūrṇitasyeyam uktiḥ | atyantaṃ rocanaḥ atiśayena priyaḥ / eṣa iti vaktum aśakyaḥ svānubhavasaṃsiddhaḥ / tathā ca atyantarocanaḥ viśvagrāsakatvena atidīptaprakāśavapur yatas tvaṃ svāmī mama ghaṭitaḥ samāveśena mayā’sāditaḥ / tato garjāmi mahāravam uccārayāmi nṛtyāmi harṣaprasarabhareṇa sarvato māyāpramādabhāvadhūnanasāraṃ gātravikṣepaṃ karomi / mama ca manorathāḥ pūrṇāḥ nirākāṅkṣosmi jāta ityarthaḥ / bata iti anuttaracitsvarūpapratyabhijñānād vismayamudrā’nupraveśaṃ dhvanati // 11 // tvatpādapadmasaṃsparśaparimīlitalocanaḥ / vijṛmbheyabhavadbhaktimadirāmadaghūrṇitaḥ // 5.5 // tvatpādapadmeti / tvacchaktyānandena antarmukhīkṛtakaraṇaḥ / vijṛmbheya citsvarūponmajjanādgātraṃ vinamayeya cidguṇībhāvaṃ nayeyam / kīdṛk bhavati sākṣātkṛte yā bhaktirāsavā saiva madirāmadaḥ kādambarīcamatkāraḥ tena ghūrṇito mahāvyāptiṃ lambhitaḥ // 5 // api labdhabhavadbhāvaḥ svātmollāsamayaṃ jagat / paśyan bhaktirasābhogair bhaveyam api yojitaḥ // 5.16 // apīti / labdho bhavadbhāvaḥ tvadaikātmyaṃ yena / ata eva svātmanaḥ śivarūpasyollāsa eva prakṛtaṃ rūpaṃ yasya tathāvidhaṃ jagat viśvaṃ paśyan bhaktirasābhogaiḥ samāveśaprabalacamatkāraiḥ aviyojitaḥ syām // 16 // vācimanomatiṣu tathā śarīraceṣṭāsu karaṇaracitāsu / sarvatra sarvadā me puraḥsaro bhavatu bhaktirasaḥ // 5.22 // vācīti / manomatayaḥ kalpanāpradhānā dhiyaḥ / karaṇaracitāsu buddhikarmendriyakāryāsu / darśanaśravaṇādipūrvakatvāt sarvapravṛttīnāṃ / sarvatra sarvāvasthāsu / puraḥsara ādāv eva sphuran / bhaktirasaḥ samāveśacamatkāraḥ // 22 // nātha lokābhimānānām apūrvaṃ tvaṃ nibandhanam / mahābhimānaḥ karhi syāṃ tvadbhaktirasapūritaḥ // 9.13 // nātheti / sraṣṭāsmi sthāpayitāsmi saṃhartāsmi tathā paṇḍitaḥ śūro yajñavān asmi iti nānāvidhānāṃ rudrakṣetrajñābhimānānāṃ tvam eva cidrūpo nibandhanaṃ kāraṇam / apūrvaṃ nirnimittaṃ kṛtvā svasvātantryeṇaiveti yāvat / vastuto hi tavaiva sarvakartṛtvān na brahmādīnāṃ sraṣṭṛtvādi na vā pāṇḍityādi kasya cit / kevalaṃ tvam eva tatra tatra tathābhimānam utthāpayasi / yathā caiva tathā karhi kadā tvadicchāta eva mahābhimāno viśvātmā cidānandaghanaḥ śiva evāsmīti dṛḍhotsāhāvaṣṭaṃbho bhaktirasena pūrito vyāptaḥ syām / bhaktirasapūrita iti vadato ‘yam āśayaḥ yadāsāditamahābhimānasyāpi samāveśāsvādamayaḥ prabhuviṣaye dāsabhāva evocitaḥ // 13 // paśujanasamānavṛttām avadhūyadaśām imāṃ kadā śambho / āsnādayeya tāvakabhaktocitamātmano rūpam // 9.17 // paśv iti / vyutthānapatitabhedamayīm imām iti sphuṭaṃ bhāntīṃ daśām avadhūya nivārya athaca samāveśaprasaratsarvāṅgāvadhūnanenābhibhūya tāvakabhaktocitaṃ nityoditaparamānandamayamātmano na tu anyasya kasyacid rūpaṃ svarūpaṃ kadā āsvādayeya camatkuryām // 17 // labdhā’ṇimādisiddhir vigalitasakalopatāpasantrāsaḥ / tvadbhaktirasāyanapānakrīḍāniṣṭhaḥ kadā’sīya // 9.18 // labdheti / aṇimādisiddhiḥ prāgvad abhedamayī / ata eva vigalitaḥ śānta upatāpaḥ santrāsaś ca yasya / brahmādīnāntabhedamayāṇimādiyoge ‘pi maraṇāditrāsasyāvaśyaṃbhāvāt / tathābhūto ‘pi tvadbhaktyamṛtapānapramodaparaḥ syām // 18 // jaya bhaktirasārdrārdrabhāvopāyanalampaṭa / jaya bhaktimadoddāmabhaktavāṅnṛttatoṣita // 14.10 // jaya bhaktiraseti / bhaktirasenārdrārdraḥ saraso galito yo bhāva āśayaḥ sa evopāyanaṃ ḍhaukanikā tatra lampaṭa jhaṭity ātmasātkārin bhaktimadenoddāmāḥ garjitā ye bhaktāḥ tadīyena vāṅnṛttena sphūrjatstutimālābhistoṣita // 10 // śuṣkakaṃ maiva siddheya maiva mucyeya vā ‘pi tu / 
-1775 
-Sanskrit scholastic discourse (except at the margins where its existence is refuted in a sentence 
-or so by the Ālaṃkārikas), suddenly in the root text by Utpaladeva, bhaktirasa appears ten 
-times as a term of art. Bhaktirasa is then encountered eleven additional times in Kṣemarāja’s 
-commentary, once even as part of the compound bhaktirasāyana (the resurrection of bhakti) 
-that provides the title for Madhusūdana’s own treatise. And it is at the level of Kṣemarāja’s 
-commentary that at last we have enough parallels and context to begin to discern bhaktirasa’s 
-polyvalent meanings at its moment of irruption. 
-For Kṣemarāja, as his numerous programmatic glosses make plain, bhakti means 
-nothing other than samāveśa, co-penetration or repossession. It is where the god and disciple 
-penetrate into each other’s state of being, such that, in a moment of recognition, two become 
-or resume being one. Our Kashmiri exegete makes sense of the lexeme bhaktirasa in two main 
-svādiṣṭhaparakāṣṭhāptatvadbhaktirasanirbharaḥ // 16.4 // śuṣkakam iti / śuṣkam eva śuṣkakaṃ kriyāviśeṣaṇaṃ śuṣkakaṃ bhaktisamāveśarahitaṃ kṛtvā tādṛśau bhogamokṣau bhedavādināṃ svādiṣṭau niratiśayacamatkāro dhārādirūḍhaś ca yas tvatsamāveśarasaḥ tena nirbharaṃ pūrṇaṃ kṛtvā ata eva śūṣkatānivṛttiḥ // 4 // yathaivājñātapūrvo ‘yaṃ bhavadbhaktiraso mama / ghaṭitas tadvad īśāna sa eva paripuṣyatu // 16.5 // yathaiveti / ajñātapūrva iti janmakoṭimadhye ‘py avidita ayam iti sphuradrūpaḥ bhaktirasaḥ samāveśaprasaraḥ īśāna svatantra tadvad iti jhaṭity ajñātapūrvaḥ yathaiveti yaṃ prakāraṃ tvam eva jānāsīty arthaḥ // 5 // satyena bhagavan nānyaḥ prārthanāprasaro ‘sti me / kevalaṃ sa tathā ko ‘pi bhaktyāveśo ‘stu me sadā // 16.6 // satyeneti / atipraṇayaparicayādiyamuktiḥ / anya iti prārthanāto vyatiriktaḥ sa tathā ko ‘pīti vāgvikalpātītaḥ bhaktyāveśaḥ samāveśakaivalyam // 6 // svādubhaktirasāsvādastabdhībhūtamanaścyutām / śambho tvam eva lalitaḥ pūjānāṃ kila bhājanam // 17.42 // svādv iti / svāduścamatkārasāro yo bhaktirasas tasyāsvādanena stabdhībhūtaṃ calitacāñcalyaṃ yanmanastataścyut cyavanaṃ prasaro yāsāṃ pūjānāṃ viśvārpaṇakriyāṇāṃ tāsāṃ lalito hṛdy ucitas tvam eva cidātmā śambho śreyonidhe bhājanam āśrayaḥ abhimānacarūpahārato samatābhaktibhareṇa kalpitāt / paritoṣagataḥ kadā bhavan mama sarvatra bhaved dṛśaḥ padam // 18.12 // abhimāneti / abhimāno ‘haṅkāra eva caruḥ sthālīpākastasyopahāro bhagavatyarpaṇaṃ parāhaṃbhāvagrahaṇaṃ tataḥ kīdṛśān mama maheśvaraḥ svāmī astīty evaṃ samatāpradhānaḥ yo bhaktirasaḥ sevāprasarastena kalpitāt sampāditāt paritoṣaṃ gataḥ prasannaḥ san bhavan kadā sarvatra mama dṛśo darśanasya padaṃ viśrāntibhūr bhavet galite dehādyabhimāne tvanmayam eva viśvaṃ sākṣātkuryām ity arthaḥ // 12 // nivasan paramāmṛtābdhimadhye bhavadarcāvidhimātramagnacittaḥ / sakalaṃ janavṛttamācareyaṃ rasayan sarvata eva kiṃcanāpi // 18.13 // nivasann iti / ahaṃ bhavadarcanavidhimātre magnacittaḥ āsaktaḥ san paramāmṛtābdhimadhye cidānandasamudrasyāntarvasan sakalaṃ janavṛttaṃ lokaceṣṭitam ācareyaṃ kīdṛk sarvataḥ sarvasyaiva madhyāt kiṃcanāpi alaukikam ānandasvarūpam abhīṣṭaṃ rasayan // 13 // tāvakabhaktirasāsavasekād iva sukhitamarmamaṇḍalasphuritaiḥ / nṛtyati vīrajano niśi vetālakulaiḥ kṛtotsāhaḥ // 20.20 // tāvaketi / bāhyo ‘rthaḥ spaṣṭaḥ / vīrajanaḥ vidāritasaṃsāramahāpaśuḥ bhaktaloko niśi māyāmadhya eva nṛtyati cidvikāsena vilasatitarām kathaṃ tāvakabhaktirasāsavasekāt tvatsamāveśāmṛtasekād iva sukhitāni ānandananditāni marmamaṇḍalāni pāśaḥ sañcayās teṣāṃ sambandhibhiḥ sphuritair āsanamudrāsadṛśaiḥ vetālakulaipaśuhṛdayāc ca dṛkpratyayodayānuvartiśaktiśataiḥ kṛtotsāhaḥ paripoṣitacidabhyudaya iti śivam // 20 // 
-1776 
-ways. Depending on context, either he invokes the Śākta-tinged language of rasa poetics or he 
-takes rasa in its literal sense as a fluid. In other words, on some occasions, he glosses 
-bhaktirasa as the savoring or mastication of co-penetration (samāveśacamatkāraḥ),1624 in the 
-process offering his own fusion of the terms of art from the Śākta Tantras (samāveśa) with the 
-technical language of rasa poetics (camatkāra). In other contexts, Kṣemarāja instead speaks 
-of bhaktirasa as entailing an anointing with flows of nectar (amṛta) that are to be savored. In 
-either case, however, bhaktirasa above all else is being conceptualized as something to be 
-enjoyed (sambhoga, āsvādā). In other words, it is a modality that presupposes a self-reflexive 
-agent who is conscious of the act of tasting, the very sort of agent whose existence classical 
-Vedānta calls into question. As we are about to see, bhaktirasa as term of art animated by many 
-of these same problematics forms the conceptual center of Hemādri’s own seminal 
-bhaktiśāstra. 
-Were we to abandon our search for antecedents to Hemādri’s intellectual project here, 
-however, we would be overlooking an at least equally significant piece of the puzzle, one that 
-argues for the existence of more than surface deep or merely terminological continuities 
-between the “old” bhakti theologization of the Trika exegetes and the “new” Vaiṣṇava theology 
-of aestheticized devotional experience. Missing from the writings of both Williams and 
-Stainton is the recognition, absolutely essential for our purposes, that Kashmir’s nascent bhakti 
-theologizing, combining epistemology, possession, and aesthetics, also incorporates yet 
-another learned innovation of lasting significance behind the thematization of bhaktirasa. 
-Succinctly, especially in the writings of Abhinavagupta, this new bhakti discourse frames itself 
-explicitly as presenting an alternative experience-centric theological medium that undercuts 
-1624See, for example, the commentary on 5.22 where it is glossed bhaktirasaḥ samāveśacamatkāraḥ. 
-1777the chief concerns of Pūrva Mīmāṃsā and its theory of scripture. In other words, in detecting 
-a fundamental tension between classical Advaita Vedānta insomuch as it is founded in 
-Mīmāṃsā presuppositions and bhakti theology, modern scholars like Lance Nelson are giving 
-voice to a line of critique that they in fact share with such quintessentially non-dual theologians 
-as Abhinavagupta. Where Nelson has gone astray is conflating Śaṅkara’s Advaita, treated as 
-center as opposed to periphery, with the multitude of forms of devotionalized Advaitas and 
-quasi-Advaitas that had long made their mark on the subcontinent. 
-Thus, we are going to take some time and delve just a bit into this neglected aspect of 
-the Trika bhaktiśāstra discourse. Succinctly, it is downright eerie how much the nascent 
-articulations of a bhakti discourse vis-à-vis other interlocutors present within these texts 
-prefigure key aspects of Hemādri’s own theologization of bhaktiśāstra as critically dialogical 
-with Pūrva Mīmāṃsā. One is even tempted to propose, though concrete unambiguous evidence 
-is hard to come by, that our very erudite Dharmaśāstrin, who elsewhere makes quite clear that 
-he has read the Dhavanyālokalocana and Abhinavabhāratī and knows Abhinavagupta as an 
-aesthetician, was an active, if in many ways hostile, reader of the scriptural writings of the 
-Trika exegetes. 
-To explore but a single, albeit involved, example, in a collection of verses (1.116–39) 
-in the opening chapter of Tantrāloka, Abhinavagupta approaches the matter or rasa and then 
-of bhakti with staggering cleverness and erudition. As his commentator Jayaratha makes 
-explicit, everything that follows is framed as an all-out attack on Pūrva Mīmāṃsā 
-phenomenology. Abhinavagupta begins by speaking, ever so characteristically, about the 
-goddess who is consciousness (samviddevī).1625 Here however, she is aligned specifically and 
-1625Abhinavagupta, Tantrāloka 1.117–122: asya syāt puṣṭir ity eṣā saṃviddevī tathoditāt / dhyānāt sañjalpasaṃmiśrād vyāpārāc cāpi bāhyataḥ // sphuṭībhūtā satī bhāti tasya tādṛkphalapradā / puṣṭiḥ śuṣkasya 
-1778 
-atypically with the virtue of puṣṭi—fruitfulness or a nurturing nature. Puṣṭi, he then tells us, is 
-itself defined as a process of infusing rasa (sarasībhāva) into one who has become dried up 
-(śuṣka). This very same process of bringing about the bhāva of “being with rasa” within a 
-person is also seen as explaining how rasa comes to suffuse and empower the letters of the 
-Sanskrit alphabet. In turn, it is this infusion of the letters with rasa that makes possible the 
-efficacy of mantras while also accounting for why mantras can assist in making consciousness 
-manifest. On such a theoretical basis, Abhinavagupta suggests to his reader that linguistic 
-statements—which, after all, are made up of letters laden with rasa—should be able to convey 
-this same capacity to “nourish people with rasa.” Jayaratha’s comparatively terse commentary, 
-sadly, has little of substance to say about the nature of this “rasa-fication.” 
-In the extended passage that draws explicitly upon the Gītā, which immediately follows 
-this elliptical discourse on rasa, Abhinavagupta next suggests that the lord of the universe, 
-Bodhabhairava, can be worshipped in two ways.1626 The first of these, which aims at worldly 
-attainments as well as mere access to the heavens, is governed by the logic of injunction. The 
-second, aimed at liberation, is not. As Jayaratha helpfully clarifies, the sole difference is that 
-the first kind of “mundane” worship is conducted without entrance (anupraveśa) into one’s 
-own form (tatsvarūpa). As Abhinavagupta writes elsewhere, this entrance (anupraveśa) into 
-sarasībhāvo jalamataḥ sitam // anugamya tato dhyānaṃ tatpradhānaṃ pratanyate / ye ca svabhāvato varṇā rasaniḥṣyandino yathā // dantyauṣṭhyadantyaprāyās te kaiścidvarṇaiḥ kṛtāḥ saha / taṃ bījabhāvam āgatya saṃvidaṃ sphuṭayanti tām // puṣṭiṃ kuru rasenainam āpyāyayatarām iti / sañjalpo ‘pi vikalpātmā kiṃ tām eva na pūrayet // amṛteyam idaṃ kṣīram idaṃ sarpir balāvaham / tenāsya bījaṃ puṣṇīyām ity enāṃ pūrayet kriyām // Mukund Ram Sastri, ed., The Tantrāloka of Abhinava Gupta, with Commentary by Rājānaka Jayaratha, 12 vols. (Allahabad: The Indian Press, 1918–1938). 1626Abhinavagupta, Tantrāloka 1.123, with the commentary of Jayaratha: tasmād viśveśvaro bodhabhairavaḥ samupāsyate / avacchedānavacchidbhyāṃ bhogamokṣārthibhir janaiḥ // 1.123 // avacchedānavacchidbhyām iti, avacchedaḥ samanantaroktanītyā dhyānādiniyatavidhiniyantritatvam, tadanyathātvam anavacchedaḥ / yad vakṣyati— śādhakānāṃ bubhukṣūṇāṃ vidhir niyatiyantritaḥ / mumukṣūṇāṃ tattvavidāṃ sa eva tu nirargalaḥ // iti / bhagavataś ca etat sāvacchedam api rūpam anavacchinnaparasvarūpānuprāṇitam eva, nahi tatsvarūpānupraveśaṃ vinā kiñcid api siddhyet // 
-1779 
-the heart, which is one’s own form and which is Bhairava, is essentially a special sort of re- 
-possession (samāveśa) experience, where consciousness manifests itself in its real nature 
-within the body. Essentially, what differentiates this from “normal” possession experiences— 
-where a goddess temporarily enters into the individual heart of a specific person—is a matter 
-of the underlying ontology. Unlike with possession, where something “new” takes residence 
-in a heart where it had never been before, in actuality, the goddess who is consciousness is and 
-always was already residing inside of us, within the one heart which all beings share. 
-As we are about to see, in his understanding, for Abhinavagupta and the Trika exegetes, 
-this experience it is virtually inseparable from the theology of bhakti. For Abhinavagupta, it is 
-in large part this centrality of a theology of bhakti, in which, as we shall soon see, there is a 
-dynamism of the appearance of a subdivision of the unified supreme reality into Śiva and Śakti 
-or the worshipper and the worshipped, which then come to relate to each other in a variety of 
-ways, that helps us to differentiate the nondualism of the Trika from that of mere classical 
-Vedānta.1627 As Abhinavagupta writes in the Parātriṃśikāvivaraṇa, commenting upon the root 
-text: 
-1627Abhinavagupta ever so playfully explains this in the Parātriṃśikāvivaraṇa in discussing just what it means when we say a person worships with “supreme bhakti,” at least in a Kaula context, and then makes an offering of themselves (ātmānaṃ nivedayet). Mukund Ram Sastri, ed., The Parā-trimshikā with Commentary. The Latter by Abhinavagupta (New Delhi: Aroma Publishing House, 1991 [1918]), 266–67: “One should worship only with Parā[bīja]/‘the supreme,’ who has the form of the heart. How? Through [supreme/parayā] bhakti, i.e., which consists of the inclination toward the entering into [the state of] ‘consisting of that essence.’ Through bhakti, i.e., through the intrinsically arisen partitioning of the worshipper and worshipped (pūjyapūjakavibhāgena). For, the object of worship creates itself; he is moreover the supreme object/goal, the state of consisting of independent consciousness. On account of the power of the independence of the peerless (anuttara) [reality], he is not inert like a pot. This is the distinction here [in this system].” parayaiva hṛdayarūpayā pūjayet, kathaṃ? bhaktyā tādātmyānupraveśaprahvatātmanā / bhaktyā svayaṃ-kḷptena pūjyapūjakavibhāgena pūjyo hi svayaṃ sṛjyate sa paraṃ svatantracinmayatāparamārtha eva— anuttarasvātantryabalāt na ghaṭādir iva jaḍa iti viśeṣo ‘tra/ “That has been stated in the Pratyabhijñā: ‘The Lord, thanks to his freedom which is absence of duality, by creating a self not devoid of freedom variously representing himself in the forms of Īśa etc. renders the carrying out of practical activity possible’. . . .” taduktaṃ śrīpratyabhijñāyām— svātantryāmuktam ātmānaṃ svātantryād advayātmanaḥ / prabhur īśādisaṃkalpair nirmāya vyavahārayet //. . . . For the translation of the internal citation, see Rafaelle Torella, ed. and trans., The Īśvarapratyabhijñākārikā of Utpaladeva with the Author's Vrtti, Critical Edition and Annotated Translation (Delhi: Motilal Banarsidass, 2002), 122. 
-1780 
-Brahman is a unitary condensation (ekaghana) of the power of bliss; of union and of separation—consisting of a simultaneous pulsation in which is contained the vitality (lit., virility) of the universe;1628 it is great/reinforcing (bṛhat) and the agent of pervasion (vyāpaka), [thus] it is “greatened”/reinforced. 
-It is not, however, as [accepted] in the view of brahman upheld by the teachers of Vedānta, which is not far from sheer nihilism (kevalaśūnyavāda). . . . For precisely this reason, in these śāstras [of our system], and here [in the Parātriṃśikāvivaraṇa] also, because of its primacy, that very heart1629 is indicated as what is to be worshipped. 
-Even those [people] of whom the heart, of which the essence is the pervasion of such a vitality, has not been entered,1630 when, through the application of just such external conduct (bāhyācāra), their restrictive bonds/restrictive injunctions (niyamabandhana) [which engender the state] of being a bound soul are in sequence [gradually] loosening, loosened, becoming torn, and torn asunder, they, of their own accord, become established in the pervasion of that very heart. 
-“Thus, the phrase ‘with bhakti’ [means,] through its secondary signification, through worship is signified the supreme truth/principle. In all rituals, there is the recognition of consisting of that form, because of [those rituals] being a means with regard to entering into the phonemic virility of that [bīja] also, in the manner of the arising of phenomenological phonemes belonging to written script.” iti bhaktyā ca lakṣaṇayā pūjanena paraṃ tattvaṃ lakṣyate— sarvakriyāsv evaṃrūpatāpratyabhijñānam upāyatvāt lipyakṣarasyeva māyīyavarṇavyutpattau tasyāpi ca varṇavīryānupraveśe / 
-“‘One should offer the self’ means that because of the lack of any other thing to be offered, thus, one should cause to be known (vedayet) in its entirety (niḥśeṣeṇa) one’s very self, which consists of the unexcelled state. In accordance with the existence/truth of the unexcelled, here there is the optative in the sense of possibility/bringing into being; for, it is stated: ‘because of the immediate condition of one’s coming to consist of that.’” ātmānaṃ nivedayet– anyasya nivedyasyābhāvāt evaṃ ca ātmānam eva niḥśeṣeṇa niruttarapadaṃ vedayet— anuttarasattānusāreṇa atra saṃbhāvanāyāṃ liṅ - satatam evaṃmayatvenaivāvasthiteḥ iti hi uktam / 
-1628If we take into account the passage that immediately precedes this one in the Vivaraṇa, Abhinavagupta’s wider argument appears to be that the summum bonum of his nondualism is that recognition that the body of god, which has the form of śakti, is the realization that everything has the same nature as everything else (sarvasarvātmakatāvapuḥ). Within this frame, brahman, “which contains the virility of the universe that is Bhairava,” is signified most evidently in the world of human experience by the “core between the two thighs,” in other words, the vagina. Abhinavagupta does not think in simple allegory or usually offer simple encrypted messages but instead deliberately crafts sentences that are polyvocal. Even so, on one semantic level the text here is equating the experiencing of brahman and brahman itself with the penetrative act where the yoni is worshipped during the Kula rite. bhairavarūpasya viśvasya pradarśitayuktyāgamanirūpitanararūpāparābhaṭṭārikāsvabhāvaḥ śāktaḥ tasya hṛdayaṃ sāraṃ śivarūpaṃ parameśvaryā śrīmatparābhaṭṭārikayā samāliṅgitaṃ bhairavaśabdena viśvasya sarvasarvātmakatāvapuḥ śaktirūpaṃ tatsahitasyātmanaḥ prati ekasya bhedasya nararūpasya etāvacchivātmakaṃ hṛdayaṃ pareṇābhedena sarvātmakatāyā eva tena tayā ca vināsya bhedasyaivāyogāt ityuktaṃ prāk / suśroṇi ityāmantraṇam— aśobhanamāyātmakatāyām api anapetaṃ śuddhacinmayaṃ yadetat śroṇyāṃ hṛdayaṃ yonirūpam uktaṃ / 1629Once again, the heart is all at once the experience of supreme consciousness within every human being, the mantra sauḥ, and the yoni, and its worship can be gnostic, ritualized through the manipulation of syllables, and entail the kula rite where ritual sexual intercourse takes place. 1630Depending on the level at which the exegesis is being conducted, which is largely keyed to specific audiences, this can be either a person who has not had a gnostic experience of supreme consciousness or a person who has not themselves performed Kaula sexual rites, perhaps out of inhibition (śaṅkā) engendered by socially normative attitudes that frown on such activities. 
-1781 
-It is not, however, the case that the very entering into that heart is conceptualizable in language such as “I have entered into that heart, this [and not some other thing] is the goddess Parā”. . . . But, this has been stated [by me] at length: 
-“For, the bonds of śāstra do not constrain the heart. Nor indeed can this world defile consciousness. There would only be that abundant condition that conveys radiant dissolution, its complete form being the path of one’s manifested real essence.” 
-As has been stated by me in a hymn: 
-“Through the possession (āveśāt) that is/ that is characterized by/ devotion (bhakti) to you, in an instant (kṣaṇa), this state of being, manifestly, completely overpowers the heart [of the person] in whom the inclinations toward the great effulgence have [already] arisen.”1631 
-In this passage, Abhinavagupta offers many messages to his readers, including a crash 
-course in nondualist epistemology, a particular encoding and deployment of the bīja mantra 
-sauḥ, and a promotion of Kaula sexual ritual. Neglecting this semantic richness, we will 
-concern ourselves with one narrow facet of Abhinavagupta’s argument, namely, the opposition 
-he sets out to establish between the restrictive bonds or binding injunctions (niyamabandhana) 
-that define the realm of śāstra and create the state of ontological bondage, and the effulgent 
-true nature of “the heart,” which can be entered into in a single transformative instant. Even 
-without engaging in the sexual practices of the kula rite, which are reserved for the most adept 
-of adepts, Abhinavagupta slyly suggests that, because the state of ontological bondage is in the 
-end a mode of cultural consciousness that engenders an obsession with the pure and impure, 
-1631Abhinavagupta, Parātriṃśikāvivaraṇa, 221: antargataviśvavīryasamucchalattātmakavisargaviśleṣānanda- śaktyaikaghanaṃ brahma bṛhat vyāpakaṃ bṛṃhitaṃ ca / na tu vedāntapāṭhakāṅgīkṛtakevalaśūnyavādavidūra- vartibrahmadarśane iva. . . . ata evāmīṣu śāstreṣu atra ca mukhyatayā tad eva hṛdayaṃ pūjyatayopadiṣṭam / ananupraviṣṭatathāvīryavyāptisārahṛdayā api tāvanmātrabāhyācārapariśīlanenaiva kramavaśaśithilībhava- cchithilitavidaladvidalitapāśavaniyamabandhanā etaddhṛdayavyāptiṃ svayam eva samadhiśerate / na hi etaddhṛdayānupraveśa eva etaddhṛdaye ‘nupraviṣṭo ‘smi iyaṃ devī parā ity etacchābdavikalpakalpyaḥ asya ca pratyuta hṛdayāntaramārgaṇād ity uktaṃ vistarataḥ api tu saṃkocayanti hṛdayaṃ nahi śāstrapāśā no saṃvidaṃ kaluṣayed yad ayaṃ ca lokaḥ / samyaksvabhāvapadavīparipūrṇarūpā saivollasallayabharā bharitā sthitiḥ syāt // yad uktaṃ mayaiva stotre—bhavadbhaktyāveśād viśadatarasaṃjātamanasyaṃ kṣaṇenaiṣāvasthā sphuṭam adhivasaty eva hṛdayam / 
-1782 
-merely by adopting a mode of conduct (bāhya[śāstra]ācāra) that breaks down the 
-normalization and embodying of such counterproductive attitudes, the practitioner is gradually 
-freed from bonds that restrict his agency. As in the opening of the Tantrāloka, here, 
-Abhinavagupta makes evident that the real form of worship that takes place when one enters 
-into the heart does not fall under the dominion of “the bonds of śāstra” and thus is in no way 
-conditioned or governed by its strictures. As he clarifies, by quoting a lost snippet from his 
-own devotional poetry, in his model, it is āveśa that is responsible for the purification of the 
-mind. From Abhinavagupta’s perspective (the Sanskrit is ambiguous), this āveśa either is itself 
-the same as theistic bhakti or produces theistic bhakti. Once the mind has become clear through 
-power of āveśa, the state (avasthā) of entering into the heart occurs, of its own inexorable 
-accord, in an instant. And, as Abhinavagupta suggests, what makes bhakti and the instant and 
-spontaneous transformation it engenders possible is nothing more and nothing less than the 
-emergence of a sudden inclination or reorientation that directs a person’s consciousness 
-towards the Lord. All these conceptualizations of bhakti are essentially antithetical to the 
-models we find proposed in the Vaiṣṇava writings of figures such as Rāmānuja, for whom 
-bhakti itself is inseparable from unbroken extended acts of mental focus of which precious few 
-people are capable. And yet, all of these formulations, albeit somewhat tempered to conform 
-to the universal dharma ethos, will occupy a place of conceptual centrality in Hemādri’s 
-bhaktiśāstra. 
-Let us turn back briefly to the first chapter of the Tantrāloka and resume our exploration 
-of the fundamental agonism that characterizes these two ritual modalities. On the one hand, 
-there is the desiccated realm of rule-governed śāstra, which offers a semblance of a 
-relationship with the gods through the medium of ritual. On the other, there is the emancipatory 
-1783 
-rasa-laden experiential mode of worship engendered by bhakti. As Abhinavagupta 
-explains,1632 while it is all well and good to consider the worship of lesser deities, such as Indra, 
-to be governed by injunctive procedures, when it comes to real worship that engages the 
-supreme reality “just as it is,” the fundamental categories of the śāstra, especially those that 
-organize the Pūrva Mīmāṃsā account of ritual (such as its threefold theory of bhāvanā, the 
-sacrificer, the substance, and even the notion of the devatā) become irrelevant. Whenever the 
-intended object of worship is “the actual nature of things,” regardless of the external form of 
-the deity to which the bhakta addressed his devotion, Abhinavagupta argues, what really takes 
-place is the entrance (anupraveśa) into the heart of the Bhairava who is consciousness. This 
-real worship is nothing other than the recollection of the unity of one’s own nature as “I” with 
-the supreme “I” of Bhairava. Instead of engaging with Mīmāṃsā reading strategies, which 
-offer their own cognitive models of how injunctions engender action and within which one 
-strictly identifies what is the main substance, the devatā, and so forth within a given ritual 
-based on their respective function, as hinted at by grammar and modes of formal expression, 
-Abhinavagupta asserts that the real analytical act that brings liberation is nothing other than 
-witnessing that the devatā, the substance, the sacrificer, and the sacrifice are one and the same. 
-The means of doing this is of course samāveśa, “the repossession of one’s own nature.” This 
-is an experience that is inseparable from the affective manifestation of bhakti as it acts within 
-and upon the practitioner’s body and subjectivity. While Abhinavagupta himself does not use 
-1632Abhinavagupta, Tantrāloka, 1.125–34: tenāvicchinnatāmarśarūpāhantāprathātmanaḥ // svayaṃprathasya na vidhiḥ sṛṣṭyātmāsya ca pūrvagaḥ / vedyā hi devatāsṛṣṭiḥ śakter hetoḥ samutthitā // ahaṃrūpā tu saṃvittir nityā svaprathanātmikā / vidhir niyogas tryaṃśā ca bhāvanā codanātmikā // tadekasiddhā indrādyā vidhipūrvā hi devatāḥ / ahaṃbodhas tu na tathā te tu saṃvedyarūpatām // unmagnām eva paśyantas taṃ vidanto ‘pi no viduḥ / calanaṃ tu vyavacchinnarūpatāpattir eva yā / etad api tatratyena granthenaiva saṃvādayati / devān devayajo yāntītyādi tena nyarūpyata // sarvatrātra hy ahaṃśabdo bodhamātraikavācakaḥ / sa bhoktṛprabhuśabdābhyāṃ yājyayaṣṭṭatayoditaḥ // yājamānī saṃvid eva yājyā nānyeti coditam / na tvākṛtiḥ kuto ‘py anyā devatā na hi socitā // vidhiś ca noktaḥ ko ‘py atra mantrādi vṛttidhāma vā / 
-1784 
-this term in such a manner,1633 in the hands of his most important disciple, Kṣemarāja, it is 
-precisely this confluence of concepts that, as we have just seen, will come to be labelled 
-“bhaktirasa.” 
-As we have kept reiterating, difficult and distant as these texts might have seemed, 
-we have delved deep into the world of the Trika’s greatest exegetes for a very practical and 
-surprising reason. Stripped of their Śākta connotations, the rhetorical and conceptual elements 
-Abhinavagupta has just articulated will form a key part of the conceptual architecture that 
-organizes Hemādri’s bhaktiśāstra. When our śrīkaraṇeśvara sets out to theorize the nature of 
-bhakti—which, against his Vaiṣṇava formative antecedents, begins as nothing more than a 
-naive inclination or orientation directed towards god—he will also decide that it is two-fold. 
-For Hemādri, as we shall see, bhakti is subdivided between a range of lower modes of worship 
-governed by a logic of injunction, analogical to the one offered by Mīmāṃsā, and a higher 
-realm of affectivity, often arising in an instant of its own accord. This later domain 
-encompasses what Hemādri will call bhaktirasa. But, whereas for Abhinavagupta, the role of 
-offering a supercessionary hermeneutic that breaks the shackles of śāstra and overrides the 
-project of Mīmāṃsā is fulfilled by drawing upon Kaula transmissions even more esoteric than 
-mainline Tantras that valorize pure experience as a mode of possession, for Hemādri, 
-effectively, this exact same conceptual function is carried out through a creative and highly 
-unorthodox redeploying of the philosophy and mechanics of aesthetic experience emerging 
-from the discourses of dramaturgy. It is to these sources, and their much-misunderstood role 
-in the making of Hemādri’s bhaktirasa theology, that we will now turn. 
-1633Abhinavagupta himself makes use of the term bhaktirasa in at least three of his works: the Tantrasāra, Tantrāloka, and his commentary on the Gītā. In each case, however, his meaning is less than transparent, and it is essentially ignored by the commentator. It would be difficult to determine what he intends in using this term of art in the absence of the broader corpus and the commentary of his disciple. 
-1785 
-Inventing Bhaktiśāstra: Reevaluating the Aesthetic Background of the Muktāphala and 
-Kaivalyadīpikā 
-Both among Sanskritists and scholars of Indian religions, the reception of the Muktāphala and 
-Kaivalyadīpikā is almost entirely comprised of the quaint observation, usually offered in 
-passing, that the text and its commentary present us with the first place in the history of Sanskrit 
-thought where bhakti is treated as a rasa. This “recognition” has been primarily deemed 
-significant by two at times overlapping scholarly constituencies. On the one hand, there are 
-scholars of Indian aesthetics who have taken as their focus historicizing the development of 
-rasa theory in its various iterations. On the other, there are scholar-practitioners of Gauḍīya 
-Vaiṣṇava traditions, especially those who have dedicated their careers to exploring the 
-theology of Rūpa and Jīva Gosvāmin, whose primary interest is in recovering a “prehistory” 
-of those aspects of these older conversations that are pertinent to their own lineages. For 
-scholars of aesthetics, like V. Raghavan or Sheldon Pollock, “The Necklace of Pearls” 
-(Muktāphala) is significant as a site of innovation within poetic discourse for two major 
-reasons. First, against the authority of figures like Daṇḍin and Abhinavagupta, it for the first 
-time posits bhakti as a legitimate rasa in its own right, defends the concept, and then provides 
-us with an array of illustrations of how the rasa works. Second, in much the same manner that 
-Bhoja’s Śṛṅgāraprakāśa had done for śṛṅgāra, the Kaivalyadīpikā is important because it 
-theorizes bhakti rasa as the dominant mode underlying all forms of experience. Within this 
-reframing, as we shall see, a single underlying bhaktirasa is then in turn sub-speciated into the 
-nine rasas familiar to the late classical tradition of Sanskrit aesthetics. As scholars of literary 
-theory observe, the end effect of these innovations is to build a bridge between the disparate 
-1786 
-worlds of the poeticians and devotees, a theological agenda that is perceived as somewhat 
-eccentric to the usual imagined focus of mainline Sanskrit poeticians. 
-In contrast, scholars of Gauḍīya Vaiṣṇava theology tend to be rather uninvested in 
-periodizing this Ālaṃkārika prehistory, instead focusing their attention on making sense of the 
-development of the mechanics of the Muktāphala’s application of bhakti rasa, especially 
-inasmuch as they strongly prefigure the intellectual project of Rūpa and Jīva Gosvāmin and 
-the rāgānugā praxis of early modern north Indian Vaiṣṇava traditions. As David Haberman, for 
-example, explains in the preface to his translation of Rūpa’s Bhaktirasāmṛtasindhu: 
-The real pioneer in presenting bhakti as a distinctive rasa seems to have been Vopadeva, a thirteenth century Marathi writer. In a work entitled the Muktāphala, Vopadeva outlines what is most likely the first comprehensive interpretation of bhakti as rasa. In the eleventh chapter of this work, he establishes there are nine types of devotees, each associated with one of the nine rasas (Bharata’s eight, plus śānta). He also accepts the standard list of nine sthāyibhāvas. Detailed analysis is not provided; instead, Vopadeva simply illustrates each of the nine types of devotional rasas and concomitant devotees with illustrations from the Bhāgavata Purāṇa. 
-The work begun by Vopadeva is furthered by Hemādri, a contemporary who wrote a commentary on the Muktāphala entitled the Kaivalyadīpikā. In this text Hemādri maintains that a rasa is an intensified bhāva, and defines a devotee as one who experiences bhakti- rasa. Although the treatment is not extensive, Hemādri applied the various components of Bharata’s rasa-sūtra to Vaiṣṇava bhakti. Emotions directed towards Viṣṇu are declared to be the means of attaining him. Such emotions become the sthāyi-bhāvas of bhakti-rasa, here too the standard list of the sthāyi-bhāvas of the nine rasas is accepted. Viṣṇu and his devotees are listed as the Substantial Excitants (ālambana vibhāvas) of bhakti-rasa, and the things related to Viṣṇu. such as his deeds, are the Enhancing Excitants (uddīpana vibhāvas). The traditional anubhāvas and vyabhicāri-bhāvas, understood here as applying to the devotees of Viṣṇu—complete his treatment. Although the presentation of bhakti-rasa by Hemādri is not nearly as detailed as that of Rūpa, his work must have been of seminal importance for the latter, who clearly knew of the Kaivalyadīpikā.1634 
-Like many of his peers, Haberman has briefly alluded to the fact that Vopadeva’s 
-“comprehensive interpretation of bhakti as rasa,” however lacking it may be in elaboration, 
-1634David Haberman, The Bhaktirasāmṛtasindhu of Rūpa Gosvāmin (Delhi: Indira Gandhi National Centre for the Arts, 2003), xlviii. 
-1787commences in the Muktāphala’s eleventh chapter. In a similar spirit, he also laments that “the 
-presentation of bhakti-rasa by Hemādri is not nearly as detailed as that of Rūpa.” In spite of 
-such apparent inadequacies, however, from virtually everything that has been written about 
-these two works, a reasonably informed reader would be inclined to assume that Hemādri and 
-Bopadeva’s treatise primarily seeks to situate itself within the world of Sanskrit aesthetic 
-philosophy and that its main innovation, presenting a theology of bhaktirasa, lies at the center 
-of its interpretive project. The problem is that both of these assumptions, though virtually 
-ubiquitous in everything that has been written on these texts, are fundamentally at odds with 
-the actual objectives outlined by the text itself. 
-In actuality, the Muktāphala and Kaivalyadīpikā are not really a treatise on bhaktirasa 
-at all. This recognition offers a cogent explanation for the otherwise bizarre reality that in a 
-treatise purportedly “about bhaktirasa,” any discourse concerned with bhaktirasa is entirely 
-absent from work’s first ten chapters. Instead, Hemādri has written what is better understood 
-as a more comprehensive work of bhaktiśāstra, in the later part of which an Ālaṃkārika- 
-influenced methodology is strategically deployed. Indeed, a strong case can be made that the 
-Kaivalyadīpikā primarily understands itself more generally as a work of non-dual devotional 
-Vaiṣṇava theology. As we have just seen, though largely unfamiliar to the modern reader, 
-though sustained śāstric reflections of this sort were virtually unheard of, this core approach 
-of linking devotion and non-duality was hardly unusual. More specifically, the Muktāphala 
-and Kaivalyadīpikā set out to establish the primacy of bhakti in religious life, both within 
-domains where bhaktirasa logics do not apply as well as within the affect laden spaces where 
-bhaktirasa governs practice. Furthermore, it does so in the service of articulating how the 
-Bhāgavata Purāṇa in particular provides seekers after both bhukti and mukti—of all different 
-1788 
-sorts and capacities—with all the resources they need to either ascend to the higher realms or 
-become liberated. To this end, in place of ritual, knowledge, or hard-won attainment through 
-askesis as transformative and salvific modalities, Hemādri will ultimately privilege the 
-emotional experiences of ordinary people as lying at the heart of religion. It is not cultivating 
-super-human capacities but refining all too human emotional modalities that makes it possible 
-to connect with the divine, not only as sacred personality but as a presence within oneself. 
-Moreover, from Hemādri’s perspective, the work that religious texts and religious experience 
-performs is not founded on an essentialized universal spirituality, but is in actuality largely 
-dependent on the highly specific nature of the given audience in any particular circumstance, 
-whose concrete and contingent relationship with the material is determinative of its intended 
-impact. 
-The paradox here is that at the same time that religion becomes internalized and 
-personalized, the Kaivalyadīpikā also seeks to demonstrate that bhakti’s awesome power is 
-always mediated through a formalized social framework that in no way presents a challenge to 
-a variegated and hierarchical household-centric world order centered upon the vision of the 
-dharmanibandhas, but in fact emerges out from them organically. In this regard, it offers both 
-an expansion and refinement of the Caturvargacintāmaṇi’s theistic reimagining of the nature 
-of scripture and śāstric commentary and of participation in religious practices as hinging upon 
-the cultivation of an inner guiding voice that, when one is presented with choices, assists one 
-in recognizing the “right” way to proceed. It is while looking for a source of codified and 
-“objective” standards for determining the “right kinds” of experience, after experience has 
-been valorized, that Bopadeva and Hemādri arrive at the brilliant insight that the dramaturgical 
-1789 
-tradition provides just the sort of resources, in theory at least partially accessible to anyone, for 
-disciplining human experience in alignment with shared norms. 
-Once one recognizes that the Muktāphala and Kaivalyadīpikā are not in any transparent 
-manner primarily scholastic works composed in the service of rethinking the history of Sanskrit 
-poetics and promoting a new paradigm of bhaktirasa, we basically have to critically reevaluate 
-their academic reception in order to see what went awry. The logical place to begin is with the 
-richest treatment and closest reading to date of both texts. This is found in Sheldon Pollock’s 
-magisterial Rasa Reader, where it forms part of an interpretive project of writing a history of 
-the evolution of the discourse on rasa in Sanskrit poetics.1635 Taking as our jumping off point 
-Pollock’s translations, we are going to work backwards through the Muktāphala’s eleventh 
-chapter on bhaktirasa, beginning with Hemādri’s much overlooked elevation of literature (by 
-which he really means the Bhāgavata) over drama, which leads directly into his defense of 
-bhakti as a rasa. Only then will we return to Hemādri’s initial articulation of the bhaktirasa 
-model, introducing into the conversation passages in this chapter omitted by Pollock as they 
-are irrelevant to his purposes. What will begin to emerge is the need for a reevaluation of the 
-nature of Hemādri’s debt to the poetic traditions that came before him, read in terms of a highly 
-strategic use of Ālaṃkārika materials that is largely divorced from their original intended. 
-Moreover, Hemādri typically engages in this activity in the service not of literary-aesthetic but 
-pointedly theological ends. For now, though, let us begin mid res, encountering Hemādri in 
-Pollock’s translation, as he sets out to reframe the nature of rasa discourse in general and 
-justify bhakti as rasa in particular: 
-H: I would add that when rasa is conveyed by literary compositions, it tastes much sweeter than when it is displayed through dramatic acting. To quote: “the means of rasa 
-1635Sheldon Pollock, A Rasa Reader: Classical Indian Aesthetics (New York: Columbia University Press, 2016). 
-1790 
-are twofold: a poet’s speech and dramatic acting. The former is superior, since it comes about through the grandeur of the narrative’s power.” 
-Now, Abhinavagupta and Hemacandra are wrong to argue that “the same thing can be said of devotion [that it is not a full-blown rasa].” For we have demonstrated that devotion is indeed a rasa, and to deny it, despite the presence of the full complement of factors, is merely the last resort of stubbornness. And there is no point in objecting that, although devotion may conform to a rasa formally, it fails to achieve the status of rasa because it is not something universally accessible. For if that reason really proved anything, then all rasas would cease to be rasas. For when ritualists and bloodless interpreters of the Veda enter into the theater they are nothing but boors, given their incapacity for aesthetic rapture. Similarly, men who have attained spiritual peace, religious celibates, and others like them are outsiders to the savoring of the erotic rasa. Men of intense passion are incapable of relishing the peaceful rasa, while people who have never felt the sting of grief sit stone-faced when they should be savoring the tragic. Since, accordingly, only people with the relevant predispositions are capable of relishing rasa, the view that devotion is a rasa is quite unobjectionable.1636 
-To one not familiar with the wider rasa discourse, Hemādri appears to have anchored 
-his initial argument concerning “the superiority of poetic speech to dramatic acting” on a stance 
-he has inherited from long standing tradition. Again, however, appearances can be deceptive. 
-Hemādri’s preferred privileging of rasa in poetry over rasa in dramatic performance is at best 
-atypical, for rasa theorization in fact originates in a dramaturgical context. As Sheldon Pollock 
-notes in his apparatus, Hemādri’s preferred authority here is entirely unknown to us, though 
-part of his argument is also in evidence in the writings of the infinitely interesting but again 
-highly eccentric eleventh-century King Bhoja Paramāra of Dhārā. One has only to glance at 
-Bhoja’s articulation of this same concept, again made accessible to us through Pollock’s 
-anthology, to recognize just how different his concerns are from those in which Hemādri is 
-invested. In the Śṛṅgāraprakāśa, available to us in Pollock’s translation, Bhoja writes: 
-When displayed by skilled actors in correctly performed dramatic acting, it [rasa] can be ascertained by the audience; when properly declaimed by great poets in their compositions, it [rasa] can become accessible to the minds of the learned. However, things are not so sweetly savored when they are actually perceived as when they are cognized through the language of the masters of language. To quote: “A subject does 
-1636Pollock, A Rasa Reader, 288–89. 
-1791 
-not expand the heart so powerfully when we see it portrayed as when it flashes forth from the words of great poets declaimed with art.’” Therefore, we prize poets far more than actors, and poetry more than dramatic acting.1637 
-Like virtually all of the tradition of classical Alaṃkāraśāstra, Bhoja is concerned with 
-talking about the highly cultivated aesthetic experiences of an elite comprised of connoisseurs 
-of the arts. Within this circumscribed domain, rasa is understood to be “accessible primarily 
-to the mind of the learned.” The more learned or cultivated a person is, the more completely 
-they can appreciate a whole range of rasa suffused experiences. “Literary” production, 
-typically of a highly arcane sort, penned by a select group of masters of language, is thus 
-deemed superior to mere theatre precisely because it does not have to speak to a wider 
-demographic, among whom true rasa experiences are attained at best fleetingly and who thus 
-need to be kept entertained by other types of rhetoric and plotting. Serious poetry by serious 
-poets can therefore focus its efforts and attention on crafting tableaux that trigger these rarefied 
-experiences in their effete readership. As Bhoja ultimately argues, great art can provoke these 
-reactions in the right sorts of people because the authors of such works had vast reservoirs of 
-rasa capacity within themselves that they have transferred into their work. A great artist, 
-however, is not merely anyone who has had a lot of life experiences and feels things deeply 
-within their heart, just as great writing is not merely any old grouping of words that possess 
-sentimental value. Even more than nāṭaka, kāvya is a special type of highly skilled literary 
-production that in order to be even accepted as poetry has to navigate through a myriad of 
-shared conventions. In order for Sanskrit poetry to be “felt” such that one arrives at the intended 
-impact of the verse, very often it first has to be decoded and thought through using a range of 
-scholarly analytical tools. It is also important that, until Ānandavardhana and Abhinavagupta, 
-1637Pollock, A Rasa Reader, 120–21. 
-1792 
-poetry and its impact had been primarily theorized at the level of the workings of the individual 
-verse, especially in terms of the cognitive impact of particular types of literary figures and 
-metaphorical constructions. Even when we reach the Kashmir revolution of poetic theory, 
-though there is much talk, as Lawrence McCrea has shown, heavily informed by Pūrva 
-Mīmāṃsā,1638 of the overall structural effect of works of literature taken as a whole as 
-conveying a unitary rasa, hardly any attention is given to the power of “narrative,” as such. 
-And again, it must be emphasized, the whole discourse of aesthetics in general and rasa in 
-particular is seen as being pertinent only in relation to a delimited body of intricately crafted 
-works of “high literature.” 
-In contrast, Hemādri, following his lost authority, prefers “literature,” very loosely 
-construed, over drama, not because kāvya abounds in verbal ornamentation that pleases a select 
-group of elites called rasikas, but apparently on account of the intrinsic power of narratives to 
-convey a range of rasa experiences to a wide spectrum of people. Implicit in this theory is a 
-thoroughgoing repudiation of the virtues of literary connoisseurship that lay at the very heart 
-of the Sanskrit cosmopolis. Hemādri’s model privileges narrative—a topic of little 
-consequence in the metadiscourse on kāvya—over everything real literary critics think you 
-should care about. Even more importantly, it rejects the very idea that there exists a special 
-class of ideal “readers” who have cultivated a special kind of relationship to works of literature 
-and have refined their palates such that they can sample any sort of rasa. As Hemādri’s 
-evocative examples make clear, when ritualists and bloodless interpreters of the Veda go to the 
-theatre, they do not feel anything, perhaps because they have never experienced anything of 
-1638Lawrence McCrea, The Teleology of Poetics in Medieval Kashmir (Cambridge, MA: Harvard Oriental Series, 2009). See especially the chapter entitled “Mīmāṃsā and the Teleology of Language,” which remains one of the best introductions to Mīmāṃsā exegetical methods. 
-1793 
-consequence and are rasa impaired. Other types of people are only capable of feeling things 
-that align with their preexisting temperaments and experiences. Contrary to the arguments of 
-someone like Abhinavagupta, who sees the “mastication of the different flavors of 
-experiences” (carvaṇā) as preparing the adept for tasting the supreme reality, from Hemādri’s 
-perspective, those with one type of religious attainment, who, for example, savor śānta rasa, 
-cut themselves off from the ability to appreciate the eros that is its antithesis, while, on the 
-other hand, passionate men cannot even vicariously taste the flavor of this kind of peace. 
-In other words, there is no ideal reader, or as Hemādri puts it, “only people with the 
-relevant predispositions are capable of relishing [a particular] rasa.” From this presupposition 
-it thus follows that how the Bhāgavata—for this what Hemādri really means when he speaks 
-of literature driven by narrative—teaches and impacts a person is entirely dependent on that 
-person’s mental and emotional characteristics. It is these extra-textual features that determine 
-the reader’s relationship with the text. As you have recognized after having struggled through 
-the ending portions of our previous exploration of the sarvaśāstropasaṃhāra, this model of 
-the experience of the “rasika” operates in a similar way, and for similar reasons, to how a 
-particular Brāhmaṇa benefits from his encounters with a specific Vedic text. Just as what is 
-pertinent to any given reader in a Veda is not an intrinsic property of the text itself but 
-determined by specific relationships, questions of whether the śākhā is “his own,” in which 
-case it provides him with general ritual forms, or someone else’s, and thus can supply only 
-points of comparison and particular ritual details, what rasas in the text resonate with a given 
-reader is a question of that reader’s initial predilections. We have only tackled a single passage, 
-and already at virtually every turn, Hemādri presents us with the semblance of an invocation 
-1794 
-of “poetic tradition,” while at the same time consistently offering a perspective that is basically 
-divorced from its contents. 
-With these observations, as we continue working backwards, we are ready to encounter, 
-in Pollock’s translation, Bopadeva and Hemādri’s initial foray into the world of rasa theory. 
-The Section on the Devotee[s] of Vishnu. First, the definition of “devotee,” and the various types. 
-M: Whoever in this world find their thoughts directed to Krishna just once,1639 if only to his lotus feet, and thereby become enamored of him, if only of his qualities, will become devotees. They will have undergone all expiation and so will never, even in their dreams, behold Yama, god of death, or his noose-bearing minions. 
-There are nine kinds of devotees, precisely because the experience of the devotional rasa has nine forms: the comic, erotic, tragic, violent, fearful, macabre, peaceful, fantastic and heroic. Such are the general definition and the varieties of the devotee in the Pearls. 
-H: Devotion may arise either from scriptural injunctions or spontaneously, but at all events, when it reaches the highest pitch it becomes rasa. . . . One becomes a devotee from the experience of devotion, in the same way one becomes a satisfied person from the experience of satisfaction. There are nine sorts of devotee by virtue of the nine modalities of rasa. In other words, the comic and the rest, when employed with respect to the Blessed One, achieve the state of being rasa, given that all those emotions are encompassed by the definition of devotion, as the scripture tells us (“Therefore, one must by some means or other direct one’s thoughts to Krishna”).1640 
-In the admittedly brief analysis that precedes his translation, Pollock spends a good 
-deal of time trying to determine, in the usual fashion of an Ālaṃkārika, whether or not 
-Bopadeva and Hemādri believe that rasa is “present” in the character, the play itself, or in the 
-audience. While pedagogically useful to Pollock’s larger project of historicizing this trend 
-within elite rasa discourse, in terms of the Muktāphala and Kaivalyadīpikā itself, such an 
-inquiry is basically missing the point. Pollock is so busy masterfully attending to what sort of 
-1639As we shall see further on in our inquiry, here Hemādri is referencing the opening of chapter 5 of the Kaivalyadīpikā, which explores the difference between enjoined and non-enjoined bhakti. 1640Pollock, A Rasa Reader, 287. 
-1795 
-subtle interventions these texts seek to make in ongoing intellectual conversations that it has 
-not really registered for him that what the text is doing in broader terms is something akin to 
-taking up a sledgehammer, smashing the edifice poetic knowledge into tiny bits, and then 
-picking select pieces out of the resulting ruin. 
-Unlike being a sādhaka—here, perhaps usefully translatable as “striver,” which is 
-predicated on a deliberate choice that then demands intense self-cultivation and personal effort, 
-in this paradigm being a bhakta is simply a matter of “directing one’s thoughts to Kṛṣṇa,” even 
-for a single instant, and becoming enamored of him. It is then this experience (anubhava) of 
-bhakti that becomes transmuted into the different rasas, whose content is determined by the 
-precise nature of the relationship the bhakta has with the Blessed Lord. Bhaktas are made, not 
-born. As their bhakti becomes more and more fundamental to their general orientation to the 
-world, their bhakti becomes rasa and they become rasikas. Recognizing rasa, in other words, 
-has little to do with superior knowledge or understanding, let alone mastering a canon of 
-heavily theorized poetics. Instead, becoming a rasika—in the sense of someone who tastes 
-rasa—is founded on a person having a superior order of personal experiences. Even within the 
-realm of privileging lived experience, however, there is no such thing as a general rasa 
-connoisseur analogous to his aesthetician counterpart, because an individual bhakta relates to 
-the Blessed Lord only in accordance with the delimited capacities and proclivities that are 
-relevant to his particular subjectivity and experiences. And even among these, out of the nine 
-rasa modalities, or so Hemādri asserts, because such a stance comes baked into his ontology, 
-several of them, the most tāmasic, are not capable of providing the bhakta with any deeper 
-benefits. 
-1796 
-As we will see momentarily, the primary function of bhaktirasa theorization and its 
-manifold speciations in the Kaivalyadīpikā is that it provides Hemādri with the technical means 
-of analyzing experience in terms of a delimited canon of “means” (upāya), whereby someone 
-can direct one’s thought—or more literally “enter”—Kṛṣṇa. Both conceptually and 
-rhetorically, in the Kaivalyadīpikā, these means and their explanation are subordinated to and 
-basically presuppose the discussions found throughout the first half of the text. These take as 
-their focus such topics as the nature of the godhead in all its manifold manifestations, the nature 
-and importance of devotion, its superior value to other modes of encountering the world, 
-understanding the circumstances that engender devotion, and finally, understanding how and 
-why devotion can affect transformation and salvation. Most directly, as Hemādri shows us 
-even in the passages highlighted by Pollock in his translation, the eleventh chapter on Viṣṇu 
-bhakti—where a general theorization of rasa is presented—is dependent conceptually on 
-chapter 5 of the Kaivalyadīpikā.1641 As we shall see momentarily, the proof text in question 
-opens the fifth chapter and provides it with its core problematic, while the distillation from the 
-commentary introduces us to the conceit of “bhakti by injunction” versus “self-arising bhakti” 
-that orders the entire discussion that will follow. 
-Before we explore this critical part of the Kaivalyadīpikā, however, it is worth taking 
-a moment to attend to some key aspects of the discussion on rasa that Pollock’s selection 
-choices have elided. Especially significant is what the text has to say about the sort of end or 
-goal (sādhya) that bhaktirasa ultimately serves. Perhaps unsurprisingly, given Pollock’s 
-1641In fact, even in the small snippets we have just examined, Hemādri has invoked this part of his text twice. Once, this is accomplished by invoking the proof text from the Bhāgavata, which Pollock has rendered as “Therefore, one must by some means or other direct one’s thoughts to Krishna.” The other time, he alludes to these materials by offering a paraphrase of his own prose: “Devotion may arise either from scriptural injunctions or spontaneously” (Pollock, A Rasa Reader, 287). 
-1797intellectual interests, in both cases, what drops out is the place where the discourse on 
-aesthetics becomes transparently “about” religion. In fact, Hemādri’s remarks on this subject 
-in the original effectively frame Pollock’s chosen selection, as they are found near the very 
-beginning of the material he has chosen to translate, which we have just explored, and then 
-immediately before the other part of his translation resumed. In the first case, they are 
-embedded in Hemādri’s commentary on Bopadeva’s statements about the bhaktas, which 
-Pollock has not included in his reader (quite understandably as much of it is narrowly focused 
-and entirely tangential). As you may remember, the verse concludes: 
-They (bhaktas) will have undergone all expiation (prāyaścitta) and so will never, even in their dreams, behold Yama, god of death, or his noose-bearing minions.1642 
-On this, Hemādri comments: 
-They do not see Yama, so how much less so [would they see] hell. . . . Why is this the case? Because they [ones with bhakti] are one who have received atonement through austerities, i.e., they performed prāyaścitta, and the seeing of Yama and so forth applies [only] to those submerged in sin. It has been said many times that the destruction of sin in its entirety is accomplished by means of bhakti. Therefore, there is a secondary signification (lakṣaṇārtha) of the word “bhakta,” which is that a “bhakta” is the one by whom the thought is set down in the Lord [Kṛṣṇa].1643 
-To most readers, Bopadeva’s initial verse—defining the nature of the devotee—would 
-seem to be made up of one part definition and two parts hyperbolic rhetoric. For Hemādri, 
-1642Pollock, A Rasa Reader, 287. Sanskrit original added. 1643Hemādri, Kaivalyadīpikā 11.1, pg. 163: yamam api na paśyanti kiṃ punar nirayam / svapne ’pi kiṃ punaḥ pratyakṣeṇa / na paśyanti kiṃ punas tarjanādi / kuta etad / hi yasmāt cīrṇaniṣkṛtā ācaritaprāyaścittāḥ / pāpopaplutānāṃ hi yamadarśanādi / bhaktyā ca sarvapāpakṣaya ity asakṛtad uktam / tataś ca bhagavanniviṣṭacitto bhakta iti lakṣaṇārthaḥ //All citations from the Kaivalyadīpikā present a composite reconstruction which, though taking Bhattacharya’s edition as its main text, offers occasional emendation that draws on other editions as well as several manuscripts when it is necessary to arrive a meaningful reading. While the original intention had been to attempt to edit select passages, even that effort proved beyond my abilities. Durgamohan Bhattacharya, ed., Muktāphala of Bopadeva with Kaivalyadīpikā of Hemādri (Calcutta: Calcutta Oriental, 1944). The Muktāphala and especially Kaivalyadīpikā are direly in need of a critical edition. While manuscripts are readily abundant, the ones I have consulted, across a range of scripts and regions, all seem to be substantively corrupt. Moreover, they appear to be corrupt in different ways, which makes arriving at a satisfactory text a major challenge. Given that the text seems no better preserved in any particular script and that older manuscripts are just as problematic as the younger ones, is even plausible that such inadequacies in textual transmission are a historical byproduct of the institutional disruption of the Seuṇa Yādava kingdom in the fourteenth century. 
-1798 
-however—who takes arthavāda deadly seriously—this is in fact where the text is offering us 
-its most valuable information. It is here that we see most plainly that bhakti is not, as it had 
-been in so many older systems, merely a prerequisite for spiritual transformation. It is itself 
-the mechanism through which transformation takes place. Elsewhere, earlier in the 
-Kaivalyadīpikā, Hemādri had qualified that when we say that bhakti does the work of 
-prāyaścitta, this is only in terms of providing the soteriological benefits of being free from sin. 
-Being purified by devotion has no concrete impact on one’s legal status vis-à-vis the worldly 
-court system.1644 Even so, within a Brāhmaṇical frame, Hemādri has just shown his reader that 
-bhakti does all the same work of purifying and refining the mind, heart, and body that prior 
-traditions had ascribed to yogic praxis. To invoke a language that is not evident in this part of 
-the text, Hemādri has told us that bhakti is a complete and comprehensive path onto itself. 
-Just how bhakti works and why it is so intimately related to older learned discourses 
-on rasa but also with what is fundamentally a non-dual epistemology is clarified by Hemādri 
-himself in the portion of the rasa chapter that immediately follows where Pollock concludes 
-his translation. Hemādri has just presented us with his defense of bhakti as a rasa, part of which 
-we read a little while ago. In Pollock’s translation, which continues for two more paragraphs, 
-Hemādri responds to one set of imagined objectors. Following Bhoja, these opponents are 
-bothered by Hemādri’s restriction of bhaktirasa into nine types and want to proliferate further 
-categories. Hemādri’s rejoinder that if we take such people seriously, there is really no good 
-reason for distinguishing between rasas at all and stable emotions (sthāyibhāva), a position 
-that contradicts Bhoja’s own arguments. For Hemādri, this critically provides an occasion, 
-1644See, for instance, Hemādri, Kaivalyadīpikā, pg. 100: bhaktihīnaiḥ prāyaścittair jñānapūrveṣu pāpeṣu na karmakṣayaḥ, kiṃtu vyavahāryatvamātram / tatsahitais tayaivādvayam apīti bhakter viśiṣṭam / ata eva bahiḥśuddhiḥ prāyaścittaiḥ / antaḥśuddhis tu bhaktyaiveti dṛṣṭāntena vyañjitam // 
-1799 
-first, for engaging in a rather atypical discourse on the nature of the sthāyibhāvas and their 
-operation in his system, and then, for transitioning into a candid representation of the source 
-and real purpose of his rasa theory: 
-“Laughter (hāsa), passion (rati), grief (śoka) enmity (roṣa), terror (bhī), revulsion (jugupsā), mental discipline (śama), wonder (smaya), exertion (utsāha): these, in sequential correlated order, are the lasting emotional modes (sthāyibhāvas) found within the [respective appropriate] rasas.” 
-H: In this context, laughter (hāsa) is an expansion of the mind (cetovikāsa) provoked by misdeeds in regard to speech, dress, and so forth. Passion (rati) is a mutual connection of sentiments. Grief (śoka) is the despondency of the mind that emerges from the destruction of what is desired and so forth. Anger (krodha) is the awareness of severity with regard to adversaries. Fear (bhayam) means the frailty of the mind, natural among women and ordinary people, for it is produced by fierce/violent power (raudraśakti). Revulsion (jugupsā) is a reproach of objects on account of their visual flaws and so forth. Mental discipline (śama) is the cessation of craving with regard to sense objects. . . . And likewise: 
-“White, black, gray, red, dark black, and blue. Brilliant white, yellow, golden, these are the colors in sequence.” 
-However, the application of this is in regard to painting and meditation, such that the objects meditated upon can [destroy the main disease] (mukharoga, conj. mukhyaroga). 
-Thus says the revered Abhinavagupta: 
-“The first pair are Manthmatha (white) and Yama (black), and likewise in sequence, Rudra (gray) and Kāl[āgni] (red), Mahākāla (dark black), and Ajitā (blue) are next, Brahmā (brilliant white), Mahat (yellow) and Indra (golden).” 
-Thus, bhaktirasa is experienced through the ninefold division of hāsya and the rest, which are of such a sort as described.1645 
-1645Hemādri, Kaivalyadīpikā, pg. 165: tathā hi— hāso ratiḥ śoko roṣo bhīr jugupsā śamaḥ smayaḥ / utsāhaś ca kramād eṣu sthāyibhāvā raseṣv amī // tatra vāgveṣādivaikṛtaiś cetovikāśo hāsaḥ / parasparam āsthābandho ratiḥ / iṣṭanāśādiprabhavaṃ cittasya vaidhuryaṃ śokaḥ // pratikūleṣu taikṣṇyasya prabodhaḥ krodhaḥ / raudraśaktyādijanitaṃ strīnīcaprakṛtikaṃ cittasya vaiklavyaṃ bhayam / doṣadarśanādibhiḥ padārthānāṃ garhaṇā jugupsā / padārtheṣu tṛṣṇākṣayaḥ śamaḥ. . . . tathā— sitaḥ śyāmaḥ kapotas ca raktaḥ kṛṣṇaś ca nīlakaḥ / viśadaḥ pītagaurau cety eṣu varnāḥ kramād amī // tadupayogas tu citre dhyāne ca dhyātā[conj. dhyātāś] ca mukharogaṃ[conj. mukhyarogaṃ] nirharanti ity abhinavaguptapādāḥ / prathamau manmathayamau rudrakālau yathākramam / mahākālājitau brahma mahendrās teṣu devatāḥ / evaṃ evaṃvidhahāsyādinavakabhaṅgayā bhaktiraso ’nubhūyate / 
-1800 
-Hemādri begins with an account of the stable emotions (sthāyibhāvas). As we can see, 
-he understands them not as rhetorical elements but in very precise psychological terms as 
-corresponding to mental activities occurring in an individual’s consciousness that are provoked 
-by specific types of relationships with objects and subjects in the outside world. From here, 
-our author moves on to a consideration of what in the Nāṭyaśāstra itself is a rather minor topic, 
-the colors (varṇa) of the different rasas and so forth as well as their governing deities. 
-Strangely enough, neither the verses nor the remarks that Hemādri attributes to Abhinavagupta 
-can be located in this precise form in any of our surviving sources, though whether this is a 
-reflection of the notoriously unreliable and fragmentary transmission of the Abhinavabhāratī 
-or Hemādri’s access to a divergent recension of the text or even additional Alaṃkāra resources 
-that respond to the Abhinavabhāratī is all but impossible to determine.1646 In more general 
-1646In the first part of this statement, Hemādri attributes to Abhinavagupta the application (upayoga) of a set of visualizations of color correspondences in the dual contexts of painting (citra) and meditation (dhyāna), ultimately to be connected with the specific governing deities. This is precisely the sort of thing we might plausibly anticipate Abhinavagupta to reflect upon in passing. Thus, it is altogether surprising that the surviving manuscript tradition, as reconstructed and translated by Daniel Cuneo, even here, offers a divergent reading (varṇābhidhānaṃ pūjādau dhyāna upayogi), in which no mention whatsoever is made of painting, which is instead replaced by pūjā and so forth. 
-Even before we get to the deeply problematic remainder of the line, however, there is much bigger problem. In the verses of Bharata’s Nāṭyaśāstra that are being commented on here, the “colors” under discussion are not only presented in a different sequence, but they are actually being correlated with the rasas themselves and not with the sthāyibhāvas. What is even stranger, however, is that while there is a substantial degree of overlap in the initial list of the deities that are seen as governing these colors, especially if we take Abhinavagupta’s explanations of the intended referents, Hemādri’s text ironically presents us with a much more straightforwardly Śaiva Tantric pantheon, while Abhinavagupta can only arrive at basically this same canon by, for example, glossing the initial mention of Viṣṇu as really meaning Kāmadeva. 
-Finally, we arrive at the most serious textual problem, which in the vulgate of the Kaivalyadīpikā would convey the intended meaning of the meditator (dhyātā), using these methods, destroying “mouth disease” (mukharogaṃ nirharantīty), a construal that has some syntactical and agreement problems. With minimal emendations, this can be cleaned up to yield reasonably good sense, namely, that one should apply these methods in meditation or in art, in a utilitarian manner, “such that the objects meditated upon can destroy ‘the main disease’ (dhyātāś ca mukhyarogaṃ nirharanti) with the main disease in question either being a euphemism for transmigration between lives or, presuming a more extended original context, the particular sthāyibhāva and its potentially un-useful rasic obsession. The problem is that what the revered Abhinavagupta, at least in our surviving sources, is saying is something entirely different, not dhyātāś mukh[y]arogam nirharantīty, but varṇābhidhānaṃ pūjādau dhyāna upayogi / mukharāge ’pīty anye. In Cuneo’s translation this becomes, “The mention of the colours is useful for meditative practices, such as in pūjā and so forth. Others think [that it is useful] also for the coloration of the 
-1801 
-terms, however, Hemādri’s source materials, shared in some way with the Abhinavabhāratī, 
-point us towards a preexisting and highly atypical application of rasa theory that is at once 
-instrumentalist in its purport and “religious”—even ritualistic—in a decidedly non- or pre- 
-philosophical manner. 
-In much the same manner as Hemādri has selectively “digested” without direct 
-acknowledgement not its core message but a very eccentric tangent in the Abhinavabhāratī, 
-over the next little bit of the chapter, he will effectively assemble an Alaṃkāraśāstra nibandha, 
-comprised not of his predecessors “greatest hits” but of cul-de-sacs in the discourse where the 
-primary focus is essentially “theological” in nature. Typically, he is drawing from a range of 
-verse and prose works on poetics, mostly without explicit attribution. In the section that 
-follows, Hemādri’s archive includes a single acknowledged citation from the tenth-century 
-Daśarūpaka of Dhanañjaya, a poet-intellectual in court of King Muñja of Dhārā, Bhoja’s 
-uncle, as well as the entirely unacknowledged importation of Dhanañjaya’s brother Dhanika’s 
-prose commentary, the Āloka, a long citation of definitions from Mammaṭa’s Kāvyaprakāśa, 
-and finally, further unacknowledged citations of definitions drawn once again from 
-Dhanañjaya. Indeed, for an entire page, Hemādri’s own contributions are confined to five short 
-glosses. Ultimately, though, it is the unacknowledged influence of Dhanika’s own intellectual 
-[actors’] faces.” Daniele Cuneo, Emotions without Desire: An Interpretive Appraisal of Abhinavagupta’s Rasa Theory, Annotated Translation of the First, Sixth, and Seventh Chapter of Abhinavagupta’s Abhinavabhāratī (PhD Dissertation, Sapienza University of Rome, 2008), 102. 
-Especially considering that the edition of this text was compiled in Bengal using sources in Bengali script, mistaking the long ā in mukharāge for the “o” of mukharoga is a likely scribal error. How “’pītyanye” could become transmuted into “nirharanti” is much more of a mystery. But even if we accept the hypothesis that what we are dealing with here is serious scribal corruption, that still would not explain how this analysis became associated with root verses on a different topic communicating a divergent message. One possibility is that in reading the Abhinavabhāratī, Hemādri may have had access to an already contaminated or erring recension. Another is that the Abhinavabhāratī originally contained either a different discussion than the one we have now, or else also incorporated a continuation of this conversation focusing on the sthāyibhāvas contained in passages that are no longer transmitted. 
-1802 
-project in commenting on the Daśarūpaka that leaves the most lasting mark. It is on the basis 
-of these materials (mostly used with minimal attribution) that over the next several pages 
-Hemādri is able to redefine rasa in a manner that better serves his purposes, both 
-methodologically and theologically. Because so much of Hemādri’s argument is not being 
-offered in his own words, to really understand what Hemādri is doing, we have to place him in 
-relation to his predecessors. 
-In making sense of what Sheldon Pollock has characterized as the methodological 
-revolution Dhanika “embodies,” if not “inaugurates,” Pollock’s remarks in his Rasa Reader 
-are indispensable as are his many translations of relevant extracts from the rasa discourse. As 
-we will see almost immediately however, when it comes to the “religious” dimension of this 
-discourse, though evident in some of the very passages he translates, Pollock simply passes it 
-over in silence. Here, for example, is how he represents Dhanika’s contributions in the Avaloka 
-on Dhanañjaya’s Daśarūpaka: 
-Dhanika is intent on a radical recentering of the whole discourse—including all the aesthetic elements—onto the viewer/reader. For example, the reactions are now to be considered, not just the effect of rasa displayed by the actor (which, ex hypothesi, does not actually exist), but causes of rasa in the viewer. . . . Indeed, the aesthetic emotions in general now are said to permeate the mind of the viewer, not the character. . . . How far the distance has been opened up from Bhoja’s views may be seen in the juxtaposition of their explanations of “rasa-laden” discourse. According to Bhoja, “Someone like Rama has rasa, and his speech, since its source lies in his very rasa, may itself be said to be ‘rasa-laden’ or have rasa”; for Dhanika, “it can only be the audience members who are the ‘rasikas,’ those who taste rasa; the literary text can be said to be ‘rasa-laden’ only insofar as it brings about the unfolding of that sort of blissful consciousness.”1647 
-As Pollock demonstrates, Dhanika’s central “innovation” is that he transforms the 
-study of rasa into a form of reader response theory that sees the source of aesthetic 
-experiences—both what makes it possible as well as the experiences themselves—as located 
-1647Pollock, A Rasa Reader, 156–57. 
-1803 
-within the consciousness of audience members or readers, and not, as prior thinkers would 
-have it, in the text itself, its characters, or the performers. For Hemādri and the subsequent 
-history of primarily Vaiṣṇava theologization that he engenders, this change in interpretation is 
-absolutely essential. It is what makes possible the reframing of what was originally a 
-theorization of aesthetic rhetoric into an analytics of religious experience. With this in mind, 
-let us turn to Dhanika’s discourse—which Hemādri reproduces (without acknowledgement) in 
-toto in the Kaivalyadīpikā as the immediate prelude to offering his own definition of bhakti 
-rasa: 
-H: Now, one might object, how could it be the case that bhakti could be represented as being rasa in the absence of a definition of rasa [that supports such a stance]? On this subject, there is [the definition given in] the Daśarūpaka: 
-Dhanañjaya: By means of the [assistance from] catalysts of emotion (vibhāvas), reactions (anubhāvas), psycho-physical reactions (sāttvika) and transient emotions (vyabhicāri-bhāvas), a lasting emotional mode (sthāyibhāva) that is being led (ānīyamānaḥ) to the state of being tasted (svādyatvam) is called a rasa. 
-H (but really Dhanika): They describe it [thus]: by the catalysts of emotion (vibhāva) and so forth, which have a nature that will be explained, and that are conveyed by kāvya or are being shown through dramatic performance, rasa—being that within which passion (rati) and the rest (i.e., the sthāyibhāvas) are abiding—which is causing internal reactions in the listener or spectator, is being led into the nature of being the conscious self (saṃvidātmatāṃ) that is boundless joy (nirabharānanda), which is the state of being tasted (svādagocaratāṃ). By this statement [we see that the intended referent of] rasikas are ordinary people/audience members (sāmājika). However, kāvya is called “that which possesses rasa” (rasavat) because of it being the cause of the unfolding (unmīlana) of the consciousness (samvid) of the bliss of such a nature as has been described (tathāvidha).1648 
-1648Hemādri, Kaivalyadīpikā, pg. 165–66, citing Dhanañjaya, Daśarūpaka 4.1: nanu kathaṃ bhakte rasatvaṃ rasalakṣaṇābhāvāt / tatra daśarūpakādau / vibhāvair anubhāvaiś ca sāttvikair vyabhicāribhiḥ / ānīyamānaḥ svādyatvaṃ sthāyibhāvo rasaḥ smṛtaḥ / etad vivṛṇvate / vakṣyamānasvābhavair vibhāvādibhiḥ kāvyopāttair abhinayopadarśitair vā śroṭrprekṣakāṇām antarviparivartamāno ratyādisthāyī svādagocaratāṃ nirbharānandasaṃvidātmatāṃ nīyamāno rasaḥ / tena rasikāḥ sāmājikāḥ / kāvyaṃ tu tathāvidhānandasaṃvidunmīlanahetutvena rasavat / 
-1804 
-Making sense of what Dhanika and thus by extension Hemādri is doing here requires a 
-little bit of context. To distill without doing justice to a very complicated discourse, beginning 
-with Bharata’s Nāṭyaśāstra, aesthetic experience in Sanskrit poetic thought has been seen as 
-emerging where there is the proper kind of convergence, either in the context of a play or a 
-work of literature between a series of elements, namely, the catalysts of emotion (vibhāvas), 
-reactions (anubhāvas), psycho-physical reactions (sāttvikabhāvas), transient emotions 
-(vyabhicāribhāvas), and the lasting emotional mode (sthāyibhāva). When these come together 
-in the proper manner, it is said, rasa emerges, in much the same way that when cooking, a 
-proper balance between all the ingredients and the spices will yield a pleasing flavor. About 
-this much, essentially, the poeticians agree. What is widely contested is simply how this works, 
-why this works, as well as “where” the elements are located, namely, within the work of art 
-itself, within the characters it depicts, within the actors performing, or within the reader. For 
-the older tradition that saw these elements as parts of the play itself, the lasting emotional mode 
-(sthāyibhāva) referred to the dominant emotion (arousal, humor, sorrow, anger, exertion, fear, 
-disgust, and astonishment) that runs throughout the whole play. The play was judged a 
-dramatic success by the critics only if it evoked the chosen emotion with consistency 
-throughout the whole of the performance. Vyabhicāribhāvas, in contrast, were seen as 
-delimited emotional reactions linked to the development of the plot, such as when a generally 
-heroic prince becomes momentarily terrified by a ghost. Since the emotions of other people 
-are not directly accessible to external observers, the enactment of a fixed canon of gestures and 
-physical “business,” in the language of modern theatre, were seen to further clarify the inner 
-state of the performer; these are the anubhāvas. Intriguingly, one subset of these anubhāvas, 
-the sāttvikabhāvas, corresponds almost exactly to the signs indicative both of embodied 
-1805 
-devotional experience and ritual possession. Again—within the confines of the older 
-paradigm—catalysts of emotion (vibhāvas) correspond to features of the performance, such as 
-setting, direction, and so forth, which are designed to evoke a mood matching the other 
-features. Rasa is said to arise when there is the proper relationship between all of these factors. 
-As we can already see, in the Daśarūpaka, though he retains all the same elements, 
-Dhanañjaya, Dhanika’s brother, sees things differently. From his perspective, the lasting 
-emotional mode—for example, passion—even when combined with all the other elements 
-does not itself yield rasa. In order for rasa to become real, it needs to be tasted or experienced. 
-Rasa, in other words, always presupposes a subject doing the tasting or experiencing. As 
-Dhanika then informs us, while these elements such as the vibhāvas are presented to us by a 
-kāvya or through a performance, the aesthetic experience really starts happening when these 
-inputs cause “internal reactions within the listener or speaker.” But as Dhanika almost 
-immediately clarifies, though as we have just seen Pollock passes over this point without 
-noticing its centrality to this theory, what we are really talking about here are not just any old 
-“internal reactions” within the listener or speaker. Dhanika takes great pains to specify that 
-these reactions are part and parcel of a process of being led into the nature of being the 
-conscious self (saṃvidātmatā) that is boundless joy (nirabharānanda), which falls under the 
-scope of the state of being tasted (svādagocaratāṃ). In other words, the experience of tasting 
-rasa is inseparable from becoming cognizant of and experiencing a theologically charged form 
-of aesthetic rapture. In Dhanika’s model, kāvya matters not because it instructs us either about 
-the aims of man, right versus wrong, or the appropriate as opposed to inappropriate, but 
-“because of it being the cause of the unfolding (unmīlana) of the consciousness (saṃvid) of 
-bliss.” As any scholar of the Tantras should immediately see, Dhanika’s key terms of art, which 
-1806 
-just in this passage include, saṃvid, nirabharānanda, and unmīlana, but elsewhere expand to 
-incorporate lexemes like viśrānti and samāveśa, are not derived from the discourse on poetics 
-but instead strongly resonate with a Śākta sensibility at least loosely aligned with that of the 
-Trika exegetes. We will return to this important point when it is time to look at how Hemādri 
-himself not only adopts but adapts Dhanika’s ideas and idiom. 
-Within the broader context of the history of poetics, from Pollock’s perspective, the 
-reason that it can be said that Dhanika “embodies” but does not “inaugurate” the revolutionary 
-shift to audience centered rasa theorization with aesthetic discourse is that Pollock sees 
-Dhanika as being preceded in taking such a position by the lost writings of Bhaṭṭa Nāyaka. As 
-we will see momentarily, especially from the perspective of a historian of religion, Pollock’s 
-model here could do with a bit of nuancing, for it is precisely at those points where Dhanika 
-disagrees vehemently with Bhaṭṭa Nāyaka that Hemādri’s indebtedness to the former becomes 
-most clear.1649 Fundamentally, this disagreement is not centered on “aesthetics” at all, but 
-revolves around competing theologies. As such, a rethinking of these matters does not merely 
-contribute to the refining of our historiography, but fundamentally impacts how we are to 
-understand Dhanika and, by extension, Hemādri’s real interpretive project, namely, the 
-reconciliation of aesthetics with a Vedānta that recognizes the relativistic reality of subjects 
-and objects as ends in their own right. It is worth taking some time to get this right. 
-To orient the reader, as Pollock has brilliantly argued at considerable length, in his 
-“Mirror of the Lovers of Literature” (Sahṛdayadarpaṇa)—which through its incorporation into 
-1649As we will see momentarily, some of these refinements have been suggested by James Reich in his recent critique of Pollock’s model. Other parts have been presented Andrew Ollett in his study of Dhanika as offering his own innovations. See James Reich, “Bhaṭṭanāyaka and the Vedānta Influence on Sanskrit Literary Theory,” Journal of American Oriental Society 138, no. 3 (2018): 533–558; Andrew Ollett, “Rasa as Sentence Meaning,” in The Bloomsbury Research Handbook on Indian Philosophy of Language, ed. A. Graheli (New York: Bloomsbury, 2020), 301–21. 
-1807Abhinavagupta’s Abhinavabhāratī effectively reinvents the discourse on rasa theorization— 
-Bhaṭṭa Nāyaka’s singular contribution is to offer a rich and novel account of how and why it 
-is that literature can move us. Pollock argues that Bhaṭṭa Nāyaka did so by taking what was 
-originally a theoretical model of linguistic comprehension within Pūrva Mīmāṃsā exegesis, 
-concerning how we understand injunctive statements, and reapplying it to the study of the 
-experience of literature. Succinctly, the question that Mīmāṃsā had asked was what is the 
-cognitive process that we go through that enables us to recognize that an abstract injunctive 
-like svargakāmo yajeta—one who desires heaven must sacrifice—is relevant in this very 
-moment such that it actually applies to us? As Pollock elegantly explains in a passage worth 
-quoting at some length: 
-As a student of Mimamsa, he [Bhaṭṭa Nāyaka] would have been concerned with one of its core questions: What accounts for the fact that we readers, here and now, find ourselves impelled to reenact scriptural commandments that are shown in the Veda itself to concern other people at other times and places? As a student of literature, he was prompted to pose a related one: What accounts for the fact that we readers, here and now, find ourselves reexperiencing emotions that are shown in the literary work to concern other people at other times and places?. . . . If the key to thinking about rasa is one’s own subjective experience. . . . you do not, as a reader, “infer” that you are feeling rasa. You begin to ask how literary language transforms a discourse about the emotions of people you do not know (Rama, Sita) into something you as a reader somehow come to participate in, and how that process—the term Bhatta Nayaka coins for it is “commonization”—enables an altogether unique kind of experience. And what aids in answering this question is the analytical method already highly developed for scripture. . . . 
-According to Mimamsa, scriptural language, like language in general, is action- oriented. . . . The general theory to account for this verbal force is organized around the notion of bhāvanā, “actualization,” which consists of three parts. . . . Insofar as literature is a subset of discourse as such, any adequate theory of literature. . . will necessarily accord with bhāvanā analysis and therefore be called upon to specify what literature is “actualizing,” whereby, and how. Bhatta Nayaka accordingly proceeded to explain the literary experience as a tripartite process of actualization. . . . The first is “expression”. . . best understood or even translated as “literary language”. . . . The second is the “capacity for actualization”. . . . This actualization capacity consists in the “making common” or “commonization” of the emotional states of the literary text with those of the reader. The third component, “experience,” or (yet another coinage) 
-1808 
-“experientialization,” leads to a kind of absorption in the literary event. These three represent the “what” (experience), the “whereby” (expressive language), and the “how” (commonalization) of literary actualization: one actualizes an aesthetic experience by means of an emotional commonization made possible by the unique powers of literary language.1650 
-In his many annotations in the footnotes of his Rasa Reader, as well as in his extended 
-essay “What was Bhaṭṭa Nāyaka Saying,”1651 Pollock clearly and convincingly (at least for this 
-reader) identifies numerous places where Dhanika is informed by close readings of Bhaṭṭa 
-Nāyaka’s lost work. Whether or not this means that we can project Dhanika’s own 
-interpretations of similar topics back into the Sahṛdayadarpaṇa, however, is another matter 
-entirely. As we will see momentarily, the relationship between the methods and theologies of 
-the two works are more complicated than Pollock has presumed. 
-In an article entitled “Bhaṭṭanāyaka and the Vedānta Influence on Sanskrit Literary 
-Theory,” overbrimming with significant insights, some of which one wished might have been 
-given more time for development, James Reich has challenged key parts of Pollock’s reading 
-of Bhaṭṭa Nāyaka as presented above, arguing that while “Bhaṭṭanāyaka’s involvement with 
-Mīmāṃsā. . . has been greatly exaggerated. . . . on the other hand, theological ideas drawn from 
-the tradition of non-dual Vedānta play a clear and prominent role in his thinking.”1652 Much of 
-Reich’s argument, the details of which need not detain us, is dedicated to calling into question 
-Pollock’s argument that Bhaṭṭa Nāyaka derives his three-part model of how literary 
-comprehension works directly from Pūrva Mīmāṃsā. He does so based on close readings of 
-textual fragments of what are purported to be Bhaṭṭa Nāyaka’s own words as well as the larger 
-1650Pollock, A Rasa Reader, 145–46. 1651Sheldon Pollock, “What was Bhaṭṭa Nāyaka Saying? The Hermeneutical Transformation of Indian Aesthetics,” in Epic and Argument in Sanskrit Literary History: Essays in Honor of Robert P. Goldman, ed. Sheldon Pollock (New Delhi: Manohar, 2010), 143–184. 1652Reich, “Bhaṭṭanāyaka and the Vedānta Influence on Sanskrit Literary Theory,” 534. 
-1809 
-context within which they appear in Abhinavagupta’s Abhinavabhāratī. Many of his objections 
-to Pollock’s model, which he shows is at the very least overly simplifying a fragmentary textual 
-record that does not easily yield coherent sense, are quite sound. Essentially, Reich proposes 
-that there is a direct textual parallel to Bhaṭṭa Nāyaka’s theory of cognition, the sequencing of 
-the three terms, literary expression/denotation (abhidhā), a special type of reproduction (anyā 
-bhāvanā), and its experientialization (tadbhogīkṛti) found in the writings of the Advaita 
-Vedānta theologian Maṇḍanamiśra, and that the examples he presents are a sounder match 
-than Pollock’s positing of Kumārila as the key prior interlocutor.1653 
-Reich’s primary point, namely, that Bhaṭṭa Nāyaka is some sort of non-dual Vedāntin 
-in the tradition of Maṇḍanamiśra, a thinker who—quite unlike Abhinavagupta—sees existence 
-as fundamentally unreal, and that this dimension of his work is essential to understanding both 
-his own theory of rasa as well as the nature of Abhinavagupta’s representation and rebuttal of 
-key parts of his model, is both clearly correct and represents a major advancements in our 
-understanding of these materials. For our purposes, it also has significant repercussions for 
-understanding what is happening in Dhanika and Hemādri. The key point here is that for 
-Bhaṭṭa Nāyaka, the experience of rasa only becomes possible when other kinds of experiences 
-engendered by a work of literature or play have undergone a process of commonalization 
-(sādhāraṇīkaraṇa) or even depersonalization that denudes them of their particularities. This is 
-what paves the way for us to see something sad happen to a character on stage—such as when 
-Rāma loses Sītā—and then have an abstracted experience of sadness, as opposed to being either 
-1653Nevertheless, though these parallels to Advaita are worth attending to, for reasons that we will return to repeatedly throughout the remainder of this chapter, to me at least it seems frankly improbable that a Vedāntin of Bhaṭṭa Nāyaka’s variety would simply have homologized the last stage of aesthetic experience, tadbhogīkṛti, with its Vedāntic counterpart of nididhyāsana, for to do so would to be align a state beyond worldly enjoyments and experiences with the semantics of “experiencing” that are virtually inseparable from the word “bhoga.” In other words, we should probably be looking for a more complex composite of extra-textual interlocutors. 
-1810 
-indifferent, because the emotion belongs only to the character, or sad in precisely the same 
-way that we would be if someone stole our wife, in which case no one would go to the theatre. 
-As we will see, while in the secondarily literature this is often mistakenly taken as identical 
-with Abhinavagupta’s own position as well as Dhanika’s, there are extremely important 
-distinctions between what Bhaṭṭa Nāyaka is arguing and the other two points of view. As Reich 
-observes, when Bhaṭṭa Nāyaka speaks of this process of the making of experience into aesthetic 
-experience, in an unmistakably Vedāntic language, he equates this with the dissolution of “the 
-denseness of one’s own thick delusions” and says that this process culminates in the “repose 
-in one’s own consciousness, which is comprised of light and bliss” which is “similar to the 
-relishing of highest Brahman.”1654 Critically, from our perspective, as Reich points out in a 
-footnote, one of the central features of this comparison between tasting rasa and relishing 
-brahman is that from a Vedānta perspective, “the relishing of brahman is an objectless and 
-actionless state of awareness.”1655 As Reich rightly notes, the logical consequence of such a 
-position is that “While it is true that Bhaṭṭanāyaka thinks the rasa is a certain kind of experience 
-that the spectator undergoes, it does not and cannot mean that the spectator feels it to be his 
-own experience, or that he experiences it as himself, and it is precisely the possibility of this 
-kind of transpersonal experience that Bhaṭṭanāyaka is arguing for.”1656 As you may be 
-beginning to see, this stance is actually noticeably different from the one Dhanika will 
-advocate, which Hemādri will both adopt and adapt. To make sure these distinctions are 
-transparent, it is worth taking in the longest passage from Bhaṭṭa Nāyaka, presented here in 
-Reich’s own translation: 
-1654Reich, “Bhaṭṭanāyaka and the Vedānta Influence on Sanskrit Literary Theory,” 538. 1655Reich, “Bhaṭṭanāyaka and the Vedānta Influence on Sanskrit Literary Theory,” 545, ftn. 45. 1656Reich, “Bhaṭṭanāyaka and the Vedānta Influence on Sanskrit Literary Theory,” 536, ftn. 12. 
-1811 
-“I will [now] describe drama, which brahman, the supreme soul, promulgated, i.e., gave as an example, [for how people] grasp at unreal divisions caused by ignorance. For the gestures of [characters like] Rāma and Rāvaṇa are unreal. They are performed by an actor who is similar to brahman in that he does not [really] leave his own nature [when he appears in their form]. They are essentially imagination, and so have an unfixed form that can instantly take on one hundred thousand shapes [kalpanā], although [they are] different from such things as dreaming. . . . Somehow, [they] appear as [this] wonderous unreal behavior. . . . In the [same] way, this universe is just like that and consists of a proliferation of unreal names and forms, and still [atha ca] brings one to the highest human goal. . . by force of such things as hearing and reflecting [upon the Veda]. Thus, by mentioning the highest transcendent human goal. . . the aesthetic sentiment of Quiescence is hinted at. . . . ‘Rasas arise from the Quiescent rasa, each having taken on its own [particular] cause.’”1657 
-In Bhaṭṭa Nāyaka’s phenomenology, shot through with the unmistakable language of 
-classical Vedānta, the world and its internal diversity are utterly unreal, effectively existing as 
-a form of cognitive error. Bhaṭṭa Nāyaka seems to argue that all rasa experiences enable us to 
-peel back the veil of illusion, whereupon the underlying reality that is brahman is realized. He 
-seems to associate this dynamic quite specifically with śāntarasa, the virtue of pacification, 
-the real rasa, which is the source of all other somewhat more unreal rasas. Brahman, we must 
-remember—just like rasa—is already established as it is; nothing needs to be done to make it 
-exist, apart from dissipating the layers of unreality that conceal it. Any scholar familiar with 
-the Trika exegetes will immediately see why Abhinavagupta—a Parama Advaitan who 
-believes the world is the absolutely real body of the goddess, which, as embodied in an 
-individual human being, reconnects with its own true nature by recognizing and recollecting 
-itself without losing individuated identity—would dissent from Bhaṭṭa Nāyaka. Unlike 
-Abhinavagupta, Bhaṭṭa Nāyaka’s account of the nature of things makes no place for “real 
-action,” contains no possibility of meaningful līlā or krīḍā, and culminates in a quiescent state 
-where brahman just “is,” but cannot “experience” its own self or nature as bliss. What is less 
-1657Reich, “Bhaṭṭanāyaka and the Vedānta Influence on Sanskrit Literary Theory,” 549–550. 
-1812 
-immediately evident, in the absence of an equally robust body of scholarly inquiry, is that for 
-basically these same reason, Bhaṭṭa Nāyaka’s theorization of rasa is at least equally abhorrent 
-from the perspective of Dhanika just as it is for Hemādri’s heavily Dhanika-dependent līlā- 
-centric theistic non-dual Vedānta. 
-In an elegant essay entitled “Rasa as Sentence Meaning,” Andrew Ollett has recently 
-demonstrated that at least some of the key ideas that Pollock has attributed to Bhaṭṭa Nāyaka 
-himself are actually innovations first offered by Dhanika in his Avaloka on the Daśarūpaka. 
-Setting aside the somewhat dicey issue of just how much Pūrva Mīmāṃsā is actually native to 
-Bhaṭṭa Nāyaka’s thought, Ollett conclusively shows us that Dhanika is aware of at least two 
-major intellectual resources that Bhaṭṭa Nāyaka did not know, namely, the Prābhākara 
-Mīmāṃsā arguments of Śālikanāthamiśra about the relational and pragmatic nature of 
-linguistic meaning, and the proto-Navya Nyāya theorization of a unified linguistic purport 
-(tātparya) underlying linguistic statements, first articulated by the Kashmiri Jayantabhaṭṭa in 
-the tenth century. 
-What we get from the Prābhākara Mīmāṃsakas, first, is the notion that the meaning of 
-any given sentence is not just arrived at by adding up the sum total of all the lexical meanings 
-of the individual words it contains. Instead, the Prābhākarins insist, the meaning of any 
-statement is always relational, a byproduct of the individual interactions between the individual 
-words in a sentence. In much the same way that two medicines when taken separately are 
-perfectly safe, but when combined can prove fatal, Prābhākaras argue that very often the real 
-meaning of a sentence is nowhere evident in the dictionary definitions of its individual 
-components but is the result of emergent properties that only become evident when there are 
-1813 
-specific interactions between words. The other key insight provided by the Prābhākara 
-Mīmāṃsakas is that every sentence, properly understood, is telling us we have to do something. 
-What Dhanika gets from Jayanta, who has also been reading Prābhākaras carefully, is 
-a more robust theorization of the idea that when properly construed, the relational meaning of 
-a statement also communicates a main purport (tātparya), consisting of the core meaning the 
-speaker is trying to convey. Often, however—and this for our purposes is the critical point— 
-it is the case that this main purport itself is not present at all in any of the individual words 
-themselves, but only when they are placed in proper relation to each other. To cite the example 
-provided by Ollett, when someone says, “It’s hot in here, isn’t it,” this is not really an 
-observation from a state of detachment about the objective conditions in a space, but instead, 
-this statement is really a subtle hint that you need to open the window or turn on the air 
-conditioning. As you can see, the purport also tells us exactly what needs to be done, a task it 
-accomplishes through “the production of an awareness that [unlike the cognizing of the bare 
-meaning of a sentence] has no unresolved dependencies.” As Jayanta puts it: 
-Cognitions that arise from other sources of knowledge, and that present a stable meaning that is either complete or incomplete, operate in one way; completely different is the verbal cognition that extends over its objects, terminating in the production of an awareness that has no further dependencies on the part of the listener.1658 
-As Ollett argues, what Dhanika is going to assert, unlike Bhaṭṭa Nāyaka, is that the 
-mechanics that underlie aesthetic experience do not merely loosely resemble the cognitive 
-processes involved in the comprehension of a sentence, but they actually are precisely a 
-different form of the exact same process. In his explanations, as Ollett has shown, Dhanika 
-effectively synthesizes together the insights of distinctive insights of Prābhākaras and Jayanta. 
-Out of these ingredients, he constructs a new model for how aesthetic experience works that 
-1658 Ollett, “Rasa as Sentence Meaning,” 306. Translation by Ollett. 
-1814 
-as we shall see forms the engine that drives Hemādri’s theorization of bhaktirasa. Let us attend 
-to his logic step by step, beginning with his rationale for understanding aesthetic impact as a 
-form of sentence meaning. 
-Just as an action—whether directly expressed or understood as being present by virtue of context or some other factor—constitutes sentence meaning when construed with its factors, so a stable emotion [sthāyibhāva] constitutes a sentence meaning when construed with other aesthetic elements. . . . Don’t go saying that something which is not actually the meaning of any of the constituent words cannot be the sentence meaning. For the power of purport [tātparyaśakti] culminates in something to be done. Let me explain. Every single sentence, whether man made or not, is oriented towards something to be done. If that were not the case, then we would simply disregard it, like the words of a madman.1659 
-Dhanika’s key insight here is that the stable emotion (sthāyibhāva) relates to the other 
-aesthetic factors, such as the catalysts of emotion (vibhāvas), reactions (anubhāvas), psycho- 
-physical reactions (sāttvika), and transient emotions (vyabhicāribhāvas) in precisely the same 
-way the semantic meaning yielded by a sentence relates to the various parts such as adjectives, 
-nouns, adverbs, and particles, that make up a sentence. Where does rasa figure into this 
-picture? As you might have guessed, rasa corresponds to the power of purport (tātparyaśakti), 
-the real message that is intended to be conveyed—though it is not self-evidently present—in 
-the sentence. As you may recall, since Dhanika just made the point so emphatically, once you 
-grasp its purport, “every single sentence” tells us we have to do something. What, then, you 
-might ask, do aesthetically oriented passages tell us we have to do? Quite simply, they impel 
-us to taste the different flavors of bliss. 
-In the case of literary language, we determine that what is to be done is precisely the production of the bliss proper to it, and we do so on the basis of positive and negative concomitance: for we do not encounter any other motivation for its use, either for the speaker or the addressee. . . . It is the stable emotion [sthāyibhāva], conjoined with the other aesthetic elements, that we understand as the cause of the production of bliss. Hence a particular rasa will draw the power of expression of a sentence towards itself until, through conveying at an intermediate stage the other aesthetic elements upon 
-1659 Ollett, “Rasa as Sentence Meaning,” 312–13. Translation by Ollett. 
-1815 
-which the various proper meanings expressed in the sentence depend, it leads it to culminate in that very rasa. In such a sentence, the other aesthetic elements take the place of word meanings, and the sentence meaning is a stable emotion, such as desire, that is conjoined with them. Hence a literary text, so described, is a work of words and sentences (vākyapadīyam), the word meaning being the aesthetic elements, the sentence meaning the rasas.1660 
-As we have just seen, Ollett’s reconstruction of the intellectual influences that inform 
-Dhanika’s interpretive project in the Avaloka are indispensable in making sense of the author’s 
-theory of how rasa is produced. This is important to us because Hemādri virtually adopts this 
-model as his own. Much like his mentor, Pollock, however, as primarily a historian of 
-intellectual history, Ollett does not take into account that, especially when it comes to the 
-question of “why” we produce rasa, there are strong indications that Dhanika sees himself not 
-as a secular intellectual reflecting about how literature works but as a theologian. Unlike 
-Pollock, Ollett does not do Dhanika the discourtesy of interpolating into his translations the 
-notion that the bliss that is savored by the rasika must necessarily be “aesthetic.” Still, though 
-he alludes to the verse we are about to examine in a footnote, neither does he highlight what 
-for both our author and commenter is the very purpose of the experiencing of the play (as 
-Dhanika informs us, idaṃ prakaraṇaṃ daśarūpajñānaphalam / daśarūpaṃ kiṃ phalam 
-ityāha). At the very beginning of the Daśarūpaka, after praising the gods, but before the author 
-descends into the technical work of defining the parts of a play, with the aim of presenting the 
-purpose of the text, Dhanañjaya concludes the introduction by criticizing the good men (sādhu) 
-of slight intellect (alpabuddhi) who proclaim that the purpose of plays is to merely to provide 
-moral instruction (vyutpattimātra), thereby turning their backs on the savoring of bliss 
-(svādaparāṅmukha) with which all plays abound (ānandaniṣyandiṣu rūpakeṣu).1661 Just in case 
-1660 Ollett, “Rasa as Sentence Meaning,” 312–13. Translation by Ollett. 1661Dhanañjaya, Daśarūpaka 1.6, pg. 2: ānandanisyandiṣu rūpakeṣu vyutpattimātraṃ phalaṃ alpabuddhiḥ / yo ‘pītihāsādivad āha sādhus tasmai namaḥ svāduparāṅmukhāya //All readings from the Daśarūpaka and Avaloka 
-1816 
-we are missing what, from the perspective of the author, is at stake, in his commentary on this 
-verse, Dhanika sets us straight, and he does this by juxtaposing his position on what theatre is 
-for with the classic stance of the perhaps sixth-century poetician Bhāmaha.1662 Whereas 
-Bhāmaha says that poetry can produce enjoyment (prīti) or fame (kīrti) as well as skill 
-(vaicakṣaṇya) in the domains of dharma, artha, kāma, and mokṣa, Dhanika tells us “by means 
-of rejecting that [stance] (tannirāsena)” that the result of the “ten forms” is the tasting of rasa, 
-which has as its nature the highest bliss (paramānandarūpo rasāsvādo daśarūpāṇāṃ 
-phalam).” And just in case you are still missing the point, kāvya, he tells us, is not merely 
-something that produces instruction in regard to the three vargas, in the manner of itihāsa and 
-so forth. Kāvya does not merely give you worldly benefits and skill; it gives you spiritual 
-experiences. 
-Not only do Ollett’s and Pollock’s analyses downplay such dimensions of this 
-particular rasa discourse, but that interpretive choice leads them not recognize other major 
-domains within or adjacent to the realm of śāstra, also apparently absent from Bhaṭṭa Nāyaka’s 
-purview, that are of vital importance to understanding what Dhanika is really up to. 
-Unsurprisingly, both of the elements in question reflect “religious” dimensions of intellectual 
-conversations that modern scholars typically approach as secular intellectual puzzles. While 
-we will not spend much time reflecting on these matters, it is worth noting in passing that 
-Dhanika’s theory of sentential meaning is also rooted in the philosophy of the grammarians, 
-especially the works of Bhatṛhari, whom Dhanika quotes several times in this commentary. 
-are based on the following edition: Kasinatha Panduranga, ed., Daśarūpakaṃ (Bombay: Nirnayasagar Press, 1941). 1662Dhanika, Avaloka on Daśarūpaka 1.6, pg. 2: tatra kecit— dharmārthakāmamokṣeṣu vaicakṣaṇyaṃ kalāsu ca / karoti kīrtiṃ prītiṃ ca sādhukāvyaniṣevaṇam (bhāmaha) / ityādinā trivargādivyutpattim kāvyaphalatvenecchanti tannirāsena svasaṃvedyaḥ paramānandarūpo rasāsvādo daśarūpāṇāṃ phalam, na punar itihāsādivat trivargādivyutpattimātram iti darśitam / 
-1817Thus, when our commentator says that “a literary text, so described, is a work of words and 
-sentences (vākyapadīya),” he is almost certainly invoking Bhatṛhari’s theorization of the 
-sentence, which, much like the Prābhākara model, proposes that the sentence has a fullness or 
-surplus of meaning that goes beyond what is contained in the individual words out of which it 
-is composed. At the same time, he is also unquestionably alluding to the soteriological 
-dimensions of this theory, which proposes that in grasping words and their meaning and 
-through the application of thorough understanding of grammar (vyākaraṇam āgamya), the wise 
-person achieves brahman (parabrahmādhigamyate).1663 This is possible because brahman 
-itself is made of language, a theological stance that results in an ontology that is diametrically 
-opposed to the value system promulgated by Bhaṭṭa Nāyaka in which the appearance of the 
-world has no substance and value. 
-Bhartṛhari’s archaism—some scholars place him in the fifth or even fourth century of 
-the Common Era—means that many subsequent theological developments that would become 
-integral to later iterations of Indic reflections on soteriology are not yet part of his mental 
-universe. Perhaps most pertinently for our purposes, even though in the opening of his work 
-he speaks of “bhoga” as integral to workings of the world order,1664 Bhatṛhari inhabits an 
-intellectual domain where the goal of soteriology is typically conceived of in negative terms, 
-such as the absence of pain or even of experience of any sort, as it is in much of classical Nyāya 
-and Vaiśeṣika and even, to some extent, early Advaita Vedānta. This is in opposition to a model 
-of soteriology that thinks in positive terms, such as in reference to peak experiences, defined 
-1663Bhartṛhari, Vākyapadīya 1.22: yad eka prakriyābhedair bahudhā pravibhajyate / tad vyākaraṇam āgamya paraṃ brahmādhigamyate // K. Raghavan, The Vākyapadīya: A Critical Edition of the Text of Cantos I and II (Delhi: Motilal Banarsidass, 1971). 1664Bhartṛhari, Vākyapadīya 1.4: ekasya sarvabījasya yasya ceyam anekathā / bhoktṛbhoktavyabhedena bhogarūpeṇa ca sthitiḥ // Despite how often this verse is quoted, this is only occurrence of the bhoga-oriented formulation in the entirety of the Vākyapadīya. 
-1818 
-by bliss or rapture, in a manner that presupposes embodiment. These other values, and with 
-them a very specific ecstatic rhetoric, are virtually hallmarks of the other major point of 
-reception of Bhatṛhari’s theology, namely, their thoroughgoing impact not just among the 
-Trika exegetes, but upon the Śaiva and Śākta Tantras in general, where they come to provide 
-a philosophical meta-language for thinking about the various doctrinal claims across different 
-revelations. For it is here that, whatever his original intentions, Bhartṛhari’s conception of a 
-singular brahman, the source of everything, who possess all powers but is non-different from 
-them, perceived as taking on types of bhāvas, within which brahman manifests as the enjoyer 
-(bhoktṛ), the thing to be enjoyed (bhoktavya) and the form of enjoyment itself (bhogarūpeṇa) 
-becomes fused with Tantric cosmologies and practice systems. In looking at Dhanika’s 
-discourse on rasa, one has to be either ignorant of such texts or precommitted to rejecting their 
-relevance not to recognize that his notion of the rasika as above all else a bhāvaka, someone 
-who, within his own consciousness, through encounters with text and performance, brings 
-rasas into being such that they transform how the mind works, is very clearly in dialogue with 
-Tantric yogic modalities that invest considerable attention in theologizing experiences of affect 
-in a positive manner. 
-Thus, for example, towards the very end of the Daśarūpaka (4.38–39, p.121-2, 43–44, 
-p.123), Dhanañjaya and Dhanika explore the definition of the key terms used throughout in 
-regard to the savoring of poetry—svāda. Here, in response to the question “how does the 
-savoring of rasa arise from poetry, and what is the nature of rasa,” in consecutive verses 
-offering parallel constructions, we are told that the savoring (svāda) that arises from the bliss 
-of the self (ātmānandasamudbhava) occurs either when there is a bhāvanā of the meaning of 
-a kāvya (kāvyārthabhāvanā) or from the sambheda (Pollock translates this as “fusion”) of the 
-1819 
-meaning of a kāvya (kāvyārthasambhedāt).1665 This experience, we are told, which manifests 
-within the plane of the mind stuff, takes four forms, correlated respectively with śṛṅgāra, vīra, 
-bībhatsā, and raudra rasas; the expansion of the mind (vikāsa), the extension of the mind 
-(vistara), the agitation or stirring up of the mind (kṣobha) and the displacement of the mind 
-(vikṣepa). As Dhanika clarifies, svāda is produced as coming forth from the bliss of one’s own 
-self (svānandodbhūti) in its most powerful (prabalatara) form, namely, as savoring (svāda). It 
-is when we look more closely at the circumstances under which this type of experience of 
-savoring occurs that suddenly things become very interesting indeed. Let us turn to Pollock’s 
-own translation of the relevant passage: 
-The “meaning of a literary work” consists of the stable emotion “construed with” the factors and the rest. When there is a “fusion” between those and the mind of the viewer/reader—that is, a mutual interpenetration, in which the self-other distinction vanishes—we have the genesis of the most powerful form of “the bliss that is the self,” namely, savoring.1666 
-In light of everything we have just been exploring, encountering this passage should 
-have made two things evident. The first is that, despite some surface similarities, the 
-phenomenology of aesthetic experience in Dhanika diverges sharply from the classical 
-Vedāntic perspective that Reich has so rightfully demonstrated is integral to Bhaṭṭa Nāyaka’s 
-vision, in which art, like the world itself, is a useful illusion that when cross examined makes 
-evident its false and constructed nature in a way that is soteriologically beneficial. As opposed 
-to pointing out and then peeling back delusions, Dhanika’s theology promotes a model of 
-1665Dhanika, Avaloka on Daśarūpaka 4.43–44, pg. 123: svādaḥ kāvyārthasaṃbhedād ātmānandasamudbhavaḥ / vikāśavistarakṣobhavikṣepaiḥ sa caturvidhaḥ // śṛṅgāravīrabībhatsaraudreṣu manasaḥ kramāt / hāsyādbhutabhayotkarṣakaruṇānāṃ ta eva hi //. . . . kāvyārthena vibhāvādi saṃsṛṣṭasthāyyātmakena bhāvakacetasaḥ saṃbhede ’nyonyasaṃcalane pratyastamitasvaparavibhāge sati prabalatarasvānandodbhūtiḥ svādaḥ / tasya ca sāmānyātmaktve ’pi pratiniyatavibhāvādikāraṇajanyatvena saṃbhedena caturdhā cittabhūmayo bhavanti / tad yathā śṛṅgāre vikāsaḥ, vīre vistaraḥ, bībhatse kṣobhaḥ, raudre vikṣepa iti, tadanyeṣāṃ caturṇāṃ hāsyādbhutabhayānakakaruṇānāṃ svasāmagrīlabdhaparipoṣāṇāṃ ta eva catvāro vikāsādyāś cetasaḥ saṃbhedāḥ / 1666Pollock, A Rasa Reader, 177. 
-1820 
-aesthetic experience that is visceral, ecstatic, and embodied, at the center of which is situated 
-a fusion of horizons between the rasika and the characters and content of a work of art. This 
-fusion, he tells us quite explicitly, is in fact identical with the type of experiences that make 
-evident that the highest form of bliss is one’s own true nature. Our second observation, then, 
-is not only is this an emphatically theologically charged model of the nature of the literary, but 
-it is one that, both structurally as well as rhetorically, is instantly recognizable to any scholar 
-of Tantric Studies. What we are talking about is samāveśa. 
-In Tantric sources, by far the most common domain in Sanskrit discourse where this 
-term occurs, whatever their epistemologies and ontologies, this co-penetration is construed as 
-conceptually distinct from mere possession (āveśa) on the basis of its mutuality in which one 
-force does not overpower the other. In such an esoteric domain, what is being commingled is 
-typically the nature of the supreme deity and that of the delimited self, often related together 
-either as whole to part or image and reflection, again depending on the underlying ontology. 
-In contrast, in the Avaloka, the two things being fused are the mind of the rasika and the 
-meaning of the play. And yet, even in Pollock’s translation, svāda occurs when there is a fusion 
-(sambhede) that is a mutual meeting or co-mingling (anyonyasaṃcalane), during which the 
-division between (vibhāge) between oneself and the other (para) ceases or is set down 
-(pratyasta). Just as we find in late Trika Tantras like the Vijñānabhairava, when this happens, 
-bliss arises of its own accord. 
-And as a matter of fact, in the rare instances where Dhanika himself uses the term 
-samāveśa in place of sambheda, as he does in his commentary on 4.34, the discourse that 
-results is animated by a very similar logic.1667 Here, samāveśa is used in describing how other 
-1667Dhanika, Avaloka on Daśarūpaka 4.34, pg. 114–115: tad anena prakāreṇa virodhinām avirodhināṃ ca samāveśo na virodhī / tathā hi, virodaḥ sahānavasthānaṃ bādhyabādhakabhāvo vā / ubhayarūpeṇāpi na tāvat 
-1821 
-subordinate emotional moods can co-participate with the dominant emotion (sthāyibhāva), 
-whether or not the subordinate emotional mode is in conflict or not in conflict. The conclusion 
-ultimately arrived at is that this is possible so long as the result is mutual participation 
-(samāveśa) and not a relationship where the sthāyibhāva is itself unilaterally overpowered. 
-This is again the distinction between āveśa—where one thing enters and replaces another— 
-and samāveśa, where the result is a fusion. As means of illustration, in an example that anyone 
-who has even attempted meditation will likely find familiar, Dhanika explains that in the mind 
-of the bhāvaka, the one doing bhāvanā, a constant emotional state, or point of focus, can still 
-be in effect while simultaneously transient emotions of various sorts make themselves manifest 
-and then disappear, “in the manner of a variegated flower garland strung on a single string” He 
-then argues that this same dynamic also governs a play in regard to a literary character, who 
-again is depicted as having a dominant emotional mode but also experiences transient reactions 
-of various other emotional colors. Dhanika concludes by hinting that it is the fundamental 
-similitude of these two things, the nature of one’s mind and the nature of the literary work, that 
-lays the groundwork for the fact what when the interpenetration of the two takes places within 
-the mind of the bhāvaka, the result is the unfolding of bliss. And unlike in classical Vedāntic 
-contexts, where the resulting state is uniform, even though he speaks of the bliss of one’s own 
-nature, Dhanika is careful to speak of a range of flavors of bliss, which for him are not, at least 
-for the most part, placed in a strictly hierarchical relation. Succinctly, much like the Trika 
-tādātmyam asyaikarūpatvenaivāvirbhāvāt / sthāyināṃ ca vibhāvādīnāṃ yadi virodhas tatrāpi na tāvat sahānavasthānaṃ ratyādyuparakte cetasi sraksūtranyāyenāvirodhināṃ vyabhicāriṇāṃ copanibandhaḥ samastabhāvakasvasaṃvedanasiddhaḥ / yathaiva svasamvedanasiddhas tathaiva kāvyavyāpārasaṃrambheṇānu- kārye ’py āveśyamānaḥ svacetaḥsaṃbhedena tathāvidhānandasaṃvidunmīlanahetuḥ sampadyate / tasmān na tāvad bhāvānāṃ sahānavasthānam / bādhyabādhakabhāvas tu bhāvāntarair bhāvāntaratiraskāraḥ / sa ca vyabhicāriṇāṃ sthāyinām aviruddhavyabhicāribhiḥ sthāyino ’viruddhās teṣām aṅgatvāt pradhānaviruddhasya cāṅgatvāyogād ānantaryavirodhitvam apy anena prakāreṇāpāstaṃ bhavati / 
-1822 
-exegetes, our Alaṃkāraśāstrin has committed himself to an ontology that is “nondual” and yet 
-inclusive of meaningful difference. 
-We have just taken some time to reassess the proximate intellectual antecedents of 
-Hemādri’s seminal theorization of bhaktirasa as a religious modality within the field of 
-Alaṃkāraśāstra. From the perspective of the extensive, largely Gauḍīya-inflected literature on 
-rasa, what we have found, namely, a specifically Deccani as opposed to Kashmiri discourse, 
-and moreover one that is markedly Śākta in its theological commitments, suggests a rather 
-different context for continued work in rethinking the pre-history of the Vaiṣṇava 
-aestheticization of religion. For our own purposes, it is the base reality, of which Hemādri 
-seems entirely too conscious, namely, that his bhaktirasa aesthetics runs on what is effectively 
-Śākta software, that will help us make sense of the overall structure of the Muktāphala and 
-Kaivalyadīpikā. Despite its representation in our literature as primarily presenting our first 
-theorization of bhaktirasa, in reality, these texts continually seek to qualify and subordinate 
-their bhaktirasa methods to an in many ways more particularized and innovative bhaktiśāstra 
-theology at once deeply rooted in the text of the Bhāgavata and the methods of learned Sanskrit 
-philosophical and hermeneutical disputation. Keeping this in mind, we are ready to turn to 
-Hemādri and his disciple’s theorization of the meaning of bhakti rasa. 
-Bopadeva: Bhaktirasa is the sense of wonder (camatkāra) that is produced from the hearing (śravaṇa) and so forth of the lives (caritasya) that consist of the nine rasas, [either] of Viṣṇu or of the viṣṇubhaktas, as described by Vyāsa and others. 
-H: Rasa is produced from the conjunction with the vibhāvas and so forth of such a nature. One perspective is that because of its primary operation, it operates with regard to Rāma and so forth who is being imitated through the power that has the form of acting. The second [perspective] is that [it operates] only with regard to the imitator. The third is that [it operates] with regard to the spectators. The fourth is that [it operates] with regard to both the imitator and the spectator because the awareness of rasa has a foot placed on both sides [of the imagined shore]. And according to some people, that rasa is to be produced. Others say it is to be caused to be cognized. Others that it is to 
-1823 
-be enjoyed. Others that it is to be suggested. But while these [perspectives] are worthy of being investigated on that very matter by right-minded people, out of fear of textual prolixity, it is not expanded upon here. 
-[PP] Because of that detachment from the assemblage of rasas and the vibhāvas and so forth, bhakti does not have the status of being a rasa. For this very reason, this is rejected by others who are saying that thus can be said to the case with regard to bhakti also. 
-Thus, he subsequently reads, “of the story being described by Vyāsa and so forth.” Viṣṇu’s devotees are the gopīs and so forth. By the word “śravaṇa and so forth,” camatkāra [is said to be produced by] seeing, chanting, remembering, and representing in drama. For, since bhaktirasa is endowed with such an assemblage [of rasas and vibhāvas, etc.] on the part of the spectators, it cannot be denied, is the sense.1668 
-In Bopadeva’s articulation, unlike all other rasas, bhaktirasa is construed as a purely 
-“sectarian” category. It is the wonder-producing rasa that is produced only from hearing 
-(śravaṇa) about the lives of Viṣṇu or of his devotees. Oddly enough, considering that the 
-Muktāphala is largely an anthology of verses from the Bhāgavata that Bopadeva had curated 
-under Hemādri’s direction, this definition does not elevate the Bhāgavata as a unique scriptural 
-authority, but instead seems to leave open the possibility that any telling of the Viṣṇu 
-incarnations potentially holds this transformative power. Hemādri’s commentary is equally 
-revealing of authorial core priorities. In the first paragraph, we are offered a survey, essentially 
-running through the literature of rasa theory in chronological order, of the various different 
-opinions about where rasa is to be located. Hemādri gives his reader just enough material to 
-show that he is knowledgeable about these conversations, and then does not even attempt to 
-1668Hemādri, Kaivalyadīpikā, pg. 167: vyāsādibhir varṇitasya viṣṇor viṣṇubhaktānāṃ vā caritrasya navarasātmakasya śravaṇādinā janitaś camatkāro bhaktirasaḥ // evaṃvidhavibhāvādisaṃyogād raso niṣpadyate / tasya ca mukhyayā vṛttyā rāmādāv anukārye vṛttir naṭakarūpabalād ity ekaḥ pakṣaḥ / anukartary eveti dvitīyaḥ / sāmājikeṣv iti tṛtīyaḥ / rasasaṃvida ubhayatodattapādatvād anukartari sāmājikeṣu ceti caturthaḥ / sa ca rasaḥ kārya iti kecit / jñāpya ity eke / bhogya ity anye / vyaṅgya ity apare / sudhībhis tu tatraivānusandheyāḥ / granthagauravabhayān nātra pratanyate / tasmād vibhāvādirasasāmagrīvirahān na bhakte rasatvam / ata evāyam anyair evaṃ bhaktāv api vācyam iti vadadbhiḥ pratyādiṣṭaḥ / ata uttaraṃ paṭhati vyāsādibhir iti / varṇitasya caritrasya / viṣṇubhaktā gopyādayaḥ / śravaṇādinetyādiśabdād darśanakīrtanasmaraṇābhinayaś camatkāraḥ / sāmājikānāṃ hi yasmād evaṃsāmagrīko bhaktirasas tasmād anapahnavanīya ity arthaḥ / 
-1824 
-insert himself into the discourse. In other words, he is showing us that his own interpretive 
-project is so profoundly different that indulging in such controversies would prove a distraction 
-from the real work at hand. Then, though he has tackled this issue earlier in this same chapter, 
-he turns to the assertion, emerging from within Ālaṃkārika circles, that bhaktirasa does not 
-meet the proper definition of a rasa because it lacks the full array of aesthetic elements. Rather 
-than rhetorically framing his forthcoming delineation of what precisely all of these elements 
-might be as a full-blown refutation of this argument, Hemādri simply notes the objection and 
-bats it aside with an assertion that a full array of such elements does in fact exist. 
-It is worth noting what he chooses to focus our attention on instead. To this end, 
-Hemādri highlights two topics. The first is the precise nature of which among Viṣṇu’s devotees 
-have lives that can serve as models and modalities for the production of bhaktirasa. 
-Undercutting the charismatic religious authority of contemporary religious movements, as we 
-will explore in more detail as this chapter concludes, Hemādri makes sure that this category is 
-restricted to characters in the narratives, such as the gopīs, instead of people in the outside 
-world. His second and even more essential assertion seeks to clarify what exactly are the 
-catalysts for the experience of bhakti rasa. As Hemādri clarifies, making sure that the 
-underspecification of the original verses use of “etc., etc. (ādi)” does not permit the 
-interpolation of theologically unwelcome practices, the means of experiencing wonder 
-(camatkāra) are limited to seeing (darśana), chanting (kīrtana), recollecting (anusmaraṇa), 
-and representing in drama (abhinaya). The first three are practices well known from many 
-scriptural texts, especially the Bhāgavata. They present us with a framework within which pūjā 
-and tīrthayātrā—to “see” god, individual or collective nāmasaṃkīrtana—to sing his name, as 
-1825 
-well as an array of yoga-inflected technologies of recollection, are given sanction, ultimately, 
-as modes of religious practice that are not wholly governed by the logic of injunction. 
-The inclusion of drama, but quite conspicuously not of “poetry” in any wider sense, is 
-a much more curious choice. Whereas the other terms are integral to the Bhāgavata’s theology 
-and system of praxis, the word for drama used here, namely, abhinaya, appears nowhere in the 
-Bhāgavata. Despite the considerable importance that devotional drama as a genre will have for 
-subsequent Vaiṣṇava movements in both Sanskrit and the vernacular across the subcontinent, 
-the context for this innovation seems to be rather localized, of a piece with the didactic dramas 
-from Saurashtra that Hemādri sought to promote more widely as public illustrations offering 
-cautionary tales about deviant personal comportment, but also in line with late thirteenth- 
-century promotion of Marathi Kṛṣṇa kathā, albeit with a very different underlying theology, 
-among the Mahānubhāvikas. It is only once the more important task of addressing the nature 
-of practice has been taken care of that our author returns to outlining how the contents of 
-Vaiṣṇava devotionalism can be aligned with the inherited canons of rasa theory. 
-H: By some certain means (upāya), the entrance of the mind (manoniveśa) [into Viṣṇu] becomes the sthāyibhāva. The listening to stories and so forth are the excitant (uddīpana) vibhāvas. The devotees of Viṣṇu are the supporting (ālambana) vibhāvas. The anubhāvas, however, which are the stambha and so forth, will be stated later as suitable, as well as the transient emotions (vyabhicāribhāvas) such as steadfastness and so forth. The means (upāya), however, are passion, comedy, and so forth [i.e., the sthāyibhāvas]. 
-By the phrase “described by poets,” it is stated that the discourse about rasa (rasavyavahāra) occurs only in those [literary works] being offered by the compositions of the great poets, and not elsewhere [i.e., in the sources where bhaktirasa is expressed]. For this reason, when Jānakī and Rāmabhadra are being imitated, this is merely passion, etc., (i.e., the sthāyibhāvas), but not the status of being a rasa, because [real rasa—i.e., bhaktirasa] has the form of wonder of a superworldly nature (lokottaracamatkāra). Even if there is wonderment with regard to the erotic rasa and so forth in some cases, all the same, there is not the conventional operation of rasa in that case because of its non-apprehension with regard to the terrifying rasa and so forth. For this very reason, we find the qualifiers “if these exist in drama and poetry.” [In 
-1826 
-contrast,] the rasa that is being offered by compositions (sandarbha), by dramatic performances (abhinaya) and even by what is shown, is exceedingly sweet (atisvadate).1669 
-For Hemādri it is the lasting emotional mode (sthāyibhāva), such as passion and so 
-forth, that provides the devotee with means for entering into the transformative possibilities of 
-this bhaktirasa discourse. As we will see in a moment, what the rasika “enters into” is nothing 
-less than the real nature of Viṣṇu in his various manifestations. While the catalyst for this 
-occurrence is the sthāyibhāva itself, it is said to take the support of additional aesthetic 
-elements. In the classical tradition, which in this regard Hemādri follows (though this 
-innovation is not found in the Nāṭyaśāstra itself), typically it is assumed that there are two 
-types of vibhāvas: the uddīpanavibhāva and the ālambanavibhāva. In a typical “romantic” 
-moment in a work of literature, the uddīpanavibhāvas would be such things as, for example, 
-the soft white moonlight and the smell of jasmine wafting in the air, all of which set a mood 
-that reinforces the expression of the lasting emotional mode (sthāyibhāva). The 
-ālambanavibhāva in such a setting might be the protagonist, our hero or nāyaka’s love interest, 
-whose presence or invocation makes solid the emotional mode. In similar spirit, if what the 
-poet is aiming at is an invocation of terror, the uddīpanavibhāvas might be such things as the 
-dark moonless night filled with the howling of jackals and the ālambanavibhāva might be the 
-corpse of the hero’s friend, who he stumbles upon in the dark lying on the ground. In Hemādri’s 
-reframing however, the uddīpanavibhāvas provoking the nine-modes of experiencing 
-bhaktirasa become the seeing (darśana), chanting (kīrtana), recollecting (anusmaraṇa), and 
-1669Hemādri, Kaivalyadīpikā, pg. 167 : tatraiṣā samāgrī / kenāpy upāyena manoniveśaḥ sthāyī / caritraśravaṇādaya uddīpanavibhāvāḥ / viṣṇubhaktāś cālambanam / anubhāvās tu stambhādayo vakṣyamāṇā yathāyogyaṃ dhṛtyādi- vyabhicāriṇaś ca / upāyas tu ratihāsyādiḥ / kavibhir varṇitasyety anena mahākaviprabandhasamarpyamāṇeṣv eva rasavyavahāro nānyatrety uktam / evam evaitad anukāryeṣu hi jānakīrāmabhadrādiṣu ratyādimātram / na tu rasatvam / tasya lokottaracamatkārarūpatvāt / camatkāraś ca yady api śṛṅgārādau kvacid asti tathāpi bhayānakādāv anupalambhān na tatra rasavyavahāraḥ / ata eva tāni cen nāṭyakāvyayor ityādiviśeṣaṇāni / abhinayair upadarśyamānād api sandarbhaiḥ samarpyamāṇo raso ’tisvadate / 
-1827representing in drama (abhinaya) of the life stories of Viṣṇu and his devotees. As for the 
-objective correlate in the outside world in relation to which the hero who is god is positioned, 
-the mood maintaining ālambanavibhāvas become the entextualized devotees themselves. In 
-essence, the rasika himself is recast as the locus for the unfolding of rasa. 
-After alluding to the transient context-dependent emotions as well as the embodied 
-psychophysical reactions, which, we must remember, have now become as much a part of the 
-lived experience of the ordinary listener or viewer as they are a part of the play, Hemādri once 
-again devotes himself to his real priority in this section. Not content with establishing that 
-bhaktirasa is a legitimate subtype of aesthetic experience, having challenged the canons of the 
-effete literati on their terms, our author now sets out to delegitimize the most cherished ideals 
-of the literary establishment itself. His argument is that, while poeticians like Abhinavagupta 
-and Dhanika had the right sort of ideas, they have applied them in the wrong way. In actuality, 
-notwithstanding Abhinavagupta’s invocation of rasa within works of literature as offering an 
-experience of the alaukika, all mere literary settings can offer us is a worldly discourse about 
-rasa experience, (rasavyavahāra). At its best, literature just provides a mere semblance of rasa 
-that is incapable of connecting a person to any higher order experience, let alone even a taste 
-of inner bliss. If you want these higher order rewards, Hemādri is suggesting, the only solution 
-is that you have to direct your mind, in whatever way, towards Kṛṣṇa (and just Kṛṣṇa) and 
-become his bhakta. It is his bhaktas alone who we can rightly label as rasikas. As we will see 
-momentarily, in open antagonism to typical Śākta doctrine, the Muktāphala and 
-Kaivalyadīpikā proclaim that while God permeates everything, access into his real nature is 
-possible only through delimited domains that are solely of a sattvic nature. Clearly, it seems, 
-1828 
-the stories about Kṛṣṇa and his bhaktas, wherever they are found, potentially participate in 
-such a nature in a way that mere literature (or other forms of religion) does not. 
-Distilled down to its essentials, the argument of the final part of this chapter is that for 
-all its byzantine intricacies and sincere investment in Bhāgavata exegesis, the Kaivalyadīpikā 
-needs to be understood as a concerted and focused effort in “turning the tools of the master 
-against him,” with the master in this particular collocation being the episteme of the Śākta- 
-Śaiva dimensions of the Tantric world. Hemādri organizes his discourse on salvation around 
-two key insights. The first is that all the various modes of religious praxis taught in the 
-Bhāgavata, which the Bhāgavata itself understands as representing many roads to the same 
-goal, can be organized into a binary hierarchy of religion governed by injunction, founded 
-upon very specific types of ritual eligibility (adhikāra) that yield only penultimate benefits, 
-and a spontaneous higher path, theoretically open to anyone, typified by affective visceral 
-embodied experiences that imbue the body with divine presence. This formulation is, of course, 
-reminiscent of what we found in Abhinavagupta. It is a replication of the high Kaula critique 
-of the Tantras, epitomized in the Tantrāloka as the distinction between the tantraprakriyā and 
-kulaprakriyā. Within this emic but in many ways ahistorical representation, the defining 
-feature of the latter domain is that it supposedly indexes changes in status and ritual eligibility 
-by replacing an older paradigm where such transitions are marked by formalized rites of 
-initiation mediated by institutions with an avant-garde approach where ritual authority is made 
-evident by the “spontaneous” appearance of the signs of active possession. Such signs of 
-possession are of course virtually identical to what the discourse of Sanskrit aesthetics has 
-identified as the sāttvikabhāvas, a conceptual connection already recognized by the Śāktas 
-themselves in the later Kaula sources. In place of explicating religious experience as a 
-1829 
-possession experience using the esoteric frames in the Deccani Kaula sources, Hemādri resorts, 
-as we have seen, to the parallel domain of Ālaṃkārika dramaturgical analysis. But as we have 
-just explored, dig down a bit beneath the surface and it is all too evident that the Śāktas have 
-already beaten him to the punch. In the hands of Dhanika, writing within the domain of what 
-we might call a Deccani aesthetic dispensation, the very tools of rasa theory again are aligned 
-with a Śākta vision of reality. What Hemādri does in turn is what he does best, takes up a hot 
-unforgiving “sattvic” light and direct it into the “darkness” of other people’s value systems 
-with the aim of at once displacing them and then occupying the social and conceptual territory 
-they had previously monopolized. Thus, while there are many other fruitful ways to approach 
-the Muktāphala and Kaivalyadīpikā as works of theology, our own focus will be largely 
-confined to making sense of how it deploys subverts and dethrones a Śākta episteme. 
-The Two Devotions, or How to Render the Spontaneous Banal 
-Throughout the eleventh adhyāya of Kaivalyadīpikā, which we have just be exploring—which, 
-tellingly, is characterized not as the chapter on rasa but simply entitled the 
-Viṣṇubhaktaprakaraṇa, Hemādri has continually and none-too-subtly referred his reader 
-back1670 to a discussion that took place much earlier in his commentary. This is found in the 
-aptly titled Viṣṇubhaktiprakaraṇa, and our author asserts again and again that his bhaktirasa 
-discourse is conceptually dependent upon the arguments contained in this earlier chapter. And 
-just as one cannot properly make sense of the role of the viṣṇubhakta without first grasping 
-Hemādri’s understanding of the nature of viṣṇubhakti, mastery of the discourse on viṣṇubhakti 
-1670Even just within the selections curated by Sheldon Pollock, Hemādri invokes several times the proof text with which chapter 5 commences: “by some certain means (upāya), the entrance of the mind (into Kṛṣṇa).” He also alludes a number of times in the eleventh chapter, only instance one of which we have covered in our analysis, to a preexisting distinction between “enjoined and unenjoined” bhakti (vihitāvihita), which turns out to be the central focus of chapter 5. 
-1830 
-itself is only possible if one arrives at a doctrinally correct understanding of the real nature of 
-Viṣṇu and his relation to the world of experients and experiences. We will thus take this 
-threefold structuring element, a central feature of the Kaivalyadīpikā but by no means its most 
-evident organizing architectonic,1671 as the guiding focus of our own exploration. In this spirit, 
-we will continue working backwards. Now that we have examined the definition of bhaktirasa 
-in chapter 11 of the Muktāphala, tracing its roots back into the discourse of poetics, we are 
-ready to engage with chapter 5 of the Muktāphala, the Viṣṇubhaktiprakaraṇa. When the core 
-arguments of that pivotal but rather opaque chapter have been explicated, we will be prepared 
-to engage with chapter 1 of the Muktāphala, which takes as it focus the ontology of Viṣṇu and 
-espouses a non-dual but thoroughly devotionalized Advaita Vedānta. With this triadic 
-formulation in hand, we will then attend to the affinities between Hemādri’s own theology and 
-its nearest counterparts, which are to be found in the realm of old Marathi literature, especially 
-the teachings of Cakradhar and the Vivekasindhu of Mukundarāja. The chapter will conclude 
-with a return to the realm of bhaktirasa, zeroing in on the polemical character of Hemādri’s 
-selection of vīrarasa as the highest devotional mode and the only one that ensures liberation 
-in a lifetime. Through this move, that quintessential social actor, the Tantric vīra, is 
-deliberately reinscribed as person who heroically follows the law. 
-To get at the content of the non-rasa portions of the Kaivalyadīpikā, often strikingly 
-original and altogether formative for the later history of many a stream of Vaiṣṇava thought, 
-one first has to get past its formidable, and—for the modern reader at least—often altogether 
-1671Following the colophons, and using the headings introduced by Bopadeva, the editor subdivides the text into four topical divisions of rather uneven length. The first of these (1–4) is concerned with the nature of Viṣṇu, the second (5–6) with the nature of viṣṇubhakti, the third (7–10) with the subordinate but necessary elements that support bhakti. The fourth, and last (11–17), is comprised of the initial theorization of bhaktirasa we have just been exploring, followed by a series of chapters illustrating how these principles are applied across the specific rasas. In the actual experience of reading the text straight through, however, even these topical divisions are so barely evident as to seem artificial. 
-1831 
-uninviting form. Though our own approach in what follows will downplay as much as possible 
-such dimensions of the work (in a large part because they translate poorly into English and 
-might well alienate even a reader who has made it this far into a very long study), Hemādri’s 
-śāstric arguments in the Kaivalyadīpikā are interwoven with and in many way subordinated to 
-his duties as a commentator. In this capacity, our śrīkaraṇeśvara offers intermittent glosses on 
-Bopadeva’s framing verses in the Muktāphala, but more fundamentally, on the “Pearls of 
-Wisdom,” namely, decontextualized verses extracted from the Bhāgavata that Bopadeva has 
-curated under Hemādri’s direction. In a substantial stylistic departure from his other writings, 
-in reading the verses of the Bhāgavata, Hemādri primarily adopts a style of microtextual 
-analysis, common to a subset of kāvya commentators, in which the interpretive focus is 
-offering close readings of individual words, compounds, or small syntactic units. This 
-approach to reading is carried out at the expense of offering connected interpretations of the 
-meanings of whole verses, let alone any explicit entextualized consideration of how a series of 
-verses may be being deployed in the service of making an argument. Not uncommonly, 
-especially where Hemādri’s understanding diverges sharply from that of our next oldest 
-Bhāgavata commentator, Śrīdharasvāmin, often it is even difficult to determine just how 
-precisely he is construing individual verses. In many cases, it is only at the conclusion of the 
-chapter, where our author comments upon Bopadeva’s own summaries, that the conceptual 
-framework that brings order to what might originally have seemed a string of incidental or 
-highly pedantic observations begins to come into focus.1672 With this in mind, let us turn to the 
-beginning of the Viṣṇubhaktiprakaraṇa. 
-1672Another important caveat is that, at least from the perspective of the modern reader, within the commentary, an inordinate amount of time and energy is spent explicating and seeking to reconcile a range of inherited taxonomic systems. Often what is on offer is little more than various enumerations of listed principles and subcomponents, most of which are absent from the Bhāgavata itself. It is quite likely that Bopadeva, who 
-1832 
-B: Now the chapter on viṣṇubhakti. There (tatra) we find the definition of viṣṇubhakti: 
-“Therefore (tasmāt), by whichever means (kenāpi) one should cause the mind to enter (niveśayet) into Kṛṣṇa (kṛṣṇe).” 
-H: Thus, having expounded upon Viṣṇu, he starts the section on bhakti, which is to be understood in terms of the sequence of presentation [of topics]. He says “there,” i.e., in this [very prakaraṇa], to state the definition of what is universal (sāmānya) regarding bhakti. And in this context (tatra), there is the definition of bhakti toward Viṣṇu and its subtypes. [Thus begins the commentary on the verse:] 
-Where it [the verse] says because (tasmāt), for that reason, what is intended is that Kṛṣṇa alone is the bestower of kaivalya. Or, otherwise, “therefore” (tasmāt) [means] because a particular means (upāyaviśeṣa i.e., God)1673 is intended to be stated. [Where the text says] by whichever means (kenāpi), what is intended is the means that is enjoined (vihita) or not enjoined (avihita), insofar as [that means] has an ascertained capacity to achieve the aforementioned goal. [But, this is] not [the case when it comes to such means as] insanity and so forth. [Where the text says] in Kṛṣṇa, [the intended meaning is] within brahman, which is under the modifying influence (upādhi) of sattva.1674 
-In a manner entirely in keeping with his usual style, “Bopadeva” begins the fifth 
-chapter, first, by stating his intended focus, and then by repurposing a selection from the 
-Bhāgavata. In its original context,1675 this verse appears in the midst of a long teaching that 
-Nārada offers to Yudhiṣṭhira. The occasion for the discourse is the Pāṇḍava king’s 
-bewilderment when he realizes that the ghost of Kṛṣṇa’s enemy Śiśupāla—alongside the 
-sometimes introduces these speciations with little comment, as well as our commentator Hemādri, are seeking to position their theological system in relation to other competing Vaiṣṇava doctrinal systems. Occasionally, as when in the first chapter we encounter arguments about whether Viṣṇu is fivefold, or simply fourfold in nature, as was taught in Pañcarātra vyūha, with Hemādri ultimately showing us how both these statements can be true, we can sort of follow both the sense and the substance of such intermural debates. Very often, however, in the absence of having any sense of who Hemādri’s interlocutors are and what are the stakes in these discussions, properly making sense of these aspects of the text seems to involve an enormous amount of work for precious little payoff. In short, many an explanation of many features of this work will have to be left for another time or interpreter. 1673On upāyaviśeṣa as a technical term, see the previous chapter. 1674Hemādri, Kaivalyadīpikā on Muktāphala 5.1, pg. 83: atha viṣṇubhaktiprakaraṇam / tatra viṣṇubhakter lakṣaṇaṃ / tasmāt kenāpy upāyena manaḥ kṛṣṇe niveśayet // evaṃ viṣṇuṃ prapañcya kramaprāptaṃ bhaktiprakaraṇam ārabhate / atheti / tatrāpi bhakteḥ sāmānyalakṣaṇaṃ vaktum āha / tatreti / tatra viṣṇubhakter lakṣaṇaṃ bhedāś ca / tasmād iti / yasmāt kṛṣṇa eva kaivalyapradaḥ / yad vā tasmād upāyaviśeṣasya vivakṣitatvāt / kenāpi vihitena avihitena vā upāyena sādhyasiddhyavadhṛtasāmarthyena (BV) / na tūnmādādinā / kṛṣṇe sattvopādhau brahmaṇi / 1675Bopadeva is citing verse 7.1.31 in the vulgate of the Bhāgavata Purāṇa. Verses 7.1.12–20 offer the frame narrative for introducing the importance of dveṣabhakti. 
-1833 
-specters of a whole host of other cruel and tyrannical beings that Kṛṣṇa had violently 
-dispatched—had been reverently in attendance during his coronation. In what is one of the 
-Bhāgavata’s great moments of advocating what will come to be called antagonistic devotion 
-(dveṣabhakti), right before telling the tale Prahlāda, Nārada explains to the king that any form 
-of identification (abhimāna) with Kṛṣṇa or unbroken mental focus upon him yields the same 
-result. So long as one ceases to be aware of anything other than Kṛṣṇa, it does not really matter 
-if such mental fixation is brought about from antagonism, affection, fear, love, or lust. In fact, 
-Nārada opines, it is his own personal opinion that constant antagonism towards Kṛṣṇa is 
-actually more efficacious than mere love. He then famously remarks that the gopīs connected 
-to Kṛṣṇa out of lust, Kaṃsa did so out of fear, Śiśupāla and the other rulers out of hatred, the 
-Vṛṣṇis motivated by filial bonds, the Pāṇḍavas out of friendship, while the sages alone 
-connected to him through pure bhakti.1676 In all cases, however, whatever their emotional place 
-of origin, through forging this connection with the supreme reality, all of these agents were 
-purified of their vāsanās and ultimately arrived at the same state of grace. 
-In other words, when we take this quote and reembed it in its context, the Bhāgavata 
-itself seems to be giving us a much more “natural” and straightforward foundation for 
-theorizing bhaktirasa than the decontextualized and rather vague snippet our authors have 
-actually selected to introduce the topic. If you want to understand why Bopadeva and Hemādri 
-have actively rejected this low hanging fruit and substituted in its place a counterintuitive 
-interpretation, in fact actively contradicted in the very passage they have chosen and not 
-grounded at all in what we find in this chapter of the Bhāgavata, you have to recognize that 
-1676Bhāgavata Purāṇa 7.1.30. Hemādri incidentally is going to reject this formulation, as for him “the sages” connected to god through a highly refined but still injunction driven form of jñānabhakti that is not purely made of sattva. 
-1834 
-Nārada’s teachings about dveṣabhakti—while not rejected by our authors in toto—rest uneasily 
-with Bopadeva and Hemādri’s chosen theology and ontology. From their perspective, 
-showcasing dveṣabhakti in this manner is problematic because ontologically, it is grounded in 
-rājasic and tāmasic impulses. Such forces, according to Hemādri, just like madness and 
-possession, cannot possibly lead so readily and easefully to the experience of “entering into 
-Kṛṣṇa,” a few eccentric instances notwithstanding. For, in our authors’ understanding, the 
-reason this is the case is that Kṛṣṇa is the form of parabrahman whose sole modification 
-(upādhi) that differentiates him from the originary state of being is that he is purely made of 
-sattva. Thus, anything that does not partake of the same kind of ontic purity cannot persist 
-within him. As a result, such approaches, though they harness these lower impulses towards 
-higher, demand of the devotee that he must first be cleansed of his rājasic and tāmasic nature 
-before he can achieve the final outcome. In this way, as we shall soon see, they become a road 
-to be followed by those unsuited to loftier modes, and not a general paradigm for practice. In 
-other words, because the original intended message of the seventh chapter of the Bhāgavata is 
-so unpalatable, our authors have to replace it with the stipulation that, while the text says 
-“whatever means” (kenāpi), gesturing towards a range of effect modalities, in actuality we are 
-only talking about two different choices between two types of bhakti. These are bhakti 
-practices governed by ritual injunction (vihita) and bhakti practices not governed by injunction 
-(avihita). You may have already seen the problem with the proof text that anchors this new 
-formulation. Quite simply, from the perspective of virtually any śāstrin, Bopadeva has made 
-an unwise choice in selecting his proof text. The problem is that this tiny scrap of 
-decontextualized Bhāgavata verse ends with a verb that takes an optative form—“one 
-1835 
-must/should enter Kṛṣṇa,” niveśayet kṛṣṇe, implying an injunction. For virtually any educated 
-person of this era, based on the rules of parsing syntax in an unbroken statement, that would 
-seem to be signaling that all forms of bhakti practice would be governed by the strictures of 
-injunction. It is this issue that Hemādri, with improbable pedanticism, sets out now to remedy. 
-H: Because the optative is not being intended here [in the word niveśayet], this is a case of secondary signification [and not an injunction]: bhakti is making the mind firm in God, preceded by some upāya. 
-And it is not that there is non-applicability [of the definition] of that, as [it] is well known, as in the case of Prahlāda and so forth. Nor is it the case that there is [the fundamental deficiency that invalidates a definition caused by the] underextension of the definition in regard to the two [bhaktis], [one of which is] for the sake of accomplishing a vidhi [and the other of which is] for the sake of destroying karma, because both of those two [namely, vihita and avihita bhakti] are the cause of the fixing of mind [in God,] because of their being the cause of the purification of the inner organ. It is [also] not the case that we have overextension [of the definition, thereby invalidating it] with regard to something that is not bhakti, such as madness, because of its [madness and so forth] being refuted on account of its not being a means [to enter Kṛṣṇa]. 
-Nor should the doubt arise that it [avihita bhakti] is not included within the definition because of its being “a means,” because with regard to pure bhakti [i.e., bhakti not governed by injunction,] that is not mentioned as a means. Even in the absence of an explicitly mentioned means (upāya) within scriptural sources, there is [still] the possibility of [a means of a different sort being] obtained through inference. This doubt should not be raised. Therefore, the definition is faultless.1677 
-As bizarre and utterly besides the point as this sort of finicky parsing and reparsing 
-might look to the casual reader, what Hemādri is presenting us with here is a rather early 
-example of what will in the next century become a standard mode of high intellectual exchange. 
-Inspired by the New Logic, in this new paradigm, debates that test the viability of ideas by 
-1677Hemādri, Kaivalyadīpikā, pg. 83 : liṅnirdeśasyāvivakṣitatvād upāyapūrvaṃ bhagavati manaḥsthirīkaraṇaṃ bhaktir iti lakṣaṇārthaḥ / na tāvad asyāsambhavaḥ prahlādādau suprasiddhatvāt / na ca karmakṣayārthavidhisiddhyarthayor bhaktyor avyāptiḥ / tayor apy antaḥkaraṇaśuddhihetutvena manoniveśahetutvāt / nāpy unmādādāv abhaktibhūte ‘tivyāptiḥ tasyānupāyatvena nirastatvāt / nāpi śuddhāyāṃ bhaktāv upāyānirdeśād upāyeneti lakṣaṇe nāntarbhūtam iti śaṅkyam / śrautābhāve ‘py ānumānikasya sambhavāt / tasmād anavadyaṃ lakṣaṇaṃ / 
-1836 
-seeking to identify contradictions are replaced by the attempted vitiation of the definitions 
-given by a scholar. In this kind of discourse, in a highly formalized manner, it is the definition 
-itself that is tested for the flaws of underextension (avyāpti), overextension (ativyāpti), failure 
-to included something that is well known, and so on and so forth. What is interesting for our 
-purposes is that this suggests that in the interim, between the completion of the 
-Caturvargacintāmaṇi early in the reign of the Seuṇa Yādava king Mahādeva, the 
-Āyurvedarasāyana early in the reign of King Rāmacandra, and that of the Muktāphala and 
-Kaivalyadīpikā, probably significantly later in Rāmacandra’s time, something significant has 
-shifted in the intellectual environment, and that Hemādri’s own commitments have changed in 
-turn. Passages such as this in the Kaivalyadīpikā are clearly being addressed to a contemporary 
-learned elite, and yet no longer does our author see the need either to defend the legitimacy of 
-Smārta knowledge systems, to argue for the inclusion of the values of lived religion within the 
-canons of Brāhmaṇical knowledge, or to defend theism against its atheistic Mīmāṃsaka 
-despisers. Instead, the text simply seeks to justify particular delineations of topics like bhakti 
-in terms of cutting-edge modes of argumentation and presentation. In fact, throughout the 
-Kaivalyadīpikā, instead of serving as Hemādri’s constant sparring partner, Pūrva Mīmāṃsā, 
-albeit in a chastened form that takes for granted the reality of theism and the world of spirits 
-and bends the knee before the higher form of religion, again and again acts as our author’s 
-close ally. We can see this dynamic playing out in the reframing of bhakti as coming in two 
-fundamental types, one of which is governed by injunction, and thus falls under the purview 
-of a Mīmāṃsā inflected mode of ritual analysis, and another of which does not, and thus is to 
-be judged by the standards of the discourse on bhaktirasa. 
-1837In the passage that follows, Bopadeva asserts that bhakti is fundamentally of two types. 
-Either it is enjoined (vihita) or it is unenjoined (avihita).1678 Just what these two categories 
-might mean, as well as how they are sub-speciated into different internal gradated categories, 
-will be explored in detail over the course of the chapter, though their ultimate significance will 
-only be explicated by Hemādri in its closing paragraph. Unfortunately, at least for the modern 
-reader, these explanations come to us embedded within commentarial glosses on seventeen 
-verses extracted from the Bhāgavata, many of which are taken by our commentators as 
-illustrative of sub-speciations that themselves contain further gradations of subtypes of 
-enjoined bhakti. This mode of presentation makes it almost impossible to understand our 
-author’s arguments unless we ourselves spend time thinking through the verses upon which he 
-comments, attending both to their usual construal as well as what our author sees as their 
-intended meaning.1679 
-1678 Bopadeva, Muktāphala, pg. 83: sā dvedhā vihitā avihitā ca / 1679 For the purpose of illustrating the actual texture of the text, an extended commentary on the first verse (pg. 83–84) is provided here for the interested reader. Sadly, this dynamic is all too evident in the very first example in chapter 5 cited from the Bhāgavata, which ironically provides the chapter with an organizing point of reference that is referred back to repeatedly. In what will become a repeated trend of our commentator imposing highly specific and eccentric systematicities onto the root text, in its original context, this opening verse at best can be read as contrasting two distinctive modes of unrelated practices. It simply seems to contrast two categories, the rituals of the ānuśravikas, which are of an undetermined nature, and the pure one-pointed mental operation. As a matter of fact, the verse itself never actually mentions bhakti at all, still less does it treat these two modalities as different expressions of a single overarching bhakti framework. All of these notions seem to belong to our Dharmaśāstrins and not to the root text. In any case, presented without translation, the verse that opens our discussion runs as follows: devānāṃ guṇaliṅgānām ānuśravikakarmaṇām / sattva evaikamanaso vṛttiḥ svābhāvikī tu yā // 
-As we are about to see, against the intended meaning of the root text, Hemādri will take this verse as illustrating in general terms the contrast between enjoined bhakti (vihitabhakti) in what is ultimately its lowest form, and the much more specific sub-domain of the svābhāvikī-sattva-vṛtti, the exact nature of which is not clarified. Later in Hemādri’s analysis, some pages later, we will learn that for him, this second elements represents only the unenjoined (avihita) bhakti modality in its most pure form (śuddha), but for much of the chapter it is unclear to the reader what exactly our author is up to and what exactly is at stake in how he has constructed his categories. From this reader’s perspective, to be blunt, these rhetorical choices are ill thought out. Opening his analysis by contrasting the lowest form of enjoined bhakti with the highest form of unenjoined bhakti, instead of, for example, beginning with the generic differences between vihita and avihita bhakti or even contrasting the enjoined and unenjoined bhakti in equally lofty or lowly forms, creates numerous opportunities for fundamentally misunderstanding core elements of Hemādri and Bopadeva’s theology. As an illustration, a cursory reading might lead a reader (such as the present one, who labored under this misconception for a long time) to mistakenly assume 
-1838 
-that all forms of unenjoined rasa-governed bhaktis are characterized by ontic purity (śrāddha), when in fact Hemādri’s own position as articulated in the penultimate chapter of the Kaivalyadīpikā will prove to be diametrically opposed to such a stance. 
-For Hemādri, as it will be for Śrīdhara a century later, the intended meaning of the first half of the verse, which reads “devānāṃ guṇaliṅgānām ānuśravikakarmaṇām,” was apparently so unclear that both commentators decide that its references to the “gods” must be metaphorical. In Hemādri’s understanding, the real topic under discussion is “the deities” that apparently preside over our individual sense faculties, such a sight and so forth. For Hemādri, in a manner that is not likely to have been intended by the original, the presence in our verse of the term guṇa is taken in its Nyāya sense as referring to an inferential sign. From his perspective, the core idea here is that the presence of guṇas, qualities such as sattva, within a person, allow us to infer the presence and existence of gods. While we need not be preoccupied with the details—there is a lot of quibbling about the right way to construe compounds and so forth as well as attempts to map the verse into a Nyāya framework—the really important matter is where this discussion is leading us. As Hemādri explains, objects and their attributes, such as their color, become accessible to us only when they are placed within our line of sight. Otherwise, unless we infer their existence, we do not notice them. This process of sense perception, which suddenly activates and makes things that had never been accessed before pop into our awareness, according to Hemādri, can be described as akin to the deity that is the “eye” “enjoining” the “seeing” of that object. This in essence is a new theory of how the vidhi that governs the perception of things we cannot see (adṛṣṭaphala), revealed only from scripture, works. 
-Flipping Pūrva Mīmāṃsā on its head, by construing the term ānuśravikakarma in the verse as referring to a type of enjoined ritual, Hemādri then contrasts this type of knowledge with the rituals that serve “a visible” purpose (dṛṣṭaphala). Usually, in Mīmāṃsā, these are rituals that refer explicitly to the achievement of worldly mundane ends and are treated as wholly inferior, even merely a matter of social convention, with no “religious” significance whatsoever. Hemādri, in contrast, seeks to elevate this form of knowledge by equating it with that which brings about the sākṣād-darśana of the Lord. Thus, he incongruously interprets the term’s having a visible purpose (dṛṣṭaphala) as referring to “knowledge which has as its subject matter the nature of the self.” En route to his goal, he then invokes a proof text from the Bhāgavata as preface to summarizing the real purport, as he sees it, of this verse: 
-“The rituals [referred to in this verse] are the ones revealed through scripture alone, not the ones with a visible purpose. Because otherwise, there would be the undesirable consequence of suffering occurring when there is a lack of a result from [doing] them. As for the other ones [rituals with a visible purpose,] they do not exist for the purpose of obtaining some result. Because, they have the intended function of the cessation [of results]. Thus, it is said: ‘The Veda is the discourse of unseen things, which is for the instruction of little boys. It enjoins rituals for the sake of the release of karma, like a purgative.’” (BP 11.3.44) 
-Hemādri, Kaivalyadīpikā, pg. 83–84: devānāṃ guṇaliṅgānām ānuśravikakarmaṇāṃ / sattva evaikamanaso vṛttiḥ svābhāvikī tu yā // evaṃ sāmānyabhaktiṃ lakṣayitvā idānīm upāyabhedāt tadviśeṣān āha / seti / sā sāmānyarūpā / vihitā vedoktā / devānāṃ iti / devānāṃ cakṣurādyadhiṣṭhātṝṇāṃ sūryādīnām / guṇā eva liṅgāni grāhyatvāt / tad yathā rūpapratipattiḥ kāraṇapūrvikā kriyātvāt chidikriyāvat / guṇā eva liṅgāni na tu guṇavantaḥ teṣāṃ nāśe duḥkhāpatteḥ / guṇasya na nāśas tato ‘nyatra bhāvāt / evaṃ ca tattadviśeṣatyāgād mahāsāmānye sattva eva vṛttiḥ / ānuśravikāṇi vedoktāny eva karmāṇi yeṣāṃ devānām / tad yathā cakṣurādibhir vihitā eva rūpādayo grāhyā na tu sarve / ānuśravikāṇy eva karmāṇi na tu dṛṣṭāni / teṣāṃ phalābhāve duḥkhāpatteḥ / itareṣāṃ na phalārthatvam / tannivṛttyarthatvāt / yathoktam— parokṣavādo vedo ’yaṃ bālānām anuśāsanam / karmamokṣāya karmāṇi vidhatte hy agadaṃ yathā // iti / sattva eva na rūpādau / ekamanasaḥ puruṣasya devānāṃ / ekatraiva mano yasya nobhayatra, ayam arthaḥ / yady api devānāṃ sattve sattvavyaṅgye ca viṣṇau vṛttis tathāpi manaso viṣṇāv eva / sā ca svābhāvikī svabhāvena jātā nonmādādinā vikāreṇa / animittā bhāgavatī bhaktiḥ siddher garīyasī / jarayaty āśu yā kośaṃ nigīrṇam analo yathā // animitteti / nimittena khyātilābhapūjādinā hīnā / bhāgavatī bhagavataḥ iyaṃ bhajamānabhajyamānayor bhagavattvāt / yathoktaṃ— sarvabhūteṣu yaḥ paśyet / ityādinā / siddher garīyasī kaivalyād adhikā / kaivalye sukhatvam / bhaktau tu sukhānubhavaḥ / jarayati nāśayati / kośaṃ māyāvaraṇam / nigīrṇaṃ bhuktam annam / asyāś ca vihitatve ānuśravikakarmaṇām iti liṅgam / kapilo devahūtim / 
-Hemādri’s conclusion is that the intended message of the verse as a whole is that the “deities” of a person—in other words, his senses—should be directed so that he becomes one-pointed in his focus. The mind of such a 
-1839 
-In Hemādri’s initial reading, it would we seem have two categories, namely, an inferior 
-religion of the injunction that is oriented towards ritual, and a superior “sattvic” practice that 
-is spontaneous and involves not ritual but visualization. In actuality, however, as the 
-Kaivalyadīpikā progresses, this tidy picture will become disrupted. Both domains, namely, 
-enjoined and unenjoined bhakti, ultimately are seen as containing a range of modalities of 
-varying qualities and degrees of effectiveness such as is suited to people of divergent statuses 
-and qualities. Thus, for example, such esteemed sages as Nārada, Yājñavalkya, and Janaka are 
-enumerated among the devotees who achieved the supreme state solely through adhering to 
-the path of various sorts of enjoined bhakti. That this is the case is in large part because, in 
-Hemādri’s understanding, the category of enjoined bhakti is so capacious, entailing in the end 
-fourteen separate categories, that it has come to include nearly the entire spectrum of 
-formalized religious practice in evidence in South Asia. In the most general terms, at the very 
-bottom of enjoined bhakti modalities, we find the devotionalized reemployment of Vedic rites, 
-serving, as Hemādri invokes it, “as a purgative fit for little boys.” The mid-range contains, for 
-example, the sort of practices outlined in the Caturvargacintāmaṇi. As for the very top, it offers 
-us, albeit it in rather unspecified manner, a rarefied forms of bhaktiyoga observed by certain 
-ascetics, such as Dhruva and Nārada. 
-As for the domain of unenjoined bhakti, which as we will see is also called the 
-rāgānugā practice, it is synonymous with the world of bhaktirasa. This too is subdivided, in 
-this case, into nine main categories, corresponding to the rasas: humor (hāsya), love in 
-person, Hemādri explains, is directed only at a single place or point of focus, not even towards two things. What this means is that “the gods” who are governing such things as a person’s senses should exert their executive function, whether it is sight, or taste, or smell, in such a way so that each in turn takes only Viṣṇu as its point of focus. Even more specifically, the governors of the senses must orient themselves exclusively towards the form of Viṣṇu who is composed of sattva—in other words, Kṛṣṇa—and whose presence in the world is suggested or inferred by all things that are sattvic. 
-1840 
-separation (vipralambhaśṛṅgāra), pathos (karuṇā), ferocity (raudra), terror (bhayānaka), 
-disgust (bībhatsa), the serene (śānta), the wonderous (adbhūta), and the heroic (vīra), many of 
-which also contain their own subdivisions. Of these, only in cases where the four acceptable 
-permanent modes (sthāyin), namely, sexual passion (rati), fear (bhī), hate (dveṣa), and platonic 
-affection are deemed appropriate complements to the rasa by the tradition of aesthetics are the 
-sthāyibhāvas viewed to be soteriologically efficacious. Much less evidently, even when it 
-comes to the effective modes, these rasas also participate in their own hierarchy. While some 
-forms of avihitabhakti, particularly the purely sattvic practices associated with the highest form 
-of vīrarasa—in this system considered the highest form of bhaktirasa—enable a person to 
-achieve the highest state with rapid regularity, others are of more limited efficaciousness. 
-According to Hemādri, as we will soon see, what makes something non-enjoined bhakti is 
-simply the bare fact that it is an unwilled emotional response. The reason it has any value at 
-all is that that response happens to take as its point of focus a form of the Lord. It is thus the 
-nature of the Lord himself, and not the intrinsic virtue of the practice per se, that endows it 
-with its power and efficacy. 
-As chapter 5 continues, Bopadeva teaches that bhakti can be divided further in two, 
-into the subcategories of the mixed (miśra) and the pure (sattva).1680 As we are about to see, 
-all enjoined bhakti is to some degree considered to be “mixed” with other impulses beyond 
-pure bhakti. Even so, the umbrella category of miśra-vihita-bhakti is then once again seen as 
-coming in three flavors: karmamiśra, karmajñānamiśra, and jñānamiśra.1681 The first two of 
-these are themselves in turn subdivided each into three types. In the case of the karmamiśra, 
-1680Bopadeva, Muktāphala, pg. 85: sā dvidhā, miśrā śuddhā ca / miśrā tredhā / 1681These categories are introduced in 5.3 (pg. 84), but with minimal explanation. Subsequent verses simply further speciate the categories without explaining the conceptual relationships that relate them to one another. It is only at the conclusion of the chapter that the governing rationale is introduced. 
-1841 
-these are differentiated in terms of the guṇas, while in the case of karmajñānamiśra, they are 
-defined in terms of grades of excellence. All of these subcategories are then related to specific 
-verses drawn from the Bhāgavata and the particular dimensions of the mode are elaborated 
-upon in the ensuing commentary. For a practitioner of such systems or someone seeking to 
-historicize the evolution of these typologies, this specificity, grounded in each case in close 
-readings of illustrative examples, is probably quite useful. Nevertheless, with the aim of not 
-trying the patience of already very patient readers, it makes sense to turn our attention to the 
-larger point Hemādri is seeking to make, which is only raised as the chapter concludes. 
-Succinctly, after all of these speciations have been outlined, in a terse section on ritual 
-eligibility, we are finally informed that the applicability of these different modalities is largely 
-determined by the āśrama of the practitioner. 
-“The one who is established in his own respective eligibility is proclaimed [to be] ‘quality.’ The inverse of that, however, is a defect. There is the discernment of both of these.” 
-H: He articulates the flaw, even for worshippers, in establishing [oneself] on a higher level by abandoning the level [actually] attained according to one’s own eligibility, with the words “sve sve”. . . . 
-Bopadeva: Thus being the case, for the householders, there are nine types of bhakti mixed with action (karmamiśrabhakti). For the forest dwellers, there are three types of bhakti that are mixed with karma and jñāna. And for the bhikṣus, there is one mixed with jñāna. And there is there is one pure bhakti, for everyone, when anurāga has arisen. 
-But when it has to be produced [i.e., in the case of vihita-bhakti], then, bhakti is accordingly [always] mixed. There are the four non-enjoined bhaktis for those who are comparable to the gopīs and so forth. Thus, are the eighteen divisions. . . . 
-H: Thus, there being an adjudication of those who are eligible, even so, in conformity with the archetype, the divisions of sattvic-ness and so forth [of each of these categories] has to be supplied. On the part of those whose rituals are dispassionate, even among the householders, [bhakti is] mixed with karma and jñāna, for Yājñavalkya and Videha exemplify [this principle]. Here [In the verse], the bhiṣkus are the 
-1842 
-paramahaṃsas. On the part of others, who have been following naiṣṭhika- brahmacaryā since birth, there is only the bhakti mixed with karma and jñāna. 
-When there has been the destruction of rajas and tamas from the power of the practice of the various previous gradations of bhakti, when the mind is that of which the power has been purified—in other words, it is empowered with sattva—and when there is the arising of anurāga towards the Lord, without effort, pure bhakti manifests. Having intended thus, he states—“when anurāga has arisen.” From then on, liberation is not extremely far away (tataḥ param adūraviprakṛṣṭā). As he says, [this is true] “for those equal to the gopīs and so forth.” The sense is: on the part of those who are attached to kāma, dveṣa, bhaya, sneha that have arisen toward the Lord. Thus, these are the thirteen mixed types, and the pure type is only one.1682 
-While the verse itself, which has a message akin to the Bhagavad Gītā’s famous dictum 
-that it is better to do one’s own svadharma poorly than that of another well, is not very clear 
-about what sort of adhikāra is under discussion, both Bopadeva and Hemādri understand this 
-passage as offering a deliberation about how āśrama, but not varṇa, inflects all deliberate 
-devotional religious practice. The central message here is that all types of enjoined bhakti offer 
-an intermixing of karma or jñāna, in various proportions and with various degrees of internal 
-quality. Two factors then govern what sort of practice is important for any given person, 
-namely, their stage of life and the particular proportion of rajas and tamas that is expressed in 
-their character. Just as importantly, all forms of enjoined bhakti demand a concerted physical 
-and mental effort to commence their performance. The “pure bhakti” (as we shall see, the name 
-is rather a misnomer), in contrast, arises of its own accord without any effort. When it does, it 
-1682Hemādri, Kaivalyadīpikā, pg. 92–93: sve sve ‘dhikāre yā niṣṭhā sa guṇaḥ parikīrtitaḥ / viparyayas tu doṣaḥ syād ubhayor eṣa niścayaḥ // (BP 11.21.3) bhajamāneṣv api svādhikāraprāptabhūmikātyāgena bhūmikottarādhiṣṭhāne doṣam āha / sve sva iti / ubhau guṇadoṣau / bhagavān uddhavam / evaṃ sati karmamiśrā nava gṛhasthānām / karmajñānamiśrās tisro vanasthānām / jñānamiśraikā bhikṣūṇām / śuddhaikā sarveṣām utpanne ’nurāge / utpādye tu yathāsammiśrāḥ / avihitāś catasro gopyāditulyānām / evaṃ aṣṭādaśa bhedāḥ // śrībopadevakṛte muktāphale viṣṇubhakter lakṣaṇaṃ bhedāś ca / iti pañcamo ’dhyāyaḥ / athādhikāripraghaṭṭakārthaṃ sukhagrahaṇāya spaṣṭayati / evam iti / evam adhikārinirṇaye sati tatrāpi prakṛtyānurūpeṇa sāttvikyādivibhāgaḥ svayaṃ ūhyaḥ / gṛhastheṣv api niṣkāmakarmaṇāṃ karmajñānamiśraiva / videhayājñavalkyādayo hy atra nirdarśanam / bhikṣavo ’tra paramahaṃsāḥ / anyeṣāṃ naiṣṭhikabrahmacāriṇāṃ ca karmajñānamiśraiva / śuddheti / pūrvapūrvabhaktyabhyāsabalād rajastamaḥkṣaye viśuddhorjite sattvodbale cetasi bhagavaty anurāgodaye prayatnam antareṇa śuddhā bhaktir āvirbhavatīy abhipretyāha / utpanne ’nurāga ityādi / tataḥ param adūraviprakṛṣṭā muktiḥ / gopyāditulyānām iti / bhagavati prabhūtakāmadveṣabhayasnehāsaktānām anyeṣām ityarthaḥ / tadevaṃ miśrās trayodaśa, śuddhaikā / 
-1843 
-takes the form of a strong and persistent emotional orientation directed towards Kṛṣṇa. Despite 
-the description of this bhakti as “śuddha”—indeed, as the only “śuddha” kind—as his analysis 
-progresses, Hemādri will clarify that almost all forms of anurāga are not in actuality purely 
-pure, but contain traces of other impulses. In fact, it is only specifically in the case of the 
-vīrarasa that we can even say that sattva is the predominant force, and only when we are 
-discussing the highest type of vīra, namely, the niṣkāmadharmavīra, that the rasa is seen as 
-having not the slightest trace of the other guṇas. As “Bopadeva” and Hemādri explain: 
-Thus, having stated the mixed bhakti, he states the pure bhakti with the words “pure and so forth.” Ahaitukī means devoid of desire for fruit. Avyavahitā means uninterrupted. He explains ahaitukītvam alone as “causelessness,” by means of the phrase sālokya [and so forth]. 
-When this bhakti [i.e., unenjoined bhakti without the desire for a fruit] is being practiced, the devotees do not take up “sālokya and so forth,” even though it is being given by the Lord who is satisfied. Sālokya means being situated in the same world as [the Lord]. Samīpe means being situated in the vicinity [of the Lord within the same world]. Sārūpya means attaining an equal form [to the Lord]. Sārṣṭi means [achieving] the state of equivalent lordliness apart from being the creator of the world. Unity [with the Lord] means one-ness with the puruṣa who is the establisher that has the form that has four arms and so forth. . . . 
-For with regard to the others [kinds of bhakti] there is anurāga with regard only to the fruit and not towards Viṣṇu, when there is the obtaining of the fruit from the abandoning of bhakti. Its purity is due to not being mixed with karma and jñāna. 
-Now, he states the fruit of the enjoined bhakti yoga of all fourteen types by the phrase “yena” and so forth. By which (yena) means by which bhaktiyoga. Ativrajya means having gone past the three guṇas that are the states of tamas and so forth. “For the sake of my bhāva” means for the sake of sāyujya with brahman. Upapadyate means it is suitable. From the lower bhakti yoga, there is suitability for the higher bhakti yoga, even if it is not desired. Thus, there is one fruit for everyone. But the distinction is only made in terms of [their being in these cases] a delay in time [between the practice taking place and the result being obtained].1683 
-1683Hemādri, Kaivalyadīpikā, pg. 88–89: ahaitukyavahitā yā bhaktiḥ puruṣottame // sālokyasārṣṭisāmīpyasārūpyaikatvam apy uta / dīyamānaṃ na gṛhanti vinā matsevanaṃ janāḥ // (BP. 3.25.12–13) evaṃ misrāṃ bhaktim uktvā śuddhām āha / śuddheti / ahaitukī phalākāṅkṣārahitā / avyavahitā nirantarā / ahaitukītvam evāha / sālokyeti / yasyāṃ bhaktau kriyamāṇāyāṃ tuṣṭena bhagavatā dīyamānām api sālokyādi bhaktā na gṛhṇanti / sālokyam ekasmin loke avasthānam / sāmīpyaṃ samīpe avasthānam / sārūpyaṃ tulyarūpaprāptiḥ / sārṣṭir jagatsṛṣṭyādivarjaṃ tulyaprabhāvatvam / ekatvaṃ caturbhujādimūrtyadhiṣṭhātrā puruṣeṇa sahaikyam /. . . . itareṣu hi phala evānurāgo na viṣṇau / phalalābhe bhaktityāgāt / asyāś ca śuddhatvaṃ 
-1844 
-In a manner that should be instantly recognizable to anyone familiar with later Gauḍīya 
-theology, Hemādri associates the different categories of enjoined bhakti, which we have just 
-learned are suited to different social types, in a hierarchical fashion, with different salvific 
-outcomes. What is at stake is where the soul ends up dwelling at the culmination of a pious 
-life. While all good Vaiṣṇavas who assiduously practice forms of enjoined bhakti avoid 
-returning to the world of transmigration, just where and in what manner they burn off their 
-residual karmas and over how long a time frame is dependent on their mode of praxis and 
-social status. Do they just get to dwell in the same heaven as Vāsudeva, in a not particularly 
-prestigious neighborhood? Do they get to be his neighbors? In this new life, do they assume 
-the four-armed form of the Lord, but without all his power? Or, in the manner of becoming “a 
-śiva” in the Śaiva Siddhānta, do they become independent Vāsudevas, dwelling in heaven with 
-all of god’s abilities apart from the fact that they played no role in the creation of the world 
-because their otherwise perfect divinity emerged within historical time? Finally, will they 
-merge with god and become one with his classic form? What unites all of these modalities, 
-Hemādri tells us, is that these are types of rewards a bhakta obtains through their practice when 
-their “anurāga”—passionate embodied devotion—is directed at some specific aim, especially, 
-as we will be told later, liberation. Pure bhakti, in contrast, which arises without any deliberate 
-effort, takes as its exclusive point of passionate focus or obsession the deity himself, without 
-any further consideration of potential consequences. 
-One might say that Hemādri has taken the category of “spontaneous religious 
-awakening,” which, especially in its Kaula instantiations, had for centuries been associated 
-karmajñānābhyām amiśrartvāt / athāsya caturdaśavidhasyāpi vihitabhaktiyogasya phalam āha / yeneti / yena bhaktiyogena / ativrajya atītya / trīn guṇān tāmasatvādibhāvān / madbhāvāya brahmasāyujyāya / upapadyate yogyo bhavati / adhamabhaktiyogād uttamabhaktiyogyatvam akāmyamānam api bhavatīti sarveṣām ekam eva phalam / kālavilambakṛto viśeṣa ity arthaḥ / 
-1845 
-with the most elevated forms of mystical experience, and made it into something banal. Just as 
-significantly, even though this category is placed outside the jurisdiction of analysis in terms 
-of the realm of injunctions, in contradistinction to the sort of theology presented by someone 
-like Abhinavagupta, the religion of the heart still remains bound by the fetters of the śāstra. 
-The distinction being articulated is simply a matter of what form of śāstra will provide the 
-conceptual and evaluatory frameworks that govern the practice. In the case of the enjoined 
-bhakti, though the general logic of injunction-based religion applies throughout, the 
-appropriate śāstra and mode of praxis is now identity-specific, a subject that is elaborated on 
-at considerable length throughout the middle chapters of the Kaivalyadīpikā. But even when it 
-comes to introducing the subject of the unenjoined bhakti with the explicit aim of 
-demonstrating that it is not governed by the strictures of Mīmāṃsā, this demonstration is itself 
-offered in the language of Mīmāṃsā. Thus, it is through a creative redeploying of Mīmāṃsaka 
-principles that identify and exploit a potential inconsistency between the Mīmāṃsaka 
-definition of the scope of what constitutes an injunction and the phenomena under discussion, 
-and on the basis of some alleged property inherent to the ontological nature of the experiences 
-themselves, that Hemādri places the world of bhaktirasa outside the reach of an otherwise all- 
-pervading logic of injunctivity. As his argument abounds in technicalities, we will break it 
-down into two parts. 
-Bopadeva: The non-enjoined (avihita) is four-fold: born from desire, born from enmity, born out of fear, and born out of [platonic] affection: 
-“Having caused the mind to enter the lord by means of bhakti, out of desire, out of enmity, out of fear, and likewise out of [platonic] affection, having destroyed their sin, many have gone (gatāḥ) to his path.” (BP 7.1.30). . . . 
-H: Just as some people, having caused their minds to enter into the lord by bhakti that is enjoined, they go on his path, likewise by kāma and so forth, although it is not enjoined, many have gone (gatāḥ). This is the meaning. . . . He is “the Lord,” after all, because he is merciful and powerful. How, then, having seen in them a mind/heart that has not 
-1846 
-entered [into him], does he deliver to his devotees the results [of their actions]? But it is not, however, that it is [only] by means of a particular means (upāyaviśeṣa—i.e., God) [that] they go [to their destination]. 
-Thus, having stated “they have gone (gatāḥ)” rather than “they go,” because of the indication of [the word gone] being in the past tense (bhūtatva), thus even with regard to a practice that was not enjoined, they are said to have their intention fulfilled. Therefore, on the part of others here, there is a particular kind of operation. The fact of it (avihitabhakti) being not enjoined is due to that fact that it, in other words, desire and so forth, is being accomplished by means of its own nature (svabhāva). [Thus, its being an action that is not enjoined is] because it is impossible for it to be enjoined [for, svabhāva things do what they do intrinsically and do not require any external prompting.] For, it is [only] an action that is not yet obtained (aprāpta) that falls under the scope of injunction. . . . 
-PP: Nor can one say that in the statement, “one should cause the mind to enter Kṛṣṇa,” because such was enjoined by the optative verbal ending, what was not [explicitly] enjoined is [in effect] prohibited [i.e., this is a parisaṃkhyāvidhi]. 
-H: One should not doubt in this manner, because [the statement] actually illustrates that which is not intended by the optative verbal suffix. 
-PP: It is also not to be said that in this particular instance, the conjecture of an injunction (vidhikalpanā) operates through the force of the arthavāda, “many have gone in his path,” 
-H: [We reject this,] because the conjecture of a vidhi related to arthavāda also [only] has the scope of something not yet obtained. [And it is not the case here].1684 
-Hemādri’s initial point is conceptual and polemical. He seeks at once to explain how 
-non-enjoined bhakti happens independent of any volition on the part of devotees without at the 
-same time ascribing to it, and those who practice it, the sort of intrinsic special statuses that 
-will in subsequent centuries come to accrue to the practitioner of rāgānugā bhakti. God’s 
-1684Hemādri, Kaivalyadīpikā, pg. 89–90: avihitā caturdhā, kāmajā dveṣajā bhajayā snehajā ca— kāmād dveṣād bhayāt snehād yathā bhaktyeśvare manaḥ / āveśya tadaghaṃ hitvā bahavas tadgatiṃ gatāḥ // (BP 7.1.30). . . . kāmād ity ādi / yathā vihitayā bhaktyeśvare mano niveśya kecit tadgatiṃ gacchanti, tathā’vihitenāpi kāmādinā bahavo gatā ity arthaḥ /. . . ayam arthaḥ—īśvaro hi kṛpāśālitvāt prabhutvāc ca katham eṣv aniviṣṭam antaḥkaraṇam avekṣya bhaktānāṃ phalaṃ prasūte / na tūpāyaviśeṣeṇaiveti / gacchantīty akṛtvā gatā iti bhūtatvanirdeśād avihitānuṣṭhāne ’pi kṛtārthatvam uktam / tenānyeṣām iha pravṛttiviśeṣa ity arthaḥ / avihitatvaṃ tasyāḥ kāmādeḥ, svabhāvasiddhatvena vidhātum aśakyatvāt / aprāpto hy artho vidhigocaraḥ / vidhir atyantam aprāptā ity uktatvāt /. . . . na ca manaḥ kṛṣṇe niveśayed iti liṅpratyayena vihitatvād avihitatvaṃ vipratiṣiddham iti śaṅkyam / liṅnirdeśāvivakṣitatvasya darśitatvāt / nāpi bahavas tadgatiṃ gatā ity arthavādasāmarthyā atraiva vidhikapaneti vācyam / arthavādikavidhikalpanasyāpy aprāptaviṣayatvāt / 
-1847grace, which reorients a person whose mind has not yet entered into god, here is thus treated 
-primarily as a byproduct of god’s own glory, and not of the devotee’s own latent potential. As 
-we shall see when the chapter concludes, this choice has everything to do with Hemādri’s 
-hostility towards anything that might foster a culture of living saints whose self-arising 
-authority might substitute for that of entextualized tradition. 
-The remainder of Hemādri’s argument is a matter of grammar as well as syntax, both 
-of which are used to establish that the specific linguistic statement found within the Bhāgavata 
-itself that serves as the pramāṇa for this whole theological formulation, on purely formal 
-grounds, does not to adhere to the diagnostic criteria used within the discourse of Mīmāṃsā 
-for identifying something as an injunctive statement. The crux of the matter here, as our author 
-highlights, is the use of the past tense (well, it is technically the past passive participle, but 
-only the temporality of the verbal root is pertinent). The whole point here essentially is that the 
-scripture tells us that in the past, many people have already gone to their higher rewards and 
-that they did so by means of the practices outlined herein. Hemādri’s argument here is that this 
-is a different paradigm than the standard formula proposed by Pūrva Mīmāṃsā, for Mīmāṃsā 
-views ritual injunctions (vidhi) as “bringing into being” (bhāvanā), by means of the sacrifice, 
-specific results that do not yet exist and that will manifest in the future. Since the Bhāgavata 
-just told us that these results already manifested in the past, and that moreover we already know 
-how the process that governs their manifestation works, in Mīmāṃsaka terms they are neither 
-unprecedented (apūrva) nor are they “not yet obtained” (aprāpta). Furthermore, Hemādri 
-suggests, the types of responses under discussion—namely, the arising of the desire, anger, 
-fear, and so forth—are not the sort of things that require an external command to get them 
-going. In other words, nobody ever tells a person, “you have to fall in love.” Instead, it just 
-1848 
-sort of happens. In theorizing causation, Sanskrit philosophy accounts for such otherwise 
-inexplicable dynamics by resorting to the notion of the intrinsic (svabhāva) operation of 
-substances that have an unerring tendency towards expressing their own nature. From this 
-perspective, the arising of passion within a human being needs no more explanation each and 
-every time it occurs than we need to figure out why fire radiates heat and burns things when 
-they get too close to it. As we will soon discover, this mechanistic account of svabhāva 
-represents the first important step in an extraordinary decoupling of the grace of god from 
-individual human potential. According to Hemādri, it is just the nature of people to desire, to 
-hate, to fear, and to enter into close personal relationships. They do this all the time, without 
-meaning to, and in regard to a myriad of different types of objects and agents. Avihitabhakti 
-simply refers to those cases where an emotional orientation flares up and happens to take God 
-as its conceptual object. We will return to this point momentarily when we look at how 
-Hemādri accounts for the salvation of the gopīs during the rāsalīlā. 
-Before we get there, we still have to briefly make sense of the second half of Hemādri’s 
-comprehensive justification, executed like a good Mīmāṃsaka, concerning why bhaktirasa 
-praxis really does falls outside “the scope of injunctivity.” Based on the definition that an 
-injunction can only be concerned that which is aprāpta, Hemādri’s imagined opponent has to 
-concede that the Bhāgavata’s statement that is under discussion—which has already happened 
-before and the exact nature of which has already been determined—cannot be labelled a vidhi. 
-Nevertheless, Mīmāṃsā hermeneutics still has some tricks left up its sleeves. The first 
-suggestion is that this Bhāgavata statement falls under the category of the enumerated 
-(parisaṃkhyā) statement.1685 As exemplified by the classic illustration, “a five nailed animal 
-1685See Mīmāṃsā Sūtra 1.2.42. 
-1849 
-is to be eaten,” the trick with this kind of verbal expression is that its real function is as a special 
-sort of prohibition, whose real meaning is “that all animals without five nails are not to be 
-eaten.” The key difference between this type of enumerated statement and a restrictive 
-injunction (niṣedha) is a matter of syntactic form as well as subject matter. As Hemādri points 
-out, since parisaṃkhyā statements do not contain verbs in the optative, this cannot be an 
-enumerated statement. For similar formal as well as conceptual reasons, we also have to 
-discount the possibility that the statement, which contains a bit of linguistic expression 
-Mīmāṃsā would label arthavāda, “that many have gone (gatāḥ) in his path,” really needs to 
-be seen as implying an unstated command, “therefore, you as well should do X as they have 
-done,” that has to be derived using Mīmāṃsaka methods. While it is true that this would have 
-helped to neutralize what for Mīmāṃsā is otherwise a problematic past tense by placing it 
-outside of the clause where the injunction lies, as Hemādri points out, even this workaround 
-fails because arthavāda also refers only to things that are aprāpta, as our statement most 
-manifestly is not. In much broader terms, Pūrva Mīmāṃsā methods, divorced from their 
-atheistic ends, have become the measure for evaluating the legitimacy of a religious 
-framework. Even the much renowned transgressions of the rāsalīlā must account for 
-themselves in terms of its standards. 
-It is not the case that [all] bhakti would be enjoined, because one would [then have to] observe a [direct causal] relationship of the means to the thing to be achieved, as in the case of the gopīs. For, the gopīs do not partake (bhajana) [in the Lord] on the basis of a [prior] cognition of his being the Lord. But rather, [simply] engaging (bhajamāna) with him as a lover, due to fate, because of his [in actuality] being the Lord, they obtained liberation: 
-“Having come together with him alone who is the supreme self, with the awareness of him only as a lover, they abandoned their bodies, all at once, made out of the guṇas, their bondage having been destroyed” (BP 10.29.11). 
-1850 
-Now, one should not object that there is the arising of passion and so forth on the part of the gopīs due solely to the [direct] proximity of the Lord, with the implication that, in regard to modern people, there is a lack of the arising of [such] passion due to the absence of proximity to him, and that for this reason this instruction [on avihita-bhakti] is useless. This is not the case. For even now, with regard to the Lord established in a material form as Viṣṇu, on the part of certain women, there is being seen a connection founded on an affective state (bhāva). Such is also the case elsewhere. Therefore, it is established that this bhakti is not enjoined.1686 
-This is radically innovative theology. By elevating non-deliberate, non-intentional 
-action as the royal road to god realization, the Kaivalyadīpikā subverts the desire for liberation 
-that underlies the most rarefied dimensions of Sanskrit knowledge. At the same time, it makes 
-paradigmatic, even banal, a social role—the adulterous gopī—that self-evidently poses a 
-challenge to normative sociality. In order to accomplish this revision, the very nature of the 
-gopīs themselves has to be reframed. Here, we need to observe that the scriptural verse in the 
-middle of our commentary comes from near the very beginning of the rāsalīlā episode, where 
-we are being introduced to various different classes of gopīs and their distinctive approach to 
-“connecting” or “trysting” with Kṛṣṇa while circumventing the watchful eyes of their 
-husbands, brothers, or other overseers. The verse we are looking at in fact concerns a very 
-specific subset of gopīs, namely, those who unable to get out of their own homes 
-(antargṛhagatāḥ alabdhavinirgamāḥ), who connect with Kṛṣṇa by engaging in one-pointed 
-meditation upon him and his form (tadbhāvanāyuktā). It is through this meditation, 
-accompanied by severe austerities engendered by separation from their beloved, that this sub- 
-group of young women obtain the deity (dhyānaprāpta) while casting off their bodies. It is this 
-1686Hemādri, Kaivalyadīpikā, pg. 90: na ca gopyādiṣu sādhyasādhanabhāvasya dṛṣṭatvād vihitatvam / na hi gopīnām īśvaratvabodhena bhajanaṃ kiṃtu jāratvena bhajamānānāṃ tāsāṃ daivāt tasyeśvaratvān muktilābhaḥ / taduktam— tam eva paramātmānaṃ jārabuddhyāpi saṅgatāḥ / jahur guṇamayaṃ dehaṃ sadyaḥ prakṣīṇabandhanāḥ // (BP 10.29.11) iti / nanu yathā gopādīnāṃ bhagavatsannidhānāt kāmādyudayas tathā cādhunikeṣu sannikarṣābhāvena kāmādyudayābhāvād vyarthas tadupadeśaḥ / naivam / idānīm api viṣṇusthūlamūrtyādhiṣṭhātari bhagavati kāsāṃcit strīṇāṃ bhāvabandhasya dṛśymānatvāt / evam anyatra / tasmāt siddham asyā bhakter avihitatvam / 
-1851 
-most atypical demographic that our author takes as paradigmatic, at the very same time that he 
-strips out of their profile any indications that their mode of practice is akin to the fiery 
-asceticism of yogins. While it is certainly the case that the very next verse of the Bhāgavata, 
-which observes that the gopīs were thinking of Kṛṣṇa as the supreme lover, and not as having 
-the nature of brahman (kṛṣṇaṃ viduḥ paraṃ kāntaṃ na tu brahmatayā), is a key inspiration 
-for Hemādri’s interpretation, what in the original text is but an off-handed remark here is 
-transmuted into the guiding maxim that animates the whole episode. 
-Conspicuously absent from Hemādri’s representation is a conceptual focus on the 
-principle of viraha, or longing for god in his absence.1687 In the Muktāphala, instead of 
-representing a more generalized component of Vaiṣṇava theology, this concept is aligned 
-solely with the rasa subtype śṛṅgāravipralambhana, to which one chapter is dedicated. In fact, 
-as in the passage we have just been exploring, the dominant focus is on the “accessibility” of 
-god in the here and now in any age. Effusive emotional responses in the domain of religion, 
-we are being told, do not require us being in the right place in the right time in the company of 
-a special kind of person. As Hemādri insists, the exact same kind of heightened religious 
-experience happens even today. When ordinary people come before a mere image of Viṣṇu, 
-or, as we will be told later, make pilgrimage to a “historical” place marked by signs of the 
-present presence of god, they have just as powerful an experience as those who abided 
-alongside god himself in his incarnations. Succinctly, our author suggests that anyone, without 
-prior commitment to rigorous askesis, can have these rarefied experiences because they are 
-founded not on special modes of post-human consciousness but on the ordinary responses of 
-the human mind and nervous system serendipitously redirected towards infinitely more 
-1687The classic study of viraha and the essential role it plays in bhakti discourse remains Friedhelm Hardy, Viraha- bhakti: The Early History of Kṛṣṇa Devotion in South India (Delhi: Oxford University Press, 1983). 
-1852 
-constructive ends. As we are about to see, this elevation of the “ordinary” and almost 
-automatonic processes over carefully refined and deliberated ones is but one of many features 
-that unexpectedly aligns Hemādri’s form of Vedānta with a materialist account of the nature 
-of dharma and padārthas akin to the one offered by the Vaiśeṣikas, which we had encountered 
-in chapter 1 in our reading of Praśastapāda, as well as to the wider world of theistic Sāṃkhya. 
-The Substance of Advaita: God, Personhood, and Materiality in the Kaivalyadīpikā 
-In our earlier study of the Caturvargacintāmaṇi, we have already explored how Hemādri 
-renegotiates the discourses he has inherited that seek to define dharma so as to render them 
-both rhetorically and conceptually dependent on a personalist vision of an all-pervasive God. 
-The Kaivalyadīpikā executes a similar interpretive project in regard to both scripture and the 
-darśanas, demonstrating that these domains too take a personal and yet omnipresent godhead 
-as the precondition for their very existence. Before we engage in Vedic ritual action, what we 
-really need to understand, Hemādri tells us, is that the true unitary intentionality of the Veda 
-(vedasya tātparyam) is bhakti and bhakti alone (bhaktir eva). Both philosophical and scriptural 
-knowledge thus entails understanding first that God is present in all states (sarvāvasthā), in all 
-sites (sarvadeśa), and at all times (sarvakāla). It is this doctrinal formation that defined what 
-it means to be what in the future will be called an orthodox “Hindu.” For Hemādri, then, it is 
-this fundamental guiding awareness, and not some specific exegetical method, that is the 
-starting place for articulating an ontological and epistemological account of the nature of 
-reality. Since the nature of reality is nothing other than the godhead itself, which we typically 
-encounter in highly particularized forms, all Vedāntic analysis is entirely dependent on first 
-arriving at a proper understanding of the nature of Viṣṇu and the Vaiṣṇava pantheon. It is 
-through proper exegesis of scriptural statements about the nature of God that the sages have in 
-1853 
-fact derived all of the methods and intellectual activities that make up the learned traditions. 
-For this reason, the Kaivalyadīpikā begins by talking at great length about God’s form, taking 
-as its inspiration what later Vaiṣṇava traditions will label one of the four great verses of the 
-Bhāgavata Purāṇa. 
-B: Here is the definition concerning Viṣṇu and the divisions [within that definition]. “In the beginning I alone existed, no other, neither existence nor non-existence or something different. Afterwards, this universe was only me, and the rest which remains, I am this also.” 
-H: “There” means in the text. . . . In the section on Viṣṇu, Viṣṇu is propounded. And that Viṣṇu is twofold as grounded in the general or particular. . . . Difference (bheda) means particularities (viśeṣa). When he says “aham eva” and so forth, there is the exclusion of any other agent [apart from Viṣṇu]. “I simply was” excludes any other action [on the part of God]. “In the beginning” means before the connection with māyā.1688 
-In Hemādri’s reading of this verse, all real knowledge begins with the general 
-knowledge that God is being itself, the necessary precondition for the existence of objects and 
-subjects. Before the universe, we are told, Viṣṇu alone existed, and moreover, unlike, for 
-example, in Śaiva theology (but very much in alignment with Vedāntic accounts of brahman), 
-in his originary mode he was devoid of all actions apart from merely existing. According to 
-Hemādri, if not his sources, what disturbed this primeval unity was the forging of a connection 
-(sambandha) with māyā. In its original context, the Bhāgavata verse under discussion sets out 
-to convey a somewhat limited point, namely, that God was present before the world was 
-created and remains present throughout its creation. In the verse that immediately follows (here 
-supplied in the translation of Swami Tapasyananda, who follows Śrīdhara in his translations), 
-which Hemādri does not quote, the Bhāgavata introduces the concept of māyā as a grab bag 
-1688Hemādri, Kaivalyadīpikā, pg. 6–7: tatra viṣṇor lakṣaṇaṃ bhedāś ca / aham evāsam evāgre nānyad yat sad asat param / paścād ahaṃ yad etac ca yo ’vaśiṣyeta so ’smy aham // sa dvedhā nirākāraḥ sākāraś ca . . . . tatra granthe. . . . viṣṇuprakaraṇe ca viṣṇuḥ pratipādyaḥ / sa ca sāmānyaviśeṣāvaṣṭabdhatvād dvedhā. . . . bhedā viśeṣāḥ / aham ityādi / ahameveti kartrantarasya vyāvṛttiḥ / āsam eveti kriyāntarasya / agre māyāsambandhāt prāk / 
-1854 
-category generally inclusive of everything except the “god-stuff.” Māyā, in other words, seems 
-to be a “mere appearance” somewhat in the manner suggested by the vivartavāda of Śaṅkara. 
-What is presented on the Atman without any substantial reality apart from It, and what fails to leave anything as residue apart from the Atman when it ceases to be presented— know that to be due to My divine power, Maya. Such presentation is like a reflected image (totally dependent on the object) and like darkness (which leaves no residue when it dissolves).1689 
-What is crucial here is the Bhāgavata’s chosen point of comparison for illustrating the 
-nature of māyā, namely, as a reflected image (ābhāsa) and as darkness (tamas). As 
-Sthaneshwar Timalsina has demonstrated with great erudition, in Vedānta texts in general, 
-such metaphors are not mere metrical filler, but are chosen with great precision with the aim 
-of carefully parsing the internal logic that animates the specific doctrine being invoked and 
-distinguishing it from its conceptual “near enemies,” namely, other Vedānta models.1690 What 
-darkness and reflected images have in common is that, while they alter our perception of our 
-surroundings and how we engage with them, they do not bring about fundamental changes in 
-either the underlying environment or in the objects themselves. To put it another way, if you 
-get up in the middle of the night when it is pitch black, step forward and bang your leg hard 
-against the protruding corner of a bedside table, even though the darkness has made possible a 
-new and unwelcome kind of experience, this not because the darkness has itself “changed” the 
-edge of the coffee table into a more efficient vehicle for delivering leg pain. The problem was 
-simply that in the dark, you could not see the edge of the table. Hemādri’s interpretation, in 
-contrast, will ultimately see the connection with māyā as not merely occluding originary 
-1689Bhāgavata Purāṇa 2.9.33. Translation from Swami Tapasyananda, trans., Srimad Bhagavata: The Holy Book of God, 4 vols. (Chennai: Sri Ramakrishna Math, 1980–1982). 1690Originally conceived of as forming a single argument, the research in question was ultimately published as two discrete complementary monographs that remain the most important resource to date for understanding the dṛṣṭisṛṣṭi position within Advaita Vedānta. Sthaneshwar Timalsina, Seeing and Appearance (New York: Routledge, 2006); Sthaneshwar Timalsina, Consciousness in Indian Philosophy: The Advaita Doctrine of ‘Awareness Only’ (New York: Taylor & Francis, 2008). 
-1855 
-realities but itself generating the fundamental and in some sense “real” processes and causal 
-dynamics that are constitutive of our lived experience. 
-That which exists, even in connection with māyā, is the effect [kārya]. That which does not exist (asat) is the cause. And that which is other than these two is the supreme pradhāna. [All of] this is not different from me. 
-After there is connection with māyā, this [Viṣṇu] is [sub]divided into three kinds. 
-[Hence,] even after the separation from māyā, only I exist. In the beginning, middle, and end of the universe, I alone exist. I am also that which has the form of the universe. That which is established elsewhere is superimposed on me, just as a serpent established elsewhere [is superimposed] on a rope. Thus, when error has been warded off by means of discrimination, that which remains—that I am (so ’ham asmi). 
-[God is described] like this because it is not possible to indicate the true nature [of him] just as it really is. Therefore, just as within a golden bracelet (kaṭaka) and so forth, goldness alone is real, despite its existing in three conditions, in the same way, “mere existence,” which is woven into the beginning, middle, and end states of the world, is the real nature of the Lord.1691 
-Hemādri’s analysis offers a distillation of Advaita Vedānta exegesis on the 
-Brahmasūtras. What “exists” in connection with māyā is the “effect” that we call the universe. 
-What “does not exist,” which is the cause of our bondage, are the misapprehensions of the real 
-state of things, all of which appear only in our minds. That which is “other than these two,” 
-the main thing, we ultimately learn, is the form of brahman called Kṛṣṇa, whose pale reflection 
-present within ourselves takes the form of the soul. As Hemādri will show us momentarily, 
-God’s threefold division is a rather eccentric take on the Hindu trinity, within which Viṣṇu is 
-no longer featured. Quite unlike in many forms of Vedānta, where the “asat” is other than 
-brahman, or of Sāṃkhya, where puruṣa and mūlaprakṛti are different kinds of substances, in 
-1691Hemādri, Kaivalyadīpikā, pg. 6: māyāsambandhe ’pi yat sat kāryam / asat kāraṇam / yac ca paraṃ tābhyāṃ paraṃ pradhānam / tan na madanyat / māyāsambandhād asty eva tridhā vibhakta ityarthaḥ / paścān māyāviyogād anataram apy aham eva / prapañcasyādimadhyāvasāneṣv aham ity arthaḥ / yac caitat prapañcarūpaṃ tad apy aham / anyatra siddhaṃ mayi āropitam / yathānyatra siddhaḥ sarpo rajjau / evaṃ vivecanād bhrame nivṛtte yo ’vaśiṣyeta so ’ham asmi / idantayā svarūpasya nirdeṣṭum aśaktyatvād evam ucyate / etena yathā kaṭakādiṣv avasthātraye ’pi suvarṇatvam eva satyaṃ tathā jagādimadhyānteṣv anusyūtaṃ sattāmātraṃ bhagavatsvarūpam / 
-1856 
-this theistic cosmology both the unreal and the real are ultimately understood to be made of 
-the same sort of god-stuff. When a person learns to discriminate between what he superimposes 
-on the originary reality through the working of his mind and the things of this world, he begins 
-to walk a path leading towards liberation. In a marked departure from Śaṅkara-style Vedānta, 
-however, what this new kind of knowledge—distinguishing a snake from a rope—facilitates 
-is essentially the adoption of the proper kind of comportment for relating to the object under 
-question. It prevents, on the one hand, a person from trying to use a python to tie up their pony, 
-and on the other, from rushing to protect their newborn from a deadly piece of twine. Quite 
-unlike in Śaṅkara, such knowledge all by itself does not actually “liberate” anyone. Instead, it 
-makes evident, yet again, the primacy and omnipresence of God. As we are just about to learn, 
-the key to understanding what God is and how he works lies hidden within further exercises in 
-ever more precise taxonomization inherited from the Purāṇas. What we are going to see is that 
-this taxonomization conceals within itself a philosophical position, drastically different from 
-the one we associate with Vedānta, which treats all epistemological processes as having 
-specific determinative material causes. The end result is an arranged marriage between Advaita 
-Vedānta epistemology and an almost Trika Śaiva account of ontology filtered through a 
-Purāṇic idiom. 
-Picking up where we left off, the Muktāphala states: 
-B: He [god] is twofold, with form and without form. [As] the formless aspect (nirākāra), he is unlimited (anavachinna) consciousness (caitanya). And with form, he is consciousness delimited by being [sattva in the Sāṃkhya sense]. And that [God delimited by form] is [again] fourfold. When the sattva [in the sense of being] is conjoined with rajas, then it is Brahmā. When it is conjoined with rajas and tamas, it is the Puruṣa. And with tamas alone, it is Rudra. And when [sattva] is conjoined with śuddha [i.e., śuddhasattva], it is Viṣṇu alone. 
-1857H: Thus, having stated the general characteristic, he says [God] is twofold. He states this in order to convey the particulars.1692 
-So much for one of the most fundamental notions of Śaṅkara’s Vedānta, namely, that 
-brahman is undivided and indivisible. Bopadeva and Hemādri’s notion of divinity, in contrast, 
-is subdivided into a whole host of permutations, each of which serves a discrete function. Sure, 
-there is consciousness, which we cannot cut up into convenient little packages, but there is also 
-a god with form, who manifests and destroys the world. Just as importantly as the middle 
-term—replacing the usual notion of Viṣṇu as the sustaining force— there is god as the puruṣa 
-or jīva inside of each human being. The operation of each of these functions is wholly 
-determined by the relative proportions of the guṇas but also by the scale (microcosmic, 
-mesocosmic, cosmic, and so forth) at which they are being instantiated. The biggest innovation 
-here, of course, is that Viṣṇu is plucked out of the trinity. Instead, what we call Viṣṇu is the 
-presence of being in its most purified and rarified form. Later, we will learn that this “pure 
-state of being” and the puruṣa have a special relationship, with the soul representing the 
-reflection of Viṣṇu as it manifests entangled in the material world. So far at least, when we 
-attend to just the part of the text ascribed to Bopadeva, we are working with a more refined 
-form of Purāṇic style cosmological thinking. Hemādri’s commentary, in contrast, takes the 
-conversation in a very different direction, plunging us headfirst into the methodological 
-presuppositions of classical Vedānta and then radically reframing them: 
-H: With [this sentence,] he states, “you alone are twofold.” 
-[If you ask what is a form], a form (ākāra) is an external adjunct (upādhi), which is a delimiter for a thing that is itself undelimited. That which is devoid of an upādhi is without form, and that which has it is the other [the one with form]. Among these, he defines the first [God as consciousness] with the phrase anavachinna. With the phrase 
-1692Bopadeva, Muktāphala, pg. 7: sa dvedhā nirākāraḥ sākāraś ca / anavachinnacaitanyaṃ nirākāraḥ / sattvāvacchinaṃ caitanyaṃ sākāraḥ / sa ca caturdhā / rajastamobhyāṃ yukte sattve puruṣaḥ / rajasā brahmā / tamasā rudraḥ / śuddhe viṣṇur eva / H: evaṃ sāmānyalakṣaṇam uktvā viśeṣān lakṣayitum āha / dvedhātvam āha / 
-1858 
-beginning with “sattva,” he defines the second one [God with form]. He says that [God] in fact has divisions. 
-Where he says sa [in the verse], the pronoun sa means the one with form. . . . The consciousness that is reflected in sattva, which is conjoined with equal measures of rajas and tamas, is the object or meaning of the word puruṣa. . . . Therefore, in puruṣa, the sattva is proportionally more and the rajas and tamas in comparison to that are deficient. It is not that the three are the same, because of the sameness [of proportion between] the three (guṇas), being the definition of “prakṛti”. . . . And when God is pure (sattva), it is Viṣṇu, and [the phrase] when it is pure means sattva is not touched by rajas or tamas; it is Viṣṇu alone. 
-The designation of Viṣṇu only is used, but not another name as in other systems of thought. That is the sense of the particle eva [it is restrictive]. For, likewise, now, when he has the aspect of the lofty and pure, the Śaivas call him Sadāśiva. Pāsupatas say it is Paśupati. The Pañcarātra says it is Puruṣottama. Sāṃkhya followers say that it is the original knower, the attained one, and the followers of Pātañjalian yoga say it is Īśvara, but here [in this system], the designation of it is solely Viṣṇu.1693 
-If you blinked you may have missed it, but Hemādri just told us in a roundabout 
-convoluted fashion that everything is made of consciousness. From this perspective, our access 
-to all possible objects of knowledge, however, is only made possible through the mediation of 
-what Hemādri calls the superimposed conceptual containers that give the appearance of 
-delimited form to what is otherwise formless. Though the root text never uses the term in this 
-fashion and neither does the Bhāgavata, Hemādri calls these upādhis and he seems to 
-understand them as structuring units that arise organically when one has particular proportions 
-of sattva, rajas, and tamas. Each of these upādhis exhibits different behaviors, and they are 
-subdivided according to the classic Vaidika taxonomic schema of the ādhibhautika, the 
-1693Hemādri, Kaivalyadīpikā, pg. 7–8: sa dvedheti / dvedhātvam evāha nireti / anavachinne vastuny avacchedaka upādhir ākāraḥ / tena rahito nirākāraḥ / tatsahito ’nyaḥ / tatrādyaṃ lakṣyaty anavachinneti / sattveti dvitīyaṃ lakṣayati / asyaiva bhedān āha / sa ceti / sa sākāraḥ / tatrādyaṃ bhedam āha / rajastamobhyām iti / tulyābhyāṃ rajas[tamo]bhyāṃ yukte sattve pratiphalitaṃ caitanyaṃ puruṣaśabdārtha iti pūraṇīyam / evam uttaratra / rajastamobhyām iti tṛtīyayā tayor aprādhānyam / sahayukte ’pradhāne iti smaraṇāt / tena puruṣe sattvaṃ bahulaṃ rajas tamaś ca tadapekṣayā nyūnam ity arthaḥ / na tu trīṇi samāny eva / trisāmyasya prakṛtilakṣaṇatvāt. . . . śuddhe viṣṇ[u]r iti / śuddhe rajastamobhyām aspṛṣṭe sattve viṣṇur eva / viṣṇusaṃjñaiva kriyate / na tu tantrāntaravat saṃjñāntaram ity evaśabdārthaḥ / tathā hi tam enaṃ viśuddhorjitasattvākāraṃ sadāśiva ity ācakṣate śaivāḥ / paśupatir iti pāśupatāḥ / puruṣottama iti / pāñcarātrāḥ ādividvān siddha iti sāṃkhyāḥ / īśvara iti pātañjalāḥ / iha tu tasya viṣṇusaṃjñaiva. . . . śuddhasattvopādhis tu viṣṇusaṃjñā evety evaśabdārthaḥ / 
-1859 
-ādhidaivika, and the ādhyātmika. When we speak about the saguṇa forms of the divine we 
-tend to call gods, they are also the product of particular arrangements of the guṇas interfacing 
-with the underlying “being” that is supreme reality. In that regard, they are no different in their 
-makeup than either prakṛti or puruṣa. Viṣṇu or Kṛṣṇa is simply the designation given to the 
-upādhi arrangement where being (sattva) and purity (which confusingly is also called sattva) 
-interface with each other without any trace of rajas or tamas. In a radical departure from the 
-Smārta worldview he has espoused in the Caturvargacintāmaṇi, though Hemādri 
-acknowledges that other traditions have their own names and designations for this supreme 
-reality with form, here he is emphatic that such a status is reserved solely for Viṣṇu, and that 
-effectively the other systems are all wrong. Where things get tricky is that what up until now 
-had seemed to be an irregular but straightforward account of how we get the different types of 
-objects and agents in the world suddenly is presented to us again as also providing the 
-hermeneutical skeleton key to making sense of all epistemological processes. The core ideas 
-here are unfamiliar within Indology so we will take care in their explication. This is especially 
-important as Hemādri shares this alien framework with the wider world of doctrinal literature 
-in old Marathi, which also is essentially an undiscovered country: 
-B: Sattva is that quality of prakṛti that is the cause for becoming an object of knowledge of that which is not yet an object of knowledge. Rajas is the cause of the becoming many-fold of the object of knowledge. Tamas is the cause for the concealment of that many-fold object. Likewise, sattva is [the cause] with respect to something being mutually indifferent (udāsīna). Rajas is [the cause] with regard to being an “enabler.” Tamas [is the cause] with regard to being a “degrader.” 
-H: Having stated the five-formedness [of the Lord,] therefore, because of the intermixing (sambheda) with upādhis, now, he defines the upādhis (sattva and so forth) because it is impossible to have a cognition of something conditioned for [somebody whose cognition] does not conform to the upādhis. What is called sattva is that quality of prakṛti that is the cause for becoming knowable on the part of a thing that has not yet become an object of knowledge. The phrase hetur yaḥ prakṛtiguṇaḥ persists in the five next sentences [i.e., every item under discussion is a guṇa of prakṛti that causes a 
-1860 
-particular result to transpire]. Rajas is that in connection with which the perceptible object becomes manifold. Tamas is the cause of the concealment (tirobhava) that is absorption in the state of being the cause [i.e., potential state potentia]. Because he resorts to the satkārya doctrine, he does not say it is a cause for the destruction [of traits]; he has said “concealed.” Thus, he states the true nature of the upādhi of the ādhidaivika, with the phrase tathā. This is the sense.1694 
-Let us take retrace our steps just a little bit. Consciousness, which is undivided 
-(anavachinnacaitanya), is nothing but the plenitude of god. As delimited beings, however, we 
-can only perceive, understand, and cognize things that have already have a form applied to 
-them. Form of any kind is the product of the imposition of an upādhi, and all upādhis are 
-produced out of specific proportional arrangements of the guṇas. What we are about to learn 
-is that the necessary preconditions for human cognitive processes can also be accounted for in 
-almost reductionist “materialist” terms. We have access to objects because a buildup of sattva 
-in objects make them “appear” to our senses. Objects appear to us to have multiple traits; in 
-other words, a ball can be at once both red, smooth, and heavy, because this is what happens 
-when rajas builds up. And we do not notice that the red, smooth, iron ball is also really damn 
-heavy precisely because of a buildup of tamas guṇa, which occludes the retrieval of sensory 
-data and information. But also, on a deeper level, the propensity of a piece of wood to ignite 
-remains latent and not active on account of the intermixture of tamas. Hemādri, like a Sāṃkhya 
-theologian, rejects the crude form of Vaiśeṣika ontology that accounts for changes in things 
-through the addition of new kinds of atoms. Within the older framework, when a clay pot is 
-glazed red and then fired inside a kiln, the original pot is purportedly destroyed, broken down 
-1694Hemādri, Kaivalyadīpikā, pg. 8: agocarasya gocaratve hetuḥ prakṛtiguṇaḥ sattvam / gocarasya bahurūpatve rajaḥ / bahurūpasya tirohitatve tamaḥ / tathā parasparam udāsīnatve sattvam / upakāritve rajaḥ / apakāritve tamaḥ // evaṃ upādhisaṃbhedāt pañcarūpatām uktvā idānīm ananusaṃhitopādher upahitapratyayāyogād upādhīn lakṣayati / agocareti / agocarasyāviṣayabhūtasya vastuno gocaratve viṣayībhāve hetur yaḥ prakṛtiguṇaḥ tat sattvam ity arthaḥ / hetuḥ prakṛtiguṇa ity uttaratra pañcasv anuvartate / gocarasya sato yatsambandhān nānātvaṃ tadrajaḥ / tasyaiva tirohitatve kāraṇātmanā’vasthāne hetus tama ity arthaḥ / vināśe ity anuktvā satkāryapakṣāśrayaṇāt tirohitatva ity uktam / evam ā[dh]idaivikopādhisvarūpam āha tatheti / ayam arthaḥ / 
-1861 
-into its original atoms, and then reconstituted with the red atoms now added in. Instead, like 
-any good satkāryavādin, Hemādri sees all changes in a thing as representing the manifestation 
-or activation of its latent propensities. 
-What is really important from our perspective is that this materialist explication of how 
-ontology informs epistemology is laying the foundation for a largely “materialist,” even 
-mechanistic, account of the workings of ordinary soteriology. Remember, we notice things and 
-can cognize them because they have sattva. Moreover, in the absence of the interference of 
-rajas, an object of knowledge appears in our minds as singular and unified. In Hemādri’s 
-theology, the most sattvic possible “object” of knowledge is Kṛṣṇa Vāsudeva, who is none 
-other than the undifferentiated consciousness of brahman modified only by the single upādhi 
-of pure sattva (śuddhasattva). In other words, some sort of perception of Kṛṣṇa, his popping 
-into your head in some form or another, is inevitable, because Kṛṣṇa by definition is the best 
-example of the class category of being an object of perception. Furthermore, the more the 
-practitioner through religious practice denudes himself of rajas, the more he is able to see the 
-unity of Kṛṣṇa, and becomes an Advaitan. Likewise, the more he divests from tamas, the more 
-Kṛṣṇa—the most perceptible thing—pops out into his consciousness and becomes lodged in 
-the mind. As sattva builds up in a person, as we are about to see, organically, they stop being 
-invested in this or that other sort of object of knowledge and become fixated on Kṛṣṇa. To put 
-it another way, Vaiṣṇavism has just been redescribed not as a metaphysics, but as a sort of 
-physics. Ultimately, parallel processes are constantly being enacted at different registers and 
-scales of articulation. Thus, for example, just as the universe is emanated, maintained, and 
-reabsorbed over the course of a yuga, so too is every object in each moment subject to this 
-1862 
-threefold process; becoming available to perception, being held within perception, and 
-disappearing from perception. As Hemādri explains: 
-B: The state of being an object of knowledge and so forth is sthiti, sṛṣṭi, and saṃhāra. 
-H: In order to unfold the stated upādhis that are being an object and so forth, he states “the gocara, etc.” The sense is that, in sequence, being an object of knowledge, having many forms, and being concealed are stated by the use of the words sthiti and so forth. One should not have the doubt that [immediately] after creation there is stasis, because creation is proceeded by stasis. For only things that are existing, such as clay and so forth, are “created” in the form of a pot; not things that were previously not existing. 
-“By your own power of māyā, you wear white color, [which is sattva,] for the maintenance of the three worlds; you take on red, overbrimming with rajas, for the sake of creation; and you wear black color with tamas for the ending of people.” 
-And this is case also with the ādhyātmika (upādhis).1695 
-At least in general terms, hopefully you are beginning to get the gist of this mode 
-argumentation. Almost as if he is offering a counterpart to the post-classical Krama inspired 
-Trika exegetical model that the individual soul that is Śiva is constantly performing the five 
-acts of Śiva at all different levels of possible experience, Hemādri seeks systematically to 
-account for all the world’s phenomena, subjective and objective, internal and external, 
-macrocosmic and microscopic, in terms of this very different Purāṇic triad. Thus, for example, 
-within human subjectivity,1696 sattva guṇa governs the “deity” that directs our senses, rajas 
-engenders our sense faculties themselves, tamas reduces perceived things out in the world into 
-the objects of our sense faculties, and the ego acts as the “formless” counterpart to the inner 
-witness that has form, a miniature semblance of a god without qualities residing within 
-1695Hemādri, Kaivalyadīpikā, pg. 8–9: gocaratvādīni sthitsṛṣṭisaṃhārāḥ // uktān gocaratvādīn upādhīn unmīlayitum āha, gocareti / gocaratvabahurūpatvatirohitatvāni kramāt sthityādiśabdair ucyanta ityarthaḥ / na caivaṃ sṛṣṭyantaraṃ sthitir iti śaṅkyam / sthitipūrvakatvāt sṛṣṭeḥ / sthitā hi mṛdādayo ghaṭādyātmanā sṛjyante nāsthitā iti / ata evoktaṃ // sa tvaṃ trilokasthitaye svamāyayā bibharṣi śuklaṃ khalu varṇam ātmanaḥ / sargāya raktaṃ rajasopabṛṃhitaṃ kṛṣṇaṃ ca varṇaṃ tamasā janātyaye ity evam ādhyātmikeṣv apīty āha / 1696Sattva has the form of a deity of the senses (karaṇeśvara), rajas means senses, and tamas is the object of the senses and the thing without form is the ego. 
-1863 
-ourselves in a dyadic pair. It is not just the faculties that are constitutive of our personhood; 
-even our orientations and character traits are mechanistically generated byproducts of these 
-upādhi inserts, laid over consciousness, which acquire their character from relative guṇa 
-proportions. The same holds true for everything we might label the supernatural or heavenly, 
-including all of the many incarnations of Viṣṇu, which take on specific traits again because 
-their godhood is intermixed with various upādhis constituted out of particular guṇic 
-proportions. But as we have already seen, there is one rather important exception: 
-[All the forms of Viṣṇu] are all incarnations, except for Kṛṣṇa. . . . 
-For that reason, in all the incarnations, we have the manifestation of the form of the viśvarūpa, [which is tinged with rajas, which is why it is manifold], and we also have fond affection for the place of its prior incarnation. And it is seen even today that with regard to the form (mūrti) at Kuśasthalī, there is the sign related to the one who made the three steps, and the indication of [the presence of] Kṛṣṇa. 
-Therefore, in the Prahlādasaṃhitā in the Dvārakamahātmya, in the third chapter, it is shown by the Lord who will be ornamenting Vaikuṇṭha that all of his own splendor is set down [in that form]. For, on that matter, [it is said]: 
-Where the Gomatī River flows, where there is the triple stepped form, having come to vicinity of the Cakratīrtha, then men will go to liberation. Hari abandoned his body (kalevara) in Prabhāsa. Then, that splendor (tejas) accompanied by all its parts entered that form [the image at the tīrtha]. And therefore, in the kali yuga, O Brāhmaṇas, Hari is obtained [there] and not anywhere else. If you have something to do with Kṛṣṇa, then go there fast! 
-And likewise, 
-“In the beginning, he was called Trivikrama on the surface of the earth. However, with the setting down of all the parts of his glory, he became known as Kṛṣṇa”. . . . 
-Therefore, only bhakti can tell you which is the case. Therefore, one should be satisfied with idea that he is puruṣa itself. And this has to be explained in detail elsewhere. . . . Just as these forms of Brahmā and so forth are founded upon the guṇas, likewise, the rasas, hāsya and so forth, are purely founded upon them [the guṇas]. We will explain that later.1697 
-1697Hemādri, Kaivalyadīpikā, pg. 9–10 : avatārāś ca sarve vinā kṛṣṇam / sa tu puruṣaḥ trivikramāvatāratvāt. . . . ata eva tatra tatra viśvarūpaprakaṭanam pūrvāvatāradeśavātsalyaṃ ca / dṛśyate cādyāpi kuśasthalīmūrtau traivikramaṃ cihnaṃ kṛṣṇavyapadeśaś ca / ata eva prahlādasaṃhitāyāṃ dvārakāmāhātmye tṛtīye ’dhyāye 
-1864 
-An otherwise purely materialist account of the workings of an automated universe 
-within which all occurrences can be accounted for in terms of a substantialist ontology is subtly 
-but significantly disrupted by the descent into the world of Kṛṣṇa, brahman given shape 
-through the imposition of the purest sort of purity. Prefiguring the Braj devotionalism of early 
-modernity, all incarnations, we learn, leave subtle but lasting traces of their presence that 
-endure in the landscape. Kṛṣṇa’s presence, however, is extra special, for in fact it seems that 
-bits of his very nature persist in the world, especially at the site where he drew his last breaths. 
-The end result is a sacred geography that treats Braj as the periphery and Prabhāsakṣetra, the 
-land around Somanātha where the Yādava dynasty took refuge and Kṛṣṇa spent his maturity, 
-as the particularized holy ground that is the axis mundi of the world. Indeed, this land is doubly 
-blessed, for in the prior age before Kṛṣṇa Vāsudeva, another Kṛṣṇa had descended in the very 
-same place, in the form of the dwarf Vāmana who conquered the demon king Bali with his 
-three fantastic strides. Vāmana, at least once he assumed his cosmic Trivikrama form, it seems 
-once served the same function—God as pure sattva made manifest in the world—that the son 
-of Vasudeva fulfills in our more humble time. In the longer discourse from which this is 
-extracted, Hemādri engages in an arcane series of reflections, brought about by the appearance 
-within his proof texts of multiple uses of the lexeme “sattva,” for the word can mean “being,” 
-or generically “purity,” as well the best of the guṇas. Our author is also occupied by arguments 
-vaikuṇṭham alaṅkariṣyatā bhagavatā sakalaṃ nijaṃ tejas tasyāṃ mūrtau vinyastam iti darśitam / tathā hi— yatra traivikramī mūrtir vahate yatra gomatī / narā muktiṃ prayāsyanti cakratīrthena saṅgatāḥ // kalevaraṃ parityaktaṃ prabhāse hariṇā tadā / kalābhiḥ sahitaṃ tejas tasyāṃ mūrtau niveśitam // tasmāt kaliyuge viprā nānyatra prāpyate hariḥ / yadi kāryaṃ hi kṛṣṇena tatra gacchata mā ciram // iti / tathā ca— ādau trivikrama iti khyātir āsīn mahītale / kṛṣṇasya tu kalānyāsāt kṛṣṇa ity abhidhīyate. . . . tatra tadasatyam anyatra tu vāstavam iti tu bhaktimātram / tasmāt puruṣa evāyam iti santoṣṭavyaṃ niṣkṛṣṭavyaś cedam upariṣṭāt / yathā caitā brahmādimūrtayo guṇamūlās tathā hāsyādayo rasāś ca tanmūlā evety upariṣṭāt pravedayiṣyāmaḥ / 
-1865 
-concerning the relative proportion of sattva guṇa in the various avatāras that the Bhāgavata 
-labels as sattvic. The end result is to suggest that some of the usages are metaphorical, or refer 
-to a dominance of sattva over other guṇas as opposed to the exclusive presence of just the 
-sattva guṇa upādhi, which is reserved for Kṛṣṇa alone. Ultimately, our author informs us, 
-introducing what will become an integral part of his system, the only way to really understand 
-what is real is through the practice of bhakti, for this is our real source for knowledge about 
-god as well accessing god himself. All bhakti practices, however, including the rāgānugā 
-modalities of bhaktirasa, remain conditioned by specific upādhis constituted out of the guṇas 
-in various proportions. The best of these practices entails a relative predominance of sattva 
-guṇa, which automatically aligns the practitioner with Kṛṣṇa himself, especially his mode of 
-adult warrior and dharmic king. The highest reality—brahman as pure consciousness— 
-however, is free from such guṇa-driven conditioning. This is the state to which the most 
-rarefied practice aspires, the supreme reality, which our text, following the Bhāgavata, 
-rebrands as “Vaiṣṇava.” 
-“Where there is no sattva and rajas and tamas, no deformation or mahat or pradhāna, they hand down the idea that the supreme state is the Vaiṣṇava state. Since they, the sauhṛdas, the friends of the unparalleled ones, are desirous of abandoning that which is ‘not that,’ following the statement ‘neti neti,’ having cast off (visṛjya) ‘bad-souled- ness’ by means of the heart, they have embraced the worthy state in every moment (pade pade)” (BP 2.2.17–18, here rendered following Hemādri’s interpretation). . . . 
-H: And because of the nonexistence of sattva and so forth, the sense is there is not even the slightest fragmentary seed of doubt of there being another rebirth and so forth of those who have obtained that state. And thus, having stated that suffering does not exist, by the phrase “yan na,” he stated that happiness does exist. That [happiness] means the state of Viṣṇu. With heart means with the mind. Upaguhya means having embraced. They become the ones who are sauhardas of the unparalleled one [lit., one of whom there is no other]. That means that they abandon the delight in any other object, because there is no happiness in such things. 
-[Where it says] pade pade, [this usage is justified for the following reason,] for, [there is present] in every moment there is the state of the worthy, the place of respect, because 
-1866 
-of their [these states’] being capable of producing wonder (camatkāra) in the higher than the highest degree/concerning the being who is higher than the highest. 
-Having cast off “bad-souled-ness” means having abandoned the state of being influenced by [bad] karmic traces. There is no longer even a memory of other objects. Neti neti means through the power of assent to the teachings of the Upaniṣads. “Not that” means something other than the state of Viṣṇu. Utsisṛkṣavaḥ means that they have cast off [the state of not being Viṣṇu] solely by their own will. 
-With regard to the form of the experience of bliss that is eternal and unexcelled, there is the experiencer, the experience, and the thing to be experienced; thus, the agent, the action, and the recipient of the action are stated by the word “atat.” For, those things, [being distinctive,] are accepted for the sake of the experience, but when that experience takes place, they are abandoned, because they are not really real and because they are obstacles.1698 
-In our study of the Muktāphala and Kaivalyadīpikā thus far, generally our working 
-method has been to pay little heed to trying to determine how closely Hemādri’s exegesis or 
-his theology aligns with that of the Bhāgavata itself. The tacit assumption has been that this is 
-an enormous task that would take us far afield from our own investigations, but also that with 
-the emergence in recent years of numerous learned and skilled specialists in the Bhāgavata 
-and its reception such endeavors are best left to others whose command of the root text far 
-exceeds my own. In this particular instance, however, the disparity between the purport of the 
-passages we have just been exploring as Hemādri understands them and their function in the 
-Bhāgavata is too vast and telling to simply pass over in silence. Succinctly, Hemādri has taken 
-what in situ is a sequential account of the stages of yogic suicide (utkrānti)1699 and rewritten it 
-1698Hemādri, Kaivalyadīpikā, pg. 11–12: na yatra sattvaṃ na rajas tamaś ca na vai vikāro na mahān pradhānam // paraṃ padaṃ vaiṣṇavam āmananti tad yan neti netīty atad utsisṛkṣavaḥ / visṛjya daurātmyam ananyasauhṛdā hṛdopagūhyārhapadaṃ pade pade // . . . sattvādyabhāvād etat prāptavatāṃ punarjanmādiśaṅkābījaleśo ’pi nāstīty arthaḥ / evaṃ duḥkhaṃ nāstīty uktvā sukham astīty āha yan netīti / yad viṣṇupadaṃ hṛdā manasā upadgūhyāśliṣya ananyasauhṛdā bhavanti anyatra viṣaye prītiṃ parityajanti tādṛksukhābhāvāt / tad dhi pade pade kṣaṇe kṣaṇe arhapadaṃ arhaṇasyādarasya sthānam uttarottaracamatkaraṇīyatvāt / daurātmyaṃ visṛjyānādidurvāsanāvāsitatvaṃ tyaktvā viṣayāntarasmṛtir api nāstīty arthaḥ / netinetīty upaniṣadupadeśaviśvāsabalāt / atat viṣṇupadād anyat / utsisṛkṣavaḥ svecchayaivotsṛṣṭavantaḥ / nityaniratiśayasukhānubhavarūpe ’nubhavitā anubhavanam anubhavanīya iti kartṛkaraṇakarmāṇy atacchabdenocyante / tāni hy anubhavārtham upādīyante / saty anubhave tu tyajyante asatyatvād antarāyatvāc ca/ 1699Tapasyananda, for example, gives these verses, 2.15–21, the subheading “how a yogī passes away.” 
-1867as if it were a doctrinal dispensation. In the original text, when a yogin decides he is ready to 
-leave his body, entering into a firm seated āsana, using the power of his mind, he commences 
-a process of involution, dissolving the buddhi into the ahaṃkāra, the ahaṃkāra into the 
-knower of the field, so on and so forth, suspending the breath until his life has ceased. 
-Intriguingly, in alignment with the model of Vedānta presented by Lakṣmīdhara, which we 
-examined in the previous chapter, this process of yogic suicide is mediated through the 
-application of one of the mahāvākyas. In this case, “neti neti” is used programmatically so that 
-the yogin ceases to identify with the faculties and substances that make up his body, a process 
-which culminates, in the moments of death, with divorcing oneself from the guṇas themselves. 
-This is the very verse with which Hemādri begins his “trans-creation” of the Bhāgavata 
-proof text. No longer describing a practice, it instead becomes a site for developing a 
-theological model, one that the discourse that follows will reveal is most pertinent to the highest 
-level of enjoined bhakti praxis, for this is the domain where Advaita Vedānta as a knowledge 
-system comes into play and is then surpassed. In the language of the tradition of aesthetics, 
-such a person becomes sauhṛda—not in the sense that he is the ideal consumer of elite 
-literature, but on the basis that he is capable of extracting the most choice “enjoyment” and 
-“wonder” out of his experiences in the world. He does this by withdrawing the senses from 
-engagement with anything that is not the real source of our delight, in other words, Kṛṣṇa. This 
-is accomplished “by means of the heart,” which at once recognizes the capacity of Kṛṣṇa- 
-tinged objects of experience to bring about the experience of wonder (camatkāra) as well as 
-the inability of other types of objects of experience to evoke this intrinsically valuable affect. 
-Hemādri reencodes the repeated recognition of the utter inadequacy of non-Kṛṣṇa-tinged 
-objects of experience as the realization of the mahāvākya neti neti. Such realization is itself 
-1868 
-entangled with the process of recognizing, unravelling, and then ridding oneself of past karmic 
-traces that condition and shape one’s actions and responses as a limited agent. 
-If this discourse, in no way evident in the Bhāgavata passages under discussion 
-themselves, is profoundly influenced by yogic logics of askesis, especially derived from the 
-more overtly theistic take on Pātañjalian yoga that will animate the next four chapters of the 
-Muktāphala, it is even more indebted to that most unlikely of sources—given its author’s 
-personal history—namely, the Krama-tinged milieu that produced the Trika exegetes. It is hard 
-to read Hemādri’s discourse on experience, anubhava, especially the experience of bliss, as 
-conventionally subdivided into the triads of experiencer, experience, and thing to be 
-experienced, and action, action, and the recipient of the action, as distinctions that at once make 
-possible experience itself, but which ultimately resolve into the truth of the non-difference of 
-experience, experiencer, and object of experience, and not see standing behind him the ghosts 
-of Somānanda and Utpaladeva.1700 Such an anxiety of influence, which seeks to occlude one’s 
-debt to an inconvenient predecessor, becomes all the more relevant when we turn to the passage 
-that follows, for here, one realizes that the “higher” order of experience our author is going to 
-privilege—recognizing that the triad of agent, action, and recipient of action is what makes the 
-genuine good that is experience possible but also that this dynamic is itself ultimately 
-dependent on the projection of an epiphenomenal division in what is in fact unity—is in all but 
-name the Parama Advaita of the high Kaulas. 
-1700We seem to be dealing with a Śākta epistemology here that, though arriving a similar conclusion, precedes the more familiar formalized articulation of Pratyabhijñā terminology. On Somānanda in general, see John Nemec, “The Evidence for Somānanda's Pantheism,” Journal of Indian Philosophy 42, no. 1 (2014): 99–114, and John Nemec, The Ubiquitous Siva: Somananda's Sivadrsti and His Philosophical Interlocutors, 2 vols. (New York: Oxford University Press, 2011, 2021). 
-1869 
-“Thus, the sage, having obtained that state, should cease all action, he of whom the mind is disciplined by the power of the direct apperception of consciousness” [Translated following Hemādri’s interpretation]. 
-Thus, having stated this twofold definition, here he refers to the eligible person by stating “ittham” and so forth. Having obtained that condition of stasis, in this manner, the sage who has separated himself [from the objects of the senses?] should cease— which means he should not do anything. He is one by whom the āśaya—which is the upādhi that governs being a soul—is thoroughly destroyed—in other words, it is struck at in such a way so that it does not again rise up, by means of the virility (vīrya), in other words, the power (bāla) of the direct apperception that sees Viṣṇu as having the form of pure consciousness. This is the meaning. 
-Through the power of the sequence of upāsanās of different levels, which will be explained later on, having obtained the anyathākhyāti cognition [the assertion that a cognition is not as it appears to me]1701 regarding the true person [i.e., Kṛṣṇa], he is desirous of obstructing even that cognition, which has as its goal sāyujya. Thus, having obtained this state, a sage is eligible with regard to this [practice], and not anyone else.1702 
-Here, reading against the grain of his sources, Hemādri introduces yet another 
-dichotomy. On the one hand, we have the sage who annihilates the upādhi of being a limited 
-soul by means of the power of [mantra]vīrya, which enables direct cognition of the Viṣṇu 
-without form who is made of pure consciousness. Much as we find in both classical scholastic 
-Vedānta as well as in the Vedānta taught by Lakṣmīdhara, he arrives at this state through a 
-sequence of upāsanās (each taking a different object of contemplation or mahāvākya) that 
-culminates in the cognition of anyathākhyāti. This is where the previous act of mistaking a 
-wrong cognition for accurate knowledge is itself negated, resulting in the revealing of a correct 
-cognition, as when something assumed to be silver is revealed to not be silver, which, when 
-we rule out other possibilities, causes us to know that it is really mother of pearl. In this case, 
-1701 For more detail on the nature of this technical process, see the following paragraph. 1702Hemādri, Kaivalyadīpikā, pg. 12–13 : itthaṃ munis tūparamed vyavasthito vijñānadṛgvīryasurandhitāśayaḥ // evam asya dvividhaṃ lakṣaṇam uktvā’trādhikāriṇam āha ittham iti / itthaṃ vyavasthitaḥ anena prakāreṇa vyasthām āpanno munir uparamed na kiṃcit kuryāt / yato vijñānasya viśuddhajñānarūpasya viṣṇor dṛgdarśanaṃ sākṣātkāraḥ / tasya vīryaṃ balaṃ tena surandhito yathā punar nodeti tathā hiṃsita āśayo jīvatvopādhir yena sa tathā / ayam arthaḥ / vakṣyamāṇabhūmikopāsanākramabalāt sattvapuruṣānyathākhyātim āpann[a]s tāṃ api sāyujyārthīṃ niroddhukāma ityetām avasthām āpanno munir atrādhikriyate nānyaḥ / 
-1870 
-the sage ceases to have an erroneous cognition of the absence of Kṛṣṇa, revealing his all- 
-pervading presence as pure consciousness. From Hemādri’s perspective, the result of this kind 
-of Advaita Vedānta inspired realization is sāyujya, complete non-difference with the supreme 
-reality. The problem with this admittedly very high level of realization is that, as in the 
-canonical case of anyathākhyāti presented above, the recognition of the all-pervasiveness of 
-consciousness requires the destruction or suppression of the cognition of silver, a wrong 
-cognition to which the sage no longer has access. As in the processual ontologies of the Kālī 
-Krama, a Parama Advaita tradition with a highly refined sense of epistemology, the 
-suppression of the possibility of erroneous cognitions even in a state of apparent liberation is 
-by definition deemed less complete and perfect than unity with the supreme reality that retains 
-the possibility of perceiving the world not just “as it is” but also “as it appears” to others.1703 
-In essence, what we have here is a strategy that treats what historically were viewed of 
-as discrete schools of thought as sub-modalities within consciousness and then subordinately 
-incorporates them in ranked hierarchical order where they are treated as modalities appropriate 
-for specific types of social agents. Within this array, even the different analytical techniques 
-within classical Advaita Vedānta itself are reimagined not as aspects of a unitary knowledge 
-system, but discrete cosmogonic processes that can be accessed and employed by the 
-appropriate type of ritual actor. 
-Though no longer inseparable from seeing reality “just as it is,” Vedānta derived 
-technologies like anyathākhyāti cognition are situated near the top of the food chain. Lower 
-1703Though the locus classicus for the articulation of this process theology is typically taken to be Tantrāloka chapter 3, these ideas already seem to be present not only in the Krama revelations specific to Kashmir, but in scriptural sources such as the Devīpañcaśatikā, which the Krama siddha Govindarāja supposedly imparted to Somānanda while he was dying. See for example, Aleksandra Wenta, “The Twelve Kālīs and Utpaladeva’s Appraisal of the Sensory Experience,” in Utpaladeva, Philosopher of Recognition, ed. Rafaelle Torella and Bettina Bäumer (Shimla: Indian Institute of Advanced Study, 2016), 350–67. 
-1871 
-down the strata of modes of praxis, for example, is the form of emulating the lord signified by 
-“anusṛta,” offered in this case to the form of god called Nārāyaṇa, which in Hemādri’s 
-interpretation refers to a “fixed concentration on the relation of master to his property as the 
-[governing relationship] between the Lord and ātman.”1704 While the terms of art in this 
-formulation resembles the svasvāmisambandha theory of bhakti of Kauṇḍinya, in its actual 
-construal, the concept at work is more in alignment with Śrīvaiṣṇava qualified non-dualistic 
-theologies that speak of god as the śeṣin possessing the “fragment” that is the soul called śeṣa. 
-Thus, in a manner that is utterly maddening to the modern historian of ideas, as one ascends 
-the ladder of even more rarefied forms of bhakti, changes in praxis coincide with doctrinal 
-reframings of the real “intended” meaning of the exact same superficially identical statements 
-and images. This dynamic is most painfully evident in the multiplicity of deployments of the 
-notion that there is an “image and reflection” relationship between Viṣṇu and the Self such that 
-when the “self is pleased,” we are able to infer that Hari himself has been appeased. Essentially, 
-on some level, the idea is that we recognize god through “emulating” him. The problem from 
-the historian of ideas is that such “emulation” in the Muktāphala is a composite category 
-inclusive of “pleasing god through pleasing the self,” bringing the stories of god’s līlās to the 
-ear and mind through the act of śravaṇa, bringing the name of god into one’s body through the 
-performance of kīrtana, ascending to the heaven to attend to god, becoming a Kṛṣṇa on earth, 
-and becoming (or even recognizing one always was) non-different from god. Each mode of 
-praxis is treated as the appropriate mode of “emulation” associated with a specific subtype of 
-bhakta. In the highest form of praxis, “performative emulation,” now framed as “doing 
-1704Hemādri, Kaivalyadīpikā, pg. 115: tathāpi kiṃ viśiṣṭa-nistāra-buddhyārpayet? nety āha—anusṛta iti / ātmeśvarayoḥ sva-svāmi-bhāvānusandhānam anusaraṇaṃ parasmai bhagavadādirūpāya / itiśabdaḥ prakāre / tenedaṃ nārāyaṇāyety anena prakāreṇārpayet, nānyathety arthaḥ / 
-1872 
-anuśīla” occurs through affective experience. It is marked by the release of tears of joy, 
-experiencing happiness, turning away from the world, and going to the supreme by “having 
-directly experienced him.”1705 Thus, at this lofty level, reframing once again the message of 
-the bimbapratibimbavāda, we are told: 
-The Lord who is self-fulfilled by his own inherent bliss does not solicit the worship of ignorant man for any purpose of his own. He accepts it only out of concern for the welfare of the worshipper. For, whatever offerings are made by people to the worshipful Lord return as blessings to themselves, just as the beauty that a face derives from adornments only goes to beautify its reflection in a mirror.1706 
-Rather than attempting to pigeonhole each of Hemādri’s multitude of selective 
-reframings of inherited Vaiṣṇava theologies and often almost tongue-in-cheek borrowings 
-from the various learned traditions of scholastic dualistic, qualified, and non-dualist Vedāntic 
-exegesis in Sanskrit, a task that would entail an enormous amount of time and labor while in 
-most cases culminating in the programmatic recognition that with Hemādri, something 
-borrowed and something old (with Kṛṣṇa as the something blue completing out the set) 
-inevitably travels inseparable from something new, we are going to turn our attention instead 
-to a very different and even more overlooked venue that speaks far more directly to the nuts 
-and bolts of Hemādri’s intellectual project. For, notwithstanding that he is writing a 
-commentary in Sanskrit that is on a Sanskrit text, while parallels between Hemādri and what 
-survives from comparable learned Sanskrit discourses surface at best intermittently, in their 
-1705Hemādri, Kaivalyadīpikā, pg. 119: kvacid rudanty acyutacintayā kvacid dhasanti nandanti vadanty alaukikāḥ / nṛtyanti gāyanty anuśīlayanty ajaṃ bhavanti tūṣṇīṃ param etya nirvṛtāḥ //13 // (BP 11.3.32). . . . bhaktyeti bhakter aṅga-varga-bhajanam / tathā bhaktiḥ prema / utpannabhakteś cihnāny āha—bibhratīti / utpulakām udbhūtaromāñcām / kvacid iti rudanti ānandāśrūṇi vimuñcanti / nandanti sukham anubhavanti / alaukikāḥ lokavyāvṛttāḥ. . . . anuśīlayanti tallīlām abhinayanti / ataḥ paraṃ viṣṇum etya sākṣātkṛtya tūṣṇīṃ bhavanti / upaśāmyanti / yato nivṛtāḥ samāptaparamānandāḥ // 1706Bhāgavata Purāṇa 7.9.11: naivātmanaḥ prabhur ayaṃ nijalābhapūrṇo mānaṃ janādaviduṣaḥ karuṇo vṛṇīte / yad yaj jano bhagavate vidadhīta mānaṃ tac cātmane pratimukhasya yathā mukhaśrīḥ // Trans. Swami Tapasyananda. 
-1873 
-contents and structuring elements, the doctrines of the Muktāphala and Kaivalyadīpikā are 
-entirely of a piece with the wider world of twelfth- and thirteenth-century old Marathi religious 
-literature. As we are going to see, the correspondences are numerous, compelling, and involve 
-formulations otherwise unknown to the classical tradition. Thus, for example, what we see in 
-terms of ontology is the articulation of an increasingly materialist Vedānta that accounts for 
-epistemological processes in substantive terms. Doxographically, at the same time, we find the 
-accommodation of what are usually taken as competing Advaita Vedānta theories—such as 
-the vivartavāda or bimbapratibimbavāda—which are suddenly taken to be mutually 
-complementary models accounting for discrete epistemological processes, each seen as one 
-facet of larger picture. In each work, an integral role is given over to the interpolation into 
-Vedānta philosophy of a new supercessionary theology of affect. And finally, and most 
-fundamentally, in all three cases, the conceptual glue that binds these concepts together, along 
-with numerous terms of art, are unambiguously derived from Śākta sources. Succinctly, the 
-recognition of the impact that these interlaced influences had upon Hemādri’s bhaktiśāstra 
-provides us with the otherwise elusive interpretive context for placing his writings, while 
-offering us a powerful corrective to normative Indological assumptions about the imagined 
-mainstream of Indian philosophy and religion on the cusp of early modernity. With this 
-background in mind, we will also become able to see how, with almost surgical precision, 
-Hemādri inserts himself into ongoing Śākta-inflected arguments among his contemporaries 
-and suppresses some of their more cherished understandings. 
-Devotional Advaita in Early Medieval Maharashtra and the Fate of the Vīra 
-For the purposes of our comparison, we will examine in passing some striking commonalities 
-between the working assumptions that animate Hemādri’s materialist, effusively devotional 
-1874 
-theistic Vedānta and two in many ways very different old Marathi theological dispensations. 
-First, very briefly, we will look at some of the teachings attributed to the living god Cakradhar 
-of the Mahānubhāvika tradition as contained within the compilation of his statements called 
-the Sūtrapāṭha, which was compiled by his followers shortly after his death.1707 As Christian 
-Novetzke has shown us, Cakradhar is remembered has having been persecuted (or even for 
-some, executed) at Hemādri’s direction.1708 In light of the politically problematic nature of the 
-tradition from the perspective of the universalization of nascent “Hindu” dharma, it is thus all 
-the more remarkable how many structural affinities and doctrinal points of overlap exist 
-between the doctrinal presentations within the two value systems. Here, for example, is what 
-Cakradhar teaches in the opening divisions of the work now called the Sūtrapāṭha.1709 
-1707Anne Feldhaus, The Religious System of the Mahānubhāva Sect: The Manānubhāva Sūtrapāṭha (Delhi: Manohar Publications, 1983). 1708On Cakradhar’s trial, see the account in Christian Novetzke, The Quotidian Revolution: Vernacularization, Religion, and the Premodern Public Sphere in India (New York: Columbia University Press, 2016), 317–31. 1709Though the analysis that follows relies upon the critical edition of Anne Feldhaus and at times draws upon her translations, its interpretation of the cosmology and theology being presented by Cakradhar diverges in significant ways from the one she has offered, especially in the interpretive portion of her introduction to the text (pg. 23– 68). With great erudition, Feldhaus draws upon an extensive and largely unpublished early modern Mahānubhāva commentarial tradition. Over time, these communities have come to read Cakradhar’s theology as offering a theistic dualism rooted in Sāṃkhya philosophy, where Parameśvara is superior to and distinct from his creation, that also draws eclectically on the language of Vedānta. At numerous points in her analysis, Feldhaus points to the divergence of opinion within the living traditions concerning such important elements of Cakradhar’s theology as whether the relationship between the elements the scripture labels Īśvara, brahman, and Parameśvara should be seen as synonymous or represent discrete realities, and how these entities relate to Kṛṣṇa, who is especially privileged by some Mahānubhāva sects. Feldhaus is also quite attentive to the imperfect correspondence of virtually any of these interpretations, especially in regard to the elevation of a canon of avatāras, with what we actually find written in the texts. When it comes to questions of cosmology and soteriology, however, though she is aware of numerous point disjuncture between our text and its presumed context among later interpreters, she accepts their basic construal of the cosmogonic fall from a state of perfect union, which commences when consciousness objectifies itself, mentally projecting out a multitiered universe from which it becomes progressively alienated, as necessarily corresponding to some kind of dualism, insomuch as it diverges radically from vivartavāda style Advaita Vedānta. Ever the attentive reader, Feldhaus appears keenly aware that she is missing a key part of the interpretive context for the work that would help to make sense of some of the more eccentric elements in Cakradhar’s system, such as the inexplicable role of a process called “maiḷe” or “staining” that, as one descends further and further into gross reality, generates a series of mysterious “stains,” called malas, both within the jīva and within the ontic planes, culminating in the production of the aṇava male. As the student of Tantric traditions may already be beginning to recognize, the missing background for understanding Cakradhar’s system is none other than the Śākta-Śaiva traditions that emerge out of the Krama and the Trika. As will be demonstrated below, when one takes into account these hitherto occluded dimensions of the text, the reader is led to conclude that the epistemology and soteriology at work here derives from Parama Advaita Kaula sources, while the ontology 
-1875 
-Within the world that is called vīsvā (M. vīsvākṣaprapaṃcī S. viśvākhyaprapañce) 
-appearances appear to be made up of ontological entities that are both gross and subtle.1710 
-Everything in the world is made up of the pañcamahābhūtas (prapaṃcu paṃcabhutiku) and 
-these in turn are made up of the three guṇas (trīguṇā ātmaku).1711 While some people say the 
-world runs on parīnāma and others (cough, orthodox Vedāntins) on vīvartu, in actuality, the 
-world—according to the Mahānubhāvikas—runs on its own free will (svātaṃtru). In 
-Cakradhar’s compelling riff on a well-worn image, our experience of reality is best compared 
-to an elephant inhabiting the city of the Gandharvas.1712 In other words, there is a real 
-substantive thing wandering around amidst phantasms that are the projections of its own mind. 
-Material reality is transitory (vībhacāryā, S. vyābhicarin).1713 External reality is also a direct 
-macrocosmic presentation of the processes and principles within the human body that are 
-governed by the same standards at different scales of operation (je māna brahmāṃḍīṃ teṃci 
-pīṃḍīṃ).1714 This extends to the gods, who are present in both in the universe as having mūrtās 
-or ākārus and in the body, where they reside in our physical substances such as fat, but also as 
-the forces that govern our faculties, such as the mana, budhi, cīta, ahaṃkāra, and what in 
-Sanskrit would be called the karmendriyas.1715 All of these functions, the gods, the body, and 
-material reality in which they are contained are composed ultimately of consciousness 
-(caitanya).1716 Consciousness in this system in turn is the first hypostasis of the penultimate 
-presented has also been inflected by the just emerging pañcīkaraṇa tradition within Advaita Vedānta, which much like Hemādri’s own non-dualism, draws heavily on a theistic Sāṃkhya vocabulary akin to what we find in the Bhagavad Gītā. 1710Cakradhar, Sūtrapāṭha 10.57. 1711Cakradhar, Sūtrapāṭha 10.59. 1712Cakradhar, Sūtrapāṭha 10.60. 1713Cakradhar, Sūtrapāṭha 10.53. 1714Cakradhar, Sūtrapāṭha 10.64. 1715Cakradhar, Sūtrapāṭha 10.55–60. 1716Caitanya is first introduced to us in division one of the Sūtrapāṭha. This teaches that Parameśvara is not reducible to each of the ontic reality levels and their governing agents, which are presented to us in the reverse of 
-1876 
-supreme reality, which is made up of sat-cit-ānanda, corresponding to brahman-māyā- 
-īśvara.1717 As in many Vedāntas, this three-in-one brahman (confusingly the word brahman is 
-used synecdochally to refer to the whole set but also as its first component element) is inert. 
-“Creation” is precipitated by the emergence of consciousness, which causes cit to break 
-off from ānanda.1718 This occurs when the supreme reality mistakenly identifies itself with 
-only being the part of itself that will become the universe through making the statement “I am 
-the visva.”1719 This same process also generates the jīvu which, when it witnesses caitanya, 
-acquires the originary ontic stance (male, S. mala or even aṇava mala) of ignorance (M. 
-avīdyu).1720 The jīvus, then, through the power of their own minds, create the world of 
-experience. Both of these processes are made possible by the deployment of the cycles of 
-śaktis. As the śaktis set about their work, mahāmāyā or parā śakti “appears” to become inert 
-prakṛti and brahman becomes Īśvara, abiding in a state called kaivalya.1721 The modes of 
-their order of emanation. Caitanya, here, is introduced as the penultimate elements, above which is Parameśvara himself, who assuming the form of Cakradhar has come into being to uplift the souls of the jīvas. Later sections of the text, beginning with 5, will clarify that from caitanya down to the earth level (caitanya mūrtikā[emd. mṛttikā]paryanta) is governed by an original ontic stain (maiḷe) and that the same dynamic is reflected within the jīva (caitaṇyāṃsarve jīu mṛtikā paryanta maiḷe). Divisions 5, 10, and 11 are particularly rich resources for excavating the Mahānubhāvika notion of caitanya, which diverges in important ways from Trika notions. Thus, for example, while caitanya is identical with the nature of the jīva as a bound soul, it is treated as an adulterated form of the cit of Parameśvara. 1717Chapter 6 of the Sūtrapāṭha is referred to by the Mahānubhāvika commentators as the mahāvākya and offers an exploration of the three-fold nature of sat-cit-ānanda and their corresponding governing powers of brahman, māyā, and Īśvara. Though the commentators appear confused about this point, often conflating him with Īśvara, in Cakradhar’s depiction, Parameśvara, who is forever united with his śakti, seems to both incorporate the threefold brahman and go beyond it in having a particularized identity as well as salvific function, in a manner not entirely unlike some acintyabhedābheda Gauḍīya theologians many centuries later ascribe to the personified godhead of Kṛṣṇa. 1718 When cit becomes separated from bliss, though the text does not make this explicit, it appears to become reencoded as caitanya, which then almost instantly manifests as the jīvu. 1719 This teaching is the focus of 5.14–23. The identification with visva happens in 5.19. 1720 Cakradhar, Sūtrapāṭha 5.5. 1721The treatment of this topic by Cakradhar is hardly systematic, but the parallels with the eerily similar cosmology (but not epistemology) offered in the slightly earlier Vivekasindhu, on which more below, strongly support such a reading. A full demonstration of the grounds for reading Cakradhar in this manner will have to wait for another occasion. 
-1877worship that address such provisional realities are governed by injunctions.1722 Those modes 
-of worship, including the mode of worship conducted with bhāo (S. bhāva), a term that here 
-also refers to the “lower bhakti,” enable one to acquire the vīdyā and attain the heaven of 
-various demiurgic beings, up to sāyujya with the isolated lord. What they do not make possible 
-is true liberation. 
-Thankfully for us, brahman is not just threefold—there is another. As an ontic 
-principle, this fourth is called turya (S. turīya). In human experience, this is called 
-Parameśvara. Though Parameśvara is unitary, he is also ever united with all his śaktis. 
-Nevertheless, inconceivably, Parameśvara himself periodically descends into the world, 
-clothed in a human body made of māyā.1723 In such a body he makes a connection (saṃbaṃdhu 
-deti) to limited human beings with limited agency bound up in māyā.1724 According to later 
-Mahānubhāvika theology, Parameśvara has done this many times, including by assuming the 
-form of Kṛṣṇa Vāsudev, who “penetrated” (we will see what this means momentarily) 
-“100,000” beings comprised of both of those “attuned to and adverse to him.”1725 In the present 
-age, however, Parameśvara took the forms of Cakradhar’s teacher Guṇḍam Rāuḷ and also of 
-Cakradhar himself. 
-When Parameśvara makes a connection (saṃbaṃdhu deti) to limited human beings, 
-what is really happening is that he transfers (saṃcarīti) into them something called love 
-1722This teaching is the focus of chapter 2, entitled by the commentators “The Dharmas of the Ages.” The critique of injunctions and its transcendence as found in the spontaneous worshipping of Cakradhar and his commands is a major topic in chapters 12 and 13, which offer us wisdom statements Cakradhar presented to specific disciples, many of which are discussed in the Līḷācaritra. 1723The nature of Parameśvara’s incarnation and the processes involved is the focus of 8.1–18 as well as 10.104– 111. 1724Cakradhar, Sūtrapāṭha 8.12. 1725See 10.78–93 for the Sūtrapāṭha representation of Kṛṣṇa as one of the avatāras of Parameśvara. Verse 91 treats the “penetrations “of Kṛṣṇa. 
-1878 
-(prema), which is the real bhakti (prema bolije, bhakti bolije).1726 Ultimately, it is this 
-transferred element that will make possible real knowledge, including direct unmediated 
-perception of the nature of reality. Whatever one calls it, this modality engenders a fundamental 
-transformation in the bhakta and creates the possibility of a mode of worship not governed by 
-the logic of injunction, centered on transformative experiences. As the sūtra argues, merely 
-through the transfer of love (premasaṃcārū mātreṃ), there arises the severing (uccheduni jāti) 
-of vīkārū, vīkalpū, and svābhāvo.1727 If the devotee chooses to follow and imitate Parameśvara, 
-what then unfolds, especially in his direct presence (sannidhi), is a series of individuated 
-spiritual experiences of the interrelationship between ontology and epistemology.1728 First, one 
-directly experiences, through a practice called “the piercings” (vedhu), the relationship 
-between the one who aims to achieve, the means of achieving, and the goal 
-(sādhyasādhaṇasādhakū) as three independent elements. Then, one experiences a twofold 
-division of the relationship between the agent and the thing to be arrived at (sādhye sādhaku). 
-In the final stage, the agent disappears and there is only the aim that remains (sādhya). One 
-has only to list the names of these registers of the great piercing in sequence—ānavīṃ, 
-śāketyāṃ, and sāṃbhavīṃ,1729 to see that the terminology is adapted either from the upāya 
-system of Abhinavagupta’s Tantrāloka (with anupāya in absentia) or from lost common 
-Krama sources (the latter explanation would explain the occasional inclusion of another term 
-called mahāṇava and its insertion between the āṇava and śākteya). As the verses that follow 
-make plain, the parallels are far more than terminological. Vedhu occurs when like penetrates 
-1726Cakradhar, Sūtrapāṭha 8.12–17. The definition of bhakti as prema is found in verse 8.14. 1727Cakradhar, Sūtrapāṭha 8.15. 1728What follows offers an analysis of 10.24–27. 1729As for example, in Cakradhar, Sūtrapāṭha 10.24–6. 
-1879 
-like (sājātyā sājātyāṃ vedhu),1730 for through piercing of a portion of any entity or ontic state, 
-the whole is obtained (aṃsuvedheṃ saṃpurṇāci prāpti).1731 Perhaps correlated with the triad 
-of piercings (for they follow in the next verse), such experiences unfold as āvesu, avasthā, and 
-stiti (S. āveśa, avasthā, and sthiti), seemingly also arranged according to their viscerality and 
-duration.1732 They can arise merely through meeting of the eyes of the bhakta and Parameśvara, 
-for this causes the śakti to enter, giving rise to what our text calls the inner oblation 
-(antaryāga).1733 
-The culmination of these experiences, which wear away at the different forms of 
-primordial stain, eliminates both the lack of knowledge, and, by extension, all wrong 
-knowledge, just as how, when clay vessels are stacked up, knocking out the bottom-most one 
-causes all of the pots to fall over and crack.1734 When this happens, a person ceases to be a jīva 
-and through Parameśvara’s grace goes beyond māyā.1735 As the Sūtrapāṭha explains, this 
-happens when Parameśvara, by the power of his grace (kṛpāśaktī, or anugrahaśakti) severs 
-beginningless avidyā (ānādi-avidyācchedu), root avidyā (mūḷā-avidyāchedu), and wrong 
-knowledge (ājñānacchedeṃ), all of which may well represent distinct sources of bondage.1736 
-This occurs when Parameśvara gives a direct experience of himself, a direct experience of love 
-(parameśvarū bhaktāsi āpulī āṇubhuti rati deti).1737 In what is again probably a series of three 
-distinct stages, the bhakta begins by merely becoming brahman (brahmīṃbhuta) before 
-1730Cakradhar, Sūtrapāṭha 10.28. 1731Cakradhar, Sūtrapāṭha 10.29. 1732Cakradhar, Sūtrapāṭha 10.27. 1733Cakradhar, Sūtrapāṭha 10.31: ubhayāṃṇsikṣamāneṃ (ubhayānvīkṣamāṇeṃ) satāsanedhimātreṃ śakti saṃcare to aṃtaryāga bolije. 1734Cakradhar, Sūtrapāṭha 8.56. 1735Cakradhar, Sūtrapāṭha 8.57. 1736Cakradhar, Sūtrapāṭha 8.54. 1737Cakradhar, Sūtrapāṭha 8.59. 
-1880 
-ultimately arriving at a state of mingling (mīsaḷaṇe) in brahman and diving (buḍaṇe) into it.1738 
-In this ultimate state, “it is impossible for the devotee to distinguish whether he experiences 
-Parameśvara as different or non-different from himself (bhaktu aṇabhavī kīṃ ābhedeṃ 
-anubhavī, ese vīkalpa tetha karūṃ na eti).”1739 Much as we found in Hemādri, through effusive 
-experience, “normative non-duality” itself has been transcended. 
-As is beginning to become evident, Hemādri and Bopadeva in their later writings share 
-a set of preoccupations, not with what survives of the Sanskrit sources, but with the largely 
-uncharted old Marathi literary sphere. Quite tellingly, this is true not merely in regard to the 
-sudden appearance of deep investment in individual topical foci of varying degrees of 
-marginality to the Sanskritic milieu. More importantly, it is also the case when it comes to the 
-representation of these elements as forming an interrelated, recurrent, and cohesive discourse. 
-In other words, we encounter not only an affective bhakti theology treated as inextricable from 
-a devotional non-dual theism, but also the mediation of these commitments through a synthesis 
-of the idioms of Sāṃkhya and a materialist Vedānta, both of which are then fused with 
-elements drawn from a Śākta-Śaiva imaginary. What is perhaps even more significant, 
-however, is that throughout his commentary, in exploring these shared topics, Hemādri seeks 
-to address a collection of problematics that, though hardly central to the Bhāgavata itself, are 
-of vital importance to the structuring of old Marathi vernacular textuality. Such questions 
-include: meditations on the nature of language and its different registers and how they relate 
-to facilitating or inhibiting different kinds of religious experience, how one should account for 
-different devotional modalities and place them in a hierarchy (a task the Bhāgavata does not 
-attempt), as well as the need to account for—not just merely acknowledge as extant—the 
-1738Cakradhar, Sūtrapāṭha 8.61–64. 1739Cakradhar, Sūtrapāṭha 8.65. 
-1881 
-existence of “spontaneous” fast track paths to high levels of religious attainment that seem to 
-pass over the demands and strictures that govern normative practice. In this regard, where our 
-śrīkaraṇeśvara diverges most radically from his predecessors and contemporaries is in his 
-attempts to fuse accounts of a hierarchy of attainments—of slow and fast paths—with 
-disciplinary systems, either queued explicitly to social statuses or mediated through an 
-inherited set of objective standards that, pushing back against charismatic models of religious 
-authority, delimit and entextualize the metrics against which liberation is to be measured by 
-consigning them exclusively to the past. 
-One particularly constructive approach to making sense of much of what is most 
-enigmatic in the Kaivalyadīpikā is arrived at by reading it as anchored upon a series of 
-responses and rebuttals to the vernacular’s approaches to addressing what are essentially 
-shared problematics. In this regard, our most vivid touchpoint for comparison proves to be the 
-rhetoric and theology of Mukundarāja’s late-twelfth-century Vivekasindhu.1740 In chapter 8 of 
-1740As in chapter 8, the majority of readings from the Vivekasindhu follow the edition of V. Gokhale, making judicious but not uncritical use of his now somewhat archaic turn of the century “modern” Marathi chāyā. In select cases where the text’s readings are unsatisfactory, or other readings from in manuscript prove better matches to the Sanskrit recreation of the text found in the Vivekāmṛta, other editions, especially that of D. Deshmukh have also been consulted. For reasons that should be evident, the reconstructed version of the text offered by K. Kulkarni, which seeks to recover an “original” purely Vedāntic text obscured by later “tantra- mantra” accruals has been rejected. 
-My evaluation of the content of the Vivekasindhu, in spite of its current philological texture, as a work of the late- twelfth century or early-thirteenth century demands a more substantive defense than can be offered at this time, as it demands a close reading of the Marathi secondary literature as well as the manuscript evidence that would derail our current investigation. For the moment, it suffices to say that the assumptions of recent Western scholarship, such as Novetzke (2016), that it has been “recently demonstrated” that the Vivekasindhu is a work of the fourteenth or even fifteenth century are founded upon a second-hand and uncritical acceptance of a remarkably weak argument offered by the usually much more insightful R. Dhere in his early monograph, Cakrapāṇi. 
-In this at times illuminating but equally maddening work, Dhere attempts to demonstrate that the Harinātha of the Vivekasindhu, the parameṣṭhiguru of Mukundarāja, is in actuality the thirteenth Mahānubhāvika saint Cakradhar, a state of affairs that if true would indeed place Mukundarāja at the very earliest at the end of the fourteenth century. But this premise has been roundly refuted by Brahmanand Deshpande in his monograph length rebuttal “Pondering Cakrapāṇi” (Cakrapāṇi Cintana), which offers a laundry list of unimpeachable empirical evidence (starting from the fact that the two figures are presented as having mutually exclusive pedigrees) about why such a hypothesis should be discarded. 
-1882 
-the present work, while introducing the post-Tantric but nonetheless Trika inflected theology 
-of the “Ocean of Discrimination,” we had briefly summarized the contents of that work’s 
-opening chapter, entitled the Svarūpasamāveśa. In that context, before we moved onto looking 
-at Mukundarāja’s representation of rājayoga, passing mention had been made of “a rather 
-astounding reconsideration of the value of discursive knowledge and poetic production” found 
-in the Vivekasindhu’s opening, which, we had suggested, functions as a prelude to the main 
-teachings in the chapter, exploring the nature of the guru, the disciple, their relationship, the 
-value of grace and the transformative power of śaktipāta. As we had alluded to before, scorning 
-all forms of poetry, Mukundarāja prizes a direct, even crude (rokhaṭhoka) mode of speech 
-(vāṇi) as the ideal medium for conveying liberating insight.1741 As he tells us, just as one 
-accepts a mouthful of sap (rasa) from the sugar cane (uṃsa), paying no heed to its dark 
-exterior, in the same way, the person of discrimination should be receptive to the truth that 
-travels best within rustic or rough speech (āruṣa bola).1742 
-In fact, Dhere himself derives his theory from an unpublished work of a now extinct subsect of the later Mahānubhāvikas called the Yakṣadeo Āmnāya, which in its liturgies does indeed asserts the identity of the two figures. Instead of taking this assertion at face value, as Dhere has, however, in light of the numerous inconsistencies between the biographical and chronological details our texts offer us concerning these two figures that makes their identity exceedingly unlikely, it seems more plausible that we should treat the Yakṣadeo corpus as one early modern attempt among many to lay claim to the legacy of the Vivekasindhu for their lineage, comparable to the efforts of Ānandasaṃpradāya on the one hand and the proto-Peshwa Brāhmaṇa ecumene on the other to claim Mukundarāja for their communities through the production of hagiography and well as pseudepigraphical works in a range of languages. V. Gokhale, ed., Ādya Kavi Śrīmanmunkundarāja Viracita Śrīvivekasindhu: Artha, Ṭīpā, Śadārthasūcī āṇi Dīrgha Vivekacakra Prastāvanesaha, 4th ed. (Pune: Yasavanta Prakasan, 2014); K. P. Kulakarni, ed., 1957. Śrī Vivekasindhu: Bhāshāśāstrīya va Pāṭhacikitsāśāstrīya Sãhitā, Prastāvanā, Anuvāda, va Śabdasūci (Pune: Sri Lekhana Vacana Bhandara, 1957); R. Dhere, Cakrapāṇi: Ādya Marāṭhī vāṅmayācī sā̃skr̥tik pārśvabhūmī (Pune: Visvakarma Sahityalaya, 1977); Brahmanand Deshpande, Cakrapāṇi Cintana (Aurangabad: Raul Prakasan, 1979). 1741Mukundarāja, Vivekasindhu 1.14: jarhi he āruṣa bola / pari rokaḍeṃ brahmajñāna heṃ navala / tarhi avajñā kavaṇa karila / yetha viṣaīṃ // 1742Mukundarāja, Vivekasindhu 1.16: uṃsa kiru dise kāḷā / pari ghepe rasācā gaḷāḷā / taiseṃ āruṣa bola pari jhāḷāḷā / dise vivekācā // 
-1883 
-What at first seems to be a straightforward apologetics for our author’s innovative use 
-of the vernacular in the service of theology and philosophy rapidly transforms itself into a 
-pointed polemic. Its target, unambiguously, is not Sanskrit itself, but the aesthetics of elite 
-discourse, potentially encompassing both Sanskrit and Kannada poetics.1743 Truly wise people, 
-our author tells us, do not make use of the mode of language that is enlivened by the nine rasas. 
-Such speech brings about the ruin (nāgavaṇe) of clear communication.1744 For supposedly 
-skilled and clever speakers whose words abound with the nine rasas, our author proclaims, it 
-becomes extremely difficult to obtain the experience of the supreme reality.1745 Offering us 
-perhaps as stark a metaphorical repudiation as his cultural context will allow, Mukundarāja 
-observes that upright, uptight worldly folk will not dine on dog meat cooked in the house of a 
-dog cooker, notwithstanding that dog meat in fact is the tastiest of treats. In precisely the same 
-way, Mukundarāja observes, truly wise people reject poetic expression, which is nothing other 
-than sāṃsārika speech.1746 Mukundarāja makes very clear that the mere appearance of rasa 
-(māyīka rasavṛttī),1747 which belongs to realm of saṃsāra, has nothing at all to do with 
-sweetness of brahmarasa (brahmarasācī goḍī).1748 Brahmarasa is not to be found in effete 
-artistry, but must be achieved either directly and experientially or through the medium of harsh 
-speech, which conveys both the methods and understandings of conspicuously non-exegetical 
-form of Advaita Vedānta. 
-1743Here we consider the run of verses, several of them syntactically connected, contained within Vivekasindhu 1.17–22. 1744Mukundarāja, Vivekasindhu 1.17: navarasāṃce upalavaṇeṃ / teṃ ughaḍa vācesīṃ nāgavaṇeṃ/ mhaṇauni na pravartatī syāhāṇe / tetha viṣaīṃ // 1745Mukundarāja, Vivekasindhu 1.19. 1746Mukundarāja, Vivekasindhu 1.20 and 1.21. 1747Mukundarāja, Vivekasindhu 1.19. 1748Mukundarāja, Vivekasindhu 1.22. 
-1884 
-At the outset, then, it would seem that Mukundarāja’s core interpretive project—which 
-explicitly excludes aesthetics from the realm of religious experience—and Hemādri’s—which 
-converts the methods and idiom of theorizing aesthetic experience into an analytic for parsing 
-religious experience—are diametrically opposed to each other. And yet, despite this clash of 
-interpretive projects, on the microtextual level, there is a surprising degree of overlap, 
-especially when it comes to the theorization and presentation of the role that is played by bhakti 
-and its explicit meditation through the teachings of the Bhāgavata Purāṇa. Quite simply, 
-bhakti, especially when it is exemplified by love (prema or premaḷa) is integral to the Ocean 
-of Discrimination’s entire system and this is true both formally and theologically. Thus, in the 
-frame narrative of the saṃvāda that organizes each chapter in the text, each teaching is 
-preceded either by effusive displays of the disciple’s devotion or by reflections on the affection 
-the teacher shows towards his student. That this is not merely an inherited trope becomes clear 
-when we turn to more prescriptive passages. Thus, for example, in the second chapter, each 
-living being is implored to worship the guru with the bhāva of bhakti. Mukundarāja 
-admonishes that a living being who does not worship the guru with bhāva of devotion (gurusiṃ 
-na bhaje) fails to resolve one his fundamental debts (ruṇiyā) and this ensures continued 
-transmigration and time spent in the hells.1749 Affective bhakti, however, here is not merely 
-serving as a boundary condition for participation in the lineage of rājayoga. In actuality, 
-Mukundarāja’s position is that the key result of the guru’s initiation—the sign that it has 
-worked—is that within the disciple there arises a love (prema) that is ever persistent (nīca S. 
-nitya) and ever new (naveṃ).1750 On the one hand, the one who has been graced in this manner 
-1749Mukundarāja, Vivekasindhu 2.19: aho bhaktibhāveṃ guruvaryā / eseṃ neṇāuni jo prāṇiyāṃ / gurusiṃ na bhaje ruṇiyā / jāye adhogatī // 1750Mukundarāja, Vivekasindhu 2.26: gurudīkṣeceṃ phaḷaleṃpaṇa / heci tethīmci jāṇāvī khuṇa / jeṃ nīca naveṃ premalakṣaṇa / gurudīkṣeviṣaīṃ // 
-1885 
-incurs a new kind of obligation, namely, he is to serve his teacher while directing his one- 
-pointed bhakti to the Lord—especially the guru, and not in any other state (kāravī īśvarīṃ 
-bhaktī/ānanye bhaveṃ).1751 From this point forward, it is the cultivation and strategic 
-deployment of this ever renewing inner wellspring of prema that fuels the sādhaka’s practice. 
-In a manner almost identical to what we find in Hemādri, Mukundarāja teaches that 
-the mere manifestation of this love within the consciousness and body of the practitioner is 
-necessary but insufficient. For love to become real, it needs to be directly and repeatedly 
-experienced. In order for that to become possible, for the great bliss to be tasted, the sense of 
-I-doer-ship must be destroyed. In Mukundarāja’s system, while dīkṣā as derived from the high 
-Śākta Tantras can confer direct experience of the supreme reality, in the vast majority of cases, 
-what it cannot do is make firm that experience (svānubhavadṛḍhī) such that it becomes 
-permanently integrated into the self-understanding of the practitioner. This, Mukundarāja tells 
-us, is the reason we need to master Advaita Vedānta and its methods.1752 And, because people 
-come in all different varieties, as defined by relative proportions of sattva, rajas, and tamas 
-operating within their different faculties, a variety of approaches and methods are necessary if 
-one wishes to transmute the prema initiation engenders or reveals into something that can be 
-consciously and continuously tasted. For Mukundarāja, just as it will be for Hemādri a century 
-later, this state is labelled the obtaining of kaivalya. 
-Much as we saw in the Kaivalyadīpikā and the Sūtrapāṭha, to arrive at Vedānta, we 
-first need to develop an accurate and nuanced understanding of the true nature(s) of the 
-supreme Lord and the divine reality. While as we have seen, such knowledge is fostered 
-experientially through contact with the satguru who is Parameśvara on earth, this is then 
-1751Mukundarāja, Vivekasindhu 2.49. 1752Distilled down it its essence, this is the core argument of chapter 3 of the Vivekasindhu, the svānubhavadṛḍhī. 
-1886 
-complemented with a highly idiosyncratic, more intellectual understanding that seems to be 
-knitting together influences from a range of disparate scriptural sources. Chapter 5 of the 
-Vivekasindhu opens with a framing dialogue, in which the king of disciples (śiṣyāṃcā rāṇā) 
-asks his perfect (saṃpūrṇā) teacher, the Rāuḷ, to grace him with an answer to his next question, 
-which is to know about the manner in which the jīva comes into being (jīvasṛṣṭīcī kathā).1753 
-After embracing his disciple with the modality of love (premabhāveṃ āliṅgauni),1754 the 
-overjoyed guru offers in response a discourse that begins with a novel riff on the classic 
-Vedāntic illustration of non-dual reality.1755 
-Typically, we are told that the relationship between the divine reality and the objects 
-of our experience is something like that between gold and a golden bracelet, which is to say, 
-between the underlying undifferentiated substance and a particularized delimited object. In the 
-Vivekasindhu, the teacher tells his student to look at an actual golden bracelet the disciple wears 
-on his arm. The satguru then says that it was the goldsmith (sonāru) who made it beautiful 
-(cokha). The teaching is that it is paramount that the disciple is never unmindful (visaraṇe) of 
-this reality and that he honors the assistance or favor that the goldsmith has given him (teyācā 
-upakāru). In much the same way, the teacher asserts, by attending to the question of the source 
-of one’s own bliss, the topic of “Īśvara” and the role it plays comes automatically into the 
-mind. In this way, the act of attending to the logical connections (sambandha), so pivotal to 
-scholastic Vedānta, is transmuted into a theological exaltation of effusive reverent attention. 
-1753Mukundarāja, Vivekasindhu 5.1–2: taṃva vinavī śiṣyāṃcā rāṇā / jī īśvarabrahmāceṃ lakṣaṇa / rāuleṃ niropileṃ saṃpūrṇā / maja kṛpā karoni // ātāṃ jīvaśṛṣṭīcī katha / sāṃghāvī jī gurunāthā / jīyā phiṭe sadehavethā / ātmaviṣayīṃce // 1754Mukundarāja, Vivekasindhu 5.3: yaisī śīṣyāṃcī vīnavaṇī / śrīgururājeṃ āyikauni / maga premabhāveṃ āliṅgauni / bolatā jālā // 1755This example occupies 5.5–5.7. Mukundarāja, Vivekasindhu 5.5–5.6 hā gā āpulā ālaṃkāru / cokha kari jo sonāru / teyācā upakāra / na vīsarīje kīṃ // taiseṃ āpuleni nijasukheṃ / tuvāṃ māteṃ smaravileṃ dekha / jeṃ sphuravileṃ unmekha / maja īśvaraviṣaīṃ // 
-1887The teacher then ruefully observes that while in ordinary life people talk about and set 
-their minds upon all sorts of other things, because they never have desire for the bliss of 
-brahman (brahmasukhācī sīrāṇī), they never consider the nature of divinity.1756 To understand 
-what it means to be a self, the text then tells us, we need to research (śodhana) the meaning of 
-the word “tat” as it is contained within the mahāvākya “tat tvaṃ asi.”1757 In other words, we 
-need to know more about the “that” which “you” are. As Mukundarāja observes, this inquiry 
-into “tat” is the method that governs “renunciation and so forth” (saṃnyāsādi). The “ādi” here, 
-incidentally, is rather telling, for it seems to suggest that Vedāntic inquiry is open to people 
-who are not professional renunciates, and also that non-professional renunciates have direct 
-access to the mahāvākyas. In any case, what we learn is that Īśvara is the meaning of the word 
-“tat,” and in his absence, the word tvaṃ, “you,” and all it signifies, does not mean much of 
-anything. For this reason, Mukundarāja teaches that inquiry necessarily begins from the 
-description of the meaning of the word “that” (tat padārthāceṃ nirūpaṇa) as it is found in the 
-mahāvākya “tat tvam asi.”1758 
-As becomes almost immediately apparent, in Mukundarāja’s pantheon, the real 
-meaning of “tat” is the entity that is penultimate to the supreme Parameśvara himself. In 
-general context, this is called the paramātmā. When paramātmā operates as a deity, it is called 
-Māhāviṣṇu, Ādīpuruṣa, and Bhagavānu.1759 This entity has a body that is made of sat-cid- 
-ānanda. Subverting the usual meaning of a (semi)canonical list of divine attributes, paramātmā 
-1756Mukundarāja, Vivekasindhu 5.8–9. 1757In passages like this, we begin to see clearly that Mukundarāja is not merely a Vedāntin in some loose and euphemistic sense but has a considerable knowledge of the Mīmāṃsā-inspired exegetical methods of post- Śaṅkara Advaita Vedānta as knowledge system, which he both deploys in the vernacular with considerable precision and reimagines so that they are made to reflect a fervent devotionalism. 1758Mukundarāja, Vivekasindhu 5.9: tatpādarthu īśvarevīṇa / tvaṃpadārthāṃceṃ nāhīṃ varttana / mhṇauni punarapi kathana / āīke tatpadīṃceṃ // 1759Mukundarāja, Vivekasindhu 5.10. 
-1888 
-is represented as having four key functions: he is sarvātmā, sarvasākṣī, sarveśvaru, and 
-sarvakukṣī.1760 Several of these principles are interpreted in rather counter intuitive ways. Thus, 
-for example, when we say that this divine principle is sarvātmā, it does not mean, as usual, 
-that he is “the self dwelling within all beings,” but rather that he causes the self to dwell in all 
-living beings. Thus, Māhāviṣṇu we learn, causes the self to dwell in all living beings, witnesses 
-everything that happens (without being the witness), and is the womb of all. Most importantly, 
-even this demiurgic extension of the supreme reality is defined by his compassion, for he is 
-the one who never ignores/neglects his own devotees (jo kahīṃca nupekṣī/ nijabhaktāṃteṃ). 
-Instead of revealing the universe, however, this dimension of the divine intervenes by 
-concealing from us what is really there—the real nature of existence. As we will learn later in 
-the chapter, what happens when Māhāviṣṇu conceals what is real is that the nascent jīva 
-descends into consciousness (caitanya). Caitanya, in turn, emerges when cit (one of three 
-elements that make up parabrahman) becomes separated from Ānanda. When this happens, 
-the jīva, taking on “I-ness” and “this is mine” (ahaṃtā and mamatā),1761 comes to see itself as 
-separate from the śakticakra, consisting of icchā and so forth. In Mukundarāja’s model, the 
-śakticakra is the engine driver (niyantā) that makes the world work through the ceaseless 
-execution of the acts of sṛṣṭi, stithi, and saṃhāra at different levels of expression.1762 Instead 
-of Māhāviṣṇu creating the world, once this obscuring veil descends, it is the jīva that in fact 
-“creates,” a topic that as we will see is the focus of third chapter of our text.1763 What the jīva 
-actually does is it projects out from itself an unreal world, superimposed on top of the world 
-as it is, where agency—the principle of the śakticakra—exists almost entirely outside of itself. 
-1760Mukundarāja, Vivekasindhu 5.11. 1761Mukundarāja, Vivekasindhu 5.27. 1762Mukundarāja, Vivekasindhu 5.28. 1763See also Mukundarāja, Vivekasindhu 5.37–65, which the editor labels sṛṣṭyupattīcā vicāra. 
-1889 
-The result is the elaboration (prapañca) that is the world of appearances, which in turn is made 
-up of the mistaken notion (avidyā) that fundamentally concerns the powerlessness of the jīva. 
-In this way, to invoke Cakradhar’s apt image, the all-powerful soul becomes like an elephant 
-wandering within the illusory city of the gandharvas. And one of the ways this delusion 
-dispelled is through the direct experience of the gosāvi—an embodied Parameśvara—through 
-witnessing the ways in which the teacher deploys the śakticakra. 
-This, then, is the first upādhi, which creates the false appearance that is difference 
-(bheda), which is unreal and yet effects all who are operating within its manifest frame.1764 
-The relationship between the jīva (the real self conditioned by the first upādhi) and Īśvara, 
-then, is thus that of pratibimba to bimba, in the sense that the jīva is a fragmentary and 
-incomplete expression (aṃśu) of the lord Īśvara. Thus, the jīva is a kind of lord devoid of the 
-fundamental powers of lordliness in much the same way that a sun ray by itself faintly illumines 
-but lacks the sun’s productive power. In contrast, the true svarūpa that underlies the jīva is 
-non-dual with the supreme Parameśvara. In other words, both Advaita and Viśiṣṭādvaita 
-accounts of the relationship between the individual and god have now been accommodated 
-within the very same model as provisionally true within a respective domain. As for the 
-relationship between the jīva, Īśvara, and parabrahman, despite the fact that the system is 
-emphatic in its insistence that it teaches Advaita, or even śuddha Advaita, this is what is called 
-(in an eerie echo of later Gauḍīya theology) the acintyā tattvatā or their being an 
-“inconceivable” bheda, founded on upādhis, which appear but are not really present within a 
-single unitary non-duality. Such “inconceivability” has as its locus of operation, depending on 
-the specific upādhi, either the Īśvara or the jīva. In other words, it is complicated. 
-1764Mukundarāja, Vivekasindhu 5.30–31. 
-1890 
-For Mukundarāja, however, unlike with many other authors, this problem of the 
-inconceivability of Parameśvara’s relationship to paramātman, Īśvara, and the jīva is treated 
-as conceptually distinct from much simpler issue of the nirguṇa and saguṇa forms of brahman 
-and the problematic of how it could be the case that a god who is fundamentally without 
-qualities takes on the appearance of limited forms of faculties. As Mukundarāja explains, there 
-is only one sun, and yet its many rays (literally, the one of the rays, taraṇīca yeku) shine down 
-individually (avabhāsaku) in each and every village (pratigrāmīṃ).1765 In the same way, that 
-paramātman, who is without form, (amūrtu) becomes singular and pervades everything 
-(sarvavyāpaku) so that there may be the illumination of all the jīvas (sarvajīvāṃ prakāśaku / 
-paramātmāci paiṃ), or, in more intimate terms, for the sake of his devotees (bhaktākāraṇeṃ), 
-becomes one possessing a form (mūrtimantu).1766 This process, taken in toto, Mukundarāja 
-explains, is meaning of the word “that,” which in the language of Vedānta is called śabala— 
-the apparent diversity of being that exists within God. 
-On the surface, it would thus seem that there are certain conceptual tensions in 
-Mukundarāja’s model, which fuses together classical Advaita imagery and theology with 
-fervent devotional theism. Following the teachings of the Upadeśasāhasrī of Śaṅkarācārya, 
-for our author, parabrahman is indeed the one who hears without ears (kāṇevīṇa āīkaṇeṃ), 
-sees without eyes (ḍoḷeyāvīṇa dekhaṇeṃ), and tastes all flavors without a tongue (jivhevīṇa 
-cākhaṇeṃ sarva rasāteṃ).1767 But, unlike in these older sources, where parabrahman’s 
-withdrawal from the objects of experience virtually defines it and is to be emulated by the 
-1765Mukundarāja,Vivekasindhu 5.16: pratigrāmīṃ avabhāsaku / jaisā jā taraṇīca yeku / taisā sarvajīvāṃ prakāśaku / paramātmāci paiṃ // 1766Mukundarāja, Vivekasindhu 5.17: to sabaḷa tatpadārthu / jñānavigrahī amūrtu / sarvavyāpaku pari mūrtimantu / homa bhaktākāraṇeṃ // 1767Mukundarāja, Vivekasindhu 5.13: jeyāsi kānevīṇa āīkaṇeṃ / ḍoḷeyāvīṇa dekhaṇeṃ / āho jivhevīṇa cākhaṇeṃ / sarva rasāteṃ // 
-1891 
-Advaitan practitioner through the medium of the asparśa yoga, Mukundarāja envisions that, 
-though disembodied, parabrahman is not disengaged from the transactional created realm. 
-Thus, he is also the one who walks everywhere without legs (pāyevīna sarvatra hiṃḍaṇeṃ) 
-and gives and takes without hands (hāteṃvīṇa deṇeṃ gheṇeṃ).1768 In a classic devotional 
-fashion, all these things, we learn, brahman does solely through the power of his will 
-(icchamātreṃ) for the uplifting and liberation of the jīvas (jīvāteṃ uddhareṇeṃ). To resolve 
-this tension, despite his earlier and emphatic disavowal of using the philosophy of Sanskrit 
-aesthetics as a medium for thinking about the nature of religious experience, Mukundarāja 
-turns to tools unmistakably derived from the world of dramaturgy: 
-An actor while experiencing [his role] in the play does not lose track of who he is. In the same way, [the deity,] though bearing many incarnations, does not forget his own nature. 
-Though one knows the saguṇa form is illusory, still, they worship [it] with wonder. Those who do not worship [saguṇa forms] are without discrimination (vivekā); One should know clearly [that this is the case.] 
-When a dramatic part (soṅga) is presented for the sake of enjoyment (tokhalepaṇeṃ), [after the performance] the actor receives clothing and ornaments. Though [the audience] know the dramatic part is not real (laṭikā), even so, all the same, they offer ornaments to the actor. 
-In the same way indeed, [god] shapes an incarnation made of māyā. In such a context, whatever worship one does, then, that offering will be to the Lord of the universe. 
-Therefore, the worship of the Lord of the world is in no way whatsoever lacking a veridical authority (apramāṇa). It is that [worship] that is the doorway to gnosis, the means to kaivalya [for] the devotees. 
-Śravaṇa, kīrtana, smaraṇa, serving the feet, ritual worship, praise, being a servant, fellowship, the offering of the self: these are the nine-fold bhakti injunctions (navavidhā bhakti). 
-1768Mukundarāja, Vivekasindhu 5.14: pāyevīṇa sarvatra hiṃḍaṇeṃ / hāteṃvīṇa deṇeṃ gheṇeṃ / jeyāsi jīvānteṃ uddharaṇeṃ / icchāmātreṃ // 
-1892 
-By means of the worship that has nine characteristics, the Lord of all becomes indebted to his own devotees. Having given gnosis, he severs their bonds.1769 
-In Mukundarāja’s understanding, while the rarefied nonsense drawn from the hoity 
-toity realm of Sanskrit aesthetic philosophy actively inhibits a person’s opportunities for real 
-experiences of the sublime, the arts in fact play a pivotal role in helping us understand the 
-nature of worship and ritual and thus substantively inform religious hermeneutics. However, it 
-is not the discourse “about the arts” but the pragmatic dimensions of staging a performance 
-that offer us key insights into the nature of reality. What Mukundarāja has noticed, much like 
-the rasa theorists, is that the very nature of theatrical performance poses serious challenges to 
-our common understanding of both epistemology and ontology and that this is true both for 
-the audience as well as the actors themselves. Clearly, neither the audience nor the actors 
-believe that what is happening on stage is “real,” at least in the same manner as their other life 
-experiences. If the audience thought what was happening on the stage was “real”—or even a 
-direct act of mimesis—then when the actor playing Rāvaṇa abducted Sītā, he would either be 
-attacked by the audience or they would all flee in terror. If the actor presumed what happened 
-on the stage were “real,” the person playing Rāma would go to the local sabhā and report that 
-his wife had just been abducted. If the society presumed the performance was “real,” when the 
-actor playing Rāvaṇa was spotted, even if it was long after the show was finished, he would be 
-arrested. Yet, at the same time, it is also clear that what is happening on the stage is not merely 
-1769Mukundarāja, Vivekasindhu 5.18–24: naṭu nātyā ānubhavitāṃ / āpaṇa āpaṇayāteṃ na bhule sarvathā / taise nānā avatāra dharitā / na bhule svasvarūpa jo // saguṇa rūpa māyīka / yaiseṃ mānauni bhajanīṃ hoye kavatuka / na bhajatī ye hīnaviveka / phuḍe jāṇāveṃ // soṅga saṃpāditāṃ tokhalepaṇeṃ / naṭāsi dījetī vastreṃ bhūṣaṇeṃ / to soṅga laṭikā pari tīm bhūṣaṇeṃ / naṭāsici arpitī // taise kiru māīka avataraṇa / tetha kīje jeṃ jeṃ bhajana / teṃ hoya samarpaṇa jagadīśvarīṃ // mhṇauni jagadīśvarāceṃ bhajana / te kahīṃca nohe apramāṇa / je bhaktāṃsi kaivalyesādhana / hoya jñānadvārāṃ// śravaṇa kīrtana smaraṇa / pādasevana arcana Vandana / dāsya sakhya ātmanivedana / he navavidhā bhakti // yehīṃ navalakṣaṇeṃ bhajaneṃ / sarveśvaru ābhāralenapaṇeṃ / jñāna devauni toḍi bandhaṇeṃ / nijbhaktāṃcīṃ // Much thanks to Amol Bankar for correcting an initial misconstrual of the syntax in verse 5.20 and helping make sense of its philosophical implications. 
-1893 
-a collection of false statements offered to us in rapid succession, as when a stranger tells you 
-that your blue shirt is red and that, by the way, you owe him money. 
-Succinctly, what the theatre presents us with is a stipulated conventional non-reality 
-with clearly circumscribed boundaries that nonetheless has a real-world impact. Within the 
-bracketed space of the performance, from the perspective of the actor playing Rāma, the 
-cognitive experience of performing produces sui generis sorts of cognitive acts and embodied 
-experiences that in many ways are very much “unlike” real lived experience. Thus, when the 
-professional actor he is performing alongside playing Sītā is “abducted,” even though the actor 
-knows no one had really been kidnapped, despite the fact the “Sītā” on stage might be a stranger 
-or even someone who our “Rāma” personally rather dislikes, when our “Rāma” reaches the 
-forest, the actor playing our hero must shed real tears and wail like he is personally in anguish. 
-If the part is well played, these simulated emotions palpably impact the performer’s nervous 
-system, causing the blood to pump and the heart to race, producing the sāttvika bhāvas such 
-that the audience can see his tears—even the horripilation of the hairs on his body. And yet, 
-since this is acting—not a dissociative episode—even in the heat of the moment, the actor 
-retains an internal awareness that this is a performance. He is a performer and not Rāma 
-himself. Nonetheless, the stipulated non-reality imprints itself upon his body and into his 
-memory. What Mukundarāja has recognized is that the “stipulated conventional non-reality with 
-clearly circumscribed boundaries”—in other words, the dramaturgical realm—bears an 
-uncanny resemblance to the emerging notion, soon to be in evidence across a range of 
-Maharashtrian works of theology in both Sanskrit and old Marathi, of the superimposition of 
-upādhis, limiting frames, on top of a fundamentally more “real” reality that partially obscures 
-1894 
-and distorts experiences of what is really there. One of the reasons why theatre is so helpful is 
-that, unlike with saṃsāra, not only does everyone know the performance is “true” and yet not 
-“real,” but most of us are likely to have a chance to see what happens when a performance 
-“ends.” When we shift perspective from attending to the phenomenology of performing to that 
-of being in the audience, what we realize is that being a witness to a performance also involves 
-the cultivation of a special type of in-between consciousness. The audience is fully aware that 
-they have been emotionally moved and impacted by witnessing the activities of a stipulated 
-unreal figure, Rāma for example. And yet, even though the experiences they had were all 
-contained within and even made possible by a dramatic part (soṅga), which can only be made 
-manifest within the delimited artificial frame of theatrical performance, when the show 
-finished, it is the actor playing Rāma whom they choose to reward with shawls and ornaments, 
-in much the same way that today we might give the performers flowers. 
-The more deeply one thinks through the similitudes between the pragmatics of theater 
-and our author’s devotionalized form of Vedānta, the more apt the comparison becomes. The 
-audience rewards an actor—and not the role he plays—for sharing a simulacrum of his 
-affective experiences. They do so without having any way to recognize, let alone access, most 
-of what makes up that actor’s “real nature” such as what he is thinking and who he is in his 
-daily experience. And yet, it is precisely what had happened before the performance, outside 
-of the stipulated reality—the occluded preparation and daily conditioning taking place off the 
-stage outside of the possible experience of the audience—that made the performance itself, 
-which the audience had enjoyed, possible. In other words, it really is true that it is the actor as 
-he exists outside of the realm of the performance that makes possible individual performances, 
-that he is a deeper or at least more multifaceted entity than what appears on stage, and that it 
-1895 
-is his life experiences off stage that causally stand a priori to and make possible his dramatic 
-choices. Nevertheless, let us imagine that a person, having realized, if you will, that the real 
-magic comes from what happens off the stage, were to proudly proclaim that such and such a 
-performer—for accessibility’s sake, let us say this is Ian McKellen—is our greatest actor, while 
-at the same time declaring they deliberately had never and would never see them perform. 
-Proclaiming themselves McKellen’s number one fan, instead of going to his shows, suppose 
-such a person decides instead to stalk the performer in his daily life. If they confronted the Sir 
-Ian in the supermarket and proceeded to shower him with praise and flowers, lauding the 
-captivating qualities the performer brought to the act of picking out the produce he intended to 
-have for dinner the night before the next performance, we would not praise such a person for 
-homing in on the “real source” of the actor’s prowess. Instead, we would dismiss them as 
-lunatic who had entirely missed the point of the theater. 
-What Mukundarāja is suggesting is that we should look upon supposed Advaita 
-“Vedāntins” who skip past the wonder of the simulated stipulated reality of engaging in the 
-ritual worship of saguṇa forms of the deity to focus exclusively on parabrahman with a similar 
-mix of dumbfounded contempt. Despite the fact that they think themselves so clever, in 
-“actuality,” such people are the ones who lack discrimination. For, as Picasso related to Marius 
-de Zayas in an interview in 1923, in an oft paraphrased and even more often misrepresented 
-observation, “We all know that Art is not truth. Art is a lie that makes us realize truth, at least 
-the truth that is given us to understand. The artist must know the manner whereby to convince 
-others of the truthfulness of his lies.”1770 Formalized worship, both its methods and it object of 
-1770This oft paraphrased quotation first occurs in the context of an interview Picasso give to the periodical The Arts. Pablo Picasso, “Picasso Speaks: A Statement by the Artist,” The Arts 3 (1923), 315. For a permanent link 
-1896 
-focus, may be entirely bounded and shaped by the artificial upādhis superimposed on top of 
-what is real, and yet that does not make it any less a source of wonder, inspiration, or even 
-possible knowledge. In fact, it is this self-consciously artificial medium through which the 
-supreme reality both receives acts of veneration and bestows blessings upon bound souls, 
-serving as the door or means (dvāra) that facilitates liberation. 
-In what is perhaps the first indication of its vernacular textual reception, here, the 
-Vivekasindhu incorporates a definition of bhakti as comprised of nine features—navalakṣaṇā 
-in the Sanskrit original—that first emerges in the Bhāgavata Purāṇa. In that context, Prahlāda, 
-the inexplicably righteous and piously “Vaiṣṇava” son of the demon king Hiraṇyakaśipu has 
-just been asked by his father “what have you learned in school today.” To the demon’s horror, 
-instead of regurgitating some of the presumably very different sort of maxims that were 
-actually taught at high-end asura prep schools, Prahlāda naively informs him: 
-Hearing about Viṣṇu (śravaṇa), singing about Viṣṇu (kīrtana), recollecting Viṣṇu (smaraṇa), serving his feet (pādasevana), formal worship of him (arcana), hailing him (vandana), being his servant (dāsya), being his companion (sakhya), offering oneself (ātmanivedana); if this canon comprised of nine defining features of bhakti (bhaktiś cen navalakṣaṇā), offered by a man to Lord Viṣṇu, is performed in this way, I think that [the person who worship in this manner] is the most learned.1771 
-Apart from excising the narrative frame as it is irrelevant to his purposes, 
-Mukundarāja’s adaptation makes two small but significant changes. The first of these is that 
-he deletes the word “Viṣṇu,” and substitutes in its place the term Lord of the universe 
-(jagadīśvara). The second alteration is that he replaces the word “lakṣaṇā,” definitional 
-characteristics, with the word “vidhā,” which then becomes conflated with the term “vidhi.” In 
-to the text (Accessed November 24, 2020), see: https://babel.hathitrust.org/cgi/pt?id=mdp.39015020076041&view=1up&seq=339 1771Bhāgavata Purāṇa 7.9.23–24: śrīprahlāda uvāca / śravaṇaṃ kīrtanaṃ viṣṇoḥ smaraṇaṃ pādasevanam / arcanaṃ vandanaṃ dāsyaṃ sakhyam ātmanivedanam // iti puṃsārpitā viṣṇau bhaktiś cen navalakṣaṇā / kriyeta bhagavaty addhā tan manye ’dhītam uttamam // 
-1897this way, instead of nine features of a unitary bhakti concept, we are gradually made to 
-recognize that bhakti of this sort is made up of nine distinctive practices, all of which are 
-governed by injunction. In fact, just like Hemādri, Mukundarāja proposes there are two distinct 
-categories of religious praxis. In the second, more common modes of praxis, the nine-fold 
-bhakti modes are performed such that, in a manner that resembles what we know from 
-aṣṭāṅgayoga (nā tari āṣṭāṅga yogeṃ), the mind is gradually stripped of its baser impulses 
-founded in the lower guṇas.1772 Then, when the mind becomes purified, after continued 
-practice, there is a conjunction of jīva and paramātman, and kaivalya is tasted. In contrast, 
-there is also a higher path, which is not governed by the logic of injunction.1773 Here, instead 
-of worshipping out in the world, we learn, somewhat cryptically, a person enters into the 
-bedroom of the heart (hṛdayācā sejārī). There, his mind performs the sixteen-part worship of 
-Śrīhari (ṣoḍaśopacārī), without adopting any other bhāva (ānanya bhāveṃ). When the rajas 
-and tamas within him is destroyed (rajatamīṃ samaiḷa), then the mind becomes stainless. As 
-this takes places, “there manifests rapidly (vegīṃ hoya)” the bhakti pertaining to the nirguṇa 
-state, which is loving (premaḷa) and pure (śuddha). In this “nirguṇa” mode, the self becomes 
-one with the supreme self in a state of supreme bliss that is none other than samarasa. As 
-Mukundarāja makes clear again and again throughout his work, the defining feature of this 
-second path is that it arises automatically, spontaneously and without effort (a state of affairs 
-signified through a range terms such as apaite, āpoāpa, āpasayā and so forth, all of which 
-1772Mukundarāja, Vivekasindhu 2.18: na tari āṣṭāṅga yogeṃ / citta śuddha hoye vegeṃ / jīu paramātmeyā saṅgeṃ / pāve kaivalya // Though discussed at length elsewhere in the text, here in chapter 2, this option is presented to us in a cursory manner as an alternative to the pure mode of non-dual loving bhakti, which the text had outlined in the immediately preceding verses, on which see more below. 1773For example, in the second division of the text, Mukundarāja, Vivekasindhu 2.14–17: citta āvalaṃbaṇevīṇa / jarhi na rāhe sthirapaṇa / tarhi dehīṃca saguṇa / svarūpa cintāveṃ // tetha hṛdayācā sejārī / mānasa ṣoḍaṣopacārī / upāsāva śrīhari / ānanya bhāveṃ // rajatamīṃ jeṃ samaiḷa / teṃ citta vegīṃ hoye nirmaḷa / maga nirguṇīṃ bhakti premaḷa / śuddha āpaiseṃ hoye // nirguṇīṃ paramapuruṣīṃ / jīvāsi aikyatā hoye sekhīṃ / tiye mahāsaukhīm / samarasa to // 
-1898 
-occupy a similar semantic range as the more familiar sahaja) and that from beginning to end 
-it is saturated in the direct experience of love. 
-Whether such transformations happen rapidly or gradually, what makes this possible, 
-apart from ineffable grace, is a purificatory process that physically whittles away at the 
-coagulative build-up of substances that shape our automatic behaviors and responses as human 
-beings. For Mukundarāja, at the most basic level, these consist of the guṇas and the various 
-sorts of vāsanās that this build-up produces, which are carried over from lifetime to lifetime. 
-For, much as we saw with Hemādri (and even saw hinted at by Cakradhar), Mukundarāja also 
-offers us a hybridic Vedānta that understands epistemological processes as mediated through, 
-even made possible by, a Sāṃkhya and Vaiśeṣika derived ontology that offers a materialist, 
-even reductionist account of the nature of reality. What makes such an incongruous model— 
-shared to some extent it seems by all three of our authors1774—possible is that sometime before 
-the thirteenth century, under historical circumstances that have yet to be reconstructed, both 
-approaches have come to be ascribed to the historical Śaṅkarācārya and understood as 
-complementary dimensions of his teachings, the physics behind his philosophy. This strange 
-dynamic, which will come to define the “Vedāntin in the vulgate” as deployed among yogins 
-in the Deccan throughout the early modern period, is precipitated by the ascription to Śaṅkara 
-of an exceptionally terse—the short recension fits on a single printed page—and eccentric work 
-called the Pañcīkaraṇa. Though largely ignored by modern scholarship, its importance for 
-1774Unlike our other two authors, Hemādri, to be clear, does not explicitly invoke the pañcīkaraṇa system. However, the Vedānta that he presents to us with still bears a close family resemblance to the materialization of Vedānta found in this system, especially in its emphasis on the pañcamahābhūtas and the guṇas as being implicated in the process of the creation of the world of appearances as well as the implications this has for the presupposition that liberation can be obtained through knowledge alone. 
-1899 
-Advaita Vedānta as a living tradition outside of elite scholarly circles should not be 
-underestimated, for it even features liturgically in the vidhānas used to initiate sannyāsins. 
-Just what the Pañcīkaraṇa teaches as its main doctrine is highly dependent on whether 
-one accepts the “short” one-page recension of the text1775 or the more “elaborated” nearly two- 
-page1776 recension of the text (which incorporates the short version virtually in toto 
-occasionally with minor variations) as the original. Our Maharashtrian authors all seem to have 
-had access to something akin to the extended recension. In the long version of the text, we 
-begin with a teaching about cosmology, whereas in the short version, the focus from the 
-inception is on understanding the process that results in the emergence of different types of 
-matter. In the cosmological version of the text, the teaching is that from brahman, which is 
-being, there arises the avyakta, from the avyakta there comes the mahat principle. Finally, from 
-the mahat the ahaṃkāra—and with it human subjectivity—arises. This, then, is one “creation” 
-process. The ahaṃkāra, it seems, then enacts a kind of sub-creation, engendering first the 
-1775The short text of the Pañcīkaraṇa, as presented in the edition of Mahesananda Gīri runs as follows: pañcīkṛtapañcamahābhūtāni tatkāryaṃ ca sarvaṃ virāḍ ity ucyate / etat sthūlaśarīram ātmanaḥ / indrayair athopalabdhiḥ jāgaritam / tadubhayābhimānī ātmā viśvaḥ / etat trayaṃ akāraḥ // apañcīkṛtapañcamahābhūtāni pañca tanmātrāṇi tatkāryaṃ ca pañca prāṇāḥ, deśendriyāṇi, mano, buddhiś ceti saptadaśakaṃ liṅgaṃ bhautikaṃ hiraṇyagarbha ity ucyate / etat sūkṣmaśarīrātmanaḥ / karaṇeṣu upasaṃhrteṣu jāgaritasaṃskārajaḥ pratyayaḥ saviṣayaḥ svapna ity ucyate / tadubhyābhimānī ātmā taijasaḥ / etat trayaṃ ukāraḥ // śarīradvayakāraṇaṃ ātmā’jñānaṃ sābhāsam avyākṛtam ity ucyate / etat kāraṇaśarīram ātmanaḥ / tac ca na sat nāsat nāpi sadasat, na bhinnaṃ nābhinnaṃ nāpi bhinnābhinnaṃ kutaścit, na niravayavaṃ, na sāvayavaṃ nobhayam / kiṃtu? kevalabrahmātmaikatvajñānāpanodyam / sarvaprakārajñānopasaṃhāre buddheḥ kāraṇātmanā avasthānaṃ suṣuptiḥ / tadubhayābhimānī ātmā prājñaḥ / etat trayaṃ makāraḥ // akāra ukāre ukāro makāre mākara oṃkāre oṃkāro ’hamy eva / aham ātmā sākṣī kevalaḥ cinmātrasvarūpaḥ, nā’jñānaṃ nāpi tatkāryam / kiṃtu / nityaśuddhabuddhamuktasatyasvabhāvaṃ paramānandā’dvyaṃ pratyagbhūtacaitanyaṃ brahmaiva aham smi iti abhedena avasthānaṃ samādhiḥ / tat tvam asi, ahaṃ brahmāsmi, ityādiśrutibhyaḥ / Svami Mahesananda, ed., Pañcīkaraṇa (Varanasi: Sridaksinamurti Matha Prakasan, 2010). 1776In contrast, the “long” recension appends a distinct opening and modifies the ending to delineate which specific mahāvākyas are relevant: athātaḥ paramahaṃsānāṃ samādhividhiṃ vyākhyāsyāmaḥ / oṃ sacchabdavācyam avidyāśabalaṃ brahma / brahmaṇo ’vyaktam / avyaktān mahat / mahato ’haṃkāraḥ / ahaṃkārāt pañcatanmātrāṇi / pañcatanmātrebhyaḥ pañcamahābhūtāni / pañcamahābhūtebhyo ’khilaṃ jagat / pañcānāṃ bhūtānām ekaikaṃ dvidhā vibhajya svārddhabhāgaṃ vihāyārddhabhāgaṃ caturdhā vibhajyetareṣu yojite pañcīkaraṇaṃ māyārūpadarśanaṃ adhyāropāpavādābhyāṃ niṣprapañcaṃ prapañcyate / oṃ pañcīkṛtapañcamahābhūtāni. . . . / tat tvam asi, ahaṃ brahmāsmi, prajñānam ānandaṃ brahma, ayam ātmā brahma ityādiśrutibhyaḥ / Gajana Sambhu Sadhale, ed., Panchikaranam by Shree Shankaracarya with Six Commentaries (Bombay: Gujarati Printing Press, 1930). 
-1900 
-pañcatanmātras, the pañcamahābhūtas, and then, ultimately, the world (jagat). In other words, 
-the world—prakṛti in Sāṃkhya—is produced out of the human soul, in a process that is 
-independent from the one that yields mahat, an evolute of the supreme principle. The creator 
-of “the world,” then, is not directly “brahman” but instead a demiurge called Virāṭ, which 
-ultimately, we will learn, shares its nature with the unenlightened human soul. This first part 
-of the text then closes by teaching that appearance, which has the form of māyā 
-(māyārūpadarśana)—all the stuff that the ahaṃkāra generates—can be dispelled through 
-applying the dual Vedāntic processes of adhyāropa and apavāda (roughly superimposition and 
-subsequent negation). What this reveals is that the world (prapañca) is in reality without 
-elaboration or basis (niṣprapañca). Such understanding, however, does not liberate a person. 
-It simply prepares them for a second set of practices that address the penultimate task of 
-retracing the mahat back to its original nature of realized brahman. 
-In any case, it is at this point that the “short” version of the text (which contains zero 
-indications that it knows of any of the former teachings) begins. 
-The process of making five-fold (pañcīkṛta) and the five great elements (mahābhūtas) that are the products of that [process]—all of that is called Virāṭ. That is the ātman, which is the gross body (sthūlaśarīra). The waking state is where there is the obtaining of the objects of the senses by means of the senses. The identification of the ātman with both of those [the waking state and the gross body] is “viśva.” Those three are the letter “A” [in A-U-Ṃ]. 
-The reason this system is called “pañcīkaraṇa”—making fivefold—is that it posits that 
-“material reality” is generated according to an iterative process that can be accounted for 
-mechanistically and mathematically.1777 Take, for example, what we call ākāśa or space. 
-1777According to traditional understanding, this is first made evident in the Vivaraṇa commentary ascribed to Sureśvara himself. From a historical perspective, however, our oldest commentary on the work in Sanskrit yet identified belongs to Ānandagiri, writing in the early fourteenth century, who quite frequently offers our first documentary proof within the Sanskrit sources for the circulation of a number of the prakaraṇa texts, such as the Aparokṣānubhūti, that are transmitted under Śaṅkarācārya’s name but are not mentioned in his early canonical 
-1901 
-According to the pañcīkaraṇa system, even in its elementary form, space is not made up just 
-of space but in fact consists of 50% space particles, 12.5% vāyu particles, 12.5% agni particles, 
-12.5% āpas particles, and 12.5% earth particles. In other words, every type of thing quite 
-literally contains a little bit of everything else. This dynamic accounts for the ability of 
-seemingly “unlike” things to impact each other causally within a logical framework where only 
-like is said to impact like. In the Sāṃkhya and Vaiśeṣika systems from which these notions are 
-derived, different material substrates are intrinsically productive of both the features that our 
-senses perceive (such as “smell,” a quality of the earth) as well as the subjective emotional and 
-cognitive modes we use to reflect upon such sense perceptions. Since all of the production of 
-specific types of substances and faculties out of the mahābhūtas, then, proceeds by a process 
-of dilution that changes these proportions, what the system is suggesting is that all of the 
-properties and behavior displayed by each and every thing in existence can be accounted for 
-entirely in terms of this calculative process. 
-Thus, the text now proceeds to show us, what we call the subtle body (sukṣmaśarīra), 
-consisting of the five prāṇas, the ten sense organs, the manas, and the buddhi, is itself to be 
-treated as a series of differentiated evolutes from the various pañcamahābhūtas. 
-Mechanistically, based on the various proportions of the five mahābhūtas (and then of the 
-tanmātras) that make up each of its faculties, the subtle body is associated with acts of sense 
-withdrawal, the state of sleep, the principle called taijasa, and the syllable “u.” Finally, we are 
-taught, there appears to be a “third body,” the causal body (kāraṇaśarīra), not made up of the 
-works or those reliably ascribed to his immediate disciples. Often, these texts are assumed to be products of the late-thirteenth or early-fourteenth century, perhaps emerging in the very circles where Ānandagiri was active. The old Marathi evidence pertaining to the Pañcīkaraṇa, however, where we see the work being both digested into thirteenth-century texts and explicitly identified as work of Śaṅkara in a text of the late twelfth century, calls such a model into a question, suggesting that Ānandagiri may well be commenting on works that in his time were at the very least several hundred years old and that already had a considerable, now lost, reception history. 
-1902 
-mahābhūtas, which is the cause of the other two bodies. In actuality, however, this body has 
-no substantive reality behind it, but is the product of an originary cognitive error. When 
-Vedāntic methods of inquiry into the real nature of things are applied, this error will disappear. 
-The Pañcīkaraṇa teaches that this process of reverse evolution is reenacted through the 
-recitation and manipulation of the syllable oṃ, which, through specific modes of practice, 
-causes the gross body (and all the principles it embodies) to dissolve into the subtle body, and 
-then the subtle body into the causal body. As you may have noticed, what the author has 
-essentially accomplished here is the production of a physical science in support of the teachings 
-of the Gauḍapādakārikā. Rather significantly, not only does the Pañcīkaraṇa call this 
-involutive process the achieving of “samādhi,” but it labels samādhi “a nondifferent state of 
-being” (abheda avasthā), it equates it with the mahāvākya “aham brahmāsmi,” a state of 
-nondual bliss (paramānando ’dvayaṃ), which is the intrinsic nature (svabhāva) that is true/real 
-(satya), liberated (mukta), awakened (buddha), and always pure (nityaśuddha). In other words, 
-what we see here is an early prefiguring of the swallowing up of Pātañjalian yoga, treated as a 
-practice mode, into Vedānta as a knowledge system as well as the reframing of the nature of 
-Vedāntic liberation as imagined by Śaṅkara and his immediate disciples so as to bring it into 
-alignment with what are essentially Tantric notions of embodied ecstasy. 
-For our purposes, it is important that we recognize that this to us rather eccentric 
-framework, understood by our authors as a “Brāhmaṇical” inheritance from Śaṅkarācārya 
-himself, forms an important part of the conceptual backdrop for the writings of Mukundarāja, 
-Cakradhar, and Hemādri, especially in terms of their presentation of the mechanics of how the 
-bound soul generates the world. As Mukundarāja, explains: 
-Just as the fashioning (nirmāṇa) of the gross body (sthūla dehāce) does not take place without substances (bhūta) being made five-fold (pañcīkṛta), having known this, the 
-1903 
-making five-fold of the substances is begun by the god. The making five-fold of each of the respective substances is then mixed together with the five conditions (M. thāyi S. sthāyī) (pāṃcāṭhāyīṃ meḷavije). This is called pañcīkṛta in the śāstra of Vedānta.1778 
-Even more intriguingly, however, not only do all three authors make use of something 
-akin to the pañcīkaraṇa discourse, which apparently is only just starting in the twelfth century 
-to enter into the wider tradition of scholastic Vedānta, but they also emend it with analogous 
-modifications. As we have seen, these include the integration of a new attitude of theism and 
-a new devotionalism that offers a supercessionary means of transcending the model’s 
-constraints. Perhaps most significantly, however, all three of our authors also tweak the 
-system’s theorization of corporeality. As you may have recognized, the one thing that is 
-missing from the Pañcīkaraṇa prakaraṇa, and also from its early commentarial tradition, but 
-which are everywhere in our sources treated as a central causal mechanism, are the three guṇas. 
-Unlike classical Pañcīkaraṇa, all three of our Maharashtrian authors propose that the five-fold 
-elements are themselves made up of even more fundamental building blocks, which even more 
-explicitly account for the qualitative, subjective, and affective features of agents and 
-substances. These are none other than sattva, rajas, and tamas. 
-More work needs to be done to confirm that our array of Marathi and Maharashtrian 
-Sanskrit sources do indeed represent our earliest recorded instances of what seems to be a new 
-Pañcīkaraṇa inspired intellectual style. Its defining features, I propose, is that Vedānta, when 
-confronted with the claims of rival darśanas, precedes not primarily by refuting them, but 
-instead seeks to incorporate their insights and models as subordinate components inside of its 
-1778The Pañcīkaraṇa system is officially introduced into the Vivekasindhu by Mukundarāja in the fourth chapter, though elements inspired by its model are already in evidence from the second chapter onward. Mukundarāja, Vivekasindhu 4.10–11: tayā sthūla dehāce nirmāṇa / nāhīṃ pañcīkṛta bhūteṃvīṇa / mhauni bhūtāṃceṃ pañcīkaraṇa / deveṃ āraṃbhileṃ // yeyeka bhūta pañcadhā kīje / te pāṃca pāṃcāṭhāyīṃ meḷavije / he pañcīkrṛta bolije / vedāntaśāstrīṃ // 
-1904 
-own system. While we had seen foreshadowings of such a rhetorical approach already in the 
-Prabodhacandrodaya, where Advaita Vedānta is not one “correct” knowledge system among 
-many but is in fact the telos to which all knowledge aspires, the working out of the nuts and 
-bolts of this “agglutinative Vedānta” really begins within textual field that the Pañcīkaraṇa 
-system makes possible. And, as we are about to see, Mukundarāja’s Vivekasindhu is the first 
-magnum opus articulated within this new paradigm in which attempts are made to reconcile “a 
-classic” Advaita Vedānta epistemology, a Sāṃkhya and Vaiśeṣika derived “working” 
-ontology, a Pātañjalian yogic method, a devotionalized theism, and esoteric insights and modes 
-of praxis of the high Śākta Tantras. Thus, for example, in the third chapter of the 
-Vivekasindhu’s opening division, our author writes: 
-This parabrahman is without qualities. Know him to be one’s own form, who is the Lord of everything. Know that presiding force that is māyā’s foundation (mūla) to be full consciousness (pūrṇacaitanya). The vivarta [apparent transformation] of brahman amidst māyā is the conclusive doctrine of Vedānta, which is the essential meaning of the Upaniṣads—[it is] the established authority (pramāṇa).1779 
-As is fitting for a theologian so devoted to the principle of samarasa, Mukundarāja 
-constructs his system out of a progressive series of terminological fusions that create bandhu- 
-like connections between what had previously been distinct theological and scholastic 
-traditions. As we can see, parabrahman first becomes the foundational mūlaprakṛti of 
-Sāṃkhya, which then in turn is equated with the Vedāntic māyā. Since this is a theistic 
-tradition, mūlaprakṛti in turn is understood to be the very own śakti (nijaśakti) of the puruṣa 
-that is brahman. At the same time, since this is a system that draws heavily but often selectively 
-even subversively on Śākta revelation, this very modality also is known of as the fullness of 
-1779Mukundarāja, Vivekasindhu 3.23–24: heṃ parabrahma nirguṇa / sarveśvarāceṃ nirūpa jāṇa / mūḷa māyesi ādhiṣṭāna / jāṇa pūrṇa caitanya // māya brahmīṃcā vivartu / aisā bole vedānta siddhāntu / jo upaniṣaḍāṃcā mithtārthu / pramāṇasiddhu // 
-1905 
-consciousness (pūrṇacaitanya), a formulation that will ultimately make possible the 
-incorporation of Śaiva and Śākta Tantric models, such as differentiation of śakti into various 
-governing faculties and the kañcukas. Finally, since Mukundarāja’s method and epistemology 
-privilege Advaita Vedānta, these various framing mechanisms are themselves then 
-subordinated, yet again, to an epistemological and ontological account of the nature of reality, 
-namely, the vivartavāda of Śaṅkara, that each of the preceding systems would have vehemently 
-rejected. As Mukundarāja continues: 
-When a doctrine opposes the Veda, then, know that with certainty to be heresy (pāṣāṇḍa). Having awakened to this knowing of the lesser doctrines, let us listen concerning vivarta. Just as there is not any deformation (vikāra) of brahman, it is the very same way in regard to the being of individual beings. Where there is the manifestation of a false/mere semblance of appearance (ābhāsa)—hey! that is Brahmavivarta. . . . Or, one might say that it is like a rope, which, without in any way changing (M. moḍaṇe) shape, very much appears just like it is a great serpent. Really, though, this brahman is without a viable point of comparison. It is foolish to try to come up with examples—may the learned forgive us our folly!1780 
-As we can see, Mukundarāja seems quite intent on aligning himself with a canonical 
-āstika doxographical position, despite the fact that he will ultimately reject the sociology of 
-varṇāśramadharma in no uncertain terms. At this point in my research, to be quite frank, I am 
-uncertain just how seriously we should take such a position. Is it really reflective of a robust 
-philosophical perspective that, contrary to surface appearances, is carefully maintained 
-throughout our author’s many exercises in dialectics? Or is the acclimation of vivartavāda 
-mostly a rhetorical trope—an assertion that despite its vernacular medium, the Vivekasindhu 
-is offering “a real Vedānta” and not merely smuggling Tantric epistemologies in through the 
-1780Mukundarāja, Vivekasindhu 3.25–26, 3.28–29: vedaviruddha jeṃ matta / teṃ pāṣāṇḍa jāṇa niścita / mhṇauni sāṃḍī āpasiddhānta / vivartu āikaiṃ // brahmavivakāru jaiseṃ / taiseṃ te āsataci ase / tetheṃ anyathābhāsu bhāse / to brahmavivarttu gā //. . . . nātari jaisā kāṃ doru tethiṃcā na moḍatāṃ ākāru / nāhiṃ toci ābhāse thoru / māhāsarpu jaisā // brahma teṃ upamārahitu / tetha kāsīyā pāṃ ase dṛṣṭāntu / pari yekadaśī hotī ucītu / budjñāveyādoṣeṃ // 
-1906 
-back door? It is a testament to the uncanny degree of discursive overlap between the first 
-vernacular work of Vedānta and the first work of Bhāgavata-founded bhaktiśāstra that, as we 
-have seen, nearly all of these observations also hold true with regards to the Kaivalyadīpikā? 
-In many ways, just as will be the case for Hemādri, this adoption of the vivartavāda as 
-a philosophical position is a rather odd fit for Mukundarāja’s theology. Nonetheless, as we can 
-see even from this short passage, the epistemological rhetoric our author has chosen to adopt 
-is unmistakably deliberately evoking the classical Advaita Vedānta of Śaṅkarācārya himself, 
-which treats the apparent transformations in the world of appearance as purely illusory. Unlike 
-in competing frameworks, such as the pariṇāmavāda, integral to Sāṃkhya, which accepts the 
-possibility of real transformation, or at least of phase changes, in the vivartavāda, brahman the 
-supreme reality does not in actuality undergo any change or transformation for the very simple 
-reason that brahman is the only ontologically real entity. What the vivartavāda position 
-proposes is that the perception of difference of any sort is accounted for as the product of one 
-of any number of types of cognitive errors taking place within the mind of the perceiving agent. 
-Needless to say, such a position is less than ideal for accommodating either the ontological 
-quasi-dualism underwriting our author’s Sāṃkhya cosmology, or the Paramādvaita radical 
-non-dualism of the Kaulas that powers his applied soteriology, which treats the world and its 
-elements as absolutely real diverse expressions of a dynamic underlying reality. Nonetheless, 
-Mukundarāja will ultimately attempt to convince his reader that all of these systems, when 
-understood correctly, are in fact entirely compatible. 
-In part, in a Brāhmaṇical twist on anekāntavāda, Mukundarāja accomplishes this task 
-by showing that the operation of vivartavāda is “true,” but only applies within a delimited 
-domain, in this case in regard to the functioning of the causal body as understood within the 
-1907Pañcīkaraṇa. In other words, in the first five chapters of our text, vivartavāda as a conceptual 
-framework seems to operate as a context-specific explanation accounting for the functions 
-associated with Māhāviṣṇu’s concealing of reality, while activities whereby the jīva, driven by 
-this initial miscognition, generates and elaborates “empirical reality” is explained in terms of 
-a pariṇāmavāda model. 
-Apart from treating most “views” as correct, provided they are confined to the 
-appropriate circumscribed domain, another primary strategy that our author uses to accomplish 
-the harmonization of competing knowledge systems into a unified whole is through repeated 
-acts of cross knowledge system homologization of discipline-specific key terms. In a manner 
-utterly alien to classical philosophy, dispensing again with polemical exchanges or apologetics 
-(these are confined to the second half of the Vivekasindhu), it is simply asserted that key 
-technical terms, from Purāṇic Sāṃkhya philosophy, Advaita Vedānta, and the realms of the 
-Tantras are in actuality exact synonyms. Based on these homologies, which are simply 
-presumed, elaborate attempts are made at parsing the emergent implications of combining 
-distinct systematicities into an organic whole. Thus, for example, picking up right from where 
-we left off in Mukundarāja’s discourse, immediately after defining the vivartavāda, the 
-Vivekasindhu makes two bald assertions. First, it asserts that really wise people (aticatura) 
-understand that the vivarta of brahman (brahmīcā vivarttu)—in other words, the illusory 
-appearance of differences—is in fact identical with the equanimity of the guṇas (guṇasāmya), 
-in other words, the existence of equal proportions of sattva, rajas, and tamas, within the 
-(Purāṇic) Sāṃkhya system.1781 Without breaking a sweat, this observation is then extended to 
-1781Mukundarāja, Vivekasindhu 3.30: āso hā ādi brahmīcā vivarttu / tetha guṇasāmya yaisā saṃketu / anuvādeṃ sāmkhya siddhāntu / aticatura jo // 
-1908 
-a further homologization, in this case partially polemically motivated, with Tantric knowledge. 
-As Mukundarāja proclaims: 
-The equanimity of the three guṇas (guṇasāmya) is the unmanī āvastā of Īśvara. This superintending by consciousness they call Māhāmāyā. Know that the definition of Māhāmāyā is consisting of śuddhasattva. The anusandhāna of one’s self to the self (svasvarūpāceṃ) alone is brahman.1782 
-Mukundarāja appears to be asserting that what yogins typically label the state beyond 
-the mind (S. unmanī avasthā), a mode of consciousness devoid of thoughts or sensations, 
-usually understood as a high level of attainment, is in actuality the correlate within our own 
-subjectivity of avidyā in its most essential form, which, as you may remember, is the principle 
-that orders the causal body. Splitting the difference between the inert māyā of classical Vedānta 
-as a principle and its Śākta personification, Mukundarāja posits the existence of an 
-intermediary term, a personified Māhāmāyā that consists only of the purest of the guṇas (and 
-that is thus functionally equivalent to the principle that Hemādri calls Kṛṣṇa). Ultimately, he 
-will argue that mere māyā, in which there is either a balance of guṇas, as in unmanī āvastā, or 
-an overabundance of rajas and tamas, serves to bind the soul and inhibit its access to its own 
-nature. In contrast, in its most sattvic manifestation, as Māhāmāyā—which in pantheonic terms 
-manifests as none other than the nijaśakti of brahman in his manifestation as Sarveśvara—a 
-purified form of avidyā can serve as a skillful means,1783 as the jñānaśakti that removes 
-1782Mukundarāja, Vivekasindhu 3.31–32: he guṇatrayācī samatā / īśvarācī unmanī āvastā / teci caitanyīṃ adhiṣṭhitā / bolije māhāmāyā // māhāmāyeceṃ lakṣaṇa / te śuddhasattvātmaka jāṇa / svasvarūpāceṃ anusandhāna / kevala brahma // 1783Mukundarāja, Vivekasindhu 3.32–34: māhāmāyeceṃ lakṣaṇa / te śuddhasattvātmaka jāṇa / svasvarūpāceṃ anusandhāna / kevaḷa brahma // sattvaguṇāci kṣobhadaśā / māhāmāyā yeṇeṃ nāveṃ yaisā / ābhāseṃ mithyābhūta ṭhasā / to tadvivartu gā // mī parabrahma yeṇeṃ ākāreṃ / jñānasvarūpīṃ sphūrtti sphure / te voḷakhāvī catureṃ / māhāmāyā // 
-1909 
-ajñānaśakti.1784 In this way, the very difficulty (durghaṭatva) presented by māyā ceases to be 
-a flaw (dūṣaṇa) and comes to function as an ornament (bhūṣaṇa).1785 
-In essence, what Mukundarāja seems to be suggesting is that this kind of parsing of 
-functions through code switching between and across knowledge systems is no mere scholarly 
-parlor trick, but ultimately serves a concrete conceptual and soteriological function. We can 
-already see hints of this development in the final part of the passage we have just been 
-examining. Here, we learn that the reconnection of one’s self to the self that alone is the 
-supreme brahman of Vedānta is nothing other than the reconnection or fusion—the 
-anusandhāna—of the self with the self (svasvarūpāceṃ), which takes place by means of the 
-self. Though most commonly equated specifically with the Pratyabhijñā, this very specific 
-rhetoric of equating liberation with self (re)discovery of one’s own true nature originates in 
-Kaula-inflected Śākta revelations, where, for example, it is already present in the opening 
-chapter of the Trika Tantrasadbhāva. Not infrequently, as we have seen in earlier chapters, in 
-these scriptural sources, this act of “reconnecting with one’s own nature” is associated with 
-the haṃsa mantra. In Krama revelation, as well as a number of admittedly late early medieval 
-cases, the mantra in question even already seems to be being equated with the semantically 
-meaningful statement “so ’haṃ”—“I am that”—a development that becomes both pan-Indian 
-and ubiquitous throughout early modernity. What we do not seem to find in any of those older 
-discourses, in contrast, is the next conceptual step, namely, the Upaniṣadicization of this 
-discourse and its equation with modes of semantic analysis, ultimately indebted to Pūrva 
-1784Mukundarāja introduces into his discourse the apparently otherwise unknown dichotomy between jñānaśakti, well known from the Āgamic sources, and a newly posited and personified “ajñānaśakti,” which carries out the obscurative functions of avidyā in the classical Vedāntas. 1785Mukundarāja, Vivekasindhu 3.36–37: māyecī durghaṭatā / te heci jāṇāvī jāṇatā / je kevalīṃ ābhāse sadviyatā / nāthilīci gā // mhṇauni durghaṭatva heṃ bhūṣaṇa / māyesi nāḥiṃ dūṣaṇa / teṃ brahīṃ hoye ghaṭamāna /tari māyā navhe tī kim // 
-1910 
-Mīmāṃsā, emerging from classical Vedānta exegesis. At least in terms of the current state of 
-our knowledge, the Vivekasindhu seems to be the oldest extant work that takes this leap of 
-faith. 
-Thus, as one moves from the first chapter into the second chapter of our text, we 
-seamlessly transition from an invocation of a rājayoga sexual practice, preceded by śaktipāta 
-entailing samāveśa and unmistakably derived from the Kaula sources, as the means of 
-liberation, to the teaching that the unitary intentionality behind the mahāvākyas—which 
-themselves depict the union of Śiva and Śakti producing sāmarasya—is the teaching of 
-“rājayoga.” Taken on their own, these first two chapters might readily be construed as 
-subversive re-encodings of an inherited “Brāhmaṇical” rhetoric that, while paying some 
-nominal lip service to Vedānta as a knowledge system aims to deploy some of its lexemes 
-towards very different ends while stripping out its doctrines. As the remainder of the 
-Vivekasindhu programmatically unfolds, by the time we have reached the third chapter— 
-mostly concerned with the nature of māyā and the jīva—such a reading is dubious; by the 
-fourth chapter, which introduces the pañcīkaraṇa system, it is implausible. Arriving at the fifth 
-chapter, which offers Vedāntic exegesis of the pronoun “tat,” such a conclusion becomes 
-absurd. Indeed, the general tendency in the Marathi secondary literature (and indeed much of 
-the early modern “Brāhmaṇical” reception of the Vivekasindhu outside of yogic circles as 
-evident in manuscripts) has been to arrive at the polar opposite presupposition, namely, that 
-any “Tantric” elements found in the Vivekasindhu are themselves appropriative, best read as 
-attempts by Śaṅkara style Advaitans to bring wayward Śāktas back into the fold. This 
-hypothesis—even in a hypothetical softer form, where we treat the teachings on rājayoga 
-presented in the first chapter as a sort of “gateway” drug approach to bring practicing Kaulas 
-1911 
-into the Vedānta fold—is, however, also a misrepresentation of our author’s theological project 
-and rhetorical methods, which in this regard are best understood as an exercise in consilience 
-and not in ideological consolidation. 
-As our investigation of the Vivekasindhu concludes, we will turn to explicating a single 
-example of how Mukundarāja breathes new life into the idiom and epistemology of Śākta 
-theology and interpolates it into an inherited Vedāntic frame in a manner that subordinates 
-Vedāntic understandings. The end result is to enact a merger of the world of the practitioner of 
-Vedānta, engaged in an inquiry into the nature of the self through the dissection of categories, 
-with the phantasmagoria of the Tantric sādhaka seeking to tryst with the yoginīs. Besides its 
-intrinsic interest, this reimagining of “the vīra as Vedāntin” will creates a fruitful space for 
-comparison as in the final segment in our all too extended story, for there Hemādri will 
-conclude the Kaivalyadīpikā by reinventing the vīra as the Vedāntin par excellence animated 
-by an ethos of scrupulous allegiance and adherence to upright Smārta dharma. 
-The passages we are examining here make up the closing portion (verses 62–90) of the 
-third chapter of the Vivekasindhu. In the printed editions as well as select manuscripts, this 
-division, which follows “the repossession of one’s own form” (svarūpasamāveśa) and the 
-“making firm of one’s own experience” (svānubhāvadṛḍhīkaraṇa), is entitled “an accounting 
-of the creation of reality/the tattvas.” (tattvasṛṣṭikathana). We have already examined much of 
-its contents in our earlier discussions of the nature of brahman, Māhāmāyā and māyā, and the 
-delineation of the Vivekasindhu as a work that makes extensive use of the vivartavāda. 
-As we return to the text, the focus shifts from the nature of Parameśvara and the 
-sarvātmā, who we must remember are distinct entities (insomuch as nondualism allows for 
-distinctions), to what the manuscripts label “the description of those thing that are the sense 
-1912 
-objects for Sarveśvara (sarveśvarāviṣayīṃ nirūpaṇa).” As we are about to learn, this list of 
-what the Lord of all perceives as objects, and not subjects, begins with the Hindu trinity. In the 
-Vivekasindhu, Brahmā, Viṣṇu (an entity entirely distinct from Māhāviṣṇu the concealer), and 
-Maheśvara are not “gods” in the traditional sense, but, taken collectively, form “the avatāra” 
-of Parameśvara.1786 In this context, the term servitor is perhaps more pertinent than incarnation, 
-for this three-in-one entity operates upon the foundation of his command (ājñādhāru). Just as 
-māyā, though made up of the five great elements, has as its elementary form the threefold 
-guṇas, so too is threefold god (devatraya) correlated to the three qualities as well as the three 
-functions, all of which, once again, can be enacted only because these facets emanating from 
-the godhead bear the command (ājñā) from Prabhu or the Gosvāī.1787 This is the incarnate 
-Lord, often taking the form of the realized guru, who lords over the other servitor incarnations 
-through the power of his command (ājñā śrīprabhūceyā). 
-Just as the Lord delegates certain functions to his three-in-one servitor, in a parallel 
-fashion, the relation between Māhāmāyā and “inert” māyā is also filtered through a triad.1788 
-In this case, it is comprised of not of three “gods” but three śaktis, which once again are 
-correlated with the three guṇas.1789 While the first two among the śaktitraya, icchā and jñāna, 
-will be quite familiar to any scholar of Śākta Tantra, here, replacing the canonical kriyā, the 
-1786Mukundarāja, Vivekasindhu 3.63: brahmā viṣṇu maheśvaru / te śrīprabhūceci avatāru / tathāpi te ājñādhāru / tayā pareśāce // 1787Mukundarāja, Vivekasindhu 3.64: māyeceṃ guṇatrayeṃ / teṃ heṃ brahmādi devatrayeṃ / kariti sṛṣṭyādi kārye / ājñā śrīprabhūceyā // 1788Mukundarāja, Vivekasindhu 3.70: te sarveśvaru ādhīṭiṣṭhatā / trividhā āhaṃkārāte prasavatā / tetheṃ māyā guṇācī spaṣṭatā / pragaṭa jālī // 1789Mukundarāja, Vivekasindhu 3.71–72: sāttviki rājasa tāmasu / hā trīvīdha ahaṃkāra jāṇijesu / yetha śaktitrayācā vikāsu / dise anukrameṃci // sāttvikī ahaṃkārī jñānaśakti / rājasiṃ varte kriyāśakti / tāmasiṃ ase dravyeśakti / nirantara paiṃ // 
-1913 
-third śakti is labelled dravyaśakti, an entity whose point of origin seems in fact to be the second 
-and third divisions of the Bhāgavata Purāṇa.1790 
-In any case, in Mukundarāja, Māhāmāya, who again like Kṛṣṇa is made solely of pure 
-sattva and corresponds to the principle of mahat, acts as a casting mold that engenders plain 
-old sattva.1791 In a similar manner, within the womb of regular sattva, the two guṇas of rajas 
-and tamas are operating in secret. It is this originary “stimulation” of the guṇas (guṇakṣobhiṇī) 
-occurring within the inert māyā that produces the primary act of creation. As Mukundarāja 
-emphatically proclaims, when we speak of creation, we are not actually discussing the 
-emergence of the world, for that, like the destruction of the universe at the end of the kalpa, is 
-actually a subsequent byproduct that is itself dependent on the working of Māhāmāyā. Instead, 
-every accurate account of the origin of our reality begins with the production of the 
-kāraṇadeha, the causal body that sets up the scaffolding on which will be installed the 
-individuated soul. 
-1790See, for example, Bhāgavata Purāṇa 2.5.24: so ’haṅkāra iti prokto vikurvan samabhūt tridhā / vaikārikas taijasaś ca tāmasaś ceti yad bhidā // dravyaśaktiḥ kriyāśaktir jñānaśaktir iti prabho // 1791Mukundarāja, Vivekasindhu 3.78–81: jeṃ mahāmāyeceṃ śuddhatattva / teṃci votīṃva mahatattva / tetha rajastamāceṃ gūḍatva / vartte sattvagarbhīṃ // he guṇakṣobhiṇī māyā / devāce kāraṃadeha jīyā / maga dhaḍavile mahāpraḷayā / rudrā karavīṃ/ te sarveśaru ādhīṣṭhitā / trividhā āhaṃkārāte prasavatā / tetheṃ māyā guṇācī spaṣṭatā / pragaṭa jālī / sāttvikarājasatāmasu / hā trīvīdha ahaṃkāra jāṇijesu / 
-1914 
-(reproduced from Gopal K. Gupta’s Māyā in the Bhāgavata Purāṇa, 42).1792 
-It is material māyā, made up of the three guṇas, and not Māhāmāyā, made up of pure 
-being, that produces the ahaṃkāra, whose composition and structure is entirely a byproduct of 
-the three guṇas and thus is mechanistically determined. The sequential articulation and 
-“expansion” (vikāsu) of those guṇas so that they come to enmesh the soul, in contrast, is 
-enacted by the triad of śaktis.1793 Dravyaśakti takes the lead, mingling (samavetu) with the soul 
-1792Gupta’s important monograph was released when this chapter’s composition was being completed and could not otherwise be incorporated into the reflections herein. A careful reading of the text, however, suggests that it will serve as a fruitful dialogical partner in future efforts at rethinking the many debts that Maharashtrian Vedānta as reflected in the vernacular and Sanskrit sources owe to the Bhāgavata Purāṇa itself. Gopal K. Gupta, Māyā in the Bhāgavata Purāṇa: Human Suffering and Divine Play (New York: Oxford University Press, 2020). 1793Mukundarāja, Vivekasindhu 4.81–84: yetha śaktitrayācā vikāsu / dise anukrameṃci / sāttvikī ahaṃkārī jñānaśakti rājasiṃ varte kriyāśakti / tāmasiṃ ase dravyeśakti nirantara paiṃ / sarveśvaru avalokitu / 
-1915 
-and engendering the tāmasic dimensions of the ahaṃkāra. From this lowest aspect of 
-subjectivity, the pañcamahābhūtas arise through the pañcīkaraṇa process, as the void 
-subdivides into the wind, the wind into fire, the fire into water, and water into the earth. While 
-this unfolds, the respective five-fold tanmātras beginning with the sound/word that arises from 
-the void, then make their own appearance. Rājasic kriyāśakti next takes control, producing the 
-five-fold sense organs, which again are further subdivided into the various faculties that 
-process sense perception as well as the five parts of the breath (M. vyānu, udānu, samānu, 
-apānu, and prānu).1794 Instead of relating to the five great elements, these sets seem to be 
-affiliated with the twenty-five tattvas of classical Sāṃkhya. Finally, last but by no means least, 
-jñānaśakti, operating with sattvic materials, gets to work, crafting the faculties of the inner 
-organs (M. antaḥkarṇa) that produce human cognition and subjectivity, here understood as a 
-fourfold process resulting in the emergence of the manas, buddhi, citta, and at last, the 
-ahaṃkāru as a complete entity.1795 
-As we are about to see, in the articulation of this framework, Mukundarāja deftly 
-smuggles in the very not Vedāntic notion of the self—not as witness (sākṣin)—but as the 
-enjoyer of experiences (bhoktā). Like any good Tāntrika, he then proceeds to treat this 
-enjoyment as the highest expression of the nature of the reality of the self. As he explains, the 
-principles created by the sattvic ego (sāttvikeṃ ahaṃkāreṃ) are called “the means to being an 
-experiencer” (bhoktisādhakeṃ), which the knowers of reality (tattvavid) label the agent and 
-dravyeśaktisamavetu / tāmasu ahaṃkāru prasavatu /pañca māhābhūteṃ / to tāmasu ahaṃkāru gaganāteṃ / gagana pavanāteṃ/ pavanu dahanāteṃ / prasavatā jālā // 1794Mukundarāja, Vivekasindhu 4.89–91: taṃva caitanyenātheṃ adhiṣṭhitu / kriyāśaktisamavetu / rājasa ahaṃkāru prasavatu / pañcadaśatattveṃ / śrotratvacācakṣu jihvā ghrāṇa / heṃ jñāna indriyepañcaka jāṇa / karmendriyapaṅcaka sāṃghaina/teṃ āikaiṃ pāṃ. . . . vānu udānu samānu / apānu āṇi prāṇu / yevaṃ paścadśatatattvācā gaṇu / hā yekatra sambhūta // 1795Mukundarāja, Vivekasindhu 4.92: maga sāttvikeṃ ahaṃkāreṃ / jñānaśakticeni samākāreṃ / antaḥkarṇa pañcaka bare / janileṃ teṃ kaiseṃ // 
-1916 
-enjoyer (kartā bhoktā).1796 In turn, the rājasic ego provides us with the means (sādhana) that 
-makes possible experiencing all sense objects (sakala viṣaī) while the tāmasic ego creates the 
-things to be enjoyed themselves.1797 
-What the casual reader, adept, or censor would be unlikely to recognize is by that 
-introducing into these existing typologies the three śaktis and then treating the unfolding of 
-virtually everything that makes a human being human as their hypostatic emanations, through 
-processes distinct from those enacted by the trinitarian servitors, Mukundarāja has smuggled 
-into Vedāntic inquiry the quintessentially Kaula, even Abhinavaguptian conclusion that real 
-knowledge is arrived at once one realizes that everything that constitutes the self and its 
-experiences is made of up of śaktis. Not only do these śaktis need to be understood in terms of 
-their particularized and disparate natures if the sādhaka wishes to succeed in his practice but 
-the realization of that knowledge is inextricably embodied—mediated by physical form and 
-delivered through psycho-physical sensations provoked by “contact” with the things of this 
-world. That this Śākta theology is no dead metaphor but the core conceit underneath the system 
-that enables Vedānta to align with the liberation achieved through the consort practice of 
-rājayoga becomes more and more obvious as the chapter draws to its conclusion. 
-Mukundarāja writes: 
-Thus, when the ahaṃkāra is made to be comprised of three principles, then, it can be said to be designated by the word tripuṭī. 
-It is the agent of knowing (jñātā), knowledge (jñāna), and the thing to be known (jñeya). It is the enjoyer (bhoktā), the means of enjoying (bhogaṇeṃ), and the thing to enjoyed (bhogye). It is the agent (karttā), the instrument (karaṇeṃ), and the effect (kārye); these are known to be the tripuṭī. The inner organ is the enjoyer (antaḥkarṇa). 
-1796Mukundarāja, Vivekasindhu 4.94: sāttvikem ahaṃkāreṃ tattveṃ janilīṃ / tiyeṃ bhoktisādhakeṃ bolilīṃ / kartā bhoktā yaisī mhaṇitilīṃ/ tattvavādīm // 1797Mukundarāja, Vivekasindhu 4.85: rājaseṃ ahaṃkāreṃ janītu / jo śrotrādi tattvāṃcā sāṃghātu / to sādhanaśabdeṃ vikhyātu / sakala viṣaīṃ // 
-1917The means to enjoying (bhogasādhanatā) are the sense faculties. There is enjoyment (bhogyatā) of the five great substances, which take the form of the object of the senses. 
-The sādhaku is an enjoyer of each of the three [śaktis and their hypostatic emanations], in accordance with their respective means (sādhana). Having performed the convergence (meḷāpaku) into each of the respective states/planes of reality (yekayekiṃ bhūtiṃ), he enters into the state of being beyond doubt (niḥśaṃku).1798 
-In the absence of any careful study that seeks to locate the emergence and then 
-historicize the articulation of the tripuṭī model within classical Vedānta—and I know of no 
-such work—it would be irresponsible to arrive at hard conclusions in “positive terms” 
-concerning the original meaning and discursive function of the tripuṭī formulation within the 
-world of scholastic Advaita. What we can say with some certainty is that two of the categories 
-in Mukundarāja’s model—the self as an enjoyer and the self as an agent—are alien to the 
-classical tripuṭī discourse. Furthermore, in the passages that follow with which the chapter 
-concludes, the very operation of each of these tripartite faculties, which is said to take place 
-through a process of mutual penetration (parasparānupraveśa) of sense faculty into sense 
-object but also sense object into faculty, is radically at odds with Vedāntic normativities. Both 
-of these conceptualizations, however, are closely aligned with a more gnostically oriented 
-Śākta imaginary, especially the one that emerges within the domain of the scriptural and in 
-some ways “pre-philosophical” Kālī Krama. 
-Thus, to draw upon but one salient example, though elsewhere it will offer us a 
-sanguinary externalized form of ritual where transactions are made with embodied animal 
-headed yoginīs who hunger after the constituents of the human body, the late ninth-century 
-1798Mukundarāja, Vivekasindhu 4.87–90: evaṃ ahaṃkāreṃ trividheṃ / tattveṃ janilīṃ jiyeṃ vividheṃ / tiyeṃ tripuṭeṃ yeṇeṃ śabdeṃ / boloṃ jāti // jñātā jñāna jñeye / bhoktā bhogaṇeṃ bhogye / karttā karaṇeṃ kāryeṃ / yaisī tripūtī he/ / antaḥkarṇa bhoktā / indryāsiṃ bhogasādhanātā / paṇca bḥūtāṃsi bhogyatā / vīṣayerūpattveṃ // yekuyeku bhoktā sādhaku / tīnī sādhanāṃcā meḷāpaku / karauni praveśalā niḥśaṅku / yekayekiṃ bhūtiṃ // 
-1918 
-Kramasadbhāva, in its chapter entitled “On the Descent of the Sixty-Four Yoginīs,”1799 teaches 
-that the melāpa where the yoginīs are encountered can take twelve forms. It then proceeds to 
-offer us a catalog of the melāpa as it is enacted within the jñānendriyas, karmendriyas, and the 
-antaḥkaraṇa faculties. The functions of each faculty as they conjoin with the thing to be 
-manipulated or enjoyed are then equated with a yoginī encounter. In this manner, for example, 
-when it comes to rasanā and the tasting of flavors (rasa), the yoginī who is supreme 
-consciousness is equated with the tongue, which possesses the facet of tasting (svādinī kalā) 
-and she resides in the middle of the thirty-two vīras who are the teeth.1800 Out of this set, it is 
-only two domains, that of grasping (pāṇi), which is equated with the working of the kuṇḍalinī, 
-and the level of the genitals (upastha), which is connected with the sexual rite, where the yoginī 
-is seen as manifesting in a manner that aligns her with formalized external Śākta worship. In 
-its current form, the text is incomplete, so much of its treatment of the even more deeply 
-internalized practices of the highest class of practitioners, the so-called śāmbhavasiddhas, is 
-lost to us. But the fragmentary discussions contained therein seem to suggest its teachings on 
-the śāmbhava practice would have aligned it with what we find in other sources, such as the 
-eleventh-century Kālīkulakramārcana of the originally Gujarati Śākta preceptor 
-Vimalaprabodha, where the śāmbhavasiddhas, apart from their engagement with consorts, are 
-represented as transcending ritual almost entirely and enjoying the yoginīs almost exclusively 
-within the contents of their own minds via cognitive operations.1801 
-1799See the Muktabodha e-text of the first portion of the Kramasadbhāva as provisionally edited by Mark Dyczkowski. Transcribed from NGMP Reel no. A 209/23, Manuscript no. 1-76, śaivatantra 144. See in particular verses 2.82–97. 1800Mukundarāja, Vivekasindhu 2.87: dvātriṃśadvīrasaṃyuktā / madhye yā svādinī kalā / melāpe militā sā ve rasasya / paramā citiḥ // 1801Kālīkulakramārcana, NAK Manuscript No. 3-314, NGMPP A 129/9. 
-1919 
-It is this less explicit surrounding textual context that enables us to properly assess the 
-intended rhetorical function of the jaw dropping conclusion to our own passage. 
-Mukundarāja’s fluency in the initiatory language of the classical Śākta Kaula traditions of the 
-Deccan as well as his advocacy for consort practice as the culminating act that brings about 
-gnosis strongly suggest he is fully cognizant of the sort of received meaning the melāpaku he 
-has just invoked would have had among the initiates into the cults of the yoginīs. As we saw 
-earlier, even in the beginning of the twelfth century, these traditions had formed an important 
-nexus for the articulation of transregional Cāḷukya identities and networks of affiliation. Well 
-into the thirteenth century, they were inspiring the production of a related material culture 
-among the Seuṇa kings and their vassals, especially at Ambajogai, the very site where 
-Mukundarāja is represented as residing.1802As a work of applied philosophy, the Vivekasindhu 
-nowhere discusses the specific ritual systems its author inculcates among his disciples or makes 
-evident its extra-philosophical pantheon commitments. Quite noticeably, apart from offering 
-what is perhaps our oldest polemic against what it calls “haṭhayauga” (a practice that is in no 
-way associated with physical postures), despite offering many khaṇḍanas of the doctrinal 
-positions of “others” and of dualism in general, Mukundarāja nowhere signals that he is 
-repudiating Śākta ritual praxis, up to and including the yoginīmelana. One might quite 
-plausibly construe our text, much like some of its Krama antecedents, as being perfectly open 
-to the possibility that some sādhakus will meet the yoginī in melapāku out in the world, while 
-at the same time promoting as the best option that through Tantric-inflected Vedāntic inquiry 
-1802Indeed, an awareness of the mechanics of the yoginīmelana as a living tradition, even though it is often treated as a cautionary tale, is reflected in Marathi literature at least into the time of fifteenth-century Śrīgurucaritra of the Dattapanthīs and even the eighteenth-century Navanāthabhaktisāra. Though my research into such matters remains at preliminary stage, there are substantial indications that some of the key lineages that claim descent from Mukundarāja, especially in the line of his great-grand disciple Sahajabodha, are also transmitting in-lineage a Śākta ritual system, largely divorced from Śrīvidyā, that may be centered on the worship of Ānandabhairava. 
-1920 
-the sādhaku might “conjoin” himself with the hypostases of the three śaktis that gave his 
-subjectivity its shape as they operate inside of himself within his various sense faculties. 
-Ultimately, these to us disparate modes of practice are two sides of the same coin. They 
-find their integration in the self-same culminatory act that makes both a Śākta tryst with the 
-spirits and Vedāntic knowledge of one’s true self as an experiencer actionable and real. 
-Realization is played out in the mutual mingling of body and sensation of the sādhaku and his 
-consort-wife. The realization that results when Vedānta is “made firm” is thus free from doubt 
-(niḥśaṃku), both in the epistemological and apologetic sense of having all possible objections 
-refuted, and in the Kaula sense of being arrived at through the embodied repudiation of all 
-binaries, including the difference between mine and yours and impurity and purity. Both modes 
-of certainty are mostly perfectly instantiated in the practice of the rājayoga where bodies and 
-subjectivities penetrate into each other. The Vedāntin who achieves such a feat is no bookish 
-celibate eager to drop his body, but a rājayogī, a master (nātha) of the wheel of energies 
-(śakticakru) liberated while living, whose every step and glance makes self-evident his status 
-as that most quintessential of elite early medieval social agents: the vīra. As Mukundarāja had 
-explained, such a person carries sovereignty (svarājya or saṃrājya) within himself, except in 
-regard to his guru. Before the guru, who gives him life, even the most accomplished of adepts 
-remains forever a disciple engaged in acts of service (sevā). 
-Distilled down to its most essential components, the Maharashtrian early medieval 
-“non-dual Vedāntic” imaginary we have just spent the past hundred or so pages recovering 
-breaks away from classical Advaita Vedānta in its thoroughgoing acceptance, up to a certain 
-point, of a materiality that is both “real” and internally diversified. Instead of an illusion that 
-will simply dissolve into nothingness with the dawn of real knowledge, we are confronted with 
-1921 
-a great chain of being that systematically arranges both the things that make up the outer world 
-and the contents of our experience, including religious praxis in all its diverse manifestations, 
-into nested hierarchies. The inner logics that animate these domains are regular and regulated, 
-almost mechanistic. They are also quite literally “rational” insomuch as the particularization 
-of types of matter and the accrual of set amounts of the guṇas are purely a matter of proportions 
-that are themselves constitutive of specific identities. Whereas classical Advaita Vedānta 
-essentially sets aside questions of ontology in favor of focusing on epistemology, there are 
-strong indications that these traditions, when it comes to everything apart from questions of 
-cosmogony and origin, are quite willing to reduce the epistemological processes as we 
-experience them in the here and now to a special feature native to particular interactions 
-between types of matter and qualities. This rigid and fixed predetermined order of nested 
-hierarchies, where each thing and agent occupies a preordained place, is then contrasted with 
-a categorically different supercessionary domain whose inner engine is an economy of affect. 
-Inside this favored space, a different set of rules apply. Instead of the nature of particularized 
-things and persons being largely determinative of one’s destiny, whatever happens to a person 
-is seen as founded on a viscerally felt “personal” relationship that gives shape to one’s lived 
-experience. About this much, all three of our authors agree. As we will see momentarily, where 
-Hemādri will break from his contemporaries and near contemporaries is in disassociating this 
-conceptual framework from an embodied sociality with real-world socio-political 
-consequences. Before we can make sense of Hemādri’s own decoupling of those two domains, 
-however, we first need a better sense of what it looks like when they are conjoined. 
-As has so often proved to be the case, it is anthropological investigations into 
-longstanding transregional Indian modes of sociality that aid us in visualizing some of the 
-1922 
-concrete implications such floating ideals and conceptual models take on when they are 
-embodied in particularized institutions and real-world circumstances. One of the most startling 
-developments that emerges when we take these ideas and place them on the ground is that the 
-hitherto mysterious justification for the unexpected fusion of a pañcīkaraṇa Vedānta—which 
-offers a substantive account of differentiated objects and identities as sharing essences and 
-emanating from a single shared source—with the theology of affect suddenly comes into our 
-view not as some strange chimera, but as replicating the common sense of a culture rooted in 
-lived experiences. 
-Our guide here, long awaited and published at the very last stage of the composition 
-of the present study, is Anatasia Piliavsky’s discipline changing monograph Nobody’s People: 
-Hierarchy as Hope in a Society of Thieves, which sets out to offer a deeply controversial and 
-yet much needed reevaluation and rehabilitation of hierarchy as a social form.1803 Most of the 
-case studies contained therein take as their focus the Kanjars of Rajasthan, a “caste 
-community” committed to the trans-generational maintenance of traditions of theft, larceny, 
-and protection racketing. As Piliavsky informs us, these activities are carried out with the tacit 
-permission of local ruling powers, including the local police, who in the post-independence 
-world have occupied the niche previously assigned to petty lords and kings, who 
-counterintuitively deploy such agents strategically in the service of managing conflicts and 
-restoring social order. As Piliavsky has discovered, after spending many decades in their 
-company, though as a “backward caste” with little access to education and modern social 
-capital Kanjars are eligible for substantial support both from Government policies and NGOs, 
-1803Anastasia Piliavsky, Nobody’s People: Hierarchy as Hope in a Society of Thieves (Stanford, CA: Stanford University Press, 2020). 
-1923 
-with the caveat that they are to resocialize themselves into being more productive members of 
-normative society, by and large members of the community reject such handouts on theological 
-and ideological grounds. Piliavsky’s informants told her that they have no interest in 
-“improving their lot” such that they are simply being placed on an equal footing with other 
-communities. Instead, Kanjars actively seek out positions and make investments that provide 
-them with power over others while at the same time reinforcing their social independence and 
-autonomy, right down to converting their shanty homes into fortresses with ungainly watch 
-towers. Just as significantly, the Kanjars are unwilling to recognize that the state has any right 
-to a monopoly on violence, which they unabashedly and proudly use tactically in the service 
-of empowering their networks. 
-Though Piliavsky does not herself recognize the connection, the Kanjars in her study, 
-who claim they are autonomous from all forces but the Goddess herself, reveal themselves1804 
-to the scholar of Hindu Tantra as unambiguously perpetuating an archaic Śākta Kaula social 
-contract whose wider societal implications in the Rajasthani context are now forgotten. As her 
-informants explain, though the community’s boundaries are hereditarily drawn, Kanjars are 
-not born but made. They become Kanjars when as infants, they are made to consume a mixture 
-of liquor and meat (with, depending on the clan, goat or sheep now substituted for human flesh) 
-that is seen as being the body of the goddess herself.1805 This commitment and its connected 
-identity needs to be renewed on a yearly basis during the autumnal Navarātri festival when 
-men, women, and children alike gather and, through eating their goddess out of the same 
-communal pot, come to consist of her nature. In other words, the Kanjars are vīras, for whom 
-1804This case study is found in chapter 5, which is entitled “How to Make and Eat a Goddess in Nine Days.” Piliavsky, Nobody’s People, 97–114. 1805Piliavsky, Nobody’s People, 65–66, 111. 
-1924 
-real personhood is a matter of the ritualized reincorporation of the substance of vīra-hood— 
-vīradravya. Running protection rackets, much like Habbĕya Nāyaka before them, they are still 
-adhering to some semblance of the ethos that as we had seen all but defined the early medieval 
-Deccan, which rendered Śūdra big men, Śākta siddhas, the makers of the medieval world, as 
-well as its performers and jesters—even the kings themselves—“brothers” bound by shared 
-obligations. 
-In contrast to the inclusionary dynamics that have dominated our archives, Piliavsky 
-masterfully documents how, with the collapse of the traditional patronage networks that had 
-empowered them until the onset of independence, being a vīra in the modern world—seeking 
-no one’s aid and thus cultivating no strong intercommunity social ties—helps to render the 
-Kanjars utterly outside of the living social contract. Succinctly, when your only patron is the 
-goddess in a world that is rapidly becoming disenchanted, outside the narrowest of networks, 
-you have no patron and no protector. As the “nobody’s people” alluded to in Piliavsky’s title, 
-shorn of affiliation networks and external protectors, the Kanjars since independence have been 
-the frequent targets of pogroms to which even their ostensible supporters turn a blind eye. 
-Ironically, given their vocation as professional thieves and confidence men, as Piliavsky 
-demonstrates, the Kanjar’s primary human advocates have become local law enforcement, who 
-deploy them as informers, as well as the occasional political actor who employs them to 
-practice their craft against his rivals. In trying times, however, when their support would be 
-most valuable, both of these associates become conspicuously absent. Since no one loves the 
-Kanjars—perhaps for good reason, since if you do not participate in their protection rackets, 
-your household is fair game for their predations—or really needs the Kanjars—since buying 
-them off only ensures you against one source of threats among many—there is no social 
-1925 
-obligation that the state or local institutions work to ensure their continued existence. In prior 
-times, such mid-level protection rackets were perceived either as filling an essential 
-transactional role within an abstract departicularized great chain of social being, or as 
-anchoring an independent, often localized social ecology. The vīra big man himself acted out 
-the roles of protector from the outside world and provider of disciplinary heft in the service of 
-assisting the management of the affairs of the preceptor he shared with much of the community. 
-With the onset of the modern state, in contrast, this ecological niche is now simply perceived 
-as an unwelcome anomaly. 
-At the risk of erroneously reverse engineering Piliavsky’s method of discovery, her 
-encounter in the field with the viscerally concrete nature of Kanjar self-understanding, where 
-personhood is seen as being constituted out of the substance of their patron goddess given to 
-them in ritual and upon which they then feed and grow strong, inspired me to radically reassess 
-the now deeply unfashionable literature produced by an earlier generation of anthropologists, 
-ranging from Mauss up through McKim Marriott, that is concerned with the pan-north Indian 
-discourse on the patron as a feeder of people (khāndān). As Piliavsky masterfully explains, 
-albeit at some length: 
-What Indian patrons must show, and what they are judged on, first and foremost, is their capacity to “feed” (khilānā), that is, to provide and care for their people. This is why people celebrate them with honorifics like annadātā (bread giver) or ann dev (god of grain). “Feeding” is often quite literally what patrons do. Eating and feeding lie at the heart of local devotional practices, household exchange, weddings, and other places where patronal bonds are forged. Feasts are as central to the life of modern-day royal courts. . . as they are to village patronage and electoral politics. Feeding is not merely symbolic, but an enactment of the moral essence of giving. . . . This process has been familiar to anthropologists for a long time. As Mauss. . . had argued, giving is a foundationally consubstantive act: to give is to share oneself with others and, as an act of consubstantiation, feeding makes this fact maximally concrete. 
-To be a patron is to disseminate oneself to one’s recipient-servants by “feeding”; to have a patron is to absorb or “eat” their personal substance (chapter 6). This personal 
-1926 
-substance—the set of mental, physical, and moral dispositions that Marriott and Inden (1973; 1977) referred to as “bio-moral substance”—is known across Northern India as khanadān, which people say means literally “the gift of food” (khānā dān). Khāndān (usually glossed simply as “family”) is not “identity” or a person’s inherent property, but rather character acquired in social intercourse and, more precisely, through vertical relations with those who “feed.” Khāndān is what Indian children receive at initiation, during communion with their patron-deity when they enter the social world, when they become a person. . . . It is not only castes and families that are united by patronal communion. Every social unit, every community, be it a caste association, a political party, a student union, or a sports club, requires a patron-deity of its own in order to exist. . . . 
-The idea of exogenesis, the derivation of self from other, is integral to hierarchical morality. Perhaps most obviously this idea is embodied in the widespread institution of stranger-kingship, where a sovereign outsider gives life to his polity. . . . Most elementally, the idea is that everyone must come from somebody else, persons can only come from other persons (human or divine). This is what we may think of as a theory of anthropogenesis. In Northern India, it is expressed in the idiom of substantive co- creation, in the idiom of “eating” from or of your superiors. This is why the parent- child relation, the concrete, universal manifestation of hierarchical exogenesis, is the archetypal hierarchical bond. The source figure, what Sahlins calls “metaperson”—a parent, a patron, a god—is preeminent not because they represent or exemplify a paramount value, but because they are the source of their subordinates’ being. In this sense, relations with parents and patrons, descent and masterhood, kinship and kingship are the same in principle. 
-Social worth does not come from encompassment to an impersonal value but is a measure of proximity to the source. All value, on other words, is personal.1806 
-As the terms of art deployed by McKim Marriot, Ronald Inden, and Marshall Sahlins 
-keep intimating, what we are dealing with here is on one level a quotidian social model, 
-wherein the patron who is served by a range of differentiated agents provides each of them 
-with the distinctive concrete benefits, including food, that make it possible for them to make a 
-living and a life. This is a sociology of self-fashioning, outlining the mechanics of “what makes 
-people become who they are,” where character is not treated as an intrinsic trait but instead 
-acquired in social intercourse, and, just as significantly, a theoretical-philosophical paradigm 
-of anthropogenesis where all sorts of “metapersons” serve as the source of their subordinates’ 
-1806Piliavsky, Nobody’s People, 28–30. 
-1927being. It is once again pivotal that we understand that, unlike in even the more sophisticated 
-Marxist articulations of the nature of ideology and its sources, the social agents within our 
-archives themselves envision these processes as co-constitutive of each other. In other words, 
-we are dealing not with theology as the insubstantial velvet glove concealing the hard fist of 
-the political, but with political theology. To invoke a perhaps ungainly, but at least much less 
-tired point of comparison, instead of the glove made to fit the hand, we face a situation more 
-like that of a material body—the body politic and its modes of governmentality—coming into 
-contact with a memory foam mattress, which, without losing its independent structural 
-integrity, has as its selling point that it reshapes itself to conform to the bodies of those with 
-whom it regularly makes contact. And yet, over time, as any orthopedic doctor or postural 
-alignment specialist will tell you, it really is that case that the mattress itself is reshaping the 
-spinal alignment, posture, and somatic experiences of the embodied person. Over the longue 
-durée, the result is a convergence of both entities such that, not metaphorically but actually, 
-they are conforming to and are being shaped by each other. 
-We have been focused on mattresses, but we could just as easily have talking about 
-pañcīkaraṇa Vedānta, especially this variant where it is infused with the added element of 
-affect being valorized as a special force that freezes the norms of the world in place, enabling 
-the participant in the special affect relation to transcend them. As we have explored at perhaps 
-tedious length, quite unlike classical Advaita Vedānta, which in no way replicates this social 
-logic, pañcīkaraṇa Vedānta explains both the things in the world and our various habituses for 
-being in the world as constituted out of the same small set of building blocks with the variety 
-of extant things explained as the result of different proportional combinations. These elements, 
-both material and psychic, in all cases emanate from a metaperson who again quite literally 
-1928 
-provides for the being of the various beings as well as the world that they inhabit. So long as 
-this base materiality is the architectonic that orders one’s life, the fate of things and persons is 
-determined by their composition. If, however, one instead enters into an affect relationship 
-with the source of one’s substance and fortunes, another order of value emerges. This has its 
-location in the affect bond, and suddenly everything changes. The mechanics of that affect 
-relation involve nothing less than consciously, as opposed to indirectly and automatically, 
-taking up the bio-moral substance that comes from the source and integrating it into oneself. 
-Within such a dynamic, since the source of one’s own qualities is transparently coming from 
-outside oneself, it is only natural that what becomes canonized and valorized is not the 
-individual, but the affect relation itself. As Piliavsky explains: 
-Hierarchical thinking places value in the content and properties of relations. The primary criteria of judgment are relational qualities (loyalty, care, generosity) and relational states (attachment, belonging, incorporation), not virtues like valor or purity. If loyalty and generosity can be thought of as “virtues” at all, they are transitive virtues—cultivated and reckoned in relation to others rather than as properties of the self. Care is a property not of the self, but of relations, and it becomes manifest only within and through relations. Possessive virtues or “character,” like strength, courage, or probity, do matter, but only insofar as they are deployed to relational ends. Strength and wealth elevate people socially only when these are deployed in the care of others. . . . 
-The encompassment of possessive value by relational value is what Robbins (2004) has called “relationalism,” a sensibility that locates value in social relations and accords them the highest moral honor. What is less clear in Robbins’s work is what difference having relations as the locus of value makes to the overall structure of value. I shall argue that the privileging of relations as the location of value radically changes the structure of value as well as the structure of relations that are organized by it. The relational calculus of human worth is not a linear accumulation of value. People do not acquire social worth simply by engaging in more relations, in a way that one might accrue virtues. . . . 
-In India what I call patronage is conceived in much more vital terms, as a tie of concern and personal obligation, which involves practical support as the embodiment of care and love. That is why in rural North India people often address employers, patron-gods, and political patrons as “parents” (mā-ī-bāp, bav-ji) and describe themselves as their “children.” 
-1929 
-There is nothing demeaning about subordination as such. On the contrary, as we shall see, it is a privilege that many seek. But it is something that people seek only from particular people, those to whom they attach themselves and from whose attachments they draw honor.1807 
-Without ever using the word, in reconstructing a moral order that valorizes unequal 
-relations founded in a moral economy of care, even love, where the more exclusive the bond, 
-the more visceral and concrete the exchange of substance and affect, Piliavsky has just 
-articulated the theology and sociology of bhakti. In offering us a cautionary tale from the world 
-of the Kanjars, who now constitute both their socialities and identities solely through 
-interfacing with a ferocious goddess who is not also actively in relation with the differentiated 
-persons and substances that make up other communities, she has also demonstrated what 
-happens when exclusive bhakti on the part of discrete agents ceases to be married to the 
-complex patronage networks that govern inter-community social relations. Because the 
-Kanjars are bonded “only to the goddess” in a way that is no longer socially legible, all their 
-other social connections are transitory, incidental, and lack that vital element of affect that is 
-recognized as a key locus of value by those who still adhere to traditional social mores. As 
-Piliavsky suggests, in a patron-centric world, it is being inside as opposed to outside such 
-networked social relations, as well as the status of one’s patron—how closely he approximates 
-being the source of life giving potentialities—and not abstract values floating free of particular 
-relations, that is largely determinative of one’s rank in society, and thus of the sort of resources 
-to which one had access as well as one’s degree of autonomy. 
-The long-held belief among social scientists that castes are professional guilds ranked by degrees of occupational purity has obscured the descent-like structure of caste, in which each is conceptualized in relation to others as a service community, united by a shared trade conceived as a service to a master, and envisioned as its descendants. Thus Hocart: “The European thinks of the barber and the washerman as men who ply a trade 
-1807Piliavsky, Nobody's People, 25–28. 
-1930 
-inherited from their forefathers; but that is not the native point of view” (1970 [1936]: 115; also 1950). Castes, he writes, are communities that perform particular (ritual) tasks for a specific master. Indeed, as Marriott noted, in India “an occupation is a kind of behavior rendered as a service by one caste for another” (1959: 98). There are no generic priests or drummers, only priests or drummers for someone in particular. And the drummers for goatherds and the drummers for aristocrats are socially as distant as goatherds and aristocrats themselves. They dress and eat differently (following their patrons’ ways of dressing and eating; see chapter 7), they go by different caste names, and they certainly neither eat with each other nor intermarry. For all intents and purposes, they are members of different castes. . . . 
-We do not need to travel to extreme social peripheries to see the importance of patronal attachment at play. Take, for instance, the Brahmans. Conventional wisdom, and Dumont, tell us that Brahmans are the highest caste. But ethnographers have shown that Brahmans have occupied all kinds of status positions, from high to low to middling. We know that while Brahmans who acted as family priests (purohits) were socially very elevated (see Parry 1979: 59), Brahmans who were village priests ranked somewhere in the middle, alongside potters and gardeners (Mayer 1960: 71), and Brahmans who acted as funerary priests ranked among the lowest castes (Parry 1994). Degrees of purity and pollution cannot possibly explain this difference because all three kinds of Brahmans claimed proximity to the divine sources of purity and also performed polluting rites. What instead explains their status differences are the degrees of their attachment to patrons. While family priests enjoyed exclusive, hereditary rights of serving a single aristocratic family, village priests served a less regular community of village patrons, and funerary priests on the banks of the Ganges would work for all and sundry who came to cremate their dead. What counted was not purity, but the fixity and exclusivity of hierarchical attachments. Those with steady service bonds to one patron did well for themselves, and those with a motley array of patrons would do abysmally.1808 
-What Piliavsky has asserted is that it is this process of high ranked service communities 
-taking in the substance of their own patrons as part of an affect relation, a process that involves 
-adopting the clothes, dietary habits, idioms, and to some extent habituses of the source that 
-gives them life, that was the primary engine of upward social mobility in pre-independence 
-South Asia. As Piliavsky’s fieldwork demonstrated to her time and time again, this state of 
-affairs was not aspirational in the sense of representing the adaptive or compensational 
-fantasies of some underclass, nor was it an act of creative resistance; it was an experiential 
-1808Piliavsky, Nobody's People, 30–32. 
-1931 
-reality with a substantiative material component. In fact, according to Piliavsky, what we label 
-“Sanskritization,” especially as it is projected back into the pre-colonial past, where it is the 
-adoption of the habitus of upper caste communities, especially Brāhmaṇas, that is understood 
-to be the cause—or at least the correlate—of successful social mobility, is a misunderstanding 
-of this core dynamic as it is reflected in our archives. Divorced from affect relations with a 
-patron, like a fifth son in a family miming the role of his successful father independent of 
-inheriting his estate, Sanskritization was typically a failure, for it seeks to appeal to an abstract 
-authority who was nowhere in particular. In actuality, the other key dimension of envisioning 
-a relationist world where values are not lodged in people but instead located in specific social 
-relational bonds defined by affect is that this virtually necessitates a plurality of patrons and 
-plurality of affects relations, most of which are alien to any given agent. Different social agents 
-thus have radically different experiences of the exact same authority figures depending on 
-whether or not they are inside or outside a specific affect network. And, since particularized 
-strong bonds were necessarily limited to a few patrons, for otherwise these bonds lost their 
-power, quite unlike in the paradigm of citizenship, questions of belonging and empowerment 
-become necessarily relational and contextual. 
-In this world, where everyone is at once patron and servant—even royals are servants of patron gods—positions constantly shift, and there is nothing like a discernible social whole or a steady arrangement or shape to society. Instead there are shared principles that steer how people judge, decide, and act, that motivate people’s pursuits, and locate them socially. 
-Conceptually, this world is highly coherent, with a few simple ideas shared over great stretches of space and time. Conceptual coherence does not mean social cohesion or “solidarity,” with people slotting effortlessly into set positions inside a bounded whole. Nor does it amount to agreement, harmony or stasis. The world I describe is in constant flux. Everyone is at once servant and patron to many, roles they continually acquire and lose. What constitutes a “gift” and a “service” is rarely uncontested (see chapter 7), relative positions are continually renegotiated and reinscribed, and relations (and fortunes) are incessantly made and unmade. People change their positions not by a 
-1932 
-primitive accumulation of possessive value, but by changing their position relative to others. Some movements may unfold before an ethnographer’s eyes, but most take much longer and become visible only in the longue durée, as we trace the slow rise and fall of communities (as I shall do in chapter 5). In North India, these relational principles have persisted remarkably across time, social levels, and circumstances, enjoying moral purchase across differences of caste, religion, and class, and across community-specific possessive values, irrespective of whether a group specially cherishes ritual purity, strength, auspiciousness, valor, education, wealth, or whatever else. For a long time, this has been the basic vocabulary of the ambitious poetics of social life.1809 
-Placing this mode of thinking in dialogue with our Marathi sources enables us to 
-recognize that while Piliavsky sees this paradigm as offering us an emic sociology, we can just 
-as readily read it as articulating an emic soteriology. Just as the king’s drummer—or even 
-better, the king of king’s drummer—is not really a treated as a drummer at all, because he takes 
-bits of the affect and substance of a king and makes it his own, while they are outside the circle 
-of affect and empowerment of a genuinely life-giving force, human beings remain bound souls 
-at the mercy of their particularized circumstances. However, taking up the language of the 
-Mahānubhāvikas for ease of illustration (one could readily do the same thing with 
-Mukundarāja), when Parameśvara, an embodied discrete personal agent, makes a connection 
-(saṃbaṃdhu deti), he transfers into them affect (prema), the real bhakti (prema bolije, bhakti 
-bolije). It is then this affect bond that becomes the primary order of value in the disciple’s 
-world. If the disciple takes this a step further, he chooses to follow and imitate Parameśvara, 
-especially by existing in social and mental proximity to him (sannidhi). Then, with ever 
-increasing intimacy, Parameśvara may grant a direct experience of himself (parameśvarū 
-bhaktāsi āpulī āṇubhuti rati deti), a direct experience of affect. Beginning from the disciple 
-taking into himself the substance that makes up the things in his patron’s domain 
-(brahmīṃbhuta), mixing them into himself and his life-world (mīsaḷaṇe) until finally, so 
-1809Piliavsky, Nobody's People, 34. 
-1933 
-thoroughly and concretely is his teacher’s paradigm and habit imbricated in every waking 
-moment of his experiences and determinative of his social circumstances that “it is impossible 
-for the devotee to distinguish whether he experiences Parameśvara as different or non-different 
-from himself” (bhaktu aṇabhavī kīṃ ābhedeṃ anubhavī, ese vīkalpa tetha karūṃ na eti).1810 
-Pulled into a world where the parameters of experience are so radically distinct from what 
-came before—for again, we are talking of a mixture of changes of external circumstances as 
-well internal mental habits and experiences, all concretely predicated on the elevation of the 
-same affect relation as the source of the change—the disciple of a Cakradhar or a Haripāla 
-quite literally becomes a different person embedded within new circumstances. Like the 
-drummer of a king, who ceases to experience the usual social facts of merely being a drummer, 
-as the disciple ascends in rank, mimicking the sociality of the master, he in turn has the 
-potential to become in some small ways the giver of life and substance to those who are situated 
-“beneath him,” especially outside of this specific affect relation. Becoming even in a small 
-way someone who steps into the role of patron or patron-like affiliate necessarily entails 
-publicly performing acts of generosity, acts that in turn help to define and refine a person’s 
-social identity. As Piliavsky, building upon Mines’s work in Tamil Nadu, explains: 
-Like Weber’s “charisma,” individuality is not the property of a person, but a structural effect of the relations in which the individual is enmeshed. 
-If the egalitarian individual is an atom in a flat network, the hierarchical individual is a grandee; not an island, but a mountain peak. One can distinguish oneself in all manner of ways—spiritually, professionally, financially, politically—but one is recognized as an individual only when one does something magnificent for others, when one assumes responsibility for them. When Rajasthani grandees (royals, businessmen, headmen, politicians) give an account of their splendor—that is, of their individuality—they will always tell you about the many people, processes, and institutions that are in their charge. They will define their individuality by the extent of their social involvement. They will list things that they have done for their community, institutions that they have founded, or decision-making processes in which they have authority. The same is true 
-1810Cakradhar, Sūtrapāṭha 8.65. 
-1934 
-in Tamil Nadu, where big men likewise define their individuality by the extent of their social involvement (see M. Mines 1994: 14). When others discuss distinguished people, they describe things that those people have done for them: funds they have made available, families they have supported, or security they have provided for others. The more significant their actions, the more vividly personal is the mythology that surrounds them. In local narratives, the grandest patrons—kings, gurus, or chief ministers of states— are the most incandescently individuated, and their magnificent qualities are celebrated on millions of posters and in innumerable legends of their deeds. They are not just individuals, but super-individuals. 
-People describe the uniqueness of grandees not as a matter of their being different from others, but of being their guru, political leader, husband, or mother. The icons of patrons that hang on the walls of ashrams, political party headquarters, or living rooms depict people who are revered not for being singular geniuses, but for being heads of religious sects, political parties, or households. If egalitarian individuals are autonomous figures, hierarchical individuals are deeply implicated in others, by virtue of both their responsibility toward them and the existential bonds that I discussed above. These bonds are the basis of social distinction and personal distinctiveness, which go hand in hand. To become a distinctive person—an individual—is to be socially distinguished. Dumont, who thought the individual a creature of egalitarian ideology—and hierarchy’s value antithesis—had to place Hindu ascetics, whom he rightly saw as intensely individuated, outside ordinary Indian society. But, in the eyes of Hindu devotees, Hindu renunciants (sannyāsīs) are not external to social life, they are its final stage (ashramā), its pinnacle. Renunciation (sanyās) is not the abandonment of social life, but its exalted culmination. Which is why in common parlance renunciants are often called Mahārāj—not “holy man” or “ascetic,” but “great ruler” or “king.”1811 
-What neither Piliavsky and Mines have reflected on, focused as they are upon patrons 
-(or failed patrons) as agents and the nature of the communities they engender, but what 
-becomes almost embarrassingly evident to anyone who has ever done fieldwork in a religious 
-community in South Asia where religious authority gets embodied in specific people, is that 
-within any given circle of affect, among the differentiated clients of the same patron, the same 
-fundamental logic is constantly unfolding at different scales of articulation. Intimacy to the 
-source, whether to the patron himself or the sort of people who staff his samūha councils, gives 
-one access to special knowledge and resources. These in turn create processes of their own 
-1811Piliavsky, Nobody's People, 36–38. 
-1935 
-dynamics of individuation, provoking obligations to generosity directed towards those placed 
-further out in the field of affect. With this development, there emerge particularized social 
-reputations. Stories are then told among the community not only about the “best of devotees’” 
-interactions with the source itself, but about interactions with the best of devotees in which 
-they themselves are acting as surrogate source. Thus, counterintuitively, to become the best of 
-disciples of a living teacher is at once a process of accommodating one’s identity with the 
-source in a manner that results in an amalgamated identity while at the same time it entails 
-becoming perceived within wider social discourse as ever more individuated and 
-“distinguished.” In the meta-language of the Śaiva Age, affect provides one access to initiation, 
-which in turn opens up a world where knowledge and experience, and with them opportunity, 
-moves from being general (sāmānya/sādhāraṇa) to ever more particularized and 
-“distinguished” (viśeṣaṇa). 
-As we saw in the previous chapter, nearly every aspect of the logic that animates the 
-social forms we have just been exploring, if not outright disrupted, is at least called into 
-question by Hemādri’s new paradigm of the universalization of dharma. The reinvention of 
-the Brāhmaṇa as a jack of all trades and all-around authority with few if any permanent ties 
-does not merely serve to displace other patron social agents, like our Kālamukhas, whose 
-functions are now absorbed into the role of the learned Dharmaśāstrin paṇḍita. It effaces the 
-whole social economy of affect bonds, mediated through ritual, that had been the engine for 
-creating social distinction up and down the social scale. When the functions of a patron who 
-cares for a range of different types of agents is all but rationalized out of existence, such that 
-the only “gift” a non-Brāhmaṇa can receive becomes perishable food, virtually everyone 
-becomes, like the Kanjars—nobody’s people—their lot in life determined by prevailing 
-1936 
-circumstances. In much the same way that the dharma discourses in the Caturvargacintāmaṇi, 
-when infused with a commonsense real-world theism, stand in for the praxis driven religious 
-life-worlds of the Śaiva Age that they supplant, through reimagining the nature of the bhakta 
-and of bhakti itself in terms of an emanationist ontology that finds neither its point of origin 
-nor means of terminus in forging bonds of affect with embodied patron like figures, but instead 
-is to be sought out in the inner voice that is the conscience of the Brāhmaṇical establishment, 
-the Muktāphala and Kaivalyadīpikā offer a substitute economy of affect that comes equipped 
-with its own autoexegetical economic theory. In order to arrive at this much desired 
-destination, Hemādri and his disciple first have to render irrelevant both the sociologies and 
-soteriologies that look at a guru and see a patron and see their salvation in forging a special 
-relationship. 
-The Kaivalyadīpikā accomplishes this task through three interrelated conceptual 
-moves: namely, erasing the figure of the satguru, demoting the special type of social agent 
-who is purely soteriologically motivated, and finally, reimagining the vīra, not as bound to an 
-embodied human teacher who acts as a patron and who in turn functions as patron to those 
-beneath him, but as above all else devoted to and dependent upon a set of entextualized norms 
-that find their reflection in society at large. Strangely enough, though they are justified using 
-citations from the Bhāgavata, all three elements in this agenda are out of step with the plain 
-intended meaning of the root text. 
-Hemādri’s rejection of the satguru as a living ideal is counterintuitively founded upon 
-a teaching in the second to last division of the Bhāgavata that can just as easily be interpreted 
-as promoting the considerable shortcomings of householder life as well as the supernal virtues 
-of a human teacher. The passage forms part of the teachings offered by the navayogins, which 
-1937more than any other part of the Bhāgavata offers a celebration of a visceral affective bhakti. 
-Interpreted in the usual manner, the passage (the first part is in Tapasyananda’s rendering) 
-seems to say something like the following: 
-One should understand that all heavenly realms attained hereafter as a result of karma performed now, are likewise impermeant--these heavenly realms are all relative like the principalities of petty chieftains, equaled by many and excelled by others, and all are labile to destruction alike in the end. 
-Therefore, one who is compelled by the desire for knowledge (jijñāsuḥ), should propitiate (prapadyeta) the guru. 
-Here is where things get messy. The remainder of this verse can be construed 
-grammatically as having at least two entirely distinct syntaxes, depending on whether we take 
-the list of attributes that are about to follow as applying to the guru or, somewhat less plausibly 
-(since then the next verse would awkwardly feature a change in subject), the agent seeking 
-knowledge. In the first case, where the guru is the subject, we would have to understand 
-something like the following: 
-The one desiring knowledge should propitiate [the guru] who is the ultimate good (śreyas uttamam), who is submerged in the supreme sound (śābde pare ca niṣṇātaṃ) and whose foundation is pacification within brahman (brahmaṇy upaśamāśrayam). There (tatra) [the guru] should learn the Bhāgavata dharmas, the guru alone being his self and the deity (gurvātmadaivataḥ).1812 
-As you can see, even in this case, we are left with a genuine textual ambiguity of the 
-sort where theologians frequently see opportunity, namely, what to do with the compound 
-“gurvātmadaivataḥ.” Depending on how one understands the underlying theology of the text, 
-it would be perfectly reasonable to understand the Bhāgavata dharma either as teaching us that 
-its governing authorities are the self and the guru, or simply the guru alone. Hemādri, as you 
-are probably expecting, rejecting both options, sees things rather differently. 
-1812Bhāgavata Purāṇa 11.3.21–22: tasmād guruṃ prapadyeta jijñāsuḥ śreya uttamam / śābde pare ca niṣṇātaṃ brahmaṇy upaśamāśrayam // tatra bhāgavatān dharmān śikṣed gurvātmadaivataḥ / 
-1938 
-For most of this portion of the Muktāphala, Bopadeva, in compiling the root text, is 
-engaged in an act of taxonomic housekeeping of the sort that tends to tire modern readers. He 
-has this preconceived notion that the teachings presented from the Bhāgavata thus far need to 
-be arranged in terms of enumerated sets called vargas, and that by this point in the text we 
-have reached thirty-six. In Hemādri’s hands, this whole organizational focus automatically 
-raises the pressing question of whether these different subdivisions are to be taken as arranged 
-in nested hierarchies and whether there is any possibility for optionality (vikalpa) where one 
-chooses between practice sets that are at the same level. Exploring these issues takes up the 
-majority of Hemādri’s commentary on the page, and comprises most of the longest sentences 
-in this patch of commentary. In contrast, the actual exegesis of the verses at hand, mostly with 
-terse sentences, barely takes up the bottom portion of the page. In full it reads: 
-Hemādri: Therefore (tasmāt) means because both of the pair of worlds contain faults, [for this reason] one should take refuge. [To take refuge means] you should attend to the ācārya, [which means] staying near him. . . . Śreyaḥ means among all good actions, it [living with the ācārya] is the best. Therefore, it [living near the ācārya] is called a subordinate component of bhakti. With regard to śabda brahman means “through the investigation of the purport of the Veda” (vedārthatātparyeṇa). When the text says, “the highest one” (pare), it means through the experience of the unmediated. Niṣṇātam means he [the ācārya] has obtained steadfastness. By the phrase “upaśamāśrayam,” there are known to be other qualities also [on the part of the ācārya] such as affection towards the students. . . . 
-In the passage beginning “there,” “there” (tatra) means in the gurukula. [The compound gurvātmadaivataḥ means] he of whom the guru alone is the self and deity. One should make offerings to the guru in the same way as to the deity and the self. It is [only in this restricted sense] that [one might say] through devotion to the guru everything becomes fruitful.1813 
-1813Hemādri, Kaivalyadīpikā, pg. 116: tasmād guruṃ prapadyeta jijñāsuḥ śreya uttamam / śābde pare ca niṣṇātaṃ brahmaṇy upaśamāśrayam // tatra ṣaḍviṃśadvargaṃ darśayan dvābhyāṃ pūrvaraṅgam āha—tasmād iti / tasmāl loka-dvayasyāpi sadoṣatvāt prapadyeta / nirvinnaḥ, samitpāṇir ācāryam upatiṣṭhet / śreya uttamam / śreyaḥsu satkarmasu madhye uttamaṃ bhaktyaṅgākhyam / śābde brahmaṇi vedatātparyavicāreṇa / pare cāparokṣānubhavena, niṣṇātaṃ niṣṭhāprāptam / upaśamāśrayam ity anenaiva śiṣyavātsalyādayo ’nye ’pi guṇā jñeyāḥ //. . . . tatreti / tatra gurukule / gurur eva ātma daivataṃ ca yasya / ātmavad devavac ca guruṃ saṃskuryād ity arthaḥ / gurubhaktyā hi sarvaṃ saphalaṃ / 
-1939 
-Whereas, at least in the construal of the text we had settled on, the Bhāgavata had 
-seemed to be set on evoking the figure of a not merely learned but spiritually attained teacher, 
-who has taken brahman as his foundation and swims in the sacred sound (presumably oṃ), 
-imploring the householder to seek refuge at this special person’s feet, Hemādri envisions a 
-much humbler and altogether less spiritually charged arrangement. The disciple, not a 
-householder disgusted with his lot but more like a fresh-faced young student, is now simply 
-called upon to live near the teacher with whom he will study within his gurukula. His guide in 
-turn is demoted from the role of attained guru, himself abiding in brahman, who has a personal 
-and specialized bond with his charges that is treated as having intrinsic value, to that of a 
-merely disciplined and personable ācārya imparting the specific technical knowledge of 
-Vedāntic exegetical methods. As Hemādri will explain later in the text, the guru is merely the 
-agent for providing the upadeśa (gurum upadeṣṭāram). Even before we get to the far-fetched 
-polemic with which the analysis concludes, the guru has ceased to be seen as a legitimate 
-authority in his own right. At the hands of our exegete, the ambiguities of gurvātmadaivataḥ 
-are given a new lease on life by transmuting them into a metaphor.1814 In Hemādri’s somewhat 
-strained reading, the “true” guru is never a person. He is only a metaphor for God. It therefore 
-follows that the sorts of concrete allegiance that those desiring gnosis, and who had often 
-acquired prestige and power along the way to liberation, had invested in living teachers had 
-been misplaced. Such bonds should be directed only at God himself. And to please God, one 
-must adhere to his Bhāgavata dharma. 
-1814Another verse from the Bhāgavata selected by Bopadeva, which contains a variation on the compound gurudevatātmā, wherein the sequencing of ātman and devatā are reversed but the guru maintains the key semantic position, renders Hemādri’s interpretation even less plausible. Bhāgavata Purāṇa 11.2.37: bhayaṃ dvitīyābhiniveśataḥ syād īśād apetasya viparyayo ’smṛtiḥ / tanmāyayāto budha ābhajet taṃ bhaktyaikayeśaṃ gurudevatātmā // 
-1940 
-One of the hidden implications of the bhaktirasa theology of the Muktāphala and 
-Kaivalyadīpikā is that it takes the vast of array of learned seers and accomplished yogins who 
-populate the Bhāgavata Purāṇa itself and who in the world of the text are often treated as 
-teachers and sources of authority in their own right, and reframes them all as sample cases 
-illustrative of specific modes of bhakti praxis or affective orientations. Once Yājñavalkya and 
-Nārada are no longer exemplary but merely viewed as exemplars of successfully executed 
-entextualized processes—or even as products of freakish serendipity—the very idea that living 
-authorities should be looked to for their own opinions and revelations, as opposed to treated as 
-interchangeable transmission systems for a body of knowledge, begins to seem absurd (much 
-as in Bhāṭṭa Mīmāṃsā). Where there is no guru who offers a personalized revelation, the saint 
-and the vīra alike, however exemplary their practice, are merely different species of bhaktas 
-tapping into the same supreme authority that is Bhagavān, whose grace changes hearts without 
-in any way reordering or altering institutionalized social realities in the here and now. 
-Hemādri’s at first glance surprising inclusion of śāntarasa, the serene rasa,1815 as one 
-of the nine bhakti rasa modalities needs to be understood in terms of this project of decoupling 
-religious attainment from a more capacious vision of adhikāra. In Hemādri’s representation, 
-which follows that of Hemacandra, though śānta can incorporate moments of such modes as 
-excitation (harṣa) and indifference (niveda), the lasting mode (sthāyibhāva) of the serene is 
-pacification (śama), the snuffing out of mental impulses and emotional reactions. The serene 
-bhakta adheres to lofty, if untheatrical, aims, such as acting on behalf of the aims of the other 
-(parārthakāritva) and seeing all beings with equanimity of vision 
-1815The understanding of śāntarasa in terms of serenity and its dramaturgical and soteriological implications that informs this analysis is indebted to Sthaneshwar Timalsina’s recent publication, Sthaneshwar Timalsina, “Abhinavagupta on Śānta Rasa: The Logic of Emotional Repose,” in Handbook of Logical Thought in India, ed. Sundar Sarukkai and Mihir Chakraborty (New York: Springer, 2020), 1–18. 
-1941 
-(sarvabhūtasamatvadarśana), contemplating the nature of the spiritual/the Upaniṣads 
-(ādhyātmatattvacintana), and observing the yamas and niyamas.1816 
-Here we should note that even more than is the case in other sections of the rasa 
-chapters of the Kaivalyadīpikā, the analytical portions of this chapter—delineating the nature 
-of śāntarasa, as well its polemical portions, defending the validity of the concept of śāntarasa 
-against the classical aesthetic tradition that did not accept the possibility that artistic 
-representations of soteriological aims can find a place on the stage or within literature—are 
-simply made up of a pastiche of the words of the two major proponents of śāntarasa. In 
-defining śāntarasa, Hemādri simply lifts, with very minor rhetorical additions and deletions, 
-the formulation given by the Jaina polymath Hemacandra in his Kāvyānuśāsana.1817 Similarly, 
-his defense of śāntarasa is merely a paraphrase of the words of Abhinavagupta in the Locana 
-on the Dhvanyāloka. The derivative nature of these materials, as we have seen before, are 
-indicative of Hemādri’s relative lack of interest in the intellectual discipline of Alaṃkāraśāstra 
-as an end in itself. For our author, poetics is always a means to an extra-intellectual doctrinal 
-end. 
-Hemādri’s most fundamental innovation, apart from his insistence, programmatically 
-asserted throughout this text, that Bhagavān himself serves as the ālambanavibhāva, is his 
-assertion that the consequent (anubhāva) of śāntarasa is limited to the recognition of the 
-presence of the self within all beings, as opposed to, as Hemachandra would have had it, 
-1816Hemādri, Kaivalyadīpikā, pg. 268: atha vairagya-saṃsāra-bhīrutā-tattva-jñāna-vīta-rāga-pariśīlana- parameśvarānugraha-tapovana-vivikta-sevādi-vibhāvaṃ yama-niyamādhyātma-śāstra-cintana-sarva-bhūta- samatva-darśana-parārtha-kāritvādyanubhāvaṃ dhṛti-smṛti-mati-nirveda-harṣādi-vyabhicāriṇaṃ śama-sthāyi- bhāvaṃ śānta-rasam ārabhate—śānteti / 1817Compare with Hemacandra’s Kāvyānuśāsana. Substantial variant passages (not a matter of change in syntax and grammatical form) are marked in bold. Vamana Sarman, ed. Kāvyānuśāsana: Dvitīya Saṃskaraṇa (Bombay, Shri Mahavira Jaina Vidyalaya, 1964), 120–21: vairāgyasaṃsārabhīrutātattvajñānavītarāgapariśīlana- parameśvarānugrahādivibhāvo yamaniyamādhyātmaśāstracintanādyānubhāvo dhṛtismṛtinivedamatyādivyabhicārī tṛṣṇākṣayarūpaḥ śamaḥ sthāyibhāvaś carvaṇāṃ prāptaḥ śānto rasaḥ / 
-1942 
-gnostic realization (tattvajñāna) itself. This choice is in keeping with the true rhetorical 
-function of the inclusion of śāntarasa as a separate aesthetic modality within this treatise, 
-which is to disassociate a quietistic lower level of spiritual attainment that merely removes 
-suffering from both jīvanmukti and videhamukti. As we are about to see, in a conceptual move 
-that is without any recoverable precedent, Hemādri decides that both of these social agents 
-should be classified as special exemplars of the variety of vīrarasa that falls within the domain 
-of the dharmavīra. The key distinction being drawn here is that in the domain of śāntarasa, 
-mokṣa, when it happens at all, is to be defined as freedom from pain where there is no 
-experience of anything, let alone bliss. This is precisely the classical understanding of 
-liberation that one finds in most non-Tantric and non-Bhāgavata aligned classical traditions, 
-including, quite conspicuously, many of the interpretations of the classical Advaita Vedānta of 
-Śaṅkara as articulated by his disciples. In Hemādri’s representation of it at least (much as we 
-found in Bhaṭṭa Nāyaka), śāntarasa works through the removal of a superimposed meaning, 
-revealing a purportedly ultimate reality that is devoid of the features that had been 
-superimposed upon it. 
-The difference between this worldview and the one that Hemādri will be promoting is 
-made evident in his choice of the verse he chooses to highlight as the śāntarasa division begins. 
-A literal rendering that assumes an Advaita context (perhaps no more correct than other 
-readings)1818 of the verses, compatible with a śānta perspective, might read something like this: 
-Then, because of the passion (rati) I had obtained regarding that Lord of endearing glory, O great sage, that for me an unwavering doctrinal conviction (mati) arose, 
-1818Tapasyananda, following Śrīdhara, translates Bhagavata Purāṇa 1.5.26–27 as follows: “Hearing every syllable of those recitals with faith and attention, I developed the feeling of delight in the Lord, whose glories are charming to contemplate. After I developed this delight in the Lord, my mind would never disengage itself from Him of endearing glory. In this mental state I experienced that the whole of the universe in its subtle as well as gross condition is generated by His power of Maya in Himself, from whom my entity, the Jiva, too has no separate existence, the Jiva has, too has no separate existence.” 
-1943 
-through which I saw that this is the truth, that everything that exists is not existent, and that it is imagined through his power of illusion in me who am supreme brahman.1819 
-Hemādri, however, understands the passage as asserting a substantively different 
-message, one that seems to prefigure what the Gauḍīya theologians will label the doctrine of 
-acintyabhedābheda—namely, that we should locate inconceivable difference not within the 
-transient world of māyā, but within the godhead itself: 
-H: If you say, “what is the use of rati?” he says tasmin and so forth. 
-Tasmin, “in him,” means in Kṛṣṇa, who is Lord of endearing glory. Non-wavering intellect is knowledge that is free from doubt. In regard to that where there is rati [i.e., the ālambanavibhāva that is God], there is understanding. By which kind of doctrinal conviction (mati) [does this happen]? By [the understanding that when we state that brahman] is true and not true, [what is meant is] the subtle and gross as the pair of forms [that make up brahman]. “Through my māyā” precisely means this is imagined or superimposed regarding me, having the form of brahman, as in the example of the rope and the snake. . . . It is not the case that just as a snake that is real elsewhere is superimposed on a rope, in the same way, a pair of forms that is real elsewhere [located in māyā] is superimposed on brahman. Rather, this [double nature] is just intrinsically inexpressible [but a part of brahman].1820 
-The fundamental shortcoming of śāntarasa, from this perspective, is that through the 
-repression or elision of the modes of conceptualization within the mind that produce suffering, 
-not only is passionate attachment to the godhead potentiality snuffed out, but the receptive 
-intellect ceases to be able to grapple with or even recognize the paradoxical double nature that 
-defines brahman, aligning instead with a more limited sense of the serene. As Hemādri 
-explains, very much foreshadowing the writings of the Gosvāmins, in the ease of liberation 
-(muktisukhe) there is an absence of the enjoyment of bhakti (bhaktisukhābhāvāt), while in the 
-1819Bhāgavata Purāṇa 1.5.27: tasmiṃs tadā labdharucer mahāmate priyaśravasy askhalitā matir mama / yayāham etat sadasat svamāyayā paśye mayi brahmaṇi kalpitaṃ pare // 1820Hemādri, Kaivalyadīpikā, pg. 268–69: nanu kiṃ ratyeti cet tatrāha, tasminn iti / tasmin śrīkṛṣṇe priyaśravasi / askhalitā matiḥ niḥsaṃśayaṃ jñānaṃ / yatraiva ratis tatraiva matir ity arthaḥ / yayā matyā sadasat sthūlasūkṣmaṃ rūpadvayaṃ / mamaiva māyayā mayy eva brahmarūpe kalpitam āropitaṃ rajjubhujaṅgavat / paśye adyāpi paśyāmi / etad idam iti padadvayena yathānyatra satyo bhujaṅgo rajjvām āropito na tathā ’nyatra satyaṃ rūpadvayaṃ brahmaṇy āropitam / kiṃtv idam eva ity uktam / anirvācyam ity arthaḥ // 
-1944 
-enjoyment of bhakti (bhaktisukhe) there is not an absence of the ease distinctive to liberation 
-(bhaktisukhe muktisukhābhāvo nāsti), and for this reason the enjoyment that pertains to bhakti 
-is better and more complete.1821 Elsewhere in the vīrarasa section, to which we turn at the 
-closure, Hemādri further refines his presentation of the nascent doctrinal formulation in the 
-context of attempting to “resolve” apparent contradictions within a standard list of epithets that 
-the Bhāgavata applies to the supreme reality. 
-I go to you who is without quality (nirguṇa). Why? Because you are stainless (nirañjana). The collyrium that covers and obscures the primordial radiance (prakāśāvaraṇaṃ) is called māyā. But possessing qualities (saguṇa) is due to the conjunction with māyā. And [yet,] you are non-dual. For, if there is a conjunction with māyā, would this not be tantamount to the fact of possessing duality? How is it the case then, that you are nondual? It is because you consist of jñapti (consciousness) alone. The sense is, because you are inexplicable, [at least in terms] based on the categories of existing and non-existing on the part of māyā.1822 
-What is interesting for our purposes here, and historically quite telling, is the taxonomic 
-mismatch between the “doctrinal” position we see being presented here, which we would likely 
-be inclined to label philosophically as some sort of bhedābheda position, and Hemādri’s own 
-self-representation as the master and promoter of what he is labelling advaitavāda paired with 
-the absence of the sort of advaitakhaṇḍana one will find in similar venues once we reach early 
-modernity. One thing this shows us is that even at the end of thirteenth century, the canon of a 
-normative “nondual” “Vedāntic” mainstream, this touchpoint to which modern essentializing 
-1821Hemādri, Kaivalyadīpikā, pg. 301: sa uttamaślokamahanmukhacyuto / bhavatpadāmbhojasudhākaṇānilaḥ / smṛtiṃ punar vismṛtatattvavartmanāṃ / kuyogināṃ no vitaraty alaṃ varaiḥ // H: muktisukhe bhaktisukhābhāvavat bhaktisukhe muktisukhābhāvo nāstīty āha—sa uttameti / sudhākaṇānāṃ amṛtabindūnām anilo dūrād api śravaṇam ity arthaḥ / 1822Hemādri, Kaivalyadīpikā, 310–11: tasmād visṛjyāśiṣa īśa sarvato rajas-tamaḥ-sattva-guṇānubandhanāḥ / nirañjanaṃ nirguṇam advayaṃ paraṃ tvāṃ jñaptimātraṃ puruṣaṃ vrajāmy aham // tad evaṃ saprabhedaṃ vīrarasaṃ nirūpya tadbhaṅgyā bhaktirasānubhavituḥ phalasambandhaṃ darśayann upasaṃharati—tasmād iti / tasmād varāṇām anartharūpatvāt / āśiṣaḥ āśāsyamānāni phalāni / sarvaśaḥ lokatrayavartinīr api / nirguṇaṃ tvāṃ vrajāmi / nirguṇaḥ kutaḥ, yato nirañjanaḥ / añjanaṃ prakāśāvaraṇaṃ māyākhyam / saguṇo hi māyāsambandhāt / ato ‘dvayaḥ / māyāsambandhe hi sati dvitīyatvaṃ syāt, kuto ’dvayaḥ? yato jñaptimātraḥ / māyāyāḥ sattāsattābhyām anirvācyatvād ity arthaḥ../ 
-1945 
-scholarship reaches for as indexical of Indian religions, at least in the Deccan, has yet to 
-emerge. It speaks volumes that this intervention, totally counterintuitive to us, is not merely 
-explicitly shared by two of the three authors we have just engaged with but proves the 
-conceptual fulcrum that is itself used to position their theological projects in relation to those 
-of their rivals and dialogical partners. Finally, we must consider the fact that in Hemādri, this 
-conception persists and perhaps becomes of heightened pertinence at the very same time that 
-he is sidelining the social form—reciprocal exchange with an authority-patron where one acts 
-by granting favor below oneself on the social scale and as supplicant to the authority that 
-presides over one’s main sphere of activity, and the social agent, the guru as life provider—to 
-which such philosophical positions had hitherto been so closely wedded. 
-Unlike other theological communities that seek to strictly delimit the scope of activity 
-for charismatic religious authority as embodied in particularized living exemplars of tradition, 
-Hemādri’s aim is not to eliminate such figures entirely, or to place them as a distant ideal 
-whose sphere of influence lies outside of transactional social realities. Instead, he seeks to 
-reinscribe living virtuosos, the jīvanmuktas or future videhamuktas, not as sources of religious 
-knowledge, “Brāhmaṇical authorities” as we typically imagine them, but rather as zealous 
-promoters, defenders, and evokers of the fixed entextualized dharmas instantiated in works 
-like the Kaivalyadīpikā and Caturvargacintāmaṇi, who through fulfilling that role 
-automatically have their minds cleared of wrong understanding. Seemingly in tension with the 
-other features that he assigns to this domain, Hemādri asserts that the vīra is the flavor of bhakti 
-rasa where sattva is the predominant mode (sattvapradhānam), and thus the most identified 
-with “purity.” In other words, vīrarasa is the best form of bhakti rasa and the vīrabhakta is the 
-1946 
-most exalted among the bhaktas.1823 Hemādri suggests that there are in fact three main types 
-of vīra bhaktas, in ascending order of virtue.1824 First, there is the yuddhavīra, who obliterates 
-the enemies of the Bhāgavatas. Then, there is the dānavīra, exemplified by Dadhīci who gave 
-others his own bones, who expresses his heroism through his self-sacrifice and generosity in 
-support of the cause of Bhāgavata dharma. This can take the form of either concrete material 
-contributions or acts of “philanthropy.” The second category, Hemādri suggest, should be 
-substituted in place of the usual presentation of the dayāvīra, the compassionate hero whose 
-presence in the literary canon is typically identified as confined to a few Buddhist plays. 
-Indeed, the dāna hero role is itself expanded to include those “offerings” of the heads and 
-bodies of enemies that the warrior oblates into the fire that is the field of battle. Finally, best 
-of all, there is the dharmavīra, one whose contributions is the upholding and instantiation of 
-dharma itself, a role that finds its perfection in the figure of the niṣkāmadharmavīra, the best 
-among the bhaktas. 
-Needless to say, the more one delves into the particulars surrounding this vision of 
-religious excellence, of exemplifying purity in thought, word, and deed and being untouched 
-by the workings of prakṛti and the guṇas, the more what one finds seems at odds with most 
-traditional “Brāhmaṇical” valuations. Hemādri begins by telling us that the lasting emotional 
-mode (sthāyibhāva) of vīrarasa, which serves as the upāya and point of entry into the nature 
-of Kṛṣṇa for the devotee, is exertion or might (utsāha); no problem so far. It is when we get to 
-the vibhāvas particular to this rasa, which complement the more general illuminator vibhāvas, 
-1823Hemādri, Kaivalyadīpikā, pg. 297: evaṃ hāsyādibhaṅgibhinnabhaktirasānubhavāvacchedād aṣṭau bhaktān abhidhāya samprati navamaṃ bhaktam abhidhātum utsāhasthāyinaṃ pratināyakavartinayavinayāsammohā- dhyavasāya-balaśaktipratāpaprabhāvavikramādhikṣepādivibhāvaṃ sthairyadhariyagāmbhīryatyāgavaiśāra- dyādyanubhāvaṃ dhṛtismṛtyaugragarvāmarṣamatyāvegaharṣādisañcāriṇaṃ mahendradaivataṃ gauradehaṃ sattvapradhānaṃ vīrarasam ārabhate—vīreti / 1824Hemādri, Kaivalyadīpikā, pg. 297: sa ca vīras trividho yuddha-dāna-dharma-bhedāt / 
-1947such acts as listening to the tales of Viṣṇu and his devotees held in common by all bhaktas, 
-that we confront an array of key dimensions of the heroic bhakta that rest uneasily both with 
-classical South Asian visions of the religious virtuoso and most modern moralities. One would 
-not expect a jīvanmukta who is defined not only by his valor above and beyond the call of duty 
-(vikrama) but also by his commanding (prabhāva), even, “contemptuous” nature (adhikṣepa). 
-Similarly, a man typified by his fierce and diverse sources of power and rectitude in 
-comportment and self-presentation might perhaps seem an ideal to follow into battle, but 
-usually this is not the same person who exemplifies to us conclusive discernment over what 
-constitutes worldly delusion (āsammohādhyavasāya), a strange compound that in Hemādri’s 
-repeated usage gets directly conflated both with developing absolute certainty in doctrinal 
-terms and even with being a knower of brahman (brahmavit). Nor do we expect the passing 
-moods of the most perfectly sattvic virtuoso to include his tendencies towards excitation 
-(harṣa), even tempestuousness (āvega), or towards ferocity (augra), or his impatience for 
-arrogance (garvāmarṣa). The list of anubhāvas, incorporating sthairya, dhairya, and śaurya in 
-sequence, the very same traits that long ago we saw being ascribed to our Śākta-Śaiva Śūdra 
-big man Habbĕya Nāyaka, seem more like expressions of machismo charged with the fervor 
-but also the fundamental instability to which rājasic beings are inclined, than they do the 
-qualities of someone who has perfectly realized brahman. 
-Hemādri seems to be asserting that to really understand Advaita in its highest forms 
-requires aptitudes of the sort we assign not to scholars, but seasoned warriors, who rush into 
-the heat of battle zealously engaged with the task at hand but utterly detached from the wider 
-strategic program of the war or its long-term tactical objectives for the kingdom. A person who 
-acts in this manner, never losing focus of Kṛṣṇa, engages in ahaitukī bhakti and through it 
-1948 
-becomes transformed into the niṣkāmadharmavīra. As Hemādri explains, it is precisely this 
-kind of wild machismo that distinguishes this best of bhaktas from the inadequacy of the 
-merely serene bhakti of the śāntabhakta. 
-Thus, having presented the dānavīra, by showing the typology of the dharmavīra sequentially, he exemplifies the niṣkāmadharmavīra in fifteen verses because of its preeminence [as a category]. . . . By these two words [in our verse,] “asaṅgo” and “vilajja,” he expresses that a certain amount of loftiness (audārya) is mentioned as contained within his thought insofar as he has contempt for the world. And by that is understood a vigor that has as its nature not being a eunuch/a non-lack of virility (aklaibya). This itself is its [niṣkāmadharmavīrarasa’s] point of differentiation from śāntarasa. For, in śāntarasa, there is not complete turning away [from the things of this world] due to shame (lajjā) and so forth. But the dharma[vīra], however, has the form of the absorption in the life and so forth of Bhagavān.1825 
-Using a language that is unmistakably, even prototypically gendered, Hemādri 
-homologizes the ethos of śāntarasa with that of a demure blushing young woman through 
-invoking the poetic trope of lajjā. The śāntarasa bhakta reacts to “her” love interest, who in 
-this case is Bhagavān himself, by displaying the coy embarrassed behavior of a virgin for 
-whom acting on desires is an alien experience. This weakness is then contrasted with the 
-literally unneutered (aklaibya) virility of the niṣkāmadharmavīra, who above all is else is a 
-“real” man, who knows what he wants—again, Bhagavān—and goes after it. Needless to say, 
-our source in the Bhāgavata, which once again is the teaching of the navayogins, knows 
-nothing of this peculiar dichotomy. In the text, we are just about to be introduced to the 
-characteristics of the “best of the Bhāgavata adepts,” the bhāgavatottama, who will quite 
-literally be defined as the serene one (śānta) who has equanimity towards all beings 
-1825Hemādri, Kaivalyadīpikā, pg. 304–305: śṛṇvan subhadrāṇi rathāṅgapāṇer janmāni karmāṇi ca yāni loke / gītāni nāmāni tadarthakāni gāyan vilajjo vicared asaṅgaḥ // evaṃ dānavīraṃ darśayitvā kramaprāptaṃ dharmavīraṃ darśayann abhyarhitatvān niṣkāmadharmavīram eva pañcadaśabhiḥ padyair udāharati. . . . asaṅgo vilajja ity ābhyāṃ lokāpagaṇanayā cittagataṃ kim apy audāryam uktam / tena cāklaibyātmaka utsāho ’vagamyate / ayam evāsya śāntād bhedaḥ / śānte hi nātyantaṃ lajjādes tiraskāraḥ / dharmas tu bhagavajjanmādyanusandhānarūpaḥ // 
-1949 
-(sarvabhūtasamaḥ), which is to say, a dead ringer for the serene bhakta of the Ālaṃkārikas. 
-In a considerable departure from Hemādri’s representation of the niṣkāmadharmavīra as above 
-all else one who revels in judging and then dispatching those who push back against the 
-dharma, the Bhāgavata here teaches that the best of bhaktas is one who not only displays love 
-towards God (īśvare prema), but also brotherhood towards those who are dependent upon him 
-(tadadhīneṣu maitrī) and even indifference towards his enemies (dviṣatsu upekṣā). Such a 
-person, who is neither attached to his birth status, his varṇa and āśrama, his body, nor even 
-his own deeds, and who has transcended grasping after notions of I and mine, so the Bhāgavata 
-tells us, reflects not the heat of the sun, but the coolness of the moon. His ecstatically effusive 
-loving devotion (parapremabhakti), which for the root text is the highest expression that 
-devotion can assume, spontaneously gushes forth from this place of inner repose and serenity, 
-most often taking the form of song, dance, and cries of joy. Indeed, the coming chapters in this 
-division of the text contain some of the most iconic expressions of these values in the whole 
-of the Bhāgavata. The root text’s theological formulation, however, which takes loving affect 
-solely as an attribute of the best kind of bhakta, is incompatible with Hemādri’s theoretical 
-framework, which has already presented these features as the defining baseline feature of most 
-forms of engagement with God across the rasa spectrum that is refined to the point that it 
-becomes charged with prema. How, then, is the jīvanmukta to be distinguished from the less 
-illustrious adepts who aspire to keep his company? Hemādri’s solution, such as it is, involves 
-a repurposing and reinscription of a very old ideal. As the Bhāgavata proclaims: 
-The one who has made this his observance (vrata), on whose part anurāga has arisen (jātānurāga) through singing the name of his beloved aloud with a mind dissolved [in Bhagavān]— He laughs (hasati) loudly. He weeps (rodati). He howls (rauti). He sings 
-1950 
-(gāyati). He dances (nṛtyati). As if he is mad (unmādavat), he is outside the world (lokabāhya).1826 
-Down to the level of word choice, the ethos invoked here is none other than that of the 
-Pāñcārthika Pāśupatas, the earliest of the recoverable social agents who populated the Śaiva 
-Age. It is perhaps no accident that this is also quite plausibly the religious community into 
-which Hemādri’s own father, under the name Prajñārāśi, integrated himself in his final, and 
-from his son’s perspective, futile, years. As you may recall from the first chapter, writing in 
-the fifth century CE, Kauṇḍinya had instructed that at the beginning of a Pāśupata sādhanā, 
-when the adept is dwelling perhaps in an old temple, the adept is to laugh, to sing in both 
-Sanskrit and Prakrit (either traditional or his own composition), dance, and shout out (albeit 
-the iconic Pāśupata ḍuṃḍuṃkāra noise). While in Kauṇḍinya, the connections of these 
-practices with the theology of an exclusive bhakti, where one cultivates a focus on the Lord at 
-the expense of all other things, which he is the first to articulate within the idiom of śāstra, is 
-merely implicit, in the later commentarial tradition exemplified by the tenth-century 
-Bhāsarvajña in his Gaṇakārikā, this array practices is explicitly treated as inextricable from 
-the supreme bhakti.1827 
-1826Hemādri, Kaivalyadīpikā, pg. 305: evaṃvrataḥ svapriyanāmakīrtyā jātānurāgo drutacitta uccaiḥ / hasaty atho roditi rauti gāyaty unmādavan nṛtyati lokabāhyaḥ // 20 // 1827C. D. Dalal, ed., Gaṇakārikā of Ācārya Bhāsarvajña (with Four Appendices Including the Kāravaṇa- māhātmya) (Baroda: Central Library, 1920). Gaṇakārikā 1.7.37–49: evaṃ snānaṃ nirvartya japann evāyatanaṃ gatvā śivaṃ bhaktyatiśayena praṇamya snānaṃ nivedya ca śanair garbhagṛhaṃ praviśet // tadanu mūrtidakṣiṇe bhūdeśe jānunī pātayitvā hṛdi cāñjaliṃ baddhvā mūrtisthaṃ sākṣād iva śivaṃ paśyan yady anivṛttapratyāhāras tadā gatamātra eva hasitaṃ kuryād ity eke // vayaṃ tu paśyāmo ‘bhigamya ca yatpūrvaṃ japatītyādi bhāṣyasyārtho yadi vicāryate tadāvaśyaṃ gatvā saṃyatātmanottarābhimukhena pratyāhāraviśeṣārthaṃ japtavyaṃ japtvā tu śivadhyānāsakta evāṭṭahāsaṃ punaḥ punaḥ kuryāt // tadanu gītam ārabhya gāyann evottiṣṭhet // tato gītasahitam eva nṛtyaṃ kuryāt // tatrādau gītaṃ parisamāpya paścān nṛtyaṃ samāpayet // tadanu pūrvoktavidhinopaviśya śivaṃ dhyāyann eva huḍukkāraṃ kṛtvā namaskāraṃ kuryāt tadanu japam iti // atra japanamaskārau mānasāv eva nṛtyaṃ kāyikam eva hasitagītahuḍukkārā vācikā eveti niyama iṣṭaḥ // tatra dīrghocchvāsatrayaṃ yāvaddhasitaṃ daṇḍakatrirāvartanaṃ yāvadgītanṛtye gambhīrahuḍukkāratrayaṃ ṣaṣṭi namaskārān pañcapavitrāṇāṃ trirāvartanaṃ kuryād ity āha bhagavān ācāryaḥ svāmī mama yenāham ajñānārṇavād uttāritaḥ // ṭīkākārās tu sarvam ā paritoṣāt kartavyam ity evaṃ pratipannāḥ // tad evaṃ nirvartyopahāraṃ dhyāyann īśaṃ hasitagītanṛtyahuḍukkāranamaskārajapyaiḥ ṣaḍaṅgopahāraṃ bhagavan mahādeva yuṣmadanujñayā nirvartitavān aham avabhṛthasnānaṃ ca kariṣyāmīty evaṃ nivedayet // tato niṣkramyeśaṃ praṇamya 
-1951 
-And if these practices are quintessential reflections of how worship was to be conducted 
-as the Śaiva Age began, our verse’s vision of the behavior and existential status ascribed to the 
-jīvanmukta is again a dead ringer for the originary ethos that defined the Atimārga. Just as the 
-atyāśramin vratin of the Pāśupatas and lokātītavratin of the Lākulas, the best of Bhāgavatas, 
-like a madman (unmādavat), is seen as standing outside of the world and its norms. To know 
-God completely, in other words, one must be lokabāhya. A surprisingly uncommon compound 
-across Sanskrit discourses, in Hemādri’s day, this term seems have carried with it two 
-competing connotations. On the one hand, it is the calling card of the highest kind of 
-renunciate, the paramahaṃsa. At the same time, more colloquially, especially in poetry, the 
-term can also allude to more pedestrian, beyond the pale comportment, especially behavior so 
-laden with tamas that it calls for outcasting. 
-In the presentation that all but concludes the Kaivalyadīpikā, the verse we are exploring 
-anchors our author’s articulation of this imagined extra-textual notion of the 
-niṣkāmadharmavīra. For, even though, ostensibly, according to our author, the concept of the 
-dharmic vīra who acts without desire is to be fleshed out through the presentation of fourteen 
-additional verses compiled from the Bhāgavata, in actuality, a plurality of the verses in 
-question simply offer generic praśasti to the virtues of chanting Viṣṇu’s names and of seeing 
-his presence as eminent in the world, but otherwise have little specific semantic content. In 
-situ, these passages, which are primarily found scattered throughout praise hymns embedded 
-in the Bhāgavata, have no particularized conceptual or rhetorical connection to each other. Nor 
-are these texts aimed at exemplifying the top of the pecking order within a hierarchy of 
-praṇāmāntaṃ pradakṣiṇatrayaṃ japann eva śanaiḥ kuryāt // tato ‘vabhṛthasnānaṃ kṛtvā bhagavaṃl lakulīśādīn rāśīkarāntāṃś ca tīrthakarān anukrameṇa yathāvadbhaktyā namaskuryāt tadanu pradakṣiṇam ekam iti // 
-1952 
-devotees. As we have seen, even the run of verses celebrating the best of Bhāgavatas 
-(bhāgavattotama) in the root text is intent on exemplifying an eclectic and heterogenous 
-ideal—whose substance diverges from Hemādri’s desired norm—and not at delineating an 
-ideal type. In fact, most of the speakers of these verses are embedded in stories that are 
-singularly ill suited to illustrating the role of the jīvanmukta. Whether we are speaking of the 
-king of the elephants, who cries out to the Lord while the jaws of a crocodile close around his 
-leg, sheds his body, and then is instantly reborn in Vaikuṇṭha, or sages such as Mucukunda and 
-Kardama, who for different reasons enter into states of suspended animation for ages awaiting 
-the chance for liberation at the hands of Viṣṇu, in almost every case, we are presented with 
-words spoken by characters who are conspicuously liberated at the end of their lives and make 
-no further interventions in the wide world after achieving gnosis. 
-These choices are all the more peculiar in light of the fact that the Bhāgavata, while 
-never using the term “jīvanmukti” itself, contains many examples of bhaktas who in the later 
-reception histories of the text would come to be identified as liberated beings who continue to 
-act in the world. And yet, almost as if the forms of action they exemplify are themselves 
-suspect, each of these figures is conspicuously demoted in the Muktāphala to merely 
-representing a paragon of the highest forms of vidhi governed bhakti. This leaves our author 
-with a rhetorical problem, for we are left with a jīvanmukta who neither sought after liberation 
-to the exclusion of all other things, nor acts, as his Kaula antecedents had, as a special vehicle 
-for the bestowal of grace. Our jīvanmukta is not supposed to serve as a teacher, yet at the same 
-time, he is not supposed to disappear off into a cave or the remote wilderness. He is not a wish- 
-fulfilling tree nor is he an irascible miracle worker. With all the good jobs and other usual gigs 
-1953 
-assigned to saints taken, just what does this jīvanmukta do with his time while he remains in 
-the world? Hemādri’s answer is as follows: 
-H: [Now] he states the anubhāvas of the vīra in whom dharma has manifested by saying. . . . One’s own beloved (svapriyā) means Viṣṇu. The one whose citta is flowing (drutacitta) mean wet with bhaktirasa. Seeing that the one without desire appears unimpacted by the creation of the world and so forth, on the part of the one who is without desire [the niṣkāmadharmavīra], [he] laughs, cries, and releases tears from bliss. 
-He “gives a discourse” (rauti) means he engages in an assembly thinking, “it is as if he is seated before the Lord.” Out of possession from bhakti, he sings. He dances, thinking, “I have crossed over the ocean of existence.” So, is that for the sake of explication as in the case of an actor? No, it is as if he is intoxicated. The sense is he is drunk. There is an “añc” suffix in the sense of ādi [meaning he is drunk and possesses other traits]. By the phrase “outside the world” (lokabāhya) is articulated the fact that he is free from attachments and so forth [and not that he is engaging in deviant behavior].1828 
-Building upon a strictly Pāśupata foundation, through exegetical sleight of hand, as an 
-alternative to the Pāśupata ideal of the howler in the wilderness, Hemādri offers us a portrait 
-of the liberated bhakta as an almost pedestrian figure whose mind is forever occupied with 
-Vedānta principles and whose singular feature is his propensity for singing god’s name. What 
-stimulates the jīvanmukta to laugh, cry, and release tears from bliss is the mastery of the third 
-of the Brahmasūtras, which makes evident the irrelevance or unreality of the creation of the 
-world. Instead of roaring (rauti, derived from the very verbal root from which we get the name 
-Rudra), this jīvanmukta gives a discourse in the sabhā, perhaps even acting as a Dharmaśāstrin 
-handing down a judgment, while all the while keeping Viṣṇu in mind. As Hemādri pointedly 
-observes, this bhakta’s exuberance serves no pedagogical function and certainly should not be 
-taken as a guide for the behavior of others. Like with all religiosities not guided by injunction, 
-1828Hemādri, Kaivalyadīpikā, 305: āvirbhūtadharmavīrarasasyānubhāvān āha—evam iti / svapriyo viṣṇuḥ / drutaṃ bhaktirasena klinnam / nirīhasya jagajjananādyabhimānam iva paśyan hasati rodity ānandāśrūṇi muñcati / rautīti bhagavantaṃ puraḥsthitām iva manyamāno goṣṭhīṃ kurute / bhaktyāveśād gāyati, uttīrṇo ’smi bhavāmbudhim iti nṛtyati / tat kiṃ naṭavat khyāpanāya? nety āha—unmādavad iti / unmāda ity arśa- ādyacpratyayaḥ / lokabāhya ity anenāsaṅgāditvam uktam // 
-1954 
-his exuberance is mere accident and serves no further purpose, human or divine. For all his 
-oddities as well as his apparent utter powerlessness for substantively altering the course of 
-worldly events, even in microcosm, however, the niṣkāmadharmavīra is very much a creature 
-of this world. In the crowd but not of it, he seeks to help implement and defend a regime of 
-sanātanadharmas that is at once “eternal” and the product of a religious reformation particular 
-to thirteenth-century Maharashtra. Whereas the Pāśupatas had decried as antithetical to god’s 
-own values the unending transactionality that defines the human condition and that is 
-inseparable from harm to self and other, and their successors in the Śaiva Age had sought to 
-actualize a special dispensation that embedded its adherents for all time in another order of 
-value, as the Śaiva Age is brought to an end, the best of bhaktas becomes a vehicle for making 
-it evident that there is no way to be “outside of the world” just as we found it, for the universal 
-dharma is ever present, in word as well as in deed. 
-1955 
+as the realization of the *mahāvākya neti neti*. Such realization is itself [[P1868]] entangled with the process of recognizing, unravelling, and then ridding oneself of past *karmic* traces that condition and shape one’s actions and responses as a limited agent.
+
+[^1866_1699]: Tapasyananda, for example, gives these verses, 2.15–21, the subheading “how a *yogī* passes away.”
+
+If this discourse, in no way evident in the *Bhāgavata* passages under discussion themselves, is profoundly influenced by yogic logics of *askesis*, especially derived from the more overtly theistic take on Pātañjalian *yoga* that will animate the next four chapters of the *Muktāphala*, it is even more indebted to that most unlikely of sources—given its author’s personal history—namely, the Krama-tinged milieu that produced the Trika exegetes. It is hard to read Hemādri’s discourse on experience, *anubhava*, especially the experience of bliss, as conventionally subdivided into the triads of experiencer, experience, and thing to be experienced, and action, action, and the recipient of the action, as distinctions that at once make possible experience itself, but which ultimately resolve into the truth of the non-difference of experience, experiencer, and object of experience, and not see standing behind him the ghosts of Somānanda and Utpaladeva. [^1868_1700] Such an anxiety of influence, which seeks to occlude one’s debt to an inconvenient predecessor, becomes all the more relevant when we turn to the passage that follows, for here, one realizes that the “higher” order of experience our author is going to privilege—recognizing that the triad of agent, action, and recipient of action is what makes the genuine good that is experience possible but also that this dynamic is itself ultimately dependent on the projection of an epiphenomenal division in what is in fact unity—is in all but name the Parama Advaita of the high Kaulas.
+
+[^1868_1700]: We seem to be dealing with a Śākta epistemology here that, though arriving a similar conclusion, precedes the more familiar formalized articulation of Pratyabhijñā terminology. On Somānanda in general, see John Nemec, “The Evidence for Somānanda's Pantheism,” *Journal of Indian Philosophy* 42, no. 1 (2014): 99–114, and John Nemec, *The Ubiquitous Siva: Somananda's Sivadrsti and His Philosophical Interlocutors*, 2 vols. (New York: Oxford University Press, 2011, 2021).
+
+[[P1869]]
+
+> “Thus, the sage, having obtained that state, should cease all action, he of whom the mind is disciplined by the power of the direct apperception of consciousness” [Translated following Hemādri’s interpretation].
+>
+> Thus, having stated this twofold definition, here he refers to the eligible person by stating “*ittham*” and so forth. Having obtained that condition of stasis, in this manner, the sage who has separated himself [from the objects of the senses?] should cease— which means he should not do anything. He is one by whom the *āśaya*—which is the *upādhi* that governs being a soul—is thoroughly destroyed—in other words, it is struck at in such a way so that it does not again rise up, by means of the virility (*vīrya*), in other words, the power (*bāla*) of the direct apperception that sees Viṣṇu as having the form of pure consciousness. This is the meaning.
+>
+> Through the power of the sequence of *upāsanās* of different levels, which will be explained later on, having obtained the *anyathākhyāti* cognition [the assertion that a cognition is not as it appears to me] [^1869_1701] regarding the true person [i.e., Kṛṣṇa], he is desirous of obstructing even that cognition, which has as its goal *sāyujya*. Thus, having obtained this state, a sage is eligible with regard to this [practice], and not anyone else. [^1870_1702]
+
+[^1869_1701]: For more detail on the nature of this technical process, see the following paragraph.
+[^1870_1702]: Hemādri, *Kaivalyadīpikā*, pg. 12–13 : *itthaṃ munis tūparamed vyavasthito vijñānadṛgvīryasurandhitāśayaḥ // evam asya dvividhaṃ lakṣaṇam uktvā’trādhikāriṇam āha ittham iti / itthaṃ vyavasthitaḥ anena prakāreṇa vyasthām āpanno munir uparamed na kiṃcit kuryāt / yato vijñānasya viśuddhajñānarūpasya viṣṇor dṛgdarśanaṃ sākṣātkāraḥ / tasya vīryaṃ balaṃ tena surandhito yathā punar nodeti tathā hiṃsita āśayo jīvatvopādhir yena sa tathā / ayam arthaḥ / vakṣyamāṇabhūmikopāsanākramabalāt sattvapuruṣānyathākhyātim āpann*[a]*s tāṃ api sāyujyārthīṃ niroddhukāma ityetām avasthām āpanno munir atrādhikriyate nānyaḥ* /
+
+Here, reading against the grain of his sources, Hemādri introduces yet another dichotomy. On the one hand, we have the sage who annihilates the *upādhi* of being a limited soul by means of the power of [*mantra*]*vīrya*, which enables direct cognition of the Viṣṇu without form who is made of pure consciousness. Much as we find in both classical scholastic Vedānta as well as in the Vedānta taught by Lakṣmīdhara, he arrives at this state through a sequence of *upāsanās* (each taking a different object of contemplation or *mahāvākya*) that culminates in the cognition of *anyathākhyāti*. This is where the previous act of mistaking a wrong cognition for accurate knowledge is itself negated, resulting in the revealing of a correct cognition, as when something assumed to be silver is revealed to not be silver, which, when we rule out other possibilities, causes us to know that it is really mother of pearl. In this case, [[P1870]] the sage ceases to have an erroneous cognition of the absence of Kṛṣṇa, revealing his all- pervading presence as pure consciousness. From Hemādri’s perspective, the result of this kind of Advaita Vedānta inspired realization is *sāyujya*, complete non-difference with the supreme reality. The problem with this admittedly very high level of realization is that, as in the canonical case of *anyathākhyāti* presented above, the recognition of the all-pervasiveness of consciousness requires the destruction or suppression of the cognition of silver, a wrong cognition to which the sage no longer has access. As in the processual ontologies of the Kālī Krama, a Parama Advaita tradition with a highly refined sense of epistemology, the suppression of the possibility of erroneous cognitions even in a state of apparent liberation is by definition deemed less complete and perfect than unity with the supreme reality that retains the possibility of perceiving the world not just “as it is” but also “as it appears” to others. [^1870_1703]
+
+[^1870_1703]: Though the locus classicus for the articulation of this process theology is typically taken to be *Tantrāloka* chapter 3, these ideas already seem to be present not only in the Krama revelations specific to Kashmir, but in scriptural sources such as the *Devīpañcaśatikā*, which the Krama *siddha* Govindarāja supposedly imparted to Somānanda while he was dying. See for example, Aleksandra Wenta, “The Twelve Kālīs and Utpaladeva’s Appraisal of the Sensory Experience,” in *Utpaladeva, Philosopher of Recognition*, ed. Rafaelle Torella and Bettina Bäumer (Shimla: Indian Institute of Advanced Study, 2016), 350–67.
+
+In essence, what we have here is a strategy that treats what historically were viewed of as discrete schools of thought as sub-modalities within consciousness and then subordinately incorporates them in ranked hierarchical order where they are treated as modalities appropriate for specific types of social agents. Within this array, even the different analytical techniques within classical Advaita Vedānta itself are reimagined not as aspects of a unitary knowledge system, but discrete cosmogonic processes that can be accessed and employed by the appropriate type of ritual actor. [[P1871]]
+
+Though no longer inseparable from seeing reality “just as it is,” Vedānta derived technologies like *anyathākhyāti* cognition are situated near the top of the food chain. Lower down the strata of modes of praxis, for example, is the form of emulating the lord signified by “*anusṛta*,” offered in this case to the form of god called Nārāyaṇa, which in Hemādri’s interpretation refers to a “fixed concentration on the relation of master to his property as the [governing relationship] between the Lord and *ātman*.” [^1872_1704] While the terms of art in this formulation resembles the *svasvāmisambandha* theory of *bhakti* of Kauṇḍinya, in its actual construal, the concept at work is more in alignment with Śrīvaiṣṇava qualified non-dualistic theologies that speak of god as the *śeṣin* possessing the “fragment” that is the soul called *śeṣa*. Thus, in a manner that is utterly maddening to the modern historian of ideas, as one ascends the ladder of even more rarefied forms of *bhakti*, changes in praxis coincide with doctrinal reframings of the real “intended” meaning of the exact same superficially identical statements and images. This dynamic is most painfully evident in the multiplicity of deployments of the notion that there is an “image and reflection” relationship between Viṣṇu and the Self such that when the “self is pleased,” we are able to infer that Hari himself has been appeased. Essentially, on some level, the idea is that we recognize god through “emulating” him. The problem from the historian of ideas is that such “emulation” in the *Muktāphala* is a composite category inclusive of “pleasing god through pleasing the self,” bringing the stories of god’s *līlās* to the ear and mind through the act of *śravaṇa*, bringing the name of god into one’s body through the performance of *kīrtana*, ascending to the heaven to attend to god, becoming a Kṛṣṇa on earth, and becoming (or even recognizing one always was) non-different from god. Each mode of praxis is treated as the appropriate mode of “emulation” associated with a specific subtype of *bhakta*. In the highest form of praxis, “performative emulation,” now framed as “doing [[P1872]] *anuśīla*” occurs through affective experience. It is marked by the release of tears of joy, experiencing happiness, turning away from the world, and going to the supreme by “having directly experienced him.” [^1873_1705] Thus, at this lofty level, reframing once again the message of the *bimbapratibimbavāda*, we are told:
+
+[^1872_1704]: Hemādri, *Kaivalyadīpikā*, pg. 115: *tathāpi kiṃ viśiṣṭa-nistāra-buddhyārpayet? nety āha—anusṛta iti / ātmeśvarayoḥ sva-svāmi-bhāvānusandhānam anusaraṇaṃ parasmai bhagavadādirūpāya / itiśabdaḥ prakāre / tenedaṃ nārāyaṇāyety anena prakāreṇārpayet, nānyathety arthaḥ* /
+[^1873_1705]: Hemādri, *Kaivalyadīpikā*, pg. 119: *kvacid rudanty acyutacintayā kvacid dhasanti nandanti vadanty alaukikāḥ / nṛtyanti gāyanty anuśīlayanty ajaṃ bhavanti tūṣṇīṃ param etya nirvṛtāḥ //13 //* (BP 11.3.32). . . . *bhaktyeti bhakter aṅga-varga-bhajanam / tathā bhaktiḥ prema / utpannabhakteś cihnāny āha—bibhratīti / utpulakām udbhūtaromāñcām / kvacid iti rudanti ānandāśrūṇi vimuñcanti / nandanti sukham anubhavanti / alaukikāḥ lokavyāvṛttāḥ. . . . anuśīlayanti tallīlām abhinayanti / ataḥ paraṃ viṣṇum etya sākṣātkṛtya tūṣṇīṃ bhavanti / upaśāmyanti / yato nivṛtāḥ samāptaparamānandāḥ* //
+
+> The Lord who is self-fulfilled by his own inherent bliss does not solicit the worship of ignorant man for any purpose of his own. He accepts it only out of concern for the welfare of the worshipper. For, whatever offerings are made by people to the worshipful Lord return as blessings to themselves, just as the beauty that a face derives from adornments only goes to beautify its reflection in a mirror. [^1873_1706] [[P1873]]
+
+[^1873_1706]: *Bhāgavata Purāṇa* 7.9.11: *naivātmanaḥ prabhur ayaṃ nijalābhapūrṇo mānaṃ janādaviduṣaḥ karuṇo vṛṇīte / yad yaj jano bhagavate vidadhīta mānaṃ tac cātmane pratimukhasya yathā mukhaśrīḥ* // Trans. Swami Tapasyananda.
+
+Rather than attempting to pigeonhole each of Hemādri’s multitude of selective reframings of inherited Vaiṣṇava theologies and often almost tongue-in-cheek borrowings from the various learned traditions of scholastic dualistic, qualified, and non-dualist Vedāntic exegesis in Sanskrit, a task that would entail an enormous amount of time and labor while in most cases culminating in the programmatic recognition that with Hemādri, something borrowed and something old (with Kṛṣṇa as the something blue completing out the set) inevitably travels inseparable from something new, we are going to turn our attention instead to a very different and even more overlooked venue that speaks far more directly to the nuts and bolts of Hemādri’s intellectual project. For, notwithstanding that he is writing a commentary in Sanskrit that is on a Sanskrit text, while parallels between Hemādri and what survives from comparable learned Sanskrit discourses surface at best intermittently, in their [[P1874]] contents and structuring elements, the doctrines of the *Muktāphala* and *Kaivalyadīpikā* are entirely of a piece with the wider world of twelfth- and thirteenth-century old Marathi religious literature. As we are going to see, the correspondences are numerous, compelling, and involve formulations otherwise unknown to the classical tradition. Thus, for example, what we see in terms of ontology is the articulation of an increasingly materialist Vedānta that accounts for epistemological processes in substantive terms. Doxographically, at the same time, we find the accommodation of what are usually taken as competing Advaita Vedānta theories—such as the *vivartavāda* or *bimbapratibimbavāda*—which are suddenly taken to be mutually complementary models accounting for discrete epistemological processes, each seen as one facet of larger picture. In each work, an integral role is given over to the interpolation into Vedānta philosophy of a new supercessionary theology of affect. And finally, and most fundamentally, in all three cases, the conceptual glue that binds these concepts together, along with numerous terms of art, are unambiguously derived from Śākta sources. Succinctly, the recognition of the impact that these interlaced influences had upon Hemādri’s *bhaktiśāstra* provides us with the otherwise elusive interpretive context for placing his writings, while offering us a powerful corrective to normative Indological assumptions about the imagined mainstream of Indian philosophy and religion on the cusp of early modernity. With this background in mind, we will also become able to see how, with almost surgical precision, Hemādri inserts himself into ongoing Śākta-inflected arguments among his contemporaries and suppresses some of their more cherished understandings.
+
+## Devotional Advaita in Early Medieval Maharashtra and the Fate of the Vīra
+
+For the purposes of our comparison, we will examine in passing some striking commonalities between the working assumptions that animate Hemādri’s materialist, effusively devotional [[P1875]] theistic Vedānta and two in many ways very different old Marathi theological dispensations. First, very briefly, we will look at some of the teachings attributed to the living god Cakradhar of the Mahānubhāvika tradition as contained within the compilation of his statements called the *Sūtrapāṭha*, which was compiled by his followers shortly after his death. [^1875_1707] As Christian Novetzke has shown us, Cakradhar is remembered has having been persecuted (or even for some, executed) at Hemādri’s direction. [^1875_1708] In light of the politically problematic nature of the tradition from the perspective of the universalization of nascent “Hindu” *dharma*, it is thus all the more remarkable how many structural affinities and doctrinal points of overlap exist between the doctrinal presentations within the two value systems. Here, for example, is what Cakradhar teaches in the opening divisions of the work now called the *Sūtrapāṭha*. [^1875_1709]
+
+[^1875_1707]: Anne Feldhaus, *The Religious System of the Mahānubhāva Sect: The Manānubhāva Sūtrapāṭha* (Delhi: Manohar Publications, 1983).
+[^1875_1708]: On Cakradhar’s trial, see the account in Christian Novetzke, *The Quotidian Revolution: Vernacularization, Religion, and the Premodern Public Sphere in India* (New York: Columbia University Press, 2016), 317–31.
+[^1875_1709]: Though the analysis that follows relies upon the critical edition of Anne Feldhaus and at times draws upon her translations, its interpretation of the cosmology and theology being presented by Cakradhar diverges in significant ways from the one she has offered, especially in the interpretive portion of her introduction to the text (pg. 23– 68). With great erudition, Feldhaus draws upon an extensive and largely unpublished early modern Mahānubhāva commentarial tradition. Over time, these communities have come to read Cakradhar’s theology as offering a theistic dualism rooted in Sāṃkhya philosophy, where Parameśvara is superior to and distinct from his creation, that also draws eclectically on the language of Vedānta. At numerous points in her analysis, Feldhaus points to the divergence of opinion within the living traditions concerning such important elements of Cakradhar’s theology as whether the relationship between the elements the scripture labels Īśvara, *brahman*, and Parameśvara should be seen as synonymous or represent discrete realities, and how these entities relate to Kṛṣṇa, who is especially privileged by some Mahānubhāva sects. Feldhaus is also quite attentive to the imperfect correspondence of virtually any of these interpretations, especially in regard to the elevation of a canon of *avatāras*, with what we actually find written in the texts. When it comes to questions of cosmology and soteriology, however, though she is aware of numerous point disjuncture between our text and its presumed context among later interpreters, she accepts their basic construal of the cosmogonic fall from a state of perfect union, which commences when consciousness objectifies itself, mentally projecting out a multitiered universe from which it becomes progressively alienated, as necessarily corresponding to some kind of dualism, insomuch as it diverges radically from *vivartavāda* style Advaita Vedānta. Ever the attentive reader, Feldhaus appears keenly aware that she is missing a key part of the interpretive context for the work that would help to make sense of some of the more eccentric elements in Cakradhar’s system, such as the inexplicable role of a process called “*maiḷe*” or “staining” that, as one descends further and further into gross reality, generates a series of mysterious “stains,” called *malas*, both within the *jīva* and within the ontic planes, culminating in the production of the *aṇava male*. As the student of Tantric traditions may already be beginning to recognize, the missing background for understanding Cakradhar’s system is none other than the Śākta-Śaiva traditions that emerge out of the Krama and the Trika. As will be demonstrated below, when one takes into account these hitherto occluded dimensions of the text, the reader is led to conclude that the epistemology and soteriology at work here derives from Parama Advaita Kaula sources, while the ontology [[P1876]] presented has also been inflected by the just emerging *pañcīkaraṇa* tradition within Advaita Vedānta, which much like Hemādri’s own non-dualism, draws heavily on a theistic Sāṃkhya vocabulary akin to what we find in the *Bhagavad Gītā*.
+
+Within the world that is called *vīsvā* (M. *vīsvākṣaprapaṃcī* S. *viśvākhyaprapañce*) appearances appear to be made up of ontological entities that are both gross and subtle. [^1876_1710] Everything in the world is made up of the *pañcamahābhūtas* (*prapaṃcu paṃcabhutiku*) and these in turn are made up of the three *guṇas* (*trīguṇā ātmaku*). [^1876_1711] While some people say the world runs on *parīnāma* and others (cough, orthodox Vedāntins) on *vīvartu*, in actuality, the world—according to the Mahānubhāvikas—runs on its own free will (*svātaṃtru*). In Cakradhar’s compelling riff on a well-worn image, our experience of reality is best compared to an elephant inhabiting the city of the Gandharvas. [^1876_1712] Material reality is transitory (*vībhacāryā*, S. *vyābhicarin*). [^1876_1713] External reality is also a direct macrocosmic presentation of the processes and principles within the human body that are governed by the same standards at different scales of operation (*je māna brahmāṃḍīṃ teṃci pīṃḍīṃ*). [^1876_1714] This extends to the gods, who are present in both in the universe as having *mūrtās* or *ākārus* and in the body, where they reside in our physical substances such as fat, but also as the forces that govern our faculties, such as the *mana, budhi, cīta, ahaṃkāra*, and what in Sanskrit would be called the *karmendriyas*. [^1876_1715] All of these functions, the gods, the body, and material reality in which they are contained are composed ultimately of consciousness (*caitanya*). [^1876_1716] Consciousness in this system in turn is the first hypostasis of the penultimate [[P1877]] supreme reality, which is made up of *sat-cit-ānanda*, corresponding to *brahman-māyā- īśvara*. [^1877_1717] While as in many Vedāntas, this three-in-one *brahman* (confusingly the word *brahman* is used synecdochally to refer to the whole set but also as its first component element) is inert. “Creation” is precipitated by the emergence of consciousness, which causes *cit* to break off from *ānanda*. [^1877_1718] This occurs when the supreme reality mistakenly identifies itself with only being the part of itself that will become the universe through making the statement “I am the *visva*.” [^1877_1719] This same process also generates the *jīvu* which, when it witnesses *caitanya*, acquires the originary ontic stance (*male*, S. *mala* or even *aṇava mala*) of ignorance (M. *avīdyu*). [^1877_1720] The *jīvus*, then, through the power of their own minds, create the world of experience. Both of these processes are made possible by the deployment of the cycles of *śaktis*. As the *śaktis* set about their work, *mahāmāyā* or *parā śakti* “appears” to become inert *prakṛti* and *brahman* becomes Īśvara, abiding in a state called *kaivalya*. [^1877_1721] The modes of [[P1878]] worship that address such provisional realities are governed by injunctions. [^1878_1722] Those modes of worship, including the mode of worship conducted with *bhāo* (S. *bhāva*), a term that here also refers to the “lower *bhakti*,” enable one to acquire the *vīdyā* and attain the heaven of various demiurgic beings, up to *sāyujya* with the isolated lord. What they do not make possible is true liberation.
+
+[^1876_1710]: Cakradhar, *Sūtrapāṭha* 10.57.
+[^1876_1711]: Cakradhar, *Sūtrapāṭha* 10.59.
+[^1876_1712]: Cakradhar, *Sūtrapāṭha* 10.60.
+[^1876_1713]: Cakradhar, *Sūtrapāṭha* 10.53.
+[^1876_1714]: Cakradhar, *Sūtrapāṭha* 10.64.
+[^1876_1715]: Cakradhar, *Sūtrapāṭha* 10.55–60.
+[^1876_1716]: *Caitanya* is first introduced to us in division one of the *Sūtrapāṭha*. This teaches that Parameśvara is not reducible to each of the ontic reality levels and their governing agents, which are presented to us in the reverse of their order of emanation. *Caitanya*, here, is introduced as the penultimate elements, above which is Parameśvara himself, who assuming the form of Cakradhar has come into being to uplift the souls of the *jīvas*. Later sections of the text, beginning with 5, will clarify that from *caitanya* down to the earth level (*caitanya mūrtikā*[emd. *mṛttikā*]*paryanta*) is governed by an original ontic stain (*maiḷe*) and that the same dynamic is reflected within the *jīva* (*caitaṇyāṃsarve jīu mṛtikā paryanta maiḷe*). Divisions 5, 10, and 11 are particularly rich resources for excavating the Mahānubhāvika notion of *caitanya*, which diverges in important ways from Trika notions. Thus, for example, while *caitanya* is identical with the nature of the *jīva* as a bound soul, it is treated as an adulterated form of the *cit* of Parameśvara.
+[^1877_1717]: Chapter 6 of the *Sūtrapāṭha* is referred to by the Mahānubhāvika commentators as the *mahāvākya* and offers an exploration of the three-fold nature of *sat-cit-ānanda* and their corresponding governing powers of *brahman, māyā*, and Īśvara. Though the commentators appear confused about this point, often conflating him with Īśvara, in Cakradhar’s depiction, Parameśvara, who is forever united with his *śakti*, seems to both incorporate the threefold *brahman* and go beyond it in having a particularized identity as well as salvific function, in a manner not entirely unlike some *acintyabhedābheda* Gauḍīya theologians many centuries later ascribe to the personified godhead of Kṛṣṇa.
+[^1877_1718]: When *cit* becomes separated from bliss, though the text does not make this explicit, it appears to become reencoded as *caitanya*, which then almost instantly manifests as the *jīvu*.
+[^1877_1719]: This teaching is the focus of 5.14–23. The identification with *visva* happens in 5.19.
+[^1877_1720]: Cakradhar, *Sūtrapāṭha* 5.5.
+[^1877_1721]: The treatment of this topic by Cakradhar is hardly systematic, but the parallels with the eerily similar cosmology (but not epistemology) offered in the slightly earlier *Vivekasindhu*, on which more below, strongly support such a reading. A full demonstration of the grounds for reading Cakradhar in this manner will have to wait for another occasion.
+[^1878_1722]: This teaching is the focus of chapter 2, entitled by the commentators “The Dharmas of the Ages.” The critique of injunctions and its transcendence as found in the spontaneous worshipping of Cakradhar and his commands is a major topic in chapters 12 and 13, which offer us wisdom statements Cakradhar presented to specific disciples, many of which are discussed in the *Līḷācaritra*.
+
+Thankfully for us, *brahman* is not just threefold—there is another. As an ontic principle, this fourth is called *turya* (S. *turīya*). In human experience, this is called Parameśvara. Though Parameśvara is unitary, he is also ever united with all his *śaktis*. Nevertheless, inconceivably, Parameśvara himself periodically descends into the world, clothed in a human body made of *māyā*. [^1878_1723] In such a body he makes a connection (*saṃbaṃdhu deti*) to limited human beings with limited agency bound up in *māyā*. [^1878_1724] According to later Mahānubhāvika theology, Parameśvara has done this many times, including by assuming the form of Kṛṣṇa Vāsudev, who “penetrated” (we will see what this means momentarily) “100,000” beings comprised of both of those “attuned to and adverse to him.” [^1878_1725] In the present age, however, Parameśvara took the forms of Cakradhar’s teacher Guṇḍam Rāuḷ and also of Cakradhar himself.
+
+[^1878_1723]: The nature of Parameśvara’s incarnation and the processes involved is the focus of 8.1–18 as well as 10.104– 111.
+[^1878_1724]: Cakradhar, *Sūtrapāṭha* 8.12.
+[^1878_1725]: See 10.78–93 for the *Sūtrapāṭha* representation of Kṛṣṇa as one of the *avatāras* of Parameśvara. Verse 91 treats the “penetrations “of Kṛṣṇa.
+
+When Parameśvara makes a connection (*saṃbaṃdhu deti*) to limited human beings, what is really happening is that he transfers (*saṃcarīti*) into them something called love [[P1879]] (*prema*), which is the real *bhakti* (*prema bolije, bhakti bolije*). [^1879_1726] Ultimately, it is this transferred element that will make possible real knowledge, including direct unmediated perception of the nature of reality. Whatever one calls it, this modality engenders a fundamental transformation in the *bhakta* and creates the possibility of a mode of worship not governed by the logic of injunction, centered on transformative experiences. As the *sūtra* argues, merely through the transfer of love (*premasaṃcārū mātreṃ*), there arises the severing (*uccheduni jāti*) of *vīkārū, vīkalpū*, and *svābhāvo*. [^1879_1727] If the devotee chooses to follow and imitate Parameśvara, what then unfolds, especially in his direct presence (*sannidhi*), is a series of individuated spiritual experiences of the interrelationship between ontology and epistemology. [^1879_1728] First, one directly experiences, through a practice called “the piercings” (*vedhu*), the relationship between the one who aims to achieve, the means of achieving, and the goal (*sādhyasādhaṇasādhakū*) as three independent elements. Then, one experiences a twofold division of the relationship between the agent and the thing to be arrived at (*sādhye sādhaku*). In the final stage, the agent disappears and there is only the aim that remains (*sādhya*). One has only to list the names of these registers of the great piercing in sequence—*ānavīṃ, śāketyāṃ*, and *sāṃbhavīṃ*, [^1879_1729] to see that the terminology is adapted either from the *upāya* system of Abhinavagupta’s *Tantrāloka* (with *anupāya* in *absentia*) or from lost common Krama sources (the latter explanation would explain the occasional inclusion of another term called *mahāṇava* and its insertion between the *āṇava* and *śākteya*). As the verses that follow make plain, the parallels are far more than terminological. *Vedhu* occurs when like penetrates [[P1880]] like (*sājātyā sājātyāṃ vedhu*), [^1880_1730] for through piercing of a portion of any entity or ontic state, the whole is obtained (*aṃsuvedheṃ saṃpurṇāci prāpti*). [^1880_1731] Perhaps correlated with the triad of piercings (for they follow in the next verse), such experiences unfold as *āvesu, avasthā*, and *stiti* (S. *āveśa, avasthā*, and *sthiti*), seemingly also arranged according to their viscerality and duration. [^1880_1732] They can arise merely through meeting of the eyes of the *bhakta* and Parameśvara, for this causes the *śakti* to enter, giving rise to what our text calls the inner oblation (*antaryāga*). [^1880_1733]
+
+[^1879_1726]: Cakradhar, *Sūtrapāṭha* 8.12–17. The definition of *bhakti* as *prema* is found in verse 8.14.
+[^1879_1727]: Cakradhar, *Sūtrapāṭha* 8.15.
+[^1879_1728]: What follows offers an analysis of 10.24–27.
+[^1879_1729]: As for example, in Cakradhar, *Sūtrapāṭha* 10.24–6.
+[^1880_1730]: Cakradhar, *Sūtrapāṭha* 10.28.
+[^1880_1731]: Cakradhar, *Sūtrapāṭha* 10.29.
+[^1880_1732]: Cakradhar, *Sūtrapāṭha* 10.27.
+[^1880_1733]: Cakradhar, *Sūtrapāṭha* 10.31: *ubhayāṃṇsikṣamāneṃ* (*ubhayānvīkṣamāṇeṃ*) *satāsanedhimātreṃ śakti saṃcare to aṃtaryāga bolije*.
+
+The culmination of these experiences, which wear away at the different forms of primordial stain, eliminates both the lack of knowledge, and, by extension, all wrong knowledge, just as how, when clay vessels are stacked up, knocking out the bottom-most one causes all of the pots to fall over and crack. [^1880_1734] When this happens, a person ceases to be a *jīva* and through Parameśvara’s grace goes beyond *māyā*. [^1881_1735] As the *Sūtrapāṭha* explains, this happens when Parameśvara, by the power of his grace (*kṛpāśaktī*, or *anugrahaśakti*) severs beginningless *avidyā* (*ānādi-avidyācchedu*), root *avidyā* (*mūḷā-avidyāchedu*), and wrong knowledge (*ājñānacchedeṃ*), all of which may well represent distinct sources of bondage. [^1881_1736] This occurs when Parameśvara gives a direct experience of himself, a direct experience of love (*parameśvarū bhaktāsi āpulī āṇubhuti rati deti*). [^1881_1737] In what is again probably a series of three distinct stages, the *bhakta* begins by merely becoming *brahman* (*brahmīṃbhuta*) before [[P1881]] ultimately arriving at a state of mingling (*mīsaḷaṇe*) in *brahman* and diving (*buḍaṇe*) into it. [^1882_1738] In this ultimate state, “it is impossible for the devotee to distinguish whether he experiences Parameśvara as different or non-different from himself (*bhaktu aṇabhavī kīṃ ābhedeṃ anubhavī, ese vīkalpa tetha karūṃ na eti*).” [^1882_1739] Much as we found in Hemādri, through effusive experience, “normative non-duality” itself has been transcended.
+
+[^1880_1734]: Cakradhar, *Sūtrapāṭha* 8.56.
+[^1881_1735]: Cakradhar, *Sūtrapāṭha* 8.57.
+[^1881_1736]: Cakradhar, *Sūtrapāṭha* 8.54.
+[^1881_1737]: Cakradhar, *Sūtrapāṭha* 8.59.
+[^1882_1738]: Cakradhar, *Sūtrapāṭha* 8.61–64.
+[^1882_1739]: Cakradhar, *Sūtrapāṭha* 8.65.
+
+As is beginning to become evident, Hemādri and Bopadeva in their later writings share a set of preoccupations, not with what survives of the Sanskrit sources, but with the largely uncharted old Marathi literary sphere. Quite tellingly, this is true not merely in regard to the sudden appearance of deep investment in individual topical foci of varying degrees of marginality to the Sanskritic milieu. More importantly, it is also the case when it comes to the representation of these elements as forming an interrelated, recurrent, and cohesive discourse. In other words, we encounter not only an affective *bhakti* theology treated as inextricable from a devotional non-dual theism, but also the mediation of these commitments through a synthesis of the idioms of Sāṃkhya and a materialist Vedānta, both of which are then fused with elements drawn from a Śākta-Śaiva imaginary. What is perhaps even more significant, however, is that throughout his commentary, in exploring these shared topics, Hemādri seeks to address a collection of problematics that, though hardly central to the *Bhāgavata* itself, are of vital importance to the structuring of old Marathi vernacular textuality. Such questions include: meditations on the nature of language and its different registers and how they relate to facilitating or inhibiting different kinds of religious experience, how one should account for different devotional modalities and place them in a hierarchy (a task the *Bhāgavata* does not attempt), as well as the need to account for—not just merely acknowledge as extant—the [[P1883]] existence of “spontaneous” fast track paths to high levels of religious attainment that seem to pass over the demands and strictures that govern normative practice. In this regard, where our *śrīkaraṇeśvara* diverges most radically from his predecessors and contemporaries is in his attempts to fuse accounts of a hierarchy of attainments—of slow and fast paths—with disciplinary systems, either queued explicitly to social statuses or mediated through an inherited set of objective standards that, pushing back against charismatic models of religious authority, delimit and entextualize the metrics against which liberation is to be measured by consigning them exclusively to the past.
+
+One particularly constructive approach to making sense of much of what is most enigmatic in the *Kaivalyadīpikā* is arrived at by reading it as anchored upon a series of responses and rebuttals to the vernacular’s approaches to addressing what are essentially shared problematics. In this regard, our most vivid touchpoint for comparison proves to be the rhetoric and theology of Mukundarāja’s late-twelfth-century *Vivekasindhu*. [^1883_1740] In chapter 8 of [[P1884]] the present work, while introducing the post-Tantric but nonetheless Trika inflected theology of the “Ocean of Discrimination,” we had briefly summarized the contents of that work’s opening chapter, entitled the *Svarūpasamāveśa*. In that context, before we moved onto looking at Mukundarāja’s representation of *rājayoga*, passing mention had been made of “a rather astounding reconsideration of the value of discursive knowledge and poetic production” found in the *Vivekasindhu*’s opening, which, we had suggested, functions as a prelude to the main teachings in the chapter, exploring the nature of the *guru*, the disciple, their relationship, the value of grace and the transformative power of *śaktipāta*. As we had alluded to before, scorning all forms of poetry, Mukundarāja prizes a direct, even crude (*rokhaṭhoka*) mode of speech (*vāṇi*) as the ideal medium for conveying liberating insight. [^1884_1741] As he tells us, just as one accepts a mouthful of sap (*rasa*) from the sugar cane (*uṃsa*), paying no heed to its dark exterior, in the same way, the person of discrimination should be receptive to the truth that travels best within rustic or rough speech (*āruṣa bola*). [^1884_1742]
+
+[^1883_1740]: As in chapter 8, the majority of readings from the *Vivekasindhu* follow the edition of V. Gokhale, making judicious but not uncritical use of his now somewhat archaic turn of the century “modern” Marathi *chāyā*. In select cases where the text’s readings are unsatisfactory, or other readings from in manuscript prove better matches to the Sanskrit recreation of the text found in the *Vivekāmṛta*, other editions, especially that of D. Deshmukh have also been consulted. For reasons that should be evident, the reconstructed version of the text offered by K. Kulkarni, which seeks to recover an “original” purely Vedāntic text obscured by later “*tantra- mantra*” accruals has been rejected.
+My evaluation of the content of the *Vivekasindhu*, in spite of its current philological texture, as a work of the late- twelfth century or early-thirteenth century demands a more substantive defense than can be offered at this time, as it demands a close reading of the Marathi secondary literature as well as the manuscript evidence that would derail our current investigation. For the moment, it suffices to say that the assumptions of recent Western scholarship, such as Novetzke (2016), that it has been “recently demonstrated” that the *Vivekasindhu* is a work of the fourteenth or even fifteenth century are founded upon a second-hand and uncritical acceptance of a remarkably weak argument offered by the usually much more insightful R. Dhere in his early monograph, *Cakrapāṇi*.
+In this at times illuminating but equally maddening work, Dhere attempts to demonstrate that the Harinātha of the *Vivekasindhu*, the *parameṣṭhiguru* of Mukundarāja, is in actuality the thirteenth Mahānubhāvika saint Cakradhar, a state of affairs that if true would indeed place Mukundarāja at the very earliest at the end of the fourteenth century. But this premise has been roundly refuted by Brahmanand Deshpande in his monograph length rebuttal “Pondering Cakrapāṇi” (*Cakrapāṇi Cintana*), which offers a laundry list of unimpeachable empirical evidence (starting from the fact that the two figures are presented as having mutually exclusive pedigrees) about why such a hypothesis should be discarded.
+In fact, Dhere himself derives his theory from an unpublished work of a now extinct subsect of the later Mahānubhāvikas called the Yakṣadeo Āmnāya, which in its liturgies does indeed asserts the identity of the two figures. Instead of taking this assertion at face value, as Dhere has, however, in light of the numerous inconsistencies between the biographical and chronological details our texts offer us concerning these two figures that makes their identity exceedingly unlikely, it seems more plausible that we should treat the Yakṣadeo corpus as one early modern attempt among many to lay claim to the legacy of the *Vivekasindhu* for their lineage, comparable to the efforts of Ānandasaṃpradāya on the one hand and the proto-Peshwa Brāhmaṇa ecumene on the other to claim Mukundarāja for their communities through the production of hagiography and well as pseudepigraphical works in a range of languages. V. Gokhale, ed., *Ādya Kavi Śrīmanmunkundarāja Viracita Śrīvivekasindhu: Artha, Ṭīpā, Śadārthasūcī āṇi Dīrgha Vivekacakra Prastāvanesaha*, 4th ed. (Pune: Yasavanta Prakasan, 2014); K. P. Kulakarni, ed., 1957. *Śrī Vivekasindhu: Bhāshāśāstrīya va Pāṭhacikitsāśāstrīya Sãhitā, Prastāvanā, Anuvāda, va Śabdasūci* (Pune: Sri Lekhana Vacana Bhandara, 1957); R. Dhere, *Cakrapāṇi: Ādya Marāṭhī vāṅmayācī sā̃skr̥tik pārśvabhūmī* (Pune: Visvakarma Sahityalaya, 1977); Brahmanand Deshpande, *Cakrapāṇi Cintana* (Aurangabad: Raul Prakasan, 1979).
+[^1884_1741]: Mukundarāja, *Vivekasindhu* 1.14: *jarhi he āruṣa bola / pari rokaḍeṃ brahmajñāna heṃ navala / tarhi avajñā kavaṇa karila / yetha viṣaīṃ* //
+[^1884_1742]: Mukundarāja, *Vivekasindhu* 1.16: *uṃsa kiru dise kāḷā / pari ghepe rasācā gaḷāḷā / taiseṃ āruṣa bola pari jhāḷāḷā / dise vivekācā* //
+
+What at first seems to be a straightforward apologetics for our author’s innovative use of the vernacular in the service of theology and philosophy rapidly transforms itself into a pointed polemic. Its target, unambiguously, is not Sanskrit itself, but the aesthetics of elite discourse, potentially encompassing both Sanskrit and Kannada poetics. [^1885_1743] Truly wise people, our author tells us, do not make use of the mode of language that is enlivened by the nine *rasas*. Such speech brings about the ruin (*nāgavaṇe*) of clear communication. [^1885_1744] For supposedly skilled and clever speakers whose words abound with the nine *rasas*, our author proclaims, it becomes extremely difficult to obtain the experience of the supreme reality. [^1885_1745] Offering us perhaps as stark a metaphorical repudiation as his cultural context will allow, Mukundarāja observes that upright, uptight worldly folk will not dine on dog meat cooked in the house of a dog cooker, notwithstanding that dog meat in fact is the tastiest of treats. In precisely the same way, Mukundarāja observes, truly wise people reject poetic expression, which is nothing other than *sāṃsārika* speech. [^1885_1746] Mukundarāja makes very clear that the mere appearance of *rasa* (*māyīka rasavṛttī*), [^1885_1747] which belongs to realm of *saṃsāra*, has nothing at all to do with sweetness of *brahmarasa* (*brahmarasācī goḍī*). [^1885_1748] *Brahmarasa* is not to be found in effete artistry, but must be achieved either directly and experientially or through the medium of harsh speech, which conveys both the methods and understandings of conspicuously non-exegetical form of Advaita Vedānta.
+
+[^1885_1743]: Here we consider the run of verses, several of them syntactically connected, contained within *Vivekasindhu* 1.17–22.
+[^1885_1744]: Mukundarāja, *Vivekasindhu* 1.17: *navarasāṃce upalavaṇeṃ / teṃ ughaḍa vācesīṃ nāgavaṇeṃ/ mhaṇauni na pravartatī syāhāṇe / tetha viṣaīṃ* //
+[^1885_1745]: Mukundarāja, *Vivekasindhu* 1.19.
+[^1885_1746]: Mukundarāja, *Vivekasindhu* 1.20 and 1.21.
+[^1885_1747]: Mukundarāja, *Vivekasindhu* 1.19.
+[^1885_1748]: Mukundarāja, *Vivekasindhu* 1.22.
+
+[[P1885]] At the outset, then, it would seem that Mukundarāja’s core interpretive project—which explicitly excludes aesthetics from the realm of religious experience—and Hemādri’s—which converts the methods and idiom of theorizing aesthetic experience into an analytic for parsing religious experience—are diametrically opposed to each other. And yet, despite this clash of interpretive projects, on the microtextual level, there is a surprising degree of overlap, especially when it comes to the theorization and presentation of the role that is played by *bhakti* and its explicit meditation through the teachings of the *Bhāgavata Purāṇa*. Quite simply, *bhakti*, especially when it is exemplified by love (*prema* or *premaḷa*) is integral to the *Ocean of Discrimination*’s entire system and this is true both formally and theologically. Thus, in the frame narrative of the *saṃvāda* that organizes each chapter in the text, each teaching is preceded either by effusive displays of the disciple’s devotion or by reflections on the affection the teacher shows towards his student. That this is not merely an inherited trope becomes clear when we turn to more prescriptive passages. Thus, for example, in the second chapter, each living being is implored to worship the *guru* with the *bhāva* of *bhakti*. Mukundarāja admonishes that a living being who does not worship the *guru* with *bhāva* of devotion (*gurusiṃ na bhaje*) fails to resolve one his fundamental debts (*ruṇiyā*) and this ensures continued transmigration and time spent in the hells. [^1885_1749] Affective *bhakti*, however, here is not merely serving as a boundary condition for participation in the lineage of *rājayoga*. In actuality, Mukundarāja’s position is that the key result of the *guru*’s initiation—the sign that it has worked—is that within the disciple there arises a love (*prema*) that is ever persistent (*nīca* S. *nitya*) and ever new (*naveṃ*). [^1886_1750] On the one hand, the one who has been graced in this manner [[P1886]] incurs a new kind of obligation, namely, he is to serve his teacher while directing his one- pointed *bhakti* to the Lord—especially the *guru*, and not in any other state (*kāravī īśvarīṃ bhaktī/ānanye bhaveṃ*). [^1886_1751] From this point forward, it is the cultivation and strategic deployment of this ever renewing inner wellspring of *prema* that fuels the *sādhaka*’s practice.
+
+[^1885_1749]: Mukundarāja, *Vivekasindhu* 2.19: *aho bhaktibhāveṃ guruvaryā / eseṃ neṇāuni jo prāṇiyāṃ / gurusiṃ na bhaje ruṇiyā / jāye adhogatī* //
+[^1886_1750]: Mukundarāja, *Vivekasindhu* 2.26: *gurudīkṣeceṃ phaḷaleṃpaṇa / heci tethīmci jāṇāvī khuṇa / jeṃ nīca naveṃ premalakṣaṇa / gurudīkṣeviṣaīṃ* //
+[^1886_1751]: Mukundarāja, *Vivekasindhu* 2.49.
+
+In a manner almost identical to what we find in Hemādri, Mukundarāja teaches that the mere manifestation of this love within the consciousness and body of the practitioner is necessary but insufficient. For love to become real, it needs to be directly and repeatedly experienced. In order for that to become possible, for the great bliss to be tasted, the sense of I-doer-ship must be destroyed. In Mukundarāja’s system, while *dīkṣā* as derived from the high Śākta Tantras can confer direct experience of the supreme reality, in the vast majority of cases, what it cannot do is make firm that experience (*svānubhavadṛḍhī*) such that it becomes permanently integrated into the self-understanding of the practitioner. This, Mukundarāja tells us, is the reason we need to master Advaita Vedānta and its methods. [^1886_1752] And, because people come in all different varieties, as defined by relative proportions of *sattva, rajas*, and *tamas* operating within their different faculties, a variety of approaches and methods are necessary if one wishes to transmute the *prema* initiation engenders or reveals into something that can be consciously and continuously tasted. For Mukundarāja, just as it will be for Hemādri a century later, this state is labelled the obtaining of *kaivalya*.
+
+[^1886_1752]: Distilled down it its essence, this is the core argument of chapter 3 of the *Vivekasindhu*, the *svānubhavadṛḍhī*.
+
+Much as we saw in the *Kaivalyadīpikā* and the *Sūtrapāṭha*, to arrive at Vedānta, we first need to develop an accurate and nuanced understanding of the true nature(s) of the supreme Lord and the divine reality. While as we have seen, such knowledge is fostered experientially through contact with the *satguru* who is Parameśvara on earth, this is then [[P1887]] complemented with a highly idiosyncratic, more intellectual understanding that seems to be knitting together influences from a range of disparate scriptural sources. Chapter 5 of the *Vivekasindhu* opens with a framing dialogue, in which the king of disciples (*śiṣyāṃcā rāṇā*) asks his perfect (*saṃpūrṇā*) teacher, the Rāuḷ, to grace him with an answer to his next question, which is to know about the manner in which the *jīva* comes into being (*jīvasṛṣṭīcī kathā*). [^1887_1753] After embracing his disciple with the modality of love (*premabhāveṃ āliṅgauni*), [^1887_1754] the overjoyed *guru* offers in response a discourse that begins with a novel riff on the classic Vedāntic illustration of non-dual reality. [^1887_1755]
+
+[^1887_1753]: Mukundarāja, *Vivekasindhu* 5.1–2: *taṃva vinavī śiṣyāṃcā rāṇā / jī īśvarabrahmāceṃ lakṣaṇa / rāuleṃ niropileṃ saṃpūrṇā / maja kṛpā karoni // ātāṃ jīvaśṛṣṭīcī katha / sāṃghāvī jī gurunāthā / jīyā phiṭe sadehavethā / ātmaviṣayīṃce* //
+[^1887_1754]: Mukundarāja, *Vivekasindhu* 5.3: *yaisī śīṣyāṃcī vīnavaṇī / śrīgururājeṃ āyikauni / maga premabhāveṃ āliṅgauni / bolatā jālā* //
+[^1887_1755]: This example occupies 5.5–5.7. Mukundarāja, *Vivekasindhu* 5.5–5.6 *hā gā āpulā ālaṃkāru / cokha kari jo sonāru / teyācā upakāra / na vīsarīje kīṃ // taiseṃ āpuleni nijasukheṃ / tuvāṃ māteṃ smaravileṃ dekha / jeṃ sphuravileṃ unmekha / maja īśvaraviṣaīṃ* //
+
+Typically, we are told that the relationship between the divine reality and the objects of our experience is something like that between gold and a golden bracelet, which is to say, between the underlying undifferentiated substance and a particularized delimited object. In the *Vivekasindhu*, the teacher tells his student to look at an actual golden bracelet the disciple wears on his arm. The *satguru* then says that it was the goldsmith (*sonāru*) who made it beautiful (*cokha*). The teaching is that it is paramount that the disciple is never unmindful (*visaraṇe*) of this reality and that he honors the assistance or favor that the goldsmith has given him (*teyācā upakāru*). In much the same way, the teacher asserts, by attending to the question of the source of one’s own bliss, the topic of “Īśvara” and the role it plays comes automatically into the mind. In this way, the act of attending to the logical connections (*sambandha*), so pivotal to scholastic Vedānta, is transmuted into a theological exaltation of effusive reverent attention. [[P1888]] The teacher then ruefully observes that while in ordinary life people talk about and set their minds upon all sorts of other things, because they never have desire for the bliss of *brahman* (*brahmasukhācī sīrāṇī*), they never consider the nature of divinity. [^1888_1756] To understand what it means to be a self, the text then tells us, we need to research (*śodhana*) the meaning of the word “*tat*” as it is contained within the *mahāvākya* “*tat tvaṃ asi*.” [^1888_1757] In other words, we need to know more about the “that” which “you” are. As Mukundarāja observes, this inquiry into “*tat*” is the method that governs “renunciation and so forth” (*saṃnyāsādi*). The “*ādi*” here, incidentally, is rather telling, for it seems to suggest that Vedāntic inquiry is open to people who are not professional renunciates, and also that non-professional renunciates have direct access to the *mahāvākyas*. In any case, what we learn is that Īśvara is the meaning of the word “*tat*,” and in his absence, the word *tvaṃ*, “you,” and all it signifies, does not mean much of anything. For this reason, Mukundarāja teaches that inquiry necessarily begins from the description of the meaning of the word “that” (*tat padārthāceṃ nirūpaṇa*) as it is found in the *mahāvākya* “*tat tvam asi*.” [^1888_1758]
+
+[^1888_1756]: Mukundarāja, *Vivekasindhu* 5.8–9.
+[^1888_1757]: In passages like this, we begin to see clearly that Mukundarāja is not merely a Vedāntin in some loose and euphemistic sense but has a considerable knowledge of the Mīmāṃsā-inspired exegetical methods of post- Śaṅkara Advaita Vedānta as knowledge system, which he both deploys in the vernacular with considerable precision and reimagines so that they are made to reflect a fervent devotionalism.
+[^1888_1758]: Mukundarāja, *Vivekasindhu* 5.9: *tatpādarthu īśvarevīṇa / tvaṃpadārthāṃceṃ nāhīṃ varttana / mhṇauni punarapi kathana / āīke tatpadīṃceṃ* //
+
+As becomes almost immediately apparent, in Mukundarāja’s pantheon, the real meaning of “*tat*” is the entity that is penultimate to the supreme Parameśvara himself. In general context, this is called the *paramātmā*. When *paramātmā* operates as a deity, it is called Māhāviṣṇu, Ādīpuruṣa, and Bhagavānu. [^1888_1759] This entity has a body that is made of *sat-cid- ānanda*. Subverting the usual meaning of a (semi)canonical list of divine attributes, *paramātmā* [[P1889]] is represented as having four key functions: he is *sarvātmā, sarvasākṣī, sarveśvaru*, and *sarvakukṣī*. [^1889_1760] Several of these principles are interpreted in rather counter intuitive ways. Thus, for example, when we say that this divine principle is *sarvātmā*, it does not mean, as usual, that he is “the self dwelling within all beings,” but rather that he causes the self to dwell in all living beings. Thus, Māhāviṣṇu we learn, causes the self to dwell in all living beings, witnesses everything that happens (without being the witness), and is the womb of all. Most importantly, even this demiurgic extension of the supreme reality is defined by his compassion, for he is the one who never ignores/neglects his own devotees (*jo kahīṃca nupekṣī/ nijabhaktāṃteṃ*). Instead of revealing the universe, however, this dimension of the divine intervenes by concealing from us what is really there—the real nature of existence. As we will learn later in the chapter, what happens when Māhāviṣṇu conceals what is real is that the nascent *jīva* descends into consciousness (*caitanya*). *Caitanya*, in turn, emerges when *cit* (one of three elements that make up *parabrahman*) becomes separated from *Ānanda*. When this happens, the *jīva*, taking on “I-ness” and “this is mine” (*ahaṃtā* and *mamatā*), [^1889_1761] comes to see itself as separate from the *śakticakra*, consisting of *icchā* and so forth. In Mukundarāja’s model, the *śakticakra* is the engine driver (*niyantā*) that makes the world work through the ceaseless execution of the acts of *sṛṣṭi, stithi*, and *saṃhāra* at different levels of expression. [^1889_1762] Instead of Māhāviṣṇu creating the world, once this obscuring veil descends, it is the *jīva* that in fact “creates,” a topic that as we will see is the focus of third chapter of our text. [^1889_1763] What the *jīva* actually does is it projects out from itself an unreal world, superimposed on top of the world as it is, where agency—the principle of the *śakticakra*—exists almost entirely outside of itself. [[P1890]] The result is the elaboration (*prapañca*) that is the world of appearances, which in turn is made up of the mistaken notion (*avidyā*) that fundamentally concerns the powerlessness of the *jīva*. In this way, to invoke Cakradhar’s apt image, the all-powerful soul becomes like an elephant wandering within the illusory city of the *gandharvas*. And one of the ways this delusion dispelled is through the direct experience of the *gosāvi*—an embodied Parameśvara—through witnessing the ways in which the teacher deploys the *śakticakra*.
+
+[^1888_1759]: Mukundarāja, *Vivekasindhu* 5.10.
+[^1889_1760]: Mukundarāja, *Vivekasindhu* 5.11.
+[^1889_1761]: Mukundarāja, *Vivekasindhu* 5.27.
+[^1889_1762]: Mukundarāja, *Vivekasindhu* 5.28.
+[^1889_1763]: See also Mukundarāja, *Vivekasindhu* 5.37–65, which the editor labels *sṛṣṭyupattīcā vicāra*.
+
+This, then, is the first *upādhi*, which creates the false appearance that is difference (*bheda*), which is unreal and yet effects all who are operating within its manifest frame. [^1890_1764] The relationship between the *jīva* (the real self conditioned by the first *upādhi*) and Īśvara, then, is thus that of *pratibimba* to *bimba*, in the sense that the *jīva* is a fragmentary and incomplete expression (*aṃśu*) of the lord Īśvara. Thus, the *jīva* is a kind of lord devoid of the fundamental powers of lordliness in much the same way that a sun ray by itself faintly illumines but lacks the sun’s productive power. In contrast, the true *svarūpa* that underlies the *jīva* is non-dual with the supreme Parameśvara. In other words, both Advaita and Viśiṣṭādvaita accounts of the relationship between the individual and god have now been accommodated within the very same model as provisionally true within a respective domain. As for the relationship between the *jīva*, Īśvara, and *parabrahman*, despite the fact that the system is emphatic in its insistence that it teaches Advaita, or even *śuddha* Advaita, this is what is called (in an eerie echo of later Gauḍīya theology) the *acintyā tattvatā* or their being an “inconceivable” *bheda*, founded on *upādhis*, which appear but are not really present within a single unitary non-duality. Such “inconceivability” has as its locus of operation, depending on the specific *upādhi*, either the Īśvara or the *jīva*. In other words, it is complicated.
+
+[^1890_1764]: Mukundarāja, *Vivekasindhu* 5.30–31.
+
+[[P1891]] For Mukundarāja, however, unlike with many other authors, this problem of the inconceivability of Parameśvara’s relationship to *paramātman*, Īśvara, and the *jīva* is treated as conceptually distinct from much simpler issue of the *nirguṇa* and *saguṇa* forms of *brahman* and the problematic of how it could be the case that a god who is fundamentally without qualities takes on the appearance of limited forms of faculties. As Mukundarāja explains, there is only one sun, and yet its many rays (literally, the one of the rays, *taraṇīca yeku*) shine down individually (*avabhāsaku*) in each and every village (*pratigrāmīṃ*). [^1891_1765] In the same way, that *paramātman*, who is without form, (*amūrtu*) becomes singular and pervades everything (*sarvavyāpaku*) so that there may be the illumination of all the *jīvas* (*sarvajīvāṃ prakāśaku / paramātmāci paiṃ*), or, in more intimate terms, for the sake of his devotees (*bhaktākāraṇeṃ*), becomes one possessing a form (*mūrtimantu*). [^1891_1766] This process, taken in *toto*, Mukundarāja explains, is meaning of the word “that,” which in the language of Vedānta is called *śabala*— the apparent diversity of being that exists within God.
+
+[^1891_1765]: Mukundarāja, *Vivekasindhu* 5.16: *pratigrāmīṃ avabhāsaku / jaisā jā taraṇīca yeku / taisā sarvajīvāṃ prakāśaku / paramātmāci paiṃ* //
+[^1891_1766]: Mukundarāja, *Vivekasindhu* 5.17: *to sabaḷa tatpadārthu / jñānavigrahī amūrtu / sarvavyāpaku pari mūrtimantu / homa bhaktākāraṇeṃ* //
+
+On the surface, it would thus seem that there are certain conceptual tensions in Mukundarāja’s model, which fuses together classical Advaita imagery and theology with fervent devotional theism. Following the teachings of the *Upadeśasāhasrī* of Śaṅkarācārya, for our author, *parabrahman* is indeed the one who hears without ears (*kāṇevīṇa āīkaṇeṃ*), sees without eyes (*ḍoḷeyāvīṇa dekhaṇeṃ*), and tastes all flavors without a tongue (*jivhevīṇa cākhaṇeṃ sarva rasāteṃ*). [^1891_1767] But, unlike in these older sources, where *parabrahman*’s withdrawal from the objects of experience virtually defines it and is to be emulated by the [[P1892]] Advaitan practitioner through the medium of the *asparśa yoga*, Mukundarāja envisions that, though disembodied, *parabrahman* is not disengaged from the transactional created realm. Thus, he is also the one who walks everywhere without legs (*pāyevīna sarvatra hiṃḍaṇeṃ*) and gives and takes without hands (*hāteṃvīṇa deṇeṃ gheṇeṃ*). [^1892_1768] In a classic devotional fashion, all these things, we learn, *brahman* does solely through the power of his will (*icchamātreṃ*) for the uplifting and liberation of the *jīvas* (*jīvāteṃ uddhareṇeṃ*). To resolve this tension, despite his earlier and emphatic disavowal of using the philosophy of Sanskrit aesthetics as a medium for thinking about the nature of religious experience, Mukundarāja turns to tools unmistakably derived from the world of dramaturgy:
+
+[^1891_1767]: Mukundarāja, *Vivekasindhu* 5.13: *jeyāsi kānevīṇa āīkaṇeṃ / ḍoḷeyāvīṇa dekhaṇeṃ / āho jivhevīṇa cākhaṇeṃ / sarva rasāteṃ* //
+[^1892_1768]: Mukundarāja, *Vivekasindhu* 5.14: *pāyevīṇa sarvatra hiṃḍaṇeṃ / hāteṃvīṇa deṇeṃ gheṇeṃ / jeyāsi jīvānteṃ uddharaṇeṃ / icchāmātreṃ* //
+
+> An actor while experiencing [his role] in the play does not lose track of who he is. In the same way, [the deity,] though bearing many incarnations, does not forget his own nature.
+>
+> Though one knows the *saguṇa* form is illusory, still, they worship [it] with wonder. Those who do not worship [*saguṇa* forms] are without discrimination (*vivekā*); One should know clearly [that this is the case.]
+>
+> When a dramatic part (*soṅga*) is presented for the sake of enjoyment (*tokhalepaṇeṃ*), [after the performance] the actor receives clothing and ornaments. Though [the audience] know the dramatic part is not real (*laṭikā*), even so, all the same, they offer ornaments to the actor.
+>
+> In the same way indeed, [god] shapes an incarnation made of *māyā*. In such a context, whatever worship one does, then, that offering will be to the Lord of the universe.
+>
+> Therefore, the worship of the Lord of the world is in no way whatsoever lacking a veridical authority (*apramāṇa*). It is that [worship] that is the doorway to gnosis, the means to *kaivalya* [for] the devotees.
+>
+> Hearing about Viṣṇu (*śravaṇa*), singing about Viṣṇu (*kīrtana*), recollecting Viṣṇu (*smaraṇa*), serving his feet (*pādasevana*), formal worship of him (*arcana*), hailing him (*vandana*), being his servant (*dāsya*), being his companion (*sakhya*), offering oneself (*ātmanivedana*): these are the nine-fold *bhakti* injunctions (*navavidhā bhakti*). [[P1893]]
+>
+> By means of the worship that has nine characteristics, the Lord of all becomes indebted to his own devotees. Having given gnosis, he severs their bonds. [^1893_1769]
+
+[^1893_1769]: Mukundarāja, *Vivekasindhu* 5.18–24: *naṭu nātyā ānubhavitāṃ / āpaṇa āpaṇayāteṃ na bhule sarvathā / taise nānā avatāra dharitā / na bhule svasvarūpa jo // saguṇa rūpa māyīka / yaiseṃ mānauni bhajanīṃ hoye kavatuka / na bhajatī ye hīnaviveka / phuḍe jāṇāveṃ // soṅga saṃpāditāṃ tokhalepaṇeṃ / naṭāsi dījetī vastreṃ bhūṣaṇeṃ / to soṅga laṭikā pari tīm bhūṣaṇeṃ / naṭāsici arpitī // taise kiru māīka avataraṇa / tetha kīje jeṃ jeṃ bhajana / teṃ hoya samarpaṇa jagadīśvarīṃ // mhṇauni jagadīśvarāceṃ bhajana / te kahīṃca nohe apramāṇa / je bhaktāṃsi kaivalyesādhana / hoya jñānadvārāṃ// śravaṇa kīrtana smaraṇa / pādasevana arcana Vandana / dāsya sakhya ātmanivedana / he navavidhā bhakti // yehīṃ navalakṣaṇeṃ bhajaneṃ / sarveśvaru ābhāralenapaṇeṃ / jñāna devauni toḍi bandhaṇeṃ / nijbhaktāṃcīṃ* // Much thanks to Amol Bankar for correcting an initial misconstrual of the syntax in verse 5.20 and helping make sense of its philosophical implications.
+
+In Mukundarāja’s understanding, while the rarefied nonsense drawn from the hoity toity realm of Sanskrit aesthetic philosophy actively inhibits a person’s opportunities for real experiences of the sublime, the arts in fact play a pivotal role in helping us understand the nature of worship and ritual and thus substantively inform religious hermeneutics. However, it is not the discourse “about the arts” but the pragmatic dimensions of staging a performance that offer us key insights into the nature of reality. What Mukundarāja has noticed, much like the *rasa* theorists, is that the very nature of theatrical performance poses serious challenges to our common understanding of both epistemology and ontology and that this is true both for the audience as well as the actors themselves. Clearly, neither the audience nor the actors believe that what is happening on stage is “real,” at least in the same manner as their other life experiences. If the audience thought what was happening on the stage was “real”—or even a direct act of mimesis—then when the actor playing Rāvaṇa abducted Sītā, he would either be attacked by the audience or they would all flee in terror. If the actor presumed what happened on the stage were “real,” the person playing Rāma would go to the local *sabhā* and report that his wife had just been abducted. If the society presumed the performance was “real,” when the actor playing Rāvaṇa was spotted, even if it was long after the show was finished, he would be arrested. Yet, at the same time, it is also clear that what is happening on the stage is not merely [[P1894]] a collection of false statements offered to us in rapid succession, as when a stranger tells you that your blue shirt is red and that, by the way, you owe him money.
+
+Succinctly, what the theatre presents us with is a stipulated conventional non-reality with clearly circumscribed boundaries that nonetheless has a real-world impact. Within the bracketed space of the performance, from the perspective of the actor playing Rāma, the cognitive experience of performing produces *sui generis* sorts of cognitive acts and embodied experiences that in many ways are very much “unlike” real lived experience. Thus, when the professional actor he is performing alongside playing Sītā is “abducted,” even though the actor knows no one had really been kidnapped, despite the fact the “Sītā” on stage might be a stranger or even someone who our “Rāma” personally rather dislikes, when our “Rāma” reaches the forest, the actor playing our hero must shed real tears and wail like he is personally in anguish. If the part is well played, these simulated emotions palpably impact the performer’s nervous system, causing the blood to pump and the heart to race, producing the *sāttvika bhāvas* such that the audience can see his tears—even the horripilation of the hairs on his body. And yet, since this is acting—not a dissociative episode—even in the heat of the moment, the actor retains an internal awareness that this is a performance. He is a performer and not Rāma himself. Nonetheless, the stipulated non-reality imprints itself upon his body and into his memory. What Mukundarāja has recognized is that the “stipulated conventional non-reality with clearly circumscribed boundaries”—in other words, the dramaturgical realm—bears an uncanny resemblance to the emerging notion, soon to be in evidence across a range of Maharashtrian works of theology in both Sanskrit and old Marathi, of the superimposition of *upādhis*, limiting frames, on top of a fundamentally more “real” reality that partially obscures [[P1895]] and distorts experiences of what is really there. One of the reasons why theatre is so helpful is that, unlike with *saṃsāra*, not only does everyone know the performance is “true” and yet not “real,” but most of us are likely to have a chance to see what happens when a performance “ends.” When we shift perspective from attending to the phenomenology of performing to that of being in the audience, what we realize is that being a witness to a performance also involves the cultivation of a special type of in-between consciousness. The audience is fully aware that they have been emotionally moved and impacted by witnessing the activities of a stipulated unreal figure, Rāma for example. And yet, even though the experiences they had were all contained within and even made possible by a dramatic part (*soṅga*), which can only be made manifest within the delimited artificial frame of theatrical performance, when the show finished, it is the actor playing Rāma whom they choose to reward with shawls and ornaments, in much the same way that today we might give the performers flowers.
+
+The more deeply one thinks through the similitudes between the pragmatics of theater and our author’s devotionalized form of Vedānta, the more apt the comparison becomes. The audience rewards an actor—and not the role he plays—for sharing a simulacrum of his affective experiences. They do so without having any way to recognize, let alone access, most of what makes up that actor’s “real nature” such as what he is thinking and who he is in his daily experience. And yet, it is precisely what had happened before the performance, outside of the stipulated reality—the occluded preparation and daily conditioning taking place off the stage outside of the possible experience of the audience—that made the performance itself, which the audience had enjoyed, possible. In other words, it really is true that it is the actor as he exists outside of the realm of the performance that makes possible individual performances, that he is a deeper or at least more multifaceted entity than what appears on stage, and that it [[P1896]] is his life experiences off stage that causally stand *a priori* to and make possible his dramatic choices. Nevertheless, let us imagine that a person, having realized, if you will, that the real magic comes from what happens off the stage, were to proudly proclaim that such and such a performer—for accessibility’s sake, let us say this is Ian McKellen—is our greatest actor, while at the same time declaring they deliberately had never and would never see them perform. Proclaiming themselves McKellen’s number one fan, instead of going to his shows, suppose such a person decides instead to stalk the performer in his daily life. If they confronted the Sir Ian in the supermarket and proceeded to shower him with praise and flowers, lauding the captivating qualities the performer brought to the act of picking out the produce he intended to have for dinner the night before the next performance, we would not praise such a person for homing in on the “real source” of the actor’s prowess. Instead, we would dismiss them as lunatic who had entirely missed the point of the theater.
+
+What Mukundarāja is suggesting is that we should look upon supposed Advaita “Vedāntins” who skip past the wonder of the simulated stipulated reality of engaging in the ritual worship of *saguṇa* forms of the deity to focus exclusively on *parabrahman* with a similar mix of dumbfounded contempt. Despite the fact that they think themselves so clever, in “actuality,” such people are the ones who lack discrimination. For, as Picasso related to Marius de Zayas in an interview in 1923, in an oft paraphrased and even more often misrepresented observation, “We all know that Art is not truth. Art is a lie that makes us realize truth, at least the truth that is given us to understand. The artist must know the manner whereby to convince others of the truthfulness of his lies.” [^1896_1770] Formalized worship, both its methods and it object of [[P1897]] focus, may be entirely bounded and shaped by the artificial *upādhis* superimposed on top of what is real, and yet that does not make it any less a source of wonder, inspiration, or even possible knowledge. In fact, it is this self-consciously artificial medium through which the supreme reality both receives acts of veneration and bestows blessings upon bound souls, serving as the door or means (*dvāra*) that facilitates liberation.
+
+[^1896_1770]: This oft paraphrased quotation first occurs in the context of an interview Picasso give to the periodical *The Arts*. Pablo Picasso, “Picasso Speaks: A Statement by the Artist,” *The Arts* 3 (1923), 315. For a permanent link to the text (Accessed November 24, 2020), see: https://babel.hathitrust.org/cgi/pt?id=mdp.39015020076041&view=1up&seq=339
+
+In what is perhaps the first indication of its vernacular textual reception, here, the *Vivekasindhu* incorporates a definition of *bhakti* as comprised of nine features—*navalakṣaṇā* in the Sanskrit original—that first emerges in the *Bhāgavata Purāṇa*. In that context, Prahlāda, the inexplicably righteous and piously “Vaiṣṇava” son of the demon king Hiraṇyakaśipu has just been asked by his father “what have you learned in school today.” To the demon’s horror, instead of regurgitating some of the presumably very different sort of maxims that were actually taught at high-end *asura* prep schools, Prahlāda naively informs him:
+
+> Hearing about Viṣṇu (*śravaṇa*), singing about Viṣṇu (*kīrtana*), recollecting Viṣṇu (*smaraṇa*), serving his feet (*pādasevana*), formal worship of him (*arcana*), hailing him (*vandana*), being his servant (*dāsya*), being his companion (*sakhya*), offering oneself (*ātmanivedana*); if this canon comprised of nine defining features of *bhakti* (*bhaktiś cen navalakṣaṇā*), offered by a man to Lord Viṣṇu, is performed in this way, I think that [the person who worship in this manner] is the most learned. [^1897_1771]
+
+[^1897_1771]: *Bhāgavata Purāṇa* 7.9.23–24: *śrīprahlāda uvāca / śravaṇaṃ kīrtanaṃ viṣṇoḥ smaraṇaṃ pādasevanam / arcanaṃ vandanaṃ dāsyaṃ sakhyam ātmanivedanam // iti puṃsārpitā viṣṇau bhaktiś cen navalakṣaṇā / kriyeta bhagavaty addhā tan manye ’dhītam uttamam* //
+
+Apart from excising the narrative frame as it is irrelevant to his purposes, Mukundarāja’s adaptation makes two small but significant changes. The first of these is that he deletes the word “Viṣṇu,” and substitutes in its place the term Lord of the universe (*jagadīśvara*). The second alteration is that he replaces the word “*lakṣaṇā*,” definitional characteristics, with the word “*vidhā*,” which then becomes conflated with the term “*vidhi*.” In [[P1898]] this way, instead of nine features of a unitary *bhakti* concept, we are gradually made to recognize that *bhakti* of this sort is made up of nine distinctive practices, all of which are governed by injunction. In fact, just like Hemādri, Mukundarāja proposes there are two distinct categories of religious praxis. In the second, more common modes of praxis, the nine-fold *bhakti* modes are performed such that, in a manner that resembles what we know from *aṣṭāṅgayoga* (*nā tari āṣṭāṅga yogeṃ*), the mind is gradually stripped of its baser impulses founded in the lower *guṇas*. [^1898_1772] Then, when the mind becomes purified, after continued practice, there is a conjunction of *jīva* and *paramātman*, and *kaivalya* is tasted. In contrast, there is also a higher path, which is not governed by the logic of injunction. [^1898_1773] Here, instead of worshipping out in the world, we learn, somewhat cryptically, a person enters into the bedroom of the heart (*hṛdayācā sejārī*). There, his mind performs the sixteen-part worship of Śrīhari (*ṣoḍaśopacārī*), without adopting any other *bhāva* (*ānanya bhāveṃ*). When the *rajas* and *tamas* within him is destroyed (*rajatamīṃ samaiḷa*), then the mind becomes stainless. As this takes places, “there manifests rapidly (*vegīṃ hoya*)” the *bhakti* pertaining to the *nirguṇa* state, which is loving (*premaḷa*) and pure (*śuddha*). In this “*nirguṇa*” mode, the self becomes one with the supreme self in a state of supreme bliss that is none other than *samarasa*. As Mukundarāja makes clear again and again throughout his work, the defining feature of this second path is that it arises automatically, spontaneously and without effort (a state of affairs signified through a range terms such as *apaite, āpoāpa, āpasayā* and so forth, all of which [[P1899]] occupy a similar semantic range as the more familiar *sahaja*) and that from beginning to end it is saturated in the direct experience of love.
+
+[^1898_1772]: Mukundarāja, *Vivekasindhu* 2.18: *na tari āṣṭāṅga yogeṃ / citta śuddha hoye vegeṃ / jīu paramātmeyā saṅgeṃ / pāve kaivalya* // Though discussed at length elsewhere in the text, here in chapter 2, this option is presented to us in a cursory manner as an alternative to the pure mode of non-dual loving *bhakti*, which the text had outlined in the immediately preceding verses, on which see more below.
+[^1898_1773]: For example, in the second division of the text, Mukundarāja, *Vivekasindhu* 2.14–17: *citta āvalaṃbaṇevīṇa / jarhi na rāhe sthirapaṇa / tarhi dehīṃca saguṇa / svarūpa cintāveṃ // tetha hṛdayācā sejārī / mānasa ṣoḍaṣopacārī / upāsāva śrīhari / ānanya bhāveṃ // rajatamīṃ jeṃ samaiḷa / teṃ citta vegīṃ hoye nirmaḷa / maga nirguṇīṃ bhakti premaḷa / śuddha āpaiseṃ hoye // nirguṇīṃ paramapuruṣīṃ / jīvāsi aikyatā hoye sekhīṃ / tiye mahāsaukhīm / samarasa to* //
+
+Whether such transformations happen rapidly or gradually, what makes this possible, apart from ineffable grace, is a purificatory process that physically whittles away at the coagulative build-up of substances that shape our automatic behaviors and responses as human beings. For Mukundarāja, at the most basic level, these consist of the *guṇas* and the various sorts of *vāsanās* that this build-up produces, which are carried over from lifetime to lifetime. For, much as we saw with Hemādri (and even saw hinted at by Cakradhar), Mukundarāja also offers us a hybridic Vedānta that understands epistemological processes as mediated through, even made possible by, a Sāṃkhya and Vaiśeṣika derived ontology that offers a materialist, even reductionist account of the nature of reality. What makes such an incongruous model— shared to some extent it seems by all three of our authors [^1899_1774]—possible is that sometime before the thirteenth century, under historical circumstances that have yet to be reconstructed, both approaches have come to be ascribed to the historical Śaṅkarācārya and understood as complementary dimensions of his teachings, the physics behind his philosophy. This strange dynamic, which will come to define the “Vedāntin in the vulgate” as deployed among *yogins* in the Deccan throughout the early modern period, is precipitated by the ascription to Śaṅkara of an exceptionally terse—the short recension fits on a single printed page—and eccentric work called the *Pañcīkaraṇa*. Though largely ignored by modern scholarship, its importance for [[P1900]] Advaita Vedānta as a living tradition outside of elite scholarly circles should not be underestimated, for it even features liturgically in the *vidhānas* used to initiate *sannyāsins*.
+
+[^1899_1774]: Unlike our other two authors, Hemādri, to be clear, does not explicitly invoke the *pañcīkaraṇa* system. However, the Vedānta that he presents to us with still bears a close family resemblance to the materialization of Vedānta found in this system, especially in its emphasis on the *pañcamahābhūtas* and the *guṇas* as being implicated in the process of the creation of the world of appearances as well as the implications this has for the presupposition that liberation can be obtained through knowledge alone.
+
+Just what the *Pañcīkaraṇa* teaches as its main doctrine is highly dependent on whether one accepts the “short” one-page recension of the text [^1900_1775] or the more “elaborated” nearly two- page [^1900_1776] recension of the text (which incorporates the short version virtually in *toto* occasionally with minor variations) as the original. Our Maharashtrian authors all seem to have had access to something akin to the extended recension. In the cosmological version of the text, the teaching is that from *brahman*, which is being, there arises the *avyakta*, from the *avyakta* there comes the *mahat* principle. Finally, from the *mahat* the *ahaṃkāra*—and with it human subjectivity—arises. This, then, is one “creation” process. The *ahaṃkāra*, it seems, then enacts a kind of sub-creation, engendering first the [[P1901]] *pañcatanmātras*, the *pañcamahābhūtas*, and then, ultimately, the world (*jagat*). In other words, the world—*prakṛti* in Sāṃkhya—is produced out of the human soul, in a process that is independent from the one that yields *mahat*, an evolute of the supreme principle. The creator of “the world,” then, is not directly “*brahman*” but instead a demiurge called Virāṭ, which ultimately, we will learn, shares its nature with the unenlightened human soul. This first part of the text then closes by teaching that appearance, which has the form of *māyā* (*māyārūpadarśana*)—all the stuff that the *ahaṃkāra* generates—can be dispelled through applying the dual Vedāntic processes of *adhyāropa* and *apavāda* (roughly superimposition and subsequent negation). What this reveals is that the world (*prapañca*) is in reality without elaboration or basis (*niṣprapañca*). Such understanding, however, does not liberate a person. It simply prepares them for a second set of practices that address the penultimate task of retracing the *mahat* back to its original nature of realized *brahman*.
+
+[^1900_1775]: The short text of the *Pañcīkaraṇa*, as presented in the edition of Mahesananda Gīri runs as follows: *pañcīkṛtapañcamahābhūtāni tatkāryaṃ ca sarvaṃ virāḍ ity ucyate / etat sthūlaśarīram ātmanaḥ / indrayair athopalabdhiḥ jāgaritam / tadubhayābhimānī ātmā viśvaḥ / etat trayaṃ akāraḥ // apañcīkṛtapañcamahābhūtāni pañca tanmātrāṇi tatkāryaṃ ca pañca prāṇāḥ, deśendriyāṇi, mano, buddhiś ceti saptadaśakaṃ liṅgaṃ bhautikaṃ hiraṇyagarbha ity ucyate / etat sūkṣmaśarīrātmanaḥ / karaṇeṣu upasaṃhrteṣu jāgaritasaṃskārajaḥ pratyayaḥ saviṣayaḥ svapna ity ucyate / tadubhayābhimānī ātmā taijasaḥ / etat trayaṃ ukāraḥ // śarīradvayakāraṇaṃ ātmā’jñānaṃ sābhāsam avyākṛtam ity ucyate / etat kāraṇaśarīram ātmanaḥ / tac ca na sat nāsat nāpi sadasat, na bhinnaṃ nābhinnaṃ nāpi bhinnābhinnaṃ kutaścit, na niravayavaṃ, na sāvayavaṃ nobhayam / kiṃtu? kevalabrahmātmaikatvajñānāpanodyam / sarvaprakārajñānopasaṃhāre buddheḥ kāraṇātmanā avasthānaṃ suṣuptiḥ / tadubhayābhimānī ātmā prājñaḥ / etat trayaṃ makāraḥ // akāra ukāre ukāro makāre mākara oṃkāre oṃkāro ’hamy eva / aham ātmā sākṣī kevalaḥ cinmātrasvarūpaḥ, nā’jñānaṃ nāpi tatkāryam / kiṃtu / nityaśuddhabuddhamuktasatyasvabhāvaṃ paramānandā’dvyaṃ pratyagbhūtacaitanyaṃ brahmaiva aham smi iti abhedena avasthānaṃ samādhiḥ / tat tvam asi, ahaṃ brahmāsmi, ityādiśrutibhyaḥ* / Svami Mahesananda, ed., *Pañcīkaraṇa* (Varanasi: Sridaksinamurti Matha Prakasan, 2010).
+[^1900_1776]: In contrast, the “long” recension appends a distinct opening and modifies the ending to delineate which specific *mahāvākyas* are relevant: *athātaḥ paramahaṃsānāṃ samādhividhiṃ vyākhyāsyāmaḥ / oṃ sacchabdavācyam avidyāśabalaṃ brahma / brahmaṇo ’vyaktam / avyaktān mahat / mahato ’haṃkāraḥ / ahaṃkārāt pañcatanmātrāṇi / pañcatanmātrebhyaḥ pañcamahābhūtāni / pañcamahābhūtebhyo ’khilaṃ jagat / pañcānāṃ bhūtānām ekaikaṃ dvidhā vibhajya svārddhabhāgaṃ vihāyārddhabhāgaṃ caturdhā vibhajyetareṣu yojite pañcīkaraṇaṃ māyārūpadarśanaṃ adhyāropāpavādābhyāṃ niṣprapañcaṃ prapañcyate / oṃ pañcīkṛtapañcamahābhūtāni. . . . / tat tvam asi, ahaṃ brahmāsmi, prajñānam ānandaṃ brahma, ayam ātmā brahma ityādiśrutibhyaḥ* / Gajana Sambhu Sadhale, ed., *Panchikaranam by Shree Shankaracarya with Six Commentaries* (Bombay: Gujarati Printing Press, 1930).
+
+In any case, it is at this point that the “short” version of the text (which contains zero indications that it knows of any of the former teachings) begins.
+
+> The process of making five-fold (*pañcīkṛta*) and the five great elements (*mahābhūtas*) that are the products of that [process]—all of that is called Virāṭ. That is the *ātman*, which is the gross body (*sthūlaśarīra*). The waking state is where there is the obtaining of the objects of the senses by means of the senses. The identification of the *ātman* with both of those [the waking state and the gross body] is “*viśva*.” Those three are the letter “A” [in A-U-Ṃ].
+
+The reason this system is called “*pañcīkaraṇa*”—making fivefold—is that it posits that “material reality” is generated according to an iterative process that can be accounted for mechanistically and mathematically. [^1901_1777] Take, for example, what we call *ākāśa* or space. [[P1902]] According to the *pañcīkaraṇa* system, even in its elementary form, space is not made up just of space but in fact consists of 50% space particles, 12.5% *vāyu* particles, 12.5% *agni* particles, 12.5% *āpas* particles, and 12.5% earth particles. In other words, every type of thing quite literally contains a little bit of everything else. This dynamic accounts for the ability of seemingly “unlike” things to impact each other causally within a logical framework where only like is said to impact like. In the Sāṃkhya and Vaiśeṣika systems from which these notions are derived, different material substrates are intrinsically productive of both the features that our senses perceive (such as “smell,” a quality of the earth) as well as the subjective emotional and cognitive modes we use to reflect upon such sense perceptions. Since all of the production of specific types of substances and faculties out of the *mahābhūtas*, then, proceeds by a process of dilution that changes these proportions, what the system is suggesting is that all of the properties and behavior displayed by each and every thing in existence can be accounted for entirely in terms of this calculative process.
+
+[^1901_1777]: According to traditional understanding, this is first made evident in the *Vivaraṇa* commentary ascribed to Sureśvara himself. From a historical perspective, however, our oldest commentary on the work in Sanskrit yet identified belongs to Ānandagiri, writing in the early fourteenth century, who quite frequently offers our first documentary proof within the Sanskrit sources for the circulation of a number of the *prakaraṇa* texts, such as the *Aparokṣānubhūti*, that are transmitted under Śaṅkarācārya’s name but are not mentioned in his early canonical works or those reliably ascribed to his immediate disciples. Often, these texts are assumed to be products of the late-thirteenth or early-fourteenth century, perhaps emerging in the very circles where Ānandagiri was active. The old Marathi evidence pertaining to the *Pañcīkaraṇa*, however, where we see the work being both digested into thirteenth-century texts and explicitly identified as work of Śaṅkara in a text of the late twelfth century, calls such a model into a question, suggesting that Ānandagiri may well be commenting on works that in his time were at the very least several hundred years old and that already had a considerable, now lost, reception history.
+
+Thus, the text now proceeds to show us, what we call the subtle body (*sukṣmaśarīra*), consisting of the five *prāṇas*, the ten sense organs, the *manas*, and the *buddhi*, is itself to be treated as a series of differentiated evolutes from the various *pañcamahābhūtas*. Mechanistically, based on the various proportions of the five *mahābhūtas* (and then of the *tanmātras*) that make up each of its faculties, the subtle body is associated with acts of sense withdrawal, the state of sleep, the principle called *taijasa*, and the syllable “u.” Finally, we are taught, there appears to be a “third body,” the causal body (*kāraṇaśarīra*), not made up of the [[P1902]] *mahābhūtas*, which is the cause of the other two bodies. In actuality, however, this body has no substantive reality behind it, but is the product of an originary cognitive error. When Vedāntic methods of inquiry into the real nature of things are applied, this error will disappear. The *Pañcīkaraṇa* teaches that this process of reverse evolution is reenacted through the recitation and manipulation of the syllable *oṃ*, which, through specific modes of practice, causes the gross body (and all the principles it embodies) to dissolve into the subtle body, and then the subtle body into the causal body. As you may have noticed, what the author has essentially accomplished here is the production of a physical science in support of the teachings of the *Gauḍapādakārikā*. Rather significantly, not only does the *Pañcīkaraṇa* call this involutive process the achieving of “*samādhi*,” but it labels *samādhi* “a nondifferent state of being” (*abheda avasthā*), it equates it with the *mahāvākya* “*aham brahmāsmi*,” a state of nondual bliss (*paramānando ’dvayaṃ*), which is the intrinsic nature (*svabhāva*) that is true/real (*satya*), liberated (*mukta*), awakened (*buddha*), and always pure (*nityaśuddha*). In other words, what we see here is an early prefiguring of the swallowing up of Pātañjalian *yoga*, treated as a practice mode, into Vedānta as a knowledge system as well as the reframing of the nature of Vedāntic liberation as imagined by Śaṅkara and his immediate disciples so as to bring it into alignment with what are essentially Tantric notions of embodied ecstasy.
+
+For our purposes, it is important that we recognize that this to us rather eccentric framework, understood by our authors as a “Brāhmaṇical” inheritance from Śaṅkarācārya himself, forms an important part of the conceptual backdrop for the writings of Mukundarāja, Cakradhar, and Hemādri, especially in terms of their presentation of the mechanics of how the bound soul generates the world. As Mukundarāja, explains:
+
+> Just as the fashioning (*nirmāṇa*) of the gross body (*sthūla dehāce*) does not take place without substances (*bhūta*) being made five-fold (*pañcīkṛta*), having known this, the [[P1903]] making five-fold of the substances is begun by the god. The making five-fold of each of the respective substances is then mixed together with the five conditions (M. *thāyi* S. *sthāyī*) (*pāṃcāṭhāyīṃ meḷavije*). This is called *pañcīkṛta* in the *śāstra* of Vedānta. [^1903_1778]
+
+[^1903_1778]: The *Pañcīkaraṇa* system is officially introduced into the *Vivekasindhu* by Mukundarāja in the fourth chapter, though elements inspired by its model are already in evidence from the second chapter onward. Mukundarāja, *Vivekasindhu* 4.10–11: *tayā sthūla dehāce nirmāṇa / nāhīṃ pañcīkṛta bhūteṃvīṇa / mhauni bhūtāṃceṃ pañcīkaraṇa / deveṃ āraṃbhileṃ // yeyeka bhūta pañcadhā kīje / te pāṃca pāṃcāṭhāyīṃ meḷavije / he pañcīkrṛta bolije / vedāntaśāstrīṃ* //
+
+Even more intriguingly, however, not only do all three authors make use of something akin to the *pañcīkaraṇa* discourse, which apparently is only just starting in the twelfth century to enter into the wider tradition of scholastic Vedānta, but they also emend it with analogous modifications. As we have seen, these include the integration of a new attitude of theism and a new devotionalism that offers a supercessionary means of transcending the model’s constraints. Perhaps most significantly, however, all three of our authors also tweak the system’s theorization of corporeality. As you may have recognized, the one thing that is missing from the *Pañcīkaraṇa prakaraṇa*, and also from its early commentarial tradition, but which are everywhere in our sources treated as a central causal mechanism, are the three *guṇas*. Unlike classical *Pañcīkaraṇa*, all three of our Maharashtrian authors propose that the five-fold elements are themselves made up of even more fundamental building blocks, which even more explicitly account for the qualitative, subjective, and affective features of agents and substances. These are none other than *sattva, rajas*, and *tamas*.
+
+More work needs to be done to confirm that our array of Marathi and Maharashtrian Sanskrit sources do indeed represent our earliest recorded instances of what seems to be a new *Pañcīkaraṇa* inspired intellectual style. Its defining features, I propose, is that Vedānta, when confronted with the claims of rival *darśanas*, precedes not primarily by refuting them, but instead seeks to incorporate their insights and models as subordinate components inside of its [[P1904]] own system. While we had seen foreshadowings of such a rhetorical approach already in the *Prabodhacandrodaya*, where Advaita Vedānta is not one “correct” knowledge system among many but is in fact the *telos* to which all knowledge aspires, the working out of the nuts and bolts of this “agglutinative Vedānta” really begins within textual field that the *Pañcīkaraṇa* system makes possible. And, as we are about to see, Mukundarāja’s *Vivekasindhu* is the first *magnum opus* articulated within this new paradigm in which attempts are made to reconcile “a classical” Advaita Vedānta epistemology, a Sāṃkhya and Vaiśeṣika derived “working” ontology, a Pātañjalian yogic method, a devotionalized theism, and esoteric insights and modes of praxis of the high Śākta Tantras. Thus, for example, in the third chapter of the *Vivekasindhu*’s opening division, our author writes:
+
+> This *parabrahman* is without qualities. Know him to be one’s own form, who is the Lord of everything. Know that presiding force that is *māyā*’s foundation (*mūla*) to be full consciousness (*pūrṇacaitanya*). The *vivarta* [apparent transformation] of *brahman* amidst *māyā* is the conclusive doctrine of Vedānta, which is the essential meaning of the *Upaniṣads*—[it is] the established authority (*pramāṇa*). [^1904_1779]
+
+[^1904_1779]: Mukundarāja, *Vivekasindhu* 3.23–24: *heṃ parabrahma nirguṇa / sarveśvarāceṃ nirūpa jāṇa / mūḷa māyesi ādhiṣṭāna / jāṇa pūrṇa caitanya // māyā brahmīṃcā vivartu / aisā bole vedānta siddhāntu / jo upaniṣaḍāṃcā mithtārthu / pramāṇasiddhu* //
+
+As is fitting for a theologian so devoted to the principle of *samarasa*, Mukundarāja constructs his system out of a progressive series of terminological fusions that create *bandhu*- like connections between what had previously been distinct theological and scholastic traditions. As we can see, *parabrahman* first becomes the foundational *mūlaprakṛti* of Sāṃkhya, which then in turn is equated with the Vedāntic *māyā*. Since this is a theistic tradition, *mūlaprakṛti* in turn is understood to be the very own *śakti* (*nijaśakti*) of the *puruṣa* that is *brahman*. At the same time, since this is a system that draws heavily but often selectively even subversively on Śākta revelation, this very modality also is known of as the fullness of [[P1905]] consciousness (*pūrṇacaitanya*), a formulation that will ultimately make possible the incorporation of Śaiva and Śākta Tantric models, such as differentiation of *śakti* into various governing faculties and the *kañcukas*. Finally, since Mukundarāja’s method and epistemology privilege Advaita Vedānta, these various framing mechanisms are themselves then subordinated, yet again, to an epistemological and ontological account of the nature of reality, namely, the *vivartavāda* of Śaṅkara, that each of the preceding systems would have vehemently rejected. As Mukundarāja continues:
+
+> When a doctrine opposes the Veda, then, know that with certainty to be heresy (*pāṣāṇḍa*). Having awakened to this knowing of the lesser doctrines, let us listen concerning *vivarta*. Just as there is not any deformation (*vikāra*) of *brahman*, it is the very same way in regard to the being of individual beings. Where there is the manifestation of a false/mere semblance of appearance (*ābhāsa*)—hey! that is *Brahmavivarta*. . . . Or, one might say that it is like a rope, which, without in any way changing (M. *moḍaṇe*) shape, very much appears just like it is a great serpent. Really, though, this *brahman* is without a viable point of comparison. It is foolish to try to come up with examples—may the learned forgive us our folly! [^1905_1780]
+
+[^1905_1780]: Mukundarāja, *Vivekasindhu* 3.25–26, 3.28–29: *vedaviruddha jeṃ matta / teṃ pāṣāṇḍa jāṇa niścita / mhṇauni sāṃḍī āpasiddhānta / vivartu āikaiṃ // brahmavivakāru jaiseṃ / taiseṃ te āsataci ase / tetheṃ anyathābhāsu bhāse / to brahmavivarttu gā //. . . . nātari jaisā kāṃ doru tethiṃcā na moḍatāṃ ākāru / nāhiṃ toci ābhāse thoru / māhāsarpu jaisā // brahma teṃ upamārahitu / tetha kāsīyā pāṃ ase dṛṣṭāntu / pari yekadaśī hotī ucītu / budjñāveyādoṣeṃ* //
+
+As we can see, Mukundarāja seems quite intent on aligning himself with a canonical *āstika* doxographical position, despite the fact that he will ultimately reject the sociology of *varṇāśramadharma* in no uncertain terms. At this point in my research, to be quite frank, I am uncertain just how seriously we should take such a position. Is it really reflective of a robust philosophical perspective that, contrary to surface appearances, is carefully maintained throughout our author’s many exercises in dialectics? Or is the acclimation of *vivartavāda* mostly a rhetorical trope—an assertion that despite its vernacular medium, the *Vivekasindhu* [[P1906]] is offering “a real Vedānta” and not merely smuggling Tantric epistemologies in through the back door? It is a testament to the uncanny degree of discursive overlap between the first vernacular work of Vedānta and the first work of *Bhāgavata*-founded *bhaktiśāstra* that, as we have seen, nearly all of these observations also hold true with regards to the *Kaivalyadīpikā*? In many ways, just as will be the case for Hemādri, this adoption of the *vivartavāda* as a philosophical position is a rather odd fit for Mukundarāja’s theology. Nonetheless, as we can see even from this short passage, the epistemological rhetoric our author has chosen to adopt is unmistakably deliberately evoking the classical Advaita Vedānta of Śaṅkarācārya himself, which treats the apparent transformations in the world of appearance as purely illusory. Unlike in competing frameworks, such as the *pariṇāmavāda*, integral to Sāṃkhya, which accepts the possibility of real transformation, or at least of phase changes, in the *vivartavāda*, *brahman* the supreme reality does not in actuality undergo any change or transformation for the very simple reason that *brahman* is the only ontologically real entity. What the *vivartavāda* position proposes is that the perception of difference of any sort is accounted for as the product of one of any number of types of cognitive errors taking place within the mind of the perceiving agent. Needless to say, such a position is less than ideal for accommodating either the ontological quasi-dualism underwriting our author’s Sāṃkhya cosmology, or the Paramādvaita radical non-dualism of the Kaulas that powers his applied soteriology, which treats the world and its elements as absolutely real diverse expressions of a dynamic underlying reality. Nonetheless, Mukundarāja will ultimately attempt to convince his reader that all of these systems, when understood correctly, are in fact entirely compatible. [[P1907]]
+
+In part, in a Brāhmaṇical twist on *anekāntavāda*, Mukundarāja accomplishes this task by showing that the operation of *vivartavāda* is “true,” but only applies within a delimited domain, in this case in regard to the functioning of the causal body as understood within the *Pañcīkaraṇa*. In other words, in the first five chapters of our text, *vivartavāda* as a conceptual framework seems to operate as a context-specific explanation accounting for the functions associated with Māhāviṣṇu’s concealing of reality, while activities whereby the *jīva*, driven by this initial miscognition, generates and elaborates “empirical reality” is explained in terms of a *pariṇāmavāda* model.
+
+Apart from treating most “views” as correct, provided they are confined to the appropriate circumscribed domain, another primary strategy that our author uses to accomplish the harmonization of competing knowledge systems into a unified whole is through repeated acts of cross knowledge system homologization of discipline-specific key terms. In a manner utterly alien to classical philosophy, dispensing again with polemical exchanges or apologetics (these are confined to the second half of the *Vivekasindhu*), it is simply asserted that key technical terms, from Purāṇic Sāṃkhya philosophy, Advaita Vedānta, and the realms of the Tantras are in actuality exact synonyms. Based on these homologies, which are simply presumed, elaborate attempts are made at parsing the emergent implications of combining distinct systematicities into an organic whole. Thus, for example, picking up right from where we left off in Mukundarāja’s discourse, immediately after defining the *vivartavāda*, the *Vivekasindhu* makes two bald assertions. First, it asserts that really wise people (*aticatura*) understand that the *vivarta* of *brahman* (*brahmīcā vivarttu*)—in other words, the illusory appearance of differences—is in fact identical with the equanimity of the *guṇas* (*guṇasāmya*), in other words, the existence of equal proportions of *sattva, rajas*, and *tamas*, within the (Purāṇic) Sāṃkhya system. [^1907_1781] Without breaking a sweat, this observation is then extended to [[P1908]] a further homologization, in this case partially polemically motivated, with Tantric knowledge. As Mukundarāja proclaims:
+
+[^1907_1781]: Mukundarāja, *Vivekasindhu* 3.30: *āso hā ādi brahmīcā vivarttu / tetha guṇasāmya yaisā saṃketu / anuvādeṃ sāmkhya siddhāntu / aticatura jo* //
+
+> The equanimity of the three *guṇas* (*guṇasāmya*) is the *unmanī āvastā* of Īśvara. This superintending by consciousness they call Māhāmāyā. Know that the definition of Māhāmāyā is consisting of *śuddhasattva*. The *anusandhāna* of one’s self to the self (*svasvarūpāceṃ*) alone is *brahman*. [^1908_1782]
+
+[^1908_1782]: Mukundarāja, *Vivekasindhu* 3.31–32: *he guṇatrayācī samatā / īśvarācī unmanī āvastā / teci caitanyīṃ adhiṣṭhitā / bolije māhāmāyā // māhāmāyeceṃ lakṣaṇa / te śuddhasattvātmaka jāṇa / svasvarūpāceṃ anusandhāna / kevala brahma* //
+
+Mukundarāja appears to be asserting that what *yogins* typically label the state beyond the mind (S. *unmanī avasthā*), a mode of consciousness devoid of thoughts or sensations, usually understood as a high level of attainment, is in actuality the correlate within our own subjectivity of *avidyā* in its most essential form, which, as you may remember, is the principle that orders the causal body. Splitting the difference between the inert *māyā* of classical Vedānta as a principle and its Śākta personification, Mukundarāja posits the existence of an intermediary term, a personified Māhāmāyā that consists only of the purest of the *guṇas* (and that is thus functionally equivalent to the principle that Hemādri calls Kṛṣṇa). Ultimately, he will argue that mere *māyā*, in which there is either a balance of *guṇas*, as in *unmanī āvastā*, or an overabundance of *rajas* and *tamas*, serves to bind the soul and inhibit its access to its own nature. In contrast, in its most *sattvic* manifestation, as Māhāmāyā—which in pantheonic terms manifests as none other than the *nijaśakti* of *brahman* in his manifestation as Sarveśvara—a purified form of *avidyā* can serve as a skillful means, [^1909_1783] as the *jñānaśakti* that removes [[P1909]] *ajñānaśakti*. [^1909_1784] In this way, the very difficulty (*durghaṭatva*) presented by *māyā* ceases to be a flaw (*dūṣaṇa*) and comes to function as an ornament (*bhūṣaṇa*). [^1909_1785]
+
+[^1909_1783]: Mukundarāja, *Vivekasindhu* 3.32–34: *māhāmāyeceṃ lakṣaṇa / te śuddhasattvātmaka jāṇa / svasvarūpāceṃ anusandhāna / kevaḷa brahma // sattvaguṇāci kṣobhadaśā / māhāmāyā yeṇeṃ nāveṃ yaisā / ābhāseṃ mithyābhūta ṭhasā / to tadvivartu gā // mī parabrahma yeṇeṃ ākāreṃ / jñānasvarūpīṃ sphūrtti sphure / te voḷakhāvī catureṃ / māhāmāyā* //
+[^1909_1784]: Mukundarāja introduces into his discourse the apparently otherwise unknown dichotomy between *jñānaśakti*, well known from the Āgamic sources, and a newly posited and personified “*ajñānaśakti*,” which carries out the obscurative functions of *avidyā* in the classical Vedāntas.
+[^1909_1785]: Mukundarāja, *Vivekasindhu* 3.36–37: *māyecī durghaṭatā / te heci jāṇāvī jāṇatā / je kevalīṃ ābhāse sadviyatā / nāthilīci gā // mhṇauni durghaṭatva heṃ bhūṣaṇa / māyesi nāḥiṃ dūṣaṇa / teṃ brahīṃ hoye ghaṭamāna /tari māyā navhe tī kim* //
+
+In essence, what Mukundarāja seems to be suggesting is that this kind of parsing of functions through code switching between and across knowledge systems is no mere scholarly parlor trick, but ultimately serves a concrete conceptual and soteriological function. We can already see hints of this development in the final part of the passage we have just been examining. Here, we learn that the reconnection of one’s self to the self that alone is the supreme *brahman* of Vedānta is nothing other than the reconnection or fusion—the *anusandhāna*—of the self with the self (*svasvarūpāceṃ*), which takes place by means of the self. Though most commonly equated specifically with the Pratyabhijñā, this very specific rhetoric of equating liberation with self (re)discovery of one’s own true nature originates in Kaula-inflected Śākta revelations, where, for example, it is already present in the opening chapter of the Trika *Tantrasadbhāva*. Not infrequently, as we have seen in earlier chapters, in these scriptural sources, this act of “reconnecting with one’s own nature” is associated with the *haṃsa* mantra. In Krama revelation, as well as a number of admittedly late early medieval cases, the mantra in question even already seems to be being equated with the semantically meaningful statement “*so ’haṃ*”—“I am that”—a development that becomes both pan-Indian and ubiquitous throughout early modernity. What we do not seem to find in any of those older discourses, in contrast, is the next conceptual step, namely, the Upaniṣadicization of this discourse and its equation with modes of semantic analysis, ultimately indebted to Pūrva [[P1910]] Mīmāṃsā, emerging from classical Vedānta exegesis. At least in terms of the current state of our knowledge, the *Vivekasindhu* seems to be the oldest extant work that takes this leap of faith.
+
+Thus, as one moves from the first chapter into the second chapter of our text, we seamlessly transition from an invocation of a *rājayoga* sexual practice, preceded by *śaktipāta* entailing *samāveśa* and unmistakably derived from the Kaula sources, as the means of liberation, to the teaching that the unitary intentionality behind the *mahāvākyas*—which themselves depict the union of Śiva and Śakti producing *sāmarasya*—is the teaching of “*rājayoga*.” Taken on their own, these first two chapters might readily be construed as subversive re-encodings of an inherited “Brāhmaṇical” rhetoric that, while paying some nominal lip service to Vedānta as a knowledge system aims to deploy some of its lexemes towards very different ends while stripping out its doctrines. As the remainder of the *Vivekasindhu* programmatically unfolds, by the time we have reached the third chapter— mostly concerned with the nature of *māyā* and the *jīva*—such a reading is dubious; by the fourth chapter, which introduces the *pañcīkaraṇa* system, it is implausible. Arriving at the fifth chapter, which offers Vedāntic exegesis of the pronoun “*tat*,” such a conclusion becomes absurd. Indeed, the general tendency in the Marathi secondary literature (and indeed much of the early modern “Brāhmaṇical” reception of the *Vivekasindhu* outside of yogic circles as evident in manuscripts) has been to arrive at the polar opposite presupposition, namely, that any “Tantric” elements found in the *Vivekasindhu* are themselves appropriative, best read as attempts by Śaṅkara style Advaitans to bring wayward Śāktas back into the fold. This hypothesis—even in a hypothetical softer form, where we treat the teachings on *rājayoga* presented in the first chapter as a sort of “gateway” drug approach to bring practicing Kaulas [[P1911]] into the Vedānta fold—is, however, also a misrepresentation of our author’s theological project and rhetorical methods, which in this regard are best understood as an exercise in consilience and not in ideological consolidation.
+
+As our investigation of the *Vivekasindhu* concludes, we will turn to explicating a single example of how Mukundarāja breathes new life into the idiom and epistemology of Śākta theology and interpolates it into an inherited Vedāntic frame in a manner that subordinates Vedāntic understandings. The end result is to enact a merger of the world of the practitioner of Vedānta, engaged in an inquiry into the nature of the self through the dissection of categories, with the phantasmagoria of the Tantric *sādhaka* seeking to tryst with the *yoginīs*. Besides its intrinsic interest, this reimagining of “the *vīra* as Vedāntin” will creates a fruitful space for comparison as in the final segment in our all too extended story, for there Hemādri will conclude the *Kaivalyadīpikā* by reinventing the *vīra* as the Vedāntin *par excellence* animated by an ethos of scrupulous allegiance and adherence to upright Smārta *dharma*.
+
+The passages we are examining here make up the closing portion (verses 62–90) of the third chapter of the *Vivekasindhu*. In the printed editions as well as select manuscripts, this division, which follows “the repossession of one’s own form” (*svarūpasamāveśa*) and the “making firm of one’s own experience” (*svānubhāvadṛḍhīkaraṇa*), is entitled “an accounting of the creation of reality/the *tattvas*.” (*tattvasṛṣṭikathana*). We have already examined much of its contents in our earlier discussions of the nature of *brahman*, Māhāmāyā and *māyā*, and the delineation of the *Vivekasindhu* as a work that makes extensive use of the *vivartavāda*.
+
+As we return to the text, the focus shifts from the nature of Parameśvara and the *sarvātmā*, who we must remember are distinct entities (insomuch as nondualism allows for distinctions), to what the manuscripts label “the description of those thing that are the sense [[P1912]] objects for Sarveśvara (*sarveśvarāviṣayīṃ nirūpaṇa*).” As we are about to learn, this list of what the Lord of all perceives as objects, and not subjects, begins with the Hindu trinity. In the *Vivekasindhu*, Brahmā, Viṣṇu (an entity entirely distinct from Māhāviṣṇu the concealer), and Maheśvara are not “gods” in the traditional sense, but, taken collectively, form “the *avatāra*” of Parameśvara. [^1912_1786] In this context, the term servitor is perhaps more pertinent than incarnation, for this three-in-one entity operates upon the foundation of his command (*ājñādhāru*). Just as *māyā*, though made up of the five great elements, has as its elementary form the threefold *guṇas*, so too is threefold god (*devatraya*) correlated to the three qualities as well as the three functions, all of which, once again, can be enacted only because these facets emanating from the godhead bear the command (*ājñā*) from Prabhu or the Gosvāī. [^1912_1787] This is the incarnate Lord, often taking the form of the realized *guru*, who lords over the other servitor incarnations through the power of his command (*ājñā śrīprabhūceyā*).
+
+[^1912_1786]: Mukundarāja, *Vivekasindhu* 3.63: *brahmā viṣṇu maheśvaru / te śrīprabhūceci avatāru / tathāpi te ājñādhāru / tayā pareśāce* //
+[^1912_1787]: Mukundarāja, *Vivekasindhu* 3.64: *māyeceṃ guṇatrayeṃ / teṃ heṃ brahmādi devatrayeṃ / kariti sṛṣṭyādi kārye / ājñā śrīprabhūceyā* //
+
+Just as the Lord delegates certain functions to his three-in-one servitor, in a parallel fashion, the relation between Māhāmāyā and “inert” *māyā* is also filtered through a triad. [^1913_1788] In this case, it is comprised of not of three “gods” but three *śaktis*, which once again are correlated with the three *guṇas*. [^1913_1789] While the first two among the *śaktitraya, icchā* and *jñāna*, will be quite familiar to any scholar of Śākta Tantra, here, replacing the canonical *kriyā*, the [[P1913]] third *śakti* is labelled *dravyaśakti*, an entity whose point of origin seems in fact to be the second and third divisions of the *Bhāgavata Purāṇa*. [^1914_1790]
+
+[^1913_1788]: Mukundarāja, *Vivekasindhu* 3.70: *te sarveśvaru ādhīṭiṣṭhatā / trividhā āhaṃkārāte prasavatā / tetheṃ māyā guṇācī spaṣṭatā / pragaṭa jālī* //
+[^1913_1789]: Mukundarāja, *Vivekasindhu* 3.71–72: *sāttviki rājasa tāmasu / hā trīvīdha ahaṃkāra jāṇijesu / yetha śaktitrayācā vikāsu / dise anukrameṃci // sāttvikī ahaṃkārī jñānaśakti / rājasiṃ varte kriyāśakti / tāmasiṃ ase dravyeśakti / nirantara paiṃ* //
+[^1914_1790]: See, for example, *Bhāgavata Purāṇa* 2.5.24: *so ’haṅkāra iti prokto vikurvan samabhūt tridhā / vaikārikas taijasaś ca tāmasaś ceti yad bhidā // dravyaśaktiḥ kriyāśaktir jñānaśaktir iti prabho* //
+
+In any case, in Mukundarāja, Māhāmāya, who again like Kṛṣṇa is made solely of pure *sattva* and corresponds to the principle of *mahat*, acts as a casting mold that engenders plain old *sattva*. [^1914_1791] In a similar manner, within the womb of regular *sattva*, the two *guṇas* of *rajas* and *tamas* are operating in secret. It is this originary “stimulation” of the *guṇas* (*guṇakṣobhiṇī*) occurring within the inert *māyā* that produces the primary act of creation. As Mukundarāja emphatically proclaims, when we speak of creation, we are not actually discussing the emergence of the world, for that, like the destruction of the universe at the end of the *kalpa*, is actually a subsequent byproduct that is itself dependent on the working of Māhāmāyā. Instead, every accurate account of the origin of our reality begins with the production of the *kāraṇadeha*, the causal body that sets up the scaffolding on which will be installed the individuated soul.
+
+[^1914_1791]: Mukundarāja, *Vivekasindhu* 3.78–81: *jeṃ mahāmāyeceṃ śuddhatattva / teṃci votīṃva mahatattva / tetha rajastamāceṃ gūḍatva / vartte sattvagarbhīṃ // he guṇakṣobhiṇī māyā / devāce kāraṃadeha jīyā / maga dhaḍavile mahāpraḷayā / rudrā karavīṃ/ te sarveśaru ādhīṣṭhitā / trividhā āhaṃkārāte prasavatā / tetheṃ māyā guṇācī spaṣṭatā / pragaṭa jālī / sāttvikarājasatāmasu / hā trīvīdha ahaṃkāra jāṇijesu* /
+
+[[P1914]]
+
+(reproduced from Gopal K. Gupta’s *Māyā in the Bhāgavata Purāṇa*, 42). [^1914_1792] [[P1915]]
+
+[^1914_1792]: Gupta’s important monograph was released when this chapter’s composition was being completed and could not otherwise be incorporated into the reflections herein. A careful reading of the text, however, suggests that it will serve as a fruitful dialogical partner in future efforts at rethinking the many debts that Maharashtrian Vedānta as reflected in the vernacular and Sanskrit sources owe to the *Bhāgavata Purāṇa* itself. Gopal K. Gupta, *Māyā in the Bhāgavata Purāṇa: Human Suffering and Divine Play* (New York: Oxford University Press, 2020).
+
+It is material *māyā*, made up of the three *guṇas*, and not Māhāmāyā, made up of pure being, that produces the *ahaṃkāra*, whose composition and structure is entirely a byproduct of the three *guṇas* and thus is mechanistically determined. The sequential articulation and “expansion” (*vikāsu*) of those *guṇas* so that they come to enmesh the soul, in contrast, is enacted by the triad of *śaktis*. [^1915_1793] *Dravyaśakti* takes the lead, mingling (*samavetu*) with the soul and engendering the *tāmasic* dimensions of the *ahaṃkāra*. From this lowest aspect of subjectivity, the *pañcamahābhūtas* arise through the *pañcīkaraṇa* process, as the void subdivides into the wind, the wind into fire, the fire into water, and water into the earth. While this unfolds, the respective five-fold *tanmātras* beginning with the sound/word that arises from the void, then make their own appearance. Rājasic *kriyāśakti* next takes control, producing the five-fold sense organs, which again are further subdivided into the various faculties that process sense perception as well as the five parts of the breath (M. *vyānu, udānu, samānu, apānu*, and *prānu*). [^1916_1794] Instead of relating to the five great elements, these sets seem to be affiliated with the twenty-five *tattvas* of classical Sāṃkhya. Finally, last but by no means least, *jñānaśakti*, operating with *sattvic* materials, gets to work, crafting the faculties of the inner organs (M. *antaḥkarṇa*) that produce human cognition and subjectivity, here understood as a fourfold process resulting in the emergence of the *manas, buddhi, citta*, and at last, the *ahaṃkāru* as a complete entity. [^1916_1795] [[P1916]]
+
+[^1915_1793]: Mukundarāja, *Vivekasindhu* 4.81–84: *yetha śaktitrayācā vikāsu / dise anukrameṃci / sāttvikī ahaṃkārī jñānaśakti rājasiṃ varte kriyāśakti / tāmasiṃ ase dravyeśakti nirantara paiṃ / sarveśvaru avalokitu / dravyeśaktisamavetu / tāmasu ahaṃkāru prasavatu / pañca māhābhūteṃ / to tāmasu ahaṃkāru gaganāteṃ / gagana pavanāteṃ/ pavanu dahanāteṃ / prasavatā jālā* //
+[^1916_1794]: Mukundarāja, *Vivekasindhu* 4.89–91: *taṃva caitanyenātheṃ adhiṣṭhitu / kriyāśaktisamavetu / rājasa ahaṃkāru prasavatu / pañcadaśatattveṃ / śrotratvacācakṣu jihvā ghrāṇa / heṃ jñāna indriyepañcaka jāṇa / karmendriyapaṅcaka sāṃghaina/teṃ āikaiṃ pāṃ. . . . vānu udānu samānu / apānu āṇi prāṇu / yevaṃ paścadśatatattvācā gaṇu / hā yekatra sambhūta* //
+[^1916_1795]: Mukundarāja, *Vivekasindhu* 4.92: *maga sāttvikeṃ ahaṃkāreṃ / jñānaśakticeni samākāreṃ / antaḥkarṇa pañcaka bare / janileṃ teṃ kaiseṃ* //
+
+As we are about to see, in the articulation of this framework, Mukundarāja deftly smuggles in the very not Vedāntic notion of the self—not as witness (*sākṣin*)—but as the enjoyer of experiences (*bhoktā*). Like any good Tāntrika, he then proceeds to treat this enjoyment as the highest expression of the nature of the reality of the self. As he explains, the principles created by the *sattvic* ego (*sāttvikeṃ ahaṃkāreṃ*) are called “the means to being an experiencer” (*bhoktisādhakeṃ*), which the knowers of reality (*tattvavid*) label the agent and enjoyer (*kartā bhoktā*). [^1917_1796] In turn, the *rājasic* ego provides us with the means (*sādhana*) that makes possible experiencing all sense objects (*sakala viṣaī*) while the *tāmasic* ego creates the things to be enjoyed themselves. [^1917_1797]
+
+[^1917_1796]: Mukundarāja, *Vivekasindhu* 4.94: *sāttvikem ahaṃkāreṃ tattveṃ janilīṃ / tiyeṃ bhoktisādhakeṃ bolilīṃ / kartā bhoktā yaisī mhaṇitilīṃ/ tattvavādīm* //
+[^1917_1797]: Mukundarāja, *Vivekasindhu* 4.85: *rājaseṃ ahaṃkāreṃ janītu / jo śrotrādi tattvāṃcā sāṃghātu / to sādhanaśabdeṃ vikhyātu / sakala viṣaīṃ* //
+
+What the casual reader, adept, or censor would be unlikely to recognize is by that introducing into these existing typologies the three *śaktis* and then treating the unfolding of virtually everything that makes a human being human as their hypostatic emanations, through processes distinct from those enacted by the trinitarian servitors, Mukundarāja has smuggled into Vedāntic inquiry the quintessentially Kaula, even Abhinavaguptian conclusion that real knowledge is arrived at once one realizes that everything that constitutes the self and its experiences is made of up of *śaktis*. Not only do these *śaktis* need to be understood in terms of their particularized and disparate natures if the *sādhaka* wishes to succeed in his practice but the realization of that knowledge is inextricably embodied—mediated by physical form and delivered through psycho-physical sensations provoked by “contact” with the things of this world. That this Śākta theology is no dead metaphor but the core conceit underneath the system that enables Vedānta to align with the liberation achieved through the consort practice of *rājayoga* becomes more and more obvious as the chapter draws to its conclusion. [[P1917]] Mukundarāja writes:
+
+> Thus, when the *ahaṃkāra* is made to be comprised of three principles, then, it can be said to be designated by the word *tripuṭī*.
+>
+> It is the agent of knowing (*jñātā*), knowledge (*jñāna*), and the thing to be known (*jñeya*). It is the enjoyer (*bhoktā*), the means of enjoying (*bhogaṇeṃ*), and the thing to enjoyed (*bhogye*). It is the agent (*karttā*), the instrument (*karaṇeṃ*), and the effect (*kārye*); these are known to be the *tripuṭī*. The inner organ is the enjoyer (*antaḥkarṇa*). The means to enjoying (*bhogasādhanatā*) are the sense faculties. There is enjoyment (*bhogyatā*) of the five great substances, which take the form of the object of the senses.
+>
+> The *sādhaku* is an enjoyer of each of the three [*śaktis* and their hypostatic emanations], in accordance with their respective means (*sādhana*). Having performed the convergence (*meḷāpaku*) into each of the respective states/planes of reality (*yekayekiṃ bhūtiṃ*), he enters into the state of being beyond doubt (*niḥśaṃku*). [^1918_1798]
+
+[^1918_1798]: Mukundarāja, *Vivekasindhu* 4.87–90: *evaṃ ahaṃkāreṃ trividheṃ / tattveṃ janilīṃ jiyeṃ vividheṃ / tiyeṃ tripuṭeṃ yeṇeṃ śabdeṃ / boloṃ jāti // jñātā jñāna jñeye / bhoktā bhogaṇeṃ bhogye / karttā karaṇeṃ kāryeṃ / yaisī tripūtī he/ / antaḥkarṇa bhoktā / indryāsiṃ bhogasādhanātā / paṇca bḥūtāṃsi bhogyatā / vīṣayerūpattveṃ // yekuyeku bhoktā sādhaku / tīnī sādhanāṃcā meḷāpaku / karauni praveśalā niḥśaṅku / yekayekiṃ bhūtiṃ* //
+
+In the absence of any careful study that seeks to locate the emergence and then historicize the articulation of the *tripuṭī* model within classical Vedānta—and I know of no such work—it would be irresponsible to arrive at hard conclusions in “positive terms” concerning the original meaning and discursive function of the *tripuṭī* formulation within the world of scholastic Advaita. What we can say with some certainty is that two of the categories in Mukundarāja’s model—the self as an enjoyer and the self as an agent—are alien to the classical *tripuṭī* discourse. Furthermore, in the passages that follow with which the chapter concludes, the very operation of each of these tripartite faculties, which is said to take place through a process of mutual penetration (*parasparānupraveśa*) of sense faculty into sense object but also sense object into faculty, is radically at odds with Vedāntic normativities. Both of these conceptualizations, however, are closely aligned with a more gnostically oriented Śākta imaginary, especially the one that emerges within the domain of the scriptural and in some ways “pre-philosophical” Kālī Krama. [[P1918]]
+
+Thus, to draw upon but one salient example, though elsewhere it will offer us a sanguinary externalized form of ritual where transactions are made with embodied animal headed *yoginīs* who hunger after the constituents of the human body, the late ninth-century *Kramasadbhāva*, in its chapter entitled “On the Descent of the Sixty-Four Yoginīs,” [^1919_1799] teaches that the *melāpa* where the *yoginīs* are encountered can take twelve forms. It then proceeds to offer us a catalog of the *melāpa* as it is enacted within the *jñānendriyas, karmendriyas*, and the *antaḥkaraṇa* faculties. The functions of each faculty as they conjoin with the thing to be manipulated or enjoyed are then equated with a *yoginī* encounter. In this manner, for example, when it comes to *rasanā* and the tasting of flavors (*rasa*), the *yoginī* who is supreme consciousness is equated with the tongue, which possesses the facet of tasting (*svādinī kalā*) and she resides in the middle of the thirty-two *vīras* who are the teeth. [^1919_1800] Out of this set, it is only two domains, that of grasping (*pāṇi*), which is equated with the working of the *kuṇḍalinī*, and the level of the genitals (*upastha*), which is connected with the sexual rite, where the *yoginī* is seen as manifesting in a manner that aligns her with formalized external Śākta worship. In its current form, the text is incomplete, so much of its treatment of the even more deeply internalized practices of the highest class of practitioners, the so-called *śāmbhavasiddhas*, is lost to us. But the fragmentary discussions contained therein seem to suggest its teachings on the *śāmbhava* practice would have aligned it with what we find in other sources, such as the eleventh-century *Kālīkulakramārcana* of the originally Gujarati Śākta preceptor Vimalaprabodha, where the *śāmbhavasiddhas*, apart from their engagement with consorts, are represented as transcending ritual almost entirely and enjoying the *yoginīs* almost exclusively within the contents of their own minds via cognitive operations. [^1919_1801] [[P1919]]
+
+[^1919_1799]: See the Muktabodha e-text of the first portion of the *Kramasadbhāva* as provisionally edited by Mark Dyczkowski. Transcribed from NGMP Reel no. A 209/23, Manuscript no. 1-76, *śaivatantra* 144. See in particular verses 2.82–97.
+[^1919_1800]: Mukundarāja, *Vivekasindhu* 2.87: *dvātriṃśadvīrasaṃyuktā / madhye yā svādinī kalā / melāpe militā sā ve rasasya / paramā citiḥ* //
+[^1919_1801]: *Kālīkulakramārcana*, NAK Manuscript No. 3-314, NGMPP A 129/9.
+
+It is this less explicit surrounding textual context that enables us to properly assess the intended rhetorical function of the jaw dropping conclusion to our own passage. Mukundarāja’s fluency in the initiatory language of the classical Śākta Kaula traditions of the Deccan as well as his advocacy for consort practice as the culminating act that brings about gnosis strongly suggest he is fully cognizant of the sort of received meaning the *melāpaku* he has just invoked would have had among the initiates into the cults of the *yoginīs*. As we saw earlier, even in the beginning of the twelfth century, these traditions had formed an important nexus for the articulation of transregional Cāḷukya identities and networks of affiliation. Well into the thirteenth century, they were inspiring the production of a related material culture among the Seuṇa kings and their vassals, especially at Ambajogai, the very site where Mukundarāja is represented as residing. [^1920_1802] As a work of applied philosophy, the *Vivekasindhu* nowhere discusses the specific ritual systems its author inculcates among his disciples or makes evident its extra-philosophical pantheon commitments. Quite noticeably, apart from offering what is perhaps our oldest polemic against what it calls “*haṭhayauga*” (a practice that is in no way associated with physical postures), despite offering many *khaṇḍanas* of the doctrinal positions of “others” and of dualism in general, Mukundarāja nowhere signals that he is repudiating Śākta ritual praxis, up to and including the *yoginīmelana*. One might quite plausibly construe our text, much like some of its Krama antecedents, as being perfectly open to the possibility that some *sādhakus* will meet the *yoginī* in *melapāku* out in the world, while at the same time promoting as the best option that through Tantric-inflected Vedāntic inquiry [[P1920]] the *sādhaku* might “conjoin” himself with the hypostases of the three *śaktis* that gave his subjectivity its shape as they operate inside of himself within his various sense faculties. Ultimately, these to us disparate modes of practice are two sides of the same coin. They find their integration in the self-same culminatory act that makes both a Śākta tryst with the spirits and Vedāntic knowledge of one’s true self as an experiencer actionable and real. Realization is played out in the mutual mingling of body and sensation of the *sādhaku* and his consort-wife. The realization that results when Vedānta is “made firm” is thus free from doubt (*niḥśaṃku*), both in the epistemological and apologetic sense of having all possible objections refuted, and in the Kaula sense of being arrived at through the embodied repudiation of all binaries, including the difference between mine and yours and impurity and purity. Both modes of certainty are mostly perfectly instantiated in the practice of the *rājayoga* where bodies and subjectivities penetrate into each other. The Vedāntin who achieves such a feat is no bookish celibate eager to drop his body, but a *rājayogī*, a master (*nātha*) of the wheel of energies (*śakticakru*) liberated while living, whose every step and glance makes self-evident his status as that most quintessential of elite early medieval social agents: the *vīra*. As Mukundarāja had explained, such a person carries sovereignty (*svarājya* or *saṃrājya*) within himself, except in regard to his *guru*. Before the *guru*, who gives him life, even the most accomplished of adepts remains forever a disciple engaged in acts of service (*sevā*).
+
+[^1920_1802]: Indeed, an awareness of the mechanics of the *yoginīmelana* as a living tradition, even though it is often treated as a cautionary tale, is reflected in Marathi literature at least into the time of fifteenth-century *Śrīgurucaritra* of the Dattapanthīs and even the eighteenth-century *Navanāthabhaktisāra*. Though my research into such matters remains at preliminary stage, there are substantial indications that some of the key lineages that claim descent from Mukundarāja, especially in the line of his great-grand disciple Sahajabodha, are also transmitting in-lineage a Śākta ritual system, largely divorced from Śrīvidyā, that may be centered on the worship of Ānandabhairava.
+
+Distilled down to its most essential components, the Maharashtrian early medieval “non-dual Vedāntic” imaginary we have just spent the past hundred or so pages recovering breaks away from classical Advaita Vedānta in its thoroughgoing acceptance, up to a certain point, of a materiality that is both “real” and internally diversified. Instead of an illusion that will simply dissolve into nothingness with the dawn of real knowledge, we are confronted with [[P1921]] a great chain of being that systematically arranges both the things that make up the outer world and the contents of our experience, including religious praxis in all its diverse manifestations, into nested hierarchies. The inner logics that animate these domains are regular and regulated, almost mechanistic. They are also quite literally “rational” insomuch as the particularization of types of matter and the accrual of set amounts of the *guṇas* are purely a matter of proportions that are themselves constitutive of specific identities. Whereas classical Advaita Vedānta essentially sets aside questions of ontology in favor of focusing on epistemology, there are strong indications that these traditions, when it comes to everything apart from questions of cosmogony and origin, are quite willing to reduce the epistemological processes as we experience them in the here and now to a special feature native to particular interactions between types of matter and qualities. This rigid and fixed predetermined order of nested hierarchies, where each thing and agent occupies a preordained place, is then contrasted with a categorically different supercessionary domain whose inner engine is an economy of affect. Inside this favored space, a different set of rules apply. Instead of the nature of particularized things and persons being largely determinative of one’s destiny, whatever happens to a person is seen as founded on a viscerally felt “personal” relationship that gives shape to one’s lived experience. About this much, all three of our authors agree. As we will see momentarily, where Hemādri will break from his contemporaries and near contemporaries is in disassociating this conceptual framework from an embodied sociality with real-world socio-political consequences. Before we can make sense of Hemādri’s own decoupling of those two domains, however, we first need a better sense of what it looks like when they are conjoined.
+
+As has so often proved to be the case, it is anthropological investigations into longstanding transregional Indian modes of sociality that aid us in visualizing some of the [[P1922]] concrete implications such floating ideals and conceptual models take on when they are embodied in particularized institutions and real-world circumstances. One of the most startling developments that emerges when we take these ideas and place them on the ground is that the hitherto mysterious justification for the unexpected fusion of a *pañcīkaraṇa* Vedānta—which offers a substantive account of differentiated objects and identities as sharing essences and emanating from a single shared source—with the theology of affect suddenly comes into our view not as some strange chimera, but as replicating the common sense of a culture rooted in lived experiences.
+
+Our guide here, long awaited and published at the very last stage of the composition of the present study, is Anatasia Piliavsky’s discipline changing monograph *Nobody’s People: Hierarchy as Hope in a Society of Thieves*, which sets out to offer a deeply controversial and yet much needed reevaluation and rehabilitation of hierarchy as a social form. [^1922_1803] Most of the case studies contained therein take as their focus the Kanjars of Rajasthan, a “caste community” committed to the trans-generational maintenance of traditions of theft, larceny, and protection racketing. As Piliavsky informs us, these activities are carried out with the tacit permission of local ruling powers, including the local police, who in the post-independence world have occupied the niche previously assigned to petty lords and kings, who counterintuitively deploy such agents strategically in the service of managing conflicts and restoring social order. As Piliavsky has discovered, after spending many decades in their company, though as a “backward caste” with little access to education and modern social capital Kanjars are eligible for substantial support both from Government policies and NGOs, [[P1923]] with the caveat that they are to resocialize themselves into being more productive members of normative society, by and large members of the community reject such handouts on theological and ideological grounds. Piliavsky’s informants told her that they have no interest in “improving their lot” such that they are simply being placed on an equal footing with other communities. Instead, Kanjars actively seek out positions and make investments that provide them with power over others while at the same time reinforcing their social independence and autonomy, right down to converting their shanty homes into fortresses with ungainly watch towers. Just as significantly, the Kanjars are unwilling to recognize that the state has any right to a monopoly on violence, which they unabashedly and proudly use tactically in the service of empowering their networks.
+
+[^1922_1803]: Anastasia Piliavsky, *Nobody’s People: Hierarchy as Hope in a Society of Thieves* (Stanford, CA: Stanford University Press, 2020).
+
+Though Piliavsky does not herself recognize the connection, the Kanjars in her study, who claim they are autonomous from all forces but the Goddess herself, reveal themselves [^1924_1804] to the scholar of Hindu Tantra as unambiguously perpetuating an archaic Śākta Kaula social contract whose wider societal implications in the Rajasthani context are now forgotten. As her informants explain, though the community’s boundaries are hereditarily drawn, Kanjars are not born but made. They become Kanjars when as infants, they are made to consume a mixture of liquor and meat (with, depending on the clan, goat or sheep now substituted for human flesh) that is seen as being the body of the goddess herself. [^1924_1805] This commitment and its connected identity needs to be renewed on a yearly basis during the autumnal Navarātri festival when men, women, and children alike gather and, through eating their goddess out of the same communal pot, come to consist of her nature. In other words, the Kanjars are *vīras*, for whom [[P1924]] real personhood is a matter of the ritualized reincorporation of the substance of *vīra*-hood— *vīradravya*. Running protection rackets, much like Habbĕya Nāyaka before them, they are still adhering to some semblance of the ethos that as we had seen all but defined the early medieval Deccan, which rendered Śūdra big men, Śākta *siddhas*, the makers of the medieval world, as well as its performers and jesters—even the kings themselves—“brothers” bound by shared obligations.
+
+[^1924_1804]: This case study is found in chapter 5, which is entitled “How to Make and Eat a Goddess in Nine Days.” Piliavsky, *Nobody’s People*, 97–114.
+[^1924_1805]: Piliavsky, *Nobody’s People*, 65–66, 111.
+
+In contrast to the inclusionary dynamics that have dominated our archives, Piliavsky masterfully documents how, with the collapse of the traditional patronage networks that had empowered them until the onset of independence, being a *vīra* in the modern world—seeking no one’s aid and thus cultivating no strong intercommunity social ties—helps to render the Kanjars utterly outside of the living social contract. Succinctly, when your only patron is the goddess in a world that is rapidly becoming disenchanted, outside the narrowest of networks, you have no patron and no protector. As the “nobody’s people” alluded to in Piliavsky’s title, shorn of affiliation networks and external protectors, the Kanjars since independence have been the frequent targets of pogroms to which even their ostensible supporters turn a blind eye. Ironically, given their vocation as professional thieves and confidence men, as Piliavsky demonstrates, the Kanjar’s primary human advocates have become local law enforcement, who deploy them as informers, as well as the occasional political actor who employs them to practice their craft against his rivals. In trying times, however, when their support would be most valuable, both of these associates become conspicuously absent. Since no one loves the Kanjars—perhaps for good reason, since if you do not participate in their protection rackets, your household is fair game for their predations—or really needs the Kanjars—since buying them off only ensures you against one source of threats among many—there is no social [[P1925]] obligation that the state or local institutions work to ensure their continued existence. In prior times, such mid-level protection rackets were perceived either as filling an essential transactional role within an abstract departicularized great chain of social being, or as anchoring an independent, often localized social ecology. The *vīra* big man himself acted out the roles of protector from the outside world and provider of disciplinary heft in the service of assisting the management of the affairs of the preceptor he shared with much of the community. With the onset of the modern state, in contrast, this ecological niche is now simply perceived as an unwelcome anomaly.
+
+At the risk of erroneously reverse engineering Piliavsky’s method of discovery, her encounter in the field with the viscerally concrete nature of Kanjar self-understanding, where personhood is seen as being constituted out of the substance of their patron goddess given to them in ritual and upon which they then feed and grow strong, inspired me to radically reassess the now deeply unfashionable literature produced by an earlier generation of anthropologists, ranging from Mauss up through McKim Marriott, that is concerned with the pan-north Indian discourse on the patron as a feeder of people (*khāndān*). As Piliavsky masterfully explains, albeit at some length:
+
+> What Indian patrons must show, and what they are judged on, first and foremost, is their capacity to “feed” (*khilānā*), that is, to provide and care for their people. This is why people celebrate them with honorifics like *annadātā* (bread giver) or *ann dev* (god of grain). “Feeding” is often quite literally what patrons do. Eating and feeding lie at the heart of local devotional practices, household exchange, weddings, and other places where patronal bonds are forged. Feasts are as central to the life of modern-day royal courts. . . as they are to village patronage and electoral politics. Feeding is not merely symbolic, but an enactment of the moral essence of giving. . . . This process has been familiar to anthropologists for a long time. As Mauss. . . had argued, giving is a foundationally consubstantive act: to give is to share oneself with others and, as an act of consubstantiation, feeding makes this fact maximally concrete.
+>
+> To be a patron is to disseminate oneself to one’s recipient-servants by “feeding”; to have a patron is to absorb or “eat” their personal substance (chapter 6). This personal [[P1926]] substance—the set of mental, physical, and moral dispositions that Marriott and Inden (1973; 1977) referred to as “bio-moral substance”—is known across Northern India as *khanadān*, which people say means literally “the gift of food” (*khānā dān*). *Khāndān* (usually glossed simply as “family”) is not “identity” or a person’s inherent property, but rather character acquired in social intercourse and, more precisely, through vertical relations with those who “feed.” *Khāndān* is what Indian children receive at initiation, during communion with their patron-deity when they enter the social world, when they become a person. . . . It is not only castes and families that are united by patronal communion. Every social unit, every community, be it a caste association, a political party, a student union, or a sports club, requires a patron-deity of its own in order to exist. . . .
+>
+> The idea of exogenesis, the derivation of self from other, is integral to hierarchical morality. Perhaps most obviously this idea is embodied in the widespread institution of stranger-kingship, where a sovereign outsider gives life to his polity. . . . Most elementally, the idea is that everyone must come from somebody else, persons can only come from other persons (human or divine). This is what we may think of as a theory of anthropogenesis. In Northern India, it is expressed in the idiom of substantive co- creation, in the idiom of “eating” from or of your superiors. This is why the parent- child relation, the concrete, universal manifestation of hierarchical exogenesis, is the archetypal hierarchical bond. The source figure, what Sahlins calls “metaperson”—a parent, a patron, a god—is preeminent not because they represent or exemplify a paramount value, but because they are the source of their subordinates’ being. In this sense, relations with parents and patrons, descent and masterhood, kinship and kingship are the same in principle.
+>
+> Social worth does not come from encompassment to an impersonal value but is a measure of proximity to the source. All value, on other words, is personal. [^1927_1806]
+
+[^1927_1806]: Piliavsky, *Nobody’s People*, 28–30.
+
+As the terms of art deployed by McKim Marriot, Ronald Inden, and Marshall Sahlins keep intimating, what we are dealing with here is on one level a quotidian social model, wherein the patron who is served by a range of differentiated agents provides each of them with the distinctive concrete benefits, including food, that make it possible for them to make a living and a life. This is a sociology of self-fashioning, outlining the mechanics of “what makes people become who they are,” where character is not treated as an intrinsic trait but instead acquired in social intercourse, and, just as significantly, a theoretical-philosophical paradigm of anthropogenesis where all sorts of “metapersons” serve as the source of their subordinates’ being. It is once again pivotal that we understand that, unlike in even the more sophisticated Marxist articulations of the nature of ideology and its sources, the social agents within our archives themselves envision these processes as co-constitutive of each other. In other words, we are dealing not with theology as the insubstantial velvet glove concealing the hard fist of the political, but with political theology. To invoke a perhaps ungainly, but at least much less tired point of comparison, instead of the glove made to fit the hand, we face a situation more like that of a material body—the body politic and its modes of governmentality—coming into contact with a memory foam mattress, which, without losing its independent structural integrity, has as its selling point that it reshapes itself to conform to the bodies of those with whom it regularly makes contact. And yet, over time, as any orthopedic doctor or postural alignment specialist will tell you, it really is that case that the mattress itself is reshaping the spinal alignment, posture, and somatic experiences of the embodied person. Over the *longue durée*, the result is a convergence of both entities such that, not metaphorically but actually, they are conforming to and are being shaped by each other. [[P1928]]
+
+We have been focused on mattresses, but we could just as easily have talking about *pañcīkaraṇa* Vedānta, especially this variant where it is infused with the added element of affect being valorized as a special force that freezes the norms of the world in place, enabling the participant in the special affect relation to transcend them. As we have explored at perhaps tedious length, quite unlike classical Advaita Vedānta, which in no way replicates this social logic, *pañcīkaraṇa* Vedānta explains both the things in the world and our various *habituses* for being in the world as constituted out of the same small set of building blocks with the variety of extant things explained as the result of different proportional combinations. These elements, both material and psychic, in all cases emanate from a *metaperson* who again quite literally provides for the being of the various beings as well as the world that they inhabit. So long as this base materiality is the architectonic that orders one’s life, the fate of things and persons is determined by their composition. If, however, one instead enters into an affect relationship with the source of one’s substance and fortunes, another order of value emerges. This has its location in the affect bond, and suddenly everything changes. The mechanics of that affect relation involve nothing less than consciously, as opposed to indirectly and automatically, taking up the bio-moral substance that comes from the source and integrating it into oneself. Within such a dynamic, since the source of one’s own qualities is transparently coming from outside oneself, it is only natural that what becomes canonized and valorized is not the individual, but the affect relation itself. As Piliavsky explains:
+
+> Hierarchical thinking places value in the content and properties of relations. The primary criteria of judgment are relational qualities (loyalty, care, generosity) and relational states (attachment, belonging, incorporation), not virtues like valor or purity. If loyalty and generosity can be thought of as “virtues” at all, they are transitive virtues—cultivated and reckoned in relation to others rather than as properties of the self. Care is a property not of the self, but of relations, and it becomes manifest only within and through relations. Possessive virtues or “character,” like strength, courage, or probity, do matter, but only insofar as they are deployed to relational ends. Strength and wealth elevate people socially only when these are deployed in the care of others. . . .
+>
+> The encompassment of possessive value by relational value is what Robbins (2004) has called “relationalism,” a sensibility that locates value in social relations and accords them the highest moral honor. What is less clear in Robbins’s work is what difference having relations as the locus of value makes to the overall structure of value. I shall argue that the privileging of relations as the location of value radically changes the structure of value as well as the structure of relations that are organized by it. The relational calculus of human worth is not a linear accumulation of value. People do not acquire social worth simply by engaging in more relations, in a way that one might accrue virtues. . . . [[P1929]]
+>
+> In India what I call patronage is conceived in much more vital terms, as a tie of concern and personal obligation, which involves practical support as the embodiment of care and love. That is why in rural North India people often address employers, patron-gods, and political patrons as “parents” (*mā-ī-bāp, bav-ji*) and describe themselves as their “children.”
+>
+> There is nothing demeaning about subordination as such. On the contrary, as we shall see, it is a privilege that many seek. But it is something that people seek only from particular people, those to whom they attach themselves and from whose attachments they draw honor. [^1929_1807]
+
+[^1929_1807]: Piliavsky, *Nobody's People*, 25–28.
+
+Without ever using the word, in reconstructing a moral order that valorizes unequal relations founded in a moral economy of care, even love, where the more exclusive the bond, the more visceral and concrete the exchange of substance and affect, Piliavsky has just articulated the theology and sociology of *bhakti*. In offering us a cautionary tale from the world of the Kanjars, who now constitute both their socialities and identities solely through interfacing with a ferocious goddess who is not also actively in relation with the differentiated persons and substances that make up other communities, she has also demonstrated what happens when exclusive *bhakti* on the part of discrete agents ceases to be married to the complex patronage networks that govern inter-community social relations. Because the Kanjars are bonded “only to the goddess” in a way that is no longer socially legible, all their other social connections are transitory, incidental, and lack that vital element of affect that is recognized as a key locus of value by those who still adhere to traditional social mores. As Piliavsky suggests, in a patron-centric world, it is being inside as opposed to outside such networked social relations, as well as the status of one’s patron—how closely he approximates being the source of life giving potentialities—and not abstract values floating free of particular relations, that is largely determinative of one’s rank in society, and thus of the sort of resources to which one had access as well as one’s degree of autonomy. [[P1930]]
+
+> The long-held belief among social scientists that castes are professional guilds ranked by degrees of occupational purity has obscured the descent-like structure of caste, in which each is conceptualized in relation to others as a service community, united by a shared trade conceived as a service to a master, and envisioned as its descendants. Thus Hocart: “The European thinks of the barber and the washerman as men who ply a trade inherited from their forefathers; but that is not the native point of view” (1970: 115; also 1950). Castes, he writes, are communities that perform particular (ritual) tasks for a specific master. Indeed, as Marriott noted, in India “an occupation is a kind of behavior rendered as a service by one caste for another” (1959: 98). There are no generic priests or drummers, only priests or drummers for someone in particular. And the drummers for goatherds and the drummers for aristocrats are socially as distant as goatherds and aristocrats themselves. They dress and eat differently (following their patrons’ ways of dressing and eating; see chapter 7), they go by different caste names, and they certainly neither eat with each other nor intermarry. For all intents and purposes, they are members of different castes. . . .
+>
+> We do not need to travel to extreme social peripheries to see the importance of patronal attachment at play. Take, for instance, the Brahmans. Conventional wisdom, and Dumont, tell us that Brahmans are the highest caste. But ethnographers have shown that Brahmans have occupied all kinds of status positions, from high to low to middling. We know that while Brahmans who acted as family priests (*purohits*) were socially very elevated (see Parry 1979: 59), Brahmans who were village priests ranked somewhere in the middle, alongside potters and gardeners (Mayer 1960: 71), and Brahmans who acted as funerary priests ranked among the lowest castes (Parry 1994). Degrees of purity and pollution cannot possibly explain this difference because all three kinds of Brahmans claimed proximity to the divine sources of purity and also performed polluting rites. What instead explains their status differences are the degrees of their attachment to patrons. While family priests enjoyed exclusive, hereditary rights of serving a single aristocratic family, village priests served a less regular community of village patrons, and funerary priests on the banks of the Ganges would work for all and sundry who came to cremate their dead. What counted was not purity, but the fixity and exclusivity of hierarchical attachments. Those with steady service bonds to one patron did well for themselves, and those with a motley array of patrons would do abysmally. [^1931_1808] [[P1931]]
+
+[^1931_1808]: Piliavsky, *Nobody's People*, 30–32.
+
+What Piliavsky has asserted is that it is this process of high ranked service communities taking in the substance of their own patrons as part of an affect relation, a process that involves adopting the clothes, dietary habits, idioms, and to some extent *habituses* of the source that gives them life, that was the primary engine of upward social mobility in pre-independence South Asia. As Piliavsky’s fieldwork demonstrated to her time and time again, this state of affairs was not aspirational in the sense of representing the adaptive or compensational fantasies of some underclass, nor was it an act of creative resistance; it was an experiential reality with a substantiative material component. In fact, according to Piliavsky, what we label “Sanskritization,” especially as it is projected back into the pre-colonial past, where it is the adoption of the *habitus* of upper caste communities, especially Brāhmaṇas, that is understood to be the cause—or at least the correlate—of successful social mobility, is a misunderstanding of this core dynamic as it is reflected in our archives. Divorced from affect relations with a patron, like a fifth son in a family miming the role of his successful father independent of inheriting his estate, Sanskritization was typically a failure, for it seeks to appeal to an abstract authority who was nowhere in particular. In actuality, the other key dimension of envisioning a relationist world where values are not lodged in people but instead located in specific social relational bonds defined by affect is that this virtually necessitates a plurality of patrons and plurality of affects relations, most of which are alien to any given agent. Different social agents thus have radically different experiences of the exact same authority figures depending on whether or not they are inside or outside a specific affect network. And, since particularized strong bonds were necessarily limited to a few patrons, for otherwise these bonds lost their power, quite unlike in the paradigm of citizenship, questions of belonging and empowerment become necessarily relational and contextual. [[P1932]]
+
+> In this world, where everyone is at once patron and servant—even royals are servants of patron gods—positions constantly shift, and there is nothing like a discernible social whole or a steady arrangement or shape to society. Instead there are shared principles that steer how people judge, decide, and act, that motivate people’s pursuits, and locate them socially.
+>
+> Conceptually, this world is highly coherent, with a few simple ideas shared over great stretches of space and time. Conceptual coherence does not mean social cohesion or “solidarity,” with people slotting effortlessly into set positions inside a bounded whole. Nor does it amount to agreement, harmony or stasis. The world I describe is in constant flux. Everyone is at once servant and patron to many, roles they continually acquire and lose. What constitutes a “gift” and a “service” is rarely uncontested (see chapter 7), relative positions are continually renegotiated and reinscribed, and relations (and fortunes) are incessantly made and unmade. People change their positions not by a primitive accumulation of possessive value, but by changing their position relative to others. Some movements may unfold before an ethnographer’s eyes, but most take much longer and become visible only in the *longue durée*, as we trace the slow rise and fall of communities (as I shall do in chapter 5). In North India, these relational principles have persisted remarkably across time, social levels, and circumstances, enjoying moral purchase across differences of caste, religion, and class, and across community-specific possessive values, irrespective of whether a group specially cherishes ritual purity, strength, auspiciousness, valor, education, wealth, or whatever else. For a long time, this has been the basic vocabulary of the ambitious poetics of social life. [^1933_1809]
+
+[^1933_1809]: Piliavsky, *Nobody's People*, 34.
+
+Placing this mode of thinking in dialogue with our Marathi sources enables us to recognize that while Piliavsky sees this paradigm as offering us an *emic* sociology, we can just as readily read it as articulating an *emic* soteriology. Just as the king’s drummer—or even better, the king of king’s drummer—is not really a treated as a drummer at all, because he takes bits of the affect and substance of a king and makes it his own, while they are outside the circle of affect and empowerment of a genuinely life-giving force, human beings remain bound souls at the mercy of their particularized circumstances. However, taking up the language of the Mahānubhāvikas for ease of illustration (one could readily do the same thing with Mukundarāja), when Parameśvara, an embodied discrete personal agent, makes a connection (*saṃbaṃdhu deti*), he transfers into them affect (*prema*), the real *bhakti* (*prema bolije, bhakti bolije*). It is then this affect bond that becomes the primary order of value in the disciple’s world. If the disciple takes this a step further, he chooses to follow and imitate Parameśvara, especially by existing in social and mental proximity to him (*sannidhi*). Then, with ever increasing intimacy, Parameśvara may grant a direct experience of himself (*parameśvarū bhaktāsi āpulī āṇubhuti rati deti*), a direct experience of affect. Beginning from the disciple taking into himself the substance that makes up the things in his patron’s domain (*brahmīṃbhuta*), mixing them into himself and his life-world (*mīsaḷaṇe*) until finally, so [[P1934]] thoroughly and concretely is his teacher’s paradigm and habit imbricated in every waking moment of his experiences and determinative of his social circumstances that “it is impossible for the devotee to distinguish whether he experiences Parameśvara as different or non-different from himself” (*bhaktu aṇabhavī kīṃ ābhedeṃ anubhavī, ese vīkalpa tetha karūṃ na eti*). [^1934_1810] Pulled into a world where the parameters of experience are so radically distinct from what came before—for again, we are talking of a mixture of changes of external circumstances as well internal mental habits and experiences, all concretely predicated on the elevation of the same affect relation as the source of the change—the disciple of a Cakradhar or a Haripāla quite literally becomes a different person embedded within new circumstances. Like the drummer of a king, who ceases to experience the usual social facts of merely being a drummer, as the disciple ascends in rank, mimicking the sociality of the master, he in turn has the potential to become in some small ways the giver of life and substance to those who are situated “beneath him,” especially outside of this specific affect relation. Becoming even in a small way someone who steps into the role of patron or patron-like affiliate necessarily entails publicly performing acts of generosity, acts that in turn help to define and refine a person’s social identity. As Piliavsky, building upon Mines’s work in Tamil Nadu, explains:
+
+[^1934_1810]: Cakradhar, *Sūtrapāṭha* 8.65.
+
+> Like Weber’s “charisma,” individuality is not the property of a person, but a structural effect of the relations in which the individual is enmeshed.
+>
+> If the egalitarian individual is an atom in a flat network, the hierarchical individual is a grandee; not an island, but a mountain peak. One can distinguish oneself in all manner of ways—spiritually, professionally, financially, politically—but one is recognized as an individual only when one does something magnificent for others, when one assumes responsibility for them. When Rajasthani grandees (royals, businessmen, headmen, politicians) give an account of their splendor—that is, of their individuality—they will always tell you about the many people, processes, and institutions that are in their charge. They will define their individuality by the extent of their social involvement. They will list things that they have done for their community, institutions that they have founded, or decision-making processes in which they have authority. The same is true [[P1935]] in Tamil Nadu, where big men likewise define their individuality by the extent of their social involvement (see M. Mines 1994: 14). When others discuss distinguished people, they describe things that those people have done for them: funds they have made available, families they have supported, or security they have provided for others. The more significant their actions, the more vividly personal is the mythology that surrounds them. In local narratives, the grandest patrons—kings, *gurus*, or chief ministers of states— are the most incandescently individuated, and their magnificent qualities are celebrated on millions of posters and in innumerable legends of their deeds. They are not just individuals, but super-individuals.
+>
+> People describe the uniqueness of grandees not as a matter of their being different from others, but of being their *guru*, political leader, husband, or mother. The icons of patrons that hang on the walls of *ashrams*, political party headquarters, or living rooms depict people who are revered not for being singular geniuses, but for being heads of religious sects, political parties, or households. If egalitarian individuals are autonomous figures, hierarchical individuals are deeply implicated in others, by virtue of both their responsibility toward them and the existential bonds that I discussed above. These bonds are the basis of social distinction and personal distinctiveness, which go hand in hand. To become a distinctive person—an individual—is to be socially distinguished. Dumont, who thought the individual a creature of egalitarian ideology—and hierarchy’s value antithesis—had to place Hindu ascetics, whom he rightly saw as intensely individuated, outside ordinary Indian society. But, in the eyes of Hindu devotees, Hindu renunciants (*sannyāsīs*) are not external to social life, they are its final stage (*ashramā*), its pinnacle. Renunciation (*sanyās*) is not the abandonment of social life, but its exalted culmination. Which is why in common parlance renunciants are often called *Mahārāj*—not “holy man” or “ascetic,” but “great ruler” or “king.” [^1936_1811]
+
+[^1936_1811]: Piliavsky, *Nobody's People*, 36–38.
+
+What neither Piliavsky and Mines have reflected on, focused as they are upon patrons (or failed patrons) as agents and the nature of the communities they engender, but what becomes almost embarrassingly evident to anyone who has ever done fieldwork in a religious community in South Asia where religious authority gets embodied in specific people, is that within any given circle of affect, among the differentiated clients of the same patron, the same fundamental logic is constantly unfolding at different scales of articulation. Intimacy to the source, whether to the patron himself or the sort of people who staff his *samūha* councils, gives one access to special knowledge and resources. These in turn create processes of their own [[P1935]] dynamics of individuation, provoking obligations to generosity directed towards those placed further out in the field of affect. With this development, there emerge particularized social reputations. Stories are then told among the community not only about the “best of devotees’” interactions with the source itself, but about interactions with the best of devotees in which they themselves are acting as surrogate source. Thus, counterintuitively, to become the best of disciples of a living teacher is at once a process of accommodating one’s identity with the source in a manner that results in an amalgamated identity while at the same time it entails becoming perceived within wider social discourse as ever more individuated and “distinguished.” In the meta-language of the Śaiva Age, affect provides one access to initiation, which in turn opens up a world where knowledge and experience, and with them opportunity, moves from being general (*sāmānya/sādhāraṇa*) to ever more particularized and “distinguished” (*viśeṣaṇa*). [[P1936]]
+
+As we saw in the previous chapter, nearly every aspect of the logic that animates the social forms we have just been exploring, if not outright disrupted, is at least called into question by Hemādri’s new paradigm of the universalization of *dharma*. The reinvention of the Brāhmaṇa as a jack of all trades and all-around authority with few if any permanent ties does not merely serve to displace other patron social agents, like our Kālamukhas, whose functions are now absorbed into the role of the learned Dharmaśāstrin *paṇḍita*. It effaces the whole social economy of affect bonds, mediated through ritual, that had been the engine for creating social distinction up and down the social scale. When the functions of a patron who cares for a range of different types of agents is all but rationalized out of existence, such that the only “gift” a non-Brāhmaṇa can receive becomes perishable food, virtually everyone becomes, like the Kanjars—nobody’s people—their lot in life determined by prevailing circumstances. In much the same way that the *dharma* discourses in the *Caturvargacintāmaṇi*, when infused with a commonsense real-world theism, stand in for the praxis driven religious life-worlds of the Śaiva Age that they supplant, through reimagining the nature of the *bhakta* and of *bhakti* itself in terms of an emanationist ontology that finds neither its point of origin nor means of terminus in forging bonds of affect with embodied patron like figures, but instead is to be sought out in the inner voice that is the conscience of the Brāhmaṇical establishment, the *Muktāphala* and *Kaivalyadīpikā* offer a substitute economy of affect that comes equipped with its own autoexegetical economic theory. In order to arrive at this much desired destination, Hemādri and his disciple first have to render irrelevant both the sociologies and soteriologies that look at a *guru* and see a patron and see their salvation in forging a special relationship. [[P1937]]
+
+The *Kaivalyadīpikā* accomplishes this task through three interrelated conceptual moves: namely, erasing the figure of the *satguru*, demoting the special type of social agent who is purely soteriologically motivated, and finally, reimagining the *vīra*, not as bound to an embodied human teacher who acts as a patron and who in turn functions as patron to those beneath him, but as above all else devoted to and dependent upon a set of entextualized norms that find their reflection in society at large. Strangely enough, though they are justified using citations from the *Bhāgavata*, all three elements in this agenda are out of step with the plain intended meaning of the root text.
+
+Hemādri’s rejection of the *satguru* as a living ideal is counterintuitively founded upon a teaching in the second to last division of the *Bhāgavata* that can just as easily be interpreted as promoting the considerable shortcomings of householder life as well as the supernal virtues of a human teacher. The passage forms part of the teachings offered by the *navayogins*, which more than any other part of the *Bhāgavata* offers a celebration of a visceral affective *bhakti*. Interpreted in the usual manner, the passage (the first part is in Tapasyananda’s rendering) seems to say something like the following:
+
+> One should understand that all heavenly realms attained hereafter as a result of *karma* performed now, are likewise impermeant--these heavenly realms are all relative like the principalities of petty chieftains, equaled by many and excelled by others, and all are labile to destruction alike in the end.
+>
+> Therefore, one who is compelled by the desire for knowledge (*jijñāsuḥ*), should propitiate (*prapadyeta*) the *guru*.
+
+Here is where things get messy. The remainder of this verse can be construed grammatically as having at least two entirely distinct syntaxes, depending on whether we take the list of attributes that are about to follow as applying to the *guru* or, somewhat less plausibly (since then the next verse would awkwardly feature a change in subject), the agent seeking knowledge. In the first case, where the *guru* is the subject, we would have to understand something like the following:
+
+> The one desiring knowledge should propitiate [the *guru*] who is the ultimate good (*śreyas uttamam*), who is submerged in the supreme sound (*śābde pare ca niṣṇātaṃ*) and whose foundation is pacification within *brahman* (*brahmaṇy upaśamāśrayam*). There (*tatra*) [the *guru*] should learn the *Bhāgavata dharmas*, the *guru* alone being his self and the deity (*gurvātmadaivataḥ*). [^1938_1812] [[P1938]]
+
+[^1938_1812]: *Bhāgavata Purāṇa* 11.3.21–22: *tasmād guruṃ prapadyeta jijñāsuḥ śreya uttamam / śābde pare ca niṣṇātaṃ brahmaṇy upaśamāśrayam // tatra bhāgavatān dharmān śikṣed gurvātmadaivataḥ* /
+
+As you can see, even in this case, we are left with a genuine textual ambiguity of the sort where theologians frequently see opportunity, namely, what to do with the compound “*gurvātmadaivataḥ*.” Depending on how one understands the underlying theology of the text, it would be perfectly reasonable to understand the *Bhāgavata dharma* either as teaching us that its governing authorities are the self and the *guru*, or simply the *guru* alone. Hemādri, as you are probably expecting, rejecting both options, sees things rather differently.
+
+For most of this portion of the *Muktāphala*, Bopadeva, in compiling the root text, is engaged in an act of taxonomic housekeeping of the sort that tends to tire modern readers. He has this preconceived notion that the teachings presented from the *Bhāgavata* thus far need to be arranged in terms of enumerated sets called *vargas*, and that by this point in the text we have reached thirty-six. In Hemādri’s hands, this whole organizational focus automatically raises the pressing question of whether these different subdivisions are to be taken as arranged in nested hierarchies and whether there is any possibility for optionality (*vikalpa*) where one chooses between practice sets that are at the same level. Exploring these issues takes up the majority of Hemādri’s commentary on the page, and comprises most of the longest sentences in this patch of commentary. In contrast, the actual exegesis of the verses at hand, mostly with terse sentences, barely takes up the bottom portion of the page. In full it reads:
+
+> Hemādri: Therefore (*tasmāt*) means because both of the pair of worlds contain faults, [for this reason] one should take refuge. [To take refuge means] you should attend to the *ācārya*, [which means] staying near him. . . . *Śreyaḥ* means among all good actions, it [living with the *ācārya*] is the best. Therefore, it [living near the *ācārya*] is called a subordinate component of *bhakti*. With regard to *śabda brahman* means “through the investigation of the purport of the Veda” (*vedārthatātparyeṇa*). When the text says, “the highest one” (*pare*), it means through the experience of the unmediated. *Niṣṇātam* means he [the *ācārya*] has obtained steadfastness. By the phrase “*upaśamāśrayam*,” there are known to be other qualities also [on the part of the *ācārya*] such as affection towards the students. . . .
+>
+> In the passage beginning “there,” “there” (*tatra*) means in the *gurukula*. [The compound *gurvātmadaivataḥ* means] he of whom the *guru* alone is the self and deity. One should make offerings to the *guru* in the same way as to the deity and the self. It is [only in this restricted sense] that [one might say] through devotion to the *guru* everything becomes fruitful. [^1939_1813] [[P1939]]
+
+[^1939_1813]: Hemādri, *Kaivalyadīpikā*, pg. 116: *tasmād guruṃ prapadyeta jijñāsuḥ śreya uttamam / śābde pare ca niṣṇātaṃ brahmaṇy upaśamāśrayam // tatra ṣaḍviṃśadvargaṃ darśayan dvābhyāṃ pūrvaraṅgam āha—tasmād iti / tasmāl loka-dvayasyāpi sadoṣatvāt prapadyeta / nirvinnaḥ, samitpāṇir ācāryam upatiṣṭhet / śreya uttamam / śreyaḥsu satkarmasu madhye uttamaṃ bhaktyaṅgākhyam / śābde brahmaṇi vedatātparyavicāreṇa / pare cāparokṣānubhavena, niṣṇātaṃ niṣṭhāprāptam / upaśamāśrayam ity anenaiva śiṣyavātsalyādayo ’nye ’pi guṇā jñeyāḥ //. . . . tatreti / tatra gurukule / gurur eva ātma daivataṃ ca yasya / ātmavad devavac ca guruṃ saṃskuryād ity arthaḥ / gurubhaktyā hi sarvaṃ saphalaṃ* /
+
+Whereas, at least in the construal of the text we had settled on, the *Bhāgavata* had seemed to be set on evoking the figure of a not merely learned but spiritually attained teacher, who has taken *brahman* as his foundation and swims in the sacred sound (presumably *oṃ*), imploring the householder to seek refuge at this special person’s feet, Hemādri envisions a much humbler and altogether less spiritually charged arrangement. The disciple, not a householder disgusted with his lot but more like a fresh-faced young student, is now simply called upon to live near the teacher with whom he will study within his *gurukula*. His guide in turn is demoted from the role of attained *guru*, himself abiding in *brahman*, who has a personal and specialized bond with his charges that is treated as having intrinsic value, to that of a merely disciplined and personable *ācārya* imparting the specific technical knowledge of Vedāntic exegetical methods. As Hemādri will explain later in the text, the *guru* is merely the agent for providing the *upadeśa* (*gurum upadeṣṭāram*). Even before we get to the far-fetched polemic with which the analysis concludes, the *guru* has ceased to be seen as a legitimate authority in his own right. At the hands of our exegete, the ambiguities of *gurvātmadaivataḥ* are given a new lease on life by transmuting them into a metaphor. [^1940_1814] In Hemādri’s somewhat strained reading, the “true” *guru* is never a person. He is only a metaphor for God. It therefore follows that the sorts of concrete allegiance that those desiring gnosis, and who had often acquired prestige and power along the way to liberation, had invested in living teachers had been misplaced. Such bonds should be directed only at God himself. And to please God, one must adhere to his *Bhāgavata dharma*. [[P1940]]
+
+[^1940_1814]: Another verse from the *Bhāgavata* selected by Bopadeva, which contains a variation on the compound *gurudevatātmā*, wherein the sequencing of *ātman* and *devatā* are reversed but the *guru* maintains the key semantic position, renders Hemādri’s interpretation even less plausible. *Bhāgavata Purāṇa* 11.2.37: *bhayaṃ dvitīyābhiniveśataḥ syād īśād apetasya viparyayo ’smṛtiḥ / tanmāyayāto budha ābhajet taṃ bhaktyaikayeśaṃ gurudevatātmā* //
+
+One of the hidden implications of the *bhaktirasa* theology of the *Muktāphala* and *Kaivalyadīpikā* is that it takes the vast of array of learned seers and accomplished *yogins* who populate the *Bhāgavata Purāṇa* itself and who in the world of the text are often treated as teachers and sources of authority in their own right, and reframes them all as sample cases illustrative of specific modes of *bhakti* praxis or affective orientations. Once Yājñavalkya and Nārada are no longer exemplary but merely viewed as exemplars of successfully executed entextualized processes—or even as products of freakish serendipity—the very idea that living authorities should be looked to for their own opinions and revelations, as opposed to treated as interchangeable transmission systems for a body of knowledge, begins to seem absurd (much as in Bhāṭṭa Mīmāṃsā). Where there is no *guru* who offers a personalized revelation, the saint and the *vīra* alike, however exemplary their practice, are merely different species of *bhaktas* tapping into the same supreme authority that is Bhagavān, whose grace changes hearts without in any way reordering or altering institutionalized social realities in the here and now.
+
+Hemādri’s at first glance surprising inclusion of *śāntarasa*, the serene *rasa*, [^1941_1815] as one of the nine *bhakti rasa* modalities needs to be understood in terms of this project of decoupling religious attainment from a more capacious vision of *adhikāra*. In Hemādri’s representation, which follows that of Hemacandra, though *śānta* can incorporate moments of such modes as excitation (*harṣa*) and indifference (*niveda*), the lasting mode (*sthāyibhāva*) of the serene is pacification (*śama*), the snuffing out of mental impulses and emotional reactions. The serene *bhakta* adheres to lofty, if untheatrical, aims, such as acting on behalf of the aims of the other (*parārthakāritva*) and seeing all beings with equanimity of vision [[P1941]] (*sarvabhūtasamatvadarśana*), contemplating the nature of the spiritual/the *Upaniṣads* (*ādhyātmatattvacintana*), and observing the *yamas* and *niyamas*. [^1942_1816]
+
+[^1941_1815]: The understanding of *śāntarasa* in terms of serenity and its dramaturgical and soteriological implications that informs this analysis is indebted to Sthaneshwar Timalsina’s recent publication, Sthaneshwar Timalsina, “Abhinavagupta on Śānta Rasa: The Logic of Emotional Repose,” in *Handbook of Logical Thought in India*, ed. Sundar Sarukkai and Mihir Chakraborty (New York: Springer, 2020), 1–18.
+[^1942_1816]: Hemādri, *Kaivalyadīpikā*, pg. 268: *atha vairagya-saṃsāra-bhīrutā-tattva-jñāna-vīta-rāga-pariśīlana- parameśvarānugraha-tapovana-vivikta-sevādi-vibhāvaṃ yama-niyamādhyātma-śāstra-cintana-sarva-bhūta- samatva-darśana-parārtha-kāritvādyanubhāvaṃ dhṛti-smṛti-mati-nirveda-harṣādi-vyabhicāriṇaṃ śama-sthāyi- bhāvaṃ śānta-rasam ārabhate—śānteti* /
+
+Here we should note that even more than is the case in other sections of the *rasa* chapters of the *Kaivalyadīpikā*, the analytical portions of this chapter—delineating the nature of *śāntarasa*, as well its polemical portions, defending the validity of the concept of *śāntarasa* against the classical aesthetic tradition that did not accept the possibility that artistic representations of soteriological aims can find a place on the stage or within literature—are simply made up of a pastiche of the words of the two major proponents of *śāntarasa*. In defining *śāntarasa*, Hemādri simply lifts, with very minor rhetorical additions and deletions, the formulation given by the Jaina polymath Hemacandra in his *Kāvyānuśāsana*. [^1942_1817] Similarly, his defense of *śāntarasa* is merely a paraphrase of the words of Abhinavagupta in the *Locana* on the *Dhvanyāloka*. The derivative nature of these materials, as we have seen before, are indicative of Hemādri’s relative lack of interest in the intellectual discipline of Alaṃkāraśāstra as an end in itself. For our author, poetics is always a means to an extra-intellectual doctrinal end.
+
+[^1942_1817]: Compare with Hemacandra’s *Kāvyānuśāsana*. Substantial variant passages (not a matter of change in syntax and grammatical form) are marked in bold. Vamana Sarman, ed. *Kāvyānuśāsana: Dvitīya Saṃskaraṇa* (Bombay, Shri Mahavira Jaina Vidyalaya, 1964), 120–21: *vairāgyasaṃsārabhīrutātattvajñānavītarāgapariśīlana- parameśvarānugrahādivibhāvo yamaniyamādhyātmaśāstracintanādyanubhāvo dhṛtismṛtinivedamatyādivyabhicārī tṛṣṇākṣayarūpaḥ śamaḥ sthāyibhāvaś carvaṇāṃ prāptaḥ śānto rasaḥ* /
+
+Hemādri’s most fundamental innovation, apart from his insistence, programmatically asserted throughout this text, that Bhagavān himself serves as the *ālambanavibhāva*, is his assertion that the consequent (*anubhāva*) of *śāntarasa* is limited to the recognition of the presence of the self within all beings, as opposed to, as Hemachandra would have had it, [[P1943]] gnostic realization (*tattvajñāna*) itself. This choice is in keeping with the true rhetorical function of the inclusion of *śāntarasa* as a separate aesthetic modality within this treatise, which is to disassociate a quietistic lower level of spiritual attainment that merely removes suffering from both *jīvanmukti* and *videhamukti*. As we are about to see, in a conceptual move that is without any recoverable precedent, Hemādri decides that both of these social agents should be classified as special exemplars of the variety of *vīrarasa* that falls within the domain of the *dharmavīra*. The key distinction being drawn here is that in the domain of *śāntarasa*, *mokṣa*, when it happens at all, is to be defined as freedom from pain where there is no experience of anything, let alone bliss. This is precisely the classical understanding of liberation that one finds in most non-Tantric and non-*Bhāgavata* aligned classical traditions, including, quite conspicuously, many of the interpretations of the classical Advaita Vedānta of Śaṅkara as articulated by his disciples. In Hemādri’s representation of it at least (much as we found in Bhaṭṭa Nāyaka), *śāntarasa* works through the removal of a superimposed meaning, revealing a purportedly ultimate reality that is devoid of the features that had been superimposed upon it.
+
+The difference between this worldview and the one that Hemādri will be promoting is made evident in his choice of the verse he chooses to highlight as the *śāntarasa* division begins. A literal rendering that assumes an Advaita context (perhaps no more correct than other readings) [^1943_1818] of the verses, compatible with a *śānta* perspective, might read something like this:
+
+[^1943_1818]: Tapasyananda, following Śrīdhara, translates *Bhagavata Purāṇa* 1.5.26–27 as follows: “Hearing every syllable of those recitals with faith and attention, I developed the feeling of delight in the Lord, whose glories are charming to contemplate. After I developed this delight in the Lord, my mind would never disengage itself from Him of endearing glory. In this mental state I experienced that the whole of the universe in its subtle as well as gross condition is generated by His power of *Maya* in Himself, from whom my entity, the *Jiva*, too has no separate existence, the *Jiva* has, too has no separate existence.”
+
+> Then, because of the passion (*rati*) I had obtained regarding that Lord of endearing glory, O great sage, that for me an unwavering doctrinal conviction (*mati*) arose, [[P1944]] through which I saw that this is the truth, that everything that exists is not existent, and that it is imagined through his power of illusion in me who am supreme *brahman*. [^1944_1819]
+
+[^1944_1819]: *Bhāgavata Purāṇa* 1.5.27: *tasmiṃs tadā labdharucer mahāmate priyaśravasy askhalitā matir mama / yayāham etat sadasat svamāyayā paśye mayi brahmaṇi kalpitaṃ pare* //
+
+Hemādri, however, understands the passage as asserting a substantively different message, one that seems to prefigure what the Gauḍīya theologians will label the doctrine of *acintyabhedābheda*—namely, that we should locate inconceivable difference not within the transient world of *māyā*, but within the godhead itself:
+
+> H: If you say, “what is the use of *rati*?” he says *tasmin* and so forth.
+>
+> *Tasmin*, “in him,” means in Kṛṣṇa, who is Lord of endearing glory. Non-wavering intellect is knowledge that is free from doubt. In regard to that where there is *rati* [i.e., the *ālambanavibhāva* that is God], there is understanding. By which kind of doctrinal conviction (*mati*) [does this happen]? By [the understanding that when we state that *brahman*] is true and not true, [what is meant is] the subtle and gross as the pair of forms [that make up *brahman*]. “Through my *māyā*” precisely means this is imagined or superimposed regarding me, having the form of *brahman*, as in the example of the rope and the snake. . . . It is not the case that just as a snake that is real elsewhere is superimposed on a rope, in the same way, a pair of forms that is real elsewhere [located in *māyā*] is superimposed on *brahman*. Rather, this [double nature] is just intrinsically inexpressible [but a part of *brahman*]. [^1944_1820]
+
+[^1944_1820]: Hemādri, *Kaivalyadīpikā*, pg. 268–69: *nanu kiṃ ratyeti cet tatrāha, tasminn iti / tasmin śrīkṛṣṇe priyaśravasi / askhalitā matiḥ niḥsaṃśayaṃ jñānaṃ / yatraiva ratis tatraiva matir ity arthaḥ / yayā matyā sadasat sthūlasūkṣmaṃ rūpadvayaṃ / mamaiva māyayā mayy eva brahmarūpe kalpitam āropitaṃ rajjubhujaṅgavat / paśye adyāpi paśyāmi / etad idam iti padadvayena yathānyatra satyo bhujaṅgo rajjvām āropito na tathā ’nyatra satyaṃ rūpadvayaṃ brahmaṇy āropitam / kiṃtv idam eva ity uktam / anirvācyam ity arthaḥ* //
+
+The fundamental shortcoming of *śāntarasa*, from this perspective, is that through the repression or elision of the modes of conceptualization within the mind that produce suffering, not only is passionate attachment to the godhead potentiality snuffed out, but the receptive intellect ceases to be able to grapple with or even recognize the paradoxical double nature that defines *brahman*, aligning instead with a more limited sense of the serene. As Hemādri explains, very much foreshadowing the writings of the Gosvāmins, in the ease of liberation (*muktisukhe*) there is an absence of the enjoyment of *bhakti* (*bhaktisukhābhāvāt*), while in the [[P1945]] enjoyment of *bhakti* (*bhaktisukhe*) there is not an absence of the ease distinctive to liberation (*bhaktisukhe muktisukhābhāvo nāsti*), and for this reason the enjoyment that pertains to *bhakti* is better and more complete. [^1945_1821] Elsewhere in the *vīrarasa* section, to which we turn at the closure, Hemādri further refines his presentation of the nascent doctrinal formulation in the context of attempting to “resolve” apparent contradictions within a standard list of epithets that the *Bhāgavata* applies to the supreme reality.
+
+[^1945_1821]: Hemādri, *Kaivalyadīpikā*, pg. 301: *sa uttamaślokamahanmukhacyuto / bhavatpadāmbhojasudhākaṇānilaḥ / smṛtiṃ punar vismṛtatattvavartmanāṃ / kuyogināṃ no vitaraty alaṃ varaiḥ // H: muktisukhe bhaktisukhābhāvavat bhaktisukhe muktisukhābhāvo nāstīty āha—sa uttameti / sudhākaṇānāṃ amṛtabindūnām anilo dūrād api śravaṇam ity arthaḥ* /
+
+> I go to you who is without quality (*nirguṇa*). Why? Because you are stainless (*nirañjana*). The collyrium that covers and obscures the primordial radiance (*prakāśāvaraṇaṃ*) is called *māyā*. But possessing qualities (*saguṇa*) is due to the conjunction with *māyā*. And [yet,] you are non-dual. For, if there is a conjunction with *māyā*, would this not be tantamount to the fact of possessing duality? How is it the case then, that you are nondual? It is because you consist of *jñapti* (consciousness) alone. The sense is, because you are inexplicable, [at least in terms] based on the categories of existing and non-existing on the part of *māyā*. [^1945_1822]
+
+[^1945_1822]: Hemādri, *Kaivalyadīpikā*, 310–11: *tasmād visṛjyāśiṣa īśa sarvato rajas-tamaḥ-sattva-guṇānubandhanāḥ / nirañjanaṃ nirguṇam advayaṃ paraṃ tvāṃ jñaptimātraṃ puruṣaṃ vrajāmy aham // tad evaṃ saprabhedaṃ vīrarasaṃ nirūpya tadbhaṅgyā bhaktirasānubhavituḥ phalasambandhaṃ darśayann upasaṃharati—tasmād iti / tasmād varāṇām anartharūpatvāt / āśiṣaḥ āśāsyamānāni phalāni / sarvaśaḥ lokatrayavartinīr api / nirguṇaṃ tvāṃ vrajāmi / nirguṇaḥ kutaḥ, yato nirañjanaḥ / añjanaṃ prakāśāvaraṇaṃ māyākhyam / saguṇo hi māyāsambandhāt / ato ‘dvayaḥ / māyāsambandhe hi sati dvitīyatvaṃ syāt, kuto ’dvayaḥ? yato jñaptimātraḥ / māyāyāḥ sattāsattābhyām anirvācyatvād ity arthaḥ*./
+
+What is interesting for our purposes here, and historically quite telling, is the taxonomic mismatch between the “doctrinal” position we see being presented here, which we would likely be inclined to label philosophically as some sort of *bhedābheda* position, and Hemādri’s own self-representation as the master and promoter of what he is labelling *advaitavāda* paired with the absence of the sort of *advaitakhaṇḍana* one will find in similar venues once we reach early modernity. One thing this shows us is that even at the end of thirteenth century, the canon of a normative “nondual” “Vedāntic” mainstream, this touchpoint to which modern essentializing [[P1946]] scholarship reaches for as indexical of Indian religions, at least in the Deccan, has yet to emerge. It speaks volumes that this intervention, totally counterintuitive to us, is not merely explicitly shared by two of the three authors we have just engaged with but proves the conceptual fulcrum that is itself used to position their theological projects in relation to those of their rivals and dialogical partners. Finally, we must consider the fact that in Hemādri, this conception persists and perhaps becomes of heightened pertinence at the very same time that he is sidelining the social form—reciprocal exchange with an authority-patron where one acts by granting favor below oneself on the social scale and as supplicant to the authority that presides over one’s main sphere of activity, and the social agent, the *guru* as life provider—to which such philosophical positions had hitherto been so closely wedded.
+
+Unlike other theological communities that seek to strictly delimit the scope of activity for charismatic religious authority as embodied in particularized living exemplars of tradition, Hemādri’s aim is not to eliminate such figures entirely, or to place them as a distant ideal whose sphere of influence lies outside of transactional social realities. Instead, he seeks to reinscribe living virtuosos, the *jīvanmuktas* or future *videhamuktas*, not as sources of religious knowledge, “Brāhmaṇical authorities” as we typically imagine them, but rather as zealous promoters, defenders, and evokers of the fixed entextualized *dharmas* instantiated in works like the *Kaivalyadīpikā* and *Caturvargacintāmaṇi*, who through fulfilling that role automatically have their minds cleared of wrong understanding. Seemingly in tension with the other features that he assigns to this domain, Hemādri asserts that the *vīra* is the flavor of *bhakti rasa* where *sattva* is the predominant mode (*sattvapradhānam*), and thus the most identified with “purity.” In other words, *vīrarasa* is the best form of *bhakti rasa* and the *vīrabhakta* is the [[P1947]] most exalted among the *bhaktas*. [^1947_1823] Hemādri suggests that there are in fact three main types of *vīra bhaktas*, in ascending order of virtue. [^1947_1824] First, there is the *yuddhavīra*, who obliterates the enemies of the *Bhāgavatas*. Then, there is the *dānavīra*, exemplified by Dadhīci who gave others his own bones, who expresses his heroism through his self-sacrifice and generosity in support of the cause of *Bhāgavata dharma*. This can take the form of either concrete material contributions or acts of “philanthropy.” The second category, Hemādri suggest, should be substituted in place of the usual presentation of the *dayāvīra*, the compassionate hero whose presence in the literary canon is typically identified as confined to a few Buddhist plays. Indeed, the *dāna* hero role is itself expanded to include those “offerings” of the heads and bodies of enemies that the warrior oblates into the fire that is the field of battle. Finally, best of all, there is the *dharmavīra*, one whose contributions is the upholding and instantiation of *dharma* itself, a role that finds its perfection in the figure of the *niṣkāmadharmavīra*, the best among the *bhaktas*.
+
+[^1947_1823]: Hemādri, *Kaivalyadīpikā*, pg. 297: *evaṃ hāsyādibhaṅgibhinnabhaktirasānubhavāvacchedād aṣṭau bhaktān abhidhāya samprati navamaṃ bhaktam abhidhātum utsāhasthāyinaṃ pratināyakavartinayavinayāsammohā- dhyavasāya-balaśaktipratāpaprabhāvavikramādhikṣepādivibhāvaṃ sthairyadhariyagāmbhīryatyāgavaiśāra- dyādyanubhāvaṃ dhṛtismṛtyaugragarvāmarṣamatyāvegaharṣādisañcāriṇaṃ mahendradaivataṃ gauradehaṃ sattvapradhānaṃ vīrarasam ārabhate—vīreti* /
+[^1947_1824]: Hemādri, *Kaivalyadīpikā*, pg. 297: *sa ca vīras trividho yuddha-dāna-dharma-bhedāt* /
+
+Needless to say, the more one delves into the particulars surrounding this vision of religious excellence, of exemplifying purity in thought, word, and deed and being untouched by the workings of *prakṛti* and the *guṇas*, the more what one finds seems at odds with most traditional “Brāhmaṇical” valuations. Hemādri begins by telling us that the lasting emotional mode (*sthāyibhāva*) of *vīrarasa*, which serves as the *upāya* and point of entry into the nature of Kṛṣṇa for the devotee, is exertion or might (*utsāha*); no problem so far. It is when we get to the *vibhāvas* particular to this *rasa*, which complement the more general illuminator *vibhāvas*, [[P1948]] such acts as listening to the tales of Viṣṇu and his devotees held in common by all *bhaktas*, that we confront an array of key dimensions of the heroic *bhakta* that rest uneasily both with classical South Asian visions of the religious virtuoso and most modern moralities. One would not expect a *jīvanmukta* who is defined not only by his valor above and beyond the call of duty (*vikrama*) but also by his commanding (*prabhāva*), even, “contemptuous” nature (*adhikṣepa*). Similarly, a man typified by his fierce and diverse sources of power and rectitude in comportment and self-presentation might perhaps seem an ideal to follow into battle, but usually this is not the same person who exemplifies to us conclusive discernment over what constitutes worldly delusion (*āsammohādhyavasāya*), a strange compound that in Hemādri’s repeated usage gets directly conflated both with developing absolute certainty in doctrinal terms and even with being a knower of *brahman* (*brahmavit*). Nor do we expect the passing moods of the most perfectly *sattvic* virtuoso to include his tendencies towards excitation (*harṣa*), even tempestuousness (*āvega*), or towards ferocity (*augra*), or his impatience for arrogance (*garvāmarṣa*). The list of *anubhāvas*, incorporating *sthairya, dhairya*, and *śaurya* in sequence, the very same traits that long ago we saw being ascribed to our Śākta-Śaiva Śūdra big man Habbĕya Nāyaka, seem more like expressions of *machismo* charged with the fervor but also the fundamental instability to which *rājasic* beings are inclined, than they do the qualities of someone who has perfectly realized *brahman*.
+
+Hemādri seems to be asserting that to really understand Advaita in its highest forms requires aptitudes of the sort we assign not to scholars, but seasoned warriors, who rush into the heat of battle zealously engaged with the task at hand but utterly detached from the wider strategic program of the war or its long-term tactical objectives for the kingdom. A person who acts in this manner, never losing focus of Kṛṣṇa, engages in *ahaitukī bhakti* and through it [[P1949]] becomes transformed into the *niṣkāmadharmavīra*. As Hemādri explains, it is precisely this kind of wild *machismo* that distinguishes this best of *bhaktas* from the inadequacy of the merely serene *bhakti* of the *śāntabhakta*.
+
+> Thus, having presented the *dānavīra*, by showing the typology of the *dharmavīra* sequentially, he exemplifies the *niṣkāmadharmavīra* in fifteen verses because of its preeminence [as a category]. . . . By these two words [in our verse,] “*asaṅgo*” and “*vilajja*,” he expresses that a certain amount of loftiness (*audārya*) is mentioned as contained within his thought insofar as he has contempt for the world. And by that is understood a vigor that has as its nature not being a eunuch/a non-lack of virility (*aklaibya*). This itself is its [*niṣkāmadharmavīrarasa*’s] point of differentiation from *śāntarasa*. For, in *śāntarasa*, there is not complete turning away [from the things of this world] due to shame (*lajjā*) and so forth. But the *dharma*[*vīra*], however, has the form of the absorption in the life and so forth of Bhagavān. [^1949_1825]
+
+[^1949_1825]: Hemādri, *Kaivalyadīpikā*, pg. 304–305: *śṛṇvan subhadrāṇi rathāṅgapāṇer janmāni karmāṇi ca yāni loke / gītāni nāmāni tadarthakāni gāyan vilajjo vicared asaṅgaḥ // evaṃ dānavīraṃ darśayitvā kramaprāptaṃ dharmavīraṃ darśayann abhyarhitatvān niṣkāmadharmavīram eva pañcadaśabhiḥ padyair udāharati. . . . asaṅgo vilajja ity ābhyāṃ lokāpagaṇanayā cittagataṃ kim apy audāryam uktam / tena cāklaibyātmaka utsāho ’vagamyate / ayam evāsya śāntād bhedaḥ / śānte hi nātyantaṃ lajjādes tiraskāraḥ / dharmas tu bhagavajjanmādyanusandhānarūpaḥ* //
+
+Using a language that is unmistakably, even prototypically gendered, Hemādri homologizes the ethos of *śāntarasa* with that of a demure blushing young woman through invoking the poetic trope of *lajjā*. The *śāntarasa bhakta* reacts to “her” love interest, who in this case is Bhagavān himself, by displaying the coy embarrassed behavior of a virgin for whom acting on desires is an alien experience. This weakness is then contrasted with the literally unneutered (*aklaibya*) virility of the *niṣkāmadharmavīra*, who above all is else is a “real” man, who knows what he wants—again, Bhagavān—and goes after it. Needless to say, our source in the *Bhāgavata*, which once again is the teaching of the *navayogins*, knows nothing of this peculiar dichotomy. In the text, we are just about to be introduced to the characteristics of the “best of the *Bhāgavata* adepts,” the *bhāgavatottama*, who will quite literally be defined as the serene one (*śānta*) who has equanimity towards all beings [[P1950]] (*sarvabhūtasamaḥ*), which is to say, a dead ringer for the serene *bhakta* of the Ālaṃkārikas. In a considerable departure from Hemādri’s representation of the *niṣkāmadharmavīra* as above all else one who revels in judging and then dispatching those who push back against the *dharma*, the *Bhāgavata* here teaches that the best of *bhaktas* is one who not only displays love towards God (*īśvare prema*), but also brotherhood towards those who are dependent upon him (*tadadhīneṣu maitrī*) and even indifference towards his enemies (*dviṣatsu upekṣā*). Such a person, who is neither attached to his birth status, his *varṇa* and *āśrama*, his body, nor even his own deeds, and who has transcended grasping after notions of I and mine, so the *Bhāgavata* tells us, reflects not the heat of the sun, but the coolness of the moon. His ecstatically effusive loving devotion (*parapremabhakti*), which for the root text is the highest expression that devotion can assume, spontaneously gushes forth from this place of inner repose and serenity, most often taking the form of song, dance, and cries of joy. Indeed, the coming chapters in this division of the text contain some of the most iconic expressions of these values in the whole of the *Bhāgavata*. The root text’s theological formulation, however, which takes loving affect solely as an attribute of the best kind of *bhakta*, is incompatible with Hemādri’s theoretical framework, which has already presented these features as the defining baseline feature of most forms of engagement with God across the *rasa* spectrum that is refined to the point that it becomes charged with *prema*. How, then, is the *jīvanmukta* to be distinguished from the less illustrious adepts who aspire to keep his company? Hemādri’s solution, such as it is, involves a repurposing and reinscription of a very old ideal. As the *Bhāgavata* proclaims:
+
+> The one who has made this his observance (*vrata*), on whose part *anurāga* has arisen (*jātānurāga*) through singing the name of his beloved aloud with a mind dissolved [in Bhagavān]— He laughs (*hasati*) loudly. He weeps (*rodati*). He howls (*rauti*). He sings [[P1950]] (*gāyati*). He dances (*nṛtyati*). As if he is mad (*unmādavat*), he is outside the world (*lokabāhya*). [^1950_1826] [[P1951]]
+
+[^1950_1826]: Hemādri, *Kaivalyadīpikā*, pg. 305: *evaṃvrataḥ svapriyanāmakīrtyā jātānurāgo drutacitta uccaiḥ / hasaty atho roditi rauti gāyaty unmādavan nṛtyati lokabāhyaḥ // 20 //*
+
+Down to the level of word choice, the ethos invoked here is none other than that of the Pāñcārthika Pāśupatas, the earliest of the recoverable social agents who populated the Śaiva Age. It is perhaps no accident that this is also quite plausibly the religious community into which Hemādri’s own father, under the name Prajñārāśi, integrated himself in his final, and from his son’s perspective, futile, years. As you may recall from the first chapter, writing in the fifth century CE, Kauṇḍinya had instructed that at the beginning of a Pāśupata *sādhanā*, when the adept is dwelling perhaps in an old temple, the adept is to laugh, to sing in both Sanskrit and Prakrit (either traditional or his own composition), dance, and shout out (albeit the iconic Pāśupata *ḍuṃḍuṃkāra* noise). While in Kauṇḍinya, the connections of these practices with the theology of an exclusive *bhakti*, where one cultivates a focus on the Lord at the expense of all other things, which he is the first to articulate within the idiom of *śāstra*, is merely implicit, in the later commentarial tradition exemplified by the tenth-century Bhāsarvajña in his *Gaṇakārikā*, this array practices is explicitly treated as inextricable from the supreme *bhakti*. [^1951_1827] [[P1952]]
+
+[^1951_1827]: C. D. Dalal, ed., *Gaṇakārikā of Ācārya Bhāsarvajña* (with Four Appendices Including the Kāravaṇa- māhātmya) (Baroda: Central Library, 1920). *Gaṇakārikā* 1.7.37–49: *evaṃ snānaṃ nirvartya japann evāyatanaṃ gatvā śivaṃ bhaktyatiśayena praṇamya snānaṃ nivedya ca śanair garbhagṛhaṃ praviśet // tadanu mūrtidakṣiṇe bhūdeśe jānunī pātayitvā hṛdi cāñjaliṃ baddhvā mūrtisthaṃ sākṣād iva śivaṃ paśyan yady anivṛttapratyāhāras tadā gatamātra eva hasitaṃ kuryād ity eke // vayaṃ tu paśyāmo ‘bhigamya ca yatpūrvaṃ japatītyādi bhāṣyasyārtho yadi vicāryate tadāvaśyaṃ gatvā saṃyatātmanottarābhimukhena pratyāhāraviśeṣārthaṃ japtavyaṃ japtvā tu śivadhyānāsakta evāṭṭahāsaṃ punaḥ punaḥ kuryāt // tadanu gītam ārabhya gāyann evottiṣṭhet // tato gītasahitam eva nṛtyaṃ kuryāt // tatrādau gītaṃ parisamāpya paścān nṛtyaṃ samāpayet // tadanu pūrvoktavidhinopaviśya śivaṃ dhyāyann eva huḍukkāraṃ kṛtvā namaskāraṃ kuryāt tadanu japam iti // atra japanamaskārau mānasāv eva nṛtyaṃ kāyikam eva hasitagītahuḍukkārā vācikā eveti niyama iṣṭaḥ // tatra dīrghocchvāsatrayaṃ yāvaddhasitaṃ daṇḍakatrirāvartanaṃ yāvadgītanṛtye gambhīrahuḍukkāratrayaṃ ṣaṣṭi namaskārān pañcapavitrāṇāṃ trirāvartanaṃ kuryād ity āha bhagavān ācāryaḥ svāmī mama yenāham ajñānārṇavād uttāritaḥ // ṭīkākārās tu sarvam ā paritoṣāt kartavyam ity evaṃ pratipannāḥ // tad evaṃ nirvartyopahāraṃ dhyāyann īśaṃ hasitagītanṛtyahuḍukkāranamaskārajapyaiḥ ṣaḍaṅgopahāraṃ bhagavan mahādeva yuṣmadanujñayā nirvartitavān aham avabhṛthasnānaṃ ca kariṣyāmīty evaṃ nivedayet // tato niṣkramyeśaṃ praṇamya praṇāmāntaṃ pradakṣiṇatrayaṃ japann eva śanaiḥ kuryāt // tato ‘vabhṛthasnānaṃ kṛtvā bhagavaṃl lakulīśādīn rāśīkarāntāṃś ca tīrthakarān anukrameṇa yathāvadbhaktyā namaskuryāt tadanu pradakṣiṇam ekam iti* //
+
+And if these practices are quintessential reflections of how worship was to be conducted as the Śaiva Age began, our verse’s vision of the behavior and existential status ascribed to the *jīvanmukta* is again a dead ringer for the originary ethos that defined the Atimārga. Just as the *atyāśramin vratin* of the Pāśupatas and *lokātītavratin* of the Lākulas, the best of *Bhāgavatas*, like a madman (*unmādavat*), is seen as standing outside of the world and its norms. To know God completely, in other words, one must be *lokabāhya*. A surprisingly uncommon compound across Sanskrit discourses, in Hemādri’s day, this term seems have carried with it two competing connotations. On the one hand, it is the calling card of the highest kind of renunciate, the *paramahaṃsa*. At the same time, more colloquially, especially in poetry, the term can also allude to more pedestrian, beyond the pale comportment, especially behavior so laden with *tamas* that it calls for outcasting. [[P1953]]
+
+In the presentation that all but concludes the *Kaivalyadīpikā*, the verse we are exploring anchors our author’s articulation of this imagined extra-textual notion of the *niṣkāmadharmavīra*. For, even though, ostensibly, according to our author, the concept of the *dharmic vīra* who acts without desire is to be fleshed out through the presentation of fourteen additional verses compiled from the *Bhāgavata*, in actuality, a plurality of the verses in question simply offer generic *praśasti* to the virtues of chanting Viṣṇu’s names and of seeing his presence as eminent in the world, but otherwise have little specific semantic content. In situ, these passages, which are primarily found scattered throughout praise hymns embedded in the *Bhāgavata*, have no particularized conceptual or rhetorical connection to each other. Nor are these texts aimed at exemplifying the top of the pecking order within a hierarchy of devotees. As we have seen, even the run of verses celebrating the best of *Bhāgavatas* (*bhāgavattotama*) in the root text is intent on exemplifying an eclectic and heterogenous ideal—whose substance diverges from Hemādri’s desired norm—and not at delineating an ideal type. In fact, most of the speakers of these verses are embedded in stories that are singularly ill suited to illustrating the role of the *jīvanmukta*. Whether we are speaking of the king of the elephants, who cries out to the Lord while the jaws of a crocodile close around his leg, sheds his body, and then is instantly reborn in Vaikuṇṭha, or sages such as Mucukunda and Kardama, who for different reasons enter into states of suspended animation for ages awaiting the chance for liberation at the hands of Viṣṇu, in almost every case, we are presented with words spoken by characters who are conspicuously liberated at the end of their lives and make no further interventions in the wide world after achieving gnosis. [[P1954]]
+
+These choices are all the more peculiar in light of the fact that the *Bhāgavata*, while never using the term “*jīvanmukti*” itself, contains many examples of *bhaktas* who in the later reception histories of the text would come to be identified as liberated beings who continue to act in the world. And yet, almost as if the forms of action they exemplify are themselves suspect, each of these figures is conspicuously demoted in the *Muktāphala* to merely representing a paragon of the highest forms of *vidhi* governed *bhakti*. This leaves our author with a rhetorical problem, for we are left with a *jīvanmukta* who neither sought after liberation to the exclusion of all other things, nor acts, as his Kaula antecedents had, as a special vehicle for the bestowal of grace. Our *jīvanmukta* is not supposed to serve as a teacher, yet at the same time, he is not supposed to disappear off into a cave or the remote wilderness. He is not a wish- fulfilling tree nor is he an irascible miracle worker. With all the good jobs and other usual gigs assigned to saints taken, just what does this *jīvanmukta* do with his time while he remains in the world? Hemādri’s answer is as follows:
+
+> H: [Now] he states the *anubhāvas* of the *vīra* in whom *dharma* has manifested by saying. . . . One’s own beloved (*svapriyā*) means Viṣṇu. The one whose *citta* is flowing (*drutacitta*) mean wet with *bhaktirasa*. Seeing that the one without desire appears unimpacted by the creation of the world and so forth, on the part of the one who is without desire [the *niṣkāmadharmavīra*], [he] laughs, cries, and releases tears from bliss.
+>
+> He “gives a discourse” (*rauti*) means he engages in an assembly thinking, “it is as if he is seated before the Lord.” Out of possession from *bhakti*, he sings. He dances, thinking, “I have crossed over the ocean of existence.” So, is that for the sake of explication as in the case of an actor? No, it is as if he is intoxicated. The sense is he is drunk. There is an “*añc*” suffix in the sense of *ādi* [meaning he is drunk and possesses other traits]. By the phrase “outside the world” (*lokabāhya*) is articulated the fact that he is free from attachments and so forth [and not that he is engaging in deviant behavior]. [^1954_1828] [[P1955]]
+
+[^1954_1828]: Hemādri, *Kaivalyadīpikā*, 305: *āvirbhūtadharmavīrarasasyānubhāvān āha—evam iti / svapriyo viṣṇuḥ / drutaṃ bhaktirasena klinnam / nirīhasya jagajjananādyabhimānam iva paśyan hasati rodity ānandāśrūṇi muñcati / rautīti bhagavantaṃ puraḥsthitām iva manyamāno goṣṭhīṃ kurute / bhaktyāveśād gāyati, uttīrṇo ’smi bhavāmbudhim iti nṛtyati / tat kiṃ naṭavat khyāpanāya? nety āha—unmādavad iti / unmāda ity arśa- ādyacpratyayaḥ / lokabāhya ity anenāsaṅgāditvam uktam* //
+
+Building upon a strictly Pāśupata foundation, through exegetical sleight of hand, as an alternative to the Pāśupata ideal of the howler in the wilderness, Hemādri offers us a portrait of the liberated *bhakta* as an almost pedestrian figure whose mind is forever occupied with Vedānta principles and whose singular feature is his propensity for singing god’s name. What stimulates the *jīvanmukta* to laugh, cry, and release tears from bliss is the mastery of the third of the *Brahmasūtras*, which makes evident the irrelevance or unreality of the creation of the world. Instead of roaring (*rauti*, derived from the very verbal root from which we get the name Rudra), this *jīvanmukta* gives a discourse in the *sabhā*, perhaps even acting as a Dharmaśāstrin handing down a judgment, while all the while keeping Viṣṇu in mind. As Hemādri pointedly observes, this *bhakta*’s exuberance serves no pedagogical function and certainly should not be taken as a guide for the behavior of others. Like with all religiosities not guided by injunction, his exuberance is mere accident and serves no further purpose, human or divine. For all his oddities as well as his apparent utter powerlessness for substantively altering the course of worldly events, even in microcosm, however, the *niṣkāmadharmavīra* is very much a creature of this world. In the crowd but not of it, he seeks to help implement and defend a regime of *sanātanadharmas* that is at once “eternal” and the product of a religious reformation particular to thirteenth-century Maharashtra. Whereas the Pāśupatas had decried as antithetical to god’s own values the unending transactionality that defines the human condition and that is inseparable from harm to self and other, and their successors in the Śaiva Age had sought to actualize a special dispensation that embedded its adherents for all time in another order of value, as the Śaiva Age is brought to an end, the best of *bhaktas* becomes a vehicle for making it evident that there is no way to be “outside of the world” just as we found it, for the universal *dharma* is ever present, in word as well as in deed.
