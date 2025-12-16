@@ -582,6 +582,15 @@ just as the conjunction of ocean waves generates billows, bubbles and the like a
 जगति प्रसरदनन्तस्वशक्तिचक्रा चितिर्भाव्या ॥ १४ ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+It may be understood as:  
+Consciousness (cit = the bhairava) should be contemplated as possessed of innumerable wheels-within-wheels of his own shakti-s emanating this universe, pervading the five sensory fields, and assuming the forms of experienced objects, senses and the experiencer.
+
+This metaphor of the wheels within wheels has always appealed to us, as we have seen it as a fractal analogy that triggers something primal in the brain and beyond. 
+</details>
+
+
 <details><summary>विद्याचक्रवर्तिः</summary>
 
 यदेतद् भोग्यतत्साधनभोक्तृरूपं विश्वम्, तद्   
