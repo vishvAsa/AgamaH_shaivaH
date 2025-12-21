@@ -3,7 +3,21 @@ title = "१ चक्रः"
 
 +++
 चक्रसङ्केतः प्रथमः  
-  
+
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The yoginI-hR^idaya constructs 6 different chakra-s from the interlocking 9 triangles of the shrIchakra and the center of the circumscribing circle:
+
+1. bindu
+2. baindava-chakra
+3. aShTAra-chakra
+4. antardashAra-chakra
+5. bahirdashAra-chakra
+6. chaturdashAra-chakra
+</details>
+
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 जगद्वन्द्यावेतौ गणपबटुकौ विश्वविनुतौ  
@@ -358,6 +372,12 @@ title = "१ चक्रः"
 </details>
   
   
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The yoginI-hR^idaya section of the vAmakeshvara tantra gives a meditation on the shrI-chakra and the correspondences of its several circuits. It presents the core conjunction of triangles as a balance between generative and destructive forces with a slight preponderance of the former. Evidently, this imbalance allows the manifestation of the universe, which the text sees the shrIchakra as representing
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्-+++(स्वाभिमुख-त्रिकोणाख्य-)+++छक्ति-पञ्चकं सृष्ट्या  
@@ -366,11 +386,16 @@ title = "१ चक्रः"
 संयोगाच् +++(श्री)+++**चक्र-सम्भवः** ॥ १।८ ॥  
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+The pentad of the shakti (the 5 downward triangles) is with emissive/generative [capacity] and the tetrad of the fires (the 4 upward triangles) with reabsorptive/destructive [capacity]. The chakra is [thus] generated from the conjunction of five shakti-s and four fires.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 तच्छक्तिपञ्चकं सृष्ट्या लयेनाग्निचतुष्टयम् ।  
-पञ्चशक्तिचतुर्वह्निसंयोगाच्चक्रसम्भवः ॥ १।८ ॥  
-
+पञ्चशक्तिचतुर्वह्निसंयोगाच्चक्रसम्भवः ॥ १।८ ॥
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -548,22 +573,58 @@ title = "१ चक्रः"
 सृष्ट्या वह्नित्वं च संहारात्मना प्रतिपद्य तत् त्रिधाऽभूदित्यर्थः । एवं कृते   
 सवासनं नवयोनिचक्रं निष्पद्यत इत्याह -   
   
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+धर्माधर्मौ तथात्मनौ  
+मातृमेयौ तथा प्रमा ॥ १।१२ ॥  
+नवयोन्यात्मकम् इदं  
+चिदानन्द-घनं महत् ।  
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+This [chakra] is [thus] a nine-fold womb/source dense with the bliss of consciousness. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 धर्माधर्मौ तथात्मनौ मातृमेयौ तथा प्रमा ॥ १।१२ ॥  
 नवयोन्यात्मकमिदं चिदानन्दघनं महत् ।  
+</details>
+
   
-      धर्माधर्मौ पुण्यापापे । आत्मानः आत्मा, अन्तरात्मा, परमात्मा,   
-ज्ञानात्मा चेति चत्वारः । मातृमेयौ माता जीवः, मेयो ग्राह्यवर्गः । प्रमा   
-ज्ञप्तिः ॥ १।१२ ॥  
+धर्माधर्मौ पुण्यापापे । आत्मानः आत्मा, अन्तरात्मा, परमात्मा,   
+ज्ञानात्मा चेति चत्वारः । मातृमेयौ माता जीवः, मेयो ग्राह्यवर्गः । प्रमा ज्ञप्तिः ॥ १।१२ ॥  
   
-	एवमेतन्नवमयं नवयोन्यात्मकं चक्रं चिदानन्दघनम् । चित् चैतन्यकला,   
+एवमेतन्नवमयं नवयोन्यात्मकं चक्रं चिदानन्दघनम् । चित् चैतन्यकला,   
 आनन्दो विश्वाहन्तापरिणामः, ताभ्यां घनं बहिरन्तर्निबिडम् । यथा लवणं   
 घनम् । महद् देशकालाकारैरनाकलितम्, चिन्मयत्वात् ।  
   
 प्रथमं त्रिकोणस्य पश्यन्त्यादित्रितयहेतुत्वात् तन्मयतां प्रतिपाद्य इदानीं   
 बाह्यचक्रस्य वैखरीमयतां तदुत्थितां तत्त्वस्वरूपतां च कथयति चक्रमित्यादिना   
 वामारूपभ्रमित्रयमित्यन्तेन (श्लो। १३-१९) -   
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+This nine-fold (1) chakra [corresponds to] the mantra divided into 9 parts (2).
+
+(1) also an allusion to navAtman, the bhairava of the pashchimAmnaya.  
+(2) While the core mantra of the shrIkula tradition is not nine-part, the allusion to a nine-part mantra here, is potentially a memory of the old link to the nine-fold mantra of the pashchimAmnAya.
+</details>
+
   
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चक्रं नवात्मकम् इदं  
+नवधा भिन्नमन्त्रकम् ॥ १।१३ ॥  
+</details>
+
+<details><summary>मूलम्</summary>
+
 चक्रं नवात्मकमिदं नवधा भिन्नमन्त्रकम् ॥ १।१३ ॥  
+</details>
+
   
       इदं चक्रं त्रिकोणत्रयरूपेण नवात्मकं त्रैलोक्यमोहनादि-नवचक्रात्मना   
 परिणतं नवधा भिन्नमन्त्रकं वक्ष्यमाणकर-  
