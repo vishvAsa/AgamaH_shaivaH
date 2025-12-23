@@ -199,7 +199,12 @@ Parallel to the verse S 11 of the saundaryalaharI, the bhAskararAya makhIndra ci
 > बिन्दु-त्रिकोण-वसुकोण-दशार-युग्म-मन्वश्र-नाग-दल-संयुत-षोडशारम् ।  
 वृत्त-त्रयं च धरणी-सदन-त्रयं च श्रीचक्रराजम् उदितम् परदेवतयाः ॥
 
-This makes the constituent parts of the shrIchakra explicit: bindu = prabhinnAbhiH shaMbhoH: signifying shiva (kameshvara or Anandabhairava); [trikoNa= baindavachakra; vasukoNa= aShTAr-achakra; dashAra yugma; manvashra= chaturdashAra-chakra = trayash chatvAriMshat]; nAga-dala=vasu-dala (8-petalled lotus); kalAshra = ShoDashAra (16-petalled lotus). The vR^itta-trayam = tri-valaya is interpreted in two ways: first, the three circles bounding the central nonad of triangles and the two lotuses; second, as a further set of 3 circles bounding the two lotuses and the inner nonad of triangles. We believe the first was the original interpretation (followed in multiple Nepalian exemplars and sometimes in Gujarat and Rajasthan), but then later exemplars interpreted the triad of circles as a further bounding structure (seen in both north and south India). The dharanI-sadana-trayam = tri-rekhAbhiH is the bhUgR^iha drawn with a triplet of lines.
+This makes the constituent parts of the shrIchakra explicit: bindu = prabhinnAbhiH shaMbhoH: signifying shiva (kameshvara or Anandabhairava);  
+[trikoNa= baindavachakra;  
+vasukoNa= aShTAr-achakra; dashAra yugma;  
+manvashra= chaturdashAra-chakra = trayash chatvAriMshat (the sum of the apical triangles of preceding chakra-s named above is 43)];  
+nAga-dala=vasu-dala (8-petalled lotus); kalAshra = ShoDashAra (16-petalled lotus). The vR^itta-trayam = tri-valaya is interpreted in two ways: first, the three circles bounding the central nonad of triangles and the two lotuses; second, as a further set of 3 circles bounding the two lotuses and the inner nonad of triangles. We believe the first was the original interpretation (followed in multiple Nepalian exemplars and sometimes in Gujarat and Rajasthan), but then later exemplars interpreted the triad of circles as a further bounding structure (seen in both north and south India). The dharanI-sadana-trayam = tri-rekhAbhiH is the bhUgR^iha drawn with a triplet of lines.
+
 </details>
 
 
