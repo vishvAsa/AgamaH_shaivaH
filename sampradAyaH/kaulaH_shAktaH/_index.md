@@ -12,3 +12,8 @@ title = "+कौलः शाक्तः"
 - ऊर्ध्वाम्नायः
   - कालीकुलम् - गुह्यकाली
   - श्रीकुलम् - त्रिपुरसुन्दरी
+
+
+सङ्ग्राह्यम् - 
+
+- Śākta Viśiṣṭādvaitavāda commentary on the Brahmasūtra by the late Mahāmahopādhyāya Panchanan Tarkaratna
