@@ -39,3 +39,10 @@ further supported by mountainous forms of brahman and viShNu as varAha.
 But these mountainous forms of the gods sunk under the weight of the goddess' yonI  
 leaving behind a mere hill.  
 The residues of the viShNu mountain are said to have become the cluster of vaiShNava shrines in the vicinity.
+
+> The dhUmA cult of the mahAvidyAs has been imposed on that kubjikA name(which to be honest,is not illegitimate. Her saubhAgyavidyA is definitely worshipped at Kamakhya I heard). - guNagarbha
+
+The purANa recognizes this pashchimAmnAya title:
+
+> tasmiMs tu kubjikApIThe satyAs tad yoni-maNDalam |  
+patitaM tatra sA devI mahAmAyA vyalIyata ||
