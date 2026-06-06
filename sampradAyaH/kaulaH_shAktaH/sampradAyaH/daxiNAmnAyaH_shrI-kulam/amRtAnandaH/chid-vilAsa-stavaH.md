@@ -9,7 +9,7 @@ Title: Cidvilāsastavaḥ
 
 Source: Dwiveda, Vrajavallabha (ed). Nityāṣoḍaśikārṇavaḥ: Śivānandakṛtayā ṛjuvimarśinyā Vidyānandakṛtayā Artharatnāvalyā ca Saṃvalitaḥ. 2. Saṃskaraṇam. Vārāṇasyām: Sampūrṇānanda-Saṃskṛta-Viśvavidyālayaḥ. pp. 322-330. 1985.
 
-Description: The Cidvilāsastava by Amṛtānanda, also known as Amṛtānandanātha and Amṛtānandayogin (fl. c. 1325-1375), is one of the most comprehensive treatments of the esoteric contemplation of ritual found within the Śrīvidyā tradition and Śaiva tantra in general. This short forty-verse hymn offers esoteric knowledge and creative contemplations (bhāvanā) for critical steps in the ritual worship of Tripurasundarī. Although belonging to the Śrīvidyā tradition, the Cidvilāsastava will likely be of great interest to all who perform pūjā as many of the verses deal with topics and procedures that are common to all traditional forms of ritual worship.
+Description: TheCidvilāsastavaby Amṛtānanda, also known as Amṛtānandanātha and Amṛtānandayogin (fl.c. 1325-1375), is one of the most comprehensive treatments of the esoteric contemplation of ritual found within the Śrīvidyā tradition and Śaiva tantra in general. This short forty-verse hymn offers esoteric knowledge and creative contemplations (bhāvanā) for critical steps in the ritual worship of Tripurasundarī. Although belonging to the Śrīvidyā tradition, theCidvilāsastavawill likely be of great interest to all who performpūjāas many of the verses deal with topics and procedures that are common to all traditional forms of ritual worship.
 Dwiveda, page 322
 </details>
 
