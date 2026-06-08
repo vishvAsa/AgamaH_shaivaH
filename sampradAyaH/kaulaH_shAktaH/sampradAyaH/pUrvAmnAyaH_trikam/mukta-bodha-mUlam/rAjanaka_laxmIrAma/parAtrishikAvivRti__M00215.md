@@ -1,4 +1,5 @@
 +++
+title = "परात्रिशिकाविवृति"
 "Catalog number" = "M00215"
 "Uniform title" = "parātriśikāvivṛti"
 Commentator = [ "rājānakalakṣmirāma", "lakṣmirāma",]
@@ -6,8 +7,6 @@ Subjects = [ "tantric / āgamic literature", "non-dual  śaivism of Kashmir",]
 Manuscript = [ "Statsbibliothek zu Berlin Preussischer Kulturbesitz orientabteilung   hs or. 11633 vollst.",]
 "Publication country" = "India"
 title_iast = "parātriśikāvivṛti"
-title = "परात्रिशिकाविवृति"
-
 +++
   
   
@@ -115,7 +114,7 @@ title = "परात्रिशिकाविवृति"
   
 नन्व? दृश्याकारेणोच्छूनं स्थूलमासीत् । आदावन्ते चिद्रसरूपं मध्ये   
 चिद्रसबुद्बुधरूपमित्युक्तेः । एवंविधावस्था   
-समाधिसुप्तिमूर्च्छास्वद्यापि चेत्यते तत्र हि देहप्राणबुद्ध्यादि वा   
+समाधिसुप्तिमूर्छास्वद्यापि चेत्यते तत्र हि देहप्राणबुद्ध्यादि वा   
 ह्यनीलाद्यन्तरसुखादि विमर्शाभावो स्येव सर्वजनप्रसिद्धः ओङ्कारो   
 ब्रह्मतत्वमिति फलितोऽर्थः ॥ यदुक्तम् ॥ यदयमनुत्तरमूर्तिर्निजेच्छया   
 सकलमिदं जगत् द्रष्टुं य स्पन्दे स स्पन्दः प्रथमः शिवतत्वमुश्यते   

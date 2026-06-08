@@ -1,4 +1,5 @@
 +++
+title = "स्वातन्त्र्यदीपिका"
 "Catalog number" = "M00668"
 "Uniform title" = "svātantryadīpikā"
 Author = [ "maheśvarācārya",]
@@ -8,8 +9,6 @@ Description = "Copied from Shri Raghunath Temple MSS Library manuscript 1127 k d
 "Publication country" = "India"
 title_iast = "svātantryadīpikā"
 author_iast = "maheśvarācārya"
-title = "स्वातन्त्र्यदीपिका"
-
 +++
   
 नो। ११२७ क  
@@ -531,7 +530,7 @@ title = "स्वातन्त्र्यदीपिका"
 यदुक्तं क्वचिच्छ्रेष्टःक्वचिद्भ्रष्टःक्वचिद्भूतपिशा  
   
 पृ० ५२अ) चवत् नानावेशधरोयोगीविचरन्त्यवनीत-  
-लिति एवन्दशावृत्तोवर्त्तमानस्यस्वभाव  
+लिति एवन्दशावृत्तोवर्तमानस्यस्वभाव  
 स्थितिमाह घूर्णितः अनुत्तराह्लादसांवाद-  
 क्षीवितोन्तर्वहिष्करणचक्रन्तत्पूरेणप्लावयित्वार्धनि  
   

@@ -1,4 +1,5 @@
 +++
+title = "मालिनीविजयवार्तिक"
 "Catalog number" = "M00158"
 "Uniform title" = "mālinīvijayavārtika"
 Author = [ "abhinavagupta",]
@@ -11,8 +12,6 @@ Publisher = [ "Research Department Jammu and Kashmir State",]
 "Publication country" = "India"
 title_iast = "mālinīvijayavārtika"
 author_iast = "abhinavagupta"
-title = "मालिनीविजयवार्तिक"
-
 +++
   
   
@@ -1862,7 +1861,7 @@ title = "मालिनीविजयवार्तिक"
 देहाश्रयविरोधश्च करणत्वेन चास्थितिः ।  
 वागादि यच्च कर्माक्षपञ्चकं तद्विविच्यताम् ॥५२३॥  
   
-आनाभेर्मुर्द्धपर्यन्तं यः समीराभिघातजः ।  
+आनाभेर्मुर्धपर्यन्तं यः समीराभिघातजः ।  
 विशेषः कोऽपि वागात्मा स तादृगिह कथ्यते ॥५२४॥  
   
 तस्य [तस्या इति पाठः] कार्यं भवेच्छब्दः कर्ता कोऽत्र   

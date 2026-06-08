@@ -1,4 +1,5 @@
 +++
+title = "उन्मत्तभैरव"
 "Catalog number" = "M00275"
 "Uniform title" = "unmattabhairava"
 Subjects = [ "tantric / āgamic literature", "śaiva",]
@@ -6,8 +7,6 @@ Manuscript = [ "IFP/EFEO transcript T1020",]
 Description = "Rites and Mantras relating to Unmatta Bhairava\nthe Ecstatic Bhairava.He is one of a group of eight Bhairavas of which\nthe most well known is Svacchandabhairava. Similar manuals for the\nother Bhairavas have not yet been traced."
 "Publication country" = "India"
 title_iast = "unmattabhairava"
-title = "उन्मत्तभैरव"
-
 +++
   
   
@@ -321,7 +320,7 @@ title = "उन्मत्तभैरव"
 ओꣳ भूतप्रेतपिशाचनाशनाय भयभञ्जनाय दिक्पालाय ह्रीꣳ दिग्बन्धनम् ॥  
   
 फट् हूꣳ भैरवनाथाय अस्त्राय फट् ॥  
-द्वादशवाहवे बाहुधराय सर्वे ह्रीꣳ अरिमर्द्दनाय हुं कवचाय हुम् ।  
+द्वादशवाहवे बाहुधराय सर्वे ह्रीꣳ अरिमर्दनाय हुं कवचाय हुम् ।  
 नानामूर्तये म्रꣳ म्रूꣳ दीर्घच्छन्दसि शिरसे स्वाहा ॥  
 इति न्यासः  
   

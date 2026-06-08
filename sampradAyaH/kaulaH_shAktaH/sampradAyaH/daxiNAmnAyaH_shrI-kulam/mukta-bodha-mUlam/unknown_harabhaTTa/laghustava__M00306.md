@@ -1,4 +1,5 @@
 +++
+title = "लघुस्तव"
 "Catalog number" = "M00306"
 "Uniform title" = "laghustava"
 Commentator = [ "harabhaṭṭa sastrī",]
@@ -9,8 +10,6 @@ Publisher = [ "Fine Art Press",]
 "Publication city" = [ "Srinigar",]
 "Publication country" = "India"
 title_iast = "laghustava"
-title = "लघुस्तव"
-
 +++
   
   
@@ -2197,7 +2196,7 @@ title = "लघुस्तव"
 निष्फलं तद्भवेद्देवि ! भस्मन्येव [भस्मनीव] यथा हुतम् ॥  
   
 यथा क्रतुषु विप्राणां सोमपानमदूषितम् [विधीयते] ।  
-अलिपानं [मद्यपानं तथा कार्य्यं समये भोगमोक्षदम् (आर्थर   
+अलिपानं [मद्यपानं तथा कार्यं समये भोगमोक्षदम् (आर्थर   
 एवलान्)] तथा देवि ! सोमवद्भोगमोक्षदम् ॥ (उ० ५ श्लो० ६७##-  
   
 प्। ६०)  

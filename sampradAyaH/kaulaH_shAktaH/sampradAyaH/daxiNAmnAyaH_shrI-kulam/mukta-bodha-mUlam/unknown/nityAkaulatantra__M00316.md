@@ -1,4 +1,5 @@
 +++
+title = "नित्याकौलतन्त्र"
 "Catalog number" = "M00316"
 "Uniform title" = "nityākaulatantra"
 "Secondary title" = [ "nityātantra",]
@@ -7,8 +8,6 @@ Manuscript = [ "NGMCP Manuscript No. 2-226 Reel No. B26/21a",]
 Description = "Description by Mark S.G. Dyczkowski:\nThis is the only manuscript that has been recovered of this Tantra \nalso called Nityātantra. Although just a few badly damaged \nleaves, the text which is certainly prior to the 10th century \nrepresents an important testimony of the early worship of \nTripurāsundarī as Tripurabhairavī. This goddess is known to the \nKubjikā Tantras that precede the emergence of the well-known \nśrīvidyā tradition which is centered on the worship of the goddess \nTripurāsundarī. She developed out of the pool of Nityā Yoginīs as the \nmost important of them, around which a group of sixteen Nityās \nare configured in her distinctive yantra, the śrīcakra. This \nfragment is thus of special importance for the historian of the \ndevelopment of this tradition."
 "Publication country" = "India"
 title_iast = "nityākaulatantra"
-title = "नित्याकौलतन्त्र"
-
 +++
   
   
@@ -78,7 +77,7 @@ title = "नित्याकौलतन्त्र"
 एवस्मात् परमा विद्या प्रोद्वरामि * * * *? ।  
   
 चक्रविन्यासयोगेन द्रावणी सर्वयोषिता ।  
-प्रवर्द्धनीम् ॥  
+प्रवर्धनीम् ॥  
   
 भोगदा मोक्षदा विद्या दशैकाक्षर लक्षिता ।  
 दारिद्र नाशनी * * * * * * * * *? रा ॥  
@@ -154,7 +153,7 @@ title = "नित्याकौलतन्त्र"
 चिन्त्येत मध्यगं शाध्यं तदाधारं विचिन्तयेत् ॥  
   
   
-फ़ोलिओ ४-५ इस् मिस्सिन्ग्  
+फ़ोलिओ ४-५ इस् मिस्सिन्ग्  
   
 ६अ)  
   
@@ -361,7 +360,7 @@ title = "नित्याकौलतन्त्र"
 कुण्डं कृत्वा तु पद्माङ्कमथवा कामतः प्रिये ।  
 शान्तिके चतुरश्रन्तु पौष्टिके वर्तुलं भवेत् ॥  
   
-अभिचारे तृकोणं तु वश्यार्थे चार्द्ध * * *? ।  
+अभिचारे तृकोणं तु वश्यार्थे चार्ध * * *? ।  
 सर्वकाम प्रदं कुण्डं पद्माकारं सुरेश्वरि ॥  
   
 आष्वानं तत्र सङ्कल्प्य यन्त्रभोगादि कारकम् ।  
@@ -370,7 +369,7 @@ title = "नित्याकौलतन्त्र"
 एकादशा प्रदादीजा(?) विपरीत क्रमेन तु ।  
 पार्थिवादि प्रकृत्यान्तं प्रथमं तु पदं स्मरेत् ॥  
   
-तदूर्द्धे पौरुषं तत्वं गुणत्रयसमन्वितम् ।  
+तदूर्धे पौरुषं तत्वं गुणत्रयसमन्वितम् ।  
 तृतीयं नियतिर्तत्वं कामतत्वं चतुर्थकम् ॥  
   
 पञ्चमं रागतत्वं तु अविद्याख्यन्तु षष्ठकम् ।  
@@ -444,7 +443,7 @@ title = "नित्याकौलतन्त्र"
 एवं होमं तु विख्यातम् अन्ते पूर्णाहुतिं हुनेत् ।  
 वौषडान्तं महादेवि * * * * * * *? त् ॥  
   
-अत ऊर्द्धन्तव स्नेहादुपदेशं वदाम्यहम् ।  
+अत ऊर्धन्तव स्नेहादुपदेशं वदाम्यहम् ।  
 सञ्चिन्त्य श्वास निश्चिन्त्य चिन्ताचिन्तविवर्जितम् ॥  
   
 उपदेशं त्रिधावक्ष्ये * *? पार्वति तत्वतः ।  
@@ -539,7 +538,7 @@ title = "नित्याकौलतन्त्र"
 अमृती करणं प्रोक्तं * * *? प्याच्च शुन्दरि ।  
 हवनान् कुरुते शान्ति लिख्यधार्यं स्वदेहतः ॥  
   
-अमृती करणं प्रोक्तं क्षीनये * *? वर्द्धनम् ।  
+अमृती करणं प्रोक्तं क्षीनये * *? वर्धनम् ।  
 फ ज मध्य गतं बीजं निर्विषीकरणं परम् ॥  
   
 एकाराद्यं महाबीजम् आद्यन्तं कृत विद्यया ।  

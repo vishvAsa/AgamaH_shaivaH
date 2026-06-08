@@ -1,6 +1,5 @@
 +++
 title = "सन्दर्भ-ग्रन्थ"
-
 +++
 
 Abhinavagupta: An Historical and Philosophical Study, K.C.Pandey, Chowkhamba Sanskrit Series, second revised edition, 1963 
@@ -153,7 +152,7 @@ Dharmakirti's Pramāṇaviniścaya chapter 1 and 2, critical ed. Ernst Steinkell
 
 7 
 
-प्रमाणवार्त्तिक, मनोरथनन्दी कृत वृत्ति के साथ, सं. द्वारिकादास शास्त्री, बौद्धभारती, वाराणसी, 
+प्रमाणवार्तिक, मनोरथनन्दी कृत वृत्ति के साथ, सं. द्वारिकादास शास्त्री, बौद्धभारती, वाराणसी, 
 
 १९६८ 
 
@@ -221,7 +220,7 @@ I
 
 मानमेयरहस्यश्लोकवार्तिक, लक्ष्मीपुरं श्रीनिवासाचार्य, राजकीय शाखा मुद्रायन्त्रालय, मैसूर, संवत् १९२५ 
 
-मालिनीविजयवार्त्तिक, अभिनवगुप्त, सं. मधुसूदन कौल, का. सं.ग्र., श्रीनगर-काश्मीर, १९२१ 
+मालिनीविजयवार्तिक, अभिनवगुप्त, सं. मधुसूदन कौल, का. सं.ग्र., श्रीनगर-काश्मीर, १९२१ 
 
 "The Mythico-ritual syntax of Omnipotence", David P. Lawrence, Linguistic Traditions of Kashmir, सं. मृणाल कौल और अशोक अक्लूजकर, डी.के. प्रिंट वर्ल्ड, दिल्ली, 
 

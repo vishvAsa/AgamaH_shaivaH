@@ -1,6 +1,5 @@
 +++
 title = "2 ABOUT THE AUTHOR ABHINAVAGUPTA"
-
 +++
 
 (i) Biographical data 
@@ -1037,7 +1036,7 @@ INTRODUCTION TO THE TANTRĀLOKA
 
 that Abhinavagupta does not accept Bhedavādin's view regarding existence of gradation in the descent of grace on the strength of Sambhunatha's teachings.' Moving further we notice Abhinava discussing the varieties of 'general assignment' (Sāmānyanyāsa ) as a third ancillary topic under Samayidikṣā and ascribing it to his teacher." In the same Ahnika Abhinavagupta expresses his indebtedness to him in the presentation of various types of 'special assignment' (Visesanyāsa) and underscores the difference between the two lines adopted by Sambhunatha and Lakṣmaṇagupta, his two teachers, in respect of the Sripūrvaśāstra. Abhi- navagupta reconciles the two positions saying that one should first practice sixfold Sāktā Nyāsas as advocated by Lakṣmaṇagupta and then switchover to sixfold Śaiva Nyasas enjoined by Sambhunatha." Samayidikṣā pertains to the daily functions (Nitya- karma) of the aspirants. All round worship of the cycle aiming at adoring the ultimate principle of efful- gence is the sixteenth ancillary topic while the fire- 
 
-1. तस्मान्न मन्महे कोऽयं शक्तिपातविधेः क्रमः ॥ इत्थं भ्रान्तिविषावेशमूर्च्छानिर्मोकदायिनीम् । श्रीशंभुवदनोद्गीर्णां वच्च्यागममहोषधिम् ।। 2. संहारदानादानादिशक्तियुक्ता यतो रली ॥ 
+1. तस्मान्न मन्महे कोऽयं शक्तिपातविधेः क्रमः ॥ इत्थं भ्रान्तिविषावेशमूर्छानिर्मोकदायिनीम् । श्रीशंभुवदनोद्गीर्णां वच्च्यागममहोषधिम् ।। 2. संहारदानादानादिशक्तियुक्ता यतो रली ॥ 
 
 एकत्वेन स्मरन्तीति शंभुनाथो निरूचिवान् । 3. इत्थं श्रीपूर्वशास्त्रे में संप्रदायं न्यरूपयत् ॥ 
 

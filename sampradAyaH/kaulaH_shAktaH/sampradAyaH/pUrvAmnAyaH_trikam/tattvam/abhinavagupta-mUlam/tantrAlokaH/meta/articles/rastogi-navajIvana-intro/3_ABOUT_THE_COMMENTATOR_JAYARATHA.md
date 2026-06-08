@@ -1,6 +1,5 @@
 +++
 title = "3 ABOUT THE COMMENTATOR JAYARATHA"
-
 +++
 
 The illustrious author of the Viveka commentary, Jayaratha, is next to Abhinavagupta alone in impor- tance. He is no ordinary commentator. He reli- giously follows the methodology adopted by his mas- ter and creates a sort of complete independent text which not only expatiates upon the Tantrāloka but also supplements, complements and defends as it were. But for the Viveka we would never understand the Tantrāloka. An attempt will be made to evaluate and appreciate Jayaratha's contribution in the pages that follow. 
@@ -305,7 +304,7 @@ T.A.V., p. 431, verse 33
 
 5 
 
-2 तस्य सर्वजन तोपकारिणः पुष्णतो गुणिगणान् धर्नार्द्धभिः । साधुसाध्वसमुषः कुलोचिता शर्वभक्तिरतिवल्लभाभवत् ॥ 
+2 तस्य सर्वजन तोपकारिणः पुष्णतो गुणिगणान् धर्नार्धभिः । साधुसाध्वसमुषः कुलोचिता शर्वभक्तिरतिवल्लभाभवत् ॥ 
 
 Ibid., verse 34 
 

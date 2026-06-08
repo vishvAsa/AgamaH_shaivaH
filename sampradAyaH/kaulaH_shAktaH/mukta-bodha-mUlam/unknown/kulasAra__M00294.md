@@ -1,4 +1,5 @@
 +++
+title = "कुलसार"
 "Catalog number" = "M00294"
 "Uniform title" = "kulasāra"
 Subjects = [ "tantric / āgamic literature", "śaiva", "kaula early pre   1100 AD",]
@@ -6,8 +7,6 @@ Manuscript = [ "NGMCP 4-137/vi reel number: A 40/11",]
 Description = "The manuscript is incomplete. It begins abruptly in the middle of chapter (paṭala) four and then continues from chapter eight to seventeen where it ends abruptly. The Kulasāra is quoted by non-dualist Kashmiri Shaiva authors and so preceeds the 11th century. It belongs to a genre of Kaula Tantras that are focused on the attainment of the direct experience of essential metaphysical principles and yogic powers through the practice of Yoga and insight. Through knowledge of these principles the Kaula Yogi attains liberation in this life (jñānāvabhāsena jīvanmuktye vyavasthitaḥ fl. 33b) and numerous yogic powers. The text focuses also on the worship of Bhairava and Devī and the host of Yoginīs. The first chapters are concerned with the four principles commonly mentioned in Kaula works, namely, Piṇḍa, Pada, ṛūpa and Rūpātīta. Unfortunately, here the manuscript is incomplete. Chapter nine deals with the attainment of the pervasion of transcendental śiva by the abandonment of śakti (9). The following chapter teaches the attainment of the supreme reality which is the Inexplicable free of phenomenal qualities, immobile and pervasive like the sky by merger with the space contained in the jar of the psycho-physical body (10). The next chapter deals with transcendent Akula and immanent Kula along with Kaula which is the union of the two (11). Chapter twelve describes the ascent through the centres of the body from the feet to the head. Corresponding to the spheres of the gross elements, they are the abodes of numerous types of Yoginīs the text describes and the damage they can do.  The Yogi should know them and by his devotion to the deity, fire and the guru and practice of Yoga be protected from them. Those who are immoral are consummed by them. The chapter ends with a series of visualizations designed to protect the body of the Yogi (12). The next chapter continues with similar concerns for protection and the overcoming of disease and death by the use of Bhairava Mantra and visualization of his form which appears to be that of Svacchandabhairava and accompanying forms and their consorts (13). The next chapter discusses non-duality in the sense of the absence of pure and impure with regards to food and drink and the defects of those who do not follow this path. It goes on to talk about freedom from dualistic thought constructs and the purification of the mind and purification of the sacrificial substances that takes place in this way. It is applied to the sacrificial meat and then wine (14). Chapter fifteen deals with the observance (caryā) of the Kaula adept (vīra). He should travel to the inner Kaula sacred sites (pīṭha, kṣetra) in the body following the vital breath rather than the outer ones. There he plays with the Yoginīs and worships them and does so externally also with a pure mind. The manner the pilgrimage is to be performed externally is described next.The last chapter deals with the Three Jewels of Shiva, Shakti and the Self, their attainment and experience."
 "Publication country" = "India"
 title_iast = "kulasāra"
-title = "कुलसार"
-
 +++
   
   
@@ -82,7 +81,7 @@ title = "कुलसार"
 कामतो सिध्यते तस्य यं यं मनसि वर्तते ।  
 तेन काममित्युक्तम् इडानी योनजं शृणु ॥  
   
-तदूर्ध्व संस्थमावर्त्तं तत्रस्थं जपमारभेत् ।  
+तदूर्ध्व संस्थमावर्तं तत्रस्थं जपमारभेत् ।  
 भ्रमद्वलय घूर्मिश्च आविष्टात्येव देहकम् ॥  
   
 एतत् प्रत्ययमासाद्य स्थिरं कुर्यादेदिते ।  
@@ -155,8 +154,8 @@ title = "कुलसार"
 भूतं भव्यं भविष्यं च यत्किञ्चिज्जगति स्थितिम् ।  
 तत्सर्वं तस्य प्रत्यक्षं जायते नात्र संशयः ॥  
   
-तदूर्द्धाक्षजयञ्जाये मनोवृत्तनियामिते ।  
-लोलाख्ये नात्र सन्देहस्तदूर्द्धे चामृती भवेत् ॥  
+तदूर्धाक्षजयञ्जाये मनोवृत्तनियामिते ।  
+लोलाख्ये नात्र सन्देहस्तदूर्धे चामृती भवेत् ॥  
   
 लंवकं तु स्तनं पीत्वा जरामृत्यु विवर्जितः ।  
 भवते साधकेन्द्रस्तु दीप्तिकीर्तिसमन्वितः ॥  
@@ -195,10 +194,10 @@ title = "कुलसार"
 एवं पिण्डं समाख्यातं वहुधा तु न प्रिये ।  
 चतुःपिण्डविभागं च सरहस्यं प्रकाशितम् ॥  
   
-आपादाद्यावमूर्द्धान्तं तावत् पिण्डं वीकीर्तितम् ।  
+आपादाद्यावमूर्धान्तं तावत् पिण्डं वीकीर्तितम् ।  
 वोधव्यं लय भेदेन सद्यः प्रत्ययसंयुतम् ॥  
   
-शतार्धमूर्ति परमातद्योन्यावर्त्त योजना ।  
+शतार्धमूर्ति परमातद्योन्यावर्त योजना ।  
 नानाकर्मविभागानि *? सङ्ख्या सम्भवन्ति च ॥  
   
 सारतः सिद्धयः चित्रा नानागुणमहोदया ॥  
@@ -621,7 +620,7 @@ title = "कुलसार"
 तत्र क्षयं गता नद्यस्तथाप्येक महोदधिः ।  
 एवं नद्योपमं देहं निर्वाणं साधनोपमम् ॥  
   
-निर्द्दन्दंस्तिष्ठतस्ते वै सागरासृत सिन्धवः ।  
+निर्दन्दंस्तिष्ठतस्ते वै सागरासृत सिन्धवः ।  
 तिष्ठते निश्चलत्वं हि तृप्तित्वं तस्य जाते ॥  
   
 सुखं दुःखं न संवेत्ति गृह्नाति शिवताङ्गुणान् ।  
@@ -820,7 +819,7 @@ title = "कुलसार"
 कला षोडशकोपेतं चतुष्कल सगोलकम् ॥  
   
 पुटद्वयसमायुक्तम् अधोमुखविलंविनम् ।  
-कलाद्वादशसंयुक्तं सूर्यस्तस्योर्द्ध संस्थितम् ॥  
+कलाद्वादशसंयुक्तं सूर्यस्तस्योर्ध संस्थितम् ॥  
   
 ग्राहकस्तु स्थितस्तेषां युगपद्ग्रसते नघ ।  
 प्रतिक्षण विभागेन ग्रहणं विषुवं तथा ॥  
@@ -2031,7 +2030,7 @@ title = "कुलसार"
 अदृष्ट्वानु भवेन्मन्त्री कर्माद्वैतं तु लौल्यतः ।  
 ये कुर्वन्ति सुरेशानिस्तेयान्ति नरके ध्रुवम् ॥  
   
-जन्मपङ्कार्ण्णवे घोरे जीर्णे वन्य गजा इव ।  
+जन्मपङ्कार्णवे घोरे जीर्णे वन्य गजा इव ।  
 सीजन्ति मज्जमनास्ते परतत्वमजानताः ॥  
   
 स्वस्मिं दुःखे सुखे चैव जीविते मरणे प्रिये ।  
@@ -2192,7 +2191,7 @@ title = "कुलसार"
 न षष्टकालेन तृरात्रकालेननोपवासाध्ययनै शुभैर्वा सम्प्राप्यते   
 शुद्धिचरेण लोके ॥  
   
-ध्यानार्ण्णवं यस्तु न सम्प्रवृष्टः न यज्ञदानैर्न तपोभिरुग्रैर्णसौ   
+ध्यानार्णवं यस्तु न सम्प्रवृष्टः न यज्ञदानैर्न तपोभिरुग्रैर्णसौ   
 च जाप्यैर्ण वर्भक्षै चर्यैः सम्प्राप्यते शुद्धवरेण शुद्धवरेण लोके ।   
 ध्याना न ध्येयस्तु न सम्प्रविष्टः ।   
   

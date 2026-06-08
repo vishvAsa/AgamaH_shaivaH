@@ -1,4 +1,5 @@
 +++
+title = "काकचण्डेश्वरीमत"
 "Catalog number" = "M00287"
 "Uniform title" = "kākacaṇḍeśvarīmata"
 Subjects = [ "tantric / āgamic literature",]
@@ -6,8 +7,6 @@ Manuscript = [ "NGMCP 3 - 118 reel number: A 211/8",]
 Description = "Kākacaṇḍeśvarīmata (the Teaching for the Fierce Crow Goddess). The text is framed as a dialogue between Kākacaṇḍeśvarī (also called Kākacāmuṇḍā) who is equated with Kaṃkālī (the Skeleton) and Kālarātrī (Dark Night), both forms of Kālī. She is the consort (Umādevī) of the five headed Bhairava, who is probably with Svacchandabhairava, who is in some of his aspects a medicine god. They are seated on mount Kailāsa. After imploring him for the knowledge that leads to liberation, the god promising to do so, teaches the preparation of herbs for healing and magic most especially he focuses on the magical preparation of alchemical mercury making this an important unpublished work on Indian alchemy."
 "Publication country" = "India"
 title_iast = "kākacaṇḍeśvarīmata"
-title = "काकचण्डेश्वरीमत"
-
 +++
   
   
@@ -1374,7 +1373,7 @@ title = "काकचण्डेश्वरीमत"
   
 २५ब्)  
   
-अधोर्द्धषात दातव्यं मृत्तिकालेपगोमयम् ।  
+अधोर्धषात दातव्यं मृत्तिकालेपगोमयम् ।  
 नित्यानिगन्धधूपानिसंवत्सरैकमेव च ॥  
   
 पूजां कृत्वा तु उद्धृत्य पूजयेद्देव ब्राह्मणान् ।  
@@ -1439,7 +1438,7 @@ title = "काकचण्डेश्वरीमत"
 कम्पन्निकुम्भकं चैव रसस्य पञ्चधागतिः ॥  
   
 स्वेदनं वक्ष्यते यत्र शृणुसङ्करसिद्धिदम् ।  
-पाठापुनर्न्नवाचैवलाङ्गलीयविचिञ्चका ॥  
+पाठापुनर्नवाचैवलाङ्गलीयविचिञ्चका ॥  
   
 देवदाल्पातकापञ्च ओषधी इत्यथोचिता ।  
 सिग्रुसिन्धं त्रिकटुकं स्थाल्यान्दोलाग्निनापचेत् ॥  
@@ -1474,7 +1473,7 @@ title = "काकचण्डेश्वरीमत"
 अथान्यं व्याख्यास्यामः ॥  
   
 रसाभ्रगोलकंयत्तुगोस्तनाकारमूषके ।  
-अधोर्द्धविहिदत्वेन हांयासिक्तातपूरयेत् ॥  
+अधोर्धविहिदत्वेन हांयासिक्तातपूरयेत् ॥  
   
 २८अ)  
   

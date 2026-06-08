@@ -1,12 +1,11 @@
 +++
+title = "त्रिपुरसुन्दरीसहस्रनामस्तोत्र"
 "Catalog number" = "M00639"
 "Uniform title" = "tripurasundarīsahasranāmastotra"
 Subjects = [ "tantric / āgamic literature", "tantra / āgama",]
 Manuscript = [ "manuscript 5753 Shri Raghunatha Temple MSS Library Jammu",]
 "Publication country" = "India"
 title_iast = "tripurasundarīsahasranāmastotra"
-title = "त्रिपुरसुन्दरीसहस्रनामस्तोत्र"
-
 +++
   
 त्रिपुरसुन्दरीसहस्रनामस्तोत्रम्  
@@ -66,7 +65,7 @@ title = "त्रिपुरसुन्दरीसहस्रनामस�
   
 पृ० ४अ) बीजञ्चवागुद्भवं बीजम्मान्मथमिन्द्रगोपकनिभंहृत्पङ्क  
 जेसंस्थितं चक्रेभालमयेशशाङ्करुचिरम्बीजञ्चता  
-र्त्तीयकं येध्यायन्तिपदत्रयन्तवशिवेत्तेयान्तिसूक्ष्मां  
+र्तीयकं येध्यायन्तिपदत्रयन्तवशिवेत्तेयान्तिसूक्ष्मां  
 गतिं श्रीदेव्यैनमः कल्याणीकमलाकालीकराली  
 कामरूपिणी कामाख्याकामदाकाम्याकामिनीका  
 मचारिणी कालरात्रिर्महारात्रिःकौलिनीकालरू  

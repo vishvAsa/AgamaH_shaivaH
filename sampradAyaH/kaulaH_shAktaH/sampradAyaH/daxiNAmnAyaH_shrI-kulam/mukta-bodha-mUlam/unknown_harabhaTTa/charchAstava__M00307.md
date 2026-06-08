@@ -1,4 +1,5 @@
 +++
+title = "चर्चास्तव"
 "Catalog number" = "M00307"
 "Uniform title" = "carcāstava"
 Commentator = [ "harabhatta sastrī",]
@@ -9,8 +10,6 @@ Publisher = [ "Fine Art Press",]
 "Publication city" = [ "Srinigar",]
 "Publication country" = "India"
 title_iast = "carcāstava"
-title = "चर्चास्तव"
-
 +++
   
   
@@ -1294,7 +1293,7 @@ title = "चर्चास्तव"
   
 इति तथा-   
   
-मरणं विस्मृतिर्मूर्च्छा निद्रा च तमसावृताः ।  
+मरणं विस्मृतिर्मूर्छा निद्रा च तमसावृताः ।  
 सुषुप्तेस्तु कला ज्ञेयास्ताः कलाः श्रीशिवात्मिका ॥  
   
 तथा- अभिलाषो भ्रमश्चिन्ता विषयेषु पुनः स्मृतिः ।  

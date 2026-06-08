@@ -1,4 +1,5 @@
 +++
+title = "गुरुस्तुतिरत्नावली"
 "Catalog number" = "M00216"
 "Uniform title" = "gurustutiratnāvalī"
 Author = [ "govindakaula",]
@@ -7,8 +8,6 @@ Manuscript = [ "STAATSBIBLIOTHEK ZU BERLIN PREUSSISCHER KULTURBESITZ ORIENTABTEI
 "Publication country" = "India"
 title_iast = "gurustutiratnāvalī"
 author_iast = "govindakaula"
-title = "गुरुस्तुतिरत्नावली"
-
 +++
   
   
@@ -79,7 +78,7 @@ title = "गुरुस्तुतिरत्नावली"
 वस्म्योत विमर्शहर्षवपुषानाके प्रकाश्याभितो ॥  
 येन प्राग्दिवि सत्यबोधभरितं तेजस्समुल्लासितम् ॥  
   
-स्वं स्वच्छं प्रतिभास्वभावसुभगं चोर्व्यां प्रसर्त्तुं प्रियाञ्शिष्यान्   
+स्वं स्वच्छं प्रतिभास्वभावसुभगं चोर्व्यां प्रसर्तुं प्रियाञ्शिष्यान्   
 कारुणिकं शिवं नवतनुं प्रेडे गुरुं साहिबम् ॥ १० ॥  
   
 यन्मूर्तिन्भवने महात्मभैरलं ध्येया सहस्रच्छदे ॥  
