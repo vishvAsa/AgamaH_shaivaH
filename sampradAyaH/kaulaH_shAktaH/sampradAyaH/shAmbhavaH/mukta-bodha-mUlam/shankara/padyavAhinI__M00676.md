@@ -2088,7 +2088,7 @@ upstream_url = "https://muktabodha-digital-library.org/texts/DEV/M00676"
 असिताङ्गादयश्चाष्टौ तथा नाथचतुष्टयम् ।।  
     
 (चिञ्चिणीशश्चर्यानाथा) मीननाथस्तृतीयकः ।  
-श्रीमद्गुरुश्च दुर्वासा एते चापि चतुष्ठयम् ।।  
+श्रीमद्गुरुश्च दुर्वासा एते चापि चतुष्टयम् ।।  
 विलोमेनैव चैते तु (कृ)त्रेद्वाकयुगेश्वराः ।  
 सदाशिवश्च भगवान् मन्वन्तरगुरुस्तथा ।।  
     
@@ -2265,4 +2265,4 @@ upstream_url = "https://muktabodha-digital-library.org/texts/DEV/M00676"
 \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* ।  
     
     
-E-texts may be viewed only online or downloaded for private study.          
+
