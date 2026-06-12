@@ -49,3 +49,11 @@ This prose by Sanderson is a slight misrepresentation of the Siddhānta’s mess
 5. However, it is foolish for a bound soul to rely on this arbitrary trajectory to take place for it to attain Paramukti. Therefore, a soul is encouraged to adhere to the Vaidika Dharma so that it will develop a small amount of Bhakti for Śiva as a result of such  vaidika karmānușțhāna, which will eventually lead the soul to that turning point: Malaśakti starts to attain pakvatva, resulting in the desire to approach a guru and attain Śivamukti.
 
 
+## नाम
+
+Bhaṭṭa Nārāyaṇakaṇṭha commenting on Mṛgendrāgama (Kriyāpāda) says —
+
+> स्रजं विमोचयेन् नाम दीक्षितानां तदादिकम्।  
+शिवान्तकं द्विजेन्द्राणाम् इतरेषां गणान्तकम्॥
+
+दीक्षायां नेत्रपटेन बद्ध्वा दीक्षितस्य स्रङ् मण्डले निक्षिप्यते । मण्डले यत्र ब्रह्ममन्त्रस्थाने ऽङ्गमन्त्रस्थाने वा स्रक् पतति, तत्र स्थानस्य मन्त्रापेक्षया दीक्षितस्य दीक्षानाम्नः पूर्वपदं निर्णीयते ॥
