@@ -34,3 +34,10 @@ The Siddha (21) is Her broad forehead; the Santāna (22) is Her pair of earrings
 āṅgopāṅgāni romāṇi tantrāṇyanyāni kṛtsnaśaḥ |
 evaṃ tantrātmakaṃ rūpaṃ mahādevyā vicintayet ||
 Her major and minor limbs, as well as Her body hairs, are entirely all the remaining tantras. In this manner, one should meditate upon the form of the Mahādevī, which is composed of the Tantras.
+
+
+> The krama starting from the feet as Kāmika is the main one given in the Pūrvakāmika and qualified as Saṃhārakrama-dhyāna in the Uttarakāmika.
+>
+> The roots of this synthesis may go a little earlier to the great Nīlakaṇṭha-Dikṣita, a Śrīvidyopāsaka and one who appears to have had special regard for the sacred Siddhānta canon (he calls it Divya). It may not mean much but I’m not sure if he singles out any other canon like this (except Śrīkula texts of course).
+
+In a way they go back even deeper in the drAviDa country back to tirumUlar, who himself might have been a Kashmirian or inspired by one.
