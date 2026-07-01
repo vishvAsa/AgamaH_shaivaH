@@ -9,6 +9,7 @@ In सिद्धान्त-शैव metaphysics, the entirety of existence 
 1. The 'pure' path, शुद्धाध्वा, made up of शुद्धमाया or 'बिन्दु' and
 2. The 'impure' path, अशुद्धाध्वा, made up of अशुद्धमाया.
 
+## अशुद्धाध्वा
 In the अशुद्धाध्वा, the ब्रह्माण्ड occupies the lowest part. Within this ब्रह्माण्ड, our earth occupies an infinitesimally tiny portion.
 
 Our sentient souls, which are of the nature of pure consciousness (चित् / चिच्छक्ति), have been obscured since eternity by a primordial, insentient substance called मल (mala). This मल has infinite powers attaching itself to infinite souls. In the case of ordinary humans like ourselves, the power of this मल is very unripened/immature (अपक्व) & has been so since eternity. 
@@ -17,6 +18,7 @@ This मल enables us souls to be bound to माया (अशुद्धम�
 
 But शिव's grace is such that he enables the products of माया (तनु-करण-भुवन-भोग) to serve as conduits for the ripening of our कर्म - rituals enjoined for the bodies, sacred acts to engage the senses/instruments, temples & यज्ञशाल-s for the worlds & sacred objects to see, etc.
 
+## शुद्धाध्वा
 In the शुद्धाध्वा, शुद्धमाया does not bind the souls residing there. Instead, it is the raw material for the various transcendental enjoyments (भोग) & powers (अधिकार) enjoyed by the residents of the शुद्धाध्व, who approximate शिव in terms of their शिवत्वम् ("शिव"-ness). +++(पाञ्चरात्रिकानां नित्यविभूतिर् इव शुद्धाध्वा!)+++ 
 
 Approximating शिव means that they are very close to recovering their identity as the unsullied consciousness that has always been innate to them. Their मल is extremely पक्व. Their powers of knowledge & action are extremely high in magnitude, though not infinite like शिव yet.
@@ -33,6 +35,17 @@ The six are:
 6. मन्त्र (11 मन्त्र-s)
 
 Since शिव is all-pervasive, he eternally encompasses all of माया. So, though शिव is pure consciousness & has no connection with matter, he is visualized as having a body containing the 6 अध्वा-s.
+
+## lokas
+Source: [TW](https://x.com/GhorAngirasa/status/2071913680908996632)
+
+As an aside: There is a beautiful Adhyāya in the Saiddhāntikānusara Vāyavīya Saṃhitā of the Śivapurāṇa, where Vāyu, in giving the essence of the Siddhānta to some sages, provides an “expanded” definition of the three worlds.
+
+The Bhūloka/pṛthivi/earth connotes the mahābhūmī (the pṛthivi-tattva containing the whole Brahmāṇḍa).
+
+The Antarikṣa/atmosphere connotes the entire expanse, starting from the jalatattva and terminating at Māyātattva (end of the śuddhāśuddhādhvā (pure-impure path, which is a sub-section of the overarching impure path) and absolute end of the aśuddhādhvā (impure path) as a whole.
+
+The Dyauḥ/Heaven connotes the pure path (Śuddhādhvā) ending with Mahāmāyā (which is a synonym of Bindu/Śivatattva—the highest of all Tattvas).
 
 ## अध्वमूर्तिः
 There is an old, anonymous verse in tamizh which gives a meditation of शिव as अध्वमूर्ति, containing the 6 parallel paths in himself as his various body parts & layers, which I came across about 2-3 months ago.
