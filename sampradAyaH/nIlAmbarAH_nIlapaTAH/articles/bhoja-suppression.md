@@ -1,0 +1,5 @@
++++
+title = "Bhoja suppression"
++++
+  
+The Jaina Jinavijaya Muni narrates in his *Puratānapra bandhasaṃgraha* that the Nīlapaṭa-s had grown so prominent in Mālava during the reign of Bhoja Paramāra that his own daughter desired to join the cult, hearing of this, he asked his daughter to invite the Nīlapaṭa-adherents for a private audience under the pretense of interest in joining, and when they met, he confirmed that they did the Ms when they responded with “There aren’t rivers flowing with wine; there aren’t mountains made of meat; and the whole world doesn’t consist of women. How [then] can a Nīlapaṭa [“one of the Black Shawl (cult)”] be satisfied?” (This btw. is an almost unchanged variant of a citation on Kaulism by Rājānaka Jayaratha on *Tantrāloka* 15.169c–170b), following this affirmation he promptly had all of the men executed and the women sent into exile.
