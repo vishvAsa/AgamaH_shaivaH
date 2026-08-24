@@ -58,3 +58,49 @@ All glories to Mahāmuni-Sadyojyoti, Bhaṭṭa-Nārāyaṇakaṇṭha, Bhaṭ�
 The doctrine of emptiness refers to the idea of “dependent arising”, indicating the absence of Svabhāva (innate, independent existence) in a “thing” & that is the exact context in which the Ātmā is discussed in the Sarvajñānottara. The verses in question are not discussing “God”.
 
 When the Ātmā is declared to be “not Śūnya”, it is referring to the fact that the Ātmā has an innate existence. When it is declared to be not Aśūnya, it is referring to the fact that the Ātmā’s innate nature (from which it is non-distinct) is not something that can be cognized/known as a Vișaya, as “something that exists”.
+
+
+## mala analogy
+Source: [TW](https://x.com/GhorAngirasa/status/2091348348276261203)
+### Locked out of a room
+Probably, a half-decent analogy for soul & mala could be  
+one who has locked himself outside his own home that he possesses in his name  
+and would need someone from inside to open it (or from outside by jimmying the keyhole)—respectively,  
+Śiva gracing him directly through niradhikāradīkṣā and through a guru (sādhikāradīkṣā). 
+
+The idea is that power is in possession but obscured by mala and therefore not manifest. When malaśakti is acting, the soul has beginninglessly locked itself into a mode where it has to act only through insentient instruments made of māyā (body), which are grossly limited in their ability to manifest the innate potency. 
+
+When you say, why can’t he exercise his innately unlimited agency to overcome mala, the agency of the one who is in a position to act is itself a function of mala at that point in time. That’s the problem—and something I think the “one who has locked himself outside his own home” analogy somewhat captures. 
+
+Why doesn’t conviction help? Conviction is ultimately a mental state produced through the working of several māyeya instruments—Buddhi (intellect), manas (mind) and ahaṃkāra (ego, I-hood)--none of which are competent enough to overcome mala but themselves are a poor man’s substitutes necessitated by  a suppressed innate agency, which suppression itself is due to mala. 
+
+To ask whether mala is more powerful than the soul’s innate omnipotence is like asking whether the locked door of one’s home is more powerful than one’s legal title and right to possession of that home—It’s not and your title remains intact but you need to find a way for the door to be opened to enjoy the full consequences of that title. 
+
+### Tied person
+I suppose I can partially improve the analogy with a scenario where a person is tightly tied up and their arms and hands and the rest of the body itself are limited in their motion. Using the limited, obscured Svaśakti to cause the ropes to wear and tear could serve as an analogy for gradual malapakva due to appropriately helpful karman. Someone coming to help may stand in for Śiva’s direct grace or indirect grace through a guru. 
+
+
+## Omnipotence from consciousness
+As for the derivation of the three omnis, I think I this is the hardest—in a long time—that I have worked at an attempt to create new theological/metaphysical conclusions within a Saiddhāntika framework. 
+
+I will confess that I have always had difficulty deriving omnipotence from pure consciousness. So, it’s good that you point this out because it shows that you are thinking through this. But this is how I would do it and I set out for all 3 omnis:
+
+1. Omnipresence is my preferred starting point: Only material existents have limitations of space and states. Pure consciousness pervades without restriction. 
+
+2. Omniscience: All existents are objects of knowledge for a soul since it is all-pervasive and all existents are within its grasp at all times. 
+
+3. Omnipotence: Existents are not limited to manifestly existing existents but include *all possible unmanifested states* of such manifestly existing insentients (which includes insentient objects as well as the insentient bodies of bound sentients) which are in a potential/latent state in the manifestly existing insentients. 
+
+Since these unmanifest latent/potential states are all within the grasp of a soul, when the soul wills that unmanifest state as having manifest existence, that is its agency. Since there is no limit to the unmanifest states in its grasp that the soul can will, it is omnipotent.
+
+Omnipotence: Existents are not limited to manifestly existing existents but include *all possible unmanifested states* of such manifestly existing insentients (which includes insentient objects as well as the insentient bodies of bound sentients) which are in a potential/latent state in the manifestly existing insentients. 
+
+Since these unmanifest latent/potential states are all within the grasp of a soul, when the soul wills that unmanifest state as having manifest existence, that is its agency. Since there is no limit to the unmanifest states in its grasp that the soul can will, it is omnipotent.
+
+What is the act of willing the manifestation of an unmanifest latent state in respect of an insentient existent? Every insentient existent exists in its present. Though the liberated soul is beyond time, it pervades all of time, including the past, present and future states of all these insentient existents. 
+
+The mukta pervading an insentient existent in its present can, for instance, cognize an unmanifest state from the past as that existent’s present. 
+
+For example, this happened when Śiva (the anādimukta and mukta par excellence) revived the body of the young Vaiśya girl—Pūmpāvai—from her ashes in an urn upon Tirujñānasambandha Svāmī’s singing of the sacred decad. Since Pūmpāvai’s soul itself is vibhu/omnipresent but remained bound by mala/karman/māyeya puryaṣṭakadeha, her soul instantly animated the revived body when Śiva also simultaneously cognized the hitherto unmanifest connection between her physical body and the aforementioned subtle insentients. 
+
+A mukta can also cognize an unmanifest, potential state of an insentient existent from the future in that existent’s present.
