@@ -1,0 +1,61 @@
+{
+  "M00674": {
+    "Catalog number": "M00674",
+    "Uniform title": "Śambhunirṇaya",
+    "Manuscript": "GOML ms # R3203 c, paper; Nagari Script, 55 pages (77-131)",
+    "Notes": "Data-entered by the staff of Muktabodha under the supervision of Anirban Dash.\n\nVaranasi team metadata:\nR. 3203 (C)\n\nRevision 0: Apr 9, 2026",
+    "Publication year": "2026",
+    "Publication country": "India",
+    "Traditions": [
+      "Śāmbhava",
+      "Bhairava Tantras",
+      "Kubjikā"
+    ]
+  },
+  "M00675": {
+    "Catalog number": "M00675",
+    "Uniform title": "Śambhunirṇayadīpaka",
+    "Author": "Śivānandanātha",
+    "Manuscript": "GOML ms # R3203 c; paper; Nagari Script, 33 pages (132-165)",
+    "Notes": "Data-entered by the staff of Muktabodha under the supervision of Anirban Dash.\n\nRevision 0: Apr 9, 2026",
+    "Publication year": "2026",
+    "Publication country": "India",
+    "Traditions": [
+      "Śāmbhava",
+      "Śrīvidyā",
+      "Non-dual Śaivism of Kashmir"
+    ],
+    "Genre": "Scriptural Commentary"
+  },
+  "M00676": {
+    "Catalog number": "M00676",
+    "Uniform title": "Padyavāhinī",
+    "Author": "Śaṅkara",
+    "Manuscript": "GOML Chennai, ms # R3203 a, paper; Nagari script; 75 pages (1-75)",
+    "Notes": "Data-entered by the staff of Muktabodha under the supervision of Anirban Dash.\n\nVaranasi team metadata:\nT- 1084\n(a) पद्यवाहिनी Page 1-72\n(b) शम्भुनिर्णयः 77-131\n(c) शम्भुनिर्णयदीपिका 132-165\nIndex\nR. 3203\nS.R. 1693\nR 3203 a Page No. 1 to 73\nR 3203 b Page No. 74 to 76\nR 3203 c Page No. 77 to 131\nR 3203 d Page No. 132 to 165\n\nRevision 0: Apr 9, 2026",
+    "Publication year": "2026",
+    "Publication country": "India",
+    "Traditions": [
+      "Śāmbhava",
+      "Śrīvidyā",
+      "Non-dual Śaivism of Kashmir",
+      "Kubjikā",
+      "Kālīkulakrama"
+    ],
+    "Genre": "Paddhati"
+  },
+  "M00678": {
+    "Catalog number": "M00678",
+    "Uniform title": "Paścimārcanapaddhati",
+    "Author": "Vimalaprabodha",
+    "Manuscript": "Kaiser Library ms # 79, Uttara Licchavi script; palm leaf; 88 folios",
+    "Notes": "Data-entered by the staff of Muktabodha under the supervision of Anirban Dash.\n\nVaranasi team metadata:\nNEPAL- GERMAN MANUSCRIPT PRESERVATION PROJECT\n\nSubject:\nManuscript No.: 79\nTitle: पश्चिमार्च्चनपद्धति व महारहस्य संप्रदाय\nNo. of leaves: 105+44\nSize in cm: 5 x 20\nReel No.: C 6/15\nScript:- नेवारी\n\nपश्चिमार्च्चनपद्धति\nमहारहस्यसंप्रदाये\nतारपत्रको पत्र 105/44\nभुजिंमेल अक्षर को\nने.सं. 331 नं 79\n\nRevision 0: Apr 9, 2026",
+    "Publication year": "2026",
+    "Publication country": "India",
+    "Traditions": [
+      "Śāmbhava",
+      "Kubjikā"
+    ],
+    "Genre": "Paddhati"
+  }
+}
