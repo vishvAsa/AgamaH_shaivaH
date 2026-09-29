@@ -11,3 +11,20 @@ It may encompass a lot of distinct praxis and philosophy but that doesn't make i
 
 ## Nepal
 TMK shrIkula practitioner in Nepal have multiple distinc lineages. There is a Nepal connection, but there are other famous lineages, like one from the drAviDa country like the descendants of samarapu~Ngava dIkShita, and one related to haMsa miTThu from Gujarat.
+
+## aShTamAtR-s
+The aShTamAtR^i-s, their position in the mAtR^i-chakra-maNDala, kShetra-s and trees.
+
+| Goddess     | Direction | Kṣetra    | Holy Tree |
+|-------------|-----------|-----------|-----------|
+| Brahmāṇī    | E         | Prayāga   | Udumbara  |
+| Māheśvarī   | SE        | Vārāṇasī  | Tāla      |
+| Kaumārī     | S         | Kolāpuri  | Vaṭa      |
+| Vaiṣṇavī    | SW        | Aṭṭahāsa  | Kadamba   |
+| Vārāhī      | W         | Jayantī   | Nimba     |
+| Aindrī      | NW        | Caritra   | Kadamba   |
+| Cāmuṇḍā     | N         | Ekāmra    | Aśvattha  |
+| Mahālakṣmī  | NW        | Devikoṭa  | Plakṣa    |
+
+devIkoTa is unambiguously koTivarsha, whose ruins are still seen. aTTahAsa is widely believed to be the kShetra in modern Labhpur
+
