@@ -38,8 +38,23 @@ title = "सर्व-सिद्धान्त-विवेकः"
 मण्डलाद्युक्तकालेन जननादिश्च नश्यति ॥ १३  
 देहकान्तिर्महत्वं च देहस्य नियतं भवेत् ।  
 आकाशगमनादिश्च सिद्धिर्मुक्तिश्च सिद्धयति ॥ १४  
-किं फलं मन्त्रयन्त्रादि सेवयेति विनिश्चितः । १५  
+किं फलं मन्त्रयन्त्रादि सेवयेति विनिश्चितः । १५
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+12\. Now here in the doctrine of herbs, the established conclusion is that everything is accomplished through the administration of herbals; for that [process] is considered to be of the very nature of Śakti.
+
+13\. Then, through the practice of bodily transformation (kāya-kalpa) and other disciplines perfected in that particular tantra, and within the time prescribed for maṇḍalas and other rites, rebirth and the like are destroyed.
+
+14\. Radiance of the body and greatness of the body inevitably arise. Traveling through space and other such siddhi-s, as well as liberation, are accomplished.
+
+15\.  What is the fruit of resorting to mantra-s, yantra-s, and the like? Thus it is definitively ascertained.
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+A section on oShadhi-s from the south Indian tAntrika summary, the sarva-siddhAnta-viveka published by R. Nagaswamy: H elixirism
+</details>
 
 
 ## ०४। कर्मसिद्धान्तः
