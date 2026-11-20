@@ -1,0 +1,135 @@
+<svg width="500" height="700" viewBox="0 0 500 700" xmlns="http://www.w3.org/2000/svg">
+    <!-- Style definition for consistent rendering -->
+    <style>
+        .cell { fill: #ffffff; stroke: #000000; stroke-width: 1.5; }
+        .text { font-family: 'Noto Sans Devanagari', 'Sanskrit Text', serif; font-size: 32px; text-anchor: middle; dominant-baseline: middle; fill: #000000; }
+        .bottom-text { font-family: 'Noto Sans Devanagari', 'Sanskrit Text', serif; font-size: 36px; text-anchor: middle; fill: #000000; font-weight: normal; }
+    </style>
+
+    <!-- Container group to center the diagram -->
+    <g transform="translate(75, 40)">
+
+        <!-- Row 1: 1 block -->
+        <rect x="150" y="0" width="50" height="50" class="cell" />
+        <text x="175" y="28" class="text">ह</text>
+
+        <!-- Row 2: 3 blocks -->
+        <rect x="100" y="50" width="50" height="50" class="cell" />
+        <text x="125" y="78" class="text">अ</text>
+        <rect x="150" y="50" width="50" height="50" class="cell" />
+        <text x="175" y="78" class="text">श</text>
+        <rect x="200" y="50" width="50" height="50" class="cell" />
+        <text x="225" y="78" class="text">आ</text>
+
+        <!-- Row 3: 5 blocks -->
+        <rect x="50" y="100" width="50" height="50" class="cell" />
+        <text x="75" y="128" class="text">उ</text>
+        <rect x="100" y="100" width="50" height="50" class="cell" />
+        <text x="125" y="128" class="text">घ</text>
+        <rect x="150" y="100" width="50" height="50" class="cell" />
+        <text x="175" y="128" class="text">ख</text>
+        <rect x="200" y="100" width="50" height="50" class="cell" />
+        <text x="225" y="128" class="text">ङ</text>
+        <rect x="250" y="100" width="50" height="50" class="cell" />
+        <text x="275" y="128" class="text">ऊ</text>
+
+        <!-- Row 4: 7 blocks -->
+        <rect x="0" y="150" width="50" height="50" class="cell" />
+        <text x="25" y="178" class="text">ऌ</text>
+        <rect x="50" y="150" width="50" height="50" class="cell" />
+        <text x="75" y="178" class="text">ञ</text>
+        <rect x="100" y="150" width="50" height="50" class="cell" />
+        <text x="125" y="178" class="text">ट</text>
+        <rect x="150" y="150" width="50" height="50" class="cell" />
+        <text x="175" y="178" class="text">ज</text>
+        <rect x="200" y="150" width="50" height="50" class="cell" />
+        <text x="225" y="178" class="text">ठ</text>
+        <rect x="250" y="150" width="50" height="50" class="cell" />
+        <text x="275" y="178" class="text">ड</text>
+        <rect x="300" y="150" width="50" height="50" class="cell" />
+        <text x="325" y="178" class="text">ॡ</text>
+
+        <!-- Row 5: 7 blocks -->
+        <rect x="0" y="200" width="50" height="50" class="cell" />
+        <text x="25" y="228" class="text">ओ</text>
+        <rect x="50" y="200" width="50" height="50" class="cell" />
+        <text x="75" y="228" class="text">भ</text>
+        <rect x="100" y="200" width="50" height="50" class="cell" />
+        <text x="125" y="228" class="text">म</text>
+        <rect x="150" y="200" width="50" height="50" class="cell" />
+        <text x="175" y="228" class="text">य</text>
+        <rect x="200" y="200" width="50" height="50" class="cell" />
+        <text x="225" y="228" class="text">र</text>
+        <rect x="250" y="200" width="50" height="50" class="cell" />
+        <text x="275" y="228" class="text">द</text>
+        <rect x="300" y="200" width="50" height="50" class="cell" />
+        <text x="325" y="228" class="text">औ</text>
+
+        <!-- Row 6: 3 blocks (waist area) -->
+        <rect x="100" y="250" width="50" height="50" class="cell" />
+        <text x="125" y="278" class="text">ल</text>
+        <rect x="150" y="250" width="50" height="50" class="cell" />
+        <text x="175" y="278" class="text">ष</text>
+        <rect x="200" y="250" width="50" height="50" class="cell" />
+        <text x="225" y="278" class="text">व</text>
+
+        <!-- Row 7: 7 blocks -->
+        <rect x="0" y="300" width="50" height="50" class="cell" />
+        <text x="25" y="328" class="text">अं</text>
+        <rect x="50" y="300" width="50" height="50" class="cell" />
+        <text x="75" y="328" class="text">न</text>
+        <rect x="100" y="300" width="50" height="50" class="cell" />
+        <text x="125" y="328" class="text">प</text>
+        <rect x="150" y="300" width="50" height="50" class="cell" />
+        <text x="175" y="328" class="text">ध</text>
+        <rect x="200" y="300" width="50" height="50" class="cell" />
+        <text x="225" y="328" class="text">फ</text>
+        <rect x="250" y="300" width="50" height="50" class="cell" />
+        <text x="275" y="328" class="text">ब</text>
+        <rect x="300" y="300" width="50" height="50" class="cell" />
+        <text x="325" y="328" class="text">अः</text>
+
+        <!-- Row 8: 7 blocks -->
+        <rect x="0" y="350" width="50" height="50" class="cell" />
+        <text x="25" y="378" class="text">ए</text>
+        <rect x="50" y="350" width="50" height="50" class="cell" />
+        <text x="75" y="378" class="text">ढ</text>
+        <rect x="100" y="350" width="50" height="50" class="cell" />
+        <text x="125" y="378" class="text">ण</text>
+        <rect x="150" y="350" width="50" height="50" class="cell" />
+        <text x="175" y="378" class="text">झ</text>
+        <rect x="200" y="350" width="50" height="50" class="cell" />
+        <text x="225" y="378" class="text">त</text>
+        <rect x="250" y="350" width="50" height="50" class="cell" />
+        <text x="275" y="378" class="text">थ</text>
+        <rect x="300" y="350" width="50" height="50" class="cell" />
+        <text x="325" y="378" class="text">ऐ</text>
+
+        <!-- Row 9: 5 blocks -->
+        <rect x="50" y="400" width="50" height="50" class="cell" />
+        <text x="75" y="428" class="text">ऋ</text>
+        <rect x="100" y="400" width="50" height="50" class="cell" />
+        <text x="125" y="428" class="text">च</text>
+        <rect x="150" y="400" width="50" height="50" class="cell" />
+        <text x="175" y="428" class="text">ग</text>
+        <rect x="200" y="400" width="50" height="50" class="cell" />
+        <text x="225" y="428" class="text">छ</text>
+        <rect x="250" y="400" width="50" height="50" class="cell" />
+        <text x="275" y="428" class="text">ॠ</text>
+
+        <!-- Row 10: 3 blocks -->
+        <rect x="100" y="450" width="50" height="50" class="cell" />
+        <text x="125" y="478" class="text">इ</text>
+        <rect x="150" y="450" width="50" height="50" class="cell" />
+        <text x="175" y="478" class="text">क</text>
+        <rect x="200" y="450" width="50" height="50" class="cell" />
+        <text x="225" y="478" class="text">ई</text>
+
+        <!-- Row 11: 1 block -->
+        <rect x="150" y="500" width="50" height="50" class="cell" />
+        <text x="175" y="528" class="text">स</text>
+
+        <!-- Lower text caption -->
+        <text x="175" y="610" class="bottom-text">॥ वज्रेणास्य मुखे जहि स संपिष्टो अपायति ॥</text>
+    </g>
+</svg>
