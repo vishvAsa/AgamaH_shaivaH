@@ -1,0 +1,64 @@
+{
+  "M00160": {
+    "Catalog number": "M00160",
+    "Uniform title": "Mālinīvijayottaratantra",
+    "Description": "Photographed from volume 37 of the Kashmir Series of Texts and Studies.",
+    "Notes": "The corrections listed in the printed edition have been made directly to the text.\n\nDate-entered by the staff of Muktabodha under the direction of Mark S.G. Dyxzkowski.\n\nRevision 0: January 31, 2015\nRevision 1: October 1, 2021 Removed front material",
+    "Publication year": "1922",
+    "Publication country": "India",
+    "file_size": 166.8,
+    "Traditions": [
+      "Trika"
+    ],
+    "Main title": "mālinīvijayatantra",
+    "Editor": "śāstrī M.R.",
+    "Publication city": "Srinagar",
+    "Publisher": "Research Department Jammu and Kashmir State",
+    "KSTS vols": [
+      37
+    ]
+  },
+  "M00308": {
+    "Catalog number": "M00308",
+    "Uniform title": "Parākramapūjā",
+    "Manuscript": "Last part of NGMCP manuscript no.: 5-4656 Reel No.: A 175/11",
+    "Description": "Description by Mark S.G. Dyczkowski:\nThe text, which is unnamed, is copied is a part of a manuscript that\nbegins with Aśeṣakulavallarī. I have called it Parākramapujā. It tells us that\nit belongs to the tradition called Aśeṣāmbhavīmata. Parā, the goddess\nworshipped here, is also called Nityā. The worship takes places both internally\nand externally. The inner processes are described in detail. As usual the concern\nis with the flows of vital force and Kuṇḍalinī. The offering of wine and other\ndetails confirm the Kaula character of the outer worship. The text supplies an\nextensive and numerous Mantras from which the close association with the\nśrīvidyā school is clear, although śrīcakra is not the object of worship.",
+    "Notes": "Revision 0: November 13, 2014\n\nData entered by the staff of Muktabodha under the supervision of Mark S.G. Dyczkowski.",
+    "Publication country": "India",
+    "file_size": 224.1,
+    "Traditions": [
+      "Trika"
+    ],
+    "Genre": "Paddhati"
+  },
+  "M00680": {
+    "Catalog number": "M00680",
+    "Uniform title": "Jayadrathayāmala Ṣaṭka 3",
+    "Manuscript": "NAK 5-1975, NGMPP A152/9, paper; Newari script; 236 folios; scribed in A.D. 1686/7",
+    "Notes": "Data-entered by the staff of Muktabodha under the supervision of Anirban Dash.\n\nVaranasi team metadata:\nNEPAL-GERMAN MANUSCRIPT PRESERVATION PROJECT\nNATIONAL ARCHIVES, KATHMANDU, NEPAL\nSubject : शैवतन्त्र\nManuscript Name : जयद्रथयामल\nManuscript No: 5-1975\nReel No:  A 152/9\nNo. of Leaves: 236\nSize in c.m. : 31 x 9\nScript : Newari\n\nRevision 0: Apr 9, 2026",
+    "Publication year": "2026",
+    "Publication country": "India",
+    "Traditions": [
+      "Kālīkulakrama",
+      "Trika",
+      "Bhairava Tantras",
+      "Śākta General",
+      "Kaula General"
+    ]
+  },
+  "M00681": {
+    "Catalog number": "M00681",
+    "Uniform title": "Jayadrathayāmala Ṣaṭka 4",
+    "Manuscript": "NAK 1.1468, NGMPP b122/4; paper; Newari script; 237 folios; scribed in A.D. 1626/7",
+    "Notes": "Data-entered by the staff of Muktabodha under the supervision of Anirban Dash.\n\nVaranasi team metadata:\nNATIONAL ARCHIVES NEPAL\nSubject : \"saivatantra\nJayadrathayaamala\nManuscript No. 1-1468\nReel No. : B122/4\nNo. of leaves: 239\nRemarks: Paper, Newaariiscript\nSize: 33x8cm\n\nRevision 0: Apr 9, 2026",
+    "Publication year": "2026",
+    "Publication country": "India",
+    "Traditions": [
+      "Kālīkulakrama",
+      "Trika",
+      "Bhairava Tantras",
+      "Śākta General",
+      "Kaula General"
+    ]
+  }
+}
